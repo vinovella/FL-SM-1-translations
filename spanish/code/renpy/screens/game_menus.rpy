@@ -28,21 +28,21 @@ translate spanish strings:
 
     # game/code/renpy/screens/game_menus.rpy:161
     old "SAVE"
-    new "SAVE"
+    new "GUARDAR"
 
     # game/code/renpy/screens/game_menus.rpy:163
     old "LOAD"
-    new "LOAD"
+    new "CARGAR"
 
     # game/code/renpy/screens/game_menus.rpy:165
     old "Q.SAVE"
-    new "Q.SAVE"
+    new "GUARDADO RÁPIDO"
 
     # game/code/renpy/screens/game_menus.rpy:167
     old "Q.LOAD"
-    new "Q.LOAD"
+    new "CARGADO RÁPIDO"
 
     # game/code/renpy/screens/game_menus.rpy:169
     old "SETTINGS"
-    new "SETTINGS"
+    new "AJUSTES"
 

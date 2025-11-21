@@ -86,7 +86,7 @@ translate spanish q_inter_en_4_e2ac7364:
 translate spanish q_inter_en_4_59690215:
 
     # en "Ile razy mam ci powtarzać, żebyś korzystał ze swojego e-maila?"
-    en "Ile razy mam ci powtarzać, żebyś korzystał ze swojego e-maila? (¿Cuántas veces tengo que decirte que uses tu correo electrónico?)"
+    en "¿Cuántas veces tengo que decirte que uses tu correo electrónico?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-en.rpy:51
 translate spanish q_inter_en_4_a3aefbf0:
@@ -116,5 +116,5 @@ translate spanish q_inter_en_5_f6cd2d50:
 translate spanish q_inter_en_5_882773aa:
 
     # mc "How's your morning going, Eugene?"
-    mc "How's your morning going, Eugene?"
+    mc "¿Cómo va tu mañana, Eugene?"
 

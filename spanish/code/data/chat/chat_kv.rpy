@@ -2,7 +2,7 @@ translate spanish strings:
 
     # game/code/data/chat/chat_kv.rpy:3
     old "Hey Kanya."
-    new "Hola Kanya."
+    new "Hola, Kanya."
 
     # game/code/data/chat/chat_kv.rpy:3
     old "Hey stud."
@@ -10,19 +10,19 @@ translate spanish strings:
 
     # game/code/data/chat/chat_kv.rpy:3
     old "Hiya [mcname!i]."
-    new "Hola [mcname!i]."
+    new "Hola, [mcname!i]."
 
     # game/code/data/chat/chat_kv.rpy:3
     old "What's cooking?"
-    new "¿Qué se está cocinando?"
+    new "¿Qué se cocina?"
 
     # game/code/data/chat/chat_kv.rpy:3
     old "Stacy and I are planning to cook up a new film 🎬🎬🎬"
-    new "Stacy y yo planeamos cocinar una nueva película 🎬🎬🎬"
+    new "Stacy y yo planeamos preparar una nueva película 🎬🎬🎬"
 
     # game/code/data/chat/chat_kv.rpy:3
     old "Asking me to be the 🎥 girl again?"
-    new "¿Pídeme que sea la chica 🎥 de nuevo?"
+    new "¿Me estás pidiendo que sea la chica 🎥 otra vez?"
 
     # game/code/data/chat/chat_kv.rpy:3
     old "You know me too well."
@@ -30,7 +30,7 @@ translate spanish strings:
 
     # game/code/data/chat/chat_kv.rpy:3
     old "We haven't figured out the details."
-    new "No hemos concretado los detalles."
+    new "Aún no hemos definido los detalles."
 
     # game/code/data/chat/chat_kv.rpy:3
     old "But the client wants to focus on anal 🍑"
@@ -50,15 +50,13 @@ translate spanish strings:
 
     # game/code/data/chat/chat_kv.rpy:3
     old "Eww. So gross. Haha. Text me when you need me."
-    new "Eww. Es tan asqueroso. Jaja. Envíame un mensaje de texto cuando me necesites."
+    new "Eww. Qué asco. Jaja. Envíame un mensaje cuando me necesites."
 
     # game/code/data/chat/chat_kv.rpy:3
     old "Sure!"
-    new "¡Seguro!"
-
-translate spanish strings:
+    new "¡Claro!"
 
     # game/code/data/chat/chat_kv.rpy:3
     old "What's this one going to be about?"
-    new "What's this one going to be about?"
+    new "¿De qué va a tratar esta vez?"
 

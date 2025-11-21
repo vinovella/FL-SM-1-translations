@@ -30,7 +30,7 @@ translate spanish strings:
 
     # game/code/data/chat/chat_vs.rpy:3
     old "I tried to talk to her after, but she's avoiding me."
-    new "Traté de hablar con ella después, pero ella me está evitando."
+    new "Intenté hablar con ella después, pero me está evitando."
 
     # game/code/data/chat/chat_vs.rpy:3
     old "I don't get her."
@@ -38,7 +38,7 @@ translate spanish strings:
 
     # game/code/data/chat/chat_vs.rpy:3
     old "I think I know what's up with her."
-    new "Creo que sé lo que pasa con ella."
+    new "Creo que sé qué le pasa."
 
     # game/code/data/chat/chat_vs.rpy:3
     old "But I can't say why."
@@ -46,15 +46,15 @@ translate spanish strings:
 
     # game/code/data/chat/chat_vs.rpy:3
     old "What? You can't tease me like that, [mcname!i]."
-    new "¿Qué? No puedes burlarte de mí de esa manera, [mcname!i]."
+    new "¿Qué? No puedes provocarme así, [mcname!i]."
 
     # game/code/data/chat/chat_vs.rpy:3
     old "Wait, unless this is a FL thing."
-    new "Espera, a menos que esto sea una cosa del Localizador de Fetiches."
+    new "Espera, a menos que esto sea algo del Localizador de Fetiches."
 
     # game/code/data/chat/chat_vs.rpy:3
     old "Then tease away."
-    new "Entonces, bromea."
+    new "Entonces, adelante, bromea."
 
     # game/code/data/chat/chat_vs.rpy:3
     old "No. It's not about that. Kellie didn't want me to tell you."
@@ -62,7 +62,7 @@ translate spanish strings:
 
     # game/code/data/chat/chat_vs.rpy:3
     old "LOL. Well, now you have to tell me!"
-    new "JAJAJA. Bueno, ¡ahora tienes que decirme!"
+    new "JAJAJA. Bueno, ¡ahora tienes que decírmelo!"
 
     # game/code/data/chat/chat_vs.rpy:3
     old "Okay. Can you meet me?"

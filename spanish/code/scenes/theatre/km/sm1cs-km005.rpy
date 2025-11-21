@@ -50,7 +50,7 @@ translate spanish sm1cs_km005_164ac464:
 translate spanish sm1cs_km005_0fc1a486:
 
     # mc "Her?"
-    mc "¿Evitarla?"
+    mc "¿A ella?"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:59
 translate spanish sm1cs_km005_534ef34d:
@@ -62,7 +62,7 @@ translate spanish sm1cs_km005_534ef34d:
 translate spanish sm1cs_km005_e341676f:
 
     # mc "Huh. Funny you should mention her."
-    mc "Eh. Es curioso que debas mencionarla."
+    mc "Eh. Qué curioso que la menciones."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:67
 translate spanish sm1cs_km005_e4c79593:
@@ -80,7 +80,7 @@ translate spanish sm1cs_km005_a0d7542b:
 translate spanish sm1cs_km005_889b3e07:
 
     # mc "Uh. Yeah. She thinks the two of you can come up with something unique."
-    mc "Oh. Sí. Ella piensa que ustedes dos pueden encontrar algo único."
+    mc "Oh. Sí. Ella cree que ustedes dos pueden idear algo único."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:77
 translate spanish sm1cs_km005_1163fe56:
@@ -98,7 +98,7 @@ translate spanish sm1cs_km005_b113cb73:
 translate spanish sm1cs_km005_c43a1102:
 
     # mct "Okay, this is starting off rough."
-    mct "Bien, esto está empezando mal."
+    mct "Genial... esto empieza mal."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:85
 translate spanish sm1cs_km005_a82f7f00:
@@ -176,7 +176,7 @@ translate spanish sm1cs_km005_d47b36f3:
 translate spanish sm1cs_km005_4254fc69:
 
     # mc "A trick? Why would she be tricking you?"
-    mc "¿Un truco? ¿Por qué te estaría engañando?"
+    mc "¿Un truco? ¿Por qué te engañaría?"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:122
 translate spanish sm1cs_km005_713f5897:
@@ -200,7 +200,7 @@ translate spanish sm1cs_km005_0b83eab4:
 translate spanish sm1cs_km005_a2960a90:
 
     # km "Oh yes, because you're so good at keeping secrets. Just..."
-    km "Oh sí, porque eres muy bueno para mantener secretos. Sólo..."
+    km "Oh sí, porque eres muy bueno guardando secretos. Solo..."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:131
 translate spanish sm1cs_km005_fbf721d8:
@@ -290,7 +290,7 @@ translate spanish sm1cs_km005_84d61b01:
 translate spanish sm1cs_km005_915ea128:
 
     # mc "Wait. Liking her photos? You've been looking through Veronica's photos on Gram?"
-    mc "Espera. ¿Le gustan tus fotos? ¿Has estado mirando las fotos de Verónica en Gram?"
+    mc "Espera. ¿Dándole like a sus fotos? ¿Has estado mirando las fotos de Verónica en Gram?"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:168
 translate spanish sm1cs_km005_af8e22ff:
@@ -308,7 +308,7 @@ translate spanish sm1cs_km005_667f267e:
 translate spanish sm1cs_km005_97ffde2c:
 
     # km "Gah. Never mind. I'm not falling for it. Nice try, [mcname]. But you failed your mission. So goodbye."
-    km "Gah. No importa. No me estoy enamorando de ello. Buen intento, [mcname]. Pero fallaste en tu misión. Así que adiós."
+    km "Gah. No importa. No voy a caer en eso. Buen intento, [mcname]. Pero fallaste en tu misión. Así que adiós."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:175
 translate spanish sm1cs_km005_ea338235:
@@ -866,7 +866,7 @@ translate spanish sm1cs_km005_11f4f907:
 translate spanish sm1cs_km005_9dc690bc:
 
     # km "So I just... go in like this?"
-    km "Entonces solo... ¿Entra así?"
+    km "Entonces solo… ¿así?"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:448
 translate spanish sm1cs_km005_d2288bee:
@@ -908,7 +908,7 @@ translate spanish sm1cs_km005_b1697c9c:
 translate spanish sm1cs_km005_fd7e7e18:
 
     # mc "I mean, it's just because of how amazing your tits are."
-    mc "Quiero decir, es solo por lo increíbles que son tus tetas."
+    mc "Quiero decir, es que tienes unas tetas increíbles."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:469
 translate spanish sm1cs_km005_1c479c35:
@@ -920,7 +920,7 @@ translate spanish sm1cs_km005_1c479c35:
 translate spanish sm1cs_km005_9a4f9346:
 
     # mc "Okay. Well I guess you just kind of squeeze your tits together like they're bread for a sandwich."
-    mc "Bueno. Bueno, supongo que solo aprietas tus tetas como si fueran pan para un sándwich."
+    mc "Bueno. Bueno, supongo que solo aprietas tus tetas como si fueran las rebanadas de un sándwich."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:475
 translate spanish sm1cs_km005_35b08d2d:
@@ -944,7 +944,7 @@ translate spanish sm1cs_km005_477b87b8:
 translate spanish sm1cs_km005_8b2471a4:
 
     # mc "Oh momma."
-    mc "Oh mamá."
+    mc "Oh, dios."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:489
 translate spanish sm1cs_km005_72f238a8:
@@ -956,7 +956,7 @@ translate spanish sm1cs_km005_72f238a8:
 translate spanish sm1cs_km005_26046402:
 
     # mc "Haha. Sorry. Your tits just feel really good."
-    mc "Jaja. Lo siento. Tus tetas se sienten realmente bien."
+    mc "Jaja. Lo siento. Tus tetas se sienten increíble."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:491
 translate spanish sm1cs_km005_e61d7f80:
@@ -968,7 +968,7 @@ translate spanish sm1cs_km005_e61d7f80:
 translate spanish sm1cs_km005_49135746:
 
     # mc "I'm not. Your tits are really perfect for this."
-    mc "No lo hago. Tus tetas son realmente perfectas para esto."
+    mc "No me burlo. Tus tetas son realmente perfectas para esto."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:495
 translate spanish sm1cs_km005_debd4bc9_2:
@@ -1184,7 +1184,7 @@ translate spanish sm1cs_km005_a487a67f:
 translate spanish sm1cs_km005_aaced226:
 
     # km "Promise me that you won't tell Veronica I was looking through her stuff, [mcname]."
-    km "Prométeme que no le dirás a Verónica que estaba mirando tus cosas, [mcname]."
+    km "Prométeme que no le dirás a Verónica que estaba mirando sus cosas, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:609
 translate spanish sm1cs_km005_b0ac8bbb:
@@ -1340,11 +1340,11 @@ translate spanish strings:
 translate spanish sm1cs_km005_22270354:
 
     # mc "Says the girl with hard nipples poking at her top."
-    mc "Says the girl with hard nipples poking at her top."
+    mc "Lo dice la chica con los pezones duros marcándose en la camiseta."
 
 translate spanish strings:
 
     # game/code/scenes/theatre/km/sm1cs-km005.rpy:535
     old "That was good. But now we've got a little mess to clean up"
-    new "That was good. But now we've got a little mess to clean up"
+    new "Eso estuvo bien. Pero ahora tenemos un pequeño desastre que limpiar."
 

@@ -92,7 +92,7 @@ translate spanish sm1cs_km004_1e769ab0:
 translate spanish sm1cs_km004_d551a398:
 
     # km "Watch the door, I'll be done in two minutes."
-    km "Vigila la puerta, terminaré en dos minutos."
+    km "Vigila la puerta, termino en dos minutos."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:84
 translate spanish sm1cs_km004_0ffb15aa:
@@ -170,7 +170,7 @@ translate spanish sm1cs_km004_c696c919:
 translate spanish sm1cs_km004_2f30d783:
 
     # km "She's such a ditz, she won't notice until it's too late."
-    km "Es tan tonta que no se dará cuenta hasta que sea demasiado tarde."
+    km "Es tan despistada que no se dará cuenta hasta que sea demasiado tarde."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:126
 translate spanish sm1cs_km004_06cb71d9:
@@ -182,7 +182,7 @@ translate spanish sm1cs_km004_06cb71d9:
 translate spanish sm1cs_km004_623caab6:
 
     # mct "Crap. Someone is coming."
-    mct "Tonterías. Alguien viene."
+    mct "Mierda. Alguien viene."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:130
 translate spanish sm1cs_km004_599caf3d:
@@ -248,7 +248,7 @@ translate spanish sm1cs_km004_da716c1d:
 translate spanish sm1cs_km004_72f4a26d:
 
     # mc "You should keep clear for a few minutes."
-    mc "Debe mantenerse despejado durante unos minutos."
+    mc "Deberías mantenerte alejada unos minutos."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:174
 translate spanish sm1cs_km004_3e6322f8:
@@ -326,7 +326,7 @@ translate spanish sm1cs_km004_29844415:
 translate spanish sm1cs_km004_79c3d3c4:
 
     # tl "And you'll be lucky if I don't make it my life's work to keep you tied up backstage if this thing is a stinker and a lurker."
-    tl "Y tendrás suerte si no me empeño en tenerte atado entre bastidores si esto es un apestado y un merodeador."
+    tl "Y tendrás suerte si no me empeño en tenerte atado entre bastidores si esto apesta y el olor se queda rondando."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:229
 translate spanish sm1cs_km004_fb09713d:
@@ -476,7 +476,7 @@ translate spanish sm1cs_km004_4d307445:
 translate spanish sm1cs_km004_e72cd1a6:
 
     # km "Very dark, and uh... intimidating."
-    km "Muy oscuro, y uh... intimidante."
+    km "Muy oscuro e intimidante."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:313
 translate spanish sm1cs_km004_4a9c704c:
@@ -560,7 +560,7 @@ translate spanish sm1cs_km004_9e6f11df:
 translate spanish sm1cs_km004_95ccb463:
 
     # tl "Yes. And if any part of this was your idea, I'm kicking your ass after hers."
-    tl "Sí. Y si alguna parte de esto fue idea tuya, te patearé el culo después del suyo."
+    tl "Sí. Y si alguna parte de esto fue idea tuya, te patearé el culo después del de ella."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:369
 translate spanish sm1cs_km004_c73bd862:
@@ -632,7 +632,7 @@ translate spanish sm1cs_km004_warehouse_6d785eae:
 translate spanish sm1cs_km004_warehouse_be5f03b1:
 
     # km "Her bark is worse than her bite."
-    km "Su corteza es peor que su mordida."
+    km "Ladra más de lo que muerde."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:424
 translate spanish sm1cs_km004_warehouse_d264663e:
@@ -794,7 +794,7 @@ translate spanish sm1cs_km004_locker_7eb0e2b9:
 translate spanish sm1cs_km004_locker_6a9eda10:
 
     # km "Trade secret."
-    km "Secreto comercial."
+    km "Secreto profesional."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:512
 translate spanish sm1cs_km004_locker_37aaed28:
@@ -848,7 +848,7 @@ translate spanish sm1cs_km004_locker_5be8d1ea:
 translate spanish sm1cs_km004_locker_adda5bb4:
 
     # vs "Oh well. I'm sure they'll turn up."
-    vs "Oh bueno. Estoy segura de que aparecerán."
+    vs "Bueno, da igual. Estoy segura de que aparecerán."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:563
 translate spanish sm1cs_km004_locker_260cc453:
@@ -1466,7 +1466,7 @@ translate spanish sm1cs_km004_later_fe8cccfb:
 translate spanish sm1cs_km004_later_07cba895:
 
     # vs "Oh my god. We could make it a Blitz Alert!"
-    vs "Dios mío. ¡Podríamos hacer una Alerta relámpago!"
+    vs "Dios mío. ¡Podríamos hacer un desafío relámpago!"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:950
 translate spanish sm1cs_km004_later_6df51a83:
@@ -1520,13 +1520,13 @@ translate spanish sm1cs_km004_later_18d7b4cb:
 translate spanish sm1cs_km004_later_e06e0046:
 
     # vs "Did I just blank out for a minute, or did Taisia steal Kellie's clothes?"
-    vs "¿Me quedé en blanco por un minuto, o Taisia le robó la ropa a Kellie?"
+    vs "¿Me quedé en blanco un minuto, o Taisia le robó la ropa a Kellie?"
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:981
 translate spanish sm1cs_km004_later_02971d9c:
 
     # mc "No, your eyes work fine. There is a naked Kellie running down the halls of the theater right now."
-    mc "No, tus ojos funcionan bien. Hay una kellie desnuda corriendo por los pasillos del teatro en este momento."
+    mc "No, tus ojos funcionan bien. Hay una Kellie desnuda corriendo por los pasillos del teatro en este momento."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:984
 translate spanish sm1cs_km004_later_8509c19e:
@@ -1622,29 +1622,29 @@ translate spanish strings:
 translate spanish sm1cs_km004_stage_79692656:
 
     # vs "What's Montague? It is nor hand nor foot."
-    vs "What's Montague? It is nor hand nor foot."
+    vs "¿Qué es Montesco? No es mano ni pie."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:206
 translate spanish sm1cs_km004_6fdfaeb6:
 
     # tl "To see if this is a bannable offense, you uncivilized ogre."
-    tl "To see if this is a bannable offense, you uncivilized ogre."
+    tl "Para ver si esto merece una sanción, ogro incivilizado."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:666
 translate spanish sm1cs_km004_stage_c13052d4:
 
     # vs "What's in a name? That which we call a rose."
-    vs "What's in a name? That which we call a rose."
+    vs "¿Qué hay en un nombre? Aquello que llamamos rosa..."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:681
 translate spanish sm1cs_km004_stage_4661a3df:
 
     # dvh "Exquisite, Veronica."
-    dvh "Exquisite, Veronica."
+    dvh "Exquisito, Verónica."
 
 translate spanish strings:
 
     # game/code/scenes/theatre/km/sm1cs-km004.rpy:32
     old "Yeah, it's exciting"
-    new "Yeah, it's exciting"
+    new "Sí, es emocionante."
 

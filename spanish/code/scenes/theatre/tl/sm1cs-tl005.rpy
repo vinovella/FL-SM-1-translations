@@ -2,7 +2,7 @@
 translate spanish sm1cs_tl005_e36ea6c1:
 
     # mct "Fuck, this place is still creepy as hell..."
-    mct "Joder, este lugar sigue siendo espeluznante como el infierno..."
+    mct "Joder, este lugar sigue siendo espeluznante..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:18
 translate spanish sm1cs_tl005_a98a1ec3:
@@ -38,7 +38,7 @@ translate spanish sm1cs_tl005_5f0f9130:
 translate spanish sm1cs_tl005_f326e96a:
 
     # mct "That she's not in her clown makeup."
-    mct "Que no está en su maquillaje de payaso."
+    mct "Que no esté maquillada de payaso."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:32
 translate spanish sm1cs_tl005_584cfff0:
@@ -80,13 +80,13 @@ translate spanish sm1cs_tl005_8dce0e62:
 translate spanish sm1cs_tl005_a44163a1:
 
     # tl "I wasn't sneaking, I was clocking out."
-    tl "No estaba sigilosamente, estaba saliendo del trabajo."
+    tl "No estaba ocultándome, estaba saliendo del trabajo."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:60
 translate spanish sm1cs_tl005_46dbdd82:
 
     # mc "Still! You can't walk around all quiet like that dressed up like that scary ass clown!"
-    mc "¡Aún así! ¡No puedes andar por ahí tan tranquila vestida como ese payaso que da miedo!"
+    mc "¡Igual, no puedes andar por ahí tan callada vestida como ese payaso que da miedo!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:72
 translate spanish sm1cs_tl005_81208e93:
@@ -314,13 +314,13 @@ translate spanish sm1cs_tl005_fountain_84cbdfd7:
 translate spanish sm1cs_tl005_fountain_d9e04d20:
 
     # tl "{i}It was the usual thing. I hid in my spot, heard him come in talking all big.{/i}"
-    tl "{i} Era lo habitual. Me escondí en mi lugar, lo escuché venir a hablar en grande.{/i}"
+    tl "{i}Era lo habitual. Me escondí en mi lugar, lo escuché entrar hablando en grande.{/i}"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:222
 translate spanish sm1cs_tl005_fountain_ee6021a2:
 
     # tl "{i}\"Oh, I ain't scared of shit. Only pussies get scared in haunted houses.\"{/i}"
-    tl "{i}\"Oh, no me asusta una mierda. Sólo los maricas se asustan en las casas embrujadas.\"{/i}"
+    tl "{i}\"Oh, no me asusta una mierda. Solo los cobardes se asustan en las casas embrujadas.\"{/i}"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:227
 translate spanish sm1cs_tl005_fountain_8e3b0981:
@@ -338,7 +338,7 @@ translate spanish sm1cs_tl005_fountain_6a3c1c9e:
 translate spanish sm1cs_tl005_fountain_71a8b671:
 
     # tl "{i}Worse, actually. You ever heard the noise makes when a little rabbit gets caught?{/i}"
-    tl "{i}Peor, en realidad. ¿Alguna vez has escuchado el ruido que hace cuando un pequeño conejo es atrapado?{/i}"
+    tl "{i}Peor, en realidad. ¿Alguna vez has escuchado el ruido que hace un pequeño conejo cuando lo atrapan?{/i}"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:238
 translate spanish sm1cs_tl005_fountain_c3439e6d:
@@ -362,7 +362,7 @@ translate spanish sm1cs_tl005_fountain_6b15e22d:
 translate spanish sm1cs_tl005_fountain_e4543526:
 
     # tl "And then he looked at me, super pissed. Started screaming all the usual shit."
-    tl "Y entonces me miró, super enojado. Empezó a gritar toda la mierda de siempre."
+    tl "Y entonces me miró, súper enojado. Empezó a gritar toda la mierda de siempre."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:248
 translate spanish sm1cs_tl005_fountain_7abbd505:
@@ -458,7 +458,7 @@ translate spanish sm1cs_tl005_fountain_c8109153:
 translate spanish sm1cs_tl005_fountain_80eea7ec:
 
     # tl "Anyways, that's enough of me spilling my guts for one night."
-    tl "De todos modos, eso es suficiente de mí derramando mis entrañas por una noche."
+    tl "De todos modos, ya he sido suficiente sincera por una noche."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:289
 translate spanish sm1cs_tl005_fountain_fd394cc8:
@@ -476,13 +476,13 @@ translate spanish sm1cs_tl005_fountain_1b400966:
 translate spanish sm1cs_tl005_fountain_4fe61dce:
 
     # tl "The hell are you looking at me like that for?"
-    tl "¿Al diablo me estás mirando así?"
+    tl "¿Por qué diablos me miras así?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:297
 translate spanish sm1cs_tl005_fountain_37c76e83:
 
     # tl "The fuck..."
-    tl "A la mierda..."
+    tl "Mierda..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:300
 translate spanish sm1cs_tl005_fountain_a6829ec5:
@@ -506,7 +506,7 @@ translate spanish sm1cs_tl005_fountain_023c5d81:
 translate spanish sm1cs_tl005_fountain_072f1038:
 
     # tl "I..."
-    tl "I..."
+    tl "Yo..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:309
 translate spanish sm1cs_tl005_fountain_a4cd1341:
@@ -578,7 +578,7 @@ translate spanish sm1cs_tl005_fountain_e4ae8385:
 translate spanish sm1cs_tl005_fountain_8efa3174:
 
     # tl "And I swear to god, if you tell anyone this, I will end you."
-    tl "Y lo juro por Dios, si le dices esto a alguien, te terminaré."
+    tl "Y lo juro por Dios, si le dices esto a alguien, te destruyo."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:344
 translate spanish sm1cs_tl005_fountain_2915dd90:
@@ -596,7 +596,7 @@ translate spanish sm1cs_tl005_fountain_f8156df4:
 translate spanish sm1cs_tl005_fountain_e33159a5:
 
     # tl "Otherwise I'm not putting out anymore."
-    tl "Si no, no follo más contigo."
+    tl "Si no, no vuelvo a follar contigo."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:351
 translate spanish sm1cs_tl005_fountain_2b5ed3c4:
@@ -604,21 +604,19 @@ translate spanish sm1cs_tl005_fountain_2b5ed3c4:
     # mc "Hahahaha!"
     mc "¡Jajaja!"
 
+# game/code/scenes/theatre/tl/sm1cs-tl005.rpy:39
 translate spanish strings:
 
-    # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:39
     old "Scream"
     new "Gritar"
 
-    # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:39
     old "Slap"
     new "Bofetada"
 
-    # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:185
+# game/code/scenes/theatre/tl/sm1cs-tl005.rpy:185
     old "Call her out"
     new "Enfrentarla"
 
-    # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:185
     old "Let her tell you in her own time"
-    new "Dejala que te lo diga a su debido tiempo"
+    new "Déjala que te lo diga a su debido tiempo"
 

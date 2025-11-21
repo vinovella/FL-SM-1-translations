@@ -38,7 +38,7 @@ translate spanish sm1cs_mh003_025d91b7:
 translate spanish sm1cs_mh003_eb6ef422:
 
     # mc "Okaaaay. Anyway, Lyssa said that she got some of the paperwork stuff sorted out for us."
-    mc "Biiieeen. De todas formas, Lyssa dijo que nos había arreglado algo del papeleo."
+    mc "Bueeeno. De todas formas, Lyssa dijo que nos había arreglado algo del papeleo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:30
 translate spanish sm1cs_mh003_8b77f594:
@@ -188,7 +188,7 @@ translate spanish sm1cs_mh003_306f1308:
 translate spanish sm1cs_mh003_523d2619:
 
     # mh "Of course! I would be lying if I didn't say that I had some fun figuring this out for you."
-    mh "Por supuesto. Mentiría si no dijera que me lo he pasado bien pensando en ustedes."
+    mh "Por supuesto. Mentiría si dijera que no me divertí averiguando esto para ustedes."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:118
 translate spanish sm1cs_mh003_0b1480a5:
@@ -344,7 +344,7 @@ translate spanish sm1cs_mh003_ac9cc28d:
 translate spanish sm1cs_mh003_523b741a:
 
     # mh "Please, you two are... Friends. It's the least I could do."
-    mh "Por favor, ustedes dos son... amigos. Es lo menos que pude hacer."
+    mh "Por favor, ustedes dos son... amigos. Es lo menos que podía hacer."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:183
 translate spanish sm1cs_mh003_fb92232b:
@@ -482,7 +482,7 @@ translate spanish sm1cs_mh003_romance_75b1278c:
 translate spanish sm1cs_mh003_romance_cdf70a80:
 
     # mh "Yep. Simple as that. He made his decision and..."
-    mh "Sí. Simple como eso. Tomó su decisión y..."
+    mh "Sí. Tan simple como eso. Tomó su decisión y..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:257
 translate spanish sm1cs_mh003_romance_33009130:
@@ -494,7 +494,7 @@ translate spanish sm1cs_mh003_romance_33009130:
 translate spanish sm1cs_mh003_romance_0cc75ad5:
 
     # mh "It's fine. I've... I've come to terms with it."
-    mh "Está bien. He... he llegado a un acuerdo con eso."
+    mh "Está bien. He... he llegado a aceptarlo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:263
 translate spanish sm1cs_mh003_romance_0b3a1cf1:
@@ -548,7 +548,7 @@ translate spanish sm1cs_mh003_romance_c2fd5fcb:
 translate spanish sm1cs_mh003_romance_16d7733a:
 
     # mh "I think, I would be open to you trying to pursue me."
-    mh "Creo que estaría abierta a que intentaras perseguirme."
+    mh "Creo que estaría abierta a que intentaras cortejarme."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:285
 translate spanish sm1cs_mh003_romance_e4288785:
@@ -572,7 +572,7 @@ translate spanish sm1cs_mh003_romance_05500ff6:
 translate spanish sm1cs_mh003_romance_bea65174:
 
     # mh "Last time our relationship started... Chaotically. This time, I want you to put in the leg work. I want you to take me on dates, wine and dine me."
-    mh "La última vez nuestra relación comenzó... Caóticamente. Esta vez, quiero que te esfuerces. Quiero que me lleves a citas, que me des vino y me invites a cenar."
+    mh "La última vez nuestra relación comenzó... de forma caótica. Esta vez, quiero que te esfuerces. Quiero que me lleves a citas, que me des vino y me invites a cenar."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:297
 translate spanish sm1cs_mh003_romance_b8117695:

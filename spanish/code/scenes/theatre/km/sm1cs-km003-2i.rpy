@@ -14,13 +14,13 @@ translate spanish sm1cs_km003_2i_4f20e3d1:
 translate spanish sm1cs_km003_2i_8f2fdf82:
 
     # mc "So what do you think about the new show?"
-    mc "Entonces, ¿qué piensas sobre el nuevo programa?"
+    mc "Entonces, ¿qué piensas de la nueva obra?"
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:14
 translate spanish sm1cs_km003_2i_c08a4561:
 
     # km "I think it's too early to tell. But I'm glad Denise took my idea to make something like Romeo and Juliet."
-    km "Creo que es demasiado temprano para decirlo. Pero me alegro de que Denise tomó mi idea para hacer algo como Romeo y Julieta."
+    km "Creo que es demasiado temprano para decirlo. Pero me alegra que Denise haya tomado mi idea para hacer algo como Romeo y Julieta."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:16
 translate spanish sm1cs_km003_2i_a5f9c06f:
@@ -32,7 +32,7 @@ translate spanish sm1cs_km003_2i_a5f9c06f:
 translate spanish sm1cs_km003_2i_c0966333:
 
     # km "I guess so. But we'll see how it turns out when Denise shows us a script."
-    km "Supongo que sí. Pero veremos cómo resulta cuando Denise nos muestre un guión."
+    km "Supongo que sí. Pero veremos cómo resulta cuando Denise nos enseñe el guión."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:18
 translate spanish sm1cs_km003_2i_bf4aa827:
@@ -44,7 +44,7 @@ translate spanish sm1cs_km003_2i_bf4aa827:
 translate spanish sm1cs_km003_2i_88e390ae:
 
     # km "What? No. It's a classic play. It should be easy to add the elements the sponsor wants."
-    km "¿Qué? No. Es una obra clásica. Debería ser fácil agregar los elementos que el patrocinador quiere."
+    km "¿Qué? No. Es una obra clásica. Debería ser fácil añadir los elementos que quiere el patrocinador."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:24
 translate spanish sm1cs_km003_2i_a8daba0a:
@@ -56,7 +56,7 @@ translate spanish sm1cs_km003_2i_a8daba0a:
 translate spanish sm1cs_km003_2i_e8d0ee2e:
 
     # km "And since it's easy, that means you might actually have a chance to become an actor for the show."
-    km "Y como es fácil, eso significa que podrías tener la oportunidad de convertirte en actor del programa."
+    km "Y como es fácil, eso significa que podrías tener la oportunidad de convertirte en actor de la obra."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:51
 translate spanish sm1cs_km003_2i_b4b8a7e0:
@@ -86,7 +86,7 @@ translate spanish sm1cs_km003_2i_f8c4c766:
 translate spanish sm1cs_km003_2i_90369a4a:
 
     # km "Well I've recovered from our last disaster together."
-    km "Bueno, me he recuperado de nuestro último desastre juntos."
+    km "Bueno, ya me recuperé de nuestro último desastre juntos."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:63
 translate spanish sm1cs_km003_2i_a4deb281:
@@ -182,7 +182,7 @@ translate spanish sm1cs_km003_2i_menu_13a52f62:
 translate spanish sm1cs_km003_2i_menu_e73ff1ed:
 
     # km "The theater should be scary."
-    km "El teatro debe dar miedo."
+    km "El teatro debería imponer un poco."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:114
 translate spanish sm1cs_km003_2i_menu_a31340dd:
@@ -260,29 +260,29 @@ translate spanish sm1cs_km003_2i_menu_716019b8:
 translate spanish sm1cs_km003_2i_c20b6007:
 
     # km "*scoffs.*"
-    km "*scoffs.*"
+    km "*resopla.*"
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:127
 translate spanish sm1cs_km003_2i_menu_e67aa3d0:
 
     # km "Let's go to the main stage."
-    km "Let's go to the main stage."
+    km "amos al escenario principal."
 
 translate spanish strings:
 
     # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:55
     old "To be honest, I've been slacking. Lots of stuff going on"
-    new "To be honest, I've been slacking. Lots of stuff going on"
+    new "Si soy sincero, he estado flojo. Han pasado muchas cosas."
 
     # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:55
     old "I've been doing alright. But I could use help"
-    new "I've been doing alright. But I could use help"
+    new "Lo he estado haciendo bien… pero me vendría bien algo de ayuda."
 
     # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:99
     old "Alright, let's do another lesson"
-    new "Alright, let's do another lesson"
+    new "Bien, hagamos otra lección."
 
     # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:99
     old "Veronica doesn't seem to do that"
-    new "Veronica doesn't seem to do that"
+    new "Verónica no parece hacer eso."
 

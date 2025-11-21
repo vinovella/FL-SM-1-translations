@@ -516,11 +516,11 @@ translate spanish strings:
 translate spanish sm1cs_dvh001_5264a337:
 
     # dvh "I shall return to the stage in a moment. Just need some time to breathe deep."
-    dvh "I shall return to the stage in a moment. Just need some time to breathe deep."
+    dvh "Volveré al escenario en un momento. Solo necesito un poco de tiempo para respirar hondo."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh001.rpy:213
 translate spanish sm1cs_dvh001_169f969d:
 
     # dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on you."
-    dvh "I do see potential in you. But until I see that you are not just another Bram, I'm not going to waste any extra time on you."
+    dvh "Veo potencial en ti. Pero hasta que demuestres que no eres solo otro Bram, no voy a perder más tiempo contigo."
 

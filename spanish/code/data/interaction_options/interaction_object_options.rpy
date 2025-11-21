@@ -14,11 +14,11 @@ translate spanish strings:
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Read Stars Weekly"
-    new "Lee Stars Weekly"
+    new "Lee Semanario de las Estrellas"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Buy Energy Drink - $25"
-    new "Comprar bebida energética - $25"
+    new "Comprar bebida energética $25"
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Read Fashion Magazine"
@@ -52,5 +52,5 @@ translate spanish strings:
 
     # game/code/data/interaction_options/interaction_object_options.rpy:3
     old "Check Laptop"
-    new "Check Laptop"
+    new "Revisar el portátil"
 

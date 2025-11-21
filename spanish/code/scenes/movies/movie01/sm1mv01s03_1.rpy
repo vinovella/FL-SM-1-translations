@@ -234,13 +234,11 @@ translate spanish sm1mv01s03_1_later_964243c2:
 
 # game/code/scenes/movies/movie01/sm1mv01s03_1.rpy:191
 translate spanish sm1mv01s03_1_later_6e3c1f01:
-
     # mc "Oh yeah, I got it."
     mc "Oh, sí, lo tengo."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_1.rpy:193
 translate spanish sm1mv01s03_1_later_2b35b6fe:
-
     # mc "..."
     mc "..."
 
@@ -366,7 +364,6 @@ translate spanish sm1mv01s03_1_later_22a44c67:
 
 # game/code/scenes/movies/movie01/sm1mv01s03_1.rpy:255
 translate spanish sm1mv01s03_1_later_9881e95d:
-
     # mc "Mmmm. Not here either."
     mc "Mmmm. Tampoco está aquí."
 
@@ -437,8 +434,7 @@ translate spanish sm1mv01s03_1_later_f166e1d4:
     mc "Je. Claro..."
 
 translate spanish strings:
-
     # game/code/scenes/movies/movie01/sm1mv01s03_1.rpy:172
+
     old "Two mind-numbing hours later"
     new "Dos horas insoportables después"
-

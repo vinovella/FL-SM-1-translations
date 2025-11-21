@@ -116,17 +116,19 @@
     old "Nelly"
     new "Nelly"
 
+translate spanish strings:
+
     # game/code/data/characters/characters.rpy:3
     old "Creepy"
-    new "Creepy"
+    new "Siniestro"
 
     # game/code/data/characters/characters.rpy:3
     old "Guy"
-    new "Guy"
+    new "Tipo"
 
     # game/code/data/characters/characters.rpy:3
     old "Dog"
-    new "Dog"
+    new "Perro"
 
     # game/code/data/characters/characters.rpy:3
     old "Walker"
@@ -134,5 +136,5 @@
 
     # game/code/data/characters/characters.rpy:3
     old "Driver"
-    new "Driver"
+    new "Conductor"
 

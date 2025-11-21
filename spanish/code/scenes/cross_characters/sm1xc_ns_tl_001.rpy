@@ -670,7 +670,7 @@ translate spanish sm1xc_ns_tl_001_73b4fefc:
     # ns "*nod and smiles* Yes. Definitely in a good way."
     ns "*nod and smiles* Yes. Definitely in a good way."
 
-# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:191
+# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:213
 translate spanish sm1xc_ns_tl_001_4da1f062:
 
     # "[mcname] and Taisia" "Hahaha."

@@ -6,7 +6,7 @@ translate spanish strings:
 
     # game/code/classes/movie_controllers.rpy:99
     old "Pirate Movie"
-    new "Película Pirata"
+    new "Película pirata"
 
     # game/code/classes/movie_controllers.rpy:109
     old "You have filled the budget already"
@@ -34,60 +34,59 @@ translate spanish strings:
 
     # game/code/classes/movie_controllers.rpy:211
     old "Sci-Fi Movie"
-    new "Película de Ciencia Ficción"
+    new "Película de ciencia ficción"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Costume Budget"
-    new "Costume Budget"
+    new "Presupuesto de vestuario"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Actress Budget"
-    new "Actress Budget"
+    new "Presupuesto de actrices"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Props Budget"
-    new "Props Budget"
+    new "Presupuesto de utilería"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Props Design"
-    new "Props Design"
+    new "Diseño de utilería"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Travel Budget"
-    new "Travel Budget"
+    new "Presupuesto de viaje"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Movie Editing"
-    new "Movie Editing"
+    new "Edición de la película"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Set Budget"
-    new "Set Budget"
+    new "Presupuesto del set"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Set Design"
-    new "Set Design"
+    new "Diseño del set"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Outfit Design"
-    new "Outfit Design"
+    new "Diseño de vestuario"
 
     # game/code/classes/movie_controllers.rpy:45
     old "CGI Budget"
-    new "CGI Budget"
+    new "Presupuesto de CGI"
 
     # game/code/classes/movie_controllers.rpy:40
     old "[movie!t] release"
-    new "[movie!t] release"
+    new "Estreno de [movie!t]"
 
     # game/code/classes/movie_controllers.rpy:129
     old "Add $[amount] to [budget_name!t]"
-    new "Add $[amount] to [budget_name!t]"
+    new "Añadir $[amount] a [budget_name!t]"
 
     # game/code/classes/movie_controllers.rpy:150
     old "Spend [amount] Energy in [energy_name!t]"
-    new "Spend [amount] Energy in [energy_name!t]"
-
+    new "Gastar [amount] de energía en [energy_name!t]"
 translate spanish strings:
 
     # game/code/classes/movie_controllers.rpy:115

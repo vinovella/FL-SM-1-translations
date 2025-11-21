@@ -26,7 +26,7 @@ translate spanish sm1cs_km003_2_936f6496:
 translate spanish sm1cs_km003_2_6e2d6470:
 
     # mc "Uh. How do I ready my tongue?"
-    mc "Oh. ¿Cómo estoy preparado mi lengua?"
+    mc "Oh, joder. ¿En qué me está metiendo?"
 
 # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:28
 translate spanish sm1cs_km003_2_1ea997fc:
@@ -74,7 +74,7 @@ translate spanish sm1cs_km003_2_ab351b36:
 translate spanish sm1cs_km003_2_c2841ea3:
 
     # mc "Wait, what about tongue twisters?"
-    mc "Espera, ¿qué pasa con los Trabalenguas?"
+    mc "Espera, ¿qué pasa con los trabalenguas?"
 
 # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:54
 translate spanish sm1cs_km003_2_610aa97e:
@@ -146,13 +146,13 @@ translate spanish sm1cs_km003_2_6d86220d:
 translate spanish sm1cs_km003_2_cf970b05:
 
     # mct "You got this."
-    mct "Tienes esto."
+    mct "Puedes con esto."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:88
 translate spanish sm1cs_km003_2_358496d4:
 
     # mc "Red leather,{w} yellow leather."
-    mc "Cuero rojo, {w} Cuero amarillo."
+    mc "Cuero rojo, {w} cuero amarillo."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:89
 translate spanish sm1cs_km003_2_d6d37a4a:
@@ -260,7 +260,7 @@ translate spanish sm1cs_km003_2_after_montage_24b25b0f:
 translate spanish sm1cs_km003_2_after_montage_019ac094:
 
     # mc "\"The clouds me thought would open and show riches. {w}Ready to drop upon me, that when I waked,{w} I cried to dream again.\""
-    mc "\"Las nubes pensé que se abrirían y mostrarían riquezas.{w} Listas para caer sobre mí, que cuando desperté,{w} lloré para soñar de nuevo.\""
+    mc "\"Las nubes pensé que se abrirían y mostrarían riquezas.{w} Listas para caer sobre mí, y al despertar,{w} lloré deseando seguir soñando.\""
 
 # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:149
 translate spanish sm1cs_km003_2_after_montage_61457835:
@@ -308,7 +308,7 @@ translate spanish sm1cs_km003_2_after_montage_f6a82489:
 translate spanish sm1cs_km003_2_after_montage_67df6aac:
 
     # km "There is no try."
-    km "No hay intento."
+    km "Hazlo o no lo hagas."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:173
 translate spanish sm1cs_km003_2_after_montage_7a4b9da7:
@@ -344,7 +344,7 @@ translate spanish sm1cs_km003_2_after_montage_83b3fa23:
 translate spanish sm1cs_km003_2_after_montage_90bf2702:
 
     # km "No bad. Not bad at all, [mcname]."
-    km "No es malo. No está mal en absoluto, [mcname]."
+    km "Nada mal. Nada mal en absoluto, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:209
 translate spanish sm1cs_km003_2_after_montage_a31340dd_1:
@@ -386,7 +386,7 @@ translate spanish sm1cs_km003_2_after_montage_2ed83991:
 translate spanish sm1cs_km003_2_after_montage_01bc58cb:
 
     # km "I don't like being patronized, [mcname]."
-    km "No me gusta que me traten con condescendencia, [mcname]."
+    km "No me gusta que me trates como si fuera una niña, [mcname]."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:236
 translate spanish sm1cs_km003_2_after_montage_528accdb:
@@ -464,7 +464,7 @@ translate spanish sm1cs_km003_2_after_montage_63c0887d:
 translate spanish sm1cs_km003_2_after_montage_4d225274:
 
     # mc "Well, sure, but I still feel like you want to get something off your chest."
-    mc "Bueno, claro, pero todavía siento que quieres sacar algo de tu pecho."
+    mc "Bueno, claro, pero aún siento que quieres sacar algo que tienes guardado."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:281
 translate spanish sm1cs_km003_2_after_montage_023f19fd:
@@ -656,5 +656,5 @@ translate spanish strings:
 
     # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:30
     old "There must be a special form"
-    new "There must be a special form"
+    new "Debe haber una forma especial"
 

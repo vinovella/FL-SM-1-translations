@@ -128,5 +128,5 @@ translate spanish q_inter_jh_5_11809067:
 translate spanish q_inter_jh_5_527d1655:
 
     # jh "A Castle of Thistles and Orchids. Anna turned me on to them."
-    jh "A Castle of Thistles and Orchids. Anna turned me on to them."
+    jh "Un Castillo de Cardos y Orquídeas. Anna me los recomendó."
 

@@ -8,7 +8,7 @@ translate spanish sm1cs_tl002i_eb68a649:
 translate spanish sm1cs_tl002i_ec6f68f1:
 
     # mc "Hey Taisia... So, uhm..."
-    mc "Hola Taisia... entonces, uhm..."
+    mc "Hola, Taisia... entonces, uhm..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002i.rpy:13
 translate spanish sm1cs_tl002i_72b23046:
@@ -32,7 +32,7 @@ translate spanish sm1cs_tl002i_f62dd3c1:
 translate spanish sm1cs_tl002i_81aff84c:
 
     # mc "I'm... Coming up with nothing."
-    mc "Estoy... No se me ocurre nada."
+    mc "Estoy... no se me ocurre nada."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002i.rpy:25
 translate spanish sm1cs_tl002i_98914861:
@@ -44,7 +44,7 @@ translate spanish sm1cs_tl002i_98914861:
 translate spanish sm1cs_tl002i_0e8d8ed9:
 
     # mc "Wait! I think that I'm struggling with the fact that I don't really know a whole lot about you. I mean, some of the kink stuff, but not like your {i}vibe{/i}, you know?"
-    mc "¡Espera! Creo que estoy luchando con el hecho de que realmente no sé mucho sobre ti. Quiero decir, algunas cosas pervertidas, pero no como tu {i}vibra{/i}, ¿entiendes?"
+    mc "¡Espera! Creo que estoy lidiando con que realmente no sé mucho sobre ti. Quiero decir, algunas cosas de tus gustos, pero no tu {i}vibra{/i}, ¿entiendes?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002i.rpy:31
 translate spanish sm1cs_tl002i_da071411:
@@ -56,7 +56,7 @@ translate spanish sm1cs_tl002i_da071411:
 translate spanish sm1cs_tl002i_178a1605:
 
     # mc "No, not that kind of a vibe. I mean, what would be a good film for you, and what we would do, and a theme, and-"
-    mc "No, no ese tipo de vibra. Quiero decir, ¿qué sería una buena película para ti, y qué haríamos, y un tema, y..."
+    mc "No, no ese tipo de vibra. Quiero decir, qué sería una buena película para ti, qué haríamos, un tema, y..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002i.rpy:37
 translate spanish sm1cs_tl002i_6233f4c8:
@@ -68,7 +68,7 @@ translate spanish sm1cs_tl002i_6233f4c8:
 translate spanish sm1cs_tl002i_dbc16353:
 
     # mc "Look, all I'm suggesting is that we hang out and maybe something will come to me, you know?"
-    mc "Mira, todo lo que sugiero es que pasamos el rato y tal vez algo se me ocurra, ¿sabes?"
+    mc "Mira, lo único que sugiero es que pasemos el rato y quizá se me ocurra algo, ¿sabes?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002i.rpy:43
 translate spanish sm1cs_tl002i_a4c91e62:

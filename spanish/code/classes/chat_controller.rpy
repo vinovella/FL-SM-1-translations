@@ -28,7 +28,7 @@ translate spanish strings:
 
     # game/code/classes/chat_controller.rpy:196
     old "You need to have $[amount]"
-    new "You need to have $[amount]"
+    new "Necesitas tener $[amount]"
 
     # game/code/classes/chat_controller.rpy:197
     old "[chat_message!t] ([error_msg!t])"

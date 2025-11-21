@@ -20,15 +20,15 @@ translate spanish strings:
 
     # game/code/classes/player.rpy:104
     old "You just got $[amount]"
-    new "You just got $[amount]"
+    new "Acabas de recibir $[amount]"
 
     # game/code/classes/player.rpy:115
     old "You spent $[amount]"
-    new "You spent $[amount]"
+    new "Has gastado $[amount]"
 
 translate spanish strings:
 
     # game/code/classes/player.rpy:403
     old "You have improved in topic [topic!t]"
-    new "You have improved in topic [topic!t]"
+    new "Has mejorado en el tema [topic!t]"
 

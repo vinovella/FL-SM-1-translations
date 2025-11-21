@@ -8,7 +8,7 @@ translate spanish strings:
 
     # game/code/classes/it_controller.rpy:43
     old "Orbix Salary ([days] days)"
-    new "Orbix Salary ([days] days)"
+    new "Salario de Orbix ([days] días)"
 
 translate spanish strings:
 

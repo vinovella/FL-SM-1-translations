@@ -76,123 +76,123 @@ translate spanish strings:
 
     # game/code/data/constants/constants.rpy:77
     old "Night"
-    new "Night"
+    new "Noche"
 
     # game/code/data/constants/constants.rpy:78
     old "Late Night"
-    new "Late Night"
+    new "Después de medianoche"
 
     # game/code/data/constants/constants.rpy:79
     old "Early Morning"
-    new "Early Morning"
+    new "Madrugada"
 
     # game/code/data/constants/constants.rpy:80
     old "Morning"
-    new "Morning"
+    new "Mañana"
 
     # game/code/data/constants/constants.rpy:81
     old "Noon"
-    new "Noon"
+    new "Mediodía"
 
     # game/code/data/constants/constants.rpy:82
     old "Afternoon"
-    new "Afternoon"
+    new "Tarde"
 
     # game/code/data/constants/constants.rpy:83
     old "Evening"
-    new "Evening"
+    new "Atardecer"
 
     # game/code/data/constants/constants.rpy:84
     old "Nightfall"
-    new "Nightfall"
+    new "Anochecer"
 
     # game/code/data/constants/constants.rpy:130
     old "Mo"
-    new "Mo"
+    new "Lu"
 
     # game/code/data/constants/constants.rpy:131
     old "Tu"
-    new "Tu"
+    new "Ma"
 
     # game/code/data/constants/constants.rpy:132
     old "We"
-    new "We"
+    new "Mi"
 
     # game/code/data/constants/constants.rpy:133
     old "Th"
-    new "Th"
+    new "Ju"
 
     # game/code/data/constants/constants.rpy:134
     old "Fr"
-    new "Fr"
+    new "Vi"
 
     # game/code/data/constants/constants.rpy:135
     old "Sa"
-    new "Sa"
+    new "Sá"
 
     # game/code/data/constants/constants.rpy:136
     old "Su"
-    new "Su"
+    new "Do"
 
 translate spanish strings:
 
     # game/code/data/constants/constants.rpy:131
     old "Monday"
-    new "Monday"
+    new "Lunes"
 
     # game/code/data/constants/constants.rpy:132
     old "Tuesday"
-    new "Tuesday"
+    new "Martes"
 
     # game/code/data/constants/constants.rpy:133
     old "Wednesday"
-    new "Wednesday"
+    new "Miércoles"
 
     # game/code/data/constants/constants.rpy:134
     old "Thursday"
-    new "Thursday"
+    new "Jueves"
 
     # game/code/data/constants/constants.rpy:135
     old "Friday"
-    new "Friday"
+    new "Viernes"
 
     # game/code/data/constants/constants.rpy:136
     old "Saturday"
-    new "Saturday"
+    new "Sábado"
 
     # game/code/data/constants/constants.rpy:137
     old "Sunday"
-    new "Sunday"
+    new "Domingo"
 
 translate spanish strings:
 
     # game/code/data/constants/constants.rpy:168
     old "Mon"
-    new "Mon"
+    new "Lun"
 
     # game/code/data/constants/constants.rpy:169
     old "Tue"
-    new "Tue"
+    new "Mar"
 
     # game/code/data/constants/constants.rpy:170
     old "Wed"
-    new "Wed"
+    new "Mié"
 
     # game/code/data/constants/constants.rpy:171
     old "Thu"
-    new "Thu"
+    new "Jue"
 
     # game/code/data/constants/constants.rpy:172
     old "Fri"
-    new "Fri"
+    new "Vie"
 
     # game/code/data/constants/constants.rpy:173
     old "Sat"
-    new "Sat"
+    new "Sáb"
 
     # game/code/data/constants/constants.rpy:174
     old "Sun"
-    new "Sun"
+    new "Dom"
 
 translate spanish strings:
 

@@ -2,7 +2,7 @@ translate spanish strings:
 
     # game/code/renpy/screens/quests.rpy:11
     old "STORYLINES"
-    new "LINEAS DE HISTORIA"
+    new "LÍNEAS DE HISTORIA"
 
     # game/code/renpy/screens/quests.rpy:12
     old "QUESTS"
@@ -18,7 +18,7 @@ translate spanish strings:
 
     # game/code/renpy/screens/quests.rpy:71
     old "Go to faction page"
-    new "Ir a la página de facción"
+    new "Ir a la página de la facción"
 
     # game/code/renpy/screens/quests.rpy:74
     old "Go to character page"

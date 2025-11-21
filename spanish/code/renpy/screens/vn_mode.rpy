@@ -8,11 +8,11 @@ translate spanish strings:
 
     # game/code/renpy/screens/vn_mode.rpy:51
     old "Rejected Characters"
-    new "Rejected Characters"
+    new "Personajes rechazados"
 
 translate spanish strings:
 
     # game/code/renpy/screens/vn_mode.rpy:114
     old "Open Laptop"
-    new "Open Laptop"
+    new "Abrir laptop"
 

@@ -18,7 +18,7 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Multiple Color Hair"
-    new "Cabello Multicolor"
+    new "Cabello multicolor"
 
     # game/code/data/constants/traits.rpy:82
     old "Blue Hair"
@@ -38,7 +38,7 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Bald"
-    new "Calvo"
+    new "Calva"
 
     # game/code/data/constants/traits.rpy:82
     old "Long Hair"
@@ -50,7 +50,7 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Braces"
-    new "Aparatos ortopédicos"
+    new "Brackets"
 
     # game/code/data/constants/traits.rpy:82
     old "Black Hair"
@@ -74,15 +74,15 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Big Boobs"
-    new "Tetas grandes"
+    new "Senos grandes"
 
     # game/code/data/constants/traits.rpy:82
     old "Small Boobs"
-    new "Tetas pequeñas"
+    new "Senos pequeños"
 
     # game/code/data/constants/traits.rpy:82
     old "Huge Boobs"
-    new "Tetas enormes"
+    new "Senos enormes"
 
     # game/code/data/constants/traits.rpy:82
     old "MILF"
@@ -90,7 +90,7 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Big Ass"
-    new "Culo grande"
+    new "Trasero grande"
 
     # game/code/data/constants/traits.rpy:82
     old "Skinny"
@@ -102,15 +102,15 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "BBW"
-    new "Mujer Grande y Hermosa"
+    new "Mujer grande y hermosa"
 
     # game/code/data/constants/traits.rpy:82
     old "Muscular"
-    new "Muscular"
+    new "Musculosa"
 
     # game/code/data/constants/traits.rpy:82
     old "Short"
-    new "Corto"
+    new "Baja"
 
     # game/code/data/constants/traits.rpy:82
     old "Tall"
@@ -118,7 +118,7 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Amputee"
-    new "Amputado"
+    new "Amputada"
 
     # game/code/data/constants/traits.rpy:82
     old "Facial Piercing"
@@ -126,7 +126,7 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Genital Piercing"
-    new "Perforación genital"
+    new "Piercing genital"
 
     # game/code/data/constants/traits.rpy:82
     old "Tattoo"
@@ -138,15 +138,15 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Tan lines"
-    new "Líneas bronceadas"
+    new "Marcas de bronceado"
 
     # game/code/data/constants/traits.rpy:82
     old "Hairy"
-    new "Peludo"
+    new "Velluda"
 
     # game/code/data/constants/traits.rpy:82
     old "Trimmed"
-    new "Recortado"
+    new "Recortada"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Lips"
@@ -174,7 +174,7 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Smoking"
-    new "Fumadoras"
+    new "Fumadora"
 
     # game/code/data/constants/traits.rpy:82
     old "Anal"
@@ -182,7 +182,7 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Watersports"
-    new "Deportes acuáticos"
+    new "Fetiche con orina"
 
     # game/code/data/constants/traits.rpy:82
     old "Creampie"
@@ -210,7 +210,7 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Foot Fetish"
-    new "Fetiche de pie"
+    new "Fetiche de pies"
 
     # game/code/data/constants/traits.rpy:82
     old "Masochism"
@@ -230,7 +230,7 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Bondage"
-    new "Esclavitud"
+    new "Bondage"
 
     # game/code/data/constants/traits.rpy:82
     old "Spanking"
@@ -262,7 +262,7 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Food Play"
-    new "Juego de comida"
+    new "Juego con comida"
 
     # game/code/data/constants/traits.rpy:82
     old "Gangbang"
@@ -270,7 +270,7 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Rough Sex"
-    new "Sexo rudo"
+    new "Sexo duro"
 
     # game/code/data/constants/traits.rpy:82
     old "Rimming"
@@ -282,7 +282,7 @@ translate spanish strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Squirting"
-    new "Chorros"
+    new "Squirting"
 
     # game/code/data/constants/traits.rpy:82
     old "Double Penetration"
@@ -300,9 +300,7 @@ translate spanish strings:
     old "Extreme"
     new "Extremo"
 
-translate spanish strings:
-
     # game/code/data/constants/traits.rpy:82
     old "Nipple Piercings"
-    new "Nipple Piercings"
+    new "Piercings en los pezones"
 

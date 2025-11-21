@@ -8,7 +8,7 @@ translate spanish sm1cs_km002_ebbefc2d:
 translate spanish sm1cs_km002_a49ed4f8:
 
     # mc "Okay."
-    mc "Bueno."
+    mc "Está bien."
 
 # game/code/scenes/theatre/km/sm1cs-km002.rpy:16
 translate spanish sm1cs_km002_d51478e7:
@@ -26,13 +26,13 @@ translate spanish sm1cs_km002_6d9a4b0c:
 translate spanish sm1cs_km002_ef6cf227:
 
     # dvh "No you... Ahem. Decorum means proper and polite behavior."
-    dvh "No tú ... ejem. Decoro significa comportamiento adecuado y educado."
+    dvh "No, tú... Ejem. Decoro significa comportamiento adecuado y educado."
 
 # game/code/scenes/theatre/km/sm1cs-km002.rpy:25
 translate spanish sm1cs_km002_afdceea5:
 
     # dvh "Something our dear, Kellie Moore forgot about."
-    dvh "Algo que nuestra querida, Kellie Moore, olvidó."
+    dvh "Algo que nuestra querida Kellie Moore, olvidó."
 
 # game/code/scenes/theatre/km/sm1cs-km002.rpy:26
 translate spanish sm1cs_km002_232677e8:
@@ -56,7 +56,7 @@ translate spanish sm1cs_km002_240b91d6:
 translate spanish sm1cs_km002_9f92dd8b:
 
     # km "I'm very sorry for how I acted towards you. I didn't mean to hurt you, but it will never happen again."
-    km "Siento mucho cómo actué contigo. No quería hacerte daño, pero no volverá a ocurrir."
+    km "Siento mucho cómo me comporté contigo. No quería hacerte daño, pero no volverá a ocurrir."
 
 # game/code/scenes/theatre/km/sm1cs-km002.rpy:37
 translate spanish sm1cs_km002_0144a548:
@@ -110,7 +110,7 @@ translate spanish sm1cs_km002_2f271250:
 translate spanish sm1cs_km002_2fbd98ba:
 
     # mc "*scoffs* Could have fooled me."
-    mc "*se burla* podrías haberme engañado."
+    mc "*se burla* Podrías haberme engañado."
 
 # game/code/scenes/theatre/km/sm1cs-km002.rpy:63
 translate spanish sm1cs_km002_595cdf67:
@@ -140,7 +140,7 @@ translate spanish sm1cs_km002_f531397c:
 translate spanish sm1cs_km002_bb6b1782:
 
     # mct "Hmmm. Guess she just wants to move forward."
-    mct "Mmm. Supongo que solo quiere avanzar."
+    mct "Mmm... Supongo que solo quiere avanzar."
 
 # game/code/scenes/theatre/km/sm1cs-km002.rpy:73
 translate spanish sm1cs_km002_d1430a0a:
@@ -398,7 +398,7 @@ translate spanish sm1cs_km002_after_choice_a746a344:
 translate spanish sm1cs_km002_after_choice_8197a64f:
 
     # mc "Okay-dokey."
-    mc "Ok-Dokey."
+    mc "Okidoki."
 
 # game/code/scenes/theatre/km/sm1cs-km002.rpy:228
 translate spanish sm1cs_km002_after_choice_023f19fd:

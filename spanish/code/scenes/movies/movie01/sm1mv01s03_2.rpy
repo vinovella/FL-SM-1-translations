@@ -566,7 +566,9 @@ translate spanish sm1mv01s03_2_ca037759:
 translate spanish sm1mv01s03_2_3dc2f8e1:
 
     # tl "You've fucked every hole on my body."
-    tl "Te has follado todos los agujeros de mi cuerpo."# game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:169
+    tl "Te has follado todos los agujeros de mi cuerpo."
+
+# game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:169
 translate spanish sm1mv01s03_2_152026cc:
 
     # mc "Well, it's kind of private."

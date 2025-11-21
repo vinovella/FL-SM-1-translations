@@ -68,7 +68,7 @@ translate spanish sm1cs_tl004_c8635c55:
 translate spanish sm1cs_tl004_61e6479e:
 
     # tl "What, did someone piss in your beer?"
-    tl "¿Qué, alguien orinó en tu cerveza?"
+    tl "¿Qué, alguien te orinó en tu cerveza?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:72
 translate spanish sm1cs_tl004_824dd8bb:
@@ -290,7 +290,7 @@ translate spanish sm1cs_tl004_f48f9aaa:
 translate spanish sm1cs_tl004_bfa358fe:
 
     # mc "You're on."
-    mc "Estás encendida."
+    mc "De acuerdo."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:185
 translate spanish sm1cs_tl004_116179ab:
@@ -326,7 +326,7 @@ translate spanish sm1cs_tl004_1a2f3713:
 translate spanish sm1cs_tl004_f7ecd54f:
 
     # mc "Well I ain't calling you a truther."
-    mc "Bueno, no te estoy llamando una conspiradora."
+    mc "Bueno, tampoco digo que seas un ángel de la verdad."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:208
 translate spanish sm1cs_tl004_40620e77:
@@ -392,7 +392,7 @@ translate spanish sm1cs_tl004_e392ae0d:
 translate spanish sm1cs_tl004_1e50c3cf:
 
     # tl "You down for another game?"
-    tl "¿Estás deprimido para otro juego?"
+    tl "¿Te animas a otra partida?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:258
 translate spanish sm1cs_tl004_d524634d:
@@ -446,7 +446,7 @@ translate spanish sm1cs_tl004_0465905a:
 translate spanish sm1cs_tl004_b4abfd50:
 
     # tl "Gotta' keep it interesting, [mcname]. Can't do the same thing over, and over."
-    tl "Hay que mantener el interés. No puedes hacer lo mismo una y otra vez."
+    tl "Hay que mantener el interés, [mcname]. No puedes hacer lo mismo una y otra vez."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:286
 translate spanish sm1cs_tl004_09f97ed4:
@@ -554,7 +554,7 @@ translate spanish sm1cs_tl004_8e359492:
 translate spanish sm1cs_tl004_pool01_70cbaa70:
 
     # tl "All right, rack 'em up."
-    tl "Muy bien, prepáralos."
+    tl "Muy bien, prepara las bolas."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:357
 translate spanish sm1cs_tl004_pool01_187f2320:
@@ -788,7 +788,7 @@ translate spanish sm1cs_tl004_after_game_e2c74571:
 translate spanish sm1cs_tl004_after_game_7b1483aa:
 
     # mct "Man, she is just all over the map with things tonight."
-    mct "Hombre, ella está por todo el mapa con cosas esta noche."
+    mct "Vaya... hoy está saltando de un tema a otro."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:579
 translate spanish sm1cs_tl004_after_game_e5b2121d:
@@ -848,7 +848,7 @@ translate spanish sm1cs_tl004_after_game_fd354f9b:
 translate spanish sm1cs_tl004_after_game_e9c7d851:
 
     # tl "So why don't you put those two heads of yours together and come up with something sexy for us to do."
-    tl "Entonces, ¿por qué no juntas esas dos cabezas tuyas y creas algo sexy para nosotros?"
+    tl "Entonces, usa esas dos cabezas tuyas y piensa en algo sexy que podamos hacer."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:608
 translate spanish sm1cs_tl004_after_game_e4f957c1:
@@ -878,7 +878,7 @@ translate spanish sm1cs_tl004_after_game_2e19b620:
 translate spanish sm1cs_tl004_after_game_617ab0b2:
 
     # mct "Hmmm... I should really see what's up with Taisia needing cash {i}so{/i} badly. Most of our conversations are about money."
-    mct "Hmmm... Debería ver qué le pasa a Taisia que necesita el dinero {i}tan{/i} desesperadamente. La mayoría de nuestras conversaciones son sobre dinero."
+    mct "Hmmm... Debería averiguar por qué Taisia necesita el dinero {i}tan{/i} desesperadamente. La mayoría de nuestras conversaciones son sobre dinero."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:620
 translate spanish sm1cs_tl004_after_game_75aa959f:
@@ -927,6 +927,12 @@ translate spanish strings:
     # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:681
     old "You lost ${} to Taisia in a pool game."
     new "Perdiste ${} con Taisia en el juego de billar."
+
+translate spanish strings:
+
+    # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:681
+    old "You lost $[amount] to Taisia in a pool game."
+    new "You lost $[amount] to Taisia in a pool game."
 
 translate spanish strings:
 

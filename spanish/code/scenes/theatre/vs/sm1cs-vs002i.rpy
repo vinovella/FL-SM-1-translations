@@ -8,7 +8,7 @@ translate spanish sm1cs_vs002i_33296dea:
 translate spanish sm1cs_vs002i_0f1aa95a:
 
     # vs "Just the latest issue of {u}Stars Weekly{/u}."
-    vs "Solo el último número de {u}Stars Weekly{/u}."
+    vs "Solo el último número de {u}Semanario de las Estrellas{/u}."
 
 # game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:9
 translate spanish sm1cs_vs002i_9f99a66b:
@@ -50,7 +50,7 @@ translate spanish sm1cs_vs002i_cfe7bbdd:
 translate spanish sm1cs_vs002i_82ae0685:
 
     # vs "Uh, are you telling me you've never read {u}Stars Weekly{/u}?"
-    vs "Uh, ¿me estás diciendo que nunca has leído {u}Stars Weekly{/u}?"
+    vs "Uh, ¿me estás diciendo que nunca has leído {u}Semanario de las Estrellas{/u}?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:34
 translate spanish sm1cs_vs002i_22b528d1:
@@ -98,7 +98,7 @@ translate spanish sm1cs_vs002i_0df2df12:
 translate spanish sm1cs_vs002i_c440cae5:
 
     # vs "Find magazines like {u}Stars Weekly{/u} and read them from cover to ass."
-    vs "Encuentra revistas como {u}Stars Weekly{/u} y léelas de principio a fin."
+    vs "Encuentra revistas como {u}Semanario de las Estrellas{/u} y léelas de principio a fin."
 
 # game/code/scenes/theatre/vs/sm1cs-vs002i.rpy:57
 translate spanish sm1cs_vs002i_da85e900:

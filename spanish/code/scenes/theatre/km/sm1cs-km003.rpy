@@ -14,7 +14,7 @@ translate spanish sm1cs_km003_a0c368ac:
 translate spanish sm1cs_km003_edb6300c:
 
     # mc "The more you know, am I right?"
-    mc "Cuanto más sabes, ¿tengo razón?"
+    mc "Siempre se aprende algo nuevo, ¿verdad?"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:33
 translate spanish sm1cs_km003_327ae879:
@@ -38,7 +38,7 @@ translate spanish sm1cs_km003_e0cf3c6d:
 translate spanish sm1cs_km003_ba78f835:
 
     # mc "Hey Taisia. Little help?"
-    mc "Hola Taisia. ¿Un poco de ayuda?"
+    mc "Hola Taisia. ¿Puedes ayudarme?"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:51
 translate spanish sm1cs_km003_37e9b881:
@@ -56,13 +56,13 @@ translate spanish sm1cs_km003_ecf61e0e:
 translate spanish sm1cs_km003_6fbc23b3:
 
     # km "Come on, this is part of your training, so stop being a wuss."
-    km "Vamos, esto es parte de tu entrenamiento, así que deja de ser un cobarde."
+    km "Vamos, esto es parte de tu entrenamiento, así que deja de ser tan miedoso."
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:63
 translate spanish sm1cs_km003_116bbd72:
 
     # mc "A wuss? Really. Real good teaching technique, coming from a girl who was ready to give me a concussion."
-    mc "¿Un cobarde? En serio. Muy buena técnica de enseñanza, viniendo de una chica que estaba lista para darme una conmoción cerebral."
+    mc "¿Un miedoso? En serio. Muy buena técnica de enseñanza, viniendo de una chica que estaba lista para darme una conmoción cerebral."
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:66
 translate spanish sm1cs_km003_40626d0a:
@@ -98,7 +98,7 @@ translate spanish sm1cs_km003_20e69bde:
 translate spanish sm1cs_km003_8aaf8bd9:
 
     # mct "Oh man. What is she getting me into?"
-    mct "Oh hombre. ¿En qué me está metiendo?"
+    mct "Dios... ¿en qué me estoy metiendo?"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:95
 translate spanish sm1cs_km003_fa56fa90:
@@ -134,13 +134,13 @@ translate spanish sm1cs_km003_459e4b93:
 translate spanish sm1cs_km003_d397d61b:
 
     # mct "Woah."
-    mct "Woah."
+    mct "Mierda."
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:140
 translate spanish sm1cs_km003_533c0bf2:
 
     # vs "Oh hey."
-    vs "Oh, oye."
+    vs "Oh... hola."
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:146
 translate spanish sm1cs_km003_4622fe60:
@@ -152,13 +152,13 @@ translate spanish sm1cs_km003_4622fe60:
 translate spanish sm1cs_km003_883e2349:
 
     # vs "Or is this a VidVok thing? That's so cool."
-    vs "¿O es esto una cosa de Vidvok? Eso es genial."
+    vs "¿O esto es algo de VidVok? Eso es genial."
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:154
 translate spanish sm1cs_km003_795cfc87:
 
     # vs "My one rule is no face shots."
-    vs "Mi única regla es no hacer fotos de la cara."
+    vs "Mi única regla es que no haya fotos de mi cara."
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:157
 translate spanish sm1cs_km003_91478ad1:
@@ -224,7 +224,7 @@ translate spanish sm1cs_km003_e3c0ef1b:
 translate spanish sm1cs_km003_9f76c990:
 
     # mc "Oh fuck. Sorry, Veronica. I didn't mean to peep. It was... I know this will sound like bullshit."
-    mc "Oh joder. Lo siento, Verónica. No quise mirar. Fue... sé que esto sonará como una mierda."
+    mc "Oh, joder. Lo siento, Verónica. No quise mirar. Fue... sé que esto va a sonar fatal."
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:188
 translate spanish sm1cs_km003_385afe2a:
@@ -236,7 +236,7 @@ translate spanish sm1cs_km003_385afe2a:
 translate spanish sm1cs_km003_675ca506:
 
     # mc "Nrugh. Ouch."
-    mc "Nrugh. Ay."
+    mc "Nrugh. ¡Ay!"
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:195
 translate spanish sm1cs_km003_bec2ba77:
@@ -248,13 +248,13 @@ translate spanish sm1cs_km003_bec2ba77:
 translate spanish sm1cs_km003_fc8ee83e:
 
     # vs "Now that you saw mine, you have to show me yours next time."
-    vs "Ahora que viste el mío, tienes que mostrarme el tuyo la próxima vez."
+    vs "Ahora que tú viste el mío... tendrás que mostrarme el tuyo la próxima vez."
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:201
 translate spanish sm1cs_km003_3b96daba:
 
     # vs "I better get dried off now."
-    vs "Mejor me seco ahora."
+    vs "Será mejor que me seque."
 
 # game/code/scenes/theatre/km/sm1cs-km003.rpy:204
 translate spanish sm1cs_km003_68d240a1:
@@ -272,5 +272,5 @@ translate spanish sm1cs_km003_6aec3e56:
 translate spanish sm1cs_km003_68f2a5f5:
 
     # mc "Oh yeah, your two out of five-star apology. Very sincere."
-    mc "Oh yeah, your two out of five-star apology. Very sincere."
+    mc "Oh, claro. Tu disculpa de dos estrellas sobre cinco. Muy sincera."
 

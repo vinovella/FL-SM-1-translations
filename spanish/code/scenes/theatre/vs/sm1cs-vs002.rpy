@@ -248,7 +248,7 @@ translate spanish sm1cs_vs002_ivana_talents_062dbf90:
 translate spanish sm1cs_vs002_ivana_talents_6c12c592:
 
     # vs "You learned all that from {u}Stars Weekly{/u}?"
-    vs "¿Aprendiste todo eso de {u}Stars Weekly{/u}?"
+    vs "¿Aprendiste todo eso de {u}Semanario de las Estrellas{/u}?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:129
 translate spanish sm1cs_vs002_ivana_talents_d17454c9:
@@ -746,7 +746,7 @@ translate spanish sm1cs_vs002_one_hour_later_eb256bec:
 translate spanish sm1cs_vs002_one_hour_later_e0683c59:
 
     # mc "Yes, but we can do our own stuff like Fetish Locator if you're down. You just let me know what you're into, and I can make Blitz Challenges for the two of us."
-    mc "Sí, pero podemos hacer nuestras propias cosas como si del Localizador de Fetiches se tratara. Sólo tienes que decirme lo que te gusta, y puedo hacer Desafíos relámpago para los dos."
+    mc "Sí, pero podemos hacer nuestras propias cosas como si del Localizador de Fetiches se tratara. Sólo tienes que decirme lo que te gusta, y puedo hacer desafíos relámpago para los dos."
 
 # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:421
 translate spanish sm1cs_vs002_one_hour_later_e21ba0d6:
@@ -988,23 +988,23 @@ translate spanish strings:
 
     # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:469
     old "Set the alarm for next Tuesday"
-    new "Establezca la alarma para el próximo martes"
+    new "Configura la alarma para el próximo martes"
 
     # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:469
     old "Set the alarm for next Wednesday"
-    new "Establezca la alarma para el próximo miércoles"
+    new "Configura la alarma para el próximo miércoles"
 
     # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:469
     old "Set the alarm for next Friday"
-    new "Establezca la alarma para el próximo viernes"
+    new "Configura la alarma para el próximo viernes"
 
 translate spanish strings:
 
     # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:85
     old "Rina worked hard for a while"
-    new "Rina worked hard for a while"
+    new "Rina trabajó duro durante un rato"
 
     # game/code/scenes/theatre/vs/sm1cs-vs002.rpy:85
     old "Ivana has more talents than just acting"
-    new "Ivana has more talents than just acting"
+    new "Ivana tiene más talentos además de actuar"
 

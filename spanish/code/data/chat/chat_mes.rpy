@@ -2,7 +2,7 @@ translate spanish strings:
 
     # game/code/data/chat/chat_mes.rpy:3
     old "Hey Min. What's happening?"
-    new "Hola Min. ¿Qué está pasando?"
+    new "Hola, Min. ¿Qué está pasando?"
 
     # game/code/data/chat/chat_mes.rpy:3
     old "Classes, studying, sleep 😓"
@@ -14,7 +14,7 @@ translate spanish strings:
 
     # game/code/data/chat/chat_mes.rpy:3
     old "It's going to get better. I just know it."
-    new "Va a mejorar. Lo sé."
+    new "Va a mejorar, lo sé."
 
     # game/code/data/chat/chat_mes.rpy:3
     old "How can I help you, [mcname!i]?"
@@ -26,11 +26,11 @@ translate spanish strings:
 
     # game/code/data/chat/chat_mes.rpy:3
     old "I would, but I should focus."
-    new "Lo haría, pero debería concentrarme."
+    new "Me gustaría, pero debería concentrarme."
 
     # game/code/data/chat/chat_mes.rpy:3
     old "Come on. You're working yourself too hard."
-    new "Vamos. Estás trabajando demasiado duro."
+    new "Vamos. Estás trabajando demasiado."
 
     # game/code/data/chat/chat_mes.rpy:3
     old "Ok."
@@ -38,243 +38,198 @@ translate spanish strings:
 
     # game/code/data/chat/chat_mes.rpy:3
     old "There you go. Trust me. You're going to love the place."
-    new "Ahí tienes. Confía en mí. Vas a amar el lugar."
+    new "Así me gusta. Confía en mí, te va a encantar el lugar."
 
 translate spanish strings:
 
     # game/code/data/chat/chat_mes.rpy:58
     old "Hey. Want to go for a drink?"
-    new "Hey. Want to go for a drink?"
+    new "Hola. ¿Quieres salir a tomar algo?"
 
-    # game/code/data/chat/chat_mes.rpy:58
     old "It will be on me."
-    new "It will be on me."
+    new "Yo invito."
 
-    # game/code/data/chat/chat_mes.rpy:58
     old "Sure. What's the occasion?"
-    new "Sure. What's the occasion?"
+    new "Claro. ¿Cuál es la ocasión?"
 
-    # game/code/data/chat/chat_mes.rpy:58
     old "Nothing special. Call it a mind-break date 😇"
-    new "Nothing special. Call it a mind-break date 😇"
+    new "Nada especial. Llámalo una cita para despejar la mente 😇"
 
-    # game/code/data/chat/chat_mes.rpy:58
     old "Oh. I like the sound of that 😀"
-    new "Oh. I like the sound of that 😀"
+    new "Oh, me gusta cómo suena 😀"
 
-    # game/code/data/chat/chat_mes.rpy:58
     old "Don't be strange. I didn't mean a \"date\" date."
-    new "Don't be strange. I didn't mean a \"date\" date."
+    new "No te pongas raro. No me refería a una *cita* cita."
 
-    # game/code/data/chat/chat_mes.rpy:58
     old "Well."
-    new "Well."
+    new "Bueno."
 
-    # game/code/data/chat/chat_mes.rpy:58
     old "Yes, Min. Send me the details."
-    new "Yes, Min. Send me the details."
+    new "Sí, Min. Envíame los detalles."
 
 translate spanish strings:
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Hello [mcname!i]."
-    new "Hello [mcname!i]."
+    new "Hola, [mcname!i]."
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "Hi Min."
-    new "Hi Min."
+    new "Hola, Min."
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "Nice to hear from you."
-    new "Nice to hear from you."
+    new "Qué bueno saber de ti."
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "You're probably the only one who thinks so."
-    new "You're probably the only one who thinks so."
+    new "Probablemente seas el único que piensa eso."
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "What happened?"
-    new "What happened?"
+    new "¿Qué pasó?"
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "I got into a spirited discussion with a professor."
-    new "I got into a spirited discussion with a professor."
+    new "Tuve una discusión animada con un profesor."
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "That turned into a shouting match."
-    new "That turned into a shouting match."
+    new "Que terminó en una pelea a gritos."
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "Uh. That doesn't sound like you."
-    new "Uh. That doesn't sound like you."
+    new "Uh… eso no suena a ti."
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "What started the argument?"
-    new "What started the argument?"
+    new "¿Qué provocó la discusión?"
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "Don't worry about it."
-    new "Don't worry about it."
+    new "No te preocupes por eso."
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "Yup. Just don't ask Professor Selbig."
-    new "Yup. Just don't ask Professor Selbig."
+    new "Sip. Solo no le preguntes al profesor Selbig."
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "How was your day?"
-    new "How was your day?"
+    new "¿Cómo estuvo tu día?"
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "Good. Working hard as usual."
-    new "Good. Working hard as usual."
+    new "Bien. Trabajando duro, como siempre."
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "As usual? I've never seen you work hard."
-    new "As usual? I've never seen you work hard."
+    new "¿Como siempre? Nunca te he visto trabajar duro."
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "I work hard and play hard."
-    new "I work hard and play hard."
+    new "Trabajo duro y disfruto duro."
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "Talk to you later, [mcname!i]."
-    new "Talk to you later, [mcname!i]."
+    new "Hablamos luego, [mcname!i]."
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "Done with me so soon?"
-    new "Done with me so soon?"
+    new "¿Ya terminaste conmigo tan rápido?"
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "I have to study. But I'll give you something to tide you over."
-    new "I have to study. But I'll give you something to tide you over."
+    new "Tengo que estudiar. Pero te daré algo para que aguantes."
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "Let's arrange that soon."
-    new "Let's arrange that soon."
+    new "Organicemos eso pronto."
+
+translate spanish strings:
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Hey, what are you doing?"
-    new "Hey, what are you doing?"
+    new "Hola, ¿qué haces?"
 
-    # game/code/data/chat/chat_mes.rpy:258
     old "Nothing. You?"
-    new "Nothing. You?"
+    new "Nada. ¿Y tú?"
 
-    # game/code/data/chat/chat_mes.rpy:258
     old "I was thinking I could go for some fun."
-    new "I was thinking I could go for some fun."
+    new "Pensaba que podría buscar algo de diversión."
 
-    # game/code/data/chat/chat_mes.rpy:258
     old "Sexy fun."
-    new "Sexy fun."
+    new "Diversión sexy."
 
-    # game/code/data/chat/chat_mes.rpy:258
     old "Haha. You really have a one-track mind."
-    new "Haha. You really have a one-track mind."
+    new "Jaja. Solo piensas en una cosa."
 
-    # game/code/data/chat/chat_mes.rpy:258
     old "Sounds fun. I didn't think you'd want Stacy involved?"
-    new "Sounds fun. I didn't think you'd want Stacy involved?"
+    new "Suena divertido. ¿No pensé que quisieras que Stacy estuviera involucrada?"
 
-    # game/code/data/chat/chat_mes.rpy:258
     old "I do. She seems fun. And she's a big part of your life isn't she?"
-    new "I do. She seems fun. And she's a big part of your life isn't she?"
+    new "Sí quiero. Parece divertida. Y es una gran parte de tu vida, ¿no?"
 
-    # game/code/data/chat/chat_mes.rpy:258
     old "Yes she is."
-    new "Yes she is."
+    new "Sí, lo es."
 
-    # game/code/data/chat/chat_mes.rpy:258
     old "Unfortunately yes. She's always here."
-    new "Unfortunately yes. She's always here."
+    new "Lamentablemente sí. Siempre está aquí."
 
-    # game/code/data/chat/chat_mes.rpy:258
     old "It's like we're living together."
-    new "It's like we're living together."
+    new "Es como si viviéramos juntos."
 
-    # game/code/data/chat/chat_mes.rpy:258
     old "Haha. I get it."
-    new "Haha. I get it."
+    new "Jaja, entiendo."
 
-    # game/code/data/chat/chat_mes.rpy:258
     old "There is a board game I've been wanting to try out."
-    new "There is a board game I've been wanting to try out."
+    new "Hay un juego de mesa que he querido probar."
 
-    # game/code/data/chat/chat_mes.rpy:258
     old "I'll go buy it and get some junk food."
-    new "I'll go buy it and get some junk food."
+    new "Lo compraré y traeré comida chatarra."
 
-    # game/code/data/chat/chat_mes.rpy:258
     old "All you need to do is come over."
-    new "All you need to do is come over."
+    new "Solo tienes que venir."
 
-    # game/code/data/chat/chat_mes.rpy:258
     old "Perfect. See you then."
-    new "Perfect. See you then."
+    new "Perfecto. Nos vemos."
+
+translate spanish strings:
 
     # game/code/data/chat/chat_mes.rpy:358
     old "Hey sexy."
-    new "Hey sexy."
+    new "Hola, sexy."
 
-    # game/code/data/chat/chat_mes.rpy:358
     old "Oooh. Someone is in a good mood."
-    new "Oooh. Someone is in a good mood."
+    new "Oooh. Alguien está de buen humor."
 
-    # game/code/data/chat/chat_mes.rpy:358
     old "I always am when I talk to you."
-    new "I always am when I talk to you."
+    new "Siempre lo estoy cuando hablo contigo."
 
-    # game/code/data/chat/chat_mes.rpy:358
     old "I have time today, ready to move in?"
-    new "I have time today, ready to move in?"
+    new "Tengo tiempo hoy, ¿lista para mudarte?"
 
-    # game/code/data/chat/chat_mes.rpy:358
     old "Yes!"
-    new "Yes!"
+    new "¡Sí!"
 
-    # game/code/data/chat/chat_mes.rpy:358
     old "I can't wait to put this place behind me."
-    new "I can't wait to put this place behind me."
+    new "No puedo esperar a dejar este lugar atrás."
 
-    # game/code/data/chat/chat_mes.rpy:358
     old "Awesome. Why don't you come over?"
-    new "Awesome. Why don't you come over?"
+    new "Genial. ¿Por qué no vienes?"
 
-    # game/code/data/chat/chat_mes.rpy:358
     old "Perfect."
-    new "Perfect."
+    new "Perfecto."
 
 translate spanish strings:
 
     # game/code/data/chat/chat_mes.rpy:58
     old "Never mind. Are you down or not?"
-    new "Never mind. Are you down or not?"
+    new "Olvídalo. ¿Vienes o no?"
 
 translate spanish strings:
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Wish you were here to warm my body."
-    new "Wish you were here to warm my body."
+    new "Ojalá estuvieras aquí para calentar mi cuerpo."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I was thinking of a game night. You, Stacy, and me."
-    new "I was thinking of a game night. You, Stacy, and me."
+    new "Pensaba en una noche de juegos. Tú, Stacy y yo."
 
-    # game/code/data/chat/chat_mes.rpy:258
     old "Alright, does this evening work?"
-    new "Alright, does this evening work?"
+    new "De acuerdo, ¿te sirve esta noche?"
 
 translate spanish strings:
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Everything all right?"
-    new "Everything all right?"
+    new "¿Todo bien?"
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "I hope you were the winner."
-    new "I hope you were the winner."
+    new "Espero que hayas sido tú quien ganó."
 
-    # game/code/data/chat/chat_mes.rpy:112
     old "It is now."
-    new "It is now."
+    new "Ahora sí."
 

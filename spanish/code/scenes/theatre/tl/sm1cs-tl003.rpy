@@ -1388,7 +1388,7 @@ translate spanish strings:
 
     # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:735
     old "Taisia's compansation"
-    new "Compansación de Taisia"
+    new "Compensación de Taisia"
 
     # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:735
     old "You gave $100 to Taisia for the shoot"
@@ -1398,11 +1398,11 @@ translate spanish strings:
 translate spanish sm1cs_tl003_in_street_76592468:
 
     # tl "A while back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
-    tl "A while back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
+    tl "Hace un tiempo hubo una explosión loca o algo así aquí. Después de eso, los policías decidieron dejar a alguien vigilando, por si intentaban hacer alguna otra mierda."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:698
 translate spanish sm1cs_tl003_sex_end_b82ee33e:
 
     # tl "Shut it, [mcname]. No one is going to jail today. Just be quiet, and follow me!"
-    tl "Shut it, [mcname]. No one is going to jail today. Just be quiet, and follow me!"
+    tl "Cállate, [mcname]. Nadie va a ir a la cárcel hoy. Solo guarda silencio y sígueme."
 

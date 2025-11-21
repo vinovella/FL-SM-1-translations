@@ -20,7 +20,7 @@ translate spanish sm1cs_mh006_0fc446c6:
 translate spanish sm1cs_mh006_7478ac5c:
 
     # mh "Oh, it very much is. I've been thinking of picking up a new extreme sport."
-    mh "Oh, lo es. He estado pensando en elegir un nuevo deporte extremo."
+    mh "Oh, lo es. He estado pensando en probar un nuevo deporte extremo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:50
 translate spanish sm1cs_mh006_b1f5bd2e:
@@ -74,7 +74,7 @@ translate spanish sm1cs_mh006_c6c3a682:
 translate spanish sm1cs_mh006_b82ed622:
 
     # mh "Rome wasn't built in a day."
-    mh "Roma no fue construido en un día."
+    mh "Roma no fue construida en un día."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:74
 translate spanish sm1cs_mh006_05500ff6:
@@ -98,7 +98,7 @@ translate spanish sm1cs_mh006_85e245ca:
 translate spanish sm1cs_mh006_69618dba:
 
     # mh "You're incouragable. No, it took me years to get my clients. Between consistency, trust, meshing with each other - it wasn't an overnight matter."
-    mh "Eres un encanto. No, tardé años en conseguir clientes. Entre la constancia, la confianza, el entendimiento con los demás... no fue cosa de un día para otro."
+    mh "Eres incorregible. No, tardé años en conseguir clientes. Entre la constancia, la confianza, el entendimiento con los demás... no fue cosa de un día para otro."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:84
 translate spanish sm1cs_mh006_5693a819:
@@ -140,7 +140,7 @@ translate spanish sm1cs_mh006_d65e92bd:
 translate spanish sm1cs_mh006_3d30c17d:
 
     # mc "We actually just went on a date! It went... Mostly well minus the little bit of shop talk we had to do..."
-    mc "¡Realmente acabamos de tener una cita! Fue... Mayormente bien menos la pequeña conversación de negocios que tuvimos que hacer..."
+    mc "¡Realmente acabamos de tener una cita! Fue... mayormente bien, salvo por la pequeña charla de trabajo que tuvimos que hacer..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:99
 translate spanish sm1cs_mh006_8919127b:
@@ -482,7 +482,7 @@ translate spanish sm1cs_mh006_after_choice_df387c72:
 translate spanish sm1cs_mh006_after_choice_00aadb60:
 
     # mh "That was okay. Off your game tonight."
-    mh "Eso estuvo bien. Fuera de juego esta noche."
+    mh "Eso estuvo bien. No estás muy inspirado esta noche."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:246
 translate spanish sm1cs_mh006_after_choice_3092a798:

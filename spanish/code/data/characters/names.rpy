@@ -2,7 +2,7 @@
 
     # game/code/data/characters/names.rpy:6
     old "You"
-    new "You"
+    new "Tú"
 
     # game/code/data/characters/names.rpy:11
     old "Amore"
@@ -26,7 +26,7 @@
 
     # game/code/data/characters/names.rpy:21
     old "Angela"
-    new "Angela"
+    new "Ángela"
 
     # game/code/data/characters/names.rpy:22
     old "Bently"
@@ -34,7 +34,7 @@
 
     # game/code/data/characters/names.rpy:23
     old "Creepy Guy"
-    new "Creepy Guy"
+    new "Tipo pervertido"
 
     # game/code/data/characters/names.rpy:24
     old "Cecilia"
@@ -42,7 +42,7 @@
 
     # game/code/data/characters/names.rpy:25
     old "Dog Walker"
-    new "Dog Walker"
+    new "Paseadora de perros"
 
     # game/code/data/characters/names.rpy:26
     old "Elizabeth"
@@ -90,7 +90,7 @@
 
     # game/code/data/characters/names.rpy:40
     old "April"
-    new "April"
+    new "Abril"
 
     # game/code/data/characters/names.rpy:41
     old "Claire"
@@ -102,7 +102,7 @@
 
     # game/code/data/characters/names.rpy:45
     old "Mr. Watts"
-    new "Mr. Watts"
+    new "Sr. Watts"
 
     # game/code/data/characters/names.rpy:46
     old "Eugene"
@@ -110,7 +110,7 @@
 
     # game/code/data/characters/names.rpy:47
     old "Mrs. Watts"
-    new "Mrs. Watts"
+    new "Sra. Watts"
 
     # game/code/data/characters/names.rpy:48
     old "Mitch Conner"
@@ -122,7 +122,7 @@
 
     # game/code/data/characters/names.rpy:50
     old "Mrs. Maureen"
-    new "Mrs. Maureen"
+    new "Sra. Maureen"
 
     # game/code/data/characters/names.rpy:51
     old "Peter"
@@ -208,11 +208,11 @@ translate spanish strings:
 
     # game/code/data/characters/names.rpy:86
     old "Jerk Cop"
-    new "Jerk Cop"
+    new "Policía idiota"
 
 translate spanish strings:
 
     # game/code/data/characters/names.rpy:87
     old "Douche Cop"
-    new "Douche Cop"
+    new "Policía cretino"
 

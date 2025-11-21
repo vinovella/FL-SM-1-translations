@@ -866,7 +866,7 @@ translate spanish sm1mv01s01_d9ab4cba:
 translate spanish sm1mv01s01_c81c94d5:
 
     # kv "We might want to start thinking about getting more crew though."
-   kv "Aunque quizá deberíamos empezar a pensar en conseguir más personal."
+    kv "Aunque quizá deberíamos empezar a pensar en conseguir más personal."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:497
 translate spanish sm1mv01s01_85d51034:

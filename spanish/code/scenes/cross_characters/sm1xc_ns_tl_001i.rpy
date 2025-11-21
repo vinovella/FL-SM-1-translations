@@ -82,7 +82,7 @@ translate spanish sm1xc_ns_tl_001_2i_5ebdcd16:
     # mc "*chuckles* Alright, c'mon. I'll go with you."
     mc "*chuckles* Alright, c'mon. I'll go with you."
 
-# game/code/scenes/cross_characters/sm1xc_ns_tl_001i.rpy:7
+# game/code/scenes/cross_characters/sm1xc_ns_tl_001i.rpy:8
 translate spanish sm1xc_ns_tl_001_1i_7fc68d2e:
 
     # mc "Morning, Taisia."

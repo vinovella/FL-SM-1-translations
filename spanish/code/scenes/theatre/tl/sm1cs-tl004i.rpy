@@ -8,7 +8,7 @@ translate spanish sm1cs_tl004i_a95cfbed:
 translate spanish sm1cs_tl004i_124b3074:
 
     # tl "Oh, hey [mcname]."
-    tl "Oh, hey [mcname]."
+    tl "Oh, hola [mcname]."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004i.rpy:9
 translate spanish sm1cs_tl004i_8f59568d:
@@ -26,7 +26,7 @@ translate spanish sm1cs_tl004i_04469430:
 translate spanish sm1cs_tl004i_18f98479:
 
     # tl "I was wondering, you wanna go get a beer or something?"
-    tl "Me preguntaba, ¿quieres ir a tomar una cerveza o algo?"
+    tl "Me preguntaba si querías ir a tomar una cerveza o algo."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004i.rpy:16
 translate spanish sm1cs_tl004i_11455b53:
@@ -44,7 +44,7 @@ translate spanish sm1cs_tl004i_65ea8c88:
 translate spanish sm1cs_tl004i_b771d497:
 
     # mc "Uhm, nothing-"
-    mc "Uhm, nada..."
+    mc "Uhm, nada-"
 
 # game/code/scenes/theatre/tl/sm1cs-tl004i.rpy:26
 translate spanish sm1cs_tl004i_318ed744:

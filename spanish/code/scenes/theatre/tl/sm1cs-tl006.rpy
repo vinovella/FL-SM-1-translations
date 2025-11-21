@@ -56,7 +56,7 @@ translate spanish sm1cs_tl006_pay_bet_from_tl004_08ad240c:
 translate spanish sm1cs_tl006_pay_bet_from_tl004_137c3d33:
 
     # tl "I knew you were good for it."
-    tl "Sabía que eras bueno por eso."
+    tl "Sabía que cumplirías."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:115
 translate spanish sm1cs_tl006_pay_bet_from_tl004_8d732fce:
@@ -74,7 +74,7 @@ translate spanish sm1cs_tl006_pay_bet_from_tl004_056b0673:
 translate spanish sm1cs_tl006_continue_f37e80e2:
 
     # tl "But I have a funny feeling we're not here to play pool."
-    tl "Pero tengo una sensación divertida que no estamos aquí para jugar al billar."
+    tl "Tengo el presentimiento de que no estamos aquí para jugar al billar."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:130
 translate spanish sm1cs_tl006_continue_f35bfe99:
@@ -164,7 +164,7 @@ translate spanish sm1cs_tl006_continue_fde655d7:
 translate spanish sm1cs_tl006_continue_9b754d1a:
 
     # tl "I don't fucking know. Small talk? Isn't that a thing people do?"
-    tl "No lo sé. ¿Hablar? ¿No es eso una cosa que la gente hace?"
+    tl "No lo sé. ¿Conversación trivial? ¿No es algo que la gente hace?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:178
 translate spanish sm1cs_tl006_continue_e9e00a09:
@@ -350,7 +350,7 @@ translate spanish sm1cs_tl006_continue_8ba73abe:
 translate spanish sm1cs_tl006_continue_34443730:
 
     # sy "That would totally be fine!"
-    sy "¡Eso estaría totalmente bien!"
+    sy "¡Eso estaría perfectamente bien!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:274
 translate spanish sm1cs_tl006_continue_9de07441:
@@ -542,7 +542,7 @@ translate spanish sm1cs_tl006_continue_8c9ccc57:
 translate spanish sm1cs_tl006_continue_4cd15a32:
 
     # mc "And we don't have that kind of cash laying around!"
-    mc "¡Y no tenemos ese tipo de efectivo en efectivo!"
+    mc "¡Y no tenemos ese dinero por ahí!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:365
 translate spanish sm1cs_tl006_continue_a823aa9f:
@@ -596,19 +596,19 @@ translate spanish sm1cs_tl006_continue_59db1228:
 translate spanish sm1cs_tl006_continue_002f7fc6:
 
     # sy "If [mcname] can beat you in pool, so can I!"
-    sy "Si [mcname] puede vencerte en la piscina, ¡yo también puedo!"
+    sy "Si [mcname] puede vencerte en el billar, ¡yo también puedo!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:394
 translate spanish sm1cs_tl006_continue_064b6db1:
 
     # sy "And I am a much better pool player than my brother!"
-    sy "¡Y soy un jugador de piscina mucho mejor que mi hermano!"
+    sy "¡Y soy un jugador de billar mucho mejor que mi hermano!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:396
 translate spanish sm1cs_tl006_continue_49f1eb9c:
 
     # sy "And I am a much better pool player than [mcname]!"
-    sy "¡Y soy un jugador de grupo mucho mejor que [mcname]!"
+    sy "¡Y soy una jugadora de billar mucho mejor que [mcname]!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:401
 translate spanish sm1cs_tl006_continue_6fb0e491:
@@ -692,7 +692,7 @@ translate spanish sm1cs_tl006_continue_e0c10ac4:
 translate spanish sm1cs_tl006_continue_596c654d:
 
     # tl "As long as you rack it up again."
-    tl "Mientras lo acumule nuevamente."
+    tl "Mientras prepares la mesa otra vez."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:449
 translate spanish sm1cs_tl006_continue_34583c3d_2:
@@ -914,7 +914,7 @@ translate spanish sm1cs_tl006_continue_ba2808f5:
 translate spanish sm1cs_tl006_continue_b86bf87d:
 
     # tl "Is that so."
-    tl "Es eso así."
+    tl "¿De verdad?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:599
 translate spanish sm1cs_tl006_continue_394f8f09:
@@ -956,7 +956,7 @@ translate spanish sm1cs_tl006_continue_7b626953:
 translate spanish sm1cs_tl006_continue_0369719c:
 
     # tl "Oh, do you?"
-    tl "Oh, ¿tú?"
+    tl "¿Ah, sí?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:615
 translate spanish sm1cs_tl006_continue_16388ad3:
@@ -1142,7 +1142,7 @@ translate spanish sm1cs_tl006_continue_a472e4f3:
 translate spanish sm1cs_tl006_continue_de2bbf3b:
 
     # mc "You all good, Taisia?"
-    mc "¿Está todos bien, Taisia?"
+    mc "¿Estás bien, Taisia?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:700
 translate spanish sm1cs_tl006_continue_326bf95c:

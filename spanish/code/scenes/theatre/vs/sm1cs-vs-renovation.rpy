@@ -128,7 +128,7 @@ translate spanish sm1cs_vs_renovation_3ca3ea82:
 translate spanish sm1cs_vs_renovation_b7097690:
 
     # vs "You know... I'm getting a little excited thinking about when the next Blitz alert will go off."
-    vs "Sabes... me emociona un poco pensar en cuándo se disparará la próxima Alerta Relámpago."
+    vs "Sabes… me emociona un poco pensar en cuándo se activará el próximo desafío relámpago."
 
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:84
 translate spanish sm1cs_vs_renovation_e354c7c1:
@@ -194,7 +194,7 @@ translate spanish sm1cs_vs_renovation_ebcfd06c:
 translate spanish sm1cs_vs_renovation_ba7dddad:
 
     # vs "I'd hate to have to do my Blitz challenge with Taisia."
-    vs "Odiaría tener que hacer mi Desafío Relámpago con Taisia."
+    vs "Odiaría tener que hacer mi desafío relámpago con Taisia."
 
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:123
 translate spanish sm1cs_vs_renovation_ae867d5d:
@@ -548,7 +548,7 @@ translate spanish sm1cs_vs_renovation_747958df:
 translate spanish sm1cs_vs_renovation_43501e1c:
 
     # vs "Are you two doing Blitz challenges too?"
-    vs "¿Ustedes dos también están haciendo Desafíos Relámpago?"
+    vs "¿Ustedes dos también están haciendo desafíos relámpago?"
 
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:298
 translate spanish sm1cs_vs_renovation_53225cc5:
@@ -638,7 +638,7 @@ translate spanish sm1cs_vs_renovation_3d4a7fea:
 translate spanish sm1cs_vs_renovation_76bf0dea:
 
     # vs "Unless it's Blitz related."
-    vs "A menos que esté relacionado con el desafío."
+    vs "A menos que esté relacionado con el desafío relámpago."
 
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:346
 translate spanish sm1cs_vs_renovation_a3791fff:
@@ -662,7 +662,7 @@ translate spanish sm1cs_vs_renovation_304125b0:
 translate spanish sm1cs_vs_renovation_b96c5f1b:
 
     # vs "Unless the Blitz alarm goes off before then..."
-    vs "A menos que la alarma del Desafío Relámpago salte antes..."
+    vs "A menos que la alarma del desafío relámpago salte antes..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:359
 translate spanish sm1cs_vs_renovation_5e28fbe6:

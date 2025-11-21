@@ -50,7 +50,7 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:121
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new "Menú de accesibilidad. Use las flechas hacia arriba y hacia abajo para navegar e ingrese para activar botones y barras."
+    new "Menú de accesibilidad. Usa las flechas arriba y abajo para navegar y Enter para activar botones y barras."
 
     # renpy/common/00accessibility.rpy:140
     old "Font Override"
@@ -62,7 +62,7 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:148
     old "DejaVu Sans"
-    new "Dejavu sans"
+    new "DejaVu Sans"
 
     # renpy/common/00accessibility.rpy:152
     old "Opendyslexic"
@@ -70,7 +70,7 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:158
     old "Text Size Scaling"
-    new "Escala de tamaño de texto"
+    new "Escala del tamaño de texto"
 
     # renpy/common/00accessibility.rpy:164
     old "Reset"
@@ -78,7 +78,7 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:170
     old "Line Spacing Scaling"
-    new "Escala de espaciado de línea"
+    new "Escala del espaciado de línea"
 
     # renpy/common/00accessibility.rpy:182
     old "High Contrast Text"
@@ -86,11 +86,11 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:184
     old "Enable"
-    new "Permitir"
+    new "Habilitar"
 
     # renpy/common/00accessibility.rpy:188
     old "Disable"
-    new "Desactivar"
+    new "Deshabilitar"
 
     # renpy/common/00accessibility.rpy:195
     old "Self-Voicing"
@@ -98,7 +98,7 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:198
     old "Self-voicing support is limited when using a touch screen."
-    new "l soporte de voz automática es limitado al usar una pantalla táctil."
+    new "El soporte de voz automática es limitado al usar una pantalla táctil."
 
     # renpy/common/00accessibility.rpy:202
     old "Off"
@@ -122,11 +122,11 @@ translate spanish strings:
 
     # renpy/common/00accessibility.rpy:228
     old "Self-Voicing Volume Drop"
-    new "Caída de volumen de voz automática"
+    new "Reducción del volumen de voz automática"
 
     # renpy/common/00accessibility.rpy:237
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "Las opciones en este menú están destinadas a mejorar la accesibilidad. Es posible que no funcionen con todos los juegos, y algunas combinaciones de opciones pueden hacer que el juego no sea reproducible. Este no es un problema con el juego o el motor. Para obtener los mejores resultados al cambiar las fuentes, intente mantener el tamaño del texto igual que el original."
+    new "Las opciones de este menú están destinadas a mejorar la accesibilidad. Pueden no funcionar en todos los juegos y algunas combinaciones pueden hacer que el juego sea injugable. No es un problema del juego ni del motor. Para mejores resultados al cambiar fuentes, intenta mantener el tamaño de texto igual al original."
 
     # renpy/common/00accessibility.rpy:242
     old "Return"
@@ -134,31 +134,31 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new "{#weekday} Lunes"
+    new "{#weekday}Lunes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new "{#weekday} Martes"
+    new "{#weekday}Martes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new "{#weekday} Miércoles"
+    new "{#weekday}Miércoles"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new "{#weekday} Jueves"
+    new "{#weekday}Jueves"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new "{#weekday} viernes"
+    new "{#weekday}Viernes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new "{#weekday} Sábado"
+    new "{#weekday}Sábado"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new "{#weekday} Domingo"
+    new "{#weekday}Domingo"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
@@ -286,15 +286,15 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:258
     old "%b %d, %H:%M"
-    new "%b %d, %h: %m"
+    new "%b %d, %H:%M"
 
     # renpy/common/00action_file.rpy:395
     old "Save slot %s: [text]"
-    new "Ahorre la ranura %s: [text]"
+    new "Ranura de guardado %s: [text]"
 
     # renpy/common/00action_file.rpy:481
     old "Load slot %s: [text]"
-    new "Carga de ranura %s: [text]"
+    new "Cargar ranura %s: [text]"
 
     # renpy/common/00action_file.rpy:534
     old "Delete slot [text]"
@@ -302,15 +302,15 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:613
     old "File page auto"
-    new "Página de guardado automático"
+    new "Página automática"
 
     # renpy/common/00action_file.rpy:615
     old "File page quick"
-    new "Página de archivos rápidos"
+    new "Página rápida"
 
     # renpy/common/00action_file.rpy:617
     old "File page [text]"
-    new "Página de archivo [text]"
+    new "Página [text]"
 
     # renpy/common/00action_file.rpy:675
     old "Page {}"
@@ -326,27 +326,27 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:816
     old "Next file page."
-    new "Siguiente página de archivo."
+    new "Siguiente página."
 
     # renpy/common/00action_file.rpy:888
     old "Previous file page."
-    new "Página de archivo anterior."
+    new "Página anterior."
 
     # renpy/common/00action_file.rpy:949
     old "Quick save complete."
-    new "Guardar rápido completo."
+    new "Guardado rápido completado."
 
     # renpy/common/00action_file.rpy:964
     old "Quick save."
-    new "Guardado rápido"
+    new "Guardado rápido."
 
     # renpy/common/00action_file.rpy:983
     old "Quick load."
-    new "Cargado rápido."
+    new "Cargar rápido."
 
     # renpy/common/00action_other.rpy:379
     old "Language [text]"
-    new "Lenguaje [text]"
+    new "Idioma [text]"
 
     # renpy/common/00action_other.rpy:744
     old "Open [text] directory."
@@ -382,7 +382,7 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1595
     old "(transform)"
-    new "(transformar)"
+    new "(transformación)"
 
     # renpy/common/00director.rpy:1620
     old "(transition)"
@@ -394,7 +394,7 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1633
     old "(filename)"
-    new "(Nombre del archivo)"
+    new "(nombre del archivo)"
 
     # renpy/common/00director.rpy:1662
     old "Change"
@@ -426,7 +426,7 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1753
     old "Click to toggle attribute, right click to toggle negative attribute."
-    new "Clic para alternar atributo, clic derecho para alternar atributo negativo."
+    new "Haz clic para alternar el atributo. Clic derecho para alternar el atributo negativo."
 
     # renpy/common/00director.rpy:1765
     old "Transforms:"
@@ -434,11 +434,11 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1776
     old "Click to set transform, right click to add to transform list."
-    new "Haga clic para configurar la transformación, haga clic derecho para agregar a la lista de transformación."
+    new "Haz clic para establecer la transformación. Clic derecho para agregarla a la lista."
 
     # renpy/common/00director.rpy:1777
     old "Customize director.transforms to add more transforms."
-    new "Personalizar director.transforms para agregar más transformaciones."
+    new "Personaliza director.transforms para agregar más transformaciones."
 
     # renpy/common/00director.rpy:1789
     old "Behind:"
@@ -446,7 +446,7 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1800
     old "Click to set, right click to add to behind list."
-    new "Clic para establecer, clic derecho para añadir a la lista de fondo."
+    new "Haz clic para establecer. Clic derecho para añadir a la lista de detrás."
 
     # renpy/common/00director.rpy:1812
     old "Transition:"
@@ -454,11 +454,11 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1822
     old "Click to set."
-    new "Haga clic para establecer."
+    new "Haz clic para establecer."
 
     # renpy/common/00director.rpy:1823
     old "Customize director.transitions to add more transitions."
-    new "Personalizar direction.transitions para agregar más transiciones."
+    new "Personaliza director.transitions para agregar más transiciones."
 
     # renpy/common/00director.rpy:1835
     old "Channel:"
@@ -466,35 +466,35 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1846
     old "Customize director.audio_channels to add more channels."
-    new "Personalice el director.audio_channels para agregar más canales."
+    new "Personaliza director.audio_channels para agregar más canales."
 
     # renpy/common/00director.rpy:1858
     old "Audio Filename:"
-    new "Nombre de archivo de audio:"
+    new "Nombre del archivo de audio:"
 
     # renpy/common/00gui.rpy:448
     old "Are you sure?"
-    new "¿Está seguro?"
+    new "¿Estás seguro?"
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to delete this save?"
-    new "¿Estás seguro de que quieres eliminar este archivo?"
+    new "¿Estás seguro de que quieres eliminar este guardado?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to overwrite your save?"
-    new "¿Estás seguro de que quieres sobrescribir tu archivo guardado?"
+    new "¿Estás seguro de que quieres sobrescribir este guardado?"
 
     # renpy/common/00gui.rpy:451
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Al cargar se perderá el progreso no guardado. \n¿Estás seguro de que quieres hacer esto?"
+    new "Cargar hará que pierdas el progreso no guardado.\n¿Estás seguro de que quieres continuar?"
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to quit?"
-    new "¿Estás seguro de que quieres salir del juego?"
+    new "¿Estás seguro de que quieres salir?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "¿Estás seguro de que quieres regresar al menú principal?"
+    new "¿Estás seguro de que quieres volver al menú principal?\nPerderás el progreso no guardado."
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
@@ -510,19 +510,19 @@ translate spanish strings:
 
     # renpy/common/00gui.rpy:457
     old "Are you sure you want to skip to the next choice?"
-    new "¿Estás seguro de que quieres pasar a la siguiente opción?"
+    new "¿Estás seguro de que quieres avanzar a la siguiente elección?"
 
     # renpy/common/00gui.rpy:458
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "¿Estás seguro/a de que quieres saltar el diálogo no visto hasta la siguiente elección?"
+    new "¿Estás seguro de que quieres saltar el diálogo no visto hasta la siguiente elección?"
 
     # renpy/common/00gui.rpy:459
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "Este archivo de guardado fue creado en un dispositivo diferente. Los archivos de guardado construidos con fines maliciosos pueden dañar su computadora. ¿Confía en el creador de este archivo de guardado y en cualquier persona que haya podido modificarlo?"
+    new "Este guardado fue creado en otro dispositivo. Archivos maliciosos pueden dañar tu computadora. ¿Confías en quien creó este archivo y en cualquiera que pudiera haberlo modificado?"
 
     # renpy/common/00gui.rpy:460
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "¿Confías en el dispositivo en el que se creó el archivo de guardado? Solo debe elegir sí si es el único usuario del dispositivo."
+    new "¿Confías en el dispositivo donde se creó este guardado? Solo elige sí si eres el único usuario del dispositivo."
 
     # renpy/common/00keymap.rpy:325
     old "Failed to save screenshot as %s."
@@ -534,11 +534,11 @@ translate spanish strings:
 
     # renpy/common/00library.rpy:251
     old "Skip Mode"
-    new "Saltar"
+    new "Modo de salto"
 
     # renpy/common/00library.rpy:338
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "Este programa contiene software gratuito bajo una serie de licencias, incluida la licencia del MIT y la licencia pública general de GNU Lesser. Una lista completa de software, incluidos los enlaces al código fuente completo, se puede encontrar en {a=https://www.renpy.org/l/license} aquí {/a}."
+    new "Este programa contiene software libre bajo varias licencias, incluidas la licencia MIT y GNU LGPL. La lista completa, con enlaces al código fuente, está disponible {a=https://www.renpy.org/l/license}aquí{/a}."
 
     # renpy/common/00preferences.rpy:290
     old "display"
@@ -550,7 +550,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:319
     old "skip transitions"
-    new "omitir las transiciones"
+    new "Omitir transiciones"
 
     # renpy/common/00preferences.rpy:321
     old "video sprites"
@@ -562,31 +562,31 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:339
     old "text speed"
-    new "Velocidad de texto"
+    new "Velocidad del texto"
 
     # renpy/common/00preferences.rpy:347
     old "joystick"
-    new "Palanca de mando"
+    new "Mando"
 
     # renpy/common/00preferences.rpy:347
     old "joystick..."
-    new "Palanca de mando..."
+    new "Mando..."
 
     # renpy/common/00preferences.rpy:354
     old "skip"
-    new "saltar"
+    new "Omitir"
 
     # renpy/common/00preferences.rpy:357
     old "skip unseen [text]"
-    new "Saltar sin ser visto [text]"
+    new "Omitir texto no visto [text]"
 
     # renpy/common/00preferences.rpy:362
     old "skip unseen text"
-    new "Saltar texto no visto"
+    new "Omitir texto no visto"
 
     # renpy/common/00preferences.rpy:364
     old "begin skipping"
-    new "Empezar a omitir"
+    new "Comenzar a omitir"
 
     # renpy/common/00preferences.rpy:368
     old "after choices"
@@ -594,7 +594,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:375
     old "skip after choices"
-    new "Saltar después de las elecciones"
+    new "Omitir después de las elecciones"
 
     # renpy/common/00preferences.rpy:377
     old "auto-forward time"
@@ -602,7 +602,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:391
     old "auto-forward"
-    new "avance automático"
+    new "Avance automático"
 
     # renpy/common/00preferences.rpy:398
     old "Auto forward"
@@ -610,15 +610,15 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:401
     old "auto-forward after click"
-    new "avance automático después de hacer clic"
+    new "Avance automático después de hacer clic"
 
     # renpy/common/00preferences.rpy:410
     old "automatic move"
-    new "movimiento automático"
+    new "Movimiento automático"
 
     # renpy/common/00preferences.rpy:419
     old "wait for voice"
-    new "Esperar la voz"
+    new "Esperar voz"
 
     # renpy/common/00preferences.rpy:428
     old "voice sustain"
@@ -630,15 +630,15 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:440
     old "self voicing enable"
-    new "Activar voz automática"
+    new "Habilitar voz automática"
 
     # renpy/common/00preferences.rpy:442
     old "self voicing disable"
-    new "Desactivar voz automática"
+    new "Deshabilitar voz automática"
 
     # renpy/common/00preferences.rpy:446
     old "self voicing volume drop"
-    new "Caída de volumen de la voz automática"
+    new "Reducción del volumen de voz automática"
 
     # renpy/common/00preferences.rpy:454
     old "clipboard voicing"
@@ -646,23 +646,23 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:457
     old "clipboard voicing enable"
-    new "Habilitación de expresión de portapapeles"
+    new "Habilitación de voz del portapapeles"
 
     # renpy/common/00preferences.rpy:459
     old "clipboard voicing disable"
-    new "Desactivar voz del portapapeles"
+    new "Deshabilitar voz del portapapeles"
 
     # renpy/common/00preferences.rpy:463
     old "debug voicing"
-    new "Depurar la voz"
+    new "Depurar voz"
 
     # renpy/common/00preferences.rpy:466
     old "debug voicing enable"
-    new "Habilitar la depuración de voz"
+    new "Habilitar depuración de voz"
 
     # renpy/common/00preferences.rpy:468
     old "debug voicing disable"
-    new "Deshabilitar la depuración de voz"
+    new "Deshabilitar depuración de voz"
 
     # renpy/common/00preferences.rpy:472
     old "emphasize audio"
@@ -678,19 +678,19 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:497
     old "gl framerate"
-    new "Tasa de fotogramas GL"
+    new "Velocidad de fotogramas GL"
 
     # renpy/common/00preferences.rpy:500
     old "gl tearing"
-    new "Desgarro de pantalla GL"
+    new "Desgarro GL"
 
     # renpy/common/00preferences.rpy:503
     old "font transform"
-    new "Transformación de la fuente"
+    new "Transformación de fuente"
 
     # renpy/common/00preferences.rpy:506
     old "font size"
-    new "Tamaño de la fuente"
+    new "Tamaño de fuente"
 
     # renpy/common/00preferences.rpy:514
     old "font line spacing"
@@ -726,11 +726,11 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:579
     old "voice after game menu"
-    new "Voz en el menú del juego"
+    new "Voz después del menú del juego"
 
     # renpy/common/00preferences.rpy:588
     old "restore window position"
-    new "Restaurar la posición de la ventana"
+    new "Restaurar posición de ventana"
 
     # renpy/common/00preferences.rpy:597
     old "reset"
@@ -742,7 +742,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:611
     old "music volume"
-    new "volumen musical"
+    new "Volumen de música"
 
     # renpy/common/00preferences.rpy:612
     old "sound volume"
@@ -754,11 +754,11 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:614
     old "mute main"
-    new "Silencio principal"
+    new "Silenciar principal"
 
     # renpy/common/00preferences.rpy:615
     old "mute music"
-    new "Música muda"
+    new "Silenciar música"
 
     # renpy/common/00preferences.rpy:616
     old "mute sound"
@@ -773,16 +773,16 @@ translate spanish strings:
     new "Silenciar todo"
 
     # renpy/common/00preferences.rpy:701
-    old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Visión de portapapeles habilitado. Presione 'Shift+C' para deshabilitar."
+    old "Clipboard voicing enabled. "
+    new "Clipboard voicing enabled. "
 
     # renpy/common/00preferences.rpy:703
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "Autovocalización activada \" [renpy.display.tts.last] \". Presione 'Alt+Shift+V' para deshabilitar."
+    new "Autovocalización diría \"[renpy.display.tts.last]\". Presiona 'Alt+Shift+V' para deshabilitarla."
 
     # renpy/common/00preferences.rpy:705
-    old "Self-voicing enabled. Press 'v' to disable."
-    new "Autovocalización activada. Presione 'V' para deshabilitar."
+    old "Self-voicing enabled. "
+    new "Self-voicing enabled. "
 
     # renpy/common/00speechbubble.rpy:416
     old "Speech Bubble Editor"
@@ -790,11 +790,11 @@ translate spanish strings:
 
     # renpy/common/00speechbubble.rpy:421
     old "(hide)"
-    new "(Esconder)"
+    new "(Ocultar)"
 
     # renpy/common/00speechbubble.rpy:432
     old "(clear retained bubbles)"
-    new "(Burbujas retenidas claras)"
+    new "(Borrar globos retenidos)"
 
     # renpy/common/00sync.rpy:70
     old "Sync downloaded."
@@ -802,27 +802,27 @@ translate spanish strings:
 
     # renpy/common/00sync.rpy:193
     old "Could not connect to the Ren'Py Sync server."
-    new "No se pudo conectar al servidor de sincronización Ren'Py."
+    new "No se pudo conectar al servidor de sincronización de Ren'Py."
 
     # renpy/common/00sync.rpy:195
     old "The Ren'Py Sync server timed out."
-    new "El servidor Ren'Py Sync ha expirado."
+    new "El servidor de sincronización de Ren'Py agotó el tiempo de espera."
 
     # renpy/common/00sync.rpy:197
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    new "Se produjo un error desconocido al conectarse al servidor de sincronización Ren'Py."
+    new "Ocurrió un error desconocido al conectar con el servidor de sincronización de Ren'Py."
 
     # renpy/common/00sync.rpy:213
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new "El servidor Ren'Py Sync no tiene una copia de esta sincronización. Puede que el ID de sincronización no sea válido o que se haya agotado el tiempo de espera."
+    new "El servidor de sincronización de Ren'Py no tiene una copia de esta sincronización. El ID puede ser inválido o haber expirado."
 
     # renpy/common/00sync.rpy:316
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "Ingrese la ID de sincronización que generó. \nNunca ingrese una ID de sincronización que no creó usted mismo."
+    new "Ingresa el ID de sincronización que generaste.\nNunca ingreses un ID que no hayas creado tú."
 
     # renpy/common/00sync.rpy:335
     old "The sync ID is not in the correct format."
-    new "La ID de sincronización no está en el formato correcto."
+    new "El ID de sincronización no tiene el formato correcto."
 
     # renpy/common/00sync.rpy:355
     old "The sync could not be decrypted."
@@ -838,7 +838,7 @@ translate spanish strings:
 
     # renpy/common/00sync.rpy:440
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "Esto cargará sus archivos guardados en el servidor de sincronización {a=https://sync.renpy.org} Ren'py {/a}. \ N ¿Deseas continuar?"
+    new "Esto subirá tus guardados al {a=https://sync.renpy.org}Servidor de sincronización de Ren'Py{/a}.\n¿Quieres continuar?"
 
     # renpy/common/00sync.rpy:448
     old "Yes"
@@ -850,11 +850,11 @@ translate spanish strings:
 
     # renpy/common/00sync.rpy:472
     old "Enter Sync ID"
-    new "Introducir ID de sincronización"
+    new "Ingresar ID de sincronización"
 
     # renpy/common/00sync.rpy:483
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "Esto se pondrá en contacto con el servidor de sincronización {a=https://sync.renpy.org} Ren'py {/a}."
+    new "Esto contactará al {a=https://sync.renpy.org}Servidor de sincronización de Ren'Py{/a}."
 
     # renpy/common/00sync.rpy:513
     old "Sync Success"
@@ -862,11 +862,11 @@ translate spanish strings:
 
     # renpy/common/00sync.rpy:516
     old "The Sync ID is:"
-    new "La identificación de sincronización es:"
+    new "El ID de sincronización es:"
 
     # renpy/common/00sync.rpy:522
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "Puede usar esta identificación para descargar su guardado en otro dispositivo. \nEsta sincronización expirará en una hora. \n La sincronización de Ren'py es compatible con los patrocinadores de {a=https://www.renpy.org/sponsors.html} Ren'py {/a}."
+    new "Puedes usar este ID para descargar tu guardado en otro dispositivo.\nEsta sincronización expirará en una hora.\nRen'Py Sync es posible gracias a los {a=https://www.renpy.org/sponsors.html}patrocinadores de Ren'Py{/a}."
 
     # renpy/common/00sync.rpy:526
     old "Continue"
@@ -882,7 +882,7 @@ translate spanish strings:
 
     # renpy/common/00translation.rpy:84
     old " translates [tl.filename]:[tl.linenumber]"
-    new " traduce [tl.filename]: [tl.linenumber]"
+    new " traduce [tl.filename]:[tl.linenumber]"
 
     # renpy/common/00translation.rpy:101
     old "\n{color=#fff}Copied to clipboard.{/color}"
@@ -890,7 +890,7 @@ translate spanish strings:
 
     # renpy/common/00iap.rpy:231
     old "Contacting App Store\nPlease Wait..."
-    new "Contactando a la App Store \nPor favor espere..."
+    new "Contactando con la App Store\nPor favor, espera..."
 
     # renpy/common/00updater.rpy:505
     old "No update methods found."
@@ -910,7 +910,7 @@ translate spanish strings:
 
     # renpy/common/00updater.rpy:953
     old "Either this project does not support updating, or the update status file was deleted."
-    new "O este proyecto no admite la actualización, o se eliminó el archivo de estado de actualización."
+    new "Este proyecto no admite actualizaciones, o el archivo de estado de actualización fue eliminado."
 
     # renpy/common/00updater.rpy:967
     old "This account does not have permission to perform an update."
@@ -922,7 +922,7 @@ translate spanish strings:
 
     # renpy/common/00updater.rpy:1050
     old "Could not verify update signature."
-    new "No pudo verificar la firma de actualización."
+    new "No se pudo verificar la firma de actualización."
 
     # renpy/common/00updater.rpy:1373
     old "The update file was not downloaded."
@@ -930,11 +930,11 @@ translate spanish strings:
 
     # renpy/common/00updater.rpy:1391
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "El archivo de actualización no tiene el resumen correcto: puede haberse dañado."
+    new "El archivo de actualización no tiene el resumen correcto; puede haberse dañado."
 
     # renpy/common/00updater.rpy:1541
     old "While unpacking {}, unknown type {}."
-    new "Mientras desempaqueta {},tipo desconocido{}."
+    new "Al desempaquetar {}, tipo desconocido {}."
 
     # renpy/common/00updater.rpy:2022
     old "Updater"
@@ -942,11 +942,11 @@ translate spanish strings:
 
     # renpy/common/00updater.rpy:2029
     old "An error has occured:"
-    new "Se ha producido un error:"
+    new "Ha ocurrido un error:"
 
     # renpy/common/00updater.rpy:2031
     old "Checking for updates."
-    new "Verificar las actualizaciones."
+    new "Buscando actualizaciones."
 
     # renpy/common/00updater.rpy:2033
     old "This program is up to date."
@@ -954,7 +954,7 @@ translate spanish strings:
 
     # renpy/common/00updater.rpy:2035
     old "[u.version] is available. Do you want to install it?"
-    new "[u.version] está disponible. ¿Quieres instalarlo?"
+    new "[u.version] está disponible. ¿Quieres instalarla?"
 
     # renpy/common/00updater.rpy:2037
     old "Preparing to download the updates."
@@ -970,15 +970,15 @@ translate spanish strings:
 
     # renpy/common/00updater.rpy:2043
     old "Finishing up."
-    new "Terminando."
+    new "Finalizando."
 
     # renpy/common/00updater.rpy:2045
     old "The updates have been installed. The program will restart."
-    new "Se han instalado las actualizaciones. El programa se reiniciará."
+    new "Las actualizaciones se han instalado. El programa se reiniciará."
 
     # renpy/common/00updater.rpy:2047
     old "The updates have been installed."
-    new "Se han instalado las actualizaciones."
+    new "Las actualizaciones se han instalado."
 
     # renpy/common/00updater.rpy:2049
     old "The updates were cancelled."
@@ -998,15 +998,15 @@ translate spanish strings:
 
     # renpy/common/00updater.rpy:2084
     old "The game data has been downloaded."
-    new "Los datos del juego han sido descargados."
+    new "Los datos del juego se han descargado."
 
     # renpy/common/00updater.rpy:2086
     old "An error occured when trying to download game data:"
-    new "Se produjo un error al intentar descargar datos del juego:"
+    new "Ocurrió un error al intentar descargar los datos del juego:"
 
     # renpy/common/00updater.rpy:2091
     old "This game cannot be run until the game data has been downloaded."
-    new "Este juego no se puede ejecutar hasta que se hayan descargado los datos del juego."
+    new "Este juego no puede ejecutarse hasta que los datos del juego se hayan descargado."
 
     # renpy/common/00updater.rpy:2098
     old "Retry"
@@ -1026,11 +1026,11 @@ translate spanish strings:
 
     # renpy/common/00gallery.rpy:665
     old "slideshow"
-    new "Presentación de diapositivas"
+    new "Presentación"
 
     # renpy/common/00gallery.rpy:666
     old "return"
-    new "regresar"
+    new "Regresar"
 
     # renpy/common/00gltest.rpy:90
     old "Renderer"
@@ -1038,7 +1038,7 @@ translate spanish strings:
 
     # renpy/common/00gltest.rpy:94
     old "Automatically Choose"
-    new "Elija automáticamente"
+    new "Elegir automáticamente"
 
     # renpy/common/00gltest.rpy:101
     old "Force GL Renderer"
@@ -1058,7 +1058,7 @@ translate spanish strings:
 
     # renpy/common/00gltest.rpy:122
     old "Force ANGLE2 Renderer"
-    new "Force Angle2 Renderer"
+    new "Forzar renderizador ANGLE2"
 
     # renpy/common/00gltest.rpy:127
     old "Force GLES2 Renderer"
@@ -1066,7 +1066,7 @@ translate spanish strings:
 
     # renpy/common/00gltest.rpy:137
     old "Enable (No Blocklist)"
-    new "Habilitar (sin lista de bloques)"
+    new "Habilitar (sin lista de bloqueo)"
 
     # renpy/common/00gltest.rpy:160
     old "Powersave"
@@ -1094,7 +1094,7 @@ translate spanish strings:
 
     # renpy/common/00gltest.rpy:208
     old "Changes will take effect the next time this program is run."
-    new "Los cambios entrarán en vigencia la próxima vez que se ejecute este programa."
+    new "Los cambios surtirán efecto la próxima vez que se ejecute este programa."
 
     # renpy/common/00gltest.rpy:244
     old "Performance Warning"
@@ -1102,35 +1102,35 @@ translate spanish strings:
 
     # renpy/common/00gltest.rpy:249
     old "This computer is using software rendering."
-    new "Esta computadora está usando software de renderizado."
+    new "Esta computadora está usando renderizado por software."
 
     # renpy/common/00gltest.rpy:251
     old "This game requires use of GL2 that can't be initialised."
-    new "Este juego requiere el uso de GL2 que no se puede inicializar."
+    new "Este juego requiere GL2, que no puede inicializarse."
 
     # renpy/common/00gltest.rpy:253
     old "This computer has a problem displaying graphics: [problem]."
-    new "Esta computadora tiene un problema que muestra gráficos: [problem]."
+    new "Esta computadora tiene un problema al mostrar gráficos: [problem]."
 
     # renpy/common/00gltest.rpy:257
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "Sus controladores gráficos pueden estar desactualizados o no operar correctamente. Esto puede conducir a una pantalla gráfica lenta o incorrecta."
+    new "Los controladores gráficos pueden estar desactualizados o no funcionar correctamente, lo que puede causar lentitud o errores de visualización."
 
     # renpy/common/00gltest.rpy:261
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "El archivo {a=edit:1:log.txt} log.txt {/a} puede contener información para ayudarlo a determinar qué está mal con su computadora."
+    new "El archivo {a=edit:1:log.txt}log.txt{/a} puede contener información para ayudarte a determinar qué está fallando en tu computadora."
 
     # renpy/common/00gltest.rpy:266
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "Se pueden encontrar más detalles sobre cómo solucionar esto en la documentación {a=[url]} {/a}."
+    new "Más detalles sobre cómo solucionar esto pueden encontrarse en la {a=[url]}documentación{/a}."
 
     # renpy/common/00gltest.rpy:271
     old "Continue, Show this warning again"
-    new "Continúe, muestre esta advertencia nuevamente"
+    new "Continuar, mostrar esta advertencia nuevamente"
 
     # renpy/common/00gltest.rpy:275
     old "Continue, Don't show warning again"
-    new "Continúe, no muestre advertencia de nuevo"
+    new "Continuar, no mostrar esta advertencia de nuevo"
 
     # renpy/common/00gltest.rpy:283
     old "Change render options"
@@ -1146,11 +1146,11 @@ translate spanish strings:
 
     # renpy/common/00gamepad.rpy:56
     old "Calibrating [name] ([i]/[total])"
-    new "Calibración [name] ([i]/[total])"
+    new "Calibrando [name] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:60
     old "Press or move the '[control!s]' [kind]."
-    new "Presione o mueva el '[control!s]' [kind]."
+    new "Presiona o mueve el '[control!s]' [kind]."
 
     # renpy/common/00gamepad.rpy:70
     old "Skip (A)"
@@ -1158,11 +1158,11 @@ translate spanish strings:
 
     # renpy/common/00gamepad.rpy:73
     old "Back (B)"
-    new "Atrás (b)"
+    new "Atrás (B)"
 
     # renpy/common/_errorhandling.rpym:674
     old "Open"
-    new "Abierto"
+    new "Abrir"
 
     # renpy/common/_errorhandling.rpym:676
     old "Opens the traceback.txt file in a text editor."
@@ -1170,7 +1170,7 @@ translate spanish strings:
 
     # renpy/common/_errorhandling.rpym:678
     old "Copy BBCode"
-    new "Copiar el código BB"
+    new "Copiar BBCode"
 
     # renpy/common/_errorhandling.rpym:680
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
@@ -1194,7 +1194,7 @@ translate spanish strings:
 
     # renpy/common/_errorhandling.rpym:741
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "Intenta retroceder a un momento anterior, permitiéndole guardar o elegir una opción diferente."
+    new "Intenta retroceder a un punto anterior, permitiéndote guardar o elegir otra opción."
 
     # renpy/common/_errorhandling.rpym:744
     old "Ignore"
@@ -1202,11 +1202,11 @@ translate spanish strings:
 
     # renpy/common/_errorhandling.rpym:748
     old "Ignores the exception, allowing you to continue."
-    new "Ignora la excepción, lo que te permite continuar."
+    new "Ignora la excepción, permitiéndote continuar."
 
     # renpy/common/_errorhandling.rpym:750
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new "Ignora la excepción, lo que te permite continuar. Esto a menudo conduce a errores adicionales."
+    new "Ignora la excepción, permitiéndote continuar. Esto suele llevar a errores adicionales."
 
     # renpy/common/_errorhandling.rpym:754
     old "Reload"
@@ -1214,7 +1214,7 @@ translate spanish strings:
 
     # renpy/common/_errorhandling.rpym:756
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new "Recarga el juego desde el disco, guardando y restaurando el estado del juego si es posible."
+    new "Recarga el juego desde el disco, guardando y restaurando el estado si es posible."
 
     # renpy/common/_errorhandling.rpym:759
     old "Console"
@@ -1222,23 +1222,23 @@ translate spanish strings:
 
     # renpy/common/_errorhandling.rpym:761
     old "Opens a console to allow debugging the problem."
-    new "Abre una consola para permitir la depuración del problema."
+    new "Abre una consola para depurar el problema."
 
     # renpy/common/_errorhandling.rpym:774
     old "Quits the game."
-    new "Salir del juego."
+    new "Sale del juego."
 
     # renpy/common/_errorhandling.rpym:796
     old "Parsing the script failed."
-    new "Analizar el script fallido."
+    new "Falló el análisis del script."
 
 translate spanish strings:
 
-    # renpy/common/00accessibility.rpy:29
-    old "Clipboard voicing enabled. "
-    new "Clipboard voicing enabled. "
+    # renpy/common/00preferences.rpy:701
+    old "Clipboard voicing enabled. Press 'shift+C' to disable."
+    new "Clipboard voicing enabled. Press 'shift+C' to disable."
 
-    # renpy/common/00accessibility.rpy:30
-    old "Self-voicing enabled. "
-    new "Self-voicing enabled. "
+    # renpy/common/00preferences.rpy:705
+    old "Self-voicing enabled. Press 'v' to disable."
+    new "Self-voicing enabled. Press 'v' to disable."
 

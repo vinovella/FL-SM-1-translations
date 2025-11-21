@@ -2,7 +2,7 @@
 translate spanish sm1cs_tl002_25e8e476:
 
     # mc "How have I never seen this place before?"
-    mc "¿Cómo nunca he visto este lugar antes?"
+    mc "¿Cómo nunca había visto este lugar antes?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:18
 translate spanish sm1cs_tl002_88d10eca:
@@ -26,7 +26,7 @@ translate spanish sm1cs_tl002_7963fdb5:
 translate spanish sm1cs_tl002_833a73e2:
 
     # mc "You, uhm, didn't. I was excited about the, uhh... dildos."
-    mc "Tú, uhm, no lo hiciste. Estaba entusiasmado con el, uhh... consoladores."
+    mc "No, uhm... no me asustaste. Estaba entusiasmado con los, uhh... consoladores."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:29
 translate spanish sm1cs_tl002_f78ce37b:
@@ -44,7 +44,7 @@ translate spanish sm1cs_tl002_9c135e76:
 translate spanish sm1cs_tl002_7f76f812:
 
     # tl "Hey man, no shame here. Whatever floats your boat."
-    tl "Oye, amigo, no te avergüences. Lo que sea que flote en tu bote."
+    tl "Oye, amigo, no te avergüences. Lo que a ti te funcione."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:38
 translate spanish sm1cs_tl002_d5c9df98:
@@ -56,7 +56,7 @@ translate spanish sm1cs_tl002_d5c9df98:
 translate spanish sm1cs_tl002_4ee6c4bb:
 
     # tl "Whatever, smooth brain. Let's take a look around."
-    tl "Lo que sea, cerebro suave. Echemos un vistazo."
+    tl "Lo que sea, cabeza hueca. Echemos un vistazo."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:44
 translate spanish sm1cs_tl002_ba0cc9b1:
@@ -68,7 +68,7 @@ translate spanish sm1cs_tl002_ba0cc9b1:
 translate spanish sm1cs_tl002_0910c569:
 
     # tl "You know, if you don't have a film start soon, I might have to get one of these little guys."
-    tl "Sabes, si no tienes una película de inicio pronto, podría tener que conseguir uno de estos pequeños."
+    tl "Sabes, si no empezamos a filmar pronto, voy a tener que llevarme uno de estos pequeñitos."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:52
 translate spanish sm1cs_tl002_d8af05d5:
@@ -110,25 +110,25 @@ translate spanish sm1cs_tl002_64aa3d73:
 translate spanish sm1cs_tl002_afcfa447:
 
     # tl "But nothing beats a real dick. Nothing.{w} It would just be nice if you also shoved something in my ass while you fucked me."
-    tl "Pero nada supera a una polla de verdad. Nada.{w} Estaría bien que también me metieras algo por el culo mientras me follas."
+    tl "Pero nada supera a una polla de verdad. Nada.{w} Sería bueno que también me pusieras algo en el culo mientras me follas."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:67
 translate spanish sm1cs_tl002_e0d9a7e1:
 
     # mct "God, Taisia is a freak."
-    mct "Dios, Taisia es un monstruo."
+    mct "Dios, Taisia es una desatada."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:69
 translate spanish sm1cs_tl002_d1123148:
 
     # mc "Well, uhm, why don't you tell me something else about yourself?"
-    mc "Bueno, uhm, ¿por qué no me dices algo más sobre ti?"
+    mc "Bueno, uhm, ¿por qué no me cuentas algo más sobre ti?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:72
 translate spanish sm1cs_tl002_48008a5e:
 
     # tl "Like what? I already told you about my kinks-"
-    tl "¿Cómo qué? Ya te hablé de mis perversiones..."
+    tl "¿Como qué? Ya te hablé de mis perversiones..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:74
 translate spanish sm1cs_tl002_ccd16d34:
@@ -140,7 +140,7 @@ translate spanish sm1cs_tl002_ccd16d34:
 translate spanish sm1cs_tl002_fec24e32:
 
     # tl "Like what?"
-    tl "¿Cómo qué?"
+    tl "¿Como qué?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:82
 translate spanish sm1cs_tl002_3bd720a7:
@@ -158,7 +158,7 @@ translate spanish sm1cs_tl002_cb1510e8:
 translate spanish sm1cs_tl002_cbb72223:
 
     # mc "Yeah, that's kind of the point of talking to your costar, you know? What do you like, what things interest you. That sort of thing."
-    mc "Sí, ese es el punto de hablar con tu coprotagonista, ¿sabes? ¿Qué te gusta, qué cosas te interesan? Ese tipo de cosas."
+    mc "Sí, ese es el punto de hablar con tu coprotagonista, ¿sabes? Qué te gusta, qué cosas te interesan. Ese tipo de cosas."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:90
 translate spanish sm1cs_tl002_9df84382:
@@ -170,25 +170,25 @@ translate spanish sm1cs_tl002_9df84382:
 translate spanish sm1cs_tl002_dfbd2539:
 
     # mc "What? Did I say something bad or something?"
-    mc "¿Qué? ¿Dije algo malo o algo?"
+    mc "¿Qué? ¿Dije algo malo o algo así?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:97
 translate spanish sm1cs_tl002_5646e2a6:
 
     # tl "No, it's just..."
-    tl "No, es solo..."
+    tl "No, es solo que..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:100
 translate spanish sm1cs_tl002_4a15a5bb:
 
     # tl "Usually guys just want to get to know me to try and fuck me. But, since you already fucked me... I don't know."
-    tl "Por lo general, los chicos solo quieren conocerme para intentar follarme. Pero, como ya me jodiste ... no lo sé."
+    tl "Por lo general, los chicos solo quieren conocerme para intentar follarme. Pero, como tú ya me follaste... no lo sé."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:101
 translate spanish sm1cs_tl002_bbad5cac:
 
     # tl "I just... don't get asked about 'me' a lot, you know?"
-    tl "Simplemente... no me preguntan mucho sobre 'mí', ¿sabes?"
+    tl "Es solo que... no suelen preguntarme mucho sobre mí, ¿sabes?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:104
 translate spanish sm1cs_tl002_accdcd89:
@@ -218,7 +218,7 @@ translate spanish sm1cs_tl002_ff166e82:
 translate spanish sm1cs_tl002_b7bd295a:
 
     # mc "Oh?{w} Shit, getting offered a mechanic job makes way more sense now."
-    mc "¿Oh?{w} Mierda, que te ofrezcan un trabajo de mecánico tiene mucho más sentido ahora."
+    mc "¿Oh?{w} Mierda, que te hayan ofrecido un trabajo de mecánica tiene mucho más sentido ahora."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:119
 translate spanish sm1cs_tl002_7256c754:
@@ -284,7 +284,7 @@ translate spanish sm1cs_tl002_a9159dbd:
 translate spanish sm1cs_tl002_c197d36b:
 
     # tl "Doesn't matter. I just remember them being cool and sexy. I caught the bug right then and there. I watched every car movie I could, and started working on cars."
-    tl "No importa. Sólo recuerdo que eran geniales y sexys. Me picó el gusanillo en ese mismo momento. Vi todas las películas de autos que pude y empecé a trabajar en autos."
+    tl "No importa. Solo recuerdo que eran geniales y sexys. Me picó el gusanillo en ese mismo momento. Vi todas las películas de autos que pude y empecé a trabajar en autos."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:145
 translate spanish sm1cs_tl002_7f2950c8:
@@ -338,7 +338,7 @@ translate spanish sm1cs_tl002_1ec9987f:
 translate spanish sm1cs_tl002_45045b6b:
 
     # mc "Uh huh, like, uhm... The cars that go in the circle?"
-    mc "Uh Huh, como, uhm... ¿los autos que van en el círculo?"
+    mc "Uh huh, como, uhm... ¿los autos que van en el círculo?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:162
 translate spanish sm1cs_tl002_3453c172:
@@ -350,13 +350,13 @@ translate spanish sm1cs_tl002_3453c172:
 translate spanish sm1cs_tl002_9c3c517c:
 
     # mc "What do you mean, I thought you liked cars and racers and stuff?"
-    mc "¿A qué te refieres, pensé que te gustaban los autos, los corredores y esas cosas?"
+    mc "¿A qué te refieres? Pensé que te gustaban los autos, los corredores y esas cosas."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:168
 translate spanish sm1cs_tl002_c63d0ee5:
 
     # tl "{i}Street{/i} racers. Not that lame-o track shit."
-    tl "{i}corredores{/i} callejeros. No es esa mierda de pista."
+    tl "Corredores {i}callejeros{/i}. No esa mierda de pista."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:169
 translate spanish sm1cs_tl002_44cc7630:
@@ -380,13 +380,13 @@ translate spanish sm1cs_tl002_4cb02809:
 translate spanish sm1cs_tl002_6dd27602:
 
     # mc "Yeah... Okay, so a movie about a street racer, and... I don't know. I'll have to go home and work on a script, and getting a location figured out..."
-    mc "Sí... Bien, una película sobre un corredor callejero, y... no sé. Tendré que ir a casa y trabajar en un guión, y conseguir una ubicación..."
+    mc "Sí... Bien, una película sobre un corredor callejero, y... no sé. Tendré que ir a casa y trabajar en un guion, y conseguir una ubicación..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:179
 translate spanish sm1cs_tl002_208a7153:
 
     # mc "I don't know if this is a job for Kanya... I don't think we'll make a lot on this one..."
-    mc "No sé si este es un trabajo para Kanya... no creo que hagamos mucho en este..."
+    mc "No sé si este es un trabajo para Kanya... no creo que ganemos mucho con esta..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:182
 translate spanish sm1cs_tl002_3bd90a01:
@@ -428,7 +428,7 @@ translate spanish sm1cs_tl002_65534fec:
 translate spanish sm1cs_tl002_6e57b8be:
 
     # tl "Right? I would look super hot in that."
-    tl "¿Bien? Me vería súper sexy en eso."
+    tl "¿Verdad? Me vería súper sexy con eso."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:197
 translate spanish sm1cs_tl002_8f41f84b:
@@ -464,7 +464,7 @@ translate spanish sm1cs_tl002_1088cde2:
 translate spanish sm1cs_tl002_1ed5ccc8:
 
     # "Worker" "Right this way."
-    "Trabajadora" "Bien por aquí."
+    "Trabajadora" "Por aquí."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:216
 translate spanish sm1cs_tl002_2fa0d64b:
@@ -494,13 +494,13 @@ translate spanish sm1cs_tl002_45d58bfa:
 translate spanish sm1cs_tl002_efab7677:
 
     # tl "Sorry. I just look {i}fucking good{/i} in this."
-    tl "Lo siento. Me veo {i}jodidamente bien{/i} en esto."
+    tl "Lo siento. Me veo {i}jodidamente bien{/i} con esto."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:231
 translate spanish sm1cs_tl002_39e878e1:
 
     # mc "Jesus, you had me wor-"
-    mc "Jesús, me tenías..."
+    mc "Jesús, me tenías—"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:233
 translate spanish sm1cs_tl002_2b35b6fe:
@@ -512,7 +512,7 @@ translate spanish sm1cs_tl002_2b35b6fe:
 translate spanish sm1cs_tl002_ef19b81d:
 
     # tl "Yeah? Your brain short circuit?"
-    tl "¿Sí? ¿Tu cortocircuito cerebral?"
+    tl "¿Sí? ¿Se te hizo cortocircuito el cerebro?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:239
 translate spanish sm1cs_tl002_c1e7f53c:
@@ -530,7 +530,7 @@ translate spanish sm1cs_tl002_b801b721:
 translate spanish sm1cs_tl002_62376bd4:
 
     # tl "How does my ass look though?"
-    tl "¿Cómo se ve mi culo?"
+    tl "¿Y cómo se ve mi culo?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:252
 translate spanish sm1cs_tl002_c1e7f53c_1:
@@ -548,7 +548,7 @@ translate spanish sm1cs_tl002_cf88d197:
 translate spanish sm1cs_tl002_ef4ee3c6:
 
     # tl "Can you just imagine..."
-    tl "¿Puedes imaginarme..."
+    tl "Puedes imaginarme..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:262
 translate spanish sm1cs_tl002_c27f33c0:
@@ -560,7 +560,7 @@ translate spanish sm1cs_tl002_c27f33c0:
 translate spanish sm1cs_tl002_78fb6103:
 
     # tl "Getting out of a sexy car in this..."
-    tl "Salir de un auto sexy con este atuendo..."
+    tl "Bajando de un auto sexy con este atuendo..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:270
 translate spanish sm1cs_tl002_751e3ef4:
@@ -590,19 +590,19 @@ translate spanish sm1cs_tl002_4180c24a:
 translate spanish sm1cs_tl002_cb723dc7:
 
     # mc "I'd... Let you use my gear shift whenever you wanted."
-    mc "Yo... te dejaría usar mi palanca de cambio cuando quisieras."
+    mc "Yo... te dejaría usar mi palanca de cambios cuando quisieras."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:282
 translate spanish sm1cs_tl002_6f5d4463:
 
     # tl "Not bad. You're starting to catch on."
-    tl "No está mal. Estás empezando a entender."
+    tl "No está mal. Estás empezando a entenderlo."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:283
 translate spanish sm1cs_tl002_255af707:
 
     # tl "You want to race for my tight, wet, little pink... Slip?"
-    tl "Quieres hacer una carrera por mi apretado, húmedo, rosadito..."
+    tl "¿Quieres correr por mi apretado, húmedo y rosadito...?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:287
 translate spanish sm1cs_tl002_596784ab:
@@ -614,43 +614,43 @@ translate spanish sm1cs_tl002_596784ab:
 translate spanish sm1cs_tl002_9db79c19:
 
     # tl "I promise, I'll go real... Real... Slow..."
-    tl "Lo prometo, iré... muy... lento..."
+    tl "Lo prometo, iré... muy... muy... despacio..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:292
 translate spanish sm1cs_tl002_43187d71:
 
     # tl "Unless you think you can handle me in 5th gear."
-    tl "A menos que creas que puedes conmigo en la quinta marcha."
+    tl "A menos que creas que puedes manejarme en quinta marcha."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:295
 translate spanish sm1cs_tl002_58b58807:
 
     # mc "Oh, I think I can even get you into 6th."
-    mc "Oh, creo que incluso puedo llevarte a la sexta."
+    mc "Oh, creo que incluso puedo llevarte a sexta."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:303
 translate spanish sm1cs_tl002_worker_88ebbf02:
 
     # tl "Well-"
-    tl "Bien..."
+    tl "Bueno..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:309
 translate spanish sm1cs_tl002_worker_63882ad0:
 
     # "Worker" "Hey! You can't do that in here! At least, not until you've paid for the outfit!"
-    "Trabajadora" "¡Ey! ¡No pueden hacer eso aquí! ¡Al menos, no hasta que hayas pagado por el atuendo!"
+    "Trabajadora" "¡Ey! ¡No pueden hacer eso aquí! ¡Al menos no hasta que hayan pagado por el atuendo!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:311
 translate spanish sm1cs_tl002_worker_9d2f0b59:
 
     # tl "Don't worry, we'll take it.{w} Among a few other things. Right, [mcname]?"
-    tl "No se preocupe, lo tomaremos.{w} Entre otras cosas. ¿Verdad, [mcname]?"
+    tl "No se preocupe, lo llevaremos.{w} Y unas cuantas cosas más. ¿Verdad, [mcname]?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:315
 translate spanish sm1cs_tl002_worker_ea6e3bd1:
 
     # mc "Yes. Definitely getting the outfit."
-    mc "Sí. Definitivamente obtener el atuendo."
+    mc "Sí. Definitivamente nos llevamos el atuendo."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:317
 translate spanish sm1cs_tl002_worker_ea29e112:
@@ -662,7 +662,7 @@ translate spanish sm1cs_tl002_worker_ea29e112:
 translate spanish sm1cs_tl002_worker_0bb41cea:
 
     # "Worker" "Okay, that's going to be $50."
-    "Trabajadora" "Bien, eso será $50."
+    "Trabajadora" "Bien, serán $50."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:324
 translate spanish sm1cs_tl002_worker_9c5de379:
@@ -674,13 +674,13 @@ translate spanish sm1cs_tl002_worker_9c5de379:
 translate spanish sm1cs_tl002_worker_c3f89c23:
 
     # mc "Oh, yeah. Here you go!"
-    mc "Oh sí. ¡Aquí tienes!"
+    mc "Oh, sí. ¡Aquí tienes!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:332
 translate spanish sm1cs_tl002_worker_b415620e:
 
     # "Worker" "Great! Let me get this wrapped up for you."
-    "Trabajadora" "¡Excelente! Déjame arreglarlo para ti."
+    "Trabajadora" "¡Perfecto! Déjame envolverlo para ti."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:337
 translate spanish sm1cs_tl002_worker_e8e463fe:
@@ -698,19 +698,19 @@ translate spanish sm1cs_tl002_worker_856843b1:
 translate spanish sm1cs_tl002_worker_c39e1741:
 
     # tl "Well..."
-    tl "Bien..."
+    tl "Bueno..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:345
 translate spanish sm1cs_tl002_worker_4f46bebc:
 
     # tl "Thanks for the follow through, [mcname]."
-    tl "Gracias por el esfuerzo, [mcname]."
+    tl "Gracias por cumplir, [mcname]."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:346
 translate spanish sm1cs_tl002_worker_db6bc240:
 
     # tl "But I'll catch you later. I have a few things I need to take care of today. See ya'."
-    tl "Pero te veré más tarde. Tengo algunas cosas de las que ocuparme hoy. Nos vemos."
+    tl "Pero te veré luego. Tengo algunas cosas que atender hoy. Nos vemos."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:349
 translate spanish sm1cs_tl002_worker_0419d335:
@@ -734,13 +734,13 @@ translate spanish sm1cs_tl002_worker_de0ecb93:
 translate spanish sm1cs_tl002_worker_694cba8f:
 
     # mc "I've had a stroke of genius!"
-    mc "¡He tenido un golpe de genialidad!"
+    mc "¡Se me ocurrió una idea genial!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:374
 translate spanish sm1cs_tl002_worker_f99e5998:
 
     # sy "Quick, lift up your left arm!"
-    sy "¡Rápido, levante el brazo izquierdo!"
+    sy "¡Rápido, levanta el brazo izquierdo!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:378
 translate spanish sm1cs_tl002_worker_05500ff6:
@@ -752,19 +752,19 @@ translate spanish sm1cs_tl002_worker_05500ff6:
 translate spanish sm1cs_tl002_worker_bb590141:
 
     # sy "I'm assuming that you're having just a regular stroke and it scrambled your brain."
-    sy "Supongo que estás teniendo un derrame cerebral normal y que te ha revuelto el cerebro."
+    sy "Supongo que estás teniendo un derrame cerebral normal y te desordenó el cerebro."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:385
 translate spanish sm1cs_tl002_worker_a3e2bc78:
 
     # mc "What! No! I'm being serious. I think I figured out what to do for Taisia's movie!"
-    mc "¡Qué! ¡No! Estoy hablando en serio. ¡Creo que descubrí qué hacer para la película de Taisia!"
+    mc "¡Qué! ¡No! Hablo en serio. ¡Creo que descubrí qué hacer para la película de Taisia!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:388
 translate spanish sm1cs_tl002_worker_5ef431f8:
 
     # sy "Yeah? And what's that, Mr. Spielberg?"
-    sy "¿Sí? ¿Y qué es eso, Sr. Spielberg?"
+    sy "¿Sí? ¿Y qué sería eso, señor Spielberg?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:391
 translate spanish sm1cs_tl002_worker_33660947:
@@ -782,7 +782,7 @@ translate spanish sm1cs_tl002_worker_a50bf924:
 translate spanish sm1cs_tl002_worker_cd97709a:
 
     # sy "It's ready."
-    sy "Está listo."
+    sy "Está lista."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:398
 translate spanish sm1cs_tl002_worker_2f521110:
@@ -794,25 +794,25 @@ translate spanish sm1cs_tl002_worker_2f521110:
 translate spanish sm1cs_tl002_worker_f43d39d4:
 
     # mct "Okay. I can see why Stacy thinks it's a little shitty."
-    mct "Bueno. Puedo ver por qué Stacy piensa que es película de autos de mierda."
+    mct "Bueno. Puedo ver por qué Stacy piensa que es una película de autos de mierda."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:409
 translate spanish sm1cs_tl002_worker_941b4a9f:
 
     # mc "Alright, so now that we know what the movie is like, we need to figure out how to make our own version."
-    mc "Muy bien, ahora que sabemos cómo es la película, necesitamos descubrir cómo hacer nuestra propia versión."
+    mc "Bien, ahora que sabemos cómo es la película, tenemos que descubrir cómo hacer nuestra propia versión."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:411
 translate spanish sm1cs_tl002_worker_839359e9:
 
     # sy "Yup. Our sexier, much better version."
-    sy "Sí. Nuestra versión más sexy, mucho mejor."
+    sy "Sí. Nuestra versión más sexy y mucho mejor."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:416
 translate spanish sm1cs_tl002_worker_d07eae8f:
 
     # sy "The script is taking shape. Let's practice some of these positions and get a feel for it."
-    sy "El guión va tomando forma. Vamos a practicar algunas de estas posiciones y a familiarizarnos con ellas."
+    sy "El guion va tomando forma. Practiquemos algunas de estas posiciones para familiarizarnos."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:418
 translate spanish sm1cs_tl002_worker_fafbfb54:
@@ -836,13 +836,13 @@ translate spanish sm1cs_tl002_worker_3f658580:
 translate spanish sm1cs_tl002_worker_50e2b9fd:
 
     # sy "I mean, maybe not {i}perfect{/i}...{w}But it's pretty good."
-    sy "Quiero decir, tal vez no {i}perfecto{/i}...{w} Pero es bastante bueno."
+    sy "Quiero decir, quizá no {i}perfecto{/i}...{w} pero está bastante bien."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:463
 translate spanish sm1cs_tl002_worker_db277fd2:
 
     # sy "I need to flesh out a few more details, and starting sourcing some of the things to shoot, but I have a good feeling about this."
-    sy "Tengo que concretar algunos detalles más y empezar a buscar algunas cosas para filmar, pero tengo un buen presentimiento."
+    sy "Tengo que afinar algunos detalles más y empezar a buscar algunas cosas para el rodaje, pero tengo un buen presentimiento."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:466
 translate spanish sm1cs_tl002_worker_74fc6761:
@@ -854,7 +854,7 @@ translate spanish sm1cs_tl002_worker_74fc6761:
 translate spanish sm1cs_tl002_worker_f2bee2a6:
 
     # sy "I'll get started. You go keep our actress happy, and I'll let you know when I'm ready to film."
-    sy "Voy a empezar. Ve a mantener feliz a nuestra actriz, y te avisaré cuando esté lista para filmar."
+    sy "Voy a empezar. Tú ve y mantén contenta a nuestra actriz. Te avisaré cuando esté lista para filmar."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:472
 translate spanish sm1cs_tl002_worker_a0062620:
@@ -872,7 +872,7 @@ translate spanish strings:
 
     # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:329
     old "Sexy outfit for Taisia"
-    new "Atuendo sexy para taisia"
+    new "Atuendo sexy para Taisia"
 
     # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:329
     old "You spent $50 on a sexy outfit for Taisia"

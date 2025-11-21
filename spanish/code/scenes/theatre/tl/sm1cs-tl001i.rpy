@@ -14,35 +14,35 @@ translate spanish sm1cs_tl001i_6f85c701:
 translate spanish sm1cs_tl001i_a480849b:
 
     # mc "Yeah! That you are."
-    mc "¡Sí! Eso es lo que eres."
+    mc "¡Sí! Eso eres."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001i.rpy:12
 translate spanish sm1cs_tl001i_c2678b96:
 
     # tl "Hell yeah! So when are we filming our first porn?"
-    tl "¡Demonios, sí! Entonces, ¿cuándo estamos filmando nuestro primer porno?"
+    tl "¡Claro que sí! Entonces, ¿cuándo filmamos nuestro primer porno?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001i.rpy:16
 translate spanish sm1cs_tl001i_e6f0485a:
 
     # mc "Woah, uh, maybe we shouldn't talk about this {i}here{/i}."
-    mc "Woah, eh, tal vez no deberíamos hablar de esto {i}aquí{/i}."
+    mc "Woah, eh... tal vez no deberíamos hablar de esto {i}aquí{/i}."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001i.rpy:18
 translate spanish sm1cs_tl001i_8f19cb01:
 
     # tl "Fucking whatever."
-    tl "Follando lo que sea."
+    tl "Lo que sea, joder."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001i.rpy:19
 translate spanish sm1cs_tl001i_725c9a08:
 
     # mc "But if you have some time, we can go to the studio and talk some more about it?"
-    mc "Pero si tienes algo de tiempo, ¿podemos ir al estudio y hablar un poco más al respecto?"
+    mc "Pero si tienes algo de tiempo, ¿podemos ir al estudio y hablar un poco más sobre esto?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001i.rpy:20
 translate spanish sm1cs_tl001i_b87895d0:
 
     # tl "Lead the way, leading man."
-    tl "Dirige el camino, protagonista."
+    tl "Tú diriges, protagonista."
 

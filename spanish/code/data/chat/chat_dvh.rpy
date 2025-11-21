@@ -10,5 +10,5 @@ translate spanish strings:
 
     # game/code/data/chat/chat_dvh.rpy:3
     old "Ok, I'll be there! 🫡"
-    new "Está bien, ¡estaré ahí! 🫡"
+    new "Está bien, ¡estaré allí! 🫡"
 

@@ -722,7 +722,7 @@ translate spanish strings:
 
     # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:28
     old "Check in on Blitz Alert"
-    new "Verifique la Alerta Relámpago"
+    new "Revisar el desafío relámpago"
 
     # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:28
     old "Focus on Kellie"
@@ -756,5 +756,5 @@ translate spanish strings:
 translate spanish sm1cs_vs004_after_choice_9c38d0b3:
 
     # mc "Never mind. Just... leave it to me."
-    mc "Never mind. Just... leave it to me."
+    mc "No importa. Solo... déjalo en mis manos."
 

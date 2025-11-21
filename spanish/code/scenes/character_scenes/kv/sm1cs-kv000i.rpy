@@ -62,7 +62,7 @@ translate spanish sm1cs_kv000i_5ca38c79:
 translate spanish sm1cs_kv000i_0ed888b4:
 
     # mc "Do you mean Ken's Photo Dojo?"
-    mc "¿Te refieres al dojo de fotos de Ken?"
+    mc "¿Te refieres al Dojo Fotográfico de Ken?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv000i.rpy:34
 translate spanish sm1cs_kv000i_e364bec7:
