@@ -260,7 +260,7 @@ translate italian sm1cs_mh005_after_game_f69df3b7:
 translate italian sm1cs_mh005_after_game_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "Certo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:278
 translate italian sm1cs_mh005_after_game_39f3d5e3:
@@ -458,7 +458,7 @@ translate italian sm1cs_mh005_after_game_92dcf6d4:
 translate italian sm1cs_mh005_after_game_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:404
 translate italian sm1cs_mh005_after_game_d28e9466:
@@ -776,7 +776,7 @@ translate italian sm1cs_mh005_blowjob_d5cd9b30:
 translate italian sm1cs_mh005_blowjob_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:587
 translate italian sm1cs_mh005_blowjob_5bfc2021:
@@ -830,7 +830,7 @@ translate italian sm1cs_mh005_blowjob_26f53832:
 translate italian sm1cs_mh005_blowjob_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "Certo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:624
 translate italian sm1cs_mh005_blowjob_0efae951:

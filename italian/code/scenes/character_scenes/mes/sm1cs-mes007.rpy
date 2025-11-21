@@ -1172,7 +1172,7 @@ translate italian sm1cs_mes007_continue_dea7848b:
 translate italian sm1cs_mes007_continue_af082a20:
 
     # "[mcname] and Min" "*chuckling*"
-    "[mcname] and Min" "*chuckling*"
+    "[mcname] and Min" "*ridacchiando*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:784
 translate italian sm1cs_mes007_continue_04ff985a:

@@ -2346,5 +2346,5 @@ translate italian strings:
 translate italian sm1cs_mh008_f927037e:
 
     # mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
-    mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
+    mh "Non lo so... è passato un po' di tempo da quando abbiamo davvero passato del tempo insieme. Pensavo che potremmo fare qualcosa, andare da qualche parte."
 

@@ -1122,5 +1122,5 @@ translate italian strings:
 translate italian sm1cs_am005_hours_later_2cbd87a6:
 
     # am "So... can we just open up a new doc, [mcname]{w} Start fresh?"
-    am "So... can we just open up a new doc, [mcname]{w} Start fresh?"
+    am "Quindi... possiamo semplicemente aprire un nuovo documento, [mcname]{w} Ricominciare da capo?"
 

@@ -230,7 +230,7 @@ translate italian sm1cs_my003_at_gym_a9863ab1:
 translate italian sm1cs_my003_at_gym_fdfb405e:
 
     # mc "Stretching?"
-    mc "Stretching?"
+    mc "Ti stai allungando?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:154
 translate italian sm1cs_my003_at_gym_3c784739:
