@@ -294,7 +294,7 @@ translate portuguese strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Choking"
-    new "Engasgue"
+    new "Sufocar"
 
     # game/code/data/constants/traits.rpy:82
     old "Extreme"
@@ -304,5 +304,5 @@ translate portuguese strings:
 
     # game/code/data/constants/traits.rpy:82
     old "Nipple Piercings"
-    new "Nipple Piercings"
+    new "Piercings de Mamilos"
 
