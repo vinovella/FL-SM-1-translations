@@ -2,7 +2,7 @@
 translate turkish sm1ms029_part_1_my_appear_34bfa67c:
 
     # my "Theater practice?"
-    my "Theater practice?"
+    my "Tiyatro pratiği mi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2303
 translate turkish sm1ms029_confrontation_23ce713c:
@@ -26,11 +26,11 @@ translate turkish sm1ms029_confrontation_3670d210:
 translate turkish sm1ms029_party_mes_d6798e52:
 
     # mes "I see you two were paying attention!"
-    mes "I see you two were paying attention!"
+    mes "Görüyorum ki ikiniz de dikkat ediyordunuz!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1367
 translate turkish sm1ms029_talk_kv_hr_arj_c8a218be:
 
     # mc "She's a worry wort."
-    mc "She's a worry wort."
+    mc "O bir endişe kurdudur."
 

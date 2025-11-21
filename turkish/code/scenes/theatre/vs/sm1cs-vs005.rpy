@@ -1788,25 +1788,25 @@ translate turkish strings:
 translate turkish sm1cs_vs005_continue_1c0bd942:
 
     # vs "I'm going to take a little nap to recover."
-    vs "I'm going to take a little nap to recover."
+    vs "İyileşmek için biraz kestireceğim."
 
 # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:903
 translate turkish sm1cs_vs005_continue_a20d1c77:
 
     # vs "*soft moans*"
-    vs "*soft moans*"
+    vs "*yumuşak inlemeler*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:904
 translate turkish sm1cs_vs005_continue_3d7c9644:
 
     # mct "Heh heh. I'll cuddle for a little bit..."
-    mct "Heh heh. I'll cuddle for a little bit..."
+    mct "Heh heh. Biraz sarılacağım..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:905
 translate turkish sm1cs_vs005_continue_a297c2d2:
 
     # mct "Then I should get back to work."
-    mct "Then I should get back to work."
+    mct "Sonra işe geri dönmeliyim."
 
 # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:384
 translate turkish sm1cs_vs005_70c5755c:

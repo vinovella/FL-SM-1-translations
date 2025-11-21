@@ -572,7 +572,7 @@ translate turkish sm1mv01s09_movie_start_14180c04:
 translate turkish sm1mv01s09_movie_start_937bb6d4:
 
     # tl "Mmmm, that's better."
-    tl "Mmmm, that's better."
+    tl "Mmmm, bu daha iyi."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:372
 translate turkish sm1mv01s09_movie_start_99240fdc:
@@ -962,7 +962,7 @@ translate turkish sm1mv01s09_movie_start_537a4f69:
 translate turkish sm1mv01s09_movie_start_c0e3de6a:
 
     # sy "Fuuuuuck, Scaaarrrllleeettt!"
-    sy "Fuuuuuck, Scaaarrrllleeettt!"
+    sy "Siiiiiktir, Scaaarrrllleeettt!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:553
 translate turkish sm1mv01s09_movie_start_7df7bcba:
@@ -974,7 +974,7 @@ translate turkish sm1mv01s09_movie_start_7df7bcba:
 translate turkish sm1mv01s09_movie_start_4549baf9:
 
     # tl "*panting* Aahu-huaah..."
-    tl "*panting* Aahu-huaah..."
+    tl "*nefes nefese* Aahu-huaah..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:557
 translate turkish sm1mv01s09_movie_start_900c14ca:
@@ -1088,7 +1088,7 @@ translate turkish sm1mv01s09_movie_start_bcc7b102:
 translate turkish sm1mv01s09_movie_start_c476caa5:
 
     # sy "N...no...!"
-    sy "N...no...!"
+    sy "H...hayır...!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:611
 translate turkish sm1mv01s09_movie_start_c0c14e30:
@@ -1154,7 +1154,7 @@ translate turkish sm1mv01s09_movie_start_c14cc7b4:
 translate turkish sm1mv01s09_movie_start_4118cb69:
 
     # sy "O... oh... Oh...! I'm... oh!"
-    sy "O... oh... Oh...! I'm... oh!"
+    sy "O... oh... Oh...! Ben... oh!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:632
 translate turkish sm1mv01s09_movie_start_f301275b:
@@ -1172,13 +1172,13 @@ translate turkish sm1mv01s09_movie_start_c003baf0:
 translate turkish sm1mv01s09_movie_start_31d18bd4:
 
     # sy "Yes... yessauhaa-ahaha... Ohhhh!"
-    sy "Yes... yessauhaa-ahaha... Ohhhh!"
+    sy "Evet... evetsauhaa-ahaha... Ohhhh!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:640
 translate turkish sm1mv01s09_movie_start_58703d60:
 
     # sy "I'm... I'm... ngggghhhhh!"
-    sy "I'm... I'm... ngggghhhhh!"
+    sy "Ben... Ben... ngggghhhhh!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:641
 translate turkish sm1mv01s09_movie_start_c712d58c:
@@ -1250,19 +1250,19 @@ translate turkish sm1mv01s09_movie_start_0d53b838:
 translate turkish sm1mv01s09_movie_start_2def855b:
 
     # tl "I'm... fine with... that...!"
-    tl "I'm... fine with... that...!"
+    tl "Ben... bununla... iyiyim...!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:678
 translate turkish sm1mv01s09_movie_start_ff844053:
 
     # mc "Fuck, please — shit, your pussy is fantastic, Scarlet!"
-    mc "Fuck, please — shit, your pussy is fantastic, Scarlet!"
+    mc "Kahretsin, lütfen — bok, amın harika, Scarlet!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:681
 translate turkish sm1mv01s09_movie_start_ea2373c6:
 
     # sy "But mine is better!"
-    sy "But mine is better!"
+    sy "Ama benimki daha iyi!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:684
 translate turkish sm1mv01s09_movie_start_738928a5:
@@ -1280,7 +1280,7 @@ translate turkish sm1mv01s09_movie_start_b801a0e8:
 translate turkish sm1mv01s09_movie_start_ce956830:
 
     # tl "Don't... you... dare...!"
-    tl "Don't... you... dare...!"
+    tl "Sakın... ha... cesaret... etme...!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:691
 translate turkish sm1mv01s09_movie_start_2e8a8abb:
@@ -1292,7 +1292,7 @@ translate turkish sm1mv01s09_movie_start_2e8a8abb:
 translate turkish sm1mv01s09_movie_start_0a2da6db:
 
     # tl "I... don't... want... him... to waste... time... with... you...!"
-    tl "I... don't... want... him... to waste... time... with... you...!"
+    tl "Ben... istemiyorum... onun... seninle... zaman... kaybetmesini...!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:695
 translate turkish sm1mv01s09_movie_start_29e76a6e:
@@ -1304,13 +1304,13 @@ translate turkish sm1mv01s09_movie_start_29e76a6e:
 translate turkish sm1mv01s09_movie_start_c9489b97:
 
     # tl "... Hot...!"
-    tl "... Hot...!"
+    tl "... Ateşli...!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:699
 translate turkish sm1mv01s09_movie_start_4b9093a8:
 
     # sy "You-"
-    sy "You-"
+    sy "Sen-"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:702
 translate turkish sm1mv01s09_movie_start_79e4d286:
@@ -1334,7 +1334,7 @@ translate turkish sm1mv01s09_movie_start_0c4171b4:
 translate turkish sm1mv01s09_movie_start_0c4ac69a:
 
     # sy "You... you... harlot!"
-    sy "You... you... harlot!"
+    sy "Sen... sen... fahişe!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:708
 translate turkish sm1mv01s09_movie_start_8596aa50:
@@ -1352,19 +1352,19 @@ translate turkish sm1mv01s09_movie_start_8eedd137:
 translate turkish sm1mv01s09_movie_start_772c607f:
 
     # sy "Good, it's your turn to cum like a little slut!"
-    sy "Good, it's your turn to cum like a little slut!"
+    sy "Güzel, küçük bir sürtük gibi boşalma sırası sende!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:715
 translate turkish sm1mv01s09_movie_start_1fec0341:
 
     # tl "I... I'm... nnggghhhh...!"
-    tl "I... I'm... nnggghhhh...!"
+    tl "Ben... Ben... nnggghhhh...!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:716
 translate turkish sm1mv01s09_movie_start_6df3141b:
 
     # sy "Yes, that's it, that's-"
-    sy "Yes, that's it, that's-"
+    sy "Evet, işte bu, bu-"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:723
 translate turkish sm1mv01s09_movie_start_4e1d9384:
@@ -1388,7 +1388,7 @@ translate turkish sm1mv01s09_movie_start_aa836959:
 translate turkish sm1mv01s09_movie_start_23d7846d:
 
     # tl "*breathing deeply* It'll... take more than... that..."
-    tl "*breathing deeply* It'll... take more than... that..."
+    tl "*derin nefes alarak* Bundan... daha fazlası... gerekecek..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:734
 translate turkish sm1mv01s09_movie_start_96f473be:
@@ -1406,13 +1406,13 @@ translate turkish sm1mv01s09_movie_start_1f894204:
 translate turkish sm1mv01s09_movie_start_c14c584c:
 
     # mc "Well..."
-    mc "Well..."
+    mc "Şey..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:744
 translate turkish sm1mv01s09_movie_start_9973a3cd:
 
     # mc "Don't mind if I-"
-    mc "Don't mind if I-"
+    mc "Sakıncası yoksa-"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:751
 translate turkish sm1mv01s09_movie_start_6b94905c:
@@ -1442,13 +1442,13 @@ translate turkish sm1mv01s09_movie_start_c0187d5d:
 translate turkish sm1mv01s09_movie_start_6abe6c01:
 
     # mc "Holy shit, you've got a tight, infernal asshole, Tempestra!"
-    mc "Holy shit, you've got a tight, infernal asshole, Tempestra!"
+    mc "Lanet olsun, sıkı, cehennem gibi bir göt deliğin var, Tempestra!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:766
 translate turkish sm1mv01s09_movie_start_22d688c4:
 
     # sy "Nnggghhhh - I told - mmppppgggggg - told you!"
-    sy "Nnggghhhh - I told - mmppppgggggg - told you!"
+    sy "Nnggghhhh - söylemiştim - mmppppgggggg - söylemiştim!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:769
 translate turkish sm1mv01s09_movie_start_4baad9ce:
@@ -1478,13 +1478,13 @@ translate turkish sm1mv01s09_movie_start_790a34b4:
 translate turkish sm1mv01s09_movie_start_ae0e2a2c:
 
     # tl "Oh - shhlllrrrrrp - yeah."
-    tl "Oh - shhlllrrrrrp - yeah."
+    tl "Oh - shhlllrrrrrp - evet."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:778
 translate turkish sm1mv01s09_movie_start_1f3c13f4:
 
     # sy "Wench! He's mine!"
-    sy "Wench! He's mine!"
+    sy "Sürtük! O benim!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:781
 translate turkish sm1mv01s09_movie_start_855087cc:
@@ -1496,13 +1496,13 @@ translate turkish sm1mv01s09_movie_start_855087cc:
 translate turkish sm1mv01s09_movie_start_2b591029:
 
     # sy "I - oh fuck! Keep - yessss, like that!"
-    sy "I - oh fuck! Keep - yessss, like that!"
+    sy "Ben - oh siktir! Devam et - eveeeet, işte böyle!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:785
 translate turkish sm1mv01s09_movie_start_1281aa14:
 
     # sy "Keep ramming my porculis, Dickhart!"
-    sy "Keep ramming my porculis, Dickhart!"
+    sy "Kapımı delmeye devam et, Dickhart!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:786
 translate turkish sm1mv01s09_movie_start_44ac1015:
@@ -1514,7 +1514,7 @@ translate turkish sm1mv01s09_movie_start_44ac1015:
 translate turkish sm1mv01s09_movie_start_778e6fb7:
 
     # sy "Oh yesssss, keep going! I'm - mmmmmmmm - oh, I'm getting close!"
-    sy "Oh yesssss, keep going! I'm - mmmmmmmm - oh, I'm getting close!"
+    sy "Oh eveeeet, devam et! Ben - mmmmmmmm - oh, yaklaşıyorum!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:792
 translate turkish sm1mv01s09_movie_start_26a8fd13:
@@ -1526,7 +1526,7 @@ translate turkish sm1mv01s09_movie_start_26a8fd13:
 translate turkish sm1mv01s09_movie_start_7e586368:
 
     # tl "That's it - shlllrp - let yourself go!"
-    tl "That's it - shlllrp - let yourself go!"
+    tl "İşte bu - shlllrp - kendini bırak!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:796
 translate turkish sm1mv01s09_movie_start_2dc725b6:
@@ -1538,13 +1538,13 @@ translate turkish sm1mv01s09_movie_start_2dc725b6:
 translate turkish sm1mv01s09_movie_start_b2d7016b:
 
     # sy "Fucking pound me, Dickhart! Fuck my tight little asshole!"
-    sy "Fucking pound me, Dickhart! Fuck my tight little asshole!"
+    sy "Sikeyim beni, Dickhart! Sık küçük sıkı göt deliğimi!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:800
 translate turkish sm1mv01s09_movie_start_9ad44ead:
 
     # sy "It's all - oh Gods - it's all yours!"
-    sy "It's all - oh Gods - it's all yours!"
+    sy "Hepsi - oh Tanrılar - hepsi senin!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:801
 translate turkish sm1mv01s09_movie_start_5c4dff0f:
@@ -1562,13 +1562,13 @@ translate turkish sm1mv01s09_movie_start_8caae15d:
 translate turkish sm1mv01s09_movie_start_e0724767:
 
     # sy "K-Kalypso save me! Fuuuuuuck!"
-    sy "K-Kalypso save me! Fuuuuuuck!"
+    sy "K-Kalypso kurtar beni! Siktiiiir!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:806
 translate turkish sm1mv01s09_movie_start_9cd05c47:
 
     # sy "Oh Gods, oh Gods! I'm - I'm-!"
-    sy "Oh Gods, oh Gods! I'm - I'm-!"
+    sy "Oh Tanrılar, oh Tanrılar! Ben - Ben-!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:813
 translate turkish sm1mv01s09_movie_start_939e01b2:
@@ -1598,13 +1598,13 @@ translate turkish sm1mv01s09_movie_start_31f95cdb:
 translate turkish sm1mv01s09_movie_start_cb44a4dc:
 
     # tl "Time to finish her off, Dickhart."
-    tl "Time to finish her off, Dickhart."
+    tl "Onu bitirme zamanı, Dickhart."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:823
 translate turkish sm1mv01s09_movie_start_1e9d13ca:
 
     # sy "What?..."
-    sy "What?..."
+    sy "Ne?..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:826
 translate turkish sm1mv01s09_movie_start_afd7b748:
@@ -1640,7 +1640,7 @@ translate turkish sm1mv01s09_movie_start_de0518e5:
 translate turkish sm1mv01s09_movie_start_7eac7403:
 
     # tl "Winning."
-    tl "Winning."
+    tl "Kazanmak."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:848
 translate turkish sm1mv01s09_movie_start_dbadb8b0:
@@ -1658,7 +1658,7 @@ translate turkish sm1mv01s09_movie_start_d2609442:
 translate turkish sm1mv01s09_movie_start_13e4e460:
 
     # mc "God, your throat is so tight!"
-    mc "God, your throat is so tight!"
+    mc "Tanrım, boğazın çok sıkı!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:853
 translate turkish sm1mv01s09_movie_start_6bb6e04f:
@@ -1694,19 +1694,19 @@ translate turkish sm1mv01s09_movie_start_b9db8b45:
 translate turkish sm1mv01s09_movie_start_de653d91:
 
     # mc "Oh yes, oh fuck!"
-    mc "Oh yes, oh fuck!"
+    mc "Oh evet, oh siktir!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:867
 translate turkish sm1mv01s09_movie_start_15996a57:
 
     # mc "Oh shiiiii-"
-    mc "Oh shiiiii-"
+    mc "Oh siktiiii-"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:870
 translate turkish sm1mv01s09_movie_start_f4a554b4:
 
     # mc "Oh Gods, I'm- Nnnnnggggg!"
-    mc "Oh Gods, I'm- Nnnnnggggg!"
+    mc "Oh Tanrılar, Ben- Nnnnnggggg!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:873
 translate turkish sm1mv01s09_movie_start_0791e2c3:
@@ -1760,7 +1760,7 @@ translate turkish sm1mv01s09_movie_start_e3168584:
 translate turkish sm1mv01s09_movie_start_38d7047e:
 
     # tl "Looks like I won, Tempestra."
-    tl "Looks like I won, Tempestra."
+    tl "Görünüşe göre kazandım, Tempestra."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:905
 translate turkish sm1mv01s09_movie_start_75a128ba:
@@ -1784,13 +1784,13 @@ translate turkish sm1mv01s09_movie_start_29ec4b2b:
 translate turkish sm1mv01s09_movie_start_70aac4cb:
 
     # mc "Oh, I see."
-    mc "Oh, I see."
+    mc "Oh, anlıyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:915
 translate turkish sm1mv01s09_movie_start_5af7791c:
 
     # mc "Oh, I like that."
-    mc "Oh, I like that."
+    mc "Oh, bunu beğendim."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:917
 translate turkish sm1mv01s09_movie_start_7293f217:
@@ -1802,13 +1802,13 @@ translate turkish sm1mv01s09_movie_start_7293f217:
 translate turkish sm1mv01s09_movie_start_5ef70042:
 
     # mc "I think so."
-    mc "I think so."
+    mc "Sanırım öyle."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:921
 translate turkish sm1mv01s09_movie_start_cf88d197:
 
     # tl "Good."
-    tl "Good."
+    tl "İyi."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:923
 translate turkish sm1mv01s09_movie_start_4f6bf094:
@@ -1838,13 +1838,13 @@ translate turkish sm1mv01s09_movie_start_a6e2f17b:
 translate turkish sm1mv01s09_movie_start_b95fec9a:
 
     # tl "Time to rebuild my ship, crew..."
-    tl "Time to rebuild my ship, crew..."
+    tl "Gemimi yeniden inşa etme zamanı, mürettebat..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:951
 translate turkish sm1mv01s09_movie_start_28ab14f7:
 
     # tl "There's a big world out there... a whole wide seven seas to see..."
-    tl "There's a big world out there... a whole wide seven seas to see..."
+    tl "Dışarıda büyük bir dünya var... görülecek yedi geniş deniz..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:952
 translate turkish sm1mv01s09_movie_start_9c122b6e:
@@ -1856,7 +1856,7 @@ translate turkish sm1mv01s09_movie_start_9c122b6e:
 translate turkish sm1mv01s09_movie_start_faed12d0:
 
     # mc "That sounds like a good plan, Scarlet."
-    mc "That sounds like a good plan, Scarlet."
+    mc "Kulağa güzel bir plan gibi geliyor, Scarlet."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:957
 translate turkish sm1mv01s09_movie_start_064ab82d:
@@ -1886,7 +1886,7 @@ translate turkish sm1mv01s09_movie_start_cde42d85:
 translate turkish sm1mv01s09_movie_start_29656fc0:
 
     # tl "Mmmm. Call it a hunch."
-    tl "Mmmm. Call it a hunch."
+    tl "Mmmm. Bir önseziye deyin."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:969
 translate turkish sm1mv01s09_movie_start_5374e7b2:

@@ -932,7 +932,7 @@ translate turkish ns013_labels_section_beaf3144:
 translate turkish ns013_labels_section_c88f2a60:
 
     # sy "You can relax. It's fine."
-    sy "You can relax. It's fine."
+    sy "Rahatla. Sorun yok."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:552
 translate turkish ns013_labels_section_61432e4d:
@@ -1148,7 +1148,7 @@ translate turkish ns013_labels_section_79d2e6e9:
 translate turkish ns013_labels_section_56b92905:
 
     # ns "*strained hissing*"
-    ns "*strained hissing*"
+    ns "*zoraki tıslama*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:646
 translate turkish ns013_labels_section_5d587328:
@@ -1214,7 +1214,7 @@ translate turkish ns013_labels_section_a719a848:
 translate turkish ns013_labels_section_0e3f93c7:
 
     # ns "And... Stacy... can see my whole body.{w} But I'm not afraid anymore."
-    ns "And... Stacy... can see my whole body.{w} But I'm not afraid anymore."
+    ns "Ve... Stacy... tüm vücudumu görebiliyor.{w} Ama artık korkmuyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:668
 translate turkish ns013_labels_section_889510f4:
@@ -1364,7 +1364,7 @@ translate turkish ns013_labels_section_2c24f27a:
 translate turkish ns013_labels_section_20e1f6eb:
 
     # sy "*spits*"
-    sy "*spits*"
+    sy "*tükürür*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:723
 translate turkish ns013_labels_section_f9acd26c:
@@ -1412,7 +1412,7 @@ translate turkish ns013_labels_section_245da689:
 translate turkish ns013_labels_section_6e9f3ca0:
 
     # ns "*giggling*"
-    ns "*giggling*"
+    ns "*kıkırdıyor*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:739
 translate turkish ns013_labels_section_10b07808:
@@ -1598,7 +1598,7 @@ translate turkish ns013_labels_section_e42b4771:
 translate turkish ns013_labels_section_c9dcabdc:
 
     # "Stacy and Nari" "Mrrrrrrrmmm."
-    "Stacy and Nari" "Mrrrrrrrmmm."
+    "Stacy ve Nari" "Mrrrrrrrmmm."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:815
 translate turkish ns013_labels_section_4aabf257:
@@ -1784,7 +1784,7 @@ translate turkish ns013_labels_section_e8301e81:
 translate turkish ns013_labels_section_4d152809:
 
     # "Stacy and Nari" "*panting*"
-    "Stacy and Nari" "*panting*"
+    "Stacy ve Nari" "*nefes nefese*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:893
 translate turkish ns013_labels_section_628bf4a3:
@@ -1802,13 +1802,13 @@ translate turkish ns013_labels_section_e054ce99:
 translate turkish ns013_labels_section_fe802941:
 
     # mc "*groaning*"
-    mc "*groaning*"
+    mc "*inliyor*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:905
 translate turkish ns013_labels_section_2d0577ab:
 
     # sy "*sighing happily*"
-    sy "*sighing happily*"
+    sy "*mutlu bir şekilde iç çekiyor*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:910
 translate turkish ns013_labels_section_1f0a11a2:
@@ -1832,7 +1832,7 @@ translate turkish ns013_labels_section_55b79db6:
 translate turkish ns013_labels_section_1c81208e:
 
     # "Stacy and Nari" "*giggling*"
-    "Stacy and Nari" "*giggling*"
+    "Stacy ve Nari" "*kıkırdıyor*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:921
 translate turkish ns013_labels_section_8e9ba5df:
@@ -2012,7 +2012,7 @@ translate turkish ns013_labels_section_7b2cf348:
 translate turkish ns013_labels_section_f915e9f8:
 
     # mc "Of course, Nari."
-    mc "Of course, Nari."
+    mc "Elbette, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:995
 translate turkish ns013_labels_section_8f411162:
@@ -2048,7 +2048,7 @@ translate turkish ns013_labels_section_c4ef911f:
 translate turkish ns013_labels_section_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Ne?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1011
 translate turkish ns013_labels_section_6fa4ce57:
@@ -2240,7 +2240,7 @@ translate turkish ns013_labels_section_a67574e0:
 translate turkish ns013_labels_section_c4a48b98:
 
     # ns "*eating*"
-    ns "*eating*"
+    ns "*yiyor*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1112
 translate turkish ns013_labels_section_88a5f694:
@@ -2252,7 +2252,7 @@ translate turkish ns013_labels_section_88a5f694:
 translate turkish ns013_labels_section_50800ec3:
 
     # "[mcname] and Stacy" "*laughing*"
-    "[mcname] and Stacy" "*laughing*"
+    "[mcname] ve Stacy" "*gülüyor*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1119
 translate turkish ns013_labels_section_57d25b67:
@@ -2354,7 +2354,7 @@ translate turkish ns013_labels_section_b820a812:
 translate turkish ns013_labels_section_cd71789f:
 
     # ns "*giggles*"
-    ns "*giggles*"
+    ns "*kıkırdar*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1157
 translate turkish ns013_labels_section_9da26eaf:

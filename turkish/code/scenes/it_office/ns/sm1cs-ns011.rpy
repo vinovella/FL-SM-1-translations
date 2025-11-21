@@ -1150,5 +1150,5 @@ translate turkish strings:
 translate turkish sm1cs_ns011_a266d0ee:
 
     # ns "Sugar Daddies love to play with their Good Girls..."
-    ns "Sugar Daddies love to play with their Good Girls..."
+    ns "Sugar Daddyler İyi Kızlarıyla oynamayı sever..."
 

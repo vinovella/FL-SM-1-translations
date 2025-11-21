@@ -2814,5 +2814,5 @@ translate turkish sm1ms009_13c2aa71:
 translate turkish sm1ms009_part_2_0561dc8d:
 
     # sy "Just wait until you see how I clean up your mess!"
-    sy "Just wait until you see how I clean up your mess!"
+    sy "Dağınıklığını nasıl temizlediğimi görene kadar bekle!"
 

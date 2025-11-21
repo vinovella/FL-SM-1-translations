@@ -246,5 +246,5 @@ translate turkish strings:
 translate turkish sm1ms002_4f8bfe43:
 
     # mc "I haven't started cutting myself yet."
-    mc "I haven't started cutting myself yet."
+    mc "Henüz kendimi kesmeye başlamadım."
 

@@ -476,7 +476,7 @@ translate turkish sm1cs_ns014_studio_9f376a9f:
 translate turkish sm1cs_ns014_studio_cd71789f:
 
     # ns "*giggles*"
-    ns "*giggles*"
+    ns "*kıkırdar*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:333
 translate turkish sm1cs_ns014_studio_3f51a326:
@@ -572,19 +572,19 @@ translate turkish sm1cs_ns014_studio_d9fc70c6:
 translate turkish sm1cs_ns014_studio_cd71789f_1:
 
     # ns "*giggles*"
-    ns "*giggles*"
+    ns "*kıkırdar*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:404
 translate turkish sm1cs_ns014_studio_f8405504:
 
     # sy "I'll put these back."
-    sy "I'll put these back."
+    sy "Bunları yerine koyayım."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:406
 translate turkish sm1cs_ns014_studio_120569a2:
 
     # sy "Discuss..."
-    sy "Discuss..."
+    sy "Tartışın..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:409
 translate turkish sm1cs_ns014_studio_cceb5916:
@@ -602,7 +602,7 @@ translate turkish sm1cs_ns014_studio_dec9e101:
 translate turkish sm1cs_ns014_studio_60504da8:
 
     # ns "Sure."
-    ns "Sure."
+    ns "Tabii."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:422
 translate turkish sm1cs_ns014_studio_c04b897e:
@@ -614,7 +614,7 @@ translate turkish sm1cs_ns014_studio_c04b897e:
 translate turkish sm1cs_ns014_studio_229628b7:
 
     # mc "I'm fine. Well, I'm sure I'll feel better in a moment."
-    mc "I'm fine. Well, I'm sure I'll feel better in a moment."
+    mc "İyiyim. Şey, eminim bir dakika sonra daha iyi hissedeceğim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:429
 translate turkish sm1cs_ns014_studio_a025f453:
@@ -638,7 +638,7 @@ translate turkish sm1cs_ns014_studio_c6ec0119:
 translate turkish sm1cs_ns014_studio_8d2b22c0:
 
     # ns "Of course."
-    ns "Of course."
+    ns "Elbette."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:439
 translate turkish sm1cs_ns014_studio_ccab7687:
@@ -662,7 +662,7 @@ translate turkish sm1cs_ns014_studio_fe4ad752:
 translate turkish sm1cs_ns014_studio_499faaab:
 
     # ns "What is it, [mcname]?"
-    ns "What is it, [mcname]?"
+    ns "Nedir, [mcname]?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:448
 translate turkish sm1cs_ns014_studio_3d041fcc:
@@ -686,7 +686,7 @@ translate turkish sm1cs_ns014_studio_252151bc:
 translate turkish sm1cs_ns014_studio_093a0059:
 
     # ns "Oh my god!"
-    ns "Oh my god!"
+    ns "Aman Tanrım!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:461
 translate turkish sm1cs_ns014_studio_626fc7a0:
@@ -698,7 +698,7 @@ translate turkish sm1cs_ns014_studio_626fc7a0:
 translate turkish sm1cs_ns014_studio_00ea30d8:
 
     # ns "Of course!"
-    ns "Of course!"
+    ns "Elbette!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:468
 translate turkish sm1cs_ns014_studio_a1a91380:
@@ -716,7 +716,7 @@ translate turkish sm1cs_ns014_studio_cc9b9c7b:
 translate turkish sm1cs_ns014_studio_a16db31d:
 
     # mc "It is."
-    mc "It is."
+    mc "Öyle."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:475
 translate turkish sm1cs_ns014_studio_ce8357e5:
@@ -764,7 +764,7 @@ translate turkish sm1cs_ns014_studio_7ca92eed:
 translate turkish sm1cs_ns014_studio_432a027f:
 
     # ns "Hehehe. Thank you, [mcname]."
-    ns "Hehehe. Thank you, [mcname]."
+    ns "Hehehe. Teşekkür ederim, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:494
 translate turkish sm1cs_ns014_studio_b9024b87:
@@ -794,7 +794,7 @@ translate turkish sm1cs_ns014_studio_6dca4932:
 translate turkish sm1cs_ns014_studio_6aa2eaaf:
 
     # ns "I don't understand."
-    ns "I don't understand."
+    ns "Anlamıyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:509
 translate turkish sm1cs_ns014_studio_d6df0c24:
@@ -830,7 +830,7 @@ translate turkish sm1cs_ns014_studio_de64eca4:
 translate turkish sm1cs_ns014_studio_81709362:
 
     # mc "You do?"
-    mc "You do?"
+    mc "Öyle mi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:525
 translate turkish sm1cs_ns014_studio_ec7bc564:
@@ -890,7 +890,7 @@ translate turkish sm1cs_ns014_studio_aff3c18a:
 translate turkish sm1cs_ns014_studio_991c2490:
 
     # ns "Hmmm. What cat?"
-    ns "Hmmm. What cat?"
+    ns "Hmmm. Hangi kedi?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:553
 translate turkish sm1cs_ns014_studio_51a6e691:
@@ -902,7 +902,7 @@ translate turkish sm1cs_ns014_studio_51a6e691:
 translate turkish sm1cs_ns014_studio_5acdeaff:
 
     # ns "Me too, [mcname]."
-    ns "Me too, [mcname]."
+    ns "Ben de, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:557
 translate turkish sm1cs_ns014_studio_0dcf84fa:
@@ -914,7 +914,7 @@ translate turkish sm1cs_ns014_studio_0dcf84fa:
 translate turkish sm1cs_ns014_studio_fcf340b6:
 
     # mc "I agree."
-    mc "I agree."
+    mc "Katılıyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:565
 translate turkish sm1cs_ns014_studio_8e3f4778:
@@ -926,7 +926,7 @@ translate turkish sm1cs_ns014_studio_8e3f4778:
 translate turkish sm1cs_ns014_studio_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "Tabii."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:572
 translate turkish sm1cs_ns014_studio_181bcc42:
@@ -986,7 +986,7 @@ translate turkish sm1cs_ns014_studio_a00f06ce:
 translate turkish sm1cs_ns014_studio_3653f87d:
 
     # ns "Is that alright?"
-    ns "Is that alright?"
+    ns "Sorun olur mu?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:603
 translate turkish sm1cs_ns014_studio_46f34de2:
@@ -998,7 +998,7 @@ translate turkish sm1cs_ns014_studio_46f34de2:
 translate turkish sm1cs_ns014_studio_3dab1d16:
 
     # ns "I'm already looking forward to it, Stacy. And who knows."
-    ns "I'm already looking forward to it, Stacy. And who knows."
+    ns "Şimdiden sabırsızlanıyorum, Stacy. Ve kim bilir."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:611
 translate turkish sm1cs_ns014_studio_55a40da6:
@@ -1022,13 +1022,13 @@ translate turkish sm1cs_ns014_studio_817ddac0:
 translate turkish sm1cs_ns014_studio_81e2c81c:
 
     # sy "Fair enough."
-    sy "Fair enough."
+    ns "Yeterince adil."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:621
 translate turkish sm1cs_ns014_studio_79de7289:
 
     # mc "Come here."
-    mc "Come here."
+    mc "Buraya gel."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:626
 translate turkish sm1cs_ns014_studio_9447487b:
@@ -1058,7 +1058,7 @@ translate turkish sm1cs_ns014_studio_79de7289_1:
 translate turkish sm1cs_ns014_studio_bc0ed831:
 
     # sy "Mmmm. I wasn't feeling left out."
-    sy "Mmmm. I wasn't feeling left out."
+    sy "Mmmm. Dışlanmış hissetmiyordum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:642
 translate turkish sm1cs_ns014_studio_a58d65f9:
@@ -1100,7 +1100,7 @@ translate turkish sm1cs_ns014_studio_eceb9496:
 translate turkish sm1cs_ns014_studio_69301e0d:
 
     # ns "Thumbs up!"
-    ns "Thumbs up!"
+    ns "Başparmak yukarı!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:658
 translate turkish sm1cs_ns014_studio_e3e05bf7:

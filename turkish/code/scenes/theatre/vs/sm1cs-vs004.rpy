@@ -756,5 +756,5 @@ translate turkish strings:
 translate turkish sm1cs_vs004_after_choice_9c38d0b3:
 
     # mc "Never mind. Just... leave it to me."
-    mc "Never mind. Just... leave it to me."
+    mc "Boşver. Sadece... bana bırak."
 

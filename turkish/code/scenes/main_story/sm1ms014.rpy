@@ -1062,5 +1062,5 @@ translate turkish strings:
 translate turkish sm1ms014_4834ec4b:
 
     # sy "Uhm, yeah... no internet nudes of me..."
-    sy "Uhm, yeah... no internet nudes of me..."
+    sy "Uhm, evet... internette benim çıplak fotoğraflarım yok..."
 

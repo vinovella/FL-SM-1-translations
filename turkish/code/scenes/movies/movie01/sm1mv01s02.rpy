@@ -1664,25 +1664,25 @@ translate turkish sm1mv01s02_later_bca09261:
 translate turkish sm1mv01s02_later_bc0c4158:
 
     # "Worker" "I'll be waiting at the counter."
-    "Worker" "I'll be waiting at the counter."
+    "İşçi" "Tezgahta bekliyor olacağım."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:851
 translate turkish sm1mv01s02_later_a5f29463:
 
     # "Worker" "And make sure you bring up everything."
-    "Worker" "And make sure you bring up everything."
+    "İşçi" "Ve her şeyi getirdiğinden emin ol."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:855
 translate turkish sm1mv01s02_later_3471c0ab:
 
     # "Worker" "Kanya was right."
-    "Worker" "Kanya was right."
+    "İşçi" "Kanya haklıydı."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:856
 translate turkish sm1mv01s02_later_fab98077:
 
     # "Worker" "We do have cameras."
-    "Worker" "We do have cameras."
+    "İşçi" "Kameralarımız var."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:857
 translate turkish sm1mv01s02_later_764403cd:

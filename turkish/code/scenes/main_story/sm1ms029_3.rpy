@@ -344,7 +344,7 @@ translate turkish sm1ms029_part_1_my_appear_22cecdce:
 translate turkish sm1ms029_part_1_my_appear_3593afed:
 
     # mc "I will! Bye, Mom! Love you!"
-    mc "I will! Bye, Mom! Love you!"
+    mc "Yapacağım! Hoşça kal, Anne! Seni seviyorum!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1521
 translate turkish sm1ms029_part_1_my_appear_c8ad3713:
@@ -1100,7 +1100,7 @@ translate turkish sm1ms029_party_sy_34fcbf63:
 translate turkish sm1ms029_rival_enters_4caeea85:
 
     # "*KNOCK, KNOCK, KNOCK*"
-    "*KNOCK, KNOCK, KNOCK*"
+    "*TAK, TAK, TAK*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1722
 translate turkish sm1ms029_rival_enters_72ebe0a5:
