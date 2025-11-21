@@ -92,11 +92,11 @@ translate portuguese q_inter_lm_5_04a6de38:
 translate portuguese q_inter_lm_1_33c1180d:
 
     # lm "Awesome. They are good changes, I just need to know she's doing stuff."
-    lm "Awesome. They are good changes, I just need to know she's doing stuff."
+    lm "Perfeito. São mudanças boas, só preciso saber que ela tá fazendo as coisas."
 
 # game/code/data/quick_interactions/IT_office/q-inter-lm.rpy:37
 translate portuguese q_inter_lm_3_9f8f1046:
 
     # lm "Oh, [mcname]. If you see April can you tell her to come see me? I have a doozy of an error I need some help with."
-    lm "Oh, [mcname]. If you see April can you tell her to come see me? I have a doozy of an error I need some help with."
+    lm "Ah, [mcname]. Se vir a April, tem como me avisar pra ela me ver? Tem um erro daqueles que eu preciso de ajuda."
 
