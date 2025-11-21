@@ -1340,7 +1340,7 @@ translate turkish strings:
 translate turkish sm1cs_ns009_sex_continue_78168329:
 
     # ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
-    ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
+    ns "*kıkırdar* Beni {i}fazla{/i} utandırma, [mcname]."
 
 translate turkish strings:
 
@@ -1356,5 +1356,5 @@ translate turkish strings:
 translate turkish sm1cs_ns009_f37a2921:
 
     # mc "And... I totally wasn't scared."
-    mc "And... I totally wasn't scared."
+    mc "Ve... Kesinlikle korkmamıştım."
 

@@ -1950,5 +1950,5 @@ translate turkish strings:
 translate turkish sm1cs_ns012_after_shower_9bc32cdb:
 
     # ns "Mhwaaah. Nothing like a hot shower after being fucked so good."
-    ns "Mhwaaah. Nothing like a hot shower after being fucked so good."
+    ns "Mhwaaah. Böyle güzel sikildikten sonra sıcak bir duş gibisi yok."
 
