@@ -6876,11 +6876,11 @@ translate portuguese sm1ms029_confrontation_3670d210:
 translate portuguese sm1ms029_party_mes_d6798e52:
 
     # mes "I see you two were paying attention!"
-    mes "I see you two were paying attention!"
+    mes "Vejo que estavam prestando atenção!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1367
 translate portuguese sm1ms029_talk_kv_hr_arj_c8a218be:
 
     # mc "She's a worry wort."
-    mc "She's a worry wort."
+    mc "Elas se preocupa demais."
 
