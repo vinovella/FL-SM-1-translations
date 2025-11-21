@@ -70,5 +70,5 @@ translate portuguese strings:
 translate portuguese sm1ms005_02i_5ddbcfce:
 
     # sy "Alright. Let's do it."
-    sy "Alright. Let's do it."
+    sy "Beleza. Vamos."
 
