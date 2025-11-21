@@ -134,7 +134,7 @@ translate italian sm1cs_dvh002_8f324e51:
 translate italian sm1cs_dvh002_09b180ad:
 
     # dvh "I was being sarcastic, {i}pannenkoek{/i}."
-    dvh "I was being sarcastic, {i}pannenkoek{/i}."
+    dvh "Stavo essendo sarcastica, {i}pannenkoek{/i}."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:74
 translate italian sm1cs_dvh002_e2677a0a:
