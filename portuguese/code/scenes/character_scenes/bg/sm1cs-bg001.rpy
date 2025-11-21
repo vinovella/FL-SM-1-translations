@@ -1104,7 +1104,7 @@ translate portuguese strings:
 translate portuguese sm1cs_bg001_01872126:
 
     # "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
-    "BDSM Model" "Ah, isso é... um bom ponto. Ahm, você pode me chamar de...{w} Amore."
+    "Modelo BDSM" "Ah, isso é... um bom ponto. Ahm, você pode me chamar de...{w} Amore."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:167
 translate portuguese sm1cs_bg001_f21ffe59:
