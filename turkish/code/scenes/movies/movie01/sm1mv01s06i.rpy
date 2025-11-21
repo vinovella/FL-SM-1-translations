@@ -8,7 +8,7 @@ translate turkish sm1mv01s06i_071ddc41:
 translate turkish sm1mv01s06i_021b5030:
 
     # tl "Hey handsome."
-    tl "Hey handsome."
+    tl "Hey yakışıklı."
 
 # game/code/scenes/movies/movie01/sm1mv01s06i.rpy:12
 translate turkish sm1mv01s06i_da1676be:
@@ -26,5 +26,5 @@ translate turkish sm1mv01s06i_490f2fb4:
 translate turkish sm1mv01s06i_87bf65c4:
 
     # mc "Haha. Time to film some porn!"
-    mc "Haha. Time to film some porn!"
+    mc "Haha. Biraz porno çekme zamanı!"
 

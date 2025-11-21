@@ -260,7 +260,7 @@ translate turkish sm1mv01s07_2_4f948bab:
 translate turkish sm1mv01s07_2_bfb67c3f:
 
     # tl "Haha. You're a funny man, [mcname]."
-    tl "Haha. You're a funny man, [mcname]."
+    tl "Haha. Komik bir adamsın, [mcname]."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:173
 translate turkish sm1mv01s07_2_0041c90b:
@@ -680,7 +680,7 @@ translate turkish sm1mv01s07_2_at_beach_b4c557c0:
 translate turkish sm1mv01s07_2_at_beach_4136c931:
 
     # tl "*screams*"
-    tl "*screams*"
+    tl "*çığlık atar*"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:406
 translate turkish sm1mv01s07_2_at_beach_ea7f3b2a:
@@ -692,13 +692,13 @@ translate turkish sm1mv01s07_2_at_beach_ea7f3b2a:
 translate turkish sm1mv01s07_2_at_beach_b0ca414a:
 
     # kv "*laughing*"
-    kv "*laughing*"
+    kv "*gülüyor*"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:412
 translate turkish sm1mv01s07_2_at_beach_7a694e35:
 
     # sy "*laughing*"
-    sy "*laughing*"
+    sy "*gülüyor*"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:415
 translate turkish sm1mv01s07_2_at_beach_a0b24fd4:
@@ -728,7 +728,7 @@ translate turkish sm1mv01s07_2_at_beach_7baabd93:
 translate turkish sm1mv01s07_2_at_beach_5881c681:
 
     # sy "I'll drink to that."
-    sy "I'll drink to that."
+    sy "Buna içerim."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:443
 translate turkish sm1mv01s07_2_at_beach_c2910b93:

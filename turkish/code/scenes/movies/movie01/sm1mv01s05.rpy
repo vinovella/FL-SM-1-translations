@@ -1400,7 +1400,7 @@ translate turkish sm1mv01s05_start_shoot_0357c851:
 translate turkish sm1mv01s05_start_shoot_505be050_1:
 
     # sy "Let's go to the next line."
-    sy "Let's go to the next line."
+    sy "Bir sonraki satıra geçelim."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:905
 translate turkish sm1mv01s05_start_shoot_7f14dcf3:
