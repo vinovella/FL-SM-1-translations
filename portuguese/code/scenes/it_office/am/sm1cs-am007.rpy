@@ -2662,59 +2662,59 @@ translate portuguese strings:
 translate portuguese sm1cs_am007_ed615167:
 
     # mct "I wonder what the call is about.{w} Seemed important."
-    mct "I wonder what the call is about.{w} Seemed important."
+    mct "Fico pensando qual era o assunto da ligação.{w} Parecia importante."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:114
 translate portuguese sm1cs_am007_44f8eb4e:
 
     # ps "We should have listened better and we should accept that sometimes you're going to miss practice."
-    ps "We should have listened better and we should accept that sometimes you're going to miss practice."
+    ps "A gente devia ter ouvido melhor e aceitar que às vezes você vai faltar no ensaio."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:212
 translate portuguese sm1cs_am007_c4c994b5:
 
     # am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
-    am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
+    am "Eu trabalho com tech.{w} Todo dia é um sanduíche de merda no café da manhã e um coquetel de ansiedade no almoço."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:213
 translate portuguese sm1cs_am007_45358e8c:
 
     # am "And this week has been order on the double-shit sandwich."
-    am "And this week has been order on the double-shit sandwich."
+    am "E essa semana foi pedido de sanduíche duplo de merda."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:525
 translate portuguese sm1cs_am007_20_minutes_later_01c49227:
 
     # mc "I have a sudden thirst for a big glass of milk."
-    mc "I have a sudden thirst for a big glass of milk."
+    mc "De repente deu vontade de tomar um copão de leite."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:528
 translate portuguese sm1cs_am007_20_minutes_later_7368538e:
 
     # am "You're here to run.{w} Not ogle my tits."
-    am "You're here to run.{w} Not ogle my tits."
+    am "Você tá aqui pra correr.{w} Não pra ficar babando nos meus peitos."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1250
 translate portuguese sm1cs_am007_one_hour_later_36b9f516:
 
     # mc "Anyone standing near this building might have heard us."
-    mc "Anyone standing near this building might have heard us."
+    mc "Quem tivesse perto desse prédio podia ter ouvido a gente."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1288
 translate portuguese sm1cs_am007_one_hour_later_6d10752d:
 
     # mct "I almost said \"at Fetish Locator parties\"."
-    mct "I almost said \"at Fetish Locator parties\"."
+    mct "Quase falei \"nas festas do Fetish Locator\"."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1336
 translate portuguese sm1cs_am007_one_hour_later_620b174c:
 
     # mct "It's a bit screwed up. I shouldn't get involved with anyone without telling them why I came to Orbix in the first place."
-    mct "It's a bit screwed up. I shouldn't get involved with anyone without telling them why I came to Orbix in the first place."
+    mct "É meio zoado. Eu não devia me envolver com ninguém sem contar por que vim pra Orbix."
 
 translate portuguese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
     old "Surprised it's taking you this long"
-    new "Surprised it's taking you this long"
+    new "Surpreso que você tá demorando tanto"
 
