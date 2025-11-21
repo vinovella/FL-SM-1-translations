@@ -734,85 +734,85 @@ translate turkish strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk big business"
-    new "Talk big business"
+    new "Büyük işlerden konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress AmRose's story"
-    new "Progress AmRose's story"
+    new "AmRose'un hikayesini ilerlet"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Throw a party"
-    new "Throw a party"
+    new "Bir parti ver"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Start making the second movie"
-    new "Start making the second movie"
+    new "İkinci filmi yapmaya başla"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Text AmRose for a meetup"
-    new "Text AmRose for a meetup"
+    new "AmRose'a buluşma için mesaj at"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Answer AmRose's message"
-    new "Answer AmRose's message"
+    new "AmRose'un mesajını cevapla"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Reminisce with AmRose"
-    new "Reminisce with AmRose"
+    new "AmRose ile anıları hatırla"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk with Amore"
-    new "Talk with Amore"
+    new "Amore ile konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Date with Debbie at the shooting range"
-    new "Date with Debbie at the shooting range"
+    new "Debbie ile atış poligonunda buluşma"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Movie date with Debbie"
-    new "Movie date with Debbie"
+    new "Debbie ile sinema buluşması"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Working it with Maya"
-    new "Working it with Maya"
+    new "Maya ile çalış"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Some fun with Min"
-    new "Some fun with Min"
+    new "Min ile biraz eğlence"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Contest with Melony and Stacy"
-    new "Contest with Melony and Stacy"
+    new "Melony ve Stacy ile yarışma"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "A night in Melony"
-    new "A night in Melony"
+    new "Melony ile bir gece"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Answer April's message"
-    new "Answer April's message"
+    new "April'in mesajını cevapla"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Dinner with April"
-    new "Dinner with April"
+    new "April ile akşam yemeği"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Perform a hungry show"
-    new "Perform a hungry show"
+    new "Açlık gösterisi yap"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about the play"
-    new "Talk about the play"
+    new "Oyun hakkında konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Text Taisia"
-    new "Text Taisia"
+    new "Taisia'ya mesaj at"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Taisia wants to make breakfast"
-    new "Taisia wants to make breakfast"
+    new "Taisia kahvaltı yapmak istiyor"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Nari is hungry in the morning"
-    new "Nari is hungry in the morning"
+    new "Nari sabahları aç"
 

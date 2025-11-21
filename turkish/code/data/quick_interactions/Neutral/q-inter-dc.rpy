@@ -218,7 +218,7 @@ translate turkish q_inter_dc_12_db62a37a:
 translate turkish q_inter_dc_13_4af35993:
 
     # mc "Officer Callahan!"
-    mc "Officer Callahan!"
+    mc "Memur Callahan!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:149
 translate turkish q_inter_dc_13_3c0c267e:
@@ -278,7 +278,7 @@ translate turkish q_inter_dc_14_991eb26a:
 translate turkish q_inter_dc_14_d09610d2:
 
     # mc "I would love that, Debbie."
-    mc "I would love that, Debbie."
+    mc "Bunu çok isterim, Debbie."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:167
 translate turkish q_inter_dc_14_9ddb8cfd:

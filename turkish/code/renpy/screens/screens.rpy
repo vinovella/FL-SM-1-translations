@@ -476,13 +476,13 @@ translate turkish strings:
 
     # game/code/renpy/screens/screens.rpy:444
     old "Saves For Season 2"
-    new "Saves For Season 2"
+    new "Sezon 2 için Kayıtlar"
 
     # game/code/renpy/screens/screens.rpy:1107
     old "MUSIC LISENCES & SOURCES"
-    new "MUSIC LISENCES & SOURCES"
+    new "MÜZİK LİSANSLARI VE KAYNAKLAR"
 
     # game/code/renpy/screens/screens.rpy:1140
     old "FRENCH TRANSLATION"
-    new "FRENCH TRANSLATION"
+    new "FRANSIZCA ÇEVİRİ"
 

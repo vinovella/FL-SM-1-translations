@@ -2,21 +2,21 @@
 
     # game/code/renpy/labels/end_credits.rpy:100
     old "Writers"
-    new "Writers"
+    new "Yazarlar"
 
     # game/code/renpy/labels/end_credits.rpy:101
     old "Artists"
-    new "Artists"
+    new "Sanatçılar"
 
     # game/code/renpy/labels/end_credits.rpy:102
     old "Programmers"
-    new "Programmers"
+    new "Programcılar"
 
     # game/code/renpy/labels/end_credits.rpy:103
     old "Musicians"
-    new "Musicians"
+    new "Müzisyenler"
 
     # game/code/renpy/labels/end_credits.rpy:104
     old "Translators & Proofreaders"
-    new "Translators & Proofreaders"
+    new "Çevirmenler ve Editörler"
 

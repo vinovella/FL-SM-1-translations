@@ -272,19 +272,19 @@ translate turkish q_inter_mes_12_d30f4bac:
 translate turkish q_inter_mes_12_66a10b8f:
 
     # mes "More of an... annoyance."
-    mes "More of an... annoyance."
+    mes "Daha çok bir... can sıkıcı şey."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:153
 translate turkish q_inter_mes_12_b1a5a483:
 
     # mes "I forgot who terrible the Wifi can be here."
-    mes "I forgot who terrible the Wifi can be here."
+    mes "Burada Wifi'nin ne kadar kötü olabileceğini unutmuşum."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:154
 translate turkish q_inter_mes_12_c7e90b55:
 
     # mes "It's one of the things I miss about Seoul."
-    mes "It's one of the things I miss about Seoul."
+    mes "Seul ile ilgili özlediğim şeylerden biri."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:159
 translate turkish q_inter_mes_13_65856392:
@@ -296,7 +296,7 @@ translate turkish q_inter_mes_13_65856392:
 translate turkish q_inter_mes_13_ecf41c94:
 
     # mes "How is the studio doing?"
-    mes "How is the studio doing?"
+    mes "Stüdyo nasıl gidiyor?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:161
 translate turkish q_inter_mes_13_bcd368dd:
@@ -308,7 +308,7 @@ translate turkish q_inter_mes_13_bcd368dd:
 translate turkish q_inter_mes_13_8360cff9:
 
     # mc "At least not compared to Fetish Locator crazy."
-    mc "At least not compared to Fetish Locator crazy."
+    mc "En azından Fetish Locator çılgınlığına kıyasla değil."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:165
 translate turkish q_inter_mes_13_8119ff39:
@@ -320,19 +320,19 @@ translate turkish q_inter_mes_13_8119ff39:
 translate turkish q_inter_mes_14_aaa5bfca:
 
     # mes "You know something?"
-    mes "You know something?"
+    mes "Bir şey biliyor musun?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:172
 translate turkish q_inter_mes_14_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Ne?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:173
 translate turkish q_inter_mes_14_28bc6df2:
 
     # mes "I may have... scouted out the bathroom here."
-    mes "I may have... scouted out the bathroom here."
+    mes "Buradaki banyoyu... keşfetmiş olabilirim."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:174
 translate turkish q_inter_mes_14_b8de06d3:
@@ -344,13 +344,13 @@ translate turkish q_inter_mes_14_b8de06d3:
 translate turkish q_inter_mes_14_a6c1cf49:
 
     # mes "Nice and clean. Functional locks."
-    mes "Nice and clean. Functional locks."
+    mes "Güzel ve temiz. İşlevsel kilitler."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:178
 translate turkish q_inter_mes_14_60e3329a:
 
     # mes "Very interesting, wouldn't you say."
-    mes "Very interesting, wouldn't you say."
+    mes "Çok ilginç, öyle değil mi?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:179
 translate turkish q_inter_mes_14_4661a639:
@@ -374,13 +374,13 @@ translate turkish q_inter_mes_15_b85746b1:
 translate turkish q_inter_mes_15_e5959447:
 
     # mes "I saw a flyer for a party at the university."
-    mes "I saw a flyer for a party at the university."
+    mes "Üniversitede bir parti için el ilanı gördüm."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:190
 translate turkish q_inter_mes_15_b590c121:
 
     # mes "It looked good, but I just know I could put together one that would put theirs to shame."
-    mes "It looked good, but I just know I could put together one that would put theirs to shame."
+    mes "İyi görünüyordu, ama onlarınkini utandıracak bir parti düzenleyebileceğimi biliyorum."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:191
 translate turkish q_inter_mes_15_e526a903:
@@ -392,11 +392,11 @@ translate turkish q_inter_mes_15_e526a903:
 translate turkish q_inter_mes_15_0796b207:
 
     # mc "Maybe we can do one in the future."
-    mc "Maybe we can do one in the future."
+    mc "Belki gelecekte bir tane yapabiliriz."
 
 # game/code/data/quick_interactions/Neutral/q-inter-mes.rpy:195
 translate turkish q_inter_mes_15_a52d6b10:
 
     # mes "Here is hoping."
-    mes "Here is hoping."
+    mes "Umalım."
 

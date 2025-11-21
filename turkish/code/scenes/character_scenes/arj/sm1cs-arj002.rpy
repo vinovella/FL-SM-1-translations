@@ -1328,7 +1328,7 @@ translate turkish sm1cs_arj002_2155a7b4:
 translate turkish sm1cs_arj002_1c861a4a:
 
     # mc "*rope rustling*"
-    mc "*rope rustling*"
+    mc "*ip hışırtısı*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:711
 translate turkish sm1cs_arj002_c4f56bf7:
@@ -1364,7 +1364,7 @@ translate turkish sm1cs_arj002_c9ab0dfd:
 translate turkish sm1cs_arj002_07172b26:
 
     # arj "*giggles*"
-    arj "*giggles*"
+    arj "*kıkırdama*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:738
 translate turkish sm1cs_arj002_eeffc2db:
@@ -1376,7 +1376,7 @@ translate turkish sm1cs_arj002_eeffc2db:
 translate turkish sm1cs_arj002_53966e78:
 
     # arj "*moaning passionately*"
-    arj "*moaning passionately*"
+    arj "*tutkuyla inleme*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:746
 translate turkish sm1cs_arj002_86d97cb3:
@@ -1784,7 +1784,7 @@ translate turkish sm1cs_arj002_8e95384d:
 translate turkish sm1cs_arj002_947230b4:
 
     # sy "*excited slurping sounds*"
-    sy "*excited slurping sounds*"
+    sy "*heyecanlı yalama sesleri*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:929
 translate turkish sm1cs_arj002_bc0c85f8:
@@ -1802,7 +1802,7 @@ translate turkish sm1cs_arj002_2795c1f2:
 translate turkish sm1cs_arj002_df2dbd40:
 
     # arj "*panting* Yes."
-    arj "*panting* Yes."
+    arj "*nefes nefese* Evet."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:950
 translate turkish sm1cs_arj002_7907514c:
@@ -1994,7 +1994,7 @@ translate turkish sm1cs_arj002_67affca7:
 translate turkish sm1cs_arj002_07172b26_1:
 
     # arj "*giggles*"
-    arj "*giggles*"
+    arj "*kıkırdama*"
 
 translate turkish strings:
 

@@ -152,7 +152,7 @@ translate turkish sm1cs_arj003_f21cf1fa:
 translate turkish sm1cs_arj003_07172b26:
 
     # arj "*giggles*"
-    arj "*giggles*"
+    arj "*kıkırdama*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:76
 translate turkish sm1cs_arj003_56bdf886:

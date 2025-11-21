@@ -198,13 +198,13 @@ translate turkish strings:
 
     # game/code/data/constants/constants.rpy:388
     old "Book"
-    new "Book"
+    new "Kitap"
 
     # game/code/data/constants/constants.rpy:389
     old "Magazine"
-    new "Magazine"
+    new "Dergi"
 
     # game/code/data/constants/constants.rpy:398
     old "Energy drink"
-    new "Energy drink"
+    new "Enerji içeceği"
 
