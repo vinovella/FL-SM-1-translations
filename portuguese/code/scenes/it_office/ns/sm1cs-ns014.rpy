@@ -1164,71 +1164,71 @@ translate portuguese sm1cs_ns014_studio_026d1f00:
 translate portuguese sm1cs_ns014_studio_56ae4acc:
 
     # mc "You're a natural, Nari."
-    mc "You're a natural, Nari."
+    mc "Você boa demais, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:385
 translate portuguese sm1cs_ns014_studio_f6999e6a:
 
     # ns "Heehee, stop it. I'm shy!"
-    ns "Heehee, stop it. I'm shy!"
+    ns "Heehee, para com isso. Eu fico tímida!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:388
 translate portuguese sm1cs_ns014_studio_9904ae8d:
 
     # sy "Lies! You're eating this up."
-    sy "Lies! You're eating this up."
+    sy "Mentira! Você tá adorando isso."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:406
 translate portuguese sm1cs_ns014_studio_c5db71ea:
 
     # sy "And leave you to..."
-    sy "And leave you to..."
+    sy "E deixar você pra..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:459
 translate portuguese sm1cs_ns014_studio_0444f710:
 
     # mc "Yeah. I should've told you sooner."
-    mc "Yeah. I should've told you sooner."
+    mc "É. Eu devia ter te contado antes."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:463
 translate portuguese sm1cs_ns014_studio_7d588463:
 
     # ns "That's so wild, [mcname]. So all this camera gear is for... wow."
-    ns "That's so wild, [mcname]. So all this camera gear is for... wow."
+    ns "Isso é tão inacreditável, [mcname]. Então todo esse equipamento de câmera é para... nossa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:467
 translate portuguese sm1cs_ns014_studio_8664f48e:
 
     # mc "I'm sorry for keeping it from you. Can you forgive me?"
-    mc "I'm sorry for keeping it from you. Can you forgive me?"
+    mc "Desculpa não ter te contado. Me perdoa?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:553
 translate portuguese sm1cs_ns014_studio_658994d8:
 
     # mc "Never mind."
-    mc "Never mind."
+    mc "Deixa pra lá."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:578
 translate portuguese sm1cs_ns014_studio_f95ee359:
 
     # mc "Really? You'd want to? As in actually be filmed in scenes with me?"
-    mc "Really? You'd want to? As in actually be filmed in scenes with me?"
+    mc "Sério? Você ia querer? Tipo, realmente gravar cenas comigo?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:602
 translate portuguese sm1cs_ns014_studio_33145967:
 
     # mc "Of course. Whatever you're comfortable with."
-    mc "Of course. Whatever you're comfortable with."
+    mc "Claro. Do jeito que cê se sentir confortável."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:609
 translate portuguese sm1cs_ns014_studio_883c4173:
 
     # sy "I'm so excited! We're gonna have so much fun, Nari."
-    sy "I'm so excited! We're gonna have so much fun, Nari."
+    sy "Tô muito animada! A gente vai se divertir demais, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:347
 translate portuguese sm1cs_ns014_studio_34d49c4d:
 
     # ns "No fair. You're too sneaky. Stacy..."
-    ns "No fair. You're too sneaky. Stacy..."
+    ns "Assim não vale. Você é muito sorrateira, Stacy..."
 
