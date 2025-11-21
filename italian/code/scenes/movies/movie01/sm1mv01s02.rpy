@@ -1400,7 +1400,7 @@ translate italian sm1mv01s02_later_76a298ea:
 translate italian sm1mv01s02_later_bdaede7c:
 
     # kv "*satisfied deep breathing*."
-    kv "*satisfied deep breathing*."
+    kv "*respiro profondo soddisfatto*."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:722
 translate italian sm1mv01s02_later_5c1984cd:

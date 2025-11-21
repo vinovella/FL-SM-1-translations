@@ -68,7 +68,7 @@ translate italian sm1mv01s05_2051d66a:
 translate italian sm1mv01s05_f8ab7733:
 
     # tl "*soft moaning*"
-    tl "*soft moaning*"
+    tl "*gemiti soffusi*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:112
 translate italian sm1mv01s05_15a445ff:
@@ -374,7 +374,7 @@ translate italian sm1mv01s05_start_shoot_0ecfdd50:
 translate italian sm1mv01s05_start_shoot_38e0cfe6:
 
     # mc "*pirate cackling*"
-    mc "*pirate cackling*"
+    mc "*risata da pirata*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:332
 translate italian sm1mv01s05_start_shoot_930595f9:
@@ -554,13 +554,13 @@ translate italian sm1mv01s05_start_shoot_a3681dd3:
 translate italian sm1mv01s05_start_shoot_38e0cfe6_1:
 
     # mc "*pirate cackling*"
-    mc "*pirate cackling*"
+    mc "*risata da pirata*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:439
 translate italian sm1mv01s05_start_shoot_dc4e6303:
 
     # tl "*grunting*"
-    tl "*grunting*"
+    tl "*grugniti*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:455
 translate italian sm1mv01s05_start_shoot_852aa640:
@@ -854,13 +854,13 @@ translate italian sm1mv01s05_start_shoot_4872d02b:
 translate italian sm1mv01s05_start_shoot_4d67f2a1:
 
     # tl "*panting*"
-    tl "*panting*"
+    tl "*ansimando*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:638
 translate italian sm1mv01s05_start_shoot_39d849c6:
 
     # tl "*sucking lewdly*"
-    tl "*sucking lewdly*"
+    tl "*succhia lascivamente*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:639
 translate italian sm1mv01s05_start_shoot_50cf7550:
@@ -968,7 +968,7 @@ translate italian sm1mv01s05_start_shoot_ee56f586:
 translate italian sm1mv01s05_start_shoot_44c15f4e:
 
     # tl "*muffled moaning*"
-    tl "*muffled moaning*"
+    tl "*gemiti soffocati*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:701
 translate italian sm1mv01s05_start_shoot_55856e0e:
@@ -986,7 +986,7 @@ translate italian sm1mv01s05_start_shoot_569d9029:
 translate italian sm1mv01s05_start_shoot_71374efa:
 
     # tl "*horny sucking*"
-    tl "*horny sucking*"
+    tl "*succhia eccitata*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:715
 translate italian sm1mv01s05_start_shoot_91a16184:
@@ -1004,7 +1004,7 @@ translate italian sm1mv01s05_start_shoot_422a6713:
 translate italian sm1mv01s05_start_shoot_d125c2e2:
 
     # mc "*sensual groaning*"
-    mc "*sensual groaning*"
+    mc "*gemiti sensuali*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:727
 translate italian sm1mv01s05_start_shoot_c05edca6:
@@ -1022,7 +1022,7 @@ translate italian sm1mv01s05_start_shoot_01d6ae68:
 translate italian sm1mv01s05_start_shoot_6fd8deaf:
 
     # tl "*aggressive sucking*"
-    tl "*aggressive sucking*"
+    tl "*succhia aggressivamente*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:734
 translate italian sm1mv01s05_start_shoot_c2b0fbed:
@@ -1064,7 +1064,7 @@ translate italian sm1mv01s05_start_shoot_2ef13c70:
 translate italian sm1mv01s05_start_shoot_47052f55:
 
     # tl "*moaning loudly*"
-    tl "*moaning loudly*"
+    tl "*geme ad alta voce*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:761
 translate italian sm1mv01s05_start_shoot_c1d7a7de:
@@ -1148,7 +1148,7 @@ translate italian sm1mv01s05_start_shoot_502443ad:
 translate italian sm1mv01s05_start_shoot_ba7c8d0d:
 
     # tl "Heave... to... *panting and moaning*"
-    tl "Heave... to... *panting and moaning*"
+    tl "Heave... to... *ansimando e gemendo*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:800
 translate italian sm1mv01s05_start_shoot_2fc05963:
@@ -1376,7 +1376,7 @@ translate italian sm1mv01s05_start_shoot_7e9a31d3:
 translate italian sm1mv01s05_start_shoot_505be050:
 
     # sy "Let's go to the next line."
-    sy "Let's go to the next line."
+    sy "Passiamo alla prossima battuta."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:911
 translate italian sm1mv01s05_start_shoot_e3b33503:
@@ -1400,7 +1400,7 @@ translate italian sm1mv01s05_start_shoot_0357c851:
 translate italian sm1mv01s05_start_shoot_505be050_1:
 
     # sy "Let's go to the next line."
-    sy "Let's go to the next line."
+    sy "Passiamo alla prossima battuta."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:920
 translate italian sm1mv01s05_start_shoot_7f14dcf3:

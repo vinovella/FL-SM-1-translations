@@ -452,7 +452,7 @@ translate italian sm1ms016_fdcc86eb:
 translate italian sm1ms016_a516014d:
 
     # mc "Of course. I'd never ask someone to do something they aren't comfortable with."
-    mc "Of course. I'd never ask someone to do something they aren't comfortable with."
+    mc "Certo. Non chiederei mai a qualcuno di fare qualcosa con cui non si sente a suo agio."
 
 # game/code/scenes/main_story/sm1ms016.rpy:201
 translate italian sm1ms016_ce567898:
