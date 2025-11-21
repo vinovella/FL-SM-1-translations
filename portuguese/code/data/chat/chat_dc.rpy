@@ -52,9 +52,9 @@ translate portuguese strings:
 
     # game/code/data/chat/chat_dc.rpy:3
     old "Hey Debbie! I'm glad we talked too. I'm also pretty pumped for this date"
-    new "Hey Debbie! I'm glad we talked too. I'm also pretty pumped for this date"
+    new "Hey Debbie! Estou contente que a gente conversou também. Estou animado para esse encontro"
 
     # game/code/data/chat/chat_dc.rpy:41
     old "I'll send you the address! See you in a bit 😏"
-    new "I'll send you the address! See you in a bit 😏"
+    new "Vou te mandar o endereço! Até daqui a pouco 😏"
 
