@@ -2864,73 +2864,73 @@ translate italian sm1ms029_party_part_1_cda7d8e2:
 translate italian sm1ms029_party_part_1_e53c9a12:
 
     # mc "We do have a few more activities planned with Stacy tonight! The first of which, is giving her some wonderful nipple clamps!"
-    mc "We do have a few more activities planned with Stacy tonight! The first of which, is giving her some wonderful nipple clamps!"
+    mc "Abbiamo ancora alcune attività programmate con Stacy stasera! La prima delle quali è metterle delle meravigliose mollette per capezzoli!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1205
 translate italian sm1ms029_party_part_1_3c70516c:
 
     # mc "Who would like to put these on my beautiful girlfriend!?!"
-    mc "Who would like to put these on my beautiful girlfriend!?!"
+    mc "Chi vorrebbe metterle alla mia bellissima ragazza!?!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1222
 translate italian sm1ms029_ns_nipple_clamps_7cec30fd:
 
     # ns "Can I do it, [mcname]?"
-    ns "Can I do it, [mcname]?"
+    ns "Posso farlo io, [mcname]?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1223
 translate italian sm1ms029_ns_nipple_clamps_bd61acfa:
 
     # mc "Of course you can, Nari! Step right up!"
-    mc "Of course you can, Nari! Step right up!"
+    mc "Certo che puoi, Nari! Sali sul palco!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1226
 translate italian sm1ms029_ns_nipple_clamps_d05aaf9c:
 
     # mc "You're the next contestant on \"Kinks with Stacy\"!"
-    mc "You're the next contestant on \"Kinks with Stacy\"!"
+    mc "Sei la prossima concorrente in \"Perversioni con Stacy\"!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1227
 translate italian sm1ms029_ns_nipple_clamps_70687305:
 
     # ns "Oh you make it sound so exciting!"
-    ns "Oh you make it sound so exciting!"
+    ns "Oh lo fai sembrare così eccitante!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1230
 translate italian sm1ms029_ns_nipple_clamps_226be50f:
 
     # mc "Of course it's exciting! Are you not having fun?"
-    mc "Of course it's exciting! Are you not having fun?"
+    mc "Certo che è eccitante! Non ti stai divertendo?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1231
 translate italian sm1ms029_ns_nipple_clamps_1d7a4dae:
 
     # ns "Oh, I am having loads of fun!"
-    ns "Oh, I am having loads of fun!"
+    ns "Oh, mi sto divertendo tantissimo!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1234
 translate italian sm1ms029_ns_nipple_clamps_46b45c8b:
 
     # ns "But I think I am about to have way more fun!"
-    ns "But I think I am about to have way more fun!"
+    ns "Ma penso che sto per divertirmi ancora di più!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1235
 translate italian sm1ms029_ns_nipple_clamps_a4b5ffd6:
 
     # mc "I think you are too."
-    mc "I think you are too."
+    mc "Penso di sì anche io."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1238
 translate italian sm1ms029_ns_nipple_clamps_213c4cc0:
 
     # ns "I've never put nipple clamps on someone... is it difficult?"
-    ns "I've never put nipple clamps on someone... is it difficult?"
+    ns "Non ho mai messo le mollette per capezzoli a qualcuno... è difficile?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1239
 translate italian sm1ms029_ns_nipple_clamps_53a678d0:
 
     # mc "Not at all. You just clamp it to their nipple! Super easy."
-    mc "Not at all. You just clamp it to their nipple! Super easy."
+    mc "Per niente. Basta agganciarle al capezzolo! Facilissimo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1241
 translate italian sm1ms029_ns_nipple_clamps_d9b4a27e:
@@ -2942,13 +2942,13 @@ translate italian sm1ms029_ns_nipple_clamps_d9b4a27e:
 translate italian sm1ms029_ns_nipple_clamps_5157ba8d:
 
     # ns "Okay... all I have to do is..."
-    ns "Okay... all I have to do is..."
+    ns "Ok... tutto quello che devo fare è..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1245
 translate italian sm1ms029_ns_nipple_clamps_7ea65083:
 
     # ns "Put it on the..."
-    ns "Put it on the..."
+    ns "Metterlo sul..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1248
 translate italian sm1ms029_ns_nipple_clamps_c3a71b05:
@@ -2960,7 +2960,7 @@ translate italian sm1ms029_ns_nipple_clamps_c3a71b05:
 translate italian sm1ms029_ns_nipple_clamps_9ef2bf3d:
 
     # ns "Nipple!"
-    ns "Nipple!"
+    ns "Capezzolo!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1251
 translate italian sm1ms029_ns_nipple_clamps_2500beb2:
@@ -2972,37 +2972,37 @@ translate italian sm1ms029_ns_nipple_clamps_2500beb2:
 translate italian sm1ms029_ns_nipple_clamps_375621c9:
 
     # ns "Is that okay, Stacy!?"
-    ns "Is that okay, Stacy!?"
+    ns "Va bene, Stacy!?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1255
 translate italian sm1ms029_ns_nipple_clamps_f596e9f7:
 
     # sy "Uh huh! Super okay! I like the feeling, it just takes me a second to get used to the pain."
-    sy "Uh huh! Super okay! I like the feeling, it just takes me a second to get used to the pain."
+    sy "Uh huh! Super bene! Mi piace la sensazione, mi serve solo un secondo per abituarmi al dolore."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1256
 translate italian sm1ms029_ns_nipple_clamps_4ade79da:
 
     # ns "It hurts!?!"
-    ns "It hurts!?!"
+    ns "Fa male!?!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1258
 translate italian sm1ms029_ns_nipple_clamps_65182ab5:
 
     # sy "Yes, but in a good way!"
-    sy "Yes, but in a good way!"
+    sy "Sì, ma in modo positivo!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1260
 translate italian sm1ms029_ns_nipple_clamps_5d81ffc3:
 
     # ns "Pain can be... good?"
-    ns "Pain can be... good?"
+    ns "Il dolore può essere... buono?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1262
 translate italian sm1ms029_ns_nipple_clamps_3ea7f0fb:
 
     # sy "Oh, it absolutely can! You'll have to ask [mcname] about trying it sometime!"
-    sy "Oh, it absolutely can! You'll have to ask [mcname] about trying it sometime!"
+    sy "Oh, assolutamente sì! Dovrai chiedere a [mcname] di provarlo qualche volta!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1263
 translate italian sm1ms029_ns_nipple_clamps_a5ed4ed1:
@@ -3014,13 +3014,13 @@ translate italian sm1ms029_ns_nipple_clamps_a5ed4ed1:
 translate italian sm1ms029_ns_nipple_clamps_a4a47c16:
 
     # sy "But before you get too lost in thought, why don't you put that other nipple clamp on me."
-    sy "But before you get too lost in thought, why don't you put that other nipple clamp on me."
+    sy "Ma prima che ti perda troppo nei pensieri, perché non mi metti l'altra molletta per capezzolo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1267
 translate italian sm1ms029_ns_nipple_clamps_fca0b820:
 
     # ns "Oh, right!"
-    ns "Oh, right!"
+    ns "Oh, giusto!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1270
 translate italian sm1ms029_ns_nipple_clamps_a85f91b3:
@@ -3032,91 +3032,91 @@ translate italian sm1ms029_ns_nipple_clamps_a85f91b3:
 translate italian sm1ms029_ns_nipple_clamps_902cc0a1:
 
     # sy "Phew! Okay... God, I've missed nipple clamps."
-    sy "Phew! Okay... God, I've missed nipple clamps."
+    sy "Fiu! Ok... Dio, mi sono mancate le mollette per capezzoli."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1273
 translate italian sm1ms029_ns_nipple_clamps_5bbdba07:
 
     # ns "Wow, you really like them, don't you?"
-    ns "Wow, you really like them, don't you?"
+    ns "Wow, ti piacciono davvero, vero?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1274
 translate italian sm1ms029_ns_nipple_clamps_38e6c864:
 
     # sy "Oh I absolutely do."
-    sy "Oh I absolutely do."
+    sy "Oh assolutamente sì."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1276
 translate italian sm1ms029_ns_nipple_clamps_b78bbc50:
 
     # ns "I will have to try them at some point."
-    ns "I will have to try them at some point."
+    ns "Dovrò provarle prima o poi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1278
 translate italian sm1ms029_ns_nipple_clamps_fc23298c:
 
     # sy "You can borrow mine any time, Nari!"
-    sy "You can borrow mine any time, Nari!"
+    sy "Puoi prendere in prestito le mie quando vuoi, Nari!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1280
 translate italian sm1ms029_ns_nipple_clamps_70b41202:
 
     # ns "Wow, thank you, Stacy!"
-    ns "Wow, thank you, Stacy!"
+    ns "Wow, grazie, Stacy!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1281
 translate italian sm1ms029_ns_nipple_clamps_b3abcdee:
 
     # sy "Don't mention it!"
-    sy "Don't mention it!"
+    sy "Figurati!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1292
 translate italian sm1ms029_tl_nipple_clamps_9495a2cd:
 
     # tl "I'd love to."
-    tl "I'd love to."
+    tl "Mi piacerebbe."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1295
 translate italian sm1ms029_tl_nipple_clamps_b4642644:
 
     # mc "Oh ho! Of course, Taisia. Here you go!"
-    mc "Oh ho! Of course, Taisia. Here you go!"
+    mc "Oh oh! Certo, Taisia. Ecco qui!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1298
 translate italian sm1ms029_tl_nipple_clamps_6e318177:
 
     # tl "Mmmm, these are good ones, too."
-    tl "Mmmm, these are good ones, too."
+    tl "Mmmm, anche queste sono buone."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1299
 translate italian sm1ms029_tl_nipple_clamps_fcf32bb7:
 
     # mc "Nothing but the best here at S&M!"
-    mc "Nothing but the best here at S&M!"
+    mc "Solo il meglio qui a S&M!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1301
 translate italian sm1ms029_tl_nipple_clamps_6c8bee24:
 
     # tl "I can see that."
-    tl "I can see that."
+    tl "Lo vedo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1304
 translate italian sm1ms029_tl_nipple_clamps_f2b790d1:
 
     # tl "Mmmm, looking delightful, Stacy."
-    tl "Mmmm, looking delightful, Stacy."
+    tl "Mmmm, sembri deliziosa, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1305
 translate italian sm1ms029_tl_nipple_clamps_0fa887c0:
 
     # sy "Thank you, Taisia!"
-    sy "Thank you, Taisia!"
+    sy "Grazie, Taisia!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1307
 translate italian sm1ms029_tl_nipple_clamps_dbb70fd4:
 
     # tl "You're going to look even better with these clamps."
-    tl "You're going to look even better with these clamps."
+    tl "Sembrerai ancora meglio con queste mollette."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1308
 translate italian sm1ms029_tl_nipple_clamps_2500beb2:
@@ -3128,7 +3128,7 @@ translate italian sm1ms029_tl_nipple_clamps_2500beb2:
 translate italian sm1ms029_tl_nipple_clamps_97073d08:
 
     # tl "But first, maybe a little care and affection for your poor titties."
-    tl "But first, maybe a little care and affection for your poor titties."
+    tl "Ma prima, forse un po' di cure e affetto per le tue povere tettine."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1314
 translate italian sm1ms029_tl_nipple_clamps_efda7d72:
@@ -3140,7 +3140,7 @@ translate italian sm1ms029_tl_nipple_clamps_efda7d72:
 translate italian sm1ms029_tl_nipple_clamps_b86b856a:
 
     # sy "Not what I was expecting."
-    sy "Not what I was expecting."
+    sy "Non era quello che mi aspettavo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1318
 translate italian sm1ms029_tl_nipple_clamps_cf88d197:
@@ -3158,7 +3158,7 @@ translate italian sm1ms029_tl_nipple_clamps_bdcec9b3:
 translate italian sm1ms029_tl_nipple_clamps_8165a683:
 
     # tl "Mmmmm, I love that sound."
-    tl "Mmmmm, I love that sound."
+    tl "Mmmmm, adoro quel suono."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1325
 translate italian sm1ms029_tl_nipple_clamps_efda7d72_1:
@@ -3170,7 +3170,7 @@ translate italian sm1ms029_tl_nipple_clamps_efda7d72_1:
 translate italian sm1ms029_tl_nipple_clamps_ab9f7cbc:
 
     # tl "Just a little foreplay before..."
-    tl "Just a little foreplay before..."
+    tl "Solo un po' di preliminari prima..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1329
 translate italian sm1ms029_tl_nipple_clamps_bbac6b7b:
@@ -3188,7 +3188,7 @@ translate italian sm1ms029_tl_nipple_clamps_82d9874c:
 translate italian sm1ms029_tl_nipple_clamps_a548952e:
 
     # tl "Hearing your little yelps made me wet, Stacy. I want you to know that."
-    tl "Hearing your little yelps made me wet, Stacy. I want you to know that."
+    tl "Sentire i tuoi piccoli guaiti mi ha bagnata, Stacy. Voglio che tu lo sappia."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1334
 translate italian sm1ms029_tl_nipple_clamps_2500beb2_1:
@@ -3200,7 +3200,7 @@ translate italian sm1ms029_tl_nipple_clamps_2500beb2_1:
 translate italian sm1ms029_tl_nipple_clamps_2f3de30d:
 
     # tl "She's all yours again, big boy."
-    tl "She's all yours again, big boy."
+    tl "È tutta tua di nuovo, ragazzone."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1345
 translate italian sm1ms029_part_1_my_appear_e557a85c:
