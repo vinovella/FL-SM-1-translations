@@ -350,7 +350,7 @@ translate italian sm1cs_mes006_f60ef150:
 translate italian sm1cs_mes006_208cd987:
 
     # mes "Of course!"
-    mes "Of course!"
+    mes "Certo!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:244
 translate italian sm1cs_mes006_de2c9362:
@@ -380,7 +380,7 @@ translate italian sm1cs_mes006_e8998754:
 translate italian sm1cs_mes006_d66b7c4f:
 
     # mes "Sounds good to me, [mcname]."
-    mes "Sounds good to me, [mcname]."
+    mes "Mi sta bene, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:251
 translate italian sm1cs_mes006_4331d2d8:
@@ -410,7 +410,7 @@ translate italian sm1cs_mes006_bf211877:
 translate italian sm1cs_mes006_d0f12525:
 
     # mes "*laughing moans*"
-    mes "*laughing moans*"
+    mes "*gemiti ridenti*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:261
 translate italian sm1cs_mes006_3ec3dbff:
