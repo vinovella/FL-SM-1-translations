@@ -848,5 +848,5 @@ translate portuguese q_inter_ms_19_6c302b48:
 translate portuguese q_inter_ms_31_c231c7c3:
 
     # mc "How are you doing today?"
-    mc "How are you doing today?"
+    mc "Como vai hoje?"
 
