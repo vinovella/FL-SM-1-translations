@@ -2725,3 +2725,4 @@ translate french strings:
     new "Surpris que ça te prenne autant de temps"
 
 #Translate by BlackViper_
+

@@ -889,3 +889,4 @@ translate french strings:
     new "Je devais venir ici pour le travail"
 
 #Translate by BlackViper_
+

@@ -41,3 +41,4 @@ translate french sm1cs_my004i_ebee2d78:
     sy "Je reviens tout de suite !"
 
 #Translate by BlackViper_
+

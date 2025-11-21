@@ -940,4 +940,3 @@ translate spanish sm1mv01s01_8ae75df5:
     # mc "Why don't you go ahead? I will be right there."
     mc "¿Por qué no vas tú primero? Iré enseguida."
 
-

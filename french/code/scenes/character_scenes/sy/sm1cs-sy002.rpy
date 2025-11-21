@@ -1253,3 +1253,4 @@ translate french sm1cs_sy002_dc_talk_4558d886:
     mc "{size=*0.7}On dirait la flic du parc.{/size}"
 
 #Translate by BlackViper_
+

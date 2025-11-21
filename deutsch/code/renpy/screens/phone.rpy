@@ -26,9 +26,7 @@
 
     # game/code/renpy/screens/phone.rpy:84
     old "Settings"
-    new "Einst."
-
-translate deutsch strings:
+    new "Einstellungen"
 
     # game/code/renpy/screens/phone.rpy:69
     old "Laptop"
@@ -38,14 +36,15 @@ translate deutsch strings:
     old "Studio Laptop"
     new "Studio Laptop"
 
-translate deutsch strings:
-
     # game/code/renpy/screens/phone.rpy:115
     old "Day: [gt.get_day_number()]"
     new "Tag: [gt.get_day_number()]"
 
-translate deutsch strings:
-
     # game/code/renpy/screens/phone.rpy:77
     old "Save for Season 2"
     new "Für Season 2 speichern"
+
+    # game/code/renpy/screens/phone.rpy:88
+    old "Settings{#phone_button}"
+    new "Einst.{#phone_button}"
+

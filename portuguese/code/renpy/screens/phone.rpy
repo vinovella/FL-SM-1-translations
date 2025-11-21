@@ -28,8 +28,6 @@ translate portuguese strings:
     old "Settings"
     new "Configurações"
 
-translate portuguese strings:
-
     # game/code/renpy/screens/phone.rpy:69
     old "Laptop"
     new "Notebook"
@@ -38,15 +36,15 @@ translate portuguese strings:
     old "Studio Laptop"
     new "Nodebook do Estúdio"
 
-translate portuguese strings:
-
     # game/code/renpy/screens/phone.rpy:115
     old "Day: [gt.get_day_number()]"
     new "Day: [gt.get_day_number()]"
 
-translate portuguese strings:
-
     # game/code/renpy/screens/phone.rpy:77
     old "Save for Season 2"
-    new "Save for Season 2"
+    new "Salvar para a Temporada 2"
+
+    # game/code/renpy/screens/phone.rpy:88
+    old "Settings{#phone_button}"
+    new "Config{#phone_button}"
 

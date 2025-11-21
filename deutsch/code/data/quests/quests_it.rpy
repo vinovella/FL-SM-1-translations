@@ -275,3 +275,4 @@ translate deutsch strings:
     # game/code/data/quests/quests_it.rpy:3
     old "Work the IT job [var]/35 times"
     new "IT-Job [var]/35 Mal ausüben"
+
