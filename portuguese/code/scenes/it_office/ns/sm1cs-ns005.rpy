@@ -1120,41 +1120,41 @@ translate portuguese strings:
 translate portuguese sm1cs_ns005_ef1a9eef:
 
     # mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
-    mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
+    mct "Eu devia parar de enrolar e chamar ela pra sair. Aposto que ela ia curtir uma noite legal em vez de mexer em mais planilhas."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:46
 translate portuguese sm1cs_ns005_bdbf9d38:
 
     # ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
-    ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
+    ns "*risos* Você não precisa se curvar também. Eu que tive que te deixar esperando quando recebi a ligação da outra vez."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:65
 translate portuguese sm1cs_ns005_ecb1749e:
 
     # ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
-    ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
+    ns "São doces de Ginseng Azul, um dos meus lanches favoritos do meu país."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:353
 translate portuguese sm1cs_ns005_in_bathroom_55af1966:
 
     # mc "I... I don't. But I want you to finish me off."
-    mc "I... I don't. But I want you to finish me off."
+    mc "Eu... não. Mas eu quero que você me faça gozar."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:503
 translate portuguese sm1cs_ns005_after_cum_f15deec7:
 
     # ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
-    ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
+    ns "Foi bastante sêmen, [mcname]. Imagino que isso signifique que gostou."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:642
 translate portuguese sm1cs_ns005_after_cum_5af9bd6d:
 
     # ns "You know I'm very efficient."
-    ns "You know I'm very efficient."
+    ns "Você sabe que eu sou muito eficiente."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:646
 translate portuguese sm1cs_ns005_after_cum_34dbd9c4:
 
     # mc "Give me a little time and I'll find a restaurant and text you the details."
-    mc "Give me a little time and I'll find a restaurant and text you the details."
+    mc "Me dá um tempinho que eu acho um restaurante e te mando os detalhes."
 
