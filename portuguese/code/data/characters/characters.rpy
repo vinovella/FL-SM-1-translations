@@ -1,4 +1,4 @@
-﻿translate portuguese strings:
+translate portuguese strings:
 
     # game/code/data/characters/characters.rpy:3
     old "Harris"
@@ -118,11 +118,11 @@
 
     # game/code/data/characters/characters.rpy:3
     old "Creepy"
-    new "Creepy"
+    new "Esquisito"
 
     # game/code/data/characters/characters.rpy:3
     old "Guy"
-    new "Guy"
+    new "Cara"
 
     # game/code/data/characters/characters.rpy:3
     old "Dog"
@@ -134,5 +134,5 @@
 
     # game/code/data/characters/characters.rpy:3
     old "Driver"
-    new "Driver"
+    new "Motorista"
 
