@@ -260,7 +260,7 @@ translate portuguese sm1cs_bg003_793ce495:
 translate portuguese sm1cs_bg003_d1760465:
 
     # kv "But you and Amore need to change, [mcname]."
-    kv "Mas você e a Amore vão ter que se trocar."
+    kv "Mas você e a Amore vão ter que se trocar, [mcname]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:174
 translate portuguese sm1cs_bg003_05500ff6:
