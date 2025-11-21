@@ -882,51 +882,51 @@ translate portuguese strings:
 translate portuguese sm1ms008_4b4bda9d:
 
     # sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
-    sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
+    sy "Tem mais um pedido. É meio estranho. A garota precisa ser ruiva. Aí o [mcname] arrumou essa peruca."
 
 # game/code/scenes/main_story/sm1ms008.rpy:221
 translate portuguese sm1ms008_special_971cdae2:
 
     # mc "Well, we're together now. That's the important part."
-    mc "Well, we're together now. That's the important part."
+    mc "Bom, estamos juntos agora. Isso que importa."
 
 # game/code/scenes/main_story/sm1ms008.rpy:380
 translate portuguese sm1ms008_after_choice_c7b2de42:
 
     # kv "Alright Stacy, why don't you give me some poses."
-    kv "Alright Stacy, why don't you give me some poses."
+    kv "Beleza Stacy, por que não me mostra umas poses."
 
 # game/code/scenes/main_story/sm1ms008.rpy:430
 translate portuguese sm1ms008_after_choice_afa6b554:
 
     # mc "Wait, don't you have any cameras we might need, Kanya?"
-    mc "Wait, don't you have any cameras we might need, Kanya?"
+    mc "Espera, você não tem uma câmera que podemos precisar, Kanya?"
 
 # game/code/scenes/main_story/sm1ms008.rpy:455
 translate portuguese sm1ms008_after_choice_9090b1fc:
 
     # sy "I'm thinking about the extra work we'll have to do to get this super camera."
-    sy "I'm thinking about the extra work we'll have to do to get this super camera."
+    sy "Tô pensando no esforço extra que vamos ter pra arrumar essa câmera fodona."
 
 # game/code/scenes/main_story/sm1ms008.rpy:482
 translate portuguese sm1ms008_after_choice_6805a231:
 
     # sy "Haha. Good thing that's not [mcname]'s motto."
-    sy "Haha. Good thing that's not [mcname]'s motto."
+    sy "Haha. Ainda bem que esse não é o mantra do [mcname]."
 
 # game/code/scenes/main_story/sm1ms008.rpy:498
 translate portuguese sm1ms008_after_choice_43fefb83:
 
     # kv "Got it, let me give you my number."
-    kv "Got it, let me give you my number."
+    kv "Boa, vou te dar meu número."
 
 translate portuguese strings:
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
     old "You should stick with red hair"
-    new "You should stick with red hair"
+    new "Você devia ficar de ruiva"
 
     # game/code/scenes/main_story/sm1ms008.rpy:322
     old "I think it will do nicely for the scene"
-    new "I think it will do nicely for the scene"
+    new "Acho que vai ficar legal na cena"
 
