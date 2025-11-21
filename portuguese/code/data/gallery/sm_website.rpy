@@ -1,44 +1,44 @@
-﻿translate portuguese strings:
+translate portuguese strings:
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Red-haired maid fucked hard"
-    new "Red-haired maid fucked hard"
+    new "Empregada ruiva fodendo forte"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Mr. CEO Man"
-    new "Mr. CEO Man"
+    new "Sr. CEO"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Maid"
-    new "Maid"
+    new "Empregada"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Sexy brunette fucked in a car"
-    new "Sexy brunette fucked in a car"
+    new "Morena sexy sendo comida no carro"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Officer Johnson"
-    new "Officer Johnson"
+    new "Oficial Johnson"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Street Racer"
-    new "Street Racer"
+    new "Piloto de Rua"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Slutty redhead farmer girl gets her tight ass pounded"
-    new "Slutty redhead farmer girl gets her tight ass pounded"
+    new "Fazendeira ruiva safada apanhando no rabo"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Farmhand Jon"
-    new "Farmhand Jon"
+    new "Peão Jon"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Ms. Jones"
-    new "Ms. Jones"
+    new "Sra. Jones"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Curse of the Pirate Queen"
-    new "Curse of the Pirate Queen"
+    new "A Maldição da Rainha Pirata"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Dickhart"
@@ -58,25 +58,25 @@
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Captain Ramses Hornstar"
-    new "Captain Ramses Hornstar"
+    new "Capitão Ramses Hornstar"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Lt. Luffie Orion"
-    new "Lt. Luffie Orion"
+    new "Ten. Luffie Orion"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Lieutenant Kira Solo"
-    new "Lieutenant Kira Solo"
+    new "Tenente Kira Solo"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Doctor Jalerra"
-    new "Doctor Jalerra"
+    new "Doutora Jalerra"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Spectre"
-    new "Spectre"
+    new "Spectro"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Captain Kimora"
-    new "Captain Kimora"
+    new "Capitã Kimora"
 
