@@ -1586,41 +1586,41 @@ translate portuguese strings:
 translate portuguese sm1fs_i005_b16b4e3c:
 
     # pm "Sienna. You're DevOps.{w} Stop this."
-    pm "Sienna. You're DevOps.{w} Stop this."
+    pm "Sienna. Você é DevOps.{w}  Para isso."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:423
 translate portuguese sm1fs_i005_849e0440:
 
     # en "What is the problem?"
-    en "What is the problem?"
+    en "Qual é o problema?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:501
 translate portuguese sm1fs_i005_bd4c8cdb:
 
     # ag "It's in file directory sales slash two-thousand-twenty slash Oh Bee Jay slash archive."
-    ag "It's in file directory sales slash two-thousand-twenty slash Oh Bee Jay slash archive."
+    ag "Está no diretório de arquivos de vendas barra dois mil e vinte barra O B J barra arquivo."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:578
 translate portuguese sm1fs_i005_330d5a55:
 
     # sr "Oh.{w} That's Peter's."
-    sr "Oh.{w} That's Peter's."
+    sr "Ah.{w} É do Peter."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:609
 translate portuguese sm1fs_i005_d8a77a7d:
 
     # cw "I mean I've {i}seen{/i} things."
-    cw "I mean I've {i}seen{/i} things."
+    cw "Digo, já {i}vi{/i} umas coisas."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:751
 translate portuguese sm1fs_i005_conference_08fe18ca:
 
     # am "And we're still making the news website."
-    am "And we're still making the news website."
+    am "E ainda estamos fazendo o site de notícias."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:831
 translate portuguese sm1fs_i005_conference_53902fad:
 
     # ag "Yes. And I presume you're going for a caffeine run?"
-    ag "Yes. And I presume you're going for a caffeine run?"
+    ag "Sim. E imagino que você tá indo atrás de um café?"
 
