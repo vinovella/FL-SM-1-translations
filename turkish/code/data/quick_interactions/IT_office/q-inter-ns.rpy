@@ -1040,13 +1040,13 @@ translate turkish q_inter_ns_39_a6593017:
 translate turkish q_inter_ns_40_25048c2a:
 
     # ns "I can't believe I'm going to make porn with you."
-    ns "I can't believe I'm going to make porn with you."
+    ns "Seninle porno yapacağıma inanamıyorum."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:590
 translate turkish q_inter_ns_41_0ffd1d15:
 
     # ns "I have to figure out some kind of pornstar name."
-    ns "I have to figure out some kind of pornstar name."
+    ns "Bir tür porno yıldızı ismi bulmam gerekiyor."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:591
 translate turkish q_inter_ns_41_52a24206:
@@ -1058,31 +1058,31 @@ translate turkish q_inter_ns_41_52a24206:
 translate turkish q_inter_ns_41_8dd527a3:
 
     # mc "I don't think pornstar names usually use their first name."
-    mc "I don't think pornstar names usually use their first name."
+    mc "Porno yıldızı isimleri genellikle gerçek isimlerini kullanmaz."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:595
 translate turkish q_inter_ns_41_61edbb0d:
 
     # ns "This is going to be harder than I thought."
-    ns "This is going to be harder than I thought."
+    ns "Bu düşündüğümden daha zor olacak."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:600
 translate turkish q_inter_ns_42_0443c849:
 
     # ns "Hello roomie."
-    ns "Hello roomie."
+    ns "Merhaba ev arkadaşım."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:605
 translate turkish q_inter_ns_43_9c9704f2:
 
     # ns "I really love my room, [mcname]."
-    ns "I really love my room, [mcname]."
+    ns "Odamı gerçekten seviyorum, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:610
 translate turkish q_inter_ns_44_869134b1:
 
     # ns "The bathroom at home is so big."
-    ns "The bathroom at home is so big."
+    ns "Evdeki banyo çok büyük."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:615
 translate turkish q_inter_ns_45_eef0c656:
@@ -1100,37 +1100,37 @@ translate turkish q_inter_ns_45_9fbc0f46:
 translate turkish q_inter_ns_45_8963cfad:
 
     # ns "Hehe. Just thinking about the next time we have some down-time."
-    ns "Hehe. Just thinking about the next time we have some down-time."
+    ns "Hehe. Sadece bir dahaki sefere biraz boş zamanımız olduğunda ne yapacağımızı düşünüyorum."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:623
 translate turkish q_inter_ns_46_fbccf30c:
 
     # ns "This place is amazing. I found the garage yesterday."
-    ns "This place is amazing. I found the garage yesterday."
+    ns "Burası harika. Dün garajı buldum."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:624
 translate turkish q_inter_ns_46_88799376:
 
     # ns "Maybe one day I'll have a car to put in there."
-    ns "Maybe one day I'll have a car to put in there."
+    ns "Belki bir gün oraya koyacak bir arabam olur."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:625
 translate turkish q_inter_ns_46_2034c056:
 
     # mc "Maybe."
-    mc "Maybe."
+    mc "Belki."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:631
 translate turkish q_inter_ns_47_073558da:
 
     # ns "Mmmm. What is that look, [mcname]."
-    ns "Mmmm. What is that look, [mcname]."
+    ns "Mmmm. Bu ne bakış, [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:632
 translate turkish q_inter_ns_47_6f09aad8:
 
     # ns "Are you thinking of doing something naughty with me?"
-    ns "Are you thinking of doing something naughty with me?"
+    ns "Benimle yaramaz bir şey yapmayı mı düşünüyorsun?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:638
 translate turkish q_inter_ns_48_c7779512:
@@ -1142,13 +1142,13 @@ translate turkish q_inter_ns_48_c7779512:
 translate turkish q_inter_ns_48_1fc48270:
 
     # ns "Did you hear that Bitcoin is up again?"
-    ns "Did you hear that Bitcoin is up again?"
+    ns "Bitcoin'in tekrar yükseldiğini duydun mu?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:640
 translate turkish q_inter_ns_48_8104a080:
 
     # ns "I need to save some money next paycheck to buy some."
-    ns "I need to save some money next paycheck to buy some."
+    ns "Bir sonraki maaşımdan biraz Bitcoin almak için para biriktirmem gerekiyor."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:646
 translate turkish q_inter_ns_49_3ff77964:
@@ -1160,49 +1160,49 @@ translate turkish q_inter_ns_49_3ff77964:
 translate turkish q_inter_ns_49_6154ad10:
 
     # mc "What's wrong, Nari?"
-    mc "What's wrong, Nari?"
+    mc "Ne oldu, Nari?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:650
 translate turkish q_inter_ns_49_807319e0:
 
     # ns "Bitcoin went down again yesterday."
-    ns "Bitcoin went down again yesterday."
+    ns "Bitcoin dün tekrar düştü."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:651
 translate turkish q_inter_ns_49_9dec280d:
 
     # ns "Right after I bought some."
-    ns "Right after I bought some."
+    ns "Tam aldıktan sonra."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:652
 translate turkish q_inter_ns_49_f196c3da:
 
     # mc "Win some, lose some."
-    mc "Win some, lose some."
+    mc "Bazılarını kazanırsın, bazılarını kaybedersin."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:655
 translate turkish q_inter_ns_49_b93e4541:
 
     # ns "Yes..."
-    ns "Yes..."
+    ns "Evet..."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:660
 translate turkish q_inter_ns_50_2c274d13:
 
     # mc "Oh hey Nari! Going for a walk?"
-    mc "Oh hey Nari! Going for a walk?"
+    mc "Oh hey Nari! Yürüyüşe mi çıkıyorsun?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:661
 translate turkish q_inter_ns_50_f6afdaa7:
 
     # ns "Mmhmmm! I just think Crowning is so beautiful."
-    ns "Mmhmmm! I just think Crowning is so beautiful."
+    ns "Mmhmmm! Crowning'in çok güzel olduğunu düşünüyorum."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:662
 translate turkish q_inter_ns_50_fd8f367f:
 
     # mc "I do too!"
-    mc "I do too!"
+    mc "Ben de öyle düşünüyorum!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:667
 translate turkish q_inter_ns_51_8522c77b:
@@ -1214,23 +1214,23 @@ translate turkish q_inter_ns_51_8522c77b:
 translate turkish q_inter_ns_51_03d1e965:
 
     # mc "Yes, Nari?"
-    mc "Yes, Nari?"
+    mc "Evet, Nari?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:671
 translate turkish q_inter_ns_51_7683dcea:
 
     # ns "One day we should come out here and fool around in the bushes!"
-    ns "One day we should come out here and fool around in the bushes!"
+    ns "Bir gün buraya gelip çalılıklarda oynaşmalıyız!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:672
 translate turkish q_inter_ns_51_b365e603:
 
     # mc "That sounds like a plan!"
-    mc "That sounds like a plan!"
+    mc "Bu bir plan gibi görünüyor!"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:673
 translate turkish q_inter_ns_51_640f754e:
 
     # mct "I always forget Nari is a little freaky."
-    mct "I always forget Nari is a little freaky."
+    mct "Nari'nin biraz kaçık olduğunu hep unutuyorum."
 
