@@ -586,17 +586,17 @@ translate portuguese strings:
 translate portuguese sm1cs_ns001_1c682e14:
 
     # ag "Of course. The office has its own cafeteria."
-    ag "Of course. The office has its own cafeteria."
+    ag "Claro. O escritório tem a própria cafeteria."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:194
 translate portuguese sm1cs_ns001_continue_e2b53835:
 
     # mct "He shoots."
-    mct "He shoots."
+    mct "Ele arremessa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:251
 translate portuguese sm1cs_ns001_continue_aa4b7c7c:
 
     # ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
-    ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
+    ns "Depois percebi que ela deve ter ficado bem impressionada com meu trabalho, porque me perguntou se eu queria um refrigerante."
 
