@@ -36,17 +36,17 @@ translate portuguese strings:
 
     # game/code/renpy/screens/phone.rpy:75
     old "Studio Laptop"
-    new "Nodebook do Estúdio"
+    new "Notebook do Estúdio"
 
 translate portuguese strings:
 
     # game/code/renpy/screens/phone.rpy:115
     old "Day: [gt.get_day_number()]"
-    new "Day: [gt.get_day_number()]"
+    new "Dia: [gt.get_day_number()]"
 
 translate portuguese strings:
 
     # game/code/renpy/screens/phone.rpy:77
     old "Save for Season 2"
-    new "Save for Season 2"
+    new "Save para Segunda Temporada"
 
