@@ -766,155 +766,155 @@ translate portuguese strings:
 translate portuguese sm1cs_am001_471546dd:
 
     # mct "Someone sent me a text."
-    mct "Someone sent me a text."
+    mct "Alguém mandou uma mensagem."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:165
 translate portuguese sm1cs_am001_ce911891:
 
     # ag "So Megan, I want you to set up our usual 'make a ticket' framework. Once April sets up the foundation, we'll plug it right in."
-    ag "So Megan, I want you to set up our usual 'make a ticket' framework. Once April sets up the foundation, we'll plug it right in."
+    ag "Então, Megan, quero que você configure nosso esquema padrão de 'abrir um chamado'. Quando a April montar a base, a gente encaixa tudo."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:225
 translate portuguese sm1cs_am001_a06ef68b:
 
     # ag "It's called delegation. Now, since there is nothing else, let's get to work."
-    ag "It's called delegation. Now, since there is nothing else, let's get to work."
+    ag "Isso se chama delegar. Agora, já que não tem mais nada, vamos trabalhar."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:237
 translate portuguese sm1cs_am001_0dc444c9:
 
     # mct "Crap. What is my work? I can't ask Anna. I definitely can't ask April. Data. Data something."
-    mct "Crap. What is my work? I can't ask Anna. I definitely can't ask April. Data. Data something."
+    mct "Merda. Qual é mesmo meu trabalho? Não posso perguntar pra Anna. Muito menos pra April. Dados. Alguma coisa de dados."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:317
 translate portuguese sm1cs_am001_after_coding_874a62e0:
 
     # am "Yes, there is a problem!{w} Some Business 101 dropout just fucked my night."
-    am "Yes, there is a problem!{w} Some Business 101 dropout just fucked my night."
+    am "Tem problema sim!{w} Algum reprovado de Administração acabou com a minha noite."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:330
 translate portuguese sm1cs_am001_after_coding_4cb4f376:
 
     # mc "Oh. Really. I must have gotten 'em mixed up.{w} Sorry. I'm sure that kind of thing happens all the time."
-    mc "Oh. Really. I must have gotten 'em mixed up.{w} Sorry. I'm sure that kind of thing happens all the time."
+    mc "Ah. Sério. Acho que confundi as coisas.{w} Foi mal. Aposto que isso rola direto."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:333
 translate portuguese sm1cs_am001_after_coding_8c11687d:
 
     # am "You dense motherfucker.{w} This is Orbix, one of the premier tech companies in the country. {w}Not the state,{w} not the city."
-    am "You dense motherfucker.{w} This is Orbix, one of the premier tech companies in the country. {w}Not the state,{w} not the city."
+    am "Seu idiota burro.{w} Aqui é a Orbix, uma das maiores empresas de tech do país.{w} Não do estado,{w} não da cidade."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:336
 translate portuguese sm1cs_am001_after_coding_1486cb7f:
 
     # am "The country...{w} We don't make simple mistakes here. But we do pay for them."
-    am "The country...{w} We don't make simple mistakes here. But we do pay for them."
+    am "Do país...{w} A gente não comete erro bobo aqui. Mas a gente paga por eles."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:353
 translate portuguese sm1cs_am001_after_coding_bfce7c00:
 
     # am "You want to {i}fix{/i} this?"
-    am "You want to {i}fix{/i} this?"
+    am "Você quer {i}consertar{/i} isso?"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:359
 translate portuguese sm1cs_am001_after_coding_b04d1e1f:
 
     # am "Maybe go play in traffic. That {b}might{/b} work."
-    am "Maybe go play in traffic. That {b}might{/b} work."
+    am "Vai lá brincar no trânsito. {b}Talvez{/b} funcione."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:365
 translate portuguese sm1cs_am001_after_coding_0b58a2bb:
 
     # am "You're right.{w} You'd probably screw that up too."
-    am "You're right.{w} You'd probably screw that up too."
+    am "Verdade.{w} Provavelmente você ia estragar isso também."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:374
 translate portuguese sm1cs_am001_after_coding_1caa3f0b:
 
     # am "I fix your fuckup.{w} You're lucky I'm nearly done with my own workload."
-    am "I fix your fuckup.{w} You're lucky I'm nearly done with my own workload."
+    am "Eu vou arrumar sua cagada.{w} Sorte sua que tô quase terminando minha parte."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:384
 translate portuguese sm1cs_am001_after_coding_b93d5a6a:
 
     # mc "Right. Desk. Going."
-    mc "Right. Desk. Going."
+    mc "Tá. Mesa. Tô indo."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:416
 translate portuguese sm1cs_am001_later_781093dd:
 
     # am "Smooth..."
-    am "Smooth..."
+    am "Genial..."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:442
 translate portuguese sm1cs_am001_later_4ad6c608:
 
     # am "Huh?{w} Now where did the idiot go?"
-    am "Huh?{w} Now where did the idiot go?"
+    am "Hã?{w} Agora onde foi parar o idiota?"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:481
 translate portuguese sm1cs_am001_later_1308190d:
 
     # am "You got {b}one{/b} thing right tonight."
-    am "You got {b}one{/b} thing right tonight."
+    am "Você fez {b}uma{/b} coisa direito hoje."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:487
 translate portuguese sm1cs_am001_later_3f313c84:
 
     # am "I was too busy to fink on you.{w} Maybe next time."
-    am "I was too busy to fink on you.{w} Maybe next time."
+    am "Estava ocupada demais pra te dedurar.{w} Talvez na próxima."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:488
 translate portuguese sm1cs_am001_later_8efd7670:
 
     # am "But don't count on me covering for you in the future, [mcname]."
-    am "But don't count on me covering for you in the future, [mcname]."
+    am "Mas não vai contando com a minha ajuda da próxima, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:494
 translate portuguese sm1cs_am001_later_157c0fbe:
 
     # am "I'm dead serious. We have a job to do, [mcname]."
-    am "I'm dead serious. We have a job to do, [mcname]."
+    am "Tô falando sério. A gente tem trabalho pra fazer, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:495
 translate portuguese sm1cs_am001_later_31e538bb:
 
     # am "This isn't a class you can blow off.{w} Sometimes it's long hours, and sometimes it just plain sucks."
-    am "This isn't a class you can blow off.{w} Sometimes it's long hours, and sometimes it just plain sucks."
+    am "Isso aqui não é aula que dá pra largar.{w} Às vezes é hora extra, às vezes é só ruim mesmo."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:498
 translate portuguese sm1cs_am001_later_4ef8886f:
 
     # am "But if you're here, and especially if you're working with {b}me{/b}, I need your A game."
-    am "But if you're here, and especially if you're working with {b}me{/b}, I need your A game."
+    am "Mas se você tá aqui, e principalmente trabalhando comigo, eu preciso do seu melhor."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:499
 translate portuguese sm1cs_am001_later_f6001afc:
 
     # am "Got it?!"
-    am "Got it?!"
+    am "Entendeu?!"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:512
 translate portuguese sm1cs_am001_later_152d31ed:
 
     # am "I just texted Anna the good news.{w} Had to rub it in her face that we did it all in one night."
-    am "I just texted Anna the good news.{w} Had to rub it in her face that we did it all in one night."
+    am "Acabei de mandar a boa notícia pra Anna.{w} Tive que esfregar na cara dela que a gente fez tudo numa noite."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:524
 translate portuguese sm1cs_am001_later_e045fc78:
 
     # am "Night, loser."
-    am "Night, loser."
+    am "Boa noite, otário."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:527
 translate portuguese sm1cs_am001_later_11997838:
 
     # mc "Night, April."
-    mc "Night, April."
+    mc "Boa noite, April."
 
 translate portuguese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am001.rpy:280
     old "No, I just thought you could use a break"
-    new "No, I just thought you could use a break"
+    new "Não, só achei que você podia dar uma pausa"
 
