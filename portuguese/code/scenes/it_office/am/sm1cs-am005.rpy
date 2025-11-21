@@ -932,7 +932,7 @@ translate portuguese sm1cs_am005_thumbsup_end_58ecb03f:
 translate portuguese sm1cs_am005_thumbsup_end_b70a262e:
 
     # mct "I doubt things will ever be boring if I get to know her better."
-    mct "Duvido que as coisas vão ficar chatas se eu conhecer ela melhor."
+    mct "Duvido que as coisas vão ficar entediantes se eu conhecer ela melhor."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:622
 translate portuguese sm1cs_am005_walkout_df9591cc:
@@ -988,141 +988,141 @@ translate portuguese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:550
     old "No more games, period"
-    new "Chega de brincadeiras, ponto"
+    new "Chega de brincadeiras, ponto final"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:34
 translate portuguese sm1cs_am005_d267eb2f:
 
     # mct "This can't go on. I need to at least get us back on the same page."
-    mct "This can't go on. I need to at least get us back on the same page."
+    mct "Não dá pra continuar assim. Preciso pelo menos botar a gente na mesma sintonia."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:37
 translate portuguese sm1cs_am005_71f06d2b:
 
     # mc "Hey, April."
-    mc "Hey, April."
+    mc "E aí, April."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:77
 translate portuguese sm1cs_am005_hours_later_e90fce66:
 
     # mct "Finally. That's the last ticket for my shift."
-    mct "Finally. That's the last ticket for my shift."
+    mct "Finalmente. Último chamado do meu turno."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:86
 translate portuguese sm1cs_am005_hours_later_a896092a:
 
     # mct "April texted me."
-    mct "April texted me."
+    mct "A April mandou mensagem."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:96
 translate portuguese sm1cs_am005_hours_later_66953d1c:
 
     # am "Now I can talk.{w} So talk."
-    am "Now I can talk.{w} So talk."
+    am "Agora eu posso falar.{w} Então fala."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:118
 translate portuguese sm1cs_am005_hours_later_146a1f48:
 
     # am "I... yes.{w} I want to talk."
-    am "I... yes.{w} I want to talk."
+    am "Eu... sim.{w} Eu quero falar."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:122
 translate portuguese sm1cs_am005_hours_later_2cbd87a6:
 
     # am "So... can we just open up a new doc, [mcname]{w} Start fresh?"
-    am "So... can we just open up a new doc, [mcname]{w} Start fresh?"
+    am "Então... a gente pode só abrir um doc novo, [mcname]{w} Começar do zero?"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:155
 translate portuguese sm1cs_am005_hours_later_a275d6ef:
 
     # mct "I should be a little patient with April.{w} She's obviously got something on her mind."
-    mct "I should be a little patient with April.{w} She's obviously got something on her mind."
+    mct "Eu devia ter um pouco de paciência com a April.{w} Ela claramente tá com alguma coisa na cabeça."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:159
 translate portuguese sm1cs_am005_hours_later_a7b1f1c9:
 
     # mct "Wait...{w} Is April into me?{w} It didn't seem that way in her car."
-    mct "Wait...{w} Is April into me?{w} It didn't seem that way in her car."
+    mct "Pera...{w} Será que a April tá a fim de mim?{w} Não parecia no carro."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:175
 translate portuguese sm1cs_am005_hours_later_0ff1fdb3:
 
     # am "What do you think, idiot?{w} All of it."
-    am "What do you think, idiot?{w} All of it."
+    am "O que você acha, idiota?{w} Tudo."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:186
 translate portuguese sm1cs_am005_sex_1_bd4a6ae6:
 
     # am "I let my bad impulses take over.{w} My brain wasn't thinking straight."
-    am "I let my bad impulses take over.{w} My brain wasn't thinking straight."
+    am "Eu deixei meus impulsos ruins me dominarem.{w} Minha cabeça não tava funcionando direito."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:198
 translate portuguese sm1cs_am005_sex_1_028c5529:
 
     # mc "Say no more..."
-    mc "Say no more..."
+    mc "Não precisa dizer mais nada..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:203
 translate portuguese sm1cs_am005_sex_1_bd9f2d5b:
 
     # am "[mcname]...{w} That's not what I mean."
-    am "[mcname]...{w} That's not what I mean."
+    am "[mcname]...{w} Não é isso que eu quis dizer."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:210
 translate portuguese sm1cs_am005_sex_1_4e767ae1:
 
     # mc "Care to explain that, April?{w} As you often say, I'm not as sharp as you."
-    mc "Care to explain that, April?{w} As you often say, I'm not as sharp as you."
+    mc "Quer explicar isso, April?{w} Como você sempre fala, não sou tão esperto quanto você."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:217
 translate portuguese sm1cs_am005_sex_1_5c9540af:
 
     # am "And I just, I don't know, I went stupid mode.{w} Basic mode."
-    am "And I just, I don't know, I went stupid mode.{w} Basic mode."
+    am "E eu simplesmente, sei lá, entrei no modo idiota.{w} Modo básico."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:227
 translate portuguese sm1cs_am005_sex_1_1d60ca19:
 
     # mct "I guess she doesn't have {b}all{/b} the answers."
-    mct "I guess she doesn't have {b}all{/b} the answers."
+    mct "Acho que ela não tem {b}todas{/b} as respostas."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:230
 translate portuguese sm1cs_am005_sex_1_5dc800e5:
 
     # mc "Text me if you ever figure it out.{w} I got other-"
-    mc "Text me if you ever figure it out.{w} I got other-"
+    mc "Me manda mensagem se um dia você descobrir.{w} Eu tenho outras-"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:263
 translate portuguese sm1cs_am005_sex_1_61ca4758:
 
     # am "I didn't want {b}our{/b} first time to be like that."
-    am "I didn't want {b}our{/b} first time to be like that."
+    am "Eu não queria que a {b}nossa{/b} primeira vez fosse daquele jeito."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:274
 translate portuguese sm1cs_am005_sex_1_de51fd56:
 
     # am "Shuuuussssssh.{w} Not out here."
-    am "Shuuuussssssh.{w} Not out here."
+    am "Shhhhhh.{w} Não aqui."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:280
 translate portuguese sm1cs_am005_sex_1_246cc10d:
 
     # am "I don't know.{w} Maybe after I invited you to see my band."
-    am "I don't know.{w} Maybe after I invited you to see my band."
+    am "Não sei.{w} Talvez depois que eu te chamei pra ver minha banda."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:600
 translate portuguese sm1cs_am005_thumbsup_end_901d4d24:
 
     # mct "Uh. Did she just really give me a thumbs up?"
-    mct "Uh. Did she just really give me a thumbs up?"
+    mct "Ahm. Ela me deu um joinha?"
 
 translate portuguese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
     old "Push it"
-    new "Push it"
+    new "Forçar"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
     old "Don't push it"
-    new "Don't push it"
+    new "Não forçar"
 
