@@ -656,7 +656,7 @@ translate portuguese sm1cs_sy002_2_cf5ad76d:
 translate portuguese sm1cs_sy002_2_3980b50d:
 
     # mc "Shhhhhh!"
-    m"Shhhhhh!"
+    mc "Shhhhhh!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:368
 translate portuguese sm1cs_sy002_2_5934c2cf:

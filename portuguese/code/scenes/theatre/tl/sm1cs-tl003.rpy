@@ -932,7 +932,7 @@ translate portuguese sm1cs_tl003_sex_eb9128e1:
 translate portuguese sm1cs_tl003_sex_25b533fa:
 
     # tl "Mmmmm - you've got a good {i}stick{/i} shift, Officer."
-    tl "Mmmmm - você tem um ótimo câmbio {i>manual{/i}, Oficial."
+    tl "Mmmmm - você tem um ótimo câmbio {i}manual{/i}, Oficial."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:507
 translate portuguese sm1cs_tl003_sex_49981f29:

@@ -64,12 +64,6 @@ translate portuguese sm1mv01s03_1_25069130:
     # sy "Oh yeah."
     sy "Aham."
 
-# game/code/scenes/movies/movie01/sm1mv01s03_1.rpy:65
-translate portuguese sm1mv01s3_1_14084d05:
-
-    # sy "We should make a ninja movie!"
-    sy "A gente devia fazer um filme de ninja!"
-
 # game/code/scenes/movies/movie01/sm1mv01s03_1.rpy:68
 translate portuguese sm1mv01s03_1_5977de66:
 

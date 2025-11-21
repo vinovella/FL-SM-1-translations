@@ -178,7 +178,7 @@ translate portuguese strings:
 
     # game/code/data/gallery/achievements.rpy:1
     old "Horny Cartographer"
-    new "Cartógrafo Tarado
+    new "Cartógrafo Tarado"
 
     # game/code/data/gallery/achievements.rpy:1
     old "Go to all locations in the city"
