@@ -762,5 +762,5 @@ translate italian strings:
 translate italian sm1cs_sy001_watersports_962bd759:
 
     # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
-    sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
+    sy "Uh huh. Non preoccuparti per me, rimarrò semplicemente seduta qui nel bagliore post-orgasmico e penserò a tutte le cose sporche per un po'."
 

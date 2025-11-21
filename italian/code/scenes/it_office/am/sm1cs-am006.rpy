@@ -728,7 +728,7 @@ translate italian sm1cs_am006_arcade_658df09c:
 translate italian sm1cs_am006_arcade_f46b669d_1:
 
     # mc "*chuckles*"
-    mc "*chuckles*"
+    mc "*ridacchia*"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:491
 translate italian sm1cs_am006_arcade_140a6992:

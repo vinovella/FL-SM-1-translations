@@ -284,25 +284,25 @@ translate italian sm1cs_am008_continue_69c25b65:
 translate italian sm1cs_am008_continue_24ca396e:
 
     # am "Yeah? Doesn't sound like you're close."
-    am "Yeah? Doesn't sound like you're close."
+    am "Sì? Non sembra che tu sia vicino."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:189
 translate italian sm1cs_am008_continue_5892daf9:
 
     # mc "Close enough."
-    mc "Close enough."
+    mc "Abbastanza vicino."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:191
 translate italian sm1cs_am008_continue_8a964143:
 
     # mc "Recently got some pushback when I left college."
-    mc "Recently got some pushback when I left college."
+    mc "Di recente ho ricevuto delle resistenze quando ho lasciato il college."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:194
 translate italian sm1cs_am008_continue_9c1e495a:
 
     # am "Had to expect that, right?"
-    am "Had to expect that, right?"
+    am "Te lo dovevi aspettare, no?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:196
 translate italian sm1cs_am008_continue_f24f9d90:
@@ -338,7 +338,7 @@ translate italian sm1cs_am008_continue_44f391e0:
 translate italian sm1cs_am008_continue_7c2b2d6c:
 
     # am "Dad is gone. My mom is uh..."
-    am "Dad is gone. My mom is uh..."
+    am "Papà non c'è più. Mia mamma è..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:215
 translate italian sm1cs_am008_continue_07dc298f:
@@ -368,7 +368,7 @@ translate italian sm1cs_am008_continue_46ae514c:
 translate italian sm1cs_am008_continue_4ecf3b2e:
 
     # am "Tea parties. Cheer practice."
-    am "Tea parties. Cheer practice."
+    am "Feste del tè. Allenamento di cheerleader."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:229
 translate italian sm1cs_am008_continue_80b9c80c:
@@ -380,7 +380,7 @@ translate italian sm1cs_am008_continue_80b9c80c:
 translate italian sm1cs_am008_continue_5366dd75:
 
     # mc "A little planning isn't too bad, right?"
-    mc "A little planning isn't too bad, right?"
+    mc "Un po' di pianificazione non è poi così male, no?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:240
 translate italian sm1cs_am008_continue_658305d8:
@@ -398,7 +398,7 @@ translate italian sm1cs_am008_continue_9f95ada6:
 translate italian sm1cs_am008_continue_8058ac6d:
 
     # am "Your life set out in a nice little package. No excitement. Nothing unexpected."
-    am "Your life set out in a nice little package. No excitement. Nothing unexpected."
+    am "La tua vita sistemata in un bel pacchettino. Nessuna emozione. Niente di inaspettato."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:244
 translate italian sm1cs_am008_continue_767c4828:
@@ -416,7 +416,7 @@ translate italian sm1cs_am008_continue_6bb260b1:
 translate italian sm1cs_am008_continue_3c6f6c0a:
 
     # am "Or expects more out of me."
-    am "Or expects more out of me."
+    am "O si aspetta di più da me."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:254
 translate italian sm1cs_am008_continue_98065118:
@@ -470,7 +470,7 @@ translate italian sm1cs_am008_continue_00620d1b:
 translate italian sm1cs_am008_continue_a77b7eae:
 
     # am "For a while I played ball."
-    am "For a while I played ball."
+    am "Per un po' ho fatto la brava."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:273
 translate italian sm1cs_am008_continue_1f108379:
@@ -500,7 +500,7 @@ translate italian sm1cs_am008_continue_45056e3c:
 translate italian sm1cs_am008_continue_cc7cec70:
 
     # am "A-fucking-men."
-    am "A-fucking-men."
+    am "E-fottutamente-sì."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:288
 translate italian sm1cs_am008_continue_ad73a71a:
@@ -518,7 +518,7 @@ translate italian sm1cs_am008_continue_fe2f90ad:
 translate italian sm1cs_am008_continue_b4aa8a16:
 
     # am "But one day they got sick. They sent in a sub who wasn't prepared at all."
-    am "But one day they got sick. They sent in a sub who wasn't prepared at all."
+    am "Ma un giorno si è ammalato. Hanno mandato un sostituto che non era per niente preparato."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:295
 translate italian sm1cs_am008_continue_bcc270d8:
@@ -536,7 +536,7 @@ translate italian sm1cs_am008_continue_2a9a2b28:
 translate italian sm1cs_am008_continue_03d17ca6:
 
     # mc "So that's how coding started for you."
-    mc "So that's how coding started for you."
+    mc "Quindi è così che è iniziata la programmazione per te."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:307
 translate italian sm1cs_am008_continue_c6c4e66a:
@@ -560,7 +560,7 @@ translate italian sm1cs_am008_continue_081b75b3:
 translate italian sm1cs_am008_continue_2b15152e:
 
     # am "*chuckles*"
-    am "*chuckles*"
+    am "*ridacchia*"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:316
 translate italian sm1cs_am008_continue_87cd6b8b:
@@ -578,7 +578,7 @@ translate italian sm1cs_am008_continue_75acdd71:
 translate italian sm1cs_am008_continue_a34c7f11:
 
     # mc "I never forget a beautiful musician."
-    mc "I never forget a beautiful musician."
+    mc "Non dimentico mai una bella musicista."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:327
 translate italian sm1cs_am008_continue_c411464b:
@@ -608,19 +608,19 @@ translate italian sm1cs_am008_continue_b2aba0e3:
 translate italian sm1cs_am008_continue_0d40cf6c:
 
     # am "Like a hungry wolf."
-    am "Like a hungry wolf."
+    am "Come un lupo affamato."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:343
 translate italian sm1cs_am008_continue_f46b669d:
 
     # mc "*chuckles*"
-    mc "*chuckles*"
+    mc "*ridacchia*"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:351
 translate italian sm1cs_am008_continue_6a96bab6:
 
     # mc "I can't help it."
-    mc "I can't help it."
+    mc "Non posso farci niente."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:357
 translate italian sm1cs_am008_continue_9e22963f:
