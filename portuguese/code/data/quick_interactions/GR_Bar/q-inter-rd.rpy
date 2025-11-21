@@ -80,5 +80,5 @@ translate portuguese q_inter_rd_6_1203e51e:
 translate portuguese q_inter_rd_4_64339c27:
 
     # mc "Phew. Thank god it's the weekend."
-    mc "Phew. Thank god it's the weekend."
+    mc "Ufa. Graças a Deus que é fim de semana."
 
