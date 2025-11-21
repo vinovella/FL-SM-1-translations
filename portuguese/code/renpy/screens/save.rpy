@@ -8,8 +8,6 @@
     old "No saves found!"
     new "No saves found!"
 
-translate portuguese strings:
-
     # game/code/renpy/screens/save.rpy:51
     old "Saves For Chapter [chapter]"
     new "Saves For Chapter [chapter]"
@@ -17,8 +15,6 @@ translate portuguese strings:
     # game/code/renpy/screens/save.rpy:51
     old "Saves From Chapter [chapter]"
     new "Saves From Chapter [chapter]"
-
-translate portuguese strings:
 
     # game/code/renpy/screens/save.rpy:20
     old "Congratulations! You completed all storylines!"
@@ -47,4 +43,16 @@ translate portuguese strings:
     # game/code/renpy/screens/save.rpy:184
     old "Saves From Season [season]"
     new "Saves From Season [season]"
+
+    # game/code/renpy/screens/save.rpy:113
+    old "You completed 100% of the game!"
+    new "Você completou 100% do jogo!"
+
+    # game/code/renpy/screens/save.rpy:115
+    old "You finished the main story!"
+    new "Você completou a história principal!"
+
+    # game/code/renpy/screens/save.rpy:118
+    old "You can continue to play the game and save later from your phone as well."
+    new "Você pode continuar jogando e salvar mais tarde também pelo seu telefone."
 

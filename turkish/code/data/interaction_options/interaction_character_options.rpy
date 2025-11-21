@@ -460,8 +460,6 @@ translate turkish strings:
     old "Ask about the play"
     new "Oyun hakkında sor"
 
-translate turkish strings:
-
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Photography-101 for $60"
     new "$60 karşılığında Fotoğrafçılık-101 satın al"
@@ -474,17 +472,23 @@ translate turkish strings:
     old "Purchase An Actor Prepares for $60"
     new "$60 karşılığında An Actor Prepares satın al"
 
-translate turkish strings:
-
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask Debbie to the movies"
-    new "Ask Debbie to the movies"
+    new "Debbie'yi sinemaya davet et"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Have some fun in the toilet"
-    new "Have some fun in the toilet"
+    new "Tuvalette biraz eğlen"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Good morning!"
-    new "Good morning!"
+    new "Günaydın!"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Live Chat with Stacy"
+    new "Stacy ile Canlı Sohbet"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Let's go to sleep"
+    new "Hadi uyuyalım"
 

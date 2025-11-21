@@ -494,3 +494,13 @@ translate spanish strings:
     old "Good morning!"
     new "Good morning!"
 
+translate spanish strings:
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Live Chat with Stacy"
+    new "Live Chat with Stacy"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Let's go to sleep"
+    new "Let's go to sleep"
+

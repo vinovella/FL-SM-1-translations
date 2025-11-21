@@ -436,3 +436,9 @@ translate portuguese strings:
     old "Two mind-numbing hours later"
     new "Duas horas entediantes depois"
 
+# game/code/scenes/movies/movie01/sm1mv01s03_1.rpy:65
+translate portuguese sm1mv01s03_1_14084d05:
+
+    # sy "We should make a ninja movie!"
+    sy "We should make a ninja movie!"
+

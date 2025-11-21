@@ -1948,3 +1948,9 @@ translate portuguese sm1mv01s09_movie_start_e642e4c1:
     # mc "Oh shit, your fingers are making her pussy tighten up each time you clench!"
     mc "Porra, seus dedos estão fazendo a boceta dela apertar cada vez que fecha!"
 
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:925
+translate portuguese sm1mv01s09_movie_start_d3b0d62d:
+
+    # sy "Mmmrrrngnnnnngggg!!!"
+    sy "Mmmrrrngnnnnngggg!!!"
+
