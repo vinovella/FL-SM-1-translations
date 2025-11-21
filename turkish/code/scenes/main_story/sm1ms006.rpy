@@ -680,17 +680,17 @@ translate turkish sm1ms006_061f6f43:
 translate turkish sm1ms006_e6186b8f:
 
     # mc "I think so too. But... AmRose said something kind of interesting."
-    mc "I think so too. But... AmRose said something kind of interesting."
+    mc "Ben de öyle düşünüyorum. Ama... AmRose oldukça ilginç bir şey söyledi."
 
 # game/code/scenes/main_story/sm1ms006.rpy:239
 translate turkish sm1ms006_eac16535:
 
     # sy "It's not a big deal? I mean you lied about the metric ton of porn you had hidden under your bed, [mcname]."
-    sy "It's not a big deal? I mean you lied about the metric ton of porn you had hidden under your bed, [mcname]."
+    sy "Büyük bir mesele değil mi? Yani yatağının altına sakladığın ton porno hakkında yalan söyledin, [mcname]."
 
 # game/code/scenes/main_story/sm1ms006.rpy:453
 translate turkish sm1ms006_ed03918c:
 
     # sy "You going to get dressed?"
-    sy "You going to get dressed?"
+    sy "Giyinecek misin?"
 

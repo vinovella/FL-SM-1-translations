@@ -882,43 +882,43 @@ translate turkish strings:
 translate turkish sm1ms008_4b4bda9d:
 
     # sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
-    sy "There is one last request. It's a little strange. They want the girl to be a redhead. So [mcname] picked up this wig."
+    sy "Bir son istek daha var. Biraz garip. Kızın kızıl saçlı olmasını istiyorlar. Bu yüzden [mcname] bu peruğu aldı."
 
 # game/code/scenes/main_story/sm1ms008.rpy:221
 translate turkish sm1ms008_special_971cdae2:
 
     # mc "Well, we're together now. That's the important part."
-    mc "Well, we're together now. That's the important part."
+    mc "Şey, artık birlikteyiz. Önemli olan bu."
 
 # game/code/scenes/main_story/sm1ms008.rpy:380
 translate turkish sm1ms008_after_choice_c7b2de42:
 
     # kv "Alright Stacy, why don't you give me some poses."
-    kv "Alright Stacy, why don't you give me some poses."
+    kv "Pekala Stacy, neden bana birkaç poz vermiyorsun."
 
 # game/code/scenes/main_story/sm1ms008.rpy:430
 translate turkish sm1ms008_after_choice_afa6b554:
 
     # mc "Wait, don't you have any cameras we might need, Kanya?"
-    mc "Wait, don't you have any cameras we might need, Kanya?"
+    mc "Bekle, ihtiyacımız olabilecek herhangi bir kameran yok mu, Kanya?"
 
 # game/code/scenes/main_story/sm1ms008.rpy:455
 translate turkish sm1ms008_after_choice_9090b1fc:
 
     # sy "I'm thinking about the extra work we'll have to do to get this super camera."
-    sy "I'm thinking about the extra work we'll have to do to get this super camera."
+    sy "Bu süper kamerayı almak için yapmamız gereken ekstra iş hakkında düşünüyorum."
 
 # game/code/scenes/main_story/sm1ms008.rpy:482
 translate turkish sm1ms008_after_choice_6805a231:
 
     # sy "Haha. Good thing that's not [mcname]'s motto."
-    sy "Haha. Good thing that's not [mcname]'s motto."
+    sy "Haha. İyi ki bu [mcname]'in sloganı değil."
 
 # game/code/scenes/main_story/sm1ms008.rpy:498
 translate turkish sm1ms008_after_choice_43fefb83:
 
     # kv "Got it, let me give you my number."
-    kv "Got it, let me give you my number."
+    kv "Anlaşıldı, sana numaramı vereyim."
 
 translate turkish strings:
 

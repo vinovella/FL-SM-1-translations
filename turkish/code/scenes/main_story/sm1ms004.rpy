@@ -584,17 +584,17 @@ translate turkish sm1ms004_fcf11b81:
 translate turkish sm1ms004_6ca11396:
 
     # arj "Never mind. It doesn't matter."
-    arj "Never mind. It doesn't matter."
+    arj "Boşver. Önemli değil."
 
 # game/code/scenes/main_story/sm1ms004.rpy:171
 translate turkish sm1ms004_b80a46ec:
 
     # mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
-    mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
+    mc "Bunu Stacy'ye söyleyeceksen muhtemelen şekerlendirmek istersin. Tüm bunlar hakkında çok iyimser ve bunun kaybolmasını istemiyorum."
 
 # game/code/scenes/main_story/sm1ms004.rpy:266
 translate turkish sm1ms004_738d94cc:
 
     # mct "Maybe this isn't completely fucked after all."
-    mct "Maybe this isn't completely fucked after all."
+    mct "Belki de sonuçta bu tamamen berbat değildir."
 

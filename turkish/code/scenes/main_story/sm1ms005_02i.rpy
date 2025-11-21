@@ -70,5 +70,5 @@ translate turkish strings:
 translate turkish sm1ms005_02i_5ddbcfce:
 
     # sy "Alright. Let's do it."
-    sy "Alright. Let's do it."
+    sy "Pekala. Hadi yapalım."
 
