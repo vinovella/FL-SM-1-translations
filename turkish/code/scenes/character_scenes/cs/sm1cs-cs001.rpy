@@ -200,5 +200,5 @@ translate turkish sm1cs_cs001_24cdc073:
 translate turkish sm1cs_cs001_0b11eff4:
 
     # mc "Yeah, yeah. I'll have a dark roast coffee and a..."
-    mc "Yeah, yeah. I'll have a dark roast coffee and a..."
+    mc "Evet, evet. Koyu kavrulmuş bir kahve ve bir..."
 
