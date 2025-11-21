@@ -260,29 +260,29 @@ translate portuguese sm1cs_km003_2i_menu_716019b8:
 translate portuguese sm1cs_km003_2i_c20b6007:
 
     # km "*scoffs.*"
-    km "*scoffs.*"
+    km "*Hnff*"
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:127
 translate portuguese sm1cs_km003_2i_menu_e67aa3d0:
 
     # km "Let's go to the main stage."
-    km "Let's go to the main stage."
+    km "Vamos no palco principal."
 
 translate portuguese strings:
 
     # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:55
     old "To be honest, I've been slacking. Lots of stuff going on"
-    new "To be honest, I've been slacking. Lots of stuff going on"
+    new "Sinceramente, ando meio folgado. Muita coisa rolando"
 
     # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:55
     old "I've been doing alright. But I could use help"
-    new "I've been doing alright. But I could use help"
+    new "Tenho ido bem. Mas uma ajuda seria legal"
 
     # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:99
     old "Alright, let's do another lesson"
-    new "Alright, let's do another lesson"
+    new "Beleza, vamos fazer outra aula"
 
     # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:99
     old "Veronica doesn't seem to do that"
-    new "Veronica doesn't seem to do that"
+    new "A Veronica não faz isso"
 
