@@ -1062,5 +1062,5 @@ translate portuguese strings:
 translate portuguese sm1ms014_4834ec4b:
 
     # sy "Uhm, yeah... no internet nudes of me..."
-    sy "Uhm, yeah... no internet nudes of me..."
+    sy "Ahm, é... não tem nudes meus na internet..."
 
