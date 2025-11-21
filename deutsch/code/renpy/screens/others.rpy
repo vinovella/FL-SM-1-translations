@@ -56,5 +56,4 @@ translate deutsch strings:
 
     # game/code/renpy/screens/others.rpy:165
     old "How do you want to name your Season 2 save?"
-    new "Wie möchtest du deinen Speicherstand für Season 2 benennen?"
-
+    new "Wie willst du den Speicherstand für Season 2 nennen?"
