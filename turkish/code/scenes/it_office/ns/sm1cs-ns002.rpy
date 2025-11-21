@@ -812,11 +812,11 @@ translate turkish strings:
 translate turkish sm1cs_ns002_bc4ba015:
 
     # mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
-    mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+    mc "Bir saniyeliğine duraklayalım. Seni bundan çıkaracağım. Hepimiz... garip yerlerde dürtüler yaşadık."
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
 translate turkish sm1cs_ns002_94a1cd6a:
 
     # mct "No one is close. I hope."
-    mct "No one is close. I hope."
+    mct "Kimse yakında değil. Umarım."
 
