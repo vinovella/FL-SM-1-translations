@@ -1,6 +1,6 @@
-﻿translate portuguese strings:
+translate portuguese strings:
 
     # game/code/renpy/screens/language.rpy:75
     old "Choose Language"
-    new "Choose Language"
+    new "Escolha o Idioma"
 
