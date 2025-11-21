@@ -3206,55 +3206,55 @@ translate italian sm1ms029_tl_nipple_clamps_2f3de30d:
 translate italian sm1ms029_part_1_my_appear_e557a85c:
 
     # mc "Now, who would like to give Stacy a little ass fucking with this bad boy?"
-    mc "Now, who would like to give Stacy a little ass fucking with this bad boy?"
+    mc "Ora, chi vorrebbe dare a Stacy una bella scopata al culo con questo arnese?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1347
 translate italian sm1ms029_part_1_my_appear_b34da7d0:
 
     # arj "Oh, I have been waiting all night for this!"
-    arj "Oh, I have been waiting all night for this!"
+    arj "Oh, ho aspettato tutta la notte per questo!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1350
 translate italian sm1ms029_part_1_my_appear_dfbe248b:
 
     # arj "She always teases me with butt stuff, and I think it's time I return the favor."
-    arj "She always teases me with butt stuff, and I think it's time I return the favor."
+    arj "Mi provoca sempre con le cose del culo, e penso sia ora che ricambi il favore."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1351
 translate italian sm1ms029_part_1_my_appear_61ca0bf5:
 
     # mc "Well, have at it, AmRose."
-    mc "Well, have at it, AmRose."
+    mc "Bene, dacci dentro, AmRose."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1357
 translate italian sm1ms029_part_1_my_appear_c59d03f5:
 
     # sy "So, who is going to fuck my ass?"
-    sy "So, who is going to fuck my ass?"
+    sy "Allora, chi mi scoperà il culo?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1358
 translate italian sm1ms029_part_1_my_appear_ec46558f:
 
     # arj "Take a guess."
-    arj "Take a guess."
+    arj "Indovina."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1361
 translate italian sm1ms029_part_1_my_appear_888d21b7:
 
     # sy "Oh, my old friend, AmRose."
-    sy "Oh, my old friend, AmRose."
+    sy "Oh, la mia vecchia amica, AmRose."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1362
 translate italian sm1ms029_part_1_my_appear_447e7133:
 
     # arj "I am very excited for this, Stacy."
-    arj "I am very excited for this, Stacy."
+    arj "Sono molto eccitata per questo, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1364
 translate italian sm1ms029_part_1_my_appear_6e084f3a:
 
     # sy "I think I just got a little wet when you said that."
-    sy "I think I just got a little wet when you said that."
+    sy "Penso di essermi appena bagnata un po' quando l'hai detto."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1365
 translate italian sm1ms029_part_1_my_appear_a57533ab:
@@ -3266,25 +3266,25 @@ translate italian sm1ms029_part_1_my_appear_a57533ab:
 translate italian sm1ms029_part_1_my_appear_563ef014:
 
     # arj "Oh no, the dildo isn't lubed."
-    arj "Oh no, the dildo isn't lubed."
+    arj "Oh no, il dildo non è lubrificato."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1369
 translate italian sm1ms029_part_1_my_appear_46f52a42:
 
     # arj "I'll have to fix that."
-    arj "I'll have to fix that."
+    arj "Dovrò rimediare."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1384
 translate italian sm1ms029_part_1_my_appear_2da8df6f:
 
     # arj "Hmmmm... I don't know if that's wet enough yet..."
-    arj "Hmmmm... I don't know if that's wet enough yet..."
+    arj "Hmmmm... Non so se è abbastanza bagnato..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1387
 translate italian sm1ms029_part_1_my_appear_c8c40a7f:
 
     # arj "Open wide, Stacy."
-    arj "Open wide, Stacy."
+    arj "Apri bene, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1393
 translate italian sm1ms029_part_1_my_appear_d71c9391:
@@ -3296,13 +3296,13 @@ translate italian sm1ms029_part_1_my_appear_d71c9391:
 translate italian sm1ms029_part_1_my_appear_01708eab:
 
     # arj "Oh, some on, Stacy. You can do better than that!"
-    arj "Oh, some on, Stacy. You can do better than that!"
+    arj "Oh, dai, Stacy. Puoi fare meglio!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1397
 translate italian sm1ms029_part_1_my_appear_f3e7df3a:
 
     # arj "That's it, take it like a good girl!"
-    arj "That's it, take it like a good girl!"
+    arj "Ecco, prendilo come una brava ragazza!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1398
 translate italian sm1ms029_part_1_my_appear_ff7688ba:
@@ -3314,13 +3314,13 @@ translate italian sm1ms029_part_1_my_appear_ff7688ba:
 translate italian sm1ms029_part_1_my_appear_01508a13:
 
     # arj "Get it nice and sloppy for your ass, Stacy."
-    arj "Get it nice and sloppy for your ass, Stacy."
+    arj "Rendilo bello e bagnato per il tuo culo, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1400
 translate italian sm1ms029_part_1_my_appear_99f830bd:
 
     # arj "I want this dildo {i}very{/i} lubricated when I fuck you."
-    arj "I want this dildo {i}very{/i} lubricated when I fuck you."
+    arj "Voglio questo dildo {i}molto{/i} lubrificato quando ti scopo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1401
 translate italian sm1ms029_part_1_my_appear_89d5eb9c:
@@ -3338,25 +3338,25 @@ translate italian sm1ms029_part_1_my_appear_e286018d:
 translate italian sm1ms029_part_1_my_appear_bc6ecfa5:
 
     # arj "That should be good enough!"
-    arj "That should be good enough!"
+    arj "Questo dovrebbe bastare!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1407
 translate italian sm1ms029_part_1_my_appear_16ce8215:
 
     # sy "Shit, AmRose-"
-    sy "Shit, AmRose-"
+    sy "Merda, AmRose-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1409
 translate italian sm1ms029_part_1_my_appear_cb447e12:
 
     # arj "Nuh uh uh, you don't get to talk!"
-    arj "Nuh uh uh, you don't get to talk!"
+    arj "Nuh uh uh, non puoi parlare!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1411
 translate italian sm1ms029_part_1_my_appear_c6498bc1:
 
     # arj "Because I am going to enjoy watching you wiggle around while I impale your ass on this dildo."
-    arj "Because I am going to enjoy watching you wiggle around while I impale your ass on this dildo."
+    arj "Perché mi godrò vederti dimenarti mentre infilzo il tuo culo con questo dildo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1415
 translate italian sm1ms029_part_1_my_appear_8c3faf33:
@@ -3368,7 +3368,7 @@ translate italian sm1ms029_part_1_my_appear_8c3faf33:
 translate italian sm1ms029_part_1_my_appear_59bcf8c9:
 
     # arj "Mmmmm, yesss, take it, Stacy!"
-    arj "Mmmmm, yesss, take it, Stacy!"
+    arj "Mmmmm, sììì, prendilo, Stacy!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1417
 translate italian sm1ms029_part_1_my_appear_7575f82b:
@@ -3380,13 +3380,13 @@ translate italian sm1ms029_part_1_my_appear_7575f82b:
 translate italian sm1ms029_part_1_my_appear_6674c527:
 
     # arj "How does it feel? Having this thick dildo fuck your ass?"
-    arj "How does it feel? Having this thick dildo fuck your ass?"
+    arj "Come ti senti? Con questo dildo grosso che ti scopa il culo?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1420
 translate italian sm1ms029_part_1_my_appear_adc86885:
 
     # arj "I bet it's making you wet."
-    arj "I bet it's making you wet."
+    arj "Scommetto che ti sta bagnando."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1421
 translate italian sm1ms029_part_1_my_appear_898d5296:
@@ -3398,19 +3398,19 @@ translate italian sm1ms029_part_1_my_appear_898d5296:
 translate italian sm1ms029_part_1_my_appear_0d0364cd:
 
     # arj "Oh yeah, I can see how wet you're getting."
-    arj "Oh yeah, I can see how wet you're getting."
+    arj "Oh sì, vedo quanto ti stai bagnando."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1424
 translate italian sm1ms029_part_1_my_appear_d1864257:
 
     # arj "I bet you're thinking about [mcname] fucking you right now."
-    arj "I bet you're thinking about [mcname] fucking you right now."
+    arj "Scommetto che stai pensando a [mcname] che ti scopa proprio ora."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1425
 translate italian sm1ms029_part_1_my_appear_39dcb748:
 
     # arj "Pounding your tight pussy, with this dildo shoved up your ass."
-    arj "Pounding your tight pussy, with this dildo shoved up your ass."
+    arj "Che martella la tua figa stretta, con questo dildo infilato nel tuo culo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1426
 translate italian sm1ms029_part_1_my_appear_2bc4e327:
@@ -3422,7 +3422,7 @@ translate italian sm1ms029_part_1_my_appear_2bc4e327:
 translate italian sm1ms029_part_1_my_appear_674e7749:
 
     # arj "That's right, I know al your fantasies, you little perv."
-    arj "That's right, I know al your fantasies, you little perv."
+    arj "Esatto, conosco tutte le tue fantasie, piccola pervertita."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1429
 translate italian sm1ms029_part_1_my_appear_7f748666:
@@ -3434,55 +3434,55 @@ translate italian sm1ms029_part_1_my_appear_7f748666:
 translate italian sm1ms029_part_1_my_appear_4be528b3:
 
     # arj "And I can see how turned on they make you."
-    arj "And I can see how turned on they make you."
+    arj "E vedo quanto ti eccitano."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1431
 translate italian sm1ms029_part_1_my_appear_630b14f2:
 
     # arj "Your pussy is practically a fountain, dripping wet thinking about [mcname]'s cock."
-    arj "Your pussy is practically a fountain, dripping wet thinking about [mcname]'s cock."
+    arj "La tua figa è praticamente una fontana, gocciolante al pensiero del cazzo di [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1433
 translate italian sm1ms029_part_1_my_appear_5f8c4ab9:
 
     # mct "Holy shit, AmRose turned into a freak with just this little bit of control."
-    mct "Holy shit, AmRose turned into a freak with just this little bit of control."
+    mct "Cazzo, AmRose è diventata una pazza con solo un po' di controllo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1434
 translate italian sm1ms029_part_1_my_appear_15e57e42:
 
     # mct "I need to remember this-"
-    mct "I need to remember this-"
+    mct "Devo ricordarmelo-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1435
 translate italian sm1ms029_part_1_my_appear_70314a44:
 
     # arj "Oh, and your ass takes this dildo soooo well!"
-    arj "Oh, and your ass takes this dildo soooo well!"
+    arj "Oh, e il tuo culo prende questo dildo così beneee!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1436
 translate italian sm1ms029_part_1_my_appear_5d49a728:
 
     # mct "Jesus, I definitely need to remember this."
-    mct "Jesus, I definitely need to remember this."
+    mct "Gesù, devo assolutamente ricordarmelo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1439
 translate italian sm1ms029_part_1_my_appear_39df4a78:
 
     # "*KNOCK, KNOCK*"
-    "*KNOCK, KNOCK*"
+    "*TOC, TOC*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1442
 translate italian sm1ms029_part_1_my_appear_0c33f972:
 
     # mct "Who could that be?"
-    mct "Who could that be?"
+    mct "Chi potrebbe essere?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1444
 translate italian sm1ms029_part_1_my_appear_c3dc273e:
 
     # mct "Another late arrival?"
-    mct "Another late arrival?"
+    mct "Un altro arrivo in ritardo?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1446
 translate italian sm1ms029_part_1_my_appear_ba366f6d:
@@ -3494,25 +3494,25 @@ translate italian sm1ms029_part_1_my_appear_ba366f6d:
 translate italian sm1ms029_part_1_my_appear_433bdcbc:
 
     # mct "Oh shit, it's Mom!"
-    mct "Oh shit, it's Mom!"
+    mct "Oh merda, è mamma!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1452
 translate italian sm1ms029_part_1_my_appear_39033afc:
 
     # mct "Oh shit, it's Melony!"
-    mct "Oh shit, it's Melony!"
+    mct "Oh merda, è Melony!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1453
 translate italian sm1ms029_part_1_my_appear_1f568467:
 
     # mct "Shit! Shit, shit, shit!"
-    mct "Shit! Shit, shit, shit!"
+    mct "Merda! Merda, merda, merda!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1456
 translate italian sm1ms029_part_1_my_appear_2e5b5be3:
 
     # arj "Oh shit, this is so much fun, Stacy!"
-    arj "Oh shit, this is so much fun, Stacy!"
+    arj "Oh merda, questo è così divertente, Stacy!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1457
 translate italian sm1ms029_part_1_my_appear_6b797ad1:
@@ -3524,13 +3524,13 @@ translate italian sm1ms029_part_1_my_appear_6b797ad1:
 translate italian sm1ms029_part_1_my_appear_90de4ca8:
 
     # arj "Fuck yes!"
-    arj "Fuck yes!"
+    arj "Cazzo sì!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1459
 translate italian sm1ms029_part_1_my_appear_256ce3f2:
 
     # mct "I can't let her in right now!"
-    mct "I can't let her in right now!"
+    mct "Non posso farla entrare ora!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1461
 translate italian sm1ms029_part_1_my_appear_41d16af8:
@@ -3542,25 +3542,25 @@ translate italian sm1ms029_part_1_my_appear_41d16af8:
 translate italian sm1ms029_part_1_my_appear_ca73caf7:
 
     # mct "All right, I guess I'll just have to be smooth..."
-    mct "All right, I guess I'll just have to be smooth..."
+    mct "Va bene, immagino che dovrò essere abile..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1465
 translate italian sm1ms029_part_1_my_appear_e170028d:
 
     # mct "Wait!"
-    mct "Wait!"
+    mct "Aspetta!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1466
 translate italian sm1ms029_part_1_my_appear_becbd4f4:
 
     # mct "My mask!"
-    mct "My mask!"
+    mct "La mia maschera!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1470
 translate italian sm1ms029_part_1_my_appear_35fedb77:
 
     # mc "Hey, Mom!"
-    mc "Hey, Mom!"
+    mc "Ehi, Mamma!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1472
 translate italian sm1ms029_part_1_my_appear_f67d45c0:
@@ -3578,7 +3578,7 @@ translate italian sm1ms029_part_1_my_appear_1b13e4d1:
 translate italian sm1ms029_part_1_my_appear_1e189ba6:
 
     # mc "Never, but what's up?"
-    mc "Never, but what's up?"
+    mc "Mai, ma cosa c'è?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1476
 translate italian sm1ms029_part_1_my_appear_b94e4f4b:
@@ -3590,13 +3590,13 @@ translate italian sm1ms029_part_1_my_appear_b94e4f4b:
 translate italian sm1ms029_part_1_my_appear_99975500:
 
     # mc "Uhm, nope!"
-    mc "Uhm, nope!"
+    mc "Uhm, no!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1478
 translate italian sm1ms029_part_1_my_appear_20008a20:
 
     # mc "It's a, uhm... theater practice?"
-    mc "It's a, uhm... theater practice?"
+    mc "È una, uhm... prova di teatro?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1483
 translate italian sm1ms029_part_1_my_appear_2db7f079:
@@ -3638,7 +3638,7 @@ translate italian sm1ms029_part_1_my_appear_7043c072:
 translate italian sm1ms029_part_1_my_appear_31853e58:
 
     # mc "But, uh, what can I help you with, Mom?"
-    mc "But, uh, what can I help you with, Mom?"
+    mc "Ma, uh, come posso aiutarti, Mamma?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1493
 translate italian sm1ms029_part_1_my_appear_c8355527:
@@ -3650,7 +3650,7 @@ translate italian sm1ms029_part_1_my_appear_c8355527:
 translate italian sm1ms029_part_1_my_appear_95ea9fd1:
 
     # mc "But, erm, what can I help you with, Melony?"
-    mc "But, erm, what can I help you with, Melony?"
+    mc "Ma, ehm, come posso aiutarti, Melony?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1496
 translate italian sm1ms029_part_1_my_appear_f27400f7:
@@ -3704,13 +3704,13 @@ translate italian sm1ms029_part_1_my_appear_e94224cf:
 translate italian sm1ms029_part_1_my_appear_663c9143:
 
     # mc "Nope! Stacy... She uh... She said she had to go out for something."
-    mc "Nope! Stacy... She uh... She said she had to go out for something."
+    mc "No! Stacy... Lei uh... Ha detto che doveva uscire per qualcosa."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1509
 translate italian sm1ms029_part_1_my_appear_7bdcef03:
 
     # mc "Another shopping trip."
-    mc "Another shopping trip."
+    mc "Un altro giro di shopping."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1510
 translate italian sm1ms029_part_1_my_appear_1ed74f44:
@@ -3722,13 +3722,13 @@ translate italian sm1ms029_part_1_my_appear_1ed74f44:
 translate italian sm1ms029_part_1_my_appear_97a984fd:
 
     # mc "I hate to be rude, Mom, but I am in the middle of this, uh, theater practice."
-    mc "I hate to be rude, Mom, but I am in the middle of this, uh, theater practice."
+    mc "Mi dispiace essere scortese, Mamma, ma sono nel mezzo di questa, uh, prova di teatro."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1514
 translate italian sm1ms029_part_1_my_appear_b32c2bcf:
 
     # mc "I hate to be rude, Melony, but I am in the middle of this, erm, theater practice."
-    mc "I hate to be rude, Melony, but I am in the middle of this, erm, theater practice."
+    mc "Mi dispiace essere scortese, Melony, ma sono nel mezzo di questa, ehm, prova di teatro."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1518
 translate italian sm1ms029_part_1_my_appear_22cecdce:
@@ -3740,7 +3740,7 @@ translate italian sm1ms029_part_1_my_appear_22cecdce:
 translate italian sm1ms029_part_1_my_appear_3593afed:
 
     # mc "I will! Bye, Mom! Love you!"
-    mc "I will! Bye, Mom! Love you!"
+    mc "Lo farò! Ciao, Mamma! Ti voglio bene!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1521
 translate italian sm1ms029_part_1_my_appear_c8ad3713:
@@ -3752,55 +3752,55 @@ translate italian sm1ms029_part_1_my_appear_c8ad3713:
 translate italian sm1ms029_part_1_my_appear_20231b23:
 
     # mc "I will! Bye, Melony!"
-    mc "I will! Bye, Melony!"
+    mc "Lo farò! Ciao, Melony!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1530
 translate italian sm1ms029_part_1_my_appear_d106c4c4:
 
     # mct "Phew, that was close!"
-    mct "Phew, that was close!"
+    mct "Fiu, c'è mancato poco!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1531
 translate italian sm1ms029_part_1_my_appear_5b72407c:
 
     # mct "But I was smooth like a cucumber."
-    mct "But I was smooth like a cucumber."
+    mct "Ma sono stato abile come un cetriolo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1533
 translate italian sm1ms029_part_1_my_appear_d394e3cd:
 
     # mct "All right, time to get back to the festivities!"
-    mct "All right, time to get back to the festivities!"
+    mct "Bene, è ora di tornare ai festeggiamenti!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1535
 translate italian sm1ms029_part_1_my_appear_a29a5af6:
 
     # sy "Please, AmRose! Pleeeease!"
-    sy "Please, AmRose! Pleeeease!"
+    sy "Per favore, AmRose! Per favoreeee!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1536
 translate italian sm1ms029_part_1_my_appear_0d55c32a:
 
     # arj "All right, all right."
-    arj "All right, all right."
+    arj "Va bene, va bene."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1538
 translate italian sm1ms029_part_1_my_appear_7d4a8861:
 
     # arj "You took your punishment like a good girl. I guess you've earned a break."
-    arj "You took your punishment like a good girl. I guess you've earned a break."
+    arj "Hai preso la tua punizione come una brava ragazza. Immagino che ti sei guadagnata una pausa."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1539
 translate italian sm1ms029_part_1_my_appear_8ca87e26:
 
     # sy "Thank you!"
-    sy "Thank you!"
+    sy "Grazie!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1541
 translate italian sm1ms029_part_1_my_appear_dbe896c1:
 
     # mc "How's everyone doing? Enjoying the night so far?"
-    mc "How's everyone doing? Enjoying the night so far?"
+    mc "Come state tutti? Vi state godendo la serata finora?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1542
 translate italian sm1ms029_part_1_my_appear_31ebab56:
@@ -3812,7 +3812,7 @@ translate italian sm1ms029_part_1_my_appear_31ebab56:
 translate italian sm1ms029_part_1_my_appear_e91e8c0a:
 
     # mc "But, that was just merely an amuse bouche. Are you ready for the main event?!"
-    mc "But, that was just merely an amuse bouche. Are you ready for the main event?!"
+    mc "Ma questo era solo un amuse bouche. Siete pronti per l'evento principale?!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1544
 translate italian sm1ms029_part_1_my_appear_c0ff99e1:
@@ -3824,25 +3824,25 @@ translate italian sm1ms029_part_1_my_appear_c0ff99e1:
 translate italian sm1ms029_part_1_my_appear_5ce30a02:
 
     # kv "Hell yeah!"
-    kv "Hell yeah!"
+    kv "Cazzo sì!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1553
 translate italian sm1ms029_party_sy_30b99243:
 
     # sy "Wow... that was intense!"
-    sy "Wow... that was intense!"
+    sy "Wow... è stato intenso!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1554
 translate italian sm1ms029_party_sy_57301139:
 
     # mc "Oh, but wait, there's {i}more{/i}!"
-    mc "Oh, but wait, there's {i}more{/i}!"
+    mc "Oh, ma aspettate, c'è di {i}più{/i}!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1555
 translate italian sm1ms029_party_sy_41e23d92:
 
     # sy "More-"
-    sy "More-"
+    sy "Di più-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1557
 translate italian sm1ms029_party_sy_f61c9b38:
@@ -3854,49 +3854,49 @@ translate italian sm1ms029_party_sy_f61c9b38:
 translate italian sm1ms029_party_sy_aeebc189:
 
     # mc "I haven't had a turn yet, my sweet sister!"
-    mc "I haven't had a turn yet, my sweet sister!"
+    mc "Non ho ancora avuto un turno, mia dolce sorella!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1561
 translate italian sm1ms029_party_sy_67dadce3:
 
     # mc "I haven't had a turn yet!"
-    mc "I haven't had a turn yet!"
+    mc "Non ho ancora avuto un turno!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1562
 translate italian sm1ms029_party_sy_26a747c9:
 
     # sy "Well, I can't leave the man of the hour hanging!"
-    sy "Well, I can't leave the man of the hour hanging!"
+    sy "Beh, non posso lasciare l'uomo della serata in sospeso!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1563
 translate italian sm1ms029_party_sy_28b11e57:
 
     # mc "God, I hope not!"
-    mc "God, I hope not!"
+    mc "Dio, spero di no!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1565
 translate italian sm1ms029_party_sy_de94ef47:
 
     # mc "And I figure, since AmRose got you all nice and warmed up for me-"
-    mc "And I figure, since AmRose got you all nice and warmed up for me-"
+    mc "E immagino, visto che AmRose ti ha preparata bene per me-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1566
 translate italian sm1ms029_party_sy_723025d4:
 
     # sy "Oh wait, my ass is so sensitive, I just came so many-"
-    sy "Oh wait, my ass is so sensitive, I just came so many-"
+    sy "Oh aspetta, il mio culo è così sensibile, sono appena venuta così tante-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1568
 translate italian sm1ms029_party_sy_37b38662:
 
     # sy "OH MY GOOOOD!"
-    sy "OH MY GOOOOD!"
+    sy "OH MIO DIOOO!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1570
 translate italian sm1ms029_party_sy_d2634a7d:
 
     # sy "FFUUUUHHUUUUCK!"
-    sy "FFUUUUHHUUUUCK!"
+    sy "CAAAZZOOO!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1571
 translate italian sm1ms029_party_sy_8e431435:
