@@ -22,7 +22,7 @@
 
     # game/code/data/constants/location_constants.rpy:92
     old "Theomalt Park"
-    new "Theomalt Park"
+    new "Theomalt Parkı"
 
     # game/code/data/constants/location_constants.rpy:104
     old "71 Store"

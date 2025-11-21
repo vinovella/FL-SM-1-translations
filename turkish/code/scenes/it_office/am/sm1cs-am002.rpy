@@ -584,13 +584,13 @@ translate turkish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:41
     old "You should watch where you're going"
-    new "You should watch where you're going"
+    new "Nereye gittiğine dikkat etmelisin"
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
     old "She's a fucking menace"
-    new "She's a fucking menace"
+    new "O lanet bir tehlike"
 
     # game/code/scenes/it_office/am/sm1cs-am002.rpy:256
     old "She seems stressed"
-    new "She seems stressed"
+    new "Stresli görünüyor"
 

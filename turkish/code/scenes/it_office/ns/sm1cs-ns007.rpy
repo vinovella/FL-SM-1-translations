@@ -1968,49 +1968,49 @@ translate turkish strings:
 translate turkish sm1cs_ns007_walkaway_e0cd2531:
 
     # ns "I will award you...{w}an Eight out of Ten."
-    ns "I will award you...{w}an Eight out of Ten."
+    ns "Sana...{w}On üzerinden Sekiz vereceğim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:234
 translate turkish sm1cs_ns007_resturant_0eecd966:
 
     # ns "I disagree. I've told you many things I like."
-    ns "I disagree. I've told you many things I like."
+    ns "Katılmıyorum. Sevdiğim birçok şeyi sana söyledim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:595
 translate turkish sm1cs_ns007_light_house_eb237d93:
 
     # ns "I feel... comfortable... with you."
-    ns "I feel... comfortable... with you."
+    ns "Seninle... rahat... hissediyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:694
 translate turkish sm1cs_ns007_light_house_0c97487e:
 
     # ns "*excited but stifled moaning*"
-    ns "*excited but stifled moaning*"
+    ns "*heyecanlı ama bastırılmış inlemeler*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:806
 translate turkish sm1cs_ns007_light_house_5d826925:
 
     # ns "*moaning. I love... hearing that... ooouhah...*"
-    ns "*moaning. I love... hearing that... ooouhah...*"
+    ns "*inlemeler. Bunu duymayı... seviyorum... ooouhah...*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:882
 translate turkish sm1cs_ns007_light_house_81160ea0:
 
     # ns "*whispers* It's just like the hentai."
-    ns "*whispers* It's just like the hentai."
+    ns "*fısıldar* Tıpkı hentai gibi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:910
 translate turkish sm1cs_ns007_light_house_4e72d60e:
 
     # ns "Yes. Thank you, [mcname]."
-    ns "Yes. Thank you, [mcname]."
+    ns "Evet. Teşekkür ederim, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1001
 translate turkish sm1cs_ns007_walkaway_9dae56c9:
 
     # ns "Hmm... considering the food, conversation, company and the amount of times I came..."
-    ns "Hmm... considering the food, conversation, company and the amount of times I came..."
+    ns "Hmm... yemeği, sohbeti, arkadaşlığı ve kaç kez boşaldığımı düşünürsek..."
 
 translate turkish strings:
 

@@ -466,9 +466,9 @@ translate turkish strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Debbie about your next date in the park"
-    new "Talk to Debbie about your next date in the park"
+    new "Debbie ile parkta bir sonraki buluşmanız hakkında konuşun"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Invite Debbie to the next date"
-    new "Invite Debbie to the next date"
+    new "Debbie'yi sonraki buluşmaya davet edin"
 

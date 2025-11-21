@@ -250,7 +250,7 @@ translate portuguese strings:
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Kinky time with Stacy"
-    new ""
+    new "Sacanagem com Stacy"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "An evening with Stacy"

@@ -966,11 +966,11 @@ translate turkish strings:
 translate turkish sm1cs_ns004_fc4dfef5:
 
     # ns "I would consider that outcome as very high risk, low chance."
-    ns "I would consider that outcome as very high risk, low chance."
+    ns "Bu sonucu çok yüksek riskli, düşük şanslı olarak değerlendiririm."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:397
 translate turkish sm1cs_ns004_end_talk_36d68c75:
 
     # mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
-    mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
+    mc "Bunu duyduğuma gerçekten sevindim. Ama eminim benim kadar iyi daha fazla insanla tanışacaksın."
 

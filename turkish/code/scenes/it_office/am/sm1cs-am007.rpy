@@ -2618,101 +2618,101 @@ translate turkish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:57
     old "Five minutes later"
-    new "Five minutes later"
+    new "Beş dakika sonra"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
     old "You'll figure it out"
-    new "You'll figure it out"
+    new "Çözeceksin"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
     old "Surprised it's taking you this long"
-    new "Surprised it's taking you this long"
+    new "Bu kadar uzun sürmenize şaşırdım"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
     old "I have heard of the general concept"
-    new "I have heard of the general concept"
+    new "Genel konsepti duydum"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
     old "Pretty good. I pretty much walk or jog everywhere"
-    new "Pretty good. I pretty much walk or jog everywhere"
+    new "Oldukça iyi. Her yere yürüyerek veya koşarak giderim"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:314
     old "You're sweet"
-    new "You're sweet"
+    new "Çok tatlısın"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:314
     old "I'm confused"
-    new "I'm confused"
+    new "Kafam karıştı"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:314
     old "Maybe just don't eat so much"
-    new "Maybe just don't eat so much"
+    new "Belki sadece o kadar çok yeme"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:362
     old "I am so sorry"
-    new "I am so sorry"
+    new "Çok özür dilerim"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:362
     old "I regret nothing"
-    new "I regret nothing"
+    new "Hiçbir şeyden pişman değilim"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:513
     old "I need a glass of milk"
-    new "I need a glass of milk"
+    new "Bir bardak süte ihtiyacım var"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:513
     old "I was born ready"
-    new "I was born ready"
+    new "Hazır doğdum"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:513
     old "Shouldn't you stretch first?"
-    new "Shouldn't you stretch first?"
+    new "Önce esneme yapman gerekmez mi?"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:513
     old "Why don't you wear more stuff like that?"
-    new "Why don't you wear more stuff like that?"
+    new "Neden böyle şeyler giymiyorsun?"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:577
     old "Too late"
-    new "Too late"
+    new "Çok geç"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:577
     old "Of course"
-    new "Of course"
+    new "Tabii ki"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:621
     old "An hour later"
-    new "An hour later"
+    new "Bir saat sonra"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:704
     old "One hour of torture later"
-    new "One hour of torture later"
+    new "Bir saatlik işkenceden sonra"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:810
     old "You're between a rock and a hard place"
-    new "You're between a rock and a hard place"
+    new "Aşağı tükürsem sakal, yukarı tükürsem bıyık"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:810
     old "I don't know what to say"
-    new "I don't know what to say"
+    new "Ne diyeceğimi bilmiyorum"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:862
     old "Do you have some sixth sense?"
-    new "Do you have some sixth sense?"
+    new "Altıncı hissin mi var?"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:862
     old "Oh. I get it"
-    new "Oh. I get it"
+    new "Oh. Anladım"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:985
     old "So long as I can lick yours"
-    new "So long as I can lick yours"
+    new "Seninkini yaladığım sürece"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:985
     old "I'd prefer to just lick yours"
-    new "I'd prefer to just lick yours"
+    new "Sadece seninkini yalamayı tercih ederim"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:985
     old "I'd like to do other things to you"
-    new "I'd like to do other things to you"
+    new "Sana başka şeyler yapmak isterim"
 

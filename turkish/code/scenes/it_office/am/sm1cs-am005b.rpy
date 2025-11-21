@@ -62,9 +62,9 @@ translate turkish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
     old "Try out things with April"
-    new "Try out things with April"
+    new "April ile şeyler dene"
 
     # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
     old "Never mind"
-    new "Never mind"
+    new "Boş ver"
 

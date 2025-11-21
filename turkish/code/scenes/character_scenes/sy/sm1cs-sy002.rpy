@@ -1238,17 +1238,17 @@ translate turkish sm1cs_sy002_dc_talk_074ea2e5:
 translate turkish sm1cs_sy002_77589fcc:
 
     # mc "It sounds like you've been planning this idea out for a while, Stacy."
-    mc "It sounds like you've been planning this idea out for a while, Stacy."
+    mc "Kulağa bu fikri bir süredir planlıyormuşsun gibi geliyor, Stacy."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:267
 translate turkish sm1cs_sy002_2_221a6943:
 
     # sy "But never mind that! Let's get into the acting!"
-    sy "But never mind that! Let's get into the acting!"
+    sy "Ama boşver! Hadi oyunculuğa geçelim!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:587
 translate turkish sm1cs_sy002_dc_talk_4558d886:
 
     # mc "{size=*0.7}She looks like the park cop.{/size}"
-    mc "{size=*0.7}She looks like the park cop.{/size}"
+    mc "{size=*0.7}Park polisine benziyor.{/size}"
 

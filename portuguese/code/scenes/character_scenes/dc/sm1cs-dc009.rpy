@@ -1562,7 +1562,7 @@ translate portuguese sm1cs_dc009_d449f08b:
 translate portuguese sm1cs_dc009_b5a59259:
 
     # dc "I'll text you later, [mcname]! Bye!"
-    dc "Depois te mando uma mensagem! Tchau!"
+    dc "Depois te mando uma mensagem, [mcname]! Tchau!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:640
 translate portuguese sm1cs_dc009_0c99fe85:

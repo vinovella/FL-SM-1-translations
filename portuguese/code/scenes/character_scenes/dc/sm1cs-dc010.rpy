@@ -1874,7 +1874,7 @@ translate portuguese sm1cs_dc010_end_97305694:
 translate portuguese sm1cs_dc010_end_9f84adc7:
 
     # dc "So, what should we do with the rest of our night, [mcname]?"
-    dc "Então vamos fazer o quê com o resto da noite?"
+    dc "Então, [mcname], vamos fazer o quê com o resto da noite?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:770
 translate portuguese sm1cs_dc010_end_0c49f220:

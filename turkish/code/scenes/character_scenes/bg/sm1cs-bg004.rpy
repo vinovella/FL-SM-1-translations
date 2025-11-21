@@ -1568,5 +1568,5 @@ translate turkish sm1cs_bg004_anal_41c02abb:
 translate turkish sm1cs_bg004_anal_a58f65b7:
 
     # bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
-    bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
+    bg "İHTİYACIM VAR- FUUUUUH - LÜTFEN, [bg_mcname!tu], MOLAYA İHTİYACIM VAR!"
 
