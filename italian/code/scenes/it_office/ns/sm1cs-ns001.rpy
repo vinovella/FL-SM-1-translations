@@ -586,17 +586,17 @@ translate italian strings:
 translate italian sm1cs_ns001_1c682e14:
 
     # ag "Of course. The office has its own cafeteria."
-    ag "Of course. The office has its own cafeteria."
+    ag "Certo. L'ufficio ha la sua caffetteria."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:194
 translate italian sm1cs_ns001_continue_e2b53835:
 
     # mct "He shoots."
-    mct "He shoots."
+    mct "Lui tira."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:251
 translate italian sm1cs_ns001_continue_aa4b7c7c:
 
     # ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
-    ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
+    ns "Più tardi, ho capito che doveva essere davvero rimasta colpita dal mio lavoro perché mi ha chiesto se volevo una Soda."
 

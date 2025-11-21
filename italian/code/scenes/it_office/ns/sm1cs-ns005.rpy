@@ -206,43 +206,43 @@ translate italian sm1cs_ns005_1a6c0283:
 translate italian sm1cs_ns005_fd9e34a7:
 
     # mc "Alright, no one is really paying attention to me. It's now or never."
-    mc "Alright, no one is really paying attention to me. It's now or never."
+    mc "Va bene, nessuno sta davvero prestando attenzione a me. È ora o mai più."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:154
 translate italian sm1cs_ns005_in_bathroom_7379c149:
 
     # ns "Come on come on."
-    ns "Come on come on."
+    ns "Dai dai."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:173
 translate italian sm1cs_ns005_in_bathroom_3e339617:
 
     # mct "Wow. She certainly has a game plan."
-    mct "Wow. She certainly has a game plan."
+    mct "Wow. Ha certamente un piano di gioco."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:177
 translate italian sm1cs_ns005_in_bathroom_05c65750:
 
     # ns "*soft giggling*"
-    ns "*soft giggling*"
+    ns "*risatina soffice*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:179
 translate italian sm1cs_ns005_in_bathroom_0bf2c4cf:
 
     # mct "Okay, I should say something. Before we do something we'll regret."
-    mct "Okay, I should say something. Before we do something we'll regret."
+    mct "Ok, dovrei dire qualcosa. Prima che facciamo qualcosa di cui ci pentiremo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:183
 translate italian sm1cs_ns005_in_bathroom_d91489ac:
 
     # mct "But... I do like where her head is at."
-    mct "But... I do like where her head is at."
+    mct "Ma... mi piace dove ha la testa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:185
 translate italian sm1cs_ns005_in_bathroom_c80dbba2:
 
     # mct "Still..."
-    mct "Still..."
+    mct "Comunque..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:188
 translate italian sm1cs_ns005_in_bathroom_431c26f5:
@@ -284,7 +284,7 @@ translate italian sm1cs_ns005_in_bathroom_7cce9fa5:
 translate italian sm1cs_ns005_in_bathroom_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Sì."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:208
 translate italian sm1cs_ns005_in_bathroom_f3e7f2dd:
@@ -308,7 +308,7 @@ translate italian sm1cs_ns005_in_bathroom_c8b9ae5b:
 translate italian sm1cs_ns005_in_bathroom_82cfef52:
 
     # mc "Awesome."
-    mc "Awesome."
+    mc "Fantastico."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:216
 translate italian sm1cs_ns005_in_bathroom_8f411162:
@@ -326,19 +326,19 @@ translate italian sm1cs_ns005_in_bathroom_37b2100a:
 translate italian sm1cs_ns005_in_bathroom_2b18735e:
 
     # mc "I think I'd be a fool to say 'no'."
-    mc "I think I'd be a fool to say 'no'."
+    mc "Penso che sarei uno sciocco a dire 'no'."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:223
 translate italian sm1cs_ns005_in_bathroom_d608baa8:
 
     # ns "Mmhmm. Good answer."
-    ns "Mmhmm. Good answer."
+    ns "Mmhmm. Buona risposta."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:224
 translate italian sm1cs_ns005_in_bathroom_f6df282c:
 
     # ns "Everyone knows it is dishonorable to waste a good erection."
-    ns "Everyone knows it is dishonorable to waste a good erection."
+    ns "Tutti sanno che è disonorevole sprecare una buona erezione."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:226
 translate italian sm1cs_ns005_in_bathroom_866dba6a:
@@ -1120,41 +1120,41 @@ translate italian strings:
 translate italian sm1cs_ns005_ef1a9eef:
 
     # mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
-    mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
+    mct "Dovrei smettere di perdere tempo e chiederle di uscire. Sono sicuro che apprezzerebbe una bella serata fuori invece di fare altre immersioni finanziarie."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:46
 translate italian sm1cs_ns005_bdbf9d38:
 
     # ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
-    ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
+    ns "*ridacchia* Non devi inchinarti anche tu. Ero io quella che ti ha lasciato in sospeso quando ho ricevuto una chiamata l'ultima volta."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:65
 translate italian sm1cs_ns005_ecb1749e:
 
     # ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
-    ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
+    ns "Sono caramelle al Ginseng Blu, uno dei miei snack preferiti da casa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:353
 translate italian sm1cs_ns005_in_bathroom_55af1966:
 
     # mc "I... I don't. But I want you to finish me off."
-    mc "I... I don't. But I want you to finish me off."
+    mc "Io... io non lo so. Ma voglio che tu mi finisca."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:503
 translate italian sm1cs_ns005_after_cum_f15deec7:
 
     # ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
-    ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
+    ns "Era molto sperma, [mcname]. Immagino che significhi che ti sei divertito."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:642
 translate italian sm1cs_ns005_after_cum_5af9bd6d:
 
     # ns "You know I'm very efficient."
-    ns "You know I'm very efficient."
+    ns "Sai che sono molto efficiente."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:646
 translate italian sm1cs_ns005_after_cum_34dbd9c4:
 
     # mc "Give me a little time and I'll find a restaurant and text you the details."
-    mc "Give me a little time and I'll find a restaurant and text you the details."
+    mc "Dammi un po' di tempo e troverò un ristorante e ti manderò i dettagli."
 

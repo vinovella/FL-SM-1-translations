@@ -398,7 +398,7 @@ translate italian sm1cs_ns002_81900d1e:
 translate italian sm1cs_ns002_e918537a:
 
     # ns "This is going to be fine."
-    ns "This is going to be fine."
+    ns "Andrà tutto bene."
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:241
 translate italian sm1cs_ns002_09ec9d68:
@@ -810,11 +810,11 @@ translate italian strings:
 translate italian sm1cs_ns002_bc4ba015:
 
     # mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
-    mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+    mc "Facciamo una pausa. Ti aiuterò a superare questo. Tutti abbiamo... avuto impulsi in posti strani."
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
 translate italian sm1cs_ns002_94a1cd6a:
 
     # mct "No one is close. I hope."
-    mct "No one is close. I hope."
+    mct "Nessuno è vicino. Spero."
 
