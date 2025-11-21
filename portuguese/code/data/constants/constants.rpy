@@ -76,135 +76,135 @@ translate portuguese strings:
 
     # game/code/data/constants/constants.rpy:77
     old "Night"
-    new "Night"
+    new "Fim da Noite"
 
     # game/code/data/constants/constants.rpy:78
     old "Late Night"
-    new "Late Night"
+    new "Madrugada"
 
     # game/code/data/constants/constants.rpy:79
     old "Early Morning"
-    new "Early Morning"
+    new "Amanhecer"
 
     # game/code/data/constants/constants.rpy:80
     old "Morning"
-    new "Morning"
+    new "Manhã"
 
     # game/code/data/constants/constants.rpy:81
     old "Noon"
-    new "Noon"
+    new "Começo da Tarde"
 
     # game/code/data/constants/constants.rpy:82
     old "Afternoon"
-    new "Afternoon"
+    new "Tarde"
 
     # game/code/data/constants/constants.rpy:83
     old "Evening"
-    new "Evening"
+    new "Fim da Tarde"
 
     # game/code/data/constants/constants.rpy:84
     old "Nightfall"
-    new "Nightfall"
+    new "Noite"
 
     # game/code/data/constants/constants.rpy:130
     old "Mo"
-    new "Mo"
+    new "Seg"
 
     # game/code/data/constants/constants.rpy:131
     old "Tu"
-    new "Tu"
+    new "Ter"
 
     # game/code/data/constants/constants.rpy:132
     old "We"
-    new "We"
+    new "Qua"
 
     # game/code/data/constants/constants.rpy:133
     old "Th"
-    new "Th"
+    new "Qui"
 
     # game/code/data/constants/constants.rpy:134
     old "Fr"
-    new "Fr"
+    new "Sex"
 
     # game/code/data/constants/constants.rpy:135
     old "Sa"
-    new "Sa"
+    new "Sáb"
 
     # game/code/data/constants/constants.rpy:136
     old "Su"
-    new "Su"
+    new "Dom"
 
 translate portuguese strings:
 
     # game/code/data/constants/constants.rpy:131
     old "Monday"
-    new "Monday"
+    new "Segunda"
 
     # game/code/data/constants/constants.rpy:132
     old "Tuesday"
-    new "Tuesday"
+    new "Terça"
 
     # game/code/data/constants/constants.rpy:133
     old "Wednesday"
-    new "Wednesday"
+    new "Quarta"
 
     # game/code/data/constants/constants.rpy:134
     old "Thursday"
-    new "Thursday"
+    new "Quinta"
 
     # game/code/data/constants/constants.rpy:135
     old "Friday"
-    new "Friday"
+    new "Sexta"
 
     # game/code/data/constants/constants.rpy:136
     old "Saturday"
-    new "Saturday"
+    new "Sábado"
 
     # game/code/data/constants/constants.rpy:137
     old "Sunday"
-    new "Sunday"
+    new "Domingo"
 
 translate portuguese strings:
 
     # game/code/data/constants/constants.rpy:168
     old "Mon"
-    new "Mon"
+    new "Seg"
 
     # game/code/data/constants/constants.rpy:169
     old "Tue"
-    new "Tue"
+    new "Ter"
 
     # game/code/data/constants/constants.rpy:170
     old "Wed"
-    new "Wed"
+    new "Qua"
 
     # game/code/data/constants/constants.rpy:171
     old "Thu"
-    new "Thu"
+    new "Qui"
 
     # game/code/data/constants/constants.rpy:172
     old "Fri"
-    new "Fri"
+    new "Sex"
 
     # game/code/data/constants/constants.rpy:173
     old "Sat"
-    new "Sat"
+    new "Sáb"
 
     # game/code/data/constants/constants.rpy:174
     old "Sun"
-    new "Sun"
+    new "Dom"
 
 translate portuguese strings:
 
     # game/code/data/constants/constants.rpy:388
     old "Book"
-    new "Book"
+    new "Livro"
 
     # game/code/data/constants/constants.rpy:389
     old "Magazine"
-    new "Magazine"
+    new "Revista"
 
     # game/code/data/constants/constants.rpy:398
     old "Energy drink"
-    new "Energy drink"
+    new "Energético"
 
