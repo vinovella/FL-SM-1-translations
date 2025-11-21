@@ -110,5 +110,5 @@ translate portuguese q_inter_pm_5_414611e9:
 translate portuguese q_inter_pm_3_98e57bf0:
 
     # pm "Hey! [mcname], who's always playing the rock music way too loud over there?"
-    pm "Hey! [mcname], who's always playing the rock music way too loud over there?"
+    pm "Ei! [mcname], quem que fica sempre tocando Rock tão alto aí?"
 
