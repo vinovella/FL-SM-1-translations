@@ -1398,7 +1398,7 @@ translate turkish strings:
 translate turkish sm1cs_tl003_in_street_76592468:
 
     # tl "A while back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
-    tl "A while back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
+    tl "Bir süre önce burada çılgın bir patlama falan oldu. Sonrasında polisler, tekrar bir bok yapmaya çalışırlar diye burada birini tutmaya karar verdi."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:698
 translate turkish sm1cs_tl003_sex_end_b82ee33e:

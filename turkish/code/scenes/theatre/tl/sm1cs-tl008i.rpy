@@ -38,13 +38,13 @@ translate turkish sm1cs_tl008i_a4cd1341_2:
 translate turkish sm1cs_tl008i_repeatable_7ba43117:
 
     # mc "You really liked the video Stacy and I made, didn't you."
-    mc "You really liked the video Stacy and I made, didn't you."
+    mc "Stacy ve benim yaptığımız videoyu gerçekten beğendin, değil mi."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008i.rpy:25
 translate turkish sm1cs_tl008i_repeatable_e0c56fee:
 
     # tl "It definitely turns me on."
-    tl "It definitely turns me on."
+    tl "Kesinlikle beni tahrik ediyor."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008i.rpy:29
 translate turkish sm1cs_tl008i_repeatable_97f3ede0:

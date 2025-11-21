@@ -2054,7 +2054,7 @@ translate turkish sm1mv02s05_movie_start_608957b5:
 translate turkish sm1mv02s05_movie_start_c6fd7b5e:
 
     # ns "We're not finished yet, are we, Captain?"
-    ns "We're not finished yet, are we, Captain?"
+    ns "Henüz bitirmedik, değil mi Kaptan?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1228
 translate turkish sm1mv02s05_movie_start_576f87a9:
@@ -2066,7 +2066,7 @@ translate turkish sm1mv02s05_movie_start_576f87a9:
 translate turkish sm1mv02s05_movie_start_ce079fe5:
 
     # ns "H-hornstar... I'm beginning to hypothesize something."
-    ns "H-hornstar... I'm beginning to hypothesize something."
+    ns "H-hornstar... Bir şey hakkında hipotez kurmaya başlıyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1232
 translate turkish sm1mv02s05_movie_start_396f9b12:
@@ -2084,13 +2084,13 @@ translate turkish sm1mv02s05_movie_start_47f31316:
 translate turkish sm1mv02s05_movie_start_0b04685c:
 
     # ns "We may be doing more harm than good."
-    ns "We may be doing more harm than good."
+    ns "Fayda sağlamaktan çok zarar veriyor olabiliriz."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1239
 translate turkish sm1mv02s05_movie_start_657baa76:
 
     # ns "Our juices, our essences... there may be a risk... Fhu-ooouha..."
-    ns "Our juices, our essences... there may be a risk... Fhu-ooouha..."
+    ns "Sularımız, özlerimiz... bir risk olabilir... Fhu-ooouha..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1240
 translate turkish sm1mv02s05_movie_start_299e3fc4:
@@ -2102,19 +2102,19 @@ translate turkish sm1mv02s05_movie_start_299e3fc4:
 translate turkish sm1mv02s05_movie_start_85f8a8a0:
 
     # ns "There may be a risk of a hyper-cross polenization."
-    ns "There may be a risk of a hyper-cross polenization."
+    ns "Hiper-çapraz tozlaşma riski olabilir."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1244
 translate turkish sm1mv02s05_movie_start_eb694026:
 
     # mc "Of course. You're suggesting by fucking Stacy... the two of us may be affected as well."
-    mc "Of course. You're suggesting by fucking Stacy... the two of us may be affected as well."
+    mc "Elbette. Stacy'yi sikerek... ikimizin de etkilenebileceğini mi söylüyorsun."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1247
 translate turkish sm1mv02s05_movie_start_4bc34003:
 
     # ns "Yes... Nuah-paaahuah...{w} There is a risk."
-    ns "Yes... Nuah-paaahuah...{w} There is a risk."
+    ns "Evet... Nuah-paaahuah...{w} Bir risk var."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1248
 translate turkish sm1mv02s05_movie_start_84da241f:
@@ -2132,7 +2132,7 @@ translate turkish sm1mv02s05_movie_start_e12ec001:
 translate turkish sm1mv02s05_movie_start_426902d2:
 
     # ns "Oh! I mean... we'll only know... muaah... if I can achieve..."
-    ns "Oh! I mean... we'll only know... muaah... if I can achieve..."
+    ns "Oh! Yani... sadece bilece... muaah... başarabilirsem..."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1253
 translate turkish sm1mv02s05_movie_start_ec275b36:
@@ -2144,25 +2144,25 @@ translate turkish sm1mv02s05_movie_start_ec275b36:
 translate turkish sm1mv02s05_movie_start_4764cdf8:
 
     # ns "Hornstar. I'm almost there... I've nearly run... the final calculation-nuaah!"
-    ns "Hornstar. I'm almost there... I've nearly run... the final calculation-nuaah!"
+    ns "Hornstar. Neredeyse geldim... Neredeyse çalıştırdım... son hesaplama-nuaah!"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1269
 translate turkish sm1mv02s05_movie_start_baa98194:
 
     # mc "Nurah... coming up right behind you."
-    mc "Nurah... coming up right behind you."
+    mc "Nurah... hemen arkanızdan geliyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1272
 translate turkish sm1mv02s05_movie_start_7b990f55:
 
     # ns "Inside... please, Hornstar."
-    ns "Inside... please, Hornstar."
+    ns "İçine... lütfen, Hornstar."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1273
 translate turkish sm1mv02s05_movie_start_f3815381:
 
     # ns "Plant your seed in my mouth."
-    ns "Plant your seed in my mouth."
+    ns "Tohumunu ağzıma ek."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1283
 translate turkish sm1mv02s05_movie_start_8af8af78:
@@ -2180,13 +2180,13 @@ translate turkish sm1mv02s05_movie_start_7d6a4dcf:
 translate turkish sm1mv02s05_movie_start_e70cacf1:
 
     # ns "For a sample. Who knows what we will need to come up with to defeat this wicked pathogen."
-    ns "For a sample. Who knows what we will need to come up with to defeat this wicked pathogen."
+    ns "Bir örnek için. Bu kötü patojeni yenmek için ne bulmamız gerekeceğini kim bilebilir."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1292
 translate turkish sm1mv02s05_movie_start_2a56b870:
 
     # ns "We can only pray your science lab can come up with a cure."
-    ns "We can only pray your science lab can come up with a cure."
+    ns "Sadece bilim laboratuvarının bir tedavi bulabileceğini dua edebiliriz."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1293
 translate turkish sm1mv02s05_movie_start_12e9d85f:
@@ -2204,7 +2204,7 @@ translate turkish sm1mv02s05_movie_start_a3d0b80f:
 translate turkish sm1mv02s05_movie_start_e1edda55:
 
     # mc "Phew.{w} Hornstar to {i}Intrepid{/i}. We're heading back to the shuttle."
-    mc "Phew.{w} Hornstar to {i}Intrepid{/i}. We're heading back to the shuttle."
+    mc "Phew.{w} Hornstar'dan {i}Intrepid{/i}'e. Mekiğe geri dönüyoruz."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1298
 translate turkish sm1mv02s05_movie_start_a4a85be4:
@@ -2216,7 +2216,7 @@ translate turkish sm1mv02s05_movie_start_a4a85be4:
 translate turkish sm1mv02s05_movie_end_f4a85d7a:
 
     # mc "I just went through the first cut with Kanya."
-    mc "I just went through the first cut with Kanya."
+    mc "Kanya ile ilk kesimi yeni bitirdim."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1323
 translate turkish sm1mv02s05_movie_end_6511b6a3:
@@ -2240,25 +2240,25 @@ translate turkish sm1mv02s05_movie_end_88820be9:
 translate turkish sm1mv02s05_movie_end_3b8d73ea:
 
     # ns "It was one of the greatest things ever!"
-    ns "It was one of the greatest things ever!"
+    ns "Şimdiye kadarki en harika şeylerden biriydi!"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1329
 translate turkish sm1mv02s05_movie_end_888e5a85:
 
     # ns "I mean, when Stacy squirted all over my face as you were going into her ass."
-    ns "I mean, when Stacy squirted all over my face as you were going into her ass."
+    ns "Yani, sen kıçına girerken Stacy yüzüme fışkırttığında."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1330
 translate turkish sm1mv02s05_movie_end_92ed7a71:
 
     # ns "It felt like pure excitement was coursing through my veins at high speed."
-    ns "It felt like pure excitement was coursing through my veins at high speed."
+    ns "Damarlarımda yüksek hızda saf heyecan akıyormuş gibi hissettim."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1333
 translate turkish sm1mv02s05_movie_end_8a880e3a:
 
     # sy "That's the magic of movies, Nari."
-    sy "That's the magic of movies, Nari."
+    sy "Filmlerin sihri bu, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1336
 translate turkish sm1mv02s05_movie_end_37fa264b:
@@ -2270,7 +2270,7 @@ translate turkish sm1mv02s05_movie_end_37fa264b:
 translate turkish sm1mv02s05_movie_end_48bf2da6:
 
     # mc "But seriously, I'm just so glad you enjoyed it, Nari."
-    mc "But seriously, I'm just so glad you enjoyed it, Nari."
+    mc "Ama cidden, keyif aldığına çok sevindim, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1340
 translate turkish sm1mv02s05_movie_end_b3e25a98:
@@ -2294,7 +2294,7 @@ translate turkish sm1mv02s05_movie_end_40c1362f:
 translate turkish sm1mv02s05_movie_end_09d24201:
 
     # mc "Alright. Much more to do, but we've started the journey."
-    mc "Alright. Much more to do, but we've started the journey."
+    mc "Tamam. Yapacak çok şey var, ama yolculuğa başladık."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1347
 translate turkish sm1mv02s05_movie_end_bf64d622:
@@ -2306,13 +2306,13 @@ translate turkish sm1mv02s05_movie_end_bf64d622:
 translate turkish sm1mv02s05_movie_end_b212bf25:
 
     # mc "Have a good day, everyone. Great work."
-    mc "Have a good day, everyone. Great work."
+    mc "İyi günler, herkes. Harika iş çıkardınız."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1352
 translate turkish sm1mv02s05_movie_end_2316e0b2:
 
     # sy "[mcname] and I will reach out when we're ready for the next scene."
-    sy "[mcname] and I will reach out when we're ready for the next scene."
+    sy "[mcname] ve ben bir sonraki sahne için hazır olduğumuzda size ulaşacağız."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1356
 translate turkish sm1mv02s05_movie_end_73468b8e:
@@ -2330,7 +2330,7 @@ translate turkish sm1mv02s05_movie_end_edd0ebcc:
 translate turkish sm1mv02s05_movie_end_a1176d35:
 
     # kv "I can only imagine how little work [mcname] does when he's around you."
-    kv "I can only imagine how little work [mcname] does when he's around you."
+    kv "Senin yanındayken [mcname]'in ne kadar az iş yaptığını sadece hayal edebiliyorum."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1365
 translate turkish sm1mv02s05_movie_end_d389dcd8:
@@ -2372,13 +2372,13 @@ translate turkish strings:
 translate turkish sm1mv02s05_8ee6d23f:
 
     # mc "We want the {i}Intrepid{/i} looking great for the first scene."
-    mc "We want the {i}Intrepid{/i} looking great for the first scene."
+    mc "{i}Intrepid{/i}'in ilk sahne için harika görünmesini istiyoruz."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:576
 translate turkish sm1mv02s05_movie_start_7da69867:
 
     # sy "I'll run an advanced scan looking for residual Dickium radiation."
-    sy "I'll run an advanced scan looking for residual Dickium radiation."
+    sy "Artık Dickium radyasyonu aramak için gelişmiş bir tarama yapacağım."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:614
 translate turkish sm1mv02s05_movie_start_a16145c5:
@@ -2390,29 +2390,29 @@ translate turkish sm1mv02s05_movie_start_a16145c5:
 translate turkish sm1mv02s05_movie_start_d43915e7:
 
     # sy "Yeah, ignore all that and the potential of Karasu raiders hiding in wait to kill us, it's the perfect vacation planet."
-    sy "Yeah, ignore all that and the potential of Karasu raiders hiding in wait to kill us, it's the perfect vacation planet."
+    sy "Evet, tüm bunları ve bizi öldürmek için pusuya yatan Karasu akıncıları potansiyelini göz ardı et, mükemmel bir tatil gezegeni."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:685
 translate turkish sm1mv02s05_movie_start_f1a7c292:
 
     # mc "Track in on signal. Got some technology here, doesn't look hostile."
-    mc "Track in on signal. Got some technology here, doesn't look hostile."
+    mc "Sinyali takip et. Burada biraz teknoloji var, düşmanca görünmüyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:297
 translate turkish sm1mv02s05_46f309b4:
 
     # ns "Every mountain you come across, you conquer."
-    ns "Every mountain you come across, you conquer."
+    ns "Karşına çıkan her dağı fethediyorsun."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:401
 translate turkish sm1mv02s05_b132ad51:
 
     # ns "It's a little cold. And the bristles tickle my nipples."
-    ns "It's a little cold. And the bristles tickle my nipples."
+    ns "Biraz soğuk. Ve kıllar meme uçlarımı gıdıklıyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:513
 translate turkish sm1mv02s05_710d2cab:
 
     # sy "They won't look perfect up close, but from a distance, it will look like our ship is a fully crewed vessel."
-    sy "They won't look perfect up close, but from a distance, it will look like our ship is a fully crewed vessel."
+    sy "Yakından mükemmel görünmeyecekler, ama uzaktan gemimizin tam mürettebatlı bir gemi gibi görünecek."
 

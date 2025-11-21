@@ -1088,7 +1088,7 @@ translate turkish sm1mv02s04_later_802453ca:
 translate turkish sm1mv02s04_later_bfc62131:
 
     # mes "Memorizing lines on a script is just like memorizing sheet music for a piano recital, like when I was young."
-    mes "Memorizing lines on a script is just like memorizing sheet music for a piano recital, like when I was young."
+    mes "Bir senaryodaki repliklerini ezberlemek, küçükken piyano resitali için nota ezberlemek gibidir."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:612
 translate turkish sm1mv02s04_later_034c82ec:
@@ -1142,7 +1142,7 @@ translate turkish sm1mv02s04_later_edd88bf3:
 translate turkish sm1mv02s04_later_b1afe30f:
 
     # kv "Sounds like we're all ready for the next step, which is good because I have to kick you guys out shortly."
-    kv "Sounds like we're all ready for the next step, which is good because I have to kick you guys out shortly."
+    kv "Görünüşe göre hepimiz bir sonraki adıma hazırız, bu iyi çünkü sizi kısa süre sonra kovmam gerekiyor."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:632
 translate turkish sm1mv02s04_later_4c09483b:
