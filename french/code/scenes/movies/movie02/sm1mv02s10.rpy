@@ -1624,3 +1624,9 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/movies/movie02/sm1mv02s10.rpy:293
+translate french sm1mv02s10_624bea48:
+
+    # mc "Kanya has been busy with work."
+    mc "Kanya has been busy with work."
+

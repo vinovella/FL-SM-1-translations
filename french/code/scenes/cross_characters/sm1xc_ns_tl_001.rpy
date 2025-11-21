@@ -672,3 +672,9 @@ translate french sm1xc_ns_tl_001_73b4fefc:
 
 #Translate by BlackViper_
 
+# game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:213
+translate french sm1xc_ns_tl_001_4da1f062:
+
+    # "[mcname] and Taisia" "Hahaha."
+    "[mcname] and Taisia" "Hahaha."
+

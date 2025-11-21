@@ -2362,3 +2362,15 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:714
+translate french sm1cs_my006_hotel_room_edc09e20:
+
+    # mct "Melony's ass is amazing... and her pussy, fucking wow."
+    mct "Melony's ass is amazing... and her pussy, fucking wow."
+
+# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:1022
+translate french sm1cs_my006_next_morning_02f10a8a:
+
+    # my "It's fine, it's not like you have anyone who's going to miss you in bed."
+    my "It's fine, it's not like you have anyone who's going to miss you in bed."
+

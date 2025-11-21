@@ -44,4 +44,7 @@
     old "Day: [gt.get_day_number()]"
     new "Jour : [gt.get_day_number()]"
 
-#Translate by BlackViper_
+    # game/code/renpy/screens/phone.rpy:77
+    old "Save for Season 2"
+    new "Sauvegarder pour la Saison 2"
+

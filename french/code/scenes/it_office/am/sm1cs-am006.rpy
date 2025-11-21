@@ -1309,3 +1309,9 @@ translate french strings:
     new "Ne pas embrasser April"
 
 #Translate by BlackViper_
+# game/code/scenes/it_office/am/sm1cs-am006.rpy:646
+translate french sm1cs_am006_arcade_8441b9e9:
+
+    # mct "Woah.{w} She's... she's really into this."
+    mct "Woah.{w} She's... she's really into this."
+

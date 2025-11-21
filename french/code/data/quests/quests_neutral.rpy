@@ -612,4 +612,19 @@
     old "Talk to Stacy about Melony"
     new "Parle avec Stacy à propos de Melony"
 
-#Translate by BlackViper_
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Learn Photography until you reach [var]/5 in this topic"
+    new "Apprends la photographie jusqu'à atteindre [var]/5 dans ce sujet"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Get [var]/9 Relationship Points with Maya"
+    new "Obtiens [var]/9 points de relation avec Maya"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Talk to Debbie about your next date in the park"
+    new "Parle avec Debbie de ton prochain rendez-vous dans le parc"
+
+    # game/code/data/quests/quests_neutral.rpy:4
+    old "Invite Debbie to the next date"
+    new "Invite Debbie au prochain rendez-vous"
+

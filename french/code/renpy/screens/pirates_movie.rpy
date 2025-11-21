@@ -24,5 +24,11 @@
     old "MOVIE EDITING"
     new "MONTAGE DU FILM"
 
-#Translate by BlackViper_
+    # game/code/renpy/screens/pirates_movie.rpy:91
+    old "Add $[amount]"
+    new "Ajouter $[amount]"
+
+    # game/code/renpy/screens/pirates_movie.rpy:141
+    old "Add [amount]E"
+    new "Ajouter [amount]E"
 

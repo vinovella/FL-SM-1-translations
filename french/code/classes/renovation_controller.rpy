@@ -52,5 +52,27 @@
     old "Already done."
     new "Déjà fait."
 
-#Translate by BlackViper_
+    # game/code/classes/renovation_controller.rpy:48
+    old "Renovation progress increased by [progress]%"
+    new "La progression de la rénovation a augmenté de [progress]%"
+
+    # game/code/classes/renovation_controller.rpy:141
+    old "Upgrade\n$[upgrade_price]"
+    new "Améliorer\n$[upgrade_price]"
+
+    # game/code/classes/renovation_controller.rpy:176
+    old "before 50%"
+    new "avant 50%"
+
+    # game/code/classes/renovation_controller.rpy:176
+    old "after 50%"
+    new "après 50%"
+
+    # game/code/classes/renovation_controller.rpy:179
+    old "Renovation progress is over 50%.\nYou can no longer receive help from [character!t]."
+    new "La progression de la rénovation est supérieure à 50%.\nTu ne peux plus recevoir d'aide de [character!t]."
+
+    # game/code/classes/renovation_controller.rpy:181
+    old "[character!t] can assist with the renovation [before_after!t] completion.\nTalk to [character!t] to proceed."
+    new "[character!t] peut aider avec la rénovation [before_after!t] achèvement.\nParle à [character!t] pour continuer."
 

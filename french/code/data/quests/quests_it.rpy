@@ -376,5 +376,31 @@
     old "Wait for April to text you"
     new "Attendre qu’April t'envoie un message"
 
-#Translate by BlackViper_
+    # game/code/data/quests/quests_it.rpy:3
+    old "Progress [var]/3 of Nari's scenes"
+    new "Progression [var]/3 des scènes de Nari"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Progress [var]/3 of Nari's scenes and 0/1 of Anna's scenes"
+    new "Progression [var]/3 des scènes de Nari et 0/1 des scènes d'Anna"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work the IT job 35/35 times and finish the renovations"
+    new "Travailler dans le secteur IT 35/35 fois et terminer les rénovations"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work the IT job [var]/35 times and finish the renovations"
+    new "Travailler dans le secteur IT [var]/35 fois et terminer les rénovations"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work the IT job [var]/35 times"
+    new "Travailler dans le secteur IT [var]/35 fois"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Get at least [var]/15 total Relationship Points with characters at Orbix"
+    new "Obtenir au moins [var]/15 points de relation au total avec les personnages d'Orbix"
+
+    # game/code/data/quests/quests_it.rpy:3
+    old "Work at Orbix [var]/20 times"
+    new "Travailler chez Orbix [var]/20 fois"
 

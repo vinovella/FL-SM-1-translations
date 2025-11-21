@@ -190,5 +190,9 @@ translate french q_inter_ec_7_bc229872:
     # ec "Exactly."
     ec "Exactement."
 
-#Translate by BlackViper_
+# game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:22
+translate french q_inter_ec_1_7a965d97:
+
+    # ec "Well she works a lot better with a good coffee."
+    ec "Elle travaille bien mieux avec un bon café."
 

@@ -320,4 +320,31 @@
     old "Talk to Veronica on the stage"
     new "Parle à Veronica sur la scène"
 
-#Translate by BlackViper_
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the Saturday show at least [var]/3 times"
+    new "Fais le spectacle du samedi au moins [var]/3 fois"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have [var]/10 total Relationship Points with the Theater girls"
+    new "Avoir [var]/10 points de relation au total avec les filles du théâtre"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the Saturday show at least [var0]/3 times and have [var1]/10 total Relationship Points with the Theater girls"
+    new "Fais le spectacle du samedi au moins [var0]/3 fois et aie [var1]/10 points de relation au total avec les filles du théâtre"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Talk to Nelson during the day about sponsoring the new show"
+    new "Parle à Nelson pendant la journée au sujet du sponsoring du nouveau spectacle"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have $[var]/$50"
+    new "Avoir $[var]/$50"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Have $[var]/$100 and invite Taisia to make a film"
+    new "Avoir $[var]/$100 et inviter Taisia à faire un film"
+
+    # game/code/data/quests/quests_theater.rpy:3
+    old "Do the rehearsal on [var!t]"
+    new "Fais la répétition le [var!t]"
+

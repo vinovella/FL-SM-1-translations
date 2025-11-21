@@ -2242,3 +2242,219 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:172
+translate french sm1cs_dc010_later_cc13123a:
+
+    # dc "And then he reloaded it by smashing it on the motorcyclist's head! So bad ass!"
+    dc "And then he reloaded it by smashing it on the motorcyclist's head! So bad ass!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:241
+translate french sm1cs_dc010_later_32c7d96e:
+
+    # jc "Well, what do we have here!"
+    jc "Well, what do we have here!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:246
+translate french sm1cs_dc010_later_0a088038:
+
+    # doc "Oh, loitering? Maybe something a bit more nefarious?"
+    doc "Oh, loitering? Maybe something a bit more nefarious?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:252
+translate french sm1cs_dc010_later_118db1de:
+
+    # jc "\"Evening, officers\", pfft."
+    jc "\"Evening, officers\", pfft."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:259
+translate french sm1cs_dc010_later_313100aa:
+
+    # doc "Hmmm... let's see."
+    doc "Hmmm... let's see."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:270
+translate french sm1cs_dc010_later_ee640895:
+
+    # doc "Oh, that's right!"
+    doc "Oh, that's right!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:275
+translate french sm1cs_dc010_later_4e44cfdf:
+
+    # doc "That's for using that bitch to embarrass us the other day!"
+    doc "That's for using that bitch to embarrass us the other day!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:278
+translate french sm1cs_dc010_later_7abc9f97:
+
+    # jc "Woah, man."
+    jc "Woah, man."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:281
+translate french sm1cs_dc010_later_8faeff8a:
+
+    # doc "What?"
+    doc "What?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:283
+translate french sm1cs_dc010_later_655b6865:
+
+    # jc "She's not entirely a bitch. Because, you now."
+    jc "She's not entirely a bitch. Because, you now."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:286
+translate french sm1cs_dc010_later_c52dc3fb:
+
+    # doc "Oh yeah."
+    doc "Oh yeah."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:291
+translate french sm1cs_dc010_later_ed8594e7:
+
+    # doc "Because she has a dick!"
+    doc "Because she has a dick!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:297
+translate french sm1cs_dc010_later_937b5553:
+
+    # jc "Yeah! So, whatever she is! Fuck her!"
+    jc "Yeah! So, whatever she is! Fuck her!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:299
+translate french sm1cs_dc010_later_731e535c:
+
+    # doc "Hahahahaha!"
+    doc "Hahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:308
+translate french sm1cs_dc010_later_b23ba0d2:
+
+    # jc "Oh, look who it is. Your little bitch, come to save her little bitch!"
+    jc "Oh, look who it is. Your little bitch, come to save her little bitch!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:314
+translate french sm1cs_dc010_later_abb132ec:
+
+    # jc "Shut up!"
+    jc "Shut up!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:322
+translate french sm1cs_dc010_later_63318cc3:
+
+    # jc "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
+    jc "Oh ho ho, and what are you going to do about it, {i}little girl{/i}?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:328
+translate french sm1cs_dc010_later_decb3a7c:
+
+    # doc "Oh the little girl, or {i}little boy{/i} is soooo scary!"
+    doc "Oh the little girl, or {i}little boy{/i} is soooo scary!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:333
+translate french sm1cs_dc010_later_738b9475:
+
+    # jc "Oh, my balls are shaking! Hahahahaha!"
+    jc "Oh, my balls are shaking! Hahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:335
+translate french sm1cs_dc010_later_731e535c_1:
+
+    # doc "Hahahahaha!"
+    doc "Hahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:342
+translate french sm1cs_dc010_later_1e1f5708:
+
+    # jc "Oh, fuck you!"
+    jc "Oh, fuck you!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:353
+translate french sm1cs_dc010_later_f90d492d:
+
+    # doc "What the fuck!?"
+    doc "What the fuck!?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:362
+translate french sm1cs_dc010_later_c8344b37:
+
+    # doc "Shit!"
+    doc "Shit!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:376
+translate french sm1cs_dc010_later_082113f0:
+
+    # doc "My ass."
+    doc "My ass."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:381
+translate french sm1cs_dc010_later_9d4feabf:
+
+    # jc "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
+    jc "Oh yeah, bitch? And what if we tell the captain that you assaulted us?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:383
+translate french sm1cs_dc010_later_062962a0:
+
+    # doc "Yeah. Get your ass kicked off the force."
+    doc "Yeah. Get your ass kicked off the force."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:396
+translate french sm1cs_dc010_later_983f1fb6:
+
+    # jc "Errrgghhhh..."
+    jc "Errrgghhhh..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:398
+translate french sm1cs_dc010_later_e1a3ea1a:
+
+    # doc "Mother fucker..."
+    doc "Mother fucker..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:399
+translate french sm1cs_dc010_later_4ed7441e:
+
+    # jc "Come on."
+    jc "Come on."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:404
+translate french sm1cs_dc010_later_57c7effd:
+
+    # jc "Fuck you."
+    jc "Fuck you."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:610
+translate french sm1cs_dc010_later_9de368a5:
+
+    # dc "I have been looking forward to this for a while.{w} I'm very excited."
+    dc "I have been looking forward to this for a while.{w} I'm very excited."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:643
+translate french sm1cs_dc010_later_0f8ee3ae:
+
+    # dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
+    dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:866
+translate french sm1cs_dc010_dc_hj_0d04a1d3:
+
+    # mc "Great enough that it deserves its own pleasure."
+    mc "Great enough that it deserves its own pleasure."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:925
+translate french sm1cs_dc010_dc_hj_10a9c12a:
+
+    # dc "I think of you cumming all over me as I stroke myself, and I- I-"
+    dc "I think of you cumming all over me as I stroke myself, and I- I-"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:948
+translate french sm1cs_dc010_dc_hj_1a7b15ce:
+
+    # dc "Infinitely better than my fantasy."
+    dc "Infinitely better than my fantasy."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:1040
+translate french sm1cs_dc010_end_0f3a75eb:
+
+    # dc "No, not really. Just some paperwork to do."
+    dc "No, not really. Just some paperwork to do."
+

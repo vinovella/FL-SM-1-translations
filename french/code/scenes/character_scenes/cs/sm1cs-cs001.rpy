@@ -198,3 +198,9 @@ translate french sm1cs_cs001_24cdc073:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:65
+translate french sm1cs_cs001_0b11eff4:
+
+    # mc "Yeah, yeah. I'll have a dark roast coffee and a..."
+    mc "Yeah, yeah. I'll have a dark roast coffee and a..."
+

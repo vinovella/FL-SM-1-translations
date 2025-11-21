@@ -98,6 +98,9 @@
 
     # game/code/data/characters/names.rpy:86
     old "Jerk Cop"
-    new "Jerk Cop"
+    new "Flic Imbécile"
 
-#Translate by BlackViper_
+    # game/code/data/characters/names.rpy:87
+    old "Douche Cop"
+    new "Flic Douche"
+

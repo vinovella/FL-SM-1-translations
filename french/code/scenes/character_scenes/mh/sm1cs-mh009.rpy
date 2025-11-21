@@ -2320,3 +2320,111 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:318
+translate french sm1cs_mh009_e9245de9:
+
+    # mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
+    mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:344
+translate french sm1cs_mh009_7b2b35e6:
+
+    # mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+    mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:345
+translate french sm1cs_mh009_7b2b35e6_1:
+
+    # mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+    mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:351
+translate french sm1cs_mh009_72f11ebc:
+
+    # mc "Sure, Lys- I mean, [mhname!t]."
+    mc "Sure, Lys- I mean, [mhname!t]."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:392
+translate french sm1cs_mh009_0c331674:
+
+    # mh "Well, my name is [mhname!t], and I'm here because a friend suggested that this might be a good way to make some extra money."
+    mh "Well, my name is [mhname!t], and I'm here because a friend suggested that this might be a good way to make some extra money."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:449
+translate french sm1cs_mh009_ed0f3263:
+
+    # mc "Well, that makes two of us! That sounds super duper hot, [mhname!t]."
+    mc "Well, that makes two of us! That sounds super duper hot, [mhname!t]."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:610
+translate french sm1cs_mh009_348b8dd7:
+
+    # mc "Oh shit, [mhname!t]!"
+    mc "Oh shit, [mhname!t]!"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:629
+translate french sm1cs_mh009_beac13b0:
+
+    # mc "Do you? Do you like being my good girl, [mhname!t]?"
+    mc "Do you? Do you like being my good girl, [mhname!t]?"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:634
+translate french sm1cs_mh009_70654531:
+
+    # mc "Fuuuucking hell, this is great, [mhname!t]."
+    mc "Fuuuucking hell, this is great, [mhname!t]."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:701
+translate french sm1cs_mh009_2c204863:
+
+    # mc "Oh fuck yeah, [mhname!t]!"
+    mc "Oh fuck yeah, [mhname!t]!"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:756
+translate french sm1cs_mh009_8751d578:
+
+    # mc "Oh shit, [mhname!t]! Oh this is incredible!"
+    mc "Oh shit, [mhname!t]! Oh this is incredible!"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:774
+translate french sm1cs_mh009_e922e4ef:
+
+    # mc "What, [mhname!t]?"
+    mc "What, [mhname!t]?"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:783
+translate french sm1cs_mh009_2b193e52:
+
+    # mc "Ohh, L- love this, [mhname!t], I love this!"
+    mc "Ohh, L- love this, [mhname!t], I love this!"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:805
+translate french sm1cs_mh009_c66ced23:
+
+    # mc "Oh God, [mhname!t]..."
+    mc "Oh God, [mhname!t]..."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:890
+translate french sm1cs_mh009_32fbcfe7:
+
+    # mc "Are you going to cum, [mhname!t]?"
+    mc "Are you going to cum, [mhname!t]?"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:970
+translate french sm1cs_mh009_1_c8b0e979:
+
+    # mc "Shhh, [mhname!t]. It looks amazing, watching your fingers move like that."
+    mc "Shhh, [mhname!t]. It looks amazing, watching your fingers move like that."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:983
+translate french sm1cs_mh009_1_44176ab2:
+
+    # mc "Cum for me, [mhname!t]."
+    mc "Cum for me, [mhname!t]."
+
+translate french strings:
+
+    # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:333
+    old "Allison"
+    new "Allison"
+

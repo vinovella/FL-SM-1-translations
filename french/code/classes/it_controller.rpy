@@ -8,5 +8,7 @@
     old "Orbix Salary ({} days)"
     new "Salaire Orbix ({} jours)"
 
-#Translate by BlackViper_
+    # game/code/classes/it_controller.rpy:55
+    old "Orbix salary ([days] days)"
+    new "Salaire Orbix ({} jours)"
 

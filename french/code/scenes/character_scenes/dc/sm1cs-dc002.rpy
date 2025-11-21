@@ -522,3 +522,9 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:230
+translate french sm1cs_dc002_9cef6b0f:
+
+    # mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
+    mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
+

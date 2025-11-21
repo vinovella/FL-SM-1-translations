@@ -480,4 +480,35 @@
     old "Done editing the Sci-Fi Movie"
     new "Montage du film de science-fiction terminé"
 
-#Translate by BlackViper_
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Live Chat with Stacy"
+    new "Discussion en direct avec Stacy"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Purchase Photography-101 for $60"
+    new "Acheter Photographie-101 pour 60 $"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Ask Debbie to the movies"
+    new "Demander à Debbie d'aller au cinéma"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Let's go to sleep"
+    new "Allons dormir"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Have some fun in the toilet"
+    new "Amusons-nous dans les toilettes"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Good morning!"
+    new "Bonjour!"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Purchase Stars Weekly for $30"
+    new "Acheter Stars Weekly pour 30 $"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Purchase An Actor Prepares for $60"
+    new "Acheter An Actor Prepares pour 60 $"
+

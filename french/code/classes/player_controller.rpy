@@ -12,5 +12,7 @@
     old "You don't have enough money."
     new "Tu n'as pas assez d'argent."
 
-#Translate by BlackViper_
+    # game/code/classes/player_controller.rpy:26
+    old "You bought [name!t] for $[cost]"
+    new "Tu as acheté [name!t] pour $[cost]"
 

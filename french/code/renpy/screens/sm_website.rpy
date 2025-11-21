@@ -48,5 +48,7 @@
     old "Tags"
     new "Tags"
 
-#Translate by BlackViper_
+    # game/code/renpy/screens/sm_website.rpy:84
+    old "Stop Movie"
+    new "Arrêter le film"
 

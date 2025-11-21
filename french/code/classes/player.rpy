@@ -24,5 +24,15 @@
     old "You just improved in topic"
     new "Tu viens de progresser dans le sujet"
 
-#Translate by BlackViper_
+    # game/code/classes/player.rpy:106
+    old "You just got $[amount]"
+    new "Tu viens de recevoir $[amount]"
+
+    # game/code/classes/player.rpy:116
+    old "You spent $[amount]"
+    new "Tu as dépensé $[amount]"
+
+    # game/code/classes/player.rpy:413
+    old "You have improved in topic [topic!t]"
+    new "Tu as progressé dans le sujet [topic!t]"
 

@@ -8,8 +8,6 @@
     old "No saves found!"
     new "Keine Speicherstände gefunden!"
 
-translate deutsch strings:
-
     # game/code/renpy/screens/save.rpy:51
     old "Saves For Chapter [chapter]"
     new "Speicherstände für Kapitel [chapter]"
@@ -17,8 +15,6 @@ translate deutsch strings:
     # game/code/renpy/screens/save.rpy:51
     old "Saves From Chapter [chapter]"
     new "Speicherstände aus Kapitel [chapter]"
-
-translate deutsch strings:
 
     # game/code/renpy/screens/save.rpy:20
     old "Congratulations! You completed all storylines!"
@@ -47,3 +43,16 @@ translate deutsch strings:
     # game/code/renpy/screens/save.rpy:184
     old "Saves From Season [season]"
     new "Speicherstände von Season [season]"
+
+    # game/code/renpy/screens/save.rpy:113
+    old "You completed 100% of the game!"
+    new "Du hast 100% des Spiels abgeschlossen!"
+
+    # game/code/renpy/screens/save.rpy:115
+    old "You finished the main story!"
+    new "Du hast die Hauptgeschichte abgeschlossen!"
+
+    # game/code/renpy/screens/save.rpy:118
+    old "You can continue to play the game and save later from your phone as well."
+    new "Du kannst das Spiel weiterhin spielen und später auch von deinem Handy aus speichern."
+
