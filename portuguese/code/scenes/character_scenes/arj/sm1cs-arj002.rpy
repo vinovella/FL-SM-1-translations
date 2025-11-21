@@ -914,7 +914,7 @@ translate portuguese sm1cs_arj002_378bcd4e:
 translate portuguese sm1cs_arj002_278b258f:
 
     # "Stacy and [mcname]" "*laughing*"
-    "Stacy and [mcname]" "*rindo*"
+    "Stacy e [mcname]" "*rindo*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:519
 translate portuguese sm1cs_arj002_7d6379a5:
@@ -1634,7 +1634,7 @@ translate portuguese sm1cs_arj002_229e63fb:
 translate portuguese sm1cs_arj002_b42913a4:
 
     # arj "Fuccc-kahaa-hraaaiieee!"
-    arj "Fuccc-kahaa-hraaaiieee!"
+    arj "Porr-kahaa-hraaaiieee!"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:854
 translate portuguese sm1cs_arj002_71d29dbf:
