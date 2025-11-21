@@ -683,3 +683,4 @@ translate french sm1cs_arj001_5c2dddcf:
     arj "Et alors si je le fais ? {i}Personne{/i} ne devrait avoir la clé USB.."
 
 #Translate by BlackViper_
+

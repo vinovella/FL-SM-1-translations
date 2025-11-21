@@ -1291,3 +1291,4 @@ translate french strings:
     new "Soutenir Min"
 
 #Translate by BlackViper_
+

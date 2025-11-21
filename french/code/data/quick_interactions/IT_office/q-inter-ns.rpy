@@ -1235,3 +1235,4 @@ translate french q_inter_ns_51_640f754e:
     mct "J’oublie toujours que Nari est un peu spéciale."
 
 #Translate by BlackViper_
+

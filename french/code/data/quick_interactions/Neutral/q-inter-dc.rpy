@@ -287,3 +287,4 @@ translate french q_inter_dc_14_9ddb8cfd:
     dc "J’espérais vraiment que tu dirais ça."
 
 #Translate by BlackViper_
+

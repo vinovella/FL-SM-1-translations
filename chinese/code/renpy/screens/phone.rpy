@@ -44,3 +44,7 @@
     old "Save for Season 2"
     new "保存第二季"
 
+    # game/code/renpy/screens/phone.rpy:88
+    old "Settings{#phone_button}"
+    new "设置{#phone_button}"
+

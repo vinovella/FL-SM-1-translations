@@ -921,3 +921,4 @@ translate french strings:
     new "Non, je pensais juste que tu pourrais avoir besoin d'une pause"
 
 #Translate by BlackViper_
+

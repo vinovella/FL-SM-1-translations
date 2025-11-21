@@ -161,3 +161,4 @@ translate french sm1cs_sy002i_first_time_fe6569c6:
     mct "Oh putain... c'est parti."
 
 #Translate by BlackViper_
+

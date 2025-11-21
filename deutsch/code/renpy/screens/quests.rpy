@@ -23,3 +23,4 @@
     # game/code/renpy/screens/quests.rpy:76
     old "Go to character page"
     new "Zur Charakter Seite gehen"
+

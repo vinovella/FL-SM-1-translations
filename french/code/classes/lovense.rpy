@@ -5,3 +5,4 @@
     new "La connexion avec le sextoy Lovense a échoué ! Veuillez aller dans les paramètres pour le reconfigurer"
 
 #Translate by BlackViper_
+

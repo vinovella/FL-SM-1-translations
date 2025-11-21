@@ -113,3 +113,4 @@ translate french q_inter_sr_4_6dd1d47e:
     sr "On se fait bombarder par un DDoS depuis ce matin. Dieu merci, on avait fait tester le système par April quand on l’a mis en place."
 
 #Translate by BlackViper_
+

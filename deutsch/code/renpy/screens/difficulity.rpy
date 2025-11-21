@@ -57,3 +57,4 @@ translate deutsch strings:
     # game/code/renpy/screens/difficulity.rpy:54
     old "A streamlined experience focusing on narrative"
     new "Ein optimiertes Nutzererlebnis mit Fokus auf die Erzählung"
+

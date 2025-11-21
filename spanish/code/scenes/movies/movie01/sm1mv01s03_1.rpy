@@ -441,3 +441,4 @@ translate spanish strings:
     # game/code/scenes/movies/movie01/sm1mv01s03_1.rpy:172
     old "Two mind-numbing hours later"
     new "Dos horas insoportables después"
+

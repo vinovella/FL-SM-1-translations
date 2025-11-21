@@ -233,3 +233,4 @@ translate french q_inter_bg_12_23bf452c:
     bg "Oh, waouh-euh- m-merci, [bg_mcname] !"
 
 #Translate by BlackViper_
+

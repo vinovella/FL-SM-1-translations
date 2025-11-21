@@ -104,13 +104,13 @@ translate italian sm1mv01s07_2_70358473:
 translate italian sm1mv01s07_2_8b1c74fa:
 
     # kv "I hope so."
-    kv "I hope so."
+    kv "Lo spero."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:78
 translate italian sm1mv01s07_2_626abf51:
 
     # tl "Come on, slowpokes. The open road beckons."
-    tl "Come on, slowpokes. The open road beckons."
+    tl "Forza, lumaconi. La strada aperta ci chiama."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:85
 translate italian sm1mv01s07_2_dc529be2:
@@ -128,7 +128,7 @@ translate italian sm1mv01s07_2_5d8fc6e7:
 translate italian sm1mv01s07_2_ac313e1f:
 
     # tl "Buckle up, cuties. We gotta beat the morning traffic."
-    tl "Buckle up, cuties. We gotta beat the morning traffic."
+    tl "Allacciate le cinture, tesori. Dobbiamo battere il traffico mattutino."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:94
 translate italian sm1mv01s07_2_f6fca36d:
@@ -164,13 +164,13 @@ translate italian sm1mv01s07_2_2a75b09a:
 translate italian sm1mv01s07_2_f740c315:
 
     # tl "I know these roads like the shape of my nipples."
-    tl "I know these roads like the shape of my nipples."
+    tl "Conosco queste strade come la forma dei miei capezzoli."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:112
 translate italian sm1mv01s07_2_9e578b91:
 
     # kv "We are so dead."
-    kv "We are so dead."
+    kv "Siamo morti."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:133
 translate italian sm1mv01s07_2_d3168d38:
@@ -206,13 +206,13 @@ translate italian sm1mv01s07_2_14f46a46:
 translate italian sm1mv01s07_2_3023cac5:
 
     # tl "I might get another tattoo."
-    tl "I might get another tattoo."
+    tl "Potrei farmi un altro tatuaggio."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:145
 translate italian sm1mv01s07_2_8d2ffd8d:
 
     # tl "Or a Konda. Always wanted one of those?"
-    tl "Or a Konda. Always wanted one of those?"
+    tl "O una Konda. Ne ho sempre voluta una di quelle?"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:148
 translate italian sm1mv01s07_2_de6e26b3:
@@ -224,7 +224,7 @@ translate italian sm1mv01s07_2_de6e26b3:
 translate italian sm1mv01s07_2_4a89f07a:
 
     # tl "Top of the line motorcycle. A girl gets tired of {i}borrowing{/i} inferior motor vehicles, heh."
-    tl "Top of the line motorcycle. A girl gets tired of {i}borrowing{/i} inferior motor vehicles, heh."
+    tl "Una moto di prim'ordine. Una ragazza si stanca di {i}prendere in prestito{/i} veicoli a motore inferiori, eh."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:152
 translate italian sm1mv01s07_2_220814ec:
@@ -236,7 +236,7 @@ translate italian sm1mv01s07_2_220814ec:
 translate italian sm1mv01s07_2_42df98b8:
 
     # mc "Plus, less stealing."
-    mc "Plus, less stealing."
+    mc "Inoltre, meno furti."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:158
 translate italian sm1mv01s07_2_1e47f4f9:
@@ -272,7 +272,7 @@ translate italian sm1mv01s07_2_0041c90b:
 translate italian sm1mv01s07_2_525d9881:
 
     # mc "*sighs* Porn has gotten so stale, we're here to give it a shot in the arm."
-    mc "*sighs* Porn has gotten so stale, we're here to give it a shot in the arm."
+    mc "*sospira* Il porno è diventato così stantio, siamo qui per dargli una scossa."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:177
 translate italian sm1mv01s07_2_e0caf713:
@@ -290,7 +290,7 @@ translate italian sm1mv01s07_2_3c6b9f0f:
 translate italian sm1mv01s07_2_30b2eb84:
 
     # mc "We won't know until we try."
-    mc "We won't know until we try."
+    mc "Non lo sapremo finché non ci proviamo."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:184
 translate italian sm1mv01s07_2_b8c6b814:
@@ -320,7 +320,7 @@ translate italian sm1mv01s07_2_3c3c9296:
 translate italian sm1mv01s07_2_at_rental_27a17f4f:
 
     # kv "Well, it sure is cozy."
-    kv "Well, it sure is cozy."
+    kv "Beh, è sicuramente accogliente."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:209
 translate italian sm1mv01s07_2_at_rental_1ca6f519:
@@ -362,13 +362,13 @@ translate italian sm1mv01s07_2_at_rental_2abf4767:
 translate italian sm1mv01s07_2_at_rental_dbdfb91e:
 
     # sy "My man doesn't snore."
-    sy "My man doesn't snore."
+    sy "Il mio uomo non russa."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:229
 translate italian sm1mv01s07_2_at_rental_e5514d9f:
 
     # sy "Plus, he is always there to help out when I'm having trouble sleeping."
-    sy "Plus, he is always there to help out when I'm having trouble sleeping."
+    sy "Inoltre, è sempre lì ad aiutare quando ho problemi a dormire."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:230
 translate italian sm1mv01s07_2_at_rental_782318f1:
@@ -422,7 +422,7 @@ translate italian sm1mv01s07_2_at_rental_45b908a3:
 translate italian sm1mv01s07_2_at_rental_894728ea:
 
     # sy "Yup."
-    sy "Yup."
+    sy "Sì."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:263
 translate italian sm1mv01s07_2_at_rental_b193904c:
@@ -464,7 +464,7 @@ translate italian sm1mv01s07_2_at_rental_36d54956:
 translate italian sm1mv01s07_2_at_rental_8bf837c2:
 
     # mc "I guess it has been a busy time lately."
-    mc "I guess it has been a busy time lately."
+    mc "Immagino sia stato un periodo impegnativo ultimamente."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:283
 translate italian sm1mv01s07_2_at_rental_811f370d:
@@ -530,7 +530,7 @@ translate italian sm1mv01s07_2_at_beach_d99ebcce:
 translate italian sm1mv01s07_2_at_beach_f39f5a6f:
 
     # sy "I feel like the universe is watching out for us."
-    sy "I feel like the universe is watching out for us."
+    sy "Sento che l'universo si prende cura di noi."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:323
 translate italian sm1mv01s07_2_at_beach_62027c74:
@@ -542,13 +542,13 @@ translate italian sm1mv01s07_2_at_beach_62027c74:
 translate italian sm1mv01s07_2_at_beach_90f5c5c2:
 
     # mc "How's your swimsuit?"
-    mc "How's your swimsuit?"
+    mc "Come sta il tuo costume da bagno?"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:330
 translate italian sm1mv01s07_2_at_beach_e40b6926:
 
     # sy "Perfect."
-    sy "Perfect."
+    sy "Perfetto."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:331
 translate italian sm1mv01s07_2_at_beach_ab1a8702:
@@ -560,7 +560,7 @@ translate italian sm1mv01s07_2_at_beach_ab1a8702:
 translate italian sm1mv01s07_2_at_beach_52d2d321:
 
     # mc "Damn. Gotta take it back then."
-    mc "Damn. Gotta take it back then."
+    mc "Accidenti. Devo riportarlo indietro allora."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:336
 translate italian sm1mv01s07_2_at_beach_64317f77:
@@ -578,7 +578,7 @@ translate italian sm1mv01s07_2_at_beach_8aded7f9:
 translate italian sm1mv01s07_2_at_beach_3359e9ff:
 
     # mc "Damn straight."
-    mc "Damn straight."
+    mc "Assolutamente sì."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:347
 translate italian sm1mv01s07_2_at_beach_2ccd15cf:
@@ -626,13 +626,13 @@ translate italian sm1mv01s07_2_at_beach_8db23525:
 translate italian sm1mv01s07_2_at_beach_60a3f701:
 
     # kv "Come on, [mcname]. You can't just spend all your energy with Stacy today."
-    kv "Come on, [mcname]. You can't just spend all your energy with Stacy today."
+    kv "Forza, [mcname]. Non puoi spendere tutte le tue energie con Stacy oggi."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:370
 translate italian sm1mv01s07_2_at_beach_fd209ee6:
 
     # kv "We've still got plenty of {i}filming{/i} to do."
-    kv "We've still got plenty of {i}filming{/i} to do."
+    kv "Abbiamo ancora un sacco di {i}riprese{/i} da fare."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:374
 translate italian sm1mv01s07_2_at_beach_5625c3d6:
@@ -662,13 +662,13 @@ translate italian sm1mv01s07_2_at_beach_c8d5c17b:
 translate italian sm1mv01s07_2_at_beach_5d9753ea:
 
     # kv "Come on, there is plenty of ways for us to relax together."
-    kv "Come on, there is plenty of ways for us to relax together."
+    kv "Dai, ci sono un sacco di modi per rilassarci insieme."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:389
 translate italian sm1mv01s07_2_at_beach_4dc388a6:
 
     # sy "Send it here, Kanya."
-    sy "Send it here, Kanya."
+    sy "Mandala qui, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:397
 translate italian sm1mv01s07_2_at_beach_b4c557c0:
@@ -680,7 +680,7 @@ translate italian sm1mv01s07_2_at_beach_b4c557c0:
 translate italian sm1mv01s07_2_at_beach_4136c931:
 
     # tl "*screams*"
-    tl "*screams*"
+    tl "*urla*"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:406
 translate italian sm1mv01s07_2_at_beach_ea7f3b2a:
@@ -692,13 +692,13 @@ translate italian sm1mv01s07_2_at_beach_ea7f3b2a:
 translate italian sm1mv01s07_2_at_beach_b0ca414a:
 
     # kv "*laughing*"
-    kv "*laughing*"
+    kv "*ride*"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:412
 translate italian sm1mv01s07_2_at_beach_7a694e35:
 
     # sy "*laughing*"
-    sy "*laughing*"
+    sy "*ride*"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:415
 translate italian sm1mv01s07_2_at_beach_a0b24fd4:
@@ -710,25 +710,25 @@ translate italian sm1mv01s07_2_at_beach_a0b24fd4:
 translate italian sm1mv01s07_2_at_beach_a059bead:
 
     # tl "Cheers to the S&M Studio!"
-    tl "Cheers to the S&M Studio!"
+    tl "Cin cin allo S&M Studio!"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:435
 translate italian sm1mv01s07_2_at_beach_8881960e:
 
     # tl "May we make a movie hot enough for dudes and dudeetes to cream their shorts."
-    tl "May we make a movie hot enough for dudes and dudeetes to cream their shorts."
+    tl "Che possiamo fare un film abbastanza bollente da far venire i ragazzi e le ragazze nei loro pantaloncini."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:438
 translate italian sm1mv01s07_2_at_beach_7baabd93:
 
     # kv "Hahaha. So coarse."
-    kv "Hahaha. So coarse."
+    kv "Hahaha. Così volgare."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:441
 translate italian sm1mv01s07_2_at_beach_5881c681:
 
     # sy "I'll drink to that."
-    sy "I'll drink to that."
+    sy "Brindo a questo."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:443
 translate italian sm1mv01s07_2_at_beach_c2910b93:
@@ -746,7 +746,7 @@ translate italian sm1mv01s07_2_at_beach_b6509d8e:
 translate italian sm1mv01s07_2_at_beach_5881c681_1:
 
     # sy "I'll drink to that."
-    sy "I'll drink to that."
+    sy "Brindo a questo."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:450
 translate italian sm1mv01s07_2_at_beach_982b60fe:
@@ -764,7 +764,7 @@ translate italian sm1mv01s07_2_at_beach_637c34cc:
 translate italian sm1mv01s07_2_at_beach_2cfe042f:
 
     # tl "Sure beats another weekend at the studio, don't it."
-    tl "Sure beats another weekend at the studio, don't it."
+    tl "Meglio di un altro fine settimana in studio, vero."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:463
 translate italian sm1mv01s07_2_at_beach_536a3f25:
@@ -782,7 +782,7 @@ translate italian sm1mv01s07_2_at_beach_49243a37:
 translate italian sm1mv01s07_2_at_beach_51827365:
 
     # kv "And I knew it would never be boring."
-    kv "And I knew it would never be boring."
+    kv "E sapevo che non sarebbe mai stato noioso."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:468
 translate italian sm1mv01s07_2_at_beach_62481fbd:
@@ -812,7 +812,7 @@ translate italian sm1mv01s07_2_at_beach_689806c8:
 translate italian sm1mv01s07_2_at_beach_45abb6f6:
 
     # mc "I bet Jugsy would be interested."
-    mc "I bet Jugsy would be interested."
+    mc "Scommetto che Jugsy sarebbe interessato."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:483
 translate italian sm1mv01s07_2_at_beach_8b3b13bf:
@@ -836,19 +836,19 @@ translate italian sm1mv01s07_2_at_beach_465ae2ad:
 translate italian sm1mv01s07_2_at_beach_63f688d5:
 
     # tl "Well I appreciate your honesty."
-    tl "Well I appreciate your honesty."
+    tl "Beh, apprezzo la tua onestà."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:493
 translate italian sm1mv01s07_2_at_beach_6d9b1bdd:
 
     # tl "I'll be better."
-    tl "I'll be better."
+    tl "Farò meglio."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:496
 translate italian sm1mv01s07_2_at_beach_c27430d2:
 
     # tl "Serious."
-    tl "Serious."
+    tl "Sul serio."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:497
 translate italian sm1mv01s07_2_at_beach_5028988e:
@@ -860,7 +860,7 @@ translate italian sm1mv01s07_2_at_beach_5028988e:
 translate italian sm1mv01s07_2_at_beach_e2fc4d57:
 
     # mct "She sounds sincere."
-    mct "She sounds sincere."
+    mct "Sembra sincera."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:501
 translate italian sm1mv01s07_2_at_beach_b77ca1d5:
@@ -890,7 +890,7 @@ translate italian sm1mv01s07_2_at_beach_277aa36b:
 translate italian sm1mv01s07_2_at_beach_a94a66fb:
 
     # tl "Thanks, [mcname]."
-    tl "Thanks, [mcname]."
+    tl "Grazie, [mcname]."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:520
 translate italian sm1mv01s07_2_at_beach_8d93e47e:

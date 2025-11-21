@@ -815,3 +815,4 @@ translate french sm1cs_ag003_e50bff0e:
     ag "Merci ! Ça fait un moment que j'ai besoin d'aller aux toilettes, mais je déteste laisser mes affaires sans surveillance. Je reviens tout de suite !"
 
 #Translate by BlackViper_
+

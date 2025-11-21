@@ -464,7 +464,7 @@ translate italian sm1fs_t001_e7a6434d:
 translate italian sm1fs_t001_68928212:
 
     # "Scary Clown" "GAAAAAAAHHHHHH!!!!!"
-    "Scary Clown" "GAAAAAAAHHHHHH!!!!!"
+    "Clown Spaventoso" "GAAAAAAAHHHHHH!!!!!"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:277
 translate italian sm1fs_t001_02b74418:

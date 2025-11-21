@@ -1244,19 +1244,19 @@ translate turkish sm1cs_my005_after_movie_1eb94be0:
 translate turkish sm1cs_my005_after_movie_d488b63d:
 
     # my "Absolutely not. Good night, [mcname]."
-    my "Absolutely not. Good night, [mcname]."
+    my "Kesinlikle hayır. İyi geceler, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:529
 translate turkish sm1cs_my005_after_movie_6bef1b02:
 
     # mc "Good night, Mom."
-    mc "Good night, Mom."
+    mc "İyi geceler, Anne."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:531
 translate turkish sm1cs_my005_after_movie_3a4ce0bd:
 
     # mc "Good night, Melony."
-    mc "Good night, Melony."
+    mc "İyi geceler, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:539
 translate turkish sm1cs_my005_after_movie_4a7a48b3:

@@ -87,3 +87,4 @@ translate french strings:
     new "Finalement, j’ai quelque chose à faire"
 
 #Translate by BlackViper_
+

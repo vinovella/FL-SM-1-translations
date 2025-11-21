@@ -11,3 +11,4 @@ translate french sm1cs_cw003i_dd91e56f:
     mc "Tu te souviens de la patronne de ma patronne, Claire ?"
 
 #Translate by BlackViper_
+

@@ -777,3 +777,4 @@ translate spanish sm1mv01s04_7816b969:
 
     # tl "But that doesn't mean that it won't fucking hurt if you hit someone with it."
     mct "Pero eso no significa que no dolerá un carajo si golpeas a alguien con ella."
+

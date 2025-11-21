@@ -927,3 +927,4 @@ translate french strings:
     new "De rien, Mme Watts"
 
 #Translate by BlackViper_
+

@@ -95,3 +95,4 @@ translate french q_inter_mj_3_eadd033a:
     mj "En fait, je vais juste en parler à Anna ! Voir si elle peut convaincre April d’abandonner aussi."
 
 #Translate by BlackViper_
+

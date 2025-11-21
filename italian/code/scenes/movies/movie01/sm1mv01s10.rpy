@@ -386,43 +386,43 @@ translate italian sm1mv01s10_5db0e73d:
 translate italian sm1mv01s10_91cfbd65:
 
     # tl "It's a shame we can't go out to the beach, I wouldn't mind a little bit of skinny dipping."
-    tl "It's a shame we can't go out to the beach, I wouldn't mind a little bit of skinny dipping."
+    tl "Peccato che non possiamo andare in spiaggia, non mi dispiacerebbe un po' di nuoto in costume adamitico."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:211
 translate italian sm1mv01s10_c13b7cbf:
 
     # kv "You have the energy to go swimming?"
-    kv "You have the energy to go swimming?"
+    kv "Hai l'energia per andare a nuotare?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:213
 translate italian sm1mv01s10_dfed7677:
 
     # tl "Yeah, but it's a lot less fun in the dark."
-    tl "Yeah, but it's a lot less fun in the dark."
+    tl "Sì, ma è molto meno divertente al buio."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:216
 translate italian sm1mv01s10_37a6ce5b:
 
     # sy "Mmmmm, swimming sounds nice..."
-    sy "Mmmmm, swimming sounds nice..."
+    sy "Mmmmm, nuotare sembra bello..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:219
 translate italian sm1mv01s10_eeaf23c0:
 
     # mc "When do we have to check out tomorrow morning?"
-    mc "When do we have to check out tomorrow morning?"
+    mc "A che ora dobbiamo fare il check-out domani mattina?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:221
 translate italian sm1mv01s10_33cffd75:
 
     # sy "Like... 10, or something."
-    sy "Like... 10, or something."
+    sy "Tipo... alle 10, o qualcosa del genere."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:224
 translate italian sm1mv01s10_559c6906:
 
     # mc "Cool, I'll make sure our bags are packed."
-    mc "Cool, I'll make sure our bags are packed."
+    mc "Bene, mi assicurerò che le nostre borse siano pronte."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:226
 translate italian sm1mv01s10_07ebb28c:
@@ -458,43 +458,43 @@ translate italian sm1mv01s10_f702eb96:
 translate italian sm1mv01s10_05c889ef:
 
     # kv "She's passed out."
-    kv "She's passed out."
+    kv "È svenuta."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:242
 translate italian sm1mv01s10_5828e29a:
 
     # mc "That's not a surprise. She had a long day."
-    mc "That's not a surprise. She had a long day."
+    mc "Non è una sorpresa. Ha avuto una lunga giornata."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:244
 translate italian sm1mv01s10_d255e538:
 
     # tl "She did."
-    tl "She did."
+    tl "Infatti."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:248
 translate italian sm1mv01s10_a35f50c9:
 
     # mc "Taisia? What are you doing?"
-    mc "Taisia? What are you doing?"
+    mc "Taisia? Cosa stai facendo?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:251
 translate italian sm1mv01s10_f9b40975:
 
     # tl "Well, I started thinking about it, and I want to go for a swim."
-    tl "Well, I started thinking about it, and I want to go for a swim."
+    tl "Beh, ci ho pensato, e voglio andare a nuotare."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:253
 translate italian sm1mv01s10_4b0bb92e:
 
     # mc "You... what?"
-    mc "You... what?"
+    mc "Tu... cosa?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:256
 translate italian sm1mv01s10_998150fa:
 
     # tl "I'm going to go skinny dipping. It honestly sounds really nice right now."
-    tl "I'm going to go skinny dipping. It honestly sounds really nice right now."
+    tl "Vado a fare il bagno nuda. Onestamente suona davvero bene proprio ora."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:258
 translate italian sm1mv01s10_3c2ecae9:
@@ -506,115 +506,115 @@ translate italian sm1mv01s10_3c2ecae9:
 translate italian sm1mv01s10_06121127:
 
     # tl "I'll be back in a bit."
-    tl "I'll be back in a bit."
+    tl "Torno tra poco."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:266
 translate italian sm1mv01s10_b9e038ce:
 
     # kv "Man... she's a wild one."
-    kv "Man... she's a wild one."
+    kv "Cavolo... è davvero pazza."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:269
 translate italian sm1mv01s10_0d3ab816:
 
     # mc "That she is."
-    mc "That she is."
+    mc "Lo è davvero."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:270
 translate italian sm1mv01s10_e76a473c:
 
     # mc "But, I think there's... something more beneath the surface."
-    mc "But, I think there's... something more beneath the surface."
+    mc "Ma, penso che ci sia... qualcosa di più sotto la superficie."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:272
 translate italian sm1mv01s10_6d10b029:
 
     # kv "If you say so."
-    kv "If you say so."
+    kv "Se lo dici tu."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:275
 translate italian sm1mv01s10_75a58159:
 
     # kv "I think with Taisia, what you see is what you get."
-    kv "I think with Taisia, what you see is what you get."
+    kv "Penso che con Taisia, quello che vedi è quello che ottieni."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:276
 translate italian sm1mv01s10_4990b44f:
 
     # kv "Loud, proud, a bit of a bitch, but also a trooper."
-    kv "Loud, proud, a bit of a bitch, but also a trooper."
+    kv "Rumorosa, orgogliosa, un po' stronza, ma anche una tosta."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:278
 translate italian sm1mv01s10_2dea3606:
 
     # mc "Yeah that sounds right. But I still think there is a little more to her."
-    mc "Yeah that sounds right. But I still think there is a little more to her."
+    mc "Sì, sembra giusto. Ma penso ancora che ci sia qualcosa di più in lei."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:281
 translate italian sm1mv01s10_0c31237b:
 
     # mc "So, what do you think of... everything?"
-    mc "So, what do you think of... everything?"
+    mc "Allora, cosa ne pensi di... tutto?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:283
 translate italian sm1mv01s10_9f52b3df:
 
     # kv "Like, how I think the shoot went?"
-    kv "Like, how I think the shoot went?"
+    kv "Tipo, come penso sia andata la ripresa?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:286
 translate italian sm1mv01s10_295d7af0:
 
     # mc "Yeah. And I mean, the movie as a whole."
-    mc "Yeah. And I mean, the movie as a whole."
+    mc "Sì. E intendo, il film nel complesso."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:288
 translate italian sm1mv01s10_f2b5c386:
 
     # kv "It was good, definitely good."
-    kv "It was good, definitely good."
+    kv "È stato buono, decisamente buono."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:291
 translate italian sm1mv01s10_98bcc197:
 
     # mc "But?"
-    mc "But?"
+    mc "Ma?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:293
 translate italian sm1mv01s10_5c3c2a98:
 
     # kv "But, there's definitely some things we need to improve in the future."
-    kv "But, there's definitely some things we need to improve in the future."
+    kv "Ma, ci sono sicuramente alcune cose che dobbiamo migliorare in futuro."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:294
 translate italian sm1mv01s10_b3e4e9e0:
 
     # mc "Like?"
-    mc "Like?"
+    mc "Tipo?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:302
 translate italian sm1mv01s10_2944d15d:
 
     # kv "Like a better camera, a sound person... maybe a slightly longer schedule so we're not working the craziest day ever."
-    kv "Like a better camera, a sound person... maybe a slightly longer schedule so we're not working the craziest day ever."
+    kv "Come una fotocamera migliore, una persona per il suono... forse un programma leggermente più lungo così non lavoriamo il giorno più folle di sempre."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:304
 translate italian sm1mv01s10_2193cb15:
 
     # mc "Yeah, that's a good point..."
-    mc "Yeah, that's a good point..."
+    mc "Sì, è un buon punto..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:306
 translate italian sm1mv01s10_a34c7456:
 
     # kv "But, you've come a long way since you first stumbled into my studio."
-    kv "But, you've come a long way since you first stumbled into my studio."
+    kv "Ma, hai fatto molta strada da quando sei entrato per la prima volta nel mio studio."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:309
 translate italian sm1mv01s10_d764e5e3:
 
     # mc "Hey! I didn't stumble in!"
-    mc "Hey! I didn't stumble in!"
+    mc "Ehi! Non sono inciampato!"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:311
 translate italian sm1mv01s10_74b6a16c:
@@ -626,91 +626,91 @@ translate italian sm1mv01s10_74b6a16c:
 translate italian sm1mv01s10_e02778a5:
 
     # mc "I know what you mean."
-    mc "I know what you mean."
+    mc "Capisco cosa intendi."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:315
 translate italian sm1mv01s10_9ab27c1f:
 
     # kv "I'm sure once the money comes in we can start to work on some of these other things, it'll get easier."
-    kv "I'm sure once the money comes in we can start to work on some of these other things, it'll get easier."
+    kv "Sono sicura che una volta che arriveranno i soldi potremo iniziare a lavorare su alcune di queste altre cose, diventerà più facile."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:318
 translate italian sm1mv01s10_b29dc19b:
 
     # kv "And the gear will get better too."
-    kv "And the gear will get better too."
+    kv "E anche l'attrezzatura migliorerà."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:320
 translate italian sm1mv01s10_7e7022dc:
 
     # mc "God, I hope so..."
-    mc "God, I hope so..."
+    mc "Dio, lo spero..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:324
 translate italian sm1mv01s10_0cf294a3:
 
     # kv "Speaking of a long day, I am fucking wiped. I'm heading to bed."
-    kv "Speaking of a long day, I am fucking wiped. I'm heading to bed."
+    kv "Parlando di una lunga giornata, sono stanca morta. Vado a letto."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:328
 translate italian sm1mv01s10_616c26a7:
 
     # kv "I'll be up bright and early for the car ride. See you in the morning, [mcname]."
-    kv "I'll be up bright and early for the car ride. See you in the morning, [mcname]."
+    kv "Sarò sveglia presto per il viaggio in auto. Ci vediamo domattina, [mcname]."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:330
 translate italian sm1mv01s10_53a73253:
 
     # mc "See you in the morning, Kanya."
-    mc "See you in the morning, Kanya."
+    mc "Ci vediamo domattina, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:335
 translate italian sm1mv01s10_f3e004ab:
 
     # mct "Man, I'm exhausted..."
-    mct "Man, I'm exhausted..."
+    mct "Cavolo, sono esausto..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:336
 translate italian sm1mv01s10_d06670f8:
 
     # mct "Who knew sex could be so much work?"
-    mct "Who knew sex could be so much work?"
+    mct "Chi sapeva che il sesso potesse essere così faticoso?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:340
 translate italian sm1mv01s10_ff72053a:
 
     # mct "I should head to bed... but Taisia is still out on the beach."
-    mct "I should head to bed... but Taisia is still out on the beach."
+    mct "Dovrei andare a letto... ma Taisia è ancora sulla spiaggia."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:342
 translate italian sm1mv01s10_61b65bd0:
 
     # mct "Maybe... I should check on her, make sure everything's okay."
-    mct "Maybe... I should check on her, make sure everything's okay."
+    mct "Forse... dovrei controllare come sta, assicurarmi che vada tutto bene."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:355
 translate italian sm1mv01s10_ca510f20:
 
     # mct "Hmmm... I wonder where she could be..."
-    mct "Hmmm... I wonder where she could be..."
+    mct "Hmmm... mi chiedo dove possa essere..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:356
 translate italian sm1mv01s10_5c7a6ec1:
 
     # mct "I hope she didn't wander off too far..."
-    mct "I hope she didn't wander off too far..."
+    mct "Spero che non si sia allontanata troppo..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:360
 translate italian sm1mv01s10_e22c7f02:
 
     # mct "Wait, is that...?"
-    mct "Wait, is that...?"
+    mct "Aspetta, è quella...?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:363
 translate italian sm1mv01s10_a83e6fd7:
 
     # mct "It is. A smile on Taisia."
-    mct "It is. A smile on Taisia."
+    mct "Sì. Un sorriso su Taisia."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:367
 translate italian sm1mv01s10_124b3074:
@@ -728,7 +728,7 @@ translate italian sm1mv01s10_a95cfbed:
 translate italian sm1mv01s10_b9da7ef4:
 
     # tl "Everything okay?"
-    tl "Everything okay?"
+    tl "Tutto okay?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:375
 translate italian sm1mv01s10_0972c153:
@@ -740,25 +740,25 @@ translate italian sm1mv01s10_0972c153:
 translate italian sm1mv01s10_829e0aab:
 
     # tl "What's up?"
-    tl "What's up?"
+    tl "Che succede?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:379
 translate italian sm1mv01s10_2d06f7f3:
 
     # mc "I just... don't think I've ever seen you smile so wide before. Except maybe when you're a clown."
-    mc "I just... don't think I've ever seen you smile so wide before. Except maybe when you're a clown."
+    mc "È solo che... non penso di averti mai visto sorridere così tanto prima. Tranne forse quando sei un clown."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:382
 translate italian sm1mv01s10_fb047b2a:
 
     # tl "Oh, uhm... what can I say? I really like skinny dipping."
-    tl "Oh, uhm... what can I say? I really like skinny dipping."
+    tl "Oh, uhm... cosa posso dire? Mi piace davvero fare il bagno nuda."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:384
 translate italian sm1mv01s10_3f6e38d6:
 
     # mc "I can see that."
-    mc "I can see that."
+    mc "Lo vedo."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:387
 translate italian sm1mv01s10_b4bde762:
@@ -770,59 +770,59 @@ translate italian sm1mv01s10_b4bde762:
 translate italian sm1mv01s10_5bfe9276:
 
     # tl "So, what brings you out here?"
-    tl "So, what brings you out here?"
+    tl "Allora, cosa ti porta qui fuori?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:392
 translate italian sm1mv01s10_79c35926:
 
     # mc "Just wanted to check in on you."
-    mc "Just wanted to check in on you."
+    mc "Volevo solo controllare come stai."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:395
 translate italian sm1mv01s10_003cb70d:
 
     # tl "Oh, well I'm all good. Just finished up my swim and was going to head back in a sec."
-    tl "Oh, well I'm all good. Just finished up my swim and was going to head back in a sec."
+    tl "Oh, beh sto benissimo. Ho appena finito di nuotare e stavo per tornare tra un secondo."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:397
 translate italian sm1mv01s10_605a79d9:
 
     # mc "Cool, you want me to walk you back?"
-    mc "Cool, you want me to walk you back?"
+    mc "Bene, vuoi che ti accompagni indietro?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:400
 translate italian sm1mv01s10_a1053303:
 
     # tl "Nah, I'll be back in a sec... I jus want to listen to the ocean for a little bit more."
-    tl "Nah, I'll be back in a sec... I jus want to listen to the ocean for a little bit more."
+    tl "Nah, torno tra un secondo... voglio solo ascoltare l'oceano ancora un po'."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:402
 translate italian sm1mv01s10_c54711dc:
 
     # mc "Cool, sounds good."
-    mc "Cool, sounds good."
+    mc "Bene, va bene."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:408
 translate italian sm1mv01s10_76093c23:
 
     # mc "Oh, and we've gotta' leave by like 10 tomorrow."
-    mc "Oh, and we've gotta' leave by like 10 tomorrow."
+    mc "Oh, e dobbiamo partire tipo alle 10 domani."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:410
 translate italian sm1mv01s10_4e156e2c:
 
     # tl "Sounds good."
-    tl "Sounds good."
+    tl "Va bene."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:413
 translate italian sm1mv01s10_f78a3def:
 
     # mc "Night, Taisia."
-    mc "Night, Taisia."
+    mc "Buonanotte, Taisia."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:415
 translate italian sm1mv01s10_b6cf5280:
 
     # tl "Good night, [mcname]."
-    tl "Good night, [mcname]."
+    tl "Buonanotte, [mcname]."
 

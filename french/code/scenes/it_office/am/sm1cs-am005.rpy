@@ -1133,3 +1133,4 @@ translate french strings:
     new "Ne pas insister"
 
 #Translate by BlackViper_
+

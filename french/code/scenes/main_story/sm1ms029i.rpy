@@ -1,4 +1,3 @@
-
 #Translate by BlackViper_
 
 # game/code/scenes/main_story/sm1ms029i.rpy:6
