@@ -26,7 +26,7 @@ translate chinese sm1cs_mas004_722d6b62:
 translate chinese sm1cs_mas004_9d6553a6:
 
     # "Rocco" "That's what happens when you betray the noble sausage for rabbit food, Nelson!"
-    "Rocco" "这就是你背叛高贵的香肠去吃兔子食物的下场，纳尔逊！"
+    "罗科" "这就是你背叛高贵的香肠去吃兔子食物的下场，纳尔逊！"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:24
 translate chinese sm1cs_mas004_b8966c2a:
@@ -392,19 +392,19 @@ translate chinese sm1cs_mas004_after_lunch_6f202f38:
 translate chinese sm1cs_mas004_after_lunch_74f5cdd2:
 
     # "Rocco" "Oh lord tell me you two are not about to mess up my kitchen!"
-    "Rocco" "天哪，告诉我你们俩不会把我的厨房搞得一团糟吧！"
+    "罗科" "天哪，告诉我你们俩不会把我的厨房搞得一团糟吧！"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:299
 translate chinese sm1cs_mas004_after_lunch_761e5ca5:
 
     # "Rocco" "You lucky you're not my kids or I'd have my foot halfway up your ass!"
-    "Rocco" "幸好你们不是我的孩子，不然我早就踢爆你们的屁股了！"
+    "罗科" "幸好你们不是我的孩子，不然我早就踢爆你们的屁股了！"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:304
 translate chinese sm1cs_mas004_after_lunch_bc60a6bf:
 
     # "Rocco" "Now put those back! You already done wasted a brat!"
-    "Rocco" "现在把那些放回去！你们已经浪费了一根香肠了！"
+    "罗科" "现在把那些放回去！你们已经浪费了一根香肠了！"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:306
 translate chinese sm1cs_mas004_after_lunch_8f0868f2:
@@ -422,7 +422,7 @@ translate chinese sm1cs_mas004_after_lunch_a7d0f78a:
 translate chinese sm1cs_mas004_after_lunch_29684802:
 
     # "Rocco" "Little fun. Kids these days..."
-    "Rocco" "小玩笑。现在的年轻人..."
+    "罗科" "小玩笑。现在的年轻人..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:319
 translate chinese sm1cs_mas004_after_lunch_3de00da9:
@@ -482,7 +482,7 @@ translate chinese sm1cs_mas004_after_lunch_3b77945e:
 translate chinese sm1cs_mas004_after_lunch_1621c3d8:
 
     # "Rocco" "Hmmm."
-    "Rocco" "嗯。"
+    "罗科" "嗯。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:359
 translate chinese sm1cs_mas004_after_lunch_0eeedb0e:

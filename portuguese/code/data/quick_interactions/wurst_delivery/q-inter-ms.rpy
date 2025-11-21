@@ -448,12 +448,6 @@ translate portuguese q_inter_ms_30_29d0ef6a:
     # mct "That was... Kind of weird."
     mct "Isso foi... meio estranho."
 
-# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:331
-translate portuguese q_inter_ms_31_c5db7965:
-
-    # mc "How are you doing today?"
-    mc "Como você tá hoje?"
-
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:333
 translate portuguese q_inter_ms_31_80f21090:
 
