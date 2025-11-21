@@ -170,7 +170,7 @@ translate italian sm1cs_mes004_8bdf75af:
 translate italian sm1cs_mes004_bar_11452324:
 
     # mes "SHOTS!"
-    mes "SHOTS!"
+    mes "SHOTTINI!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:110
 translate italian sm1cs_mes004_bar_d3743bee:

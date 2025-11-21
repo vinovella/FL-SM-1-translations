@@ -446,7 +446,7 @@ translate italian sm1cs_dc002_f84d5712:
 translate italian sm1cs_dc002_4249f2b8:
 
     # dc "Partner."
-    dc "Partner."
+    dc "Compagna."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:317
 translate italian sm1cs_dc002_f5cf6530:
