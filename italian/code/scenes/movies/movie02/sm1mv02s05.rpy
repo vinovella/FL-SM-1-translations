@@ -530,7 +530,7 @@ translate italian sm1mv02s05_6f39857b:
 translate italian sm1mv02s05_257c29d2:
 
     # "[mcname] and Nari" "*chuckle*"
-    "[mcname] and Nari" "*chuckle*"
+    "[mcname] e Nari" "*ridacchiano*"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:331
 translate italian sm1mv02s05_25040fe9:

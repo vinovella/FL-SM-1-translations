@@ -86,7 +86,7 @@ translate italian sm1mv02s07b_01aef04f:
 translate italian sm1mv02s07b_254b3aeb:
 
     # "*DOOR OPENING NOISE*"
-    "*DOOR OPENING NOISE*"
+    "*RUMORE DI PORTA CHE SI APRE*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:105
 translate italian sm1mv02s07b_8195cecf:
@@ -122,7 +122,7 @@ translate italian sm1mv02s07b_bd259061:
 translate italian sm1mv02s07b_4a9155b0:
 
     # ns "Oh! Well, uhm..."
-    ns "Oh! Well, uhm..."
+    ns "Oh! Beh, uhm..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:123
 translate italian sm1mv02s07b_73edeb06:
@@ -152,13 +152,13 @@ translate italian sm1mv02s07b_00b65991:
 translate italian sm1mv02s07b_c12cfb43:
 
     # ns "Mine too!"
-    ns "Mine too!"
+    ns "Anche il mio!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:142
 translate italian sm1mv02s07b_807d9427:
 
     # mh "Very nice."
-    mh "Very nice."
+    mh "Molto bello."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:144
 translate italian sm1mv02s07b_904f1517:
@@ -170,7 +170,7 @@ translate italian sm1mv02s07b_904f1517:
 translate italian sm1mv02s07b_06835b6d:
 
     # mh "Good choice, [mcname]."
-    mh "Good choice, [mcname]."
+    mh "Buona scelta, [mcname]."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:150
 translate italian sm1mv02s07b_0fd0cac9:
@@ -572,7 +572,7 @@ translate italian sm1mv02s07b_e5056a47:
 translate italian sm1mv02s07b_9339daec:
 
     # mh "Please."
-    mh "Please."
+    mh "Prego."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:332
 translate italian sm1mv02s07b_3fdff5bf:
@@ -806,7 +806,7 @@ translate italian sm1mv02s07b_e623647c:
 translate italian sm1mv02s07b_ba2169e9:
 
     # mh "Oh god!"
-    mh "Oh god!"
+    mh "Oh dio!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:437
 translate italian sm1mv02s07b_12882903:
@@ -830,7 +830,7 @@ translate italian sm1mv02s07b_53dbb7d9:
 translate italian sm1mv02s07b_2fb8917a:
 
     # ns "Promise?"
-    ns "Promise?"
+    ns "Promesso?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:450
 translate italian sm1mv02s07b_4506c101:
@@ -1448,7 +1448,7 @@ translate italian sm1mv02s07b_no_watersports_5147d88d:
 translate italian sm1mv02s07b_no_watersports_383d7f94:
 
     # mh "Every drop... just like a good girl."
-    mh "Every drop... just like a good girl."
+    mh "Ogni goccia... proprio come una brava ragazza."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:743
 translate italian sm1mv02s07b_no_watersports_5e770005:
