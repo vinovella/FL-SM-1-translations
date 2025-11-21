@@ -1412,7 +1412,7 @@ translate turkish sm1cs_my003_continue_13958af6:
 translate turkish sm1cs_my003_continue_db7ffff6:
 
     # my "Wait, [mcname]-"
-    my "Wait, [mcname]-"
+    my "Bekle, [mcname]-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:710
 translate turkish sm1cs_my003_continue_37154a2a:
@@ -1628,11 +1628,11 @@ translate turkish strings:
 
     # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:475
     old "Try for the hold on your left!"
-    new "Try for the hold on your left!"
+    new "Soldaki tutamağı dene!"
 
     # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:475
     old "It looks like the right one is within reach!"
-    new "It looks like the right one is within reach!"
+    new "Sağdaki erişilebilir görünüyor!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:461
 translate turkish sm1cs_my003_at_gym_b2b93b59:

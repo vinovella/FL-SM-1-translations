@@ -1166,13 +1166,13 @@ translate turkish sm1cs_my006_hotel_room_80ba8c31:
 translate turkish sm1cs_my006_hotel_room_b9aac949:
 
     # my "And I love, {i}love{/i}-"
-    my "And I love, {i}love{/i}-"
+    my "Ve bayılıyorum, {i}bayılıyorum{/i}-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:511
 translate turkish sm1cs_my006_hotel_room_0b5bd8a2:
 
     # my "Fuck, [mcname], you're going to make me cum!"
-    my "Fuck, [mcname], you're going to make me cum!"
+    my "Siktir, [mcname], beni boşaltacaksın!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:514
 translate turkish sm1cs_my006_hotel_room_64812775:
@@ -1190,13 +1190,13 @@ translate turkish sm1cs_my006_hotel_room_152e5c4f:
 translate turkish sm1cs_my006_hotel_room_5c4f76ba:
 
     # my "Oh, I'm so close-"
-    my "Oh, I'm so close-"
+    my "Oh, çok yakınım-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:518
 translate turkish sm1cs_my006_hotel_room_3166038c:
 
     # mc "That's not an answer!"
-    mc "That's not an answer!"
+    mc "Bu bir cevap değil!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:520
 translate turkish sm1cs_my006_hotel_room_875e950c:
@@ -1208,13 +1208,13 @@ translate turkish sm1cs_my006_hotel_room_875e950c:
 translate turkish sm1cs_my006_hotel_room_c45ab108:
 
     # my "I love that it's {i}your{/i} cock, [mcname]!"
-    my "I love that it's {i}your{/i} cock, [mcname]!"
+    my "{i}Senin{/i} sikin olmasına bayılıyorum, [mcname]!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:522
 translate turkish sm1cs_my006_hotel_room_224d5bd1:
 
     # my "Oh, I've wanted you so badly!"
-    my "Oh, I've wanted you so badly!"
+    my "Oh, seni çok fena istiyordum!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:524
 translate turkish sm1cs_my006_hotel_room_31afa867:
@@ -1232,7 +1232,7 @@ translate turkish sm1cs_my006_hotel_room_b2062df5:
 translate turkish sm1cs_my006_hotel_room_b1600c80:
 
     # my "I-it made me so wet - fuuuuck - I'm almost there, [mcname]!"
-    my "I-it made me so wet - fuuuuck - I'm almost there, [mcname]!"
+    my "B-bu beni çok ıslattı - siktiiiir - neredeyse geldim, [mcname]!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:528
 translate turkish sm1cs_my006_hotel_room_cf35f696:
