@@ -1016,7 +1016,7 @@ translate chinese sm1cs_mes006_continue_307a2969:
 translate chinese sm1cs_mes006_continue_015aa569:
 
     # "Stacy and Min" "*Laughing*"
-    "Stacy and Min" "*大笑*"
+    "史黛西和明" "*大笑*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:559
 translate chinese sm1cs_mes006_continue_8e345497:
@@ -1226,7 +1226,7 @@ translate chinese sm1cs_mes006_continue_6f090bb6:
 translate chinese sm1cs_mes006_continue_eb315316:
 
     # "[mcname] and Min" "Laughing"
-    "[mcname] and Min" "大笑"
+    "[mcname] 和明" "大笑"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:659
 translate chinese sm1cs_mes006_continue_e3b9a087:

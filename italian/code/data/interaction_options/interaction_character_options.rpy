@@ -462,8 +462,6 @@ translate italian strings:
     old "Ask about the play"
     new "Chiedi dello spettacolo"
 
-translate italian strings:
-
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Photography-101 for $60"
     new "Acquista Fotografia-101 per $60"
@@ -476,8 +474,6 @@ translate italian strings:
     old "Purchase An Actor Prepares for $60"
     new "Acquista Un attore si prepara per $60"
 
-translate italian strings:
-
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask Debbie to the movies"
     new "Invita Debbie al cinema"
@@ -489,4 +485,12 @@ translate italian strings:
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Good morning!"
     new "Buongiorno!"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Live Chat with Stacy"
+    new "Chat dal vivo con Stacy"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Let's go to sleep"
+    new "Andiamo a dormire"
 

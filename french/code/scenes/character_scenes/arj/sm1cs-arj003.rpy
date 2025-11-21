@@ -1053,3 +1053,9 @@ translate french strings:
     new "Tu es devenue mon esclave sexuelle"
 
 #Translate by BlackViper_
+# game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:95
+translate french sm1cs_arj003_05e6e8bd:
+
+    # arj "It feels like it's been forever since we jus hung out.{w} No drama.{w} No baggage."
+    arj "It feels like it's been forever since we jus hung out.{w} No drama.{w} No baggage."
+

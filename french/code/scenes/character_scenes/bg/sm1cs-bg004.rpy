@@ -1566,3 +1566,9 @@ translate french sm1cs_bg004_anal_41c02abb:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:560
+translate french sm1cs_bg004_anal_a58f65b7:
+
+    # bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
+    bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
+

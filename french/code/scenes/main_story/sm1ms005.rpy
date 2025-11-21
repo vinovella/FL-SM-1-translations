@@ -894,3 +894,9 @@ translate french strings:
 
 #Translate by BlackViper_
 
+translate french strings:
+
+    # game/code/scenes/main_story/sm1ms005.rpy:152
+    old "97 minutes later"
+    new "97 minutes later"
+

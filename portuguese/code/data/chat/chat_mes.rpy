@@ -248,33 +248,33 @@ translate portuguese strings:
 
     # game/code/data/chat/chat_mes.rpy:58
     old "Never mind. Are you down or not?"
-    new "Never mind. Are you down or not?"
+    new "Deixa pra lá. Você topa ou não?"
 
 translate portuguese strings:
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Wish you were here to warm my body."
-    new "Wish you were here to warm my body."
+    new "Queria que você estivesse aqui pra esquentar meu corpo."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "I was thinking of a game night. You, Stacy, and me."
-    new "I was thinking of a game night. You, Stacy, and me."
+    new "Eu estava pensando numa noite de jogos. Você, Stacy e eu."
 
     # game/code/data/chat/chat_mes.rpy:258
     old "Alright, does this evening work?"
-    new "Alright, does this evening work?"
+    new "Certo, hoje de noite funciona pra você?"
 
 translate portuguese strings:
 
     # game/code/data/chat/chat_mes.rpy:112
     old "Everything all right?"
-    new "Everything all right?"
+    new "Tudo certo?"
 
     # game/code/data/chat/chat_mes.rpy:112
     old "I hope you were the winner."
-    new "I hope you were the winner."
+    new "Espero que você tenha vencido."
 
     # game/code/data/chat/chat_mes.rpy:112
     old "It is now."
-    new "It is now."
+    new "Agora está."
 

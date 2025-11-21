@@ -752,4 +752,87 @@
     old "Watch the final cut"
     new "Regarde le montage final"
 
-#Translate by BlackViper_
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk big business"
+    new "Parle de grosses affaires"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Progress AmRose's story"
+    new "Avance dans l'histoire d'AmRose"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Throw a party"
+    new "Organise une fête"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Start making the second movie"
+    new "Commence à faire le deuxième film"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Text AmRose for a meetup"
+    new "Envoie un message à AmRose pour un rendez-vous"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Answer AmRose's message"
+    new "Réponds au message d'AmRose"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Reminisce with AmRose"
+    new "Remémore-toi avec AmRose"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk with Amore"
+    new "Parle avec Amore"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Date with Debbie at the shooting range"
+    new "Rendez-vous avec Debbie au stand de tir"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Movie date with Debbie"
+    new "Rendez-vous cinéma avec Debbie"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Working it with Maya"
+    new "Travailler avec Maya"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Some fun with Min"
+    new "Un peu de plaisir avec Min"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Contest with Melony and Stacy"
+    new "Concours avec Melony et Stacy"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "A night in Melony"
+    new "Une nuit chez Melony"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Answer April's message"
+    new "Réponds au message d'April"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Dinner with April"
+    new "Dîner avec April"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Perform a hungry show"
+    new "Fais un spectacle affamé"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Talk about the play"
+    new "Parle de la pièce"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Text Taisia"
+    new "Envoyer un message à Taisia"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Taisia wants to make breakfast"
+    new "Taisia veut préparer le petit déjeuner"
+
+    # game/code/data/quests/vn_mode_data.rpy:9
+    old "Nari is hungry in the morning"
+    new "Nari a faim le matin"
+

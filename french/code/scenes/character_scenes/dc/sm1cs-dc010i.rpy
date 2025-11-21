@@ -84,3 +84,9 @@ translate french sm1cs_dc010i_35458250:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/dc/sm1cs-dc010i.rpy:25
+translate french sm1cs_dc010i_dfcdc19d:
+
+    # mc "Well, there's this new action movie-"
+    mc "Well, there's this new action movie-"
+

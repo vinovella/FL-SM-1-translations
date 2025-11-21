@@ -428,7 +428,7 @@ translate italian sm1cs_mh009_249780e4:
 translate italian sm1cs_mh009_24d91849:
 
     # mh "This \"interview\", how you get your actresses, the whole process of going from a woman you know to someone you're fucking on camera."
-    mh "This \"interview\", how you get your actresses, the whole process of going from a woman you know to someone you're fucking on camera."
+    mh "Questa \"intervista\", come ottieni le tue attrici, l'intero processo di trasformare una donna che conosci in qualcuno che scopi davanti alla telecamera."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:270
 translate italian sm1cs_mh009_a31340dd:
@@ -620,7 +620,7 @@ translate italian sm1cs_mh009_ffc6a815:
 translate italian sm1cs_mh009_fe0d01a3:
 
     # mh "Wonderful. I have always liked the name \"Allison\"."
-    mh "Wonderful. I have always liked the name \"Allison\"."
+    mh "Meraviglioso. Mi è sempre piaciuto il nome \"Allison\"."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:344
 translate italian sm1cs_mh009_cd349a72:
@@ -788,7 +788,7 @@ translate italian sm1cs_mh009_677912ba:
 translate italian sm1cs_mh009_0d1cb933:
 
     # mh "And I've definitely been called \"passionate\" before."
-    mh "And I've definitely been called \"passionate\" before."
+    mh "E sono stata definita \"appassionata\" in passato."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:418
 translate italian sm1cs_mh009_3c26251f:
@@ -854,7 +854,7 @@ translate italian sm1cs_mh009_82818768:
 translate italian sm1cs_mh009_596784ab:
 
     # mc "*Gulp*"
-    mc "*Gulp*"
+    mc "*Deglutisce*"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:442
 translate italian sm1cs_mh009_70be2168:
@@ -2322,97 +2322,97 @@ translate italian strings:
 translate italian sm1cs_mh009_7b2b35e6:
 
     # mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
-    mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+    mh "[mhname!t]...{w} Mi piace, ottimo suggerimento, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:342
 translate italian sm1cs_mh009_7b2b35e6_1:
 
     # mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
-    mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+    mh "[mhname!t]...{w} Mi piace, ottimo suggerimento, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:348
 translate italian sm1cs_mh009_72f11ebc:
 
     # mc "Sure, Lys- I mean, [mhname!t]."
-    mc "Sure, Lys- I mean, [mhname!t]."
+    mc "Certo, Lys- voglio dire, [mhname!t]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:389
 translate italian sm1cs_mh009_0c331674:
 
     # mh "Well, my name is [mhname!t], and I'm here because a friend suggested that this might be a good way to make some extra money."
-    mh "Well, my name is [mhname!t], and I'm here because a friend suggested that this might be a good way to make some extra money."
+    mh "Bene, il mio nome è [mhname!t], e sono qui perché un'amica mi ha suggerito che questo potrebbe essere un buon modo per guadagnare qualche soldo extra."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:446
 translate italian sm1cs_mh009_ed0f3263:
 
     # mc "Well, that makes two of us! That sounds super duper hot, [mhname!t]."
-    mc "Well, that makes two of us! That sounds super duper hot, [mhname!t]."
+    mc "Bene, siamo in due! Sembra super sexy, [mhname!t]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:601
 translate italian sm1cs_mh009_348b8dd7:
 
     # mc "Oh shit, [mhname!t]!"
-    mc "Oh shit, [mhname!t]!"
+    mc "Oh merda, [mhname!t]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:619
 translate italian sm1cs_mh009_beac13b0:
 
     # mc "Do you? Do you like being my good girl, [mhname!t]?"
-    mc "Do you? Do you like being my good girl, [mhname!t]?"
+    mc "Davvero? Ti piace essere la mia brava ragazza, [mhname!t]?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:624
 translate italian sm1cs_mh009_70654531:
 
     # mc "Fuuuucking hell, this is great, [mhname!t]."
-    mc "Fuuuucking hell, this is great, [mhname!t]."
+    mc "Cazzo, è fantastico, [mhname!t]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:687
 translate italian sm1cs_mh009_2c204863:
 
     # mc "Oh fuck yeah, [mhname!t]!"
-    mc "Oh fuck yeah, [mhname!t]!"
+    mc "Oh cazzo sì, [mhname!t]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:739
 translate italian sm1cs_mh009_8751d578:
 
     # mc "Oh shit, [mhname!t]! Oh this is incredible!"
-    mc "Oh shit, [mhname!t]! Oh this is incredible!"
+    mc "Oh merda, [mhname!t]! Oh è incredibile!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:756
 translate italian sm1cs_mh009_e922e4ef:
 
     # mc "What, [mhname!t]?"
-    mc "What, [mhname!t]?"
+    mc "Cosa, [mhname!t]?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:765
 translate italian sm1cs_mh009_2b193e52:
 
     # mc "Ohh, L- love this, [mhname!t], I love this!"
-    mc "Ohh, L- love this, [mhname!t], I love this!"
+    mc "Ohh, L- adoro questo, [mhname!t], adoro questo!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:784
 translate italian sm1cs_mh009_c66ced23:
 
     # mc "Oh God, [mhname!t]..."
-    mc "Oh God, [mhname!t]..."
+    mc "Oh Dio, [mhname!t]..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:861
 translate italian sm1cs_mh009_32fbcfe7:
 
     # mc "Are you going to cum, [mhname!t]?"
-    mc "Are you going to cum, [mhname!t]?"
+    mc "Stai per venire, [mhname!t]?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:936
 translate italian sm1cs_mh009_1_c8b0e979:
 
     # mc "Shhh, [mhname!t]. It looks amazing, watching your fingers move like that."
-    mc "Shhh, [mhname!t]. It looks amazing, watching your fingers move like that."
+    mc "Shhh, [mhname!t]. È fantastico, guardare le tue dita muoversi così."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:948
 translate italian sm1cs_mh009_1_44176ab2:
 
     # mc "Cum for me, [mhname!t]."
-    mc "Cum for me, [mhname!t]."
+    mc "Vieni per me, [mhname!t]."
 
 translate italian strings:
 
@@ -2424,5 +2424,5 @@ translate italian strings:
 translate italian sm1cs_mh009_e9245de9:
 
     # mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
-    mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
+    mct "Stava dicendo cose davvero importanti. È davvero così eccitata dall'idea di un'intervista di sesso che vuole semplicemente ignorarla per un po'?"
 

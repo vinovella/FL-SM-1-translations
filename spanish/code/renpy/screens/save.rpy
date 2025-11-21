@@ -48,3 +48,17 @@ translate spanish strings:
     old "Saves From Season [season]"
     new "Saves From Season [season]"
 
+translate spanish strings:
+
+    # game/code/renpy/screens/save.rpy:113
+    old "You completed 100% of the game!"
+    new "You completed 100% of the game!"
+
+    # game/code/renpy/screens/save.rpy:115
+    old "You finished the main story!"
+    new "You finished the main story!"
+
+    # game/code/renpy/screens/save.rpy:118
+    old "You can continue to play the game and save later from your phone as well."
+    new "You can continue to play the game and save later from your phone as well."
+

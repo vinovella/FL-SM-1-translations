@@ -128,5 +128,5 @@ translate portuguese q_inter_jh_5_11809067:
 translate portuguese q_inter_jh_5_527d1655:
 
     # jh "A Castle of Thistles and Orchids. Anna turned me on to them."
-    jh "A Castle of Thistles and Orchids. Anna turned me on to them."
+    jh "Um Castelo de Cardos e Orquídeas. A Anna que me recomendou."
 

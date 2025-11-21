@@ -46,5 +46,5 @@ translate italian strings:
 
     # game/code/renpy/screens/phone.rpy:77
     old "Save for Season 2"
-    new "Save for Season 2"
+    new "Salva per la Stagione 2"
 

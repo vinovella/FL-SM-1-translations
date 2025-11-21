@@ -492,3 +492,27 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/main_story/sm1ms011_it.rpy:26
+translate french sm1ms011_it_039d17e4:
+
+    # sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
+    sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
+
+# game/code/scenes/main_story/sm1ms011_it.rpy:113
+translate french sm1fs_i011_it_talk_ns_ac838888:
+
+    # mc "This girl Nari Song is pretty cute."
+    mc "This girl Nari Song is pretty cute."
+
+# game/code/scenes/main_story/sm1ms011_it.rpy:212
+translate french sm1fs_i011_it_talk_am_09c55492:
+
+    # mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
+    mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
+
+# game/code/scenes/main_story/sm1ms011_it.rpy:215
+translate french sm1fs_i011_it_talk_am_36deca91:
+
+    # sy "Hmmmph. That's no excuse to be rude to you or the new girl."
+    sy "Hmmmph. That's no excuse to be rude to you or the new girl."
+

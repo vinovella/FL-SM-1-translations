@@ -84,4 +84,19 @@
     old "Sci-Fi Movie"
     new "Film de science-fiction"
 
-#Translate by BlackViper_
+    # game/code/classes/movie_controllers.rpy:40
+    old "[movie!t] release"
+    new "[movie!t] sortie"
+
+    # game/code/classes/movie_controllers.rpy:115
+    old "Pirate movie"
+    new "Film pirate"
+
+    # game/code/classes/movie_controllers.rpy:129
+    old "Add $[amount] to [budget_name!t]"
+    new "Ajouter $[amount] à [budget_name!t]"
+
+    # game/code/classes/movie_controllers.rpy:150
+    old "Spend [amount] Energy in [energy_name!t]"
+    new "Dépenser [amount] d'Énergie dans [energy_name!t]"
+

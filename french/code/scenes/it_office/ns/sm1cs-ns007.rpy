@@ -1972,3 +1972,51 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:234
+translate french sm1cs_ns007_resturant_0eecd966:
+
+    # ns "I disagree. I've told you many things I like."
+    ns "I disagree. I've told you many things I like."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:602
+translate french sm1cs_ns007_light_house_eb237d93:
+
+    # ns "I feel... comfortable... with you."
+    ns "I feel... comfortable... with you."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:706
+translate french sm1cs_ns007_light_house_0c97487e:
+
+    # ns "*excited but stifled moaning*"
+    ns "*excited but stifled moaning*"
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:823
+translate french sm1cs_ns007_light_house_5d826925:
+
+    # ns "*moaning. I love... hearing that... ooouhah...*"
+    ns "*moaning. I love... hearing that... ooouhah...*"
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:908
+translate french sm1cs_ns007_light_house_81160ea0:
+
+    # ns "*whispers* It's just like the hentai."
+    ns "*whispers* It's just like the hentai."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:939
+translate french sm1cs_ns007_light_house_4e72d60e:
+
+    # ns "Yes. Thank you, [mcname]."
+    ns "Yes. Thank you, [mcname]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1033
+translate french sm1cs_ns007_walkaway_9dae56c9:
+
+    # ns "Hmm... considering the food, conversation, company and the amount of times I came..."
+    ns "Hmm... considering the food, conversation, company and the amount of times I came..."
+
+translate french strings:
+
+    # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:439
+    old "The people close to me are happy about it"
+    new "The people close to me are happy about it"
+

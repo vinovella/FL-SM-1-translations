@@ -184,4 +184,15 @@ translate french q_inter_nr_8_7ef23e41:
     # nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
     nr "*sniffe* Mmm. Ouais, il faut encore un peu d'aneth avant que ce soit prêt."
 
-#Translate by BlackViper_
+# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:52
+translate french q_inter_nr_4_9ff4a03c:
+
+    # nr "Pull my wiener. Heh heh."
+    nr "Tire ma saucisse. Heh heh."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:93
+translate french q_inter_nr_10_6f8406ed:
+
+    # nr "Let it rip, kid! Get out there and show those wieners who's boss."
+    nr "Lâche-toi, gamin ! Sors et montre à ces saucisses qui est le patron."
+

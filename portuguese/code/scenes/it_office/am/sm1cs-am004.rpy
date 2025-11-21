@@ -1688,17 +1688,17 @@ translate portuguese sm1cs_am004_ag_appears_01e66815:
 translate portuguese sm1cs_am004_sex_ce4eb6af:
 
     # mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
-    mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
+    mc "Olha, eu sei que seu rolê é ser escrota comigo o tempo todo, mas não tô a fim de ter meu pau mordido."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:987
 translate portuguese sm1cs_am004_after_spank_94b939c6:
 
     # mc "Come on. You know the {b}word{/b} I'm waiting for."
-    mc "Come on. You know the {b}word{/b} I'm waiting for."
+    mc "Anda. Você sabe a {b}palavra{/b} que eu tô esperando."
 
 translate portuguese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am004.rpy:37
     old "Later that evening\nAt Guns n' Rosette"
-    new "Later that evening\nAt Guns n' Rosette"
+    new "Mais tarde naquela noite\nNo Guns n' Rosette"
 

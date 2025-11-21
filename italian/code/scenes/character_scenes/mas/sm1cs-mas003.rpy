@@ -770,7 +770,7 @@ translate italian sm1cs_mas003_third_delivery_f1d06a18:
 translate italian sm1cs_mas003_third_delivery_753a892f:
 
     # "[mcname] and Maya" "*laughing*"
-    "[mcname] and Maya" "*laughing*"
+    "[mcname] and Maya" "*ridendo*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:490
 translate italian sm1cs_mas003_third_delivery_a311ba0f:
@@ -1400,7 +1400,7 @@ translate italian sm1cs_mas003_third_delivery_d2c11984:
 translate italian sm1cs_mas003_third_delivery_ac1ccd30:
 
     # "Kennedy, Lauren and Olivia" "*cheer widly*"
-    "Kennedy, Lauren and Olivia" "*cheer widly*"
+    "Kennedy, Lauren and Olivia" "*acclamano selvaggiamente*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:794
 translate italian sm1cs_mas003_third_delivery_c7253fdd:
@@ -1706,11 +1706,11 @@ translate italian strings:
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
     old "Wurst Delivery tip"
-    new "Wurst Delivery tip"
+    new "Mancia Wurst Delivery"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
     old "You got a $[amount] as your cut of the tip"
-    new "You got a $[amount] as your cut of the tip"
+    new "Hai ricevuto $[amount] come la tua parte della mancia"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:710
 translate italian sm1cs_mas003_third_delivery_fedc52e9:

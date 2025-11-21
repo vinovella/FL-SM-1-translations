@@ -230,15 +230,15 @@ translate portuguese sm1cs_cw002_8f39dca1:
 translate portuguese sm1cs_cw002_e0bf352d:
 
     # mc "Of course. I won't let you down, Ms. Watts."
-    mc "Of course. I won't let you down, Ms. Watts."
+    mc "Claro. Não vou te decepcionar, Sra. Watts."
 
 translate portuguese strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
     old "I like it"
-    new "I like it"
+    new "Eu gosto"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
     old "I don't like it"
-    new "I don't like it"
+    new "Eu não gosto"
 

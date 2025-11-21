@@ -1182,3 +1182,27 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:240
+translate french sm1cs_kv004_9b3488c6:
+
+    # kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+    kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:409
+translate french sm1cs_kv004_sex_repeatable_b52d6afd:
+
+    # kv "Let's get rid of these pesky things..."
+    kv "Let's get rid of these pesky things..."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:470
+translate french sm1cs_kv004_sex_repeatable_0bda85cc:
+
+    # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+    mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:624
+translate french sm1cs_kv004_sex_repeatable_925a1079:
+
+    # mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
+    mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
+

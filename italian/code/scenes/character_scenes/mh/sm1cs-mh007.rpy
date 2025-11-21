@@ -608,7 +608,7 @@ translate italian sm1cs_mh007_74aaa5f2:
 translate italian sm1cs_mh007_eae76607:
 
     # mh "Yes, [mcname], yes!"
-    mh "Yes, [mcname], yes!"
+    mh "Sì, [mcname], sì!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:319
 translate italian sm1cs_mh007_b4e2d645:
@@ -1074,7 +1074,7 @@ translate italian strings:
 translate italian sm1cs_mh007_bf2c0adf:
 
     # mh "[mcname], I was wondering..."
-    mh "[mcname], I was wondering..."
+    mh "[mcname], mi stavo chiedendo..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:262
 translate italian sm1cs_mh007_f49fff8f:
@@ -1086,79 +1086,79 @@ translate italian sm1cs_mh007_f49fff8f:
 translate italian sm1cs_mh007_030be35c:
 
     # mh "How would you feel if I...{w} had a turn, with you?"
-    mh "How would you feel if I...{w} had a turn, with you?"
+    mh "Come ti sentiresti se io...{w} provassi, con te?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:264
 translate italian sm1cs_mh007_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "Cosa intendi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:266
 translate italian sm1cs_mh007_d41060db:
 
     # mh "That I... kind of want to try fucking you. What do you think about that?"
-    mh "That I... kind of want to try fucking you. What do you think about that?"
+    mh "Che io... vorrei provare a scoparti. Cosa ne pensi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:274
 translate italian sm1cs_mh007_c0d907b0:
 
     # mc "I don't think I'd like that, Lyssa, I'm sorry..."
-    mc "I don't think I'd like that, Lyssa, I'm sorry..."
+    mc "Non credo che mi piacerebbe, Lyssa, mi dispiace..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:275
 translate italian sm1cs_mh007_58f014e2:
 
     # mh "It's okay, we still have some more fun to have anyway."
-    mh "It's okay, we still have some more fun to have anyway."
+    mh "Va bene, ci divertiremo comunque in altri modi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:281
 translate italian sm1cs_mh007_e0c7542b:
 
     # mc "Yeah, Lyssa, I'd be down to try it."
-    mc "Yeah, Lyssa, I'd be down to try it."
+    mc "Sì, Lyssa, mi piacerebbe provare."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:282
 translate italian sm1cs_mh007_954a6ab6:
 
     # mh "Really?"
-    mh "Really?"
+    mh "Davvero?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:283
 translate italian sm1cs_mh007_a3caf5a7:
 
     # mc "Really, really!"
-    mc "Really, really!"
+    mc "Davvero, davvero!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:285
 translate italian sm1cs_mh007_1b966d50:
 
     # mc "Just promise to be gentle."
-    mc "Just promise to be gentle."
+    mc "Promettimi solo di essere delicata."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:286
 translate italian sm1cs_mh007_9f73cc01:
 
     # mh "Mmmmm, I promise, [mcname]."
-    mh "Mmmmm, I promise, [mcname]."
+    mh "Mmmmm, prometto, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:288
 translate italian sm1cs_mh007_44c6d442:
 
     # mh "I have been fantasizing about this..."
-    mh "I have been fantasizing about this..."
+    mh "Ho fantasticato su questo..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:289
 translate italian sm1cs_mh007_24687b7d:
 
     # mc "Well, I'm happy to bring your dream to reality!"
-    mc "Well, I'm happy to bring your dream to reality!"
+    mc "Bene, sono felice di realizzare il tuo sogno!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:291
 translate italian sm1cs_mh007_1263b847:
 
     # mh "Are you ready?"
-    mh "Are you ready?"
+    mh "Sei pronto?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:292
 translate italian sm1cs_mh007_37c12963:
@@ -1182,13 +1182,13 @@ translate italian sm1cs_mh007_0f5e6726:
 translate italian sm1cs_mh007_c5327c66:
 
     # mc "Mmm-mmhmmmm! Just - getting used to the feeling."
-    mc "Mmm-mmhmmmm! Just - getting used to the feeling."
+    mc "Mmm-mmhmmmm! Solo - mi sto abituando alla sensazione."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:297
 translate italian sm1cs_mh007_9bc304fb:
 
     # mh "I'm going to keep going, okay?"
-    mh "I'm going to keep going, okay?"
+    mh "Continuerò ad andare avanti, okay?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:298
 translate italian sm1cs_mh007_ef71e91f:
@@ -1206,7 +1206,7 @@ translate italian sm1cs_mh007_de9dc30b:
 translate italian sm1cs_mh007_ddd94792:
 
     # mh "Still okay?"
-    mh "Still okay?"
+    mh "Tutto bene?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:302
 translate italian sm1cs_mh007_2ea6de0c:
@@ -1218,7 +1218,7 @@ translate italian sm1cs_mh007_2ea6de0c:
 translate italian sm1cs_mh007_6bd1c7a8:
 
     # mh "Just a little more..."
-    mh "Just a little more..."
+    mh "Solo un po' di più..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:305
 translate italian sm1cs_mh007_49ecd705:
@@ -1236,25 +1236,25 @@ translate italian sm1cs_mh007_c7cf2826:
 translate italian sm1cs_mh007_368efa07:
 
     # mc "Mmmm, just - wow - this is a - new feeling!"
-    mc "Mmmm, just - wow - this is a - new feeling!"
+    mc "Mmmm, solo - wow - questa è - una sensazione nuova!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:308
 translate italian sm1cs_mh007_a12e6db3:
 
     # mh "I'll give you a second to adjust."
-    mh "I'll give you a second to adjust."
+    mh "Ti do un secondo per abituarti."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:309
 translate italian sm1cs_mh007_d2efecf2:
 
     # mc "Thank you..."
-    mc "Thank you..."
+    mc "Grazie..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:311
 translate italian sm1cs_mh007_0896b69e:
 
     # mh "This feels amazing already, [mcname]."
-    mh "This feels amazing already, [mcname]."
+    mh "È già fantastico, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:312
 translate italian sm1cs_mh007_f49fff8f_1:
@@ -1272,13 +1272,13 @@ translate italian sm1cs_mh007_259ad6b6_1:
 translate italian sm1cs_mh007_ec7fd73b:
 
     # mc "I think - ngggh - you can start thrusting if you want."
-    mc "I think - ngggh - you can start thrusting if you want."
+    mc "Penso - ngggh - che puoi iniziare a spingere se vuoi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:315
 translate italian sm1cs_mh007_84227619:
 
     # mh "Mmmmm, I'll go slow."
-    mh "Mmmmm, I'll go slow."
+    mh "Mmmmm, andrò piano."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:318
 translate italian sm1cs_mh007_b7c684bc:
@@ -1290,7 +1290,7 @@ translate italian sm1cs_mh007_b7c684bc:
 translate italian sm1cs_mh007_29d2ae55:
 
     # mh "You okay, [mcname]?"
-    mh "You okay, [mcname]?"
+    mh "Stai bene, [mcname]?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:320
 translate italian sm1cs_mh007_eb3a1d15:
@@ -1320,43 +1320,43 @@ translate italian sm1cs_mh007_118586bd:
 translate italian sm1cs_mh007_73631d7d:
 
     # mc "This feels - ngggh-!"
-    mc "This feels - ngggh-!"
+    mc "Questa sensazione - ngggh-!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:327
 translate italian sm1cs_mh007_fc477c8d:
 
     # mh "How does it feel?"
-    mh "How does it feel?"
+    mh "Come ti senti?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:328
 translate italian sm1cs_mh007_a1ba1026:
 
     # mc "It feels - mmmm- kind of, {i}really{/i}, good!"
-    mc "It feels - mmmm- kind of, {i}really{/i}, good!"
+    mc "Mi sento - mmmm- un po', {i}davvero{/i}, bene!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:329
 translate italian sm1cs_mh007_3ce13710:
 
     # mh "Mmmmm, yes, yes it does!"
-    mh "Mmmmm, yes, yes it does!"
+    mh "Mmmmm, sì, sì che lo è!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:331
 translate italian sm1cs_mh007_f56613ea:
 
     # mc "Oh, shit - it feels - mmm - nice having you inside me, Lyssa!"
-    mc "Oh, shit - it feels - mmm - nice having you inside me, Lyssa!"
+    mc "Oh, merda - è - mmm - bello averti dentro di me, Lyssa!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:332
 translate italian sm1cs_mh007_4f24e9cd:
 
     # mh "And your ass is wonderful, [mcname]!"
-    mh "And your ass is wonderful, [mcname]!"
+    mh "E il tuo culo è meraviglioso, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:333
 translate italian sm1cs_mh007_6dcde6a9:
 
     # mh "It feels - mmmmm - soooooo gooooood!"
-    mh "It feels - mmmmm - soooooo gooooood!"
+    mh "È così - mmmmm - taaaaaanto bellooooo!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:335
 translate italian sm1cs_mh007_dbf69743:
@@ -1368,7 +1368,7 @@ translate italian sm1cs_mh007_dbf69743:
 translate italian sm1cs_mh007_6ce1258d:
 
     # mh "Oh, yes, [mcname]!"
-    mh "Oh, yes, [mcname]!"
+    mh "Oh, sì, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:337
 translate italian sm1cs_mh007_e8840ad8:
@@ -1380,19 +1380,19 @@ translate italian sm1cs_mh007_e8840ad8:
 translate italian sm1cs_mh007_ef890fd2:
 
     # mh "Oh shit - we definitely, mmmmm, need to do this more often!"
-    mh "Oh shit - we definitely, mmmmm, need to do this more often!"
+    mh "Oh merda - dobbiamo assolutamente, mmmmm, farlo più spesso!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:340
 translate italian sm1cs_mh007_d02ad225:
 
     # mc "I - ngggghhh - agree!"
-    mc "I - ngggghhh - agree!"
+    mc "Io - ngggghhh - sono d'accordo!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:341
 translate italian sm1cs_mh007_1d5fc5d6:
 
     # mh "Oh - mmmm, I feel myself getting close!"
-    mh "Oh - mmmm, I feel myself getting close!"
+    mh "Oh - mmmm, mi sento vicina!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:342
 translate italian sm1cs_mh007_adaed853:
@@ -1404,19 +1404,19 @@ translate italian sm1cs_mh007_adaed853:
 translate italian sm1cs_mh007_632389c9:
 
     # mh "But I - mmmmmm - I need you inside me again."
-    mh "But I - mmmmmm - I need you inside me again."
+    mh "Ma io - mmmmmm - ho bisogno di te dentro di me di nuovo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:346
 translate italian sm1cs_mh007_591a1ccb:
 
     # mh "I really, really need you inside me again."
-    mh "I really, really need you inside me again."
+    mh "Ho davvero, davvero bisogno di te dentro di me di nuovo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:347
 translate italian sm1cs_mh007_09f2de35:
 
     # mc "Is that so?"
-    mc "Is that so?"
+    mc "Davvero?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:348
 translate italian sm1cs_mh007_bf5d86f0:
@@ -1428,15 +1428,15 @@ translate italian sm1cs_mh007_bf5d86f0:
 translate italian sm1cs_mh007_b9a250b1:
 
     # mc "Well, I think I know just what we need to do..."
-    mc "Well, I think I know just what we need to do..."
+    mc "Bene, penso di sapere esattamente cosa dobbiamo fare..."
 
 translate italian strings:
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:267
     old "I'd be up for that!"
-    new "I'd be up for that!"
+    new "Ci sto!"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:267
     old "I don't think I would like that..."
-    new "I don't think I would like that..."
+    new "Non credo che mi piacerebbe..."
 

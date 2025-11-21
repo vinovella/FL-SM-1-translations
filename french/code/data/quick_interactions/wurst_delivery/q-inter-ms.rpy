@@ -838,4 +838,15 @@ translate french q_inter_ms_45_678c5fed:
     # ms "Maybe I'm on my first step to becoming one."
     ms "Peut-être que je suis sur le premier pas pour en devenir une."
 
-#Translate by BlackViper_
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:86
+translate french q_inter_ms_5_8a5a6bb5:
+
+    # ms "Never thought I'd be buried in debt and putting wieners in bags."
+    ms "Je n'aurais jamais pensé que je serais enterrée sous les dettes et que je mettrais des saucisses dans des sacs."
+
+# game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:212
+translate french q_inter_ms_19_6c302b48:
+
+    # ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
+    ms "Te voir me rappelle que je dois bientôt retourner au travail pour m'occuper des saucisses."
+

@@ -876,7 +876,7 @@ translate chinese sm1cs_am008_continue_08dcc02a:
 translate chinese sm1cs_am008_continue_820cd5c4:
 
     # "Waiter" "Of course, madam."
-    "Waiter" "当然，女士。"
+    "服务员" "当然，女士。"
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:522
 translate chinese sm1cs_am008_continue_7ff1764f:
 

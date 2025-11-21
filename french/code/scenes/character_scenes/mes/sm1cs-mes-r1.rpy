@@ -1742,3 +1742,25 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:575
+translate french sm1cs_mes_r1_continue_2_d9861589:
+
+    # mc "Yes you can. Cum again or I'll keep fucking you like this for hours."
+    mc "Yes you can. Cum again or I'll keep fucking you like this for hours."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:579
+translate french sm1cs_mes_r1_continue_2_3151895e:
+
+    # mes "*sobbing with pleasure* I'm your little sextoy."
+    mes "*sobbing with pleasure* I'm your little sextoy."
+
+translate french strings:
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:141
+    old "Yes, include watersports content"
+    new "Yes, include watersports content"
+
+    # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:141
+    old "No, do not include watersports content"
+    new "No, do not include watersports content"
+

@@ -116,5 +116,5 @@ translate portuguese q_inter_en_5_f6cd2d50:
 translate portuguese q_inter_en_5_882773aa:
 
     # mc "How's your morning going, Eugene?"
-    mc "How's your morning going, Eugene?"
+    mc "Como vai a sua manhã, Eugene?"
 

@@ -1578,5 +1578,5 @@ translate portuguese strings:
 translate portuguese sm1fs_t004_workshop_37885fbe:
 
     # dvh "Veronica, Kellie. Please walk into the center of the circle."
-    dvh "Veronica, Kellie. Please walk into the center of the circle."
+    dvh "Veronica, Kellie. Por favor, caminhem para o centro do círculo."
 

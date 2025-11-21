@@ -14,5 +14,4 @@
 
     # game/code/renpy/screens/money_statement.rpy:78
     old "SKIP ALL"
-    new "ALLE ÜBERSPRINGEN"
-
+    new "SKIP"

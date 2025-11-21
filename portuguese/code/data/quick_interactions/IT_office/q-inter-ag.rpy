@@ -284,23 +284,23 @@ translate portuguese q_inter_ag_18_b714cbc4:
 translate portuguese q_inter_ag_4_3546ca5d:
 
     # ag "I definitely shouldn't have had that extra energy drink."
-    ag "I definitely shouldn't have had that extra energy drink."
+    ag "Com certeza eu não devia ter tomado aquele energético extra."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:85
 translate portuguese q_inter_ag_7_79d8f0d1:
 
     # ag "Great. I finished my book, 'The Mask of Morraco' last night."
-    ag "Great. I finished my book, 'The Mask of Morraco' last night."
+    ag "Ótimo. Eu terminei meu livro, 'A Máscara de Morraco', ontem à noite."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:174
 translate portuguese q_inter_ag_17_e1f59b0c:
 
     # ag "You know, Ridley makes pretty good margaritas."
-    ag "You know, Ridley makes pretty good margaritas."
+    ag "Ridley faz umas margaritas bem boas, sabia?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-ag.rpy:188
 translate portuguese q_inter_ag_18_c20b0fa0:
 
     # mc "Going to be working at the coffee shop for a while?"
-    mc "Going to be working at the coffee shop for a while?"
+    mc "Vai trabalhar um pouco na cafeteria?"
 

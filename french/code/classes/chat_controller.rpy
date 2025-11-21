@@ -24,5 +24,19 @@
     old "Sent a photo."
     new "A envoyé une photo."
 
-#Translate by BlackViper_
+    # game/code/classes/chat_controller.rpy:39
+    old "[name!t] : [message!t]"
+    new "[name!t] : [message!t]"
+
+    # game/code/classes/chat_controller.rpy:205
+    old "[chat_message!t] ([wrong_time_message!t])"
+    new "[chat_message!t] ([wrong_time_message!t])"
+
+    # game/code/classes/chat_controller.rpy:207
+    old "You need to have $[amount]"
+    new "Vous devez avoir $[amount]"
+
+    # game/code/classes/chat_controller.rpy:208
+    old "[chat_message!t] ([error_msg!t])"
+    new "[chat_message!t] ([error_msg!t])"
 

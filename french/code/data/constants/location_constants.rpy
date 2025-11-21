@@ -240,4 +240,11 @@
     old "Stage Area"
     new "Zone de scène"
 
-#Translate by BlackViper_
+    # game/code/data/constants/location_constants.rpy:155
+    old "Storage Room"
+    new "Salle de stockage"
+
+    # game/code/data/constants/location_constants.rpy:161
+    old "Showers"
+    new "Douches"
+

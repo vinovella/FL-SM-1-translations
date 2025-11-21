@@ -1304,3 +1304,27 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:453
+translate french sm1cs_my005_half_movie_c72b9a46:
+
+    # mct "What is... is Mom rubbing my dick with her foot?"
+    mct "What is... is Mom rubbing my dick with her foot?"
+
+# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:591
+translate french sm1cs_my005_after_movie_52d70a1d:
+
+    # my "I appreciate that, but when you get to be my age, you want a nice, big soft bed, with a down comforter."
+    my "I appreciate that, but when you get to be my age, you want a nice, big soft bed, with a down comforter."
+
+# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:632
+translate french sm1cs_my005_after_movie_2d23f06a:
+
+    # mct "I just made my mom cum from a foot massage, and then flirted with her like it was no big deal..."
+    mct "I just made my mom cum from a foot massage, and then flirted with her like it was no big deal..."
+
+# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:634
+translate french sm1cs_my005_after_movie_eed91999:
+
+    # mct "I just made Melony cum from a foot massage, and then flirted with her like it was no big deal..."
+    mct "I just made Melony cum from a foot massage, and then flirted with her like it was no big deal..."
+

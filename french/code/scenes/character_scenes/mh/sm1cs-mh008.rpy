@@ -2343,3 +2343,9 @@ translate french strings:
     new "Ne pas insister"
 
 #Translate by BlackViper_
+# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:46
+translate french sm1cs_mh008_f927037e:
+
+    # mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
+    mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
+

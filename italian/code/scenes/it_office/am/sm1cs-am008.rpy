@@ -284,25 +284,25 @@ translate italian sm1cs_am008_continue_69c25b65:
 translate italian sm1cs_am008_continue_24ca396e:
 
     # am "Yeah? Doesn't sound like you're close."
-    am "Yeah? Doesn't sound like you're close."
+    am "Sì? Non sembra che tu sia vicino."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:189
 translate italian sm1cs_am008_continue_5892daf9:
 
     # mc "Close enough."
-    mc "Close enough."
+    mc "Abbastanza vicino."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:191
 translate italian sm1cs_am008_continue_8a964143:
 
     # mc "Recently got some pushback when I left college."
-    mc "Recently got some pushback when I left college."
+    mc "Di recente ho ricevuto delle resistenze quando ho lasciato il college."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:194
 translate italian sm1cs_am008_continue_9c1e495a:
 
     # am "Had to expect that, right?"
-    am "Had to expect that, right?"
+    am "Te lo dovevi aspettare, no?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:196
 translate italian sm1cs_am008_continue_f24f9d90:
@@ -338,7 +338,7 @@ translate italian sm1cs_am008_continue_44f391e0:
 translate italian sm1cs_am008_continue_7c2b2d6c:
 
     # am "Dad is gone. My mom is uh..."
-    am "Dad is gone. My mom is uh..."
+    am "Papà non c'è più. Mia mamma è..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:215
 translate italian sm1cs_am008_continue_07dc298f:
@@ -368,7 +368,7 @@ translate italian sm1cs_am008_continue_46ae514c:
 translate italian sm1cs_am008_continue_4ecf3b2e:
 
     # am "Tea parties. Cheer practice."
-    am "Tea parties. Cheer practice."
+    am "Feste del tè. Allenamento di cheerleader."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:229
 translate italian sm1cs_am008_continue_80b9c80c:
@@ -380,7 +380,7 @@ translate italian sm1cs_am008_continue_80b9c80c:
 translate italian sm1cs_am008_continue_5366dd75:
 
     # mc "A little planning isn't too bad, right?"
-    mc "A little planning isn't too bad, right?"
+    mc "Un po' di pianificazione non è poi così male, no?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:240
 translate italian sm1cs_am008_continue_658305d8:
@@ -398,7 +398,7 @@ translate italian sm1cs_am008_continue_9f95ada6:
 translate italian sm1cs_am008_continue_8058ac6d:
 
     # am "Your life set out in a nice little package. No excitement. Nothing unexpected."
-    am "Your life set out in a nice little package. No excitement. Nothing unexpected."
+    am "La tua vita sistemata in un bel pacchettino. Nessuna emozione. Niente di inaspettato."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:244
 translate italian sm1cs_am008_continue_767c4828:
@@ -416,7 +416,7 @@ translate italian sm1cs_am008_continue_6bb260b1:
 translate italian sm1cs_am008_continue_3c6f6c0a:
 
     # am "Or expects more out of me."
-    am "Or expects more out of me."
+    am "O si aspetta di più da me."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:254
 translate italian sm1cs_am008_continue_98065118:
@@ -470,7 +470,7 @@ translate italian sm1cs_am008_continue_00620d1b:
 translate italian sm1cs_am008_continue_a77b7eae:
 
     # am "For a while I played ball."
-    am "For a while I played ball."
+    am "Per un po' ho fatto la brava."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:273
 translate italian sm1cs_am008_continue_1f108379:
@@ -500,7 +500,7 @@ translate italian sm1cs_am008_continue_45056e3c:
 translate italian sm1cs_am008_continue_cc7cec70:
 
     # am "A-fucking-men."
-    am "A-fucking-men."
+    am "E-fottutamente-sì."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:288
 translate italian sm1cs_am008_continue_ad73a71a:
@@ -518,7 +518,7 @@ translate italian sm1cs_am008_continue_fe2f90ad:
 translate italian sm1cs_am008_continue_b4aa8a16:
 
     # am "But one day they got sick. They sent in a sub who wasn't prepared at all."
-    am "But one day they got sick. They sent in a sub who wasn't prepared at all."
+    am "Ma un giorno si è ammalato. Hanno mandato un sostituto che non era per niente preparato."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:295
 translate italian sm1cs_am008_continue_bcc270d8:
@@ -536,7 +536,7 @@ translate italian sm1cs_am008_continue_2a9a2b28:
 translate italian sm1cs_am008_continue_03d17ca6:
 
     # mc "So that's how coding started for you."
-    mc "So that's how coding started for you."
+    mc "Quindi è così che è iniziata la programmazione per te."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:307
 translate italian sm1cs_am008_continue_c6c4e66a:
@@ -560,7 +560,7 @@ translate italian sm1cs_am008_continue_081b75b3:
 translate italian sm1cs_am008_continue_2b15152e:
 
     # am "*chuckles*"
-    am "*chuckles*"
+    am "*ridacchia*"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:316
 translate italian sm1cs_am008_continue_87cd6b8b:
@@ -578,7 +578,7 @@ translate italian sm1cs_am008_continue_75acdd71:
 translate italian sm1cs_am008_continue_a34c7f11:
 
     # mc "I never forget a beautiful musician."
-    mc "I never forget a beautiful musician."
+    mc "Non dimentico mai una bella musicista."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:327
 translate italian sm1cs_am008_continue_c411464b:
@@ -608,19 +608,19 @@ translate italian sm1cs_am008_continue_b2aba0e3:
 translate italian sm1cs_am008_continue_0d40cf6c:
 
     # am "Like a hungry wolf."
-    am "Like a hungry wolf."
+    am "Come un lupo affamato."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:343
 translate italian sm1cs_am008_continue_f46b669d:
 
     # mc "*chuckles*"
-    mc "*chuckles*"
+    mc "*ridacchia*"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:351
 translate italian sm1cs_am008_continue_6a96bab6:
 
     # mc "I can't help it."
-    mc "I can't help it."
+    mc "Non posso farci niente."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:357
 translate italian sm1cs_am008_continue_9e22963f:
@@ -680,19 +680,19 @@ translate italian sm1cs_am008_continue_c652a1d0:
 translate italian sm1cs_am008_continue_4f1e058f:
 
     # am "Well, they use computer skills to cause problems."
-    am "Well, they use computer skills to cause problems."
+    am "Beh, usano le competenze informatiche per causare problemi."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:379
 translate italian sm1cs_am008_continue_8c49bd48:
 
     # am "Let's leave it at that."
-    am "Let's leave it at that."
+    am "Lasciamolo così."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:383
 translate italian sm1cs_am008_continue_168f0690:
 
     # mc "So... like, real hackers."
-    mc "So... like, real hackers."
+    mc "Quindi... tipo, veri hacker."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:386
 translate italian sm1cs_am008_continue_96842015:
@@ -704,13 +704,13 @@ translate italian sm1cs_am008_continue_96842015:
 translate italian sm1cs_am008_continue_ccd01914:
 
     # mc "Sorry. {w}Can I ask one thing?"
-    mc "Sorry. {w}Can I ask one thing?"
+    mc "Scusa. {w}Posso chiedere una cosa?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:392
 translate italian sm1cs_am008_continue_63871441:
 
     # am "Must you?"
-    am "Must you?"
+    am "Devi proprio?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:393
 translate italian sm1cs_am008_continue_e863e8ae:
@@ -746,13 +746,13 @@ translate italian sm1cs_am008_continue_4fa8c078:
 translate italian sm1cs_am008_continue_7a2c0a25:
 
     # am "It was easy..."
-    am "It was easy..."
+    am "Era facile..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:408
 translate italian sm1cs_am008_continue_30dd5df2:
 
     # am "Being {b}bad{/b}."
-    am "Being {b}bad{/b}."
+    am "Essere {b}cattiva{/b}."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:412
 translate italian sm1cs_am008_continue_9e1f867c:
@@ -770,13 +770,13 @@ translate italian sm1cs_am008_continue_7d4a9d2e:
 translate italian sm1cs_am008_continue_eec6c423:
 
     # am "At first I told her to 'fuck off'. But she kept trying."
-    am "At first I told her to 'fuck off'. But she kept trying."
+    am "All'inizio le ho detto di 'andare a farsi fottere'. Ma ha continuato a provarci."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:416
 translate italian sm1cs_am008_continue_bb2ac856:
 
     # am "Like, I don't think I've ever met someone so annoying."
-    am "Like, I don't think I've ever met someone so annoying."
+    am "Tipo, non credo di aver mai incontrato qualcuno così fastidioso."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:420
 translate italian sm1cs_am008_continue_6f5d4d80:
@@ -848,19 +848,19 @@ translate italian sm1cs_am008_continue_b465e941:
 translate italian sm1cs_am008_continue_5598a59e:
 
     # mc "It's alright, April. Sometimes it's good to get things off your chest."
-    mc "It's alright, April. Sometimes it's good to get things off your chest."
+    mc "Va bene, April. A volte è bello togliersi un peso dal petto."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:454
 translate italian sm1cs_am008_continue_1a38103b:
 
     # am "Maybe."
-    am "Maybe."
+    am "Forse."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:456
 translate italian sm1cs_am008_continue_5925e14b:
 
     # am "We're kind of kindred spirits in this, aren't we?"
-    am "We're kind of kindred spirits in this, aren't we?"
+    am "Siamo un po' anime affini in questo, no?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:458
 translate italian sm1cs_am008_continue_05500ff6:
@@ -878,7 +878,7 @@ translate italian sm1cs_am008_continue_acff7fa9:
 translate italian sm1cs_am008_continue_e334e13f:
 
     # mc "Something like that."
-    mc "Something like that."
+    mc "Qualcosa del genere."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:466
 translate italian sm1cs_am008_continue_abbd7c69:
@@ -902,7 +902,7 @@ translate italian sm1cs_am008_continue_277c8ce0:
 translate italian sm1cs_am008_continue_7ccd7de3:
 
     # am "For both of us."
-    am "For both of us."
+    am "Per entrambi."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:477
 translate italian sm1cs_am008_continue_b17b00de:
@@ -980,19 +980,19 @@ translate italian sm1cs_am008_continue_3243506c:
 translate italian sm1cs_am008_continue_08dcc02a:
 
     # am "Bill it to room two-two-seven, please."
-    am "Bill it to room two-two-seven, please."
+    am "Addebita alla camera due-due-sette, per favore."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:516
 translate italian sm1cs_am008_continue_820cd5c4:
 
     # "Waiter" "Of course, madam."
-    "Waiter" "Of course, madam."
+    "Waiter" "Certo, signora."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:522
 translate italian sm1cs_am008_continue_7ff1764f:
 
     # am "Follow me."
-    am "Follow me."
+    am "Seguimi."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:529
 translate italian sm1cs_am008_continue_7129dea6:
@@ -1016,7 +1016,7 @@ translate italian sm1cs_am008_continue_b556a1bb:
 translate italian sm1cs_am008_continue_11aa7ee2:
 
     # am "Ooof. Finally."
-    am "Ooof. Finally."
+    am "Ooof. Finalmente."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:541
 translate italian sm1cs_am008_continue_b9e49400:
@@ -1040,7 +1040,7 @@ translate italian sm1cs_am008_continue_eb617092:
 translate italian sm1cs_am008_continue_cfcc2293:
 
     # mc "I know."
-    mc "I know."
+    mc "Lo so."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:555
 translate italian sm1cs_am008_continue_603dfeff:
@@ -1064,7 +1064,7 @@ translate italian sm1cs_am008_continue_faae8290:
 translate italian sm1cs_am008_continue_468e6759:
 
     # am "I'm still mad at you."
-    am "I'm still mad at you."
+    am "Sono ancora arrabbiata con te."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:568
 translate italian sm1cs_am008_continue_823a982d:
@@ -1082,7 +1082,7 @@ translate italian sm1cs_am008_continue_ca6fa1cc:
 translate italian sm1cs_am008_continue_13e5e38d:
 
     # am "I don't know. Come kiss me."
-    am "I don't know. Come kiss me."
+    am "Non lo so. Vieni a baciarmi."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:575
 translate italian sm1cs_am008_continue_7f4f9e0d:
@@ -1100,7 +1100,7 @@ translate italian sm1cs_am008_continue_2fd245bb:
 translate italian sm1cs_am008_continue_7e5df753:
 
     # mc "I froze up."
-    mc "I froze up."
+    mc "Mi sono bloccato."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:584
 translate italian sm1cs_am008_continue_2cd0033c:
@@ -1130,7 +1130,7 @@ translate italian sm1cs_am008_continue_a626d9ce:
 translate italian sm1cs_am008_continue_cfc29437:
 
     # mc "I'm an open book."
-    mc "I'm an open book."
+    mc "Sono un libro aperto."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:601
 translate italian sm1cs_am008_continue_02eb4f8d:
@@ -1148,7 +1148,7 @@ translate italian sm1cs_am008_continue_a7c08d02:
 translate italian sm1cs_am008_continue_335113f2:
 
     # am "But... we don't need to keep talking about books, do we, [mcname]?"
-    am "But... we don't need to keep talking about books, do we, [mcname]?"
+    am "Ma... non dobbiamo continuare a parlare di libri, vero, [mcname]?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:610
 translate italian sm1cs_am008_continue_227dbcfb:
@@ -1160,13 +1160,13 @@ translate italian sm1cs_am008_continue_227dbcfb:
 translate italian sm1cs_am008_continue_4176382d:
 
     # am "But I also want to see how much of an effect it has on you."
-    am "But I also want to see how much of an effect it has on you."
+    am "Ma voglio anche vedere quanto effetto ha su di te."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:616
 translate italian sm1cs_am008_continue_92e87e8b:
 
     # am "Can you... help me out here?"
-    am "Can you... help me out here?"
+    am "Puoi... aiutarmi qui?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:622
 translate italian sm1cs_am008_continue_273fa2d0:
@@ -1190,7 +1190,7 @@ translate italian sm1cs_am008_continue_742c8716:
 translate italian sm1cs_am008_continue_b33bdb73:
 
     # am "I can feel it, idiot."
-    am "I can feel it, idiot."
+    am "Lo sento, idiota."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:631
 translate italian sm1cs_am008_continue_b7f9b37a:
@@ -1226,7 +1226,7 @@ translate italian sm1cs_am008_continue_954c80a5:
 translate italian sm1cs_am008_continue_d8e2fbd1:
 
     # am "*panting*"
-    am "*panting*"
+    am "*ansimando*"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:656
 translate italian sm1cs_am008_continue_5f0c812a:
@@ -1244,7 +1244,7 @@ translate italian sm1cs_am008_continue_3bc15469:
 translate italian sm1cs_am008_continue_61f77588:
 
     # mc "Got something for me?"
-    mc "Got something for me?"
+    mc "Hai qualcosa per me?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:681
 translate italian sm1cs_am008_continue_62b051b1:
@@ -1256,13 +1256,13 @@ translate italian sm1cs_am008_continue_62b051b1:
 translate italian sm1cs_am008_continue_e9fc1dd5:
 
     # mct "She's... acting bashful?"
-    mct "She's... acting bashful?"
+    mct "È... timida?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:686
 translate italian sm1cs_am008_continue_261694ce:
 
     # mc "Give it to me."
-    mc "Give it to me."
+    mc "Dammela."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:689
 translate italian sm1cs_am008_continue_cc27a1f7:
@@ -1274,13 +1274,13 @@ translate italian sm1cs_am008_continue_cc27a1f7:
 translate italian sm1cs_am008_continue_7d0b2798:
 
     # mct "Mmmm. She wants to give it to me."
-    mct "Mmmm. She wants to give it to me."
+    mct "Mmmm. Vuole darmela."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:691
 translate italian sm1cs_am008_continue_6c10da70:
 
     # mct "But she wants me to act a certain way."
-    mct "But she wants me to act a certain way."
+    mct "Ma vuole che mi comporti in un certo modo."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:692
 translate italian sm1cs_am008_continue_f6af85da:
@@ -1310,13 +1310,13 @@ translate italian sm1cs_am008_continue_954c80a5_1:
 translate italian sm1cs_am008_continue_37b6c54f:
 
     # mc "Too tight?"
-    mc "Too tight?"
+    mc "Troppo stretto?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:713
 translate italian sm1cs_am008_continue_4c674b25:
 
     # am "No. It's just right."
-    am "No. It's just right."
+    am "No. È perfetto."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:718
 translate italian sm1cs_am008_continue_82e39d08:
@@ -1328,13 +1328,13 @@ translate italian sm1cs_am008_continue_82e39d08:
 translate italian sm1cs_am008_continue_da4e06e6:
 
     # mc "Don't be nervous."
-    mc "Don't be nervous."
+    mc "Non essere nervosa."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:725
 translate italian sm1cs_am008_continue_4b3dda1d:
 
     # am "Can we try some pet play?"
-    am "Can we try some pet play?"
+    am "Possiamo provare un po' di gioco da animale domestico?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:726
 translate italian sm1cs_am008_continue_a43870fb:
@@ -1346,13 +1346,13 @@ translate italian sm1cs_am008_continue_a43870fb:
 translate italian sm1cs_am008_continue_fb3ff880:
 
     # am "Ah forget it."
-    am "Ah forget it."
+    am "Ah lascia perdere."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:731
 translate italian sm1cs_am008_continue_a7e4fe62:
 
     # am "It would be too much."
-    am "It would be too much."
+    am "Sarebbe troppo."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:738
 translate italian sm1cs_am008_continue_0255d6bf:
@@ -1370,7 +1370,7 @@ translate italian sm1cs_am008_continue_001426f0:
 translate italian sm1cs_am008_continue_68730b1e:
 
     # mc "Sabre is your safe word right?"
-    mc "Sabre is your safe word right?"
+    mc "Sabre è la tua parola di sicurezza, giusto?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:750
 translate italian sm1cs_am008_continue_1b337ef4:
@@ -1382,19 +1382,19 @@ translate italian sm1cs_am008_continue_1b337ef4:
 translate italian sm1cs_am008_continue_d207a461:
 
     # mc "Safety first."
-    mc "Safety first."
+    mc "La sicurezza prima di tutto."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:758
 translate italian sm1cs_am008_continue_8fc205e9:
 
     # am "Except for cumming in me."
-    am "Except for cumming in me."
+    am "Tranne che per venire dentro di me."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:761
 translate italian sm1cs_am008_continue_96dc08cf:
 
     # mc "Hah. Well. I mean yeah."
-    mc "Hah. Well. I mean yeah."
+    mc "Hah. Beh. Voglio dire sì."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:765
 translate italian sm1cs_am008_continue_3b97eef0:
@@ -1412,13 +1412,13 @@ translate italian sm1cs_am008_continue_6206f164:
 translate italian sm1cs_am008_continue_3fe213be:
 
     # am "Sabre. Short, easy to remember."
-    am "Sabre. Short, easy to remember."
+    am "Sabre. Corta, facile da ricordare."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:773
 translate italian sm1cs_am008_continue_dc16ebcd:
 
     # mc "Got it."
-    mc "Got it."
+    mc "Capito."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:775
 translate italian sm1cs_am008_continue_14de88de:
@@ -1442,13 +1442,13 @@ translate italian sm1cs_am008_sex_6a3c5a21:
 translate italian sm1cs_am008_sex_3013a90c:
 
     # mc "My good girl is all horny for my cock."
-    mc "My good girl is all horny for my cock."
+    mc "La mia brava ragazza è tutta eccitata per il mio cazzo."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:800
 translate italian sm1cs_am008_sex_aa5b25c3:
 
     # am "*whispers* Yes."
-    am "*whispers* Yes."
+    am "*sussurra* Sì."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:803
 translate italian sm1cs_am008_sex_845c4c57:
@@ -1460,13 +1460,13 @@ translate italian sm1cs_am008_sex_845c4c57:
 translate italian sm1cs_am008_sex_2845d24b:
 
     # am "Yes, I want your cock..."
-    am "Yes, I want your cock..."
+    am "Sì, voglio il tuo cazzo..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:811
 translate italian sm1cs_am008_sex_83210722:
 
     # mc "Over here."
-    mc "Over here."
+    mc "Qui."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:815
 translate italian sm1cs_am008_sex_d69db3d8:
@@ -1478,7 +1478,7 @@ translate italian sm1cs_am008_sex_d69db3d8:
 translate italian sm1cs_am008_sex_b6dd316c:
 
     # am "Oh god."
-    am "Oh god."
+    am "Oh dio."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:821
 translate italian sm1cs_am008_sex_51345f28:
@@ -1490,13 +1490,13 @@ translate italian sm1cs_am008_sex_51345f28:
 translate italian sm1cs_am008_sex_0e53616b:
 
     # mc "I know.{w} But I want to."
-    mc "I know.{w} But I want to."
+    mc "Lo so.{w} Ma voglio farlo."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:829
 translate italian sm1cs_am008_sex_6d93a56b:
 
     # mc "*licks*"
-    mc "*licks*"
+    mc "*lecca*"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:832
 translate italian sm1cs_am008_sex_d6fe58b0:
@@ -1508,7 +1508,7 @@ translate italian sm1cs_am008_sex_d6fe58b0:
 translate italian sm1cs_am008_sex_51fc12bc:
 
     # mc "I want to taste all of you."
-    mc "I want to taste all of you."
+    mc "Voglio assaggiare tutto di te."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:842
 translate italian sm1cs_am008_sex_c3df0dcc:
@@ -1520,61 +1520,61 @@ translate italian sm1cs_am008_sex_c3df0dcc:
 translate italian sm1cs_am008_sex_1d92c137:
 
     # am "*happily moaning*"
-    am "*happily moaning*"
+    am "*gemendo felicemente*"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:847
 translate italian sm1cs_am008_sex_d4bafbb4:
 
     # am "O-Oh... Master..."
-    am "O-Oh... Master..."
+    am "O-Oh... Padrone..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:849
 translate italian sm1cs_am008_sex_6915b413:
 
     # mc "Mmmm. My good girl likes this."
-    mc "Mmmm. My good girl likes this."
+    mc "Mmmm. Alla mia brava ragazza piace questo."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:850
 translate italian sm1cs_am008_sex_0e5e1c71:
 
     # am "Yes, she does."
-    am "Yes, she does."
+    am "Sì, le piace."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:851
 translate italian sm1cs_am008_sex_868aaf21:
 
     # am "*deep moaning*"
-    am "*deep moaning*"
+    am "*gemendo profondamente*"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:853
 translate italian sm1cs_am008_sex_1db33307:
 
     # am "She's never been treated like this."
-    am "She's never been treated like this."
+    am "Non è mai stata trattata così."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:854
 translate italian sm1cs_am008_sex_5c266977:
 
     # am "By someone who loves her..."
-    am "By someone who loves her..."
+    am "Da qualcuno che la ama..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:855
 translate italian sm1cs_am008_sex_3633d73d:
 
     # am "Without hangups."
-    am "Without hangups."
+    am "Senza complessi."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:858
 translate italian sm1cs_am008_sex_4b36ae47:
 
     # mc "You're so cute, April."
-    mc "You're so cute, April."
+    mc "Sei così carina, April."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:859
 translate italian sm1cs_am008_sex_d4c168c7:
 
     # am "Ehu-ahuah... I'm not."
-    am "Ehu-ahuah... I'm not."
+    am "Ehu-ahuah... Non lo sono."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:860
 translate italian sm1cs_am008_sex_d6f44a4e:
@@ -1598,13 +1598,13 @@ translate italian sm1cs_am008_sex_f1349421:
 translate italian sm1cs_am008_sex_49cb218f:
 
     # am "Fuck-ah... or Claire."
-    am "Fuck-ah... or Claire."
+    am "Cazzo-ah... o Claire."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:866
 translate italian sm1cs_am008_sex_9159c269:
 
     # am "I'm regular-iihuaaah."
-    am "I'm regular-iihuaaah."
+    am "Sono normale-iihuaaah."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:867
 translate italian sm1cs_am008_sex_ef692f57:
@@ -1616,19 +1616,19 @@ translate italian sm1cs_am008_sex_ef692f57:
 translate italian sm1cs_am008_sex_8d9bcc1a:
 
     # mc "You're my spectacular...{w} Sometimes bitch..."
-    mc "You're my spectacular...{w} Sometimes bitch..."
+    mc "Sei la mia spettacolare...{w} A volte stronza..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:870
 translate italian sm1cs_am008_sex_2ac70d7c:
 
     # mc "But otherwise amazing girlfriend."
-    mc "But otherwise amazing girlfriend."
+    mc "Ma per il resto straordinaria ragazza."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:872
 translate italian sm1cs_am008_sex_60c4d0b2:
 
     # am "Ouhah... dork."
-    am "Ouhah... dork."
+    am "Ouhah... sfigato."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:873
 translate italian sm1cs_am008_sex_3efd31c4:
@@ -1640,13 +1640,13 @@ translate italian sm1cs_am008_sex_3efd31c4:
 translate italian sm1cs_am008_sex_8aee6898:
 
     # am "Come on!"
-    am "Come on!"
+    am "Dai!"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:882
 translate italian sm1cs_am008_sex_67de240f:
 
     # am "Up up up!"
-    am "Up up up!"
+    am "Su su su!"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:890
 translate italian sm1cs_am008_sex_d28cd4f7:
@@ -1664,7 +1664,7 @@ translate italian sm1cs_am008_sex_b633a5fa:
 translate italian sm1cs_am008_sex_e23dc044:
 
     # am "Or make love to me?"
-    am "Or make love to me?"
+    am "O fare l'amore con me?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:901
 translate italian sm1cs_am008_sex_3c1204cd:
@@ -1682,19 +1682,19 @@ translate italian sm1cs_am008_sex_5336fa9b:
 translate italian sm1cs_am008_sex_5acef5c3:
 
     # am "I'm doing my best."
-    am "I'm doing my best."
+    am "Sto facendo del mio meglio."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:909
 translate italian sm1cs_am008_sex_53b37c67:
 
     # mc "I know.{w} Keep going."
-    mc "I know.{w} Keep going."
+    mc "Lo so.{w} Continua."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:917
 translate italian sm1cs_am008_sex_bbde03f4:
 
     # am "I want to taste more of you."
-    am "I want to taste more of you."
+    am "Voglio assaggiare di più di te."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:923
 translate italian sm1cs_am008_sex_47e01044:
@@ -1970,7 +1970,7 @@ translate italian sm1cs_am008_sex_620b3374:
 translate italian sm1cs_am008_sex_24c187ef:
 
     # am "I want to try being on top."
-    am "I want to try being on top."
+    am "Voglio provare a stare sopra."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1041
 translate italian sm1cs_am008_sex_8fdeda07:
@@ -2012,7 +2012,7 @@ translate italian sm1cs_am008_sex_4abe8e50:
 translate italian sm1cs_am008_sex_5220b548:
 
     # am "How do I look, Master?"
-    am "How do I look, Master?"
+    am "Come sembro, Padrone?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1070
 translate italian sm1cs_am008_sex_a92e7dcb:
@@ -2054,7 +2054,7 @@ translate italian sm1cs_am008_sex_d7c2d178:
 translate italian sm1cs_am008_sex_175d8c36:
 
     # mc "I fucking love it."
-    mc "I fucking love it."
+    mc "Lo adoro cazzo."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1080
 translate italian sm1cs_am008_sex_adfa8c14:
@@ -2210,7 +2210,7 @@ translate italian sm1cs_am008_sex_4de8fb34:
 translate italian sm1cs_am008_sex_03a49d26:
 
     # am "I can take it."
-    am "I can take it."
+    am "Posso sopportarlo."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1148
 translate italian sm1cs_am008_sex_0b2e5a4c:
@@ -2222,7 +2222,7 @@ translate italian sm1cs_am008_sex_0b2e5a4c:
 translate italian sm1cs_am008_sex_22a66f3c:
 
     # am "Pssssh. I didn't say that."
-    am "Pssssh. I didn't say that."
+    am "Pssssh. Non l'ho detto."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1152
 translate italian sm1cs_am008_sex_cd77dcbf:
@@ -2300,7 +2300,7 @@ translate italian sm1cs_am008_sex_1a96e15e:
 translate italian sm1cs_am008_sex_1ffda605:
 
     # mc "Well I do. It's part of being together."
-    mc "Well I do. It's part of being together."
+    mc "Beh io sì. Fa parte dello stare insieme."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1189
 translate italian sm1cs_am008_sex_ab5c048a:
@@ -2366,7 +2366,7 @@ translate italian sm1cs_am008_sex_a5d063a2:
 translate italian sm1cs_am008_sex_01406074:
 
     # am "Muah-rhuaha... I can feel my pussy twitching."
-    am "Muah-rhuaha... I can feel my pussy twitching."
+    am "Muah-rhuaha... Sento la mia figa contorcersi."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1213
 translate italian sm1cs_am008_sex_6b56c2ba:
@@ -2408,7 +2408,7 @@ translate italian sm1cs_am008_sex_139b04bc:
 translate italian sm1cs_am008_sex_38cbf89e:
 
     # mc "Yeah... I can feel it."
-    mc "Yeah... I can feel it."
+    mc "Sì... Lo sento."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1224
 translate italian sm1cs_am008_sex_09f6b776:
@@ -2552,7 +2552,7 @@ translate italian sm1cs_am008_sex_4b519f08:
 translate italian sm1cs_am008_sex_a4d8d3d6:
 
     # am "Mmm... I kind of want to..."
-    am "Mmm... I kind of want to..."
+    am "Mmm... Voglio un po'..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1300
 translate italian sm1cs_am008_sex_d45ed531:
@@ -2618,7 +2618,7 @@ translate italian sm1cs_am008_sex_a88f6a20:
 translate italian sm1cs_am008_sex_a1fd7384:
 
     # am "I...{w} I don't think so, [mcname]."
-    am "I...{w} I don't think so, [mcname]."
+    am "Io...{w} Non credo, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1336
 translate italian sm1cs_am008_sex_e31451cc:
@@ -2642,7 +2642,7 @@ translate italian sm1cs_am008_sex_4f83074e:
 translate italian sm1cs_am008_sex_82cc65cb:
 
     # am "Ooooh. Am I your slut then? Your tramp?"
-    am "Ooooh. Am I your slut then? Your tramp?"
+    am "Ooooh. Sono la tua troia allora? La tua sgualdrina?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1354
 translate italian sm1cs_am008_sex_dc92afdd:
@@ -2672,7 +2672,7 @@ translate italian sm1cs_am008_sex_3cb5772e:
 translate italian sm1cs_am008_sex_0fb9c44c:
 
     # am "But it's just for us in our private moments."
-    am "But it's just for us in our private moments."
+    am "Ma è solo per noi nei nostri momenti privati."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1373
 translate italian sm1cs_am008_sex_daf58919:
@@ -2690,7 +2690,7 @@ translate italian sm1cs_am008_sex_e1bae39e:
 translate italian sm1cs_am008_sex_cd04d109:
 
     # mc "I know how to handle sensitive subjects."
-    mc "I know how to handle sensitive subjects."
+    mc "So come gestire argomenti delicati."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1381
 translate italian sm1cs_am008_sex_8b469cc9:
@@ -2870,7 +2870,7 @@ translate italian sm1cs_am008_sex_c5021bf2:
 translate italian sm1cs_am008_sex_9ce629b1:
 
     # mct "For now, I should probably get some work done."
-    mct "For now, I should probably get some work done."
+    mct "Per ora, dovrei probabilmente fare un po' di lavoro."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1491
 translate italian sm1cs_am008_sex_7609f224:
@@ -2898,7 +2898,7 @@ translate italian strings:
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:230
     old "Nothing wrong with that"
-    new "Nothing wrong with that"
+    new "Niente di male in questo"
 
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:230
     old "That is oddly specific"

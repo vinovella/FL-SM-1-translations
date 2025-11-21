@@ -1602,3 +1602,111 @@ translate french sm1cs_dc009_2341bb60:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:210
+translate french sm1cs_dc009_78d5a7ce:
+
+    # mct "I can't help but think of a different wiener I'd love for her to be putting-"
+    mct "I can't help but think of a different wiener I'd love for her to be putting-"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:222
+translate french sm1cs_dc009_c2f0d634:
+
+    # mc "No, everything is great.{w} But, I do have a confession to make..."
+    mc "No, everything is great.{w} But, I do have a confession to make..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:272
+translate french sm1cs_dc009_6cf47e29:
+
+    # dc "And I'd like to do that with you, [mcname]!"
+    dc "And I'd like to do that with you, [mcname]!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:344
+translate french sm1cs_dc009_bb81e359:
+
+    # dc "That is the most important rule about any and every gun."
+    dc "That is the most important rule about any and every gun."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:395
+translate french sm1cs_dc009_6827ff1e:
+
+    # dc "All right, and lean a little forward, brace yourself a bit for the recoil..."
+    dc "All right, and lean a little forward, brace yourself a bit for the recoil..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:456
+translate french sm1cs_dc009_440ee9ae:
+
+    # doc "Well hi there, little miss police officer!"
+    doc "Well hi there, little miss police officer!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:468
+translate french sm1cs_dc009_101d86dd:
+
+    # doc "Oh, that's not a surprise!"
+    doc "Oh, that's not a surprise!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:480
+translate french sm1cs_dc009_e360942c:
+
+    # doc "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
+    doc "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:488
+translate french sm1cs_dc009_fd79c6d2:
+
+    # doc "What's you just call me?"
+    doc "What's you just call me?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:497
+translate french sm1cs_dc009_79c0c6bc:
+
+    # doc "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
+    doc "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:512
+translate french sm1cs_dc009_9fae04d3:
+
+    # doc "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
+    doc "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:513
+translate french sm1cs_dc009_3524c2c1:
+
+    # doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
+    doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:518
+translate french sm1cs_dc009_a03bd0eb:
+
+    # doc "Ohhh, my tits, ohhhhh!"
+    doc "Ohhh, my tits, ohhhhh!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:526
+translate french sm1cs_dc009_21183386:
+
+    # doc "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
+    doc "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:576
+translate french sm1cs_dc009_6f1555e8:
+
+    # doc "Hahahahahaha!"
+    doc "Hahahahahaha!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:634
+translate french sm1cs_dc009_8359aaa6:
+
+    # doc "Bullshit! No way!"
+    doc "Bullshit! No way!"
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:639
+translate french sm1cs_dc009_337ab247:
+
+    # doc "Shit... three 9s..."
+    doc "Shit... three 9s..."
+
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:670
+translate french sm1cs_dc009_fad668c9:
+
+    # dc "I mean...{w} you want me as your girlfriend?"
+    dc "I mean...{w} you want me as your girlfriend?"
+

@@ -724,5 +724,5 @@ translate portuguese strings:
 translate portuguese sm1cs_cw001_end_convo_c4aa9c65:
 
     # mc "Did Orbix have some trouble with inter-office relationships in the past?"
-    mc "Did Orbix have some trouble with inter-office relationships in the past?"
+    mc "A Orbix já teve problema com relacionamento entre colegas no passado?"
 

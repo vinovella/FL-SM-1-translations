@@ -464,8 +464,6 @@ translate deutsch strings:
     old "Ask about the play"
     new "Frage nach dem Stück"
 
-translate deutsch strings:
-
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Photography-101 for $60"
     new "Kaufe Fotografie-101 für $60"
@@ -478,8 +476,6 @@ translate deutsch strings:
     old "Purchase An Actor Prepares for $60"
     new "Kaufe Ein Schauspieler bereitet sich vor für $60"
 
-translate deutsch strings:
-
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask Debbie to the movies"
     new "Frage Debbie, ob sie mit dir ins Kino gehen möchte"
@@ -491,4 +487,12 @@ translate deutsch strings:
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Good morning!"
     new "Guten Morgen!"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Live Chat with Stacy"
+    new "Live-Chat mit Stacy"
+
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Let's go to sleep"
+    new "Lass uns schlafen gehen"
 

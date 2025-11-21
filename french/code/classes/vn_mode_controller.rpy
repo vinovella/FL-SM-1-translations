@@ -8,4 +8,7 @@
     old "Progress required storylines"
     new "Progrès requis"
 
-#Translate by BlackViper_
+    # game/code/classes/vn_mode_controller.rpy:208
+    old "Progress [storyline_name!t]"
+    new "Progrès [storyline_name!t]"
+

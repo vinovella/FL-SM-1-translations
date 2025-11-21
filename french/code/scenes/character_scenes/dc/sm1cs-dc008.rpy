@@ -1037,3 +1037,9 @@ translate french sm1cs_dc008_b12cc4d7:
     mc "Je suis reconnaissant que tu aies partagé cette part de toi avec moi, Debbie."
 
 #Translate by BlackViper_
+# game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:396
+translate french sm1cs_dc008_a037dc10:
+
+    # dc "Thanks, [mcname]. I like your outfit too."
+    dc "Thanks, [mcname]. I like your outfit too."
+

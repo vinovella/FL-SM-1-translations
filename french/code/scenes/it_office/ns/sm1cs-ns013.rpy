@@ -2405,3 +2405,33 @@ translate french strings:
     new "Environ trente minutes plus tard"
 
 #Translate by BlackViper_
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:570
+translate french ns013_labels_section_0887f6cc:
+
+    # ns "I am a very bad [nspetlabel]."
+    ns "I am a very bad [nspetlabel]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:608
+translate french ns013_labels_section_3688c4d9:
+
+    # ns "A little. I'm actually still-"
+    ns "A little. I'm actually still-"
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:666
+translate french ns013_labels_section_713f1049:
+
+    # ns "You're always so kind to me, [nsmcpetlabel]."
+    ns "You're always so kind to me, [nsmcpetlabel]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:691
+translate french ns013_labels_section_791ab451:
+
+    # mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
+    mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
+
+# game/code/scenes/it_office/ns/sm1cs-ns013.rpy:702
+translate french ns013_labels_section_ab353c83:
+
+    # ns "I can go... Mrrmmm... at just the right speed."
+    ns "I can go... Mrrmmm... at just the right speed."
+

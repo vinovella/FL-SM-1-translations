@@ -1256,5 +1256,5 @@ translate portuguese sm1cs_kv005_come_back_later_74105290:
 translate portuguese sm1cs_kv005_part_2_a6c5416e:
 
     # kv "Good. It's got a little more lace than I'm used to, but I figured I'd try out something different, see how it went."
-    kv "Good. It's got a little more lace than I'm used to, but I figured I'd try out something different, see how it went."
+    kv "Bom. Tem um pouco mais de renda do que eu tô acostumada, mas achei que valia tentar algo diferente pra ver no que dava."
 

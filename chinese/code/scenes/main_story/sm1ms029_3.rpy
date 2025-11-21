@@ -428,7 +428,7 @@ translate chinese sm1ms029_part_1_my_appear_dbe896c1:
 translate chinese sm1ms029_part_1_my_appear_31ebab56:
 
     # "Everyone" "Wooooo!"
-    "Everyone" "哇哦哦哦！"
+    "大家" "哇哦哦哦！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1543
 translate chinese sm1ms029_part_1_my_appear_e91e8c0a:

@@ -626,7 +626,7 @@ translate italian sm1cs_mh010_cf3a84ff:
 translate italian sm1cs_mh010_cf914103:
 
     # mc "Good night, Lyssa."
-    mc "Good night, Lyssa."
+    mc "Buonanotte, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:331
 translate italian sm1cs_mh010_1309666f:

@@ -704,117 +704,117 @@ translate portuguese strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Meet an old friend"
-    new "Meet an old friend"
+    new "Encontre uma velha amiga"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Surprise Nari at night"
-    new "Surprise Nari at night"
+    new "Surpreenda Nari à noite"
 
 translate portuguese strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Denise's, Kellie's, and Veronica's storylines"
-    new "Progress Denise's, Kellie's, and Veronica's storylines"
+    new "Avance as histórias de Denise, Kellie e Veronica"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress the Theater and Taisia's storylines"
-    new "Progress the Theater and Taisia's storylines"
+    new "Avance as histórias do teatro e de Taisia"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Lyssa's storyline and the Main Story"
-    new "Progress Lyssa's storyline and the Main Story"
+    new "Avance a história de Lyssa e a História Principal"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Anna's and Nari's storylines"
-    new "Progress Anna's and Nari's storylines"
+    new "Avance as histórias de Anna e Nari"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
-    new "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
+    new "Avance as histórias de Denise, Kellie, Taisia e Veronica"
 
 translate portuguese strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk big business"
-    new "Talk big business"
+    new "Fale de negócios"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress AmRose's story"
-    new "Progress AmRose's story"
+    new "Avance a história da AmRose"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Throw a party"
-    new "Throw a party"
+    new "Solte uma festa"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Start making the second movie"
-    new "Start making the second movie"
+    new "Comece a produzir o segundo filme"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Text AmRose for a meetup"
-    new "Text AmRose for a meetup"
+    new "Mande mensagem para AmRose para marcar encontro"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Answer AmRose's message"
-    new "Answer AmRose's message"
+    new "Responda a mensagem da AmRose"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Reminisce with AmRose"
-    new "Reminisce with AmRose"
+    new "Relembre os velhos tempos com AmRose"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk with Amore"
-    new "Talk with Amore"
+    new "Fale com Amore"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Date with Debbie at the shooting range"
-    new "Date with Debbie at the shooting range"
+    new "Encontro com Debbie na estante de tiro"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Movie date with Debbie"
-    new "Movie date with Debbie"
+    new "Encontro para filmes com Debbie"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Working it with Maya"
-    new "Working it with Maya"
+    new "Mandando ver com a Maya"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Some fun with Min"
-    new "Some fun with Min"
+    new "Diversão com a Min"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Contest with Melony and Stacy"
-    new "Contest with Melony and Stacy"
+    new "Competição de Melony e Stacy"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "A night in Melony"
-    new "A night in Melony"
+    new "Uma noite em Melony"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Answer April's message"
-    new "Answer April's message"
+    new "Responda a mensagem da April"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Dinner with April"
-    new "Dinner with April"
+    new "Jantar com April"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Perform a hungry show"
-    new "Perform a hungry show"
+    new "Atue com vontade"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about the play"
-    new "Talk about the play"
+    new "Fale sobre a peça"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Text Taisia"
-    new "Text Taisia"
+    new "Mande mensagem para Taisia"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Taisia wants to make breakfast"
-    new "Taisia wants to make breakfast"
+    new "Taisia quer fazer café da manhã"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Nari is hungry in the morning"
-    new "Nari is hungry in the morning"
+    new "Nari está com fome de manhã"
 

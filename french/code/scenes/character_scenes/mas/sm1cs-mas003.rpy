@@ -1712,3 +1712,15 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:710
+translate french sm1cs_mas003_third_delivery_fedc52e9:
+
+    # ka "*sniff* They're the best."
+    ka "*sniff* They're the best."
+
+translate french strings:
+
+    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
+    old "You got a $[amount] as your cut of the tip"
+    new "You got a $[amount] as your cut of the tip"
+

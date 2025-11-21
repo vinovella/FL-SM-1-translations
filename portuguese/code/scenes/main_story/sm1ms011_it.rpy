@@ -486,35 +486,35 @@ translate portuguese strings:
 translate portuguese sm1ms011_it_039d17e4:
 
     # sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
-    sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
+    sy "Tá, acho justo. Falando na empresa, você não me falou muito das pessoas lá."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:113
 translate portuguese sm1fs_i011_it_talk_ns_ac838888:
 
     # mc "This girl Nari Song is pretty cute."
-    mc "This girl Nari Song is pretty cute."
+    mc "Tem uma garota chamada Nari Song, bem bonitinha."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:212
 translate portuguese sm1fs_i011_it_talk_am_09c55492:
 
     # mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
-    mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
+    mc "Talvez. Pode ser que ela tenha sido colocada com outras pessoas que não tenha dado certo, aí se cansou de lidar com noobs."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:215
 translate portuguese sm1fs_i011_it_talk_am_36deca91:
 
     # sy "Hmmmph. That's no excuse to be rude to you or the new girl."
-    sy "Hmmmph. That's no excuse to be rude to you or the new girl."
+    sy "Hmmffff. Isso não é desculpa pra ser rude com você e com a novata."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:242
 translate portuguese sm1ms011_it_continue_36be2754:
 
     # sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
-    sy "No way. Big mistake, pal. Think about it. She could be the biggest closet pervert of them all."
+    sy "Nada disso. Grande erro, companheiro. Pensa só. Ela pode ser a mais safada de todas por dentro."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:277
 translate portuguese sm1ms011_it_continue_d4b1ca4d:
 
     # sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
-    sy "Great. I know you, [mcname]. Whatever you put your mind to, I'm sure you can knock it out of the park."
+    sy "Ótimo. [mcname], eu te conheço. Eu sei que vai mandar muito bem no que for tentar fazer."
 

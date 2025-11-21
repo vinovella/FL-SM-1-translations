@@ -983,3 +983,15 @@ translate french sm1cs_kv003_51d06342:
     kv "C'est quoi la prochaine question ?"
 
 #Translate by BlackViper_
+# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:159
+translate french sm1cs_kv003_222c534c:
+
+    # kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
+    kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
+
+# game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:478
+translate french sm1cs_kv003_9ac58097:
+
+    # kv "I-I-I- think I'm going to cum!"
+    kv "I-I-I- think I'm going to cum!"
+

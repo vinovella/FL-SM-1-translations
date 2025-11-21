@@ -488,3 +488,7 @@
     old "Let's go to sleep"
     new "让我们去睡觉吧"
 
+    # game/code/data/interaction_options/interaction_character_options.rpy:3
+    old "Live Chat with Stacy"
+    new "与斯泰西进行直播聊天"
+

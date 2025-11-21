@@ -1340,21 +1340,21 @@ translate portuguese strings:
 translate portuguese sm1cs_ns009_sex_continue_78168329:
 
     # ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
-    ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
+    ns "*risos* Não me deixa {i}muito{/i} envergonhada, [mcname]."
 
 translate portuguese strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
     old "Dominate Nari"
-    new "Dominate Nari"
+    new "Dominar Nari"
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
     old "Don't dominate Nari"
-    new "Don't dominate Nari"
+    new "Não dominar Nari"
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:87
 translate portuguese sm1cs_ns009_f37a2921:
 
     # mc "And... I totally wasn't scared."
-    mc "And... I totally wasn't scared."
+    mc "E... Não estava com medo algum."
 

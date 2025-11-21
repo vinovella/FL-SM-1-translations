@@ -24,5 +24,7 @@
     old "Goodbye."
     new "Au revoir."
 
-#Translate by BlackViper_
+    # game/code/data/chat/chat_cw.rpy:3
+    old "Hi, Ms. Watts."
+    new "Bonjour, Mme Watts."
 

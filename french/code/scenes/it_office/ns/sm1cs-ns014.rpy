@@ -1228,3 +1228,9 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/it_office/ns/sm1cs-ns014.rpy:347
+translate french sm1cs_ns014_studio_34d49c4d:
+
+    # ns "No fair. You're too sneaky. Stacy..."
+    ns "No fair. You're too sneaky. Stacy..."
+

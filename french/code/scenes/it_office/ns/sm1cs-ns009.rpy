@@ -1359,3 +1359,9 @@ translate french strings:
     new "Ne pas dominer Nari"
 
 #Translate by BlackViper_
+# game/code/scenes/it_office/ns/sm1cs-ns009.rpy:87
+translate french sm1cs_ns009_f37a2921:
+
+    # mc "And... I totally wasn't scared."
+    mc "And... I totally wasn't scared."
+

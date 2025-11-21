@@ -1726,3 +1726,27 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:73
+translate french sm1cs_my004_3c362a4d:
+
+    # mc "Stacy, you're my best friend. I know when you're lying."
+    mc "Stacy, you're my best friend. I know when you're lying."
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:86
+translate french sm1cs_my004_37fb631c:
+
+    # sy "My boyfriend! Calling me a bamboozler!"
+    sy "My boyfriend! Calling me a bamboozler!"
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:105
+translate french sm1cs_my004_edd08fb7:
+
+    # sy "Hey, Melony!"
+    sy "Hey, Melony!"
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:111
+translate french sm1cs_my004_3270b043:
+
+    # mct "Why the hell did Stacy invite Melony over?"
+    mct "Why the hell did Stacy invite Melony over?"
+

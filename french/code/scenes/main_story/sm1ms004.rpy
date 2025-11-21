@@ -582,3 +582,21 @@ translate french sm1ms004_fcf11b81:
 
 #Translate by BlackViper_
 
+# game/code/scenes/main_story/sm1ms004.rpy:69
+translate french sm1ms004_6ca11396:
+
+    # arj "Never mind. It doesn't matter."
+    arj "Never mind. It doesn't matter."
+
+# game/code/scenes/main_story/sm1ms004.rpy:171
+translate french sm1ms004_b80a46ec:
+
+    # mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
+    mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
+
+# game/code/scenes/main_story/sm1ms004.rpy:266
+translate french sm1ms004_738d94cc:
+
+    # mct "Maybe this isn't completely fucked after all."
+    mct "Maybe this isn't completely fucked after all."
+

@@ -1,4 +1,5 @@
 ﻿translate french strings:
+
     # game/code/data/constants/constants.rpy:358
     old "Animals"
     new "Animaux"
@@ -131,5 +132,71 @@
     old "Su"
     new "Di"
 
-#Translate by BlackViper_
+    # game/code/data/constants/constants.rpy:133
+    old "Monday"
+    new "Lundi"
+
+    # game/code/data/constants/constants.rpy:134
+    old "Tuesday"
+    new "Mardi"
+
+    # game/code/data/constants/constants.rpy:135
+    old "Wednesday"
+    new "Mercredi"
+
+    # game/code/data/constants/constants.rpy:136
+    old "Thursday"
+    new "Jeudi"
+
+    # game/code/data/constants/constants.rpy:137
+    old "Friday"
+    new "Vendredi"
+
+    # game/code/data/constants/constants.rpy:138
+    old "Saturday"
+    new "Samedi"
+
+    # game/code/data/constants/constants.rpy:139
+    old "Sunday"
+    new "Dimanche"
+
+    # game/code/data/constants/constants.rpy:170
+    old "Mon"
+    new "Lun"
+
+    # game/code/data/constants/constants.rpy:171
+    old "Tue"
+    new "Mar"
+
+    # game/code/data/constants/constants.rpy:172
+    old "Wed"
+    new "Mer"
+
+    # game/code/data/constants/constants.rpy:173
+    old "Thu"
+    new "Jeu"
+
+    # game/code/data/constants/constants.rpy:174
+    old "Fri"
+    new "Ven"
+
+    # game/code/data/constants/constants.rpy:175
+    old "Sat"
+    new "Sam"
+
+    # game/code/data/constants/constants.rpy:176
+    old "Sun"
+    new "Dim"
+
+    # game/code/data/constants/constants.rpy:388
+    old "Book"
+    new "Livre"
+
+    # game/code/data/constants/constants.rpy:389
+    old "Magazine"
+    new "Magazine"
+
+    # game/code/data/constants/constants.rpy:398
+    old "Energy drink"
+    new "Boisson énergisante"
 

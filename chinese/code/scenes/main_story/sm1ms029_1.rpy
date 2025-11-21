@@ -1094,7 +1094,7 @@ translate chinese sm1ms029_party_continue_f54e7e3a:
 translate chinese sm1ms029_party_continue_02321992:
 
     # "Everyone" "Wooo! *claps*"
-    "Everyone" "哇哦！*鼓掌*"
+    "大家" "哇哦！*鼓掌*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:525
 translate chinese sm1ms029_party_continue_fba86d44:
@@ -1118,7 +1118,7 @@ translate chinese sm1ms029_party_continue_3a8d95bc:
 translate chinese sm1ms029_party_continue_31ebab56:
 
     # "Everyone" "Wooooo!"
-    "Everyone" "哇哦哦哦！"
+    "大家" "哇哦哦哦！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:540
 translate chinese sm1ms029_party_continue_6c812957:

@@ -1148,3 +1148,9 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:112
+translate french sm1cs_ns011_a266d0ee:
+
+    # ns "Sugar Daddies love to play with their Good Girls..."
+    ns "Sugar Daddies love to play with their Good Girls..."
+

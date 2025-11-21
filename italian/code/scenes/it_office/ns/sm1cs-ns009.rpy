@@ -584,7 +584,7 @@ translate italian sm1cs_ns009_sex_df6ea34e:
 translate italian sm1cs_ns009_sex_4db3fc2f:
 
     # ns "Really?"
-    ns "Really?"
+    ns "Davvero?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:325
 translate italian sm1cs_ns009_sex_84d9991b:
@@ -1034,7 +1034,7 @@ translate italian sm1cs_ns009_sex_continue_b3e25a98_1:
 translate italian sm1cs_ns009_sex_continue_da1a57a4:
 
     # ns "*moaning* It makes me happy, knowing you like my body."
-    ns "*moaning* It makes me happy, knowing you like my body."
+    ns "*gemendo* Mi rende felice, sapere che ti piace il mio corpo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:570
 translate italian sm1cs_ns009_sex_continue_aa0b61b4:
@@ -1354,5 +1354,5 @@ translate italian strings:
 translate italian sm1cs_ns009_f37a2921:
 
     # mc "And... I totally wasn't scared."
-    mc "And... I totally wasn't scared."
+    mc "E... non ero assolutamente spaventato."
 

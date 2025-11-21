@@ -6,11 +6,11 @@
 
     # game/code/renpy/screens/difficulity.rpy:22
     old "Full Experience"
-    new "Umfassende Erfahrung"
+    new "Volles Erlebnis"
 
     # game/code/renpy/screens/difficulity.rpy:34
     old "No Minigames"
-    new "Keine Minispiele"
+    new "Ohne Minispiele"
 
     # game/code/renpy/screens/difficulity.rpy:46
     old "No Sandbox"
@@ -57,4 +57,3 @@ translate deutsch strings:
     # game/code/renpy/screens/difficulity.rpy:54
     old "A streamlined experience focusing on narrative"
     new "Ein optimiertes Nutzererlebnis mit Fokus auf die Erzählung"
-

@@ -1118,3 +1118,45 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:34
+translate french sm1cs_ns005_ef1a9eef:
+
+    # mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
+    mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
+
+# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:48
+translate french sm1cs_ns005_bdbf9d38:
+
+    # ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
+    ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
+
+# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:67
+translate french sm1cs_ns005_ecb1749e:
+
+    # ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
+    ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
+
+# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:381
+translate french sm1cs_ns005_in_bathroom_55af1966:
+
+    # mc "I... I don't. But I want you to finish me off."
+    mc "I... I don't. But I want you to finish me off."
+
+# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:540
+translate french sm1cs_ns005_after_cum_f15deec7:
+
+    # ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
+    ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
+
+# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:679
+translate french sm1cs_ns005_after_cum_5af9bd6d:
+
+    # ns "You know I'm very efficient."
+    ns "You know I'm very efficient."
+
+# game/code/scenes/it_office/ns/sm1cs-ns005.rpy:683
+translate french sm1cs_ns005_after_cum_34dbd9c4:
+
+    # mc "Give me a little time and I'll find a restaurant and text you the details."
+    mc "Give me a little time and I'll find a restaurant and text you the details."
+

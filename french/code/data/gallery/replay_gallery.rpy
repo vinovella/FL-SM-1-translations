@@ -240,5 +240,31 @@
     old "Star Voyage VI: Babe-lyon 9"
     new "Star Voyage VI : Babe-lyon 9"
 
-#Translate by BlackViper_
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Mask party"
+    new "Fête masquée"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Convincing AmRose"
+    new "Convaincre AmRose"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Date with Debbie"
+    new "Rendez-vous avec Debbie"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Settling score with Maya"
+    new "Règlement de comptes avec Maya"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Helping Min relief stress"
+    new "Aider Min à se détendre"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Date with April"
+    new "Rendez-vous avec April"
+
+    # game/code/data/gallery/replay_gallery.rpy:1
+    old "Practicing with Denise"
+    new "Practicing with Denise"
 

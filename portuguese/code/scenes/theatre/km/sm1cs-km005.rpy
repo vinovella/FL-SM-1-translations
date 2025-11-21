@@ -1334,17 +1334,17 @@ translate portuguese strings:
 
     # game/code/scenes/theatre/km/sm1cs-km005.rpy:534
     old "Why did you do that?"
-    new "Por que você fez isso?"
+    new "Por que fez isso?"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:429
 translate portuguese sm1cs_km005_22270354:
 
     # mc "Says the girl with hard nipples poking at her top."
-    mc "Says the girl with hard nipples poking at her top."
+    mc "Diz a garota com os mamilos duros quase furando o top."
 
 translate portuguese strings:
 
     # game/code/scenes/theatre/km/sm1cs-km005.rpy:535
     old "That was good. But now we've got a little mess to clean up"
-    new "That was good. But now we've got a little mess to clean up"
+    new "Isso foi legal. Mas agora a gente tem uma bagunça para limpar"
 

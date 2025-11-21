@@ -811,3 +811,15 @@ translate french strings:
     new "Je n'ai pas besoin de savoir"
 
 #Translate by BlackViper_
+# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:168
+translate french sm1cs_ns002_bc4ba015:
+
+    # mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+    mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+
+# game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
+translate french sm1cs_ns002_94a1cd6a:
+
+    # mct "No one is close. I hope."
+    mct "No one is close. I hope."
+

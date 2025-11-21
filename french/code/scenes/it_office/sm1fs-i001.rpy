@@ -604,3 +604,27 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/it_office/sm1fs-i001.rpy:50
+translate french sm1fs_i001_af917135:
+
+    # ag "Please have a seat."
+    ag "Please have a seat."
+
+# game/code/scenes/it_office/sm1fs-i001.rpy:93
+translate french sm1fs_i001_73236aa5:
+
+    # ag "Hi, what can I help you with, April?"
+    ag "Hi, what can I help you with, April?"
+
+# game/code/scenes/it_office/sm1fs-i001.rpy:178
+translate french sm1fs_i001_fd7e7967:
+
+    # mc "Uhhhh, mostly FPS games. Every once in a while I'll pull up-"
+    mc "Uhhhh, mostly FPS games. Every once in a while I'll pull up-"
+
+# game/code/scenes/it_office/sm1fs-i001.rpy:336
+translate french sm1fs_i001_got_hired_718fe7f4:
+
+    # ag "If you come tomorrow, [gt.next_day_name!t] at 8:00 am you should be able to meet with her."
+    ag "If you come tomorrow, [gt.next_day_name!t] at 8:00 am you should be able to meet with her."
+

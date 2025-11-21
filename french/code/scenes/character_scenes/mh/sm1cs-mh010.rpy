@@ -706,3 +706,9 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:283
+translate french sm1cs_mh010_16687345:
+
+    # mh "Once or twice, but a girl likes to hear it every once in a while."
+    mh "Once or twice, but a girl likes to hear it every once in a while."
+

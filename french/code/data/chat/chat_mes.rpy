@@ -260,4 +260,15 @@
     old "Perfect."
     new "Parfait."
 
-#Translate by BlackViper_
+    # game/code/data/chat/chat_mes.rpy:112
+    old "Everything all right?"
+    new "Tout va bien ?"
+
+    # game/code/data/chat/chat_mes.rpy:112
+    old "I hope you were the winner."
+    new "J’espère que tu as gagné."
+
+    # game/code/data/chat/chat_mes.rpy:112
+    old "It is now."
+    new "C’est le cas maintenant."
+
