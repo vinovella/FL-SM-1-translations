@@ -12,5 +12,5 @@ translate portuguese strings:
 
     # game/code/data/chat/chat_ns.rpy:3
     old "Hey! I have an idea. Can we meet in the cafe?"
-    new "Hey! I have an idea. Can we meet in the cafe?"
+    new "Ei! Eu tenho uma ideia. Podemos nos encontrar na cafteria?"
 
