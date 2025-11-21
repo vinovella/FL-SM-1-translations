@@ -788,7 +788,7 @@ translate italian sm1cs_dc010_later_73a321bd:
 translate italian sm1cs_dc010_later_6e32e8ee:
 
     # dc "Oh, yeah, uhm -"
-    dc "Oh, yeah, uhm -"
+    dc "Oh, sì, uhm -"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:378
 translate italian sm1cs_dc010_later_a715b379:
@@ -830,25 +830,25 @@ translate italian sm1cs_dc010_later_95c7633a:
 translate italian sm1cs_dc010_later_6122a4b5:
 
     # dc "Oh, yeah, I'm... uh huh."
-    dc "Oh, yeah, I'm... uh huh."
+    dc "Oh, sì, sto... uh huh."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:390
 translate italian sm1cs_dc010_later_ed6fb824:
 
     # dc "Little warm."
-    dc "Little warm."
+    dc "Un po' accaldata."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:392
 translate italian sm1cs_dc010_later_99f73c57:
 
     # mc "Is that all?"
-    mc "Is that all?"
+    mc "È tutto?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:394
 translate italian sm1cs_dc010_later_4c590f8e:
 
     # dc "I..."
-    dc "I..."
+    dc "Io..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:396
 translate italian sm1cs_dc010_later_01b44a98:
@@ -890,13 +890,13 @@ translate italian sm1cs_dc010_later_88ffc5bc:
 translate italian sm1cs_dc010_later_c9019194:
 
     # dc "I... I..."
-    dc "I... I..."
+    dc "Io... Io..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:419
 translate italian sm1cs_dc010_later_de7f9e6c:
 
     # dc "I want to..."
-    dc "I want to..."
+    dc "Voglio..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:422
 translate italian sm1cs_dc010_later_3dc1e7f6:
@@ -908,7 +908,7 @@ translate italian sm1cs_dc010_later_3dc1e7f6:
 translate italian sm1cs_dc010_later_b28e8ae2:
 
     # dc "I- I can't- uhm..."
-    dc "I- I can't- uhm..."
+    dc "Io- Non posso- uhm..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:426
 translate italian sm1cs_dc010_later_dd76c387:
@@ -938,7 +938,7 @@ translate italian sm1cs_dc010_later_6ac7f4b9:
 translate italian sm1cs_dc010_later_afe087ac:
 
     # dc "*slow sniffing*"
-    dc "*slow sniffing*"
+    dc "*annusando lentamente*"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:444
 translate italian sm1cs_dc010_later_dfa59203:
@@ -968,7 +968,7 @@ translate italian sm1cs_dc010_later_74fc6761:
 translate italian sm1cs_dc010_later_1e2e10d7:
 
     # mc "Oh shit, Debbie!"
-    mc "Oh shit, Debbie!"
+    mc "Oh merda, Debbie!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:457
 translate italian sm1cs_dc010_later_40d2efff:
@@ -992,19 +992,19 @@ translate italian sm1cs_dc010_later_2921482f:
 translate italian sm1cs_dc010_later_c624b89e:
 
     # mc "Nggghhh - this is - wow!"
-    mc "Nggghhh - this is - wow!"
+    mc "Nggghhh - questo è - wow!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:462
 translate italian sm1cs_dc010_later_c90a37d3:
 
     # mc "Debbie - ngggghhhh - holy shit!"
-    mc "Debbie - ngggghhhh - holy shit!"
+    mc "Debbie - ngggghhhh - santo cielo!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:464
 translate italian sm1cs_dc010_later_5beb376f:
 
     # mc "This is amazing! Fuuuuuhhhhh - nggggh!"
-    mc "This is amazing! Fuuuuuhhhhh - nggggh!"
+    mc "È fantastico! Fuuuuuhhhhh - nggggh!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:465
 translate italian sm1cs_dc010_later_19bc8243:
@@ -1016,7 +1016,7 @@ translate italian sm1cs_dc010_later_19bc8243:
 translate italian sm1cs_dc010_later_71a32b9c:
 
     # mc "Oh my Gooood! Ngghhhh, fuuuuhhhccckkk."
-    mc "Oh my Gooood! Ngghhhh, fuuuuhhhccckkk."
+    mc "Oh mio Diiiio! Ngghhhh, caaaaazzo."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:468
 translate italian sm1cs_dc010_later_1bf8a6d3:
@@ -1028,19 +1028,19 @@ translate italian sm1cs_dc010_later_1bf8a6d3:
 translate italian sm1cs_dc010_later_044e8092:
 
     # mc "Oh, this is amazing - ngggh!"
-    mc "Oh, this is amazing - ngggh!"
+    mc "Oh, questo è fantastico - ngggh!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:470
 translate italian sm1cs_dc010_later_a78d9a58:
 
     # mc "This is - oh, Debbie. Fuuuckkk! Deebbbbiiiieeeee!"
-    mc "This is - oh, Debbie. Fuuuckkk! Deebbbbiiiieeeee!"
+    mc "Questo è - oh, Debbie. Caaaazzo! Deebbbbiiiieeeee!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:472
 translate italian sm1cs_dc010_later_1ee704af:
 
     # mc "Oh, that thing - nngghhhh - whatever you're doing with your tongue-"
-    mc "Oh, that thing - nngghhhh - whatever you're doing with your tongue-"
+    mc "Oh, quella cosa - nngghhhh - qualsiasi cosa tu stia facendo con la lingua-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:474
 translate italian sm1cs_dc010_later_eec3224d:
@@ -1052,7 +1052,7 @@ translate italian sm1cs_dc010_later_eec3224d:
 translate italian sm1cs_dc010_later_32b2131f:
 
     # mc "If you - nggghhhhh - keep going like that-"
-    mc "If you - nggghhhhh - keep going like that-"
+    mc "Se tu - nggghhhhh - continui così-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:477
 translate italian sm1cs_dc010_later_46b825c8:
@@ -1064,7 +1064,7 @@ translate italian sm1cs_dc010_later_46b825c8:
 translate italian sm1cs_dc010_later_4f42211a:
 
     # mc "Oh, fuuuck, oh, fuuuuuuuuck!"
-    mc "Oh, fuuuck, oh, fuuuuuuuuck!"
+    mc "Oh, caaaazzo, oh, caaaaaaaazzo!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:482
 translate italian sm1cs_dc010_later_e904699f:
@@ -1076,25 +1076,25 @@ translate italian sm1cs_dc010_later_e904699f:
 translate italian sm1cs_dc010_later_1c1ff67e:
 
     # dc "Sorry, [mcname], but..."
-    dc "Sorry, [mcname], but..."
+    dc "Scusa, [mcname], ma..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:486
 translate italian sm1cs_dc010_later_0c2f807c:
 
     # mc "No, it's okay, Debbie."
-    mc "No, it's okay, Debbie."
+    mc "No, va bene, Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:489
 translate italian sm1cs_dc010_later_2086b5a4:
 
     # mc "Everything okay?"
-    mc "Everything okay?"
+    mc "Tutto bene?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:491
 translate italian sm1cs_dc010_later_349cb0f7:
 
     # dc "Yeah, everything is fine, it's just, uhm..."
-    dc "Yeah, everything is fine, it's just, uhm..."
+    dc "Sì, va tutto bene, è solo, uhm..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:492
 translate italian sm1cs_dc010_later_11455b53:
