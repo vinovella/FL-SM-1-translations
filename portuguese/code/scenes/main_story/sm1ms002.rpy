@@ -246,5 +246,5 @@ translate portuguese strings:
 translate portuguese sm1ms002_4f8bfe43:
 
     # mc "I haven't started cutting myself yet."
-    mc "I haven't started cutting myself yet."
+    mc "Ainda não comecei a me cortar."
 
