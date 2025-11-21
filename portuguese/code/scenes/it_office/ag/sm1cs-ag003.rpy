@@ -812,5 +812,5 @@ translate portuguese sm1cs_ag003_353fb300:
 translate portuguese sm1cs_ag003_e50bff0e:
 
     # ag "Thanks! I've been... needing to use the ladies room for a while, but I hate leaving my stuff unattended. I'll be right back!"
-    ag "Thanks! I've been... needing to use the ladies room for a while, but I hate leaving my stuff unattended. I'll be right back!"
+    ag "Obrigada! Estava... precisando ir ao banheiro já faz um tempo, mas odeio deixar minhas coisas sem ninguém por perto. Já volto!"
 
