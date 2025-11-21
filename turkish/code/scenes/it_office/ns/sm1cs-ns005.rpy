@@ -1120,41 +1120,41 @@ translate turkish strings:
 translate turkish sm1cs_ns005_ef1a9eef:
 
     # mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
-    mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
+    mct "Zaman kaybetmeyi bırakıp ona çıkma teklif etmeliyim. Eminim daha fazla finansal derinlemesine dalış yapmak yerine güzel bir akşam çıkışının tadını çıkarır."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:46
 translate turkish sm1cs_ns005_bdbf9d38:
 
     # ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
-    ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
+    ns "*kıkırdar* Senin de eğilmene gerek yok. Geçen sefer bir çağrı aldığımda seni bekletmek zorunda kalan bendim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:65
 translate turkish sm1cs_ns005_ecb1749e:
 
     # ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
-    ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
+    ns "Bunlar Mavi Ginseng şekerleri, evden en sevdiğim atıştırmalıklardan biri."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:353
 translate turkish sm1cs_ns005_in_bathroom_55af1966:
 
     # mc "I... I don't. But I want you to finish me off."
-    mc "I... I don't. But I want you to finish me off."
+    mc "Ben... İstemiyorum. Ama beni bitirmeni istiyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:503
 translate turkish sm1cs_ns005_after_cum_f15deec7:
 
     # ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
-    ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
+    ns "Bu çok fazla döl, [mcname]. Bunun keyif aldığın anlamına geldiğine inanıyorum."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:642
 translate turkish sm1cs_ns005_after_cum_5af9bd6d:
 
     # ns "You know I'm very efficient."
-    ns "You know I'm very efficient."
+    ns "Çok verimli olduğumu biliyorsun."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:646
 translate turkish sm1cs_ns005_after_cum_34dbd9c4:
 
     # mc "Give me a little time and I'll find a restaurant and text you the details."
-    mc "Give me a little time and I'll find a restaurant and text you the details."
+    mc "Bana biraz zaman ver, bir restoran bulup sana detayları mesaj atayım."
 

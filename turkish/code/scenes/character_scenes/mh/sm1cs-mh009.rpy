@@ -1466,7 +1466,7 @@ translate turkish sm1cs_mh009_c275ee43:
 translate turkish sm1cs_mh009_59995d68:
 
     # mh "Yes, [mcname], yesssss!"
-    mh "Yes, [mcname], yesssss!"
+    mh "Evet, [mcname], eveeeet!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:752
 translate turkish sm1cs_mh009_9fa95212:
@@ -1478,7 +1478,7 @@ translate turkish sm1cs_mh009_9fa95212:
 translate turkish sm1cs_mh009_5620be0d:
 
     # mc "Fuck yea, oh yeeaaaaah!"
-    mc "Fuck yea, oh yeeaaaaah!"
+    mc "Siktir evet, oh eveeeet!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:754
 translate turkish sm1cs_mh009_bdd9b27a:
@@ -1556,7 +1556,7 @@ translate turkish sm1cs_mh009_5401b28d:
 translate turkish sm1cs_mh009_2f1f82f3:
 
     # mc "Shiiiiit-!"
-    mc "Shiiiiit-!"
+    mc "Siktiiiir-!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:778
 translate turkish sm1cs_mh009_3448f252:
@@ -1610,7 +1610,7 @@ translate turkish sm1cs_mh009_2d3a723d:
 translate turkish sm1cs_mh009_935be394:
 
     # mc "Fuck yes, Lyssa!"
-    mc "Fuck yes, Lyssa!"
+    mc "Siktir evet, Lyssa!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:814
 translate turkish sm1cs_mh009_33d59856:
@@ -1700,13 +1700,13 @@ translate turkish sm1cs_mh009_79ec4f6b:
 translate turkish sm1cs_mh009_aa6fdad6:
 
     # mh "Oh Goooood! That feels ammaazzzing, [mcname]!"
-    mh "Oh Goooood! That feels ammaazzzing, [mcname]!"
+    mh "Oh Taaanrım! Bu hariikaaaa hissettiriyor, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:851
 translate turkish sm1cs_mh009_1b7d849d:
 
     # mc "Oooooooo! Oh yeah!"
-    mc "Oooooooo! Oh yeah!"
+    mc "Oooooooo! Oh evet!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:854
 translate turkish sm1cs_mh009_088e3c18:
@@ -1742,13 +1742,13 @@ translate turkish sm1cs_mh009_aab53b3a:
 translate turkish sm1cs_mh009_e67d216c:
 
     # mh "Oh God, [mcname], oh God-!"
-    mh "Oh God, [mcname], oh God-!"
+    mh "Oh Tanrım, [mcname], oh Tanrım-!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:867
 translate turkish sm1cs_mh009_b77a9e17:
 
     # mh "F-fuuuhh- yesssss!"
-    mh "F-fuuuhh- yesssss!"
+    mh "S-siktiiiir- eveeeet!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:870
 translate turkish sm1cs_mh009_f373df77:
@@ -1766,7 +1766,7 @@ translate turkish sm1cs_mh009_f9e53995:
 translate turkish sm1cs_mh009_eda7324d:
 
     # mh "Oh my..."
-    mh "Oh my..."
+    mh "Aman Tanrım..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:886
 translate turkish sm1cs_mh009_61202cd7:
@@ -1856,7 +1856,7 @@ translate turkish sm1cs_mh009_d282da3a:
 translate turkish sm1cs_mh009_0cfacd5d:
 
     # mc "You haven't finished yet, though."
-    mc "You haven't finished yet, though."
+    mc "Yine de henüz bitirmedin."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:924
 translate turkish sm1cs_mh009_52d4eb04:
@@ -1916,7 +1916,7 @@ translate turkish sm1cs_mh009_1_f9e53995:
 translate turkish sm1cs_mh009_1_eda7324d:
 
     # mh "Oh my..."
-    mh "Oh my..."
+    mh "Aman Tanrım..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:979
 translate turkish sm1cs_mh009_1_61202cd7:
@@ -2102,7 +2102,7 @@ translate turkish sm1cs_mh009_1_c7cf2826:
 translate turkish sm1cs_mh009_1_872840f2:
 
     # mc "Yes, Lyssa?"
-    mc "Yes, Lyssa?"
+    mc "Evet, Lyssa?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1056
 translate turkish sm1cs_mh009_1_7f478d9c:
@@ -2288,7 +2288,7 @@ translate turkish sm1cs_mh009_sy_entrance_c0510655:
 translate turkish sm1cs_mh009_sy_entrance_43867854:
 
     # mct "Classic Stacy..."
-    mct "Classic Stacy..."
+    mct "Klasik Stacy..."
 
 translate turkish strings:
 
@@ -2334,7 +2334,7 @@ translate turkish sm1cs_mh009_7b2b35e6_1:
 translate turkish sm1cs_mh009_72f11ebc:
 
     # mc "Sure, Lys- I mean, [mhname!t]."
-    mc "Sure, Lys- I mean, [mhname!t]."
+    mc "Tabii, Lys- yani, [mhname!t]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:389
 translate turkish sm1cs_mh009_0c331674:
@@ -2352,7 +2352,7 @@ translate turkish sm1cs_mh009_ed0f3263:
 translate turkish sm1cs_mh009_348b8dd7:
 
     # mc "Oh shit, [mhname!t]!"
-    mc "Oh shit, [mhname!t]!"
+    mc "Oh kahretsin, [mhname!t]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:619
 translate turkish sm1cs_mh009_beac13b0:
@@ -2370,7 +2370,7 @@ translate turkish sm1cs_mh009_70654531:
 translate turkish sm1cs_mh009_2c204863:
 
     # mc "Oh fuck yeah, [mhname!t]!"
-    mc "Oh fuck yeah, [mhname!t]!"
+    mc "Oh siktir evet, [mhname!t]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:739
 translate turkish sm1cs_mh009_8751d578:
@@ -2394,7 +2394,7 @@ translate turkish sm1cs_mh009_2b193e52:
 translate turkish sm1cs_mh009_c66ced23:
 
     # mc "Oh God, [mhname!t]..."
-    mc "Oh God, [mhname!t]..."
+    mc "Oh Tanrım, [mhname!t]..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:861
 translate turkish sm1cs_mh009_32fbcfe7:

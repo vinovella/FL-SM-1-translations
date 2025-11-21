@@ -2336,11 +2336,11 @@ translate turkish strings:
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:186
     old "Try and Convince Lyssa"
-    new "Try and Convince Lyssa"
+    new "Lyssa'yı İkna Etmeyi Dene"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:186
     old "Don't press the issue"
-    new "Don't press the issue"
+    new "Konuyu ısrarla zorlamayın"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:46
 translate turkish sm1cs_mh008_f927037e:

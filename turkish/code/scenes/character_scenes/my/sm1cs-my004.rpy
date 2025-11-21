@@ -878,7 +878,7 @@ translate turkish sm1cs_my004_cab7607c:
 translate turkish sm1cs_my004_9c633a46:
 
     # sy "Yeah, I think she did."
-    sy "Yeah, I think she did."
+    sy "Evet, bence de öyle."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:500
 translate turkish sm1cs_my004_946b7abb:
@@ -890,7 +890,7 @@ translate turkish sm1cs_my004_946b7abb:
 translate turkish sm1cs_my004_9c633a46_1:
 
     # sy "Yeah, I think she did."
-    sy "Yeah, I think she did."
+    sy "Evet, bence de öyle."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:510
 translate turkish sm1cs_my004_db07abac:
@@ -1724,7 +1724,7 @@ translate turkish strings:
 
     # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:485
     old "Mom"
-    new "Mom"
+    new "Anne"
 
     # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:485
     old "Melony"

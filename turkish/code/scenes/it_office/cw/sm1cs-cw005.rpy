@@ -2544,41 +2544,41 @@ translate turkish strings:
 translate turkish sm1cs_cw005_pushy_menu_0c1cb963:
 
     # cw "Well, get moving, Mr. Bird."
-    cw "Well, get moving, Mr. Bird."
+    cw "Pekala, harekete geç, Bay Kuş."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:189
 translate turkish sm1cs_cw005_pushy_menu_f35fb8a3:
 
     # cw "Well...{w} I'm sure you'll change your tune once we're riding the waves on-"
-    cw "Well...{w} I'm sure you'll change your tune once we're riding the waves on-"
+    cw "Şey...{w} Eminim dalgalarda gezindiğimizde fikrin değişecek-"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:398
 translate turkish sm1cs_cw005_food_e81143ee:
 
     # cw "I know, Daddy."
-    cw "I know, Daddy."
+    cw "Biliyorum, Babacığım."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:498
 translate turkish sm1cs_cw005_food_67b1590d:
 
     # fw "*titters*"
-    fw "*titters*"
+    fw "*kıkırdar*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:672
 translate turkish sm1cs_cw005_sauna_menu_e46d3ab2:
 
     # mct "Woah. I think this is the first time I've seen Claire really laugh."
-    mct "Woah. I think this is the first time I've seen Claire really laugh."
+    mct "Vay. Sanırım Claire'in gerçekten güldüğünü ilk defa görüyorum."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:927
 translate turkish sm1cs_cw005_sauna_menu_ecd30e39:
 
     # cw "Never mind. You have the situation well in hand."
-    cw "Never mind. You have the situation well in hand."
+    cw "Boşver. Durumu iyi kontrol ediyorsun."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1013
 translate turkish sm1cs_cw005_sauna_menu_a0ab7e8b:
 
     # mct "And her body keeps shaking whenever my nose brushes her clit."
-    mct "And her body keeps shaking whenever my nose brushes her clit."
+    mct "Ve burnum klitorisine her değdiğinde vücudu titremeye devam ediyor."
 

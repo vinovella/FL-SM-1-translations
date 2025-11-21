@@ -1634,55 +1634,55 @@ translate turkish sm1cs_dc009_6827ff1e:
 translate turkish sm1cs_dc009_440ee9ae:
 
     # doc "Well hi there, little miss police officer!"
-    doc "Well hi there, little miss police officer!"
+    doc "Merhaba küçük polis memuru hanım!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:393
 translate turkish sm1cs_dc009_101d86dd:
 
     # doc "Oh, that's not a surprise!"
-    doc "Oh, that's not a surprise!"
+    doc "Oh, bu sürpriz değil!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:403
 translate turkish sm1cs_dc009_e360942c:
 
     # doc "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
-    doc "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
+    doc "Oh, bak şu küçük tavşana, park polisini savunuyor! Çok tatlı!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:410
 translate turkish sm1cs_dc009_fd79c6d2:
 
     # doc "What's you just call me?"
-    doc "What's you just call me?"
+    doc "Bana ne dedin sen?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:418
 translate turkish sm1cs_dc009_79c0c6bc:
 
     # doc "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
-    doc "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
+    doc "İşte bu! Patron seni masaya oturtmaktan bahsediyordu! Fazla baş belası olmakla ilgili bir şeyler."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:434
 translate turkish sm1cs_dc009_9fae04d3:
 
     # doc "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
-    doc "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
+    doc "Evet, o kocaman sarkmış memeleri! Parkta küçük suçlu bir herifin peşinden koşması gerektiğinde her seferinde sağa sola sallanan lanet şeyler!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:435
 translate turkish sm1cs_dc009_3524c2c1:
 
     # doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
-    doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
+    doc "Şimdi görebiliyorum! Lanet olası koşuyor ve sonra \"oh hayır, memem yüzüme çarptı! Hayıııır!\"."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:439
 translate turkish sm1cs_dc009_a03bd0eb:
 
     # doc "Ohhh, my tits, ohhhhh!"
-    doc "Ohhh, my tits, ohhhhh!"
+    doc "Ohhh, memelerim, ohhhhh!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:446
 translate turkish sm1cs_dc009_21183386:
 
     # doc "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
-    doc "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
+    doc "Öyle mi? Peki bunu nasıl ispatlayacak? Bizi o lanet arbede çantalarıyla dövecek mi!?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:490
 translate turkish sm1cs_dc009_6f1555e8:
@@ -1694,13 +1694,13 @@ translate turkish sm1cs_dc009_6f1555e8:
 translate turkish sm1cs_dc009_8359aaa6:
 
     # doc "Bullshit! No way!"
-    doc "Bullshit! No way!"
+    doc "Saçmalık! Olamaz!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:563
 translate turkish sm1cs_dc009_337ab247:
 
     # doc "Shit... three 9s..."
-    doc "Shit... three 9s..."
+    doc "Kahretsin... üç tane 9..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:583
 translate turkish sm1cs_dc009_fad668c9:

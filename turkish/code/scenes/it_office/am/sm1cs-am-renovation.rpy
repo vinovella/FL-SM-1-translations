@@ -702,17 +702,17 @@ translate turkish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
     old "I didn't think to ask"
-    new "I didn't think to ask"
+    new "Sormayı düşünmedim"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
     old "Ask April what she did"
-    new "Ask April what she did"
+    new "April'e ne yaptığını sor"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
     old "Complain to April"
-    new "Complain to April"
+    new "April'e şikayet et"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
     old "Promise the answer one day"
-    new "Promise the answer one day"
+    new "Bir gün cevap vermeyi vaat et"
 

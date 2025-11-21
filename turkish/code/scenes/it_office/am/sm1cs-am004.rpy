@@ -1700,5 +1700,5 @@ translate turkish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am004.rpy:37
     old "Later that evening\nAt Guns n' Rosette"
-    new "Later that evening\nAt Guns n' Rosette"
+    new "O akşam daha sonra\nGuns n' Rosette'te"
 
