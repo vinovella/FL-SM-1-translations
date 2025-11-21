@@ -1150,5 +1150,5 @@ translate portuguese strings:
 translate portuguese sm1cs_ns011_a266d0ee:
 
     # ns "Sugar Daddies love to play with their Good Girls..."
-    ns "Sugar Daddies love to play with their Good Girls..."
+    ns "Os Sugar Daddy adoram brincar com as meninas bem comportadas..."
 
