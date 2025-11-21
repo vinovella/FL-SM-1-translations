@@ -438,59 +438,59 @@ translate portuguese strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Let's go to the Amusement Park"
-    new "Let's go to the Amusement Park"
+    new "Vamos ao parque de diversões"
 
 translate portuguese strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Prepare for the party"
-    new "Prepare for the party"
+    new "Preparar para a festa"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Confront Amore"
-    new "Confront Amore"
+    new "Confrontar Amore"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about work"
-    new "Talk about work"
+    new "Falar sobre trabalho"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Have some fun with Min"
-    new "Have some fun with Min"
+    new "Se divertir com Min"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Smash"
-    new "Smash"
+    new "Transar"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask about the play"
-    new "Ask about the play"
+    new "Perguntar sobre a peça"
 
 translate portuguese strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Photography-101 for $60"
-    new "Purchase Photography-101 for $60"
+    new "Comprar Introdução à Fotografia por $60"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Stars Weekly for $30"
-    new "Purchase Stars Weekly for $30"
+    new "Comprar Estrelas Da Semana por $30"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase An Actor Prepares for $60"
-    new "Purchase An Actor Prepares for $60"
+    new "Comprar Um Ator Se Prepara por $60"
 
 translate portuguese strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask Debbie to the movies"
-    new "Ask Debbie to the movies"
+    new "Chamar Debbie para assistir filmes"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Have some fun in the toilet"
-    new "Have some fun in the toilet"
+    new "Divirta-se na privada"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Good morning!"
-    new "Good morning!"
+    new "Bom dia!"
 
