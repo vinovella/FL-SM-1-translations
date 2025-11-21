@@ -1902,39 +1902,39 @@ translate portuguese strings:
 translate portuguese sm1fs_t002_3cc3e891:
 
     # tl "So what's your story, you two?"
-    tl "So what's your story, you two?"
+    tl "Então, qual é a história de vocês dois?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:373
 translate portuguese sm1fs_t002_48bdc3d2:
 
     # sy "Let's get this party started!"
-    sy "Let's get this party started!"
+    sy "Vamos começar essa festa!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:535
 translate portuguese sm1fs_t002_sex_7f6d7367:
 
     # tl "Damn. Someone is definitely not shy."
-    tl "Damn. Someone is definitely not shy."
+    tl "Nossa. Alguém aqui definitivamente não é tímido."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:704
 translate portuguese sm1fs_t002_sex_226f2e7f:
 
     # mc "Literally zero complaints from me then."
-    mc "Literally zero complaints from me then."
+    mc "Então não tenho absolutamente nenhuma reclamação."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:736
 translate portuguese sm1fs_t002_sex_b41d6af2:
 
     # sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
-    sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
+    sy "Você tem que mostrar, não contar. Ninguém quer o audiobook do pornô. Eles querem o cinema!"
 
 translate portuguese strings:
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:245
     old "I'm into spanking"
-    new "I'm into spanking"
+    new "Eu curto spanking"
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:245
     old "I'm game. If you can do those things to me"
-    new "I'm game. If you can do those things to me"
+    new "Tô dentro. Se você conseguir fazer essas coisas comigo"
 
