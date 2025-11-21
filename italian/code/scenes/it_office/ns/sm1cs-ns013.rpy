@@ -242,7 +242,7 @@ translate italian sm1cs_ns013_9fa9b0ec:
 translate italian sm1cs_ns013_c3e820da:
 
     # sy "*smooching*"
-    sy "*smooching*"
+    sy "*baciucchiando*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:218
 translate italian sm1cs_ns013_46306508:
@@ -290,7 +290,7 @@ translate italian sm1cs_ns013_2ba27d78:
 translate italian sm1cs_ns013_ba2afede:
 
     # sy "*chuckles*"
-    sy "*chuckles*"
+    sy "*ridacchia*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:241
 translate italian sm1cs_ns013_d5b14390:
@@ -374,7 +374,7 @@ translate italian sm1cs_ns013_44adfba6:
 translate italian sm1cs_ns013_8c7f53ac:
 
     # sy "*light wimpering*"
-    sy "*light wimpering*"
+    sy "*lieve piagnucolio*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:287
 translate italian sm1cs_ns013_0a203103:
@@ -464,7 +464,7 @@ translate italian sm1cs_ns013_7efe7fc6:
 translate italian sm1cs_ns013_22b70eab:
 
     # sy "*moaning*"
-    sy "*moaning*"
+    sy "*gemendo*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:318
 translate italian sm1cs_ns013_f3361e77:
@@ -626,13 +626,13 @@ translate italian sm1cs_ns013_ed9a3f2c:
 translate italian sm1cs_ns013_78fb47a4:
 
     # ns "*whimpering softly*"
-    ns "*whimpering softly*"
+    ns "*piagnucolando dolcemente*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:433
 translate italian sm1cs_ns013_83d04b1d:
 
     # ns "*nervous breathing*"
-    ns "*nervous breathing*"
+    ns "*respiro nervoso*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:441
 translate italian sm1cs_ns013_51f22e76:
@@ -698,7 +698,7 @@ translate italian sm1cs_ns013_9559db35:
 translate italian sm1cs_ns013_5f71acf7:
 
     # mc "*grunting*"
-    mc "*grunting*"
+    mc "*grugnendo*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:460
 translate italian sm1cs_ns013_26afd527:
@@ -716,7 +716,7 @@ translate italian sm1cs_ns013_a3208a8d:
 translate italian sm1cs_ns013_9b4516f0:
 
     # sy "*moaning* Ahu-ahuaah.. fuaah..."
-    sy "*moaning* Ahu-ahuaah.. fuaah..."
+    sy "*gemendo* Ahu-ahuaah.. fuaah..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:463
 translate italian sm1cs_ns013_f562e5a3:
@@ -806,7 +806,7 @@ translate italian sm1cs_ns013_b27128e5:
 translate italian sm1cs_ns013_eb986133:
 
     # ns "*sighing and hissing*"
-    ns "*sighing and hissing*"
+    ns "*sospirando e sibilando*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:519
 translate italian sm1cs_ns013_f28b3ab9:
@@ -1106,7 +1106,7 @@ translate italian ns013_labels_section_79d2e6e9:
 translate italian ns013_labels_section_56b92905:
 
     # ns "*strained hissing*"
-    ns "*strained hissing*"
+    ns "*sibilo teso*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:644
 translate italian ns013_labels_section_5d587328:
@@ -1322,7 +1322,7 @@ translate italian ns013_labels_section_2c24f27a:
 translate italian ns013_labels_section_20e1f6eb:
 
     # sy "*spits*"
-    sy "*spits*"
+    sy "*sputa*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:721
 translate italian ns013_labels_section_f9acd26c:
@@ -1370,7 +1370,7 @@ translate italian ns013_labels_section_245da689:
 translate italian ns013_labels_section_6e9f3ca0:
 
     # ns "*giggling*"
-    ns "*giggling*"
+    ns "*ridacchiando*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:737
 translate italian ns013_labels_section_10b07808:
@@ -1532,7 +1532,7 @@ translate italian ns013_labels_section_adc7bd14:
 translate italian ns013_labels_section_17568505:
 
     # ns "*moaning deliriously*"
-    ns "*moaning deliriously*"
+    ns "*gemendo delirante*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:797
 translate italian ns013_labels_section_eee9b345:
@@ -1724,13 +1724,13 @@ translate italian ns013_labels_section_72813ae1:
 translate italian ns013_labels_section_2c1b2636:
 
     # sy "*wet lewd sucking*"
-    sy "*wet lewd sucking*"
+    sy "*succhiare bagnato e lascivo*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:880
 translate italian ns013_labels_section_ceff1066:
 
     # ns "*excited moaning*"
-    ns "*excited moaning*"
+    ns "*gemiti eccitati*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:888
 translate italian ns013_labels_section_e8301e81:
@@ -1742,7 +1742,7 @@ translate italian ns013_labels_section_e8301e81:
 translate italian ns013_labels_section_4d152809:
 
     # "Stacy and Nari" "*panting*"
-    "Stacy and Nari" "*panting*"
+    "Stacy and Nari" "*ansimando*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:891
 translate italian ns013_labels_section_628bf4a3:
@@ -1760,19 +1760,19 @@ translate italian ns013_labels_section_e054ce99:
 translate italian ns013_labels_section_fe802941:
 
     # mc "*groaning*"
-    mc "*groaning*"
+    mc "*gemendo*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:903
 translate italian ns013_labels_section_2d0577ab:
 
     # sy "*sighing happily*"
-    sy "*sighing happily*"
+    sy "*sospirando felice*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:908
 translate italian ns013_labels_section_1f0a11a2:
 
     # ns "*moaning loudly*"
-    ns "*moaning loudly*"
+    ns "*gemendo forte*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:909
 translate italian ns013_labels_section_e74d0fff:
@@ -1790,7 +1790,7 @@ translate italian ns013_labels_section_55b79db6:
 translate italian ns013_labels_section_1c81208e:
 
     # "Stacy and Nari" "*giggling*"
-    "Stacy and Nari" "*giggling*"
+    "Stacy and Nari" "*ridacchiando*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:919
 translate italian ns013_labels_section_8e9ba5df:
@@ -2198,7 +2198,7 @@ translate italian ns013_labels_section_a67574e0:
 translate italian ns013_labels_section_c4a48b98:
 
     # ns "*eating*"
-    ns "*eating*"
+    ns "*mangiando*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1112
 translate italian ns013_labels_section_88a5f694:
@@ -2210,7 +2210,7 @@ translate italian ns013_labels_section_88a5f694:
 translate italian ns013_labels_section_50800ec3:
 
     # "[mcname] and Stacy" "*laughing*"
-    "[mcname] and Stacy" "*laughing*"
+    "[mcname] and Stacy" "*ridendo*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1119
 translate italian ns013_labels_section_57d25b67:
@@ -2408,29 +2408,29 @@ translate italian strings:
 translate italian ns013_labels_section_0887f6cc:
 
     # ns "I am a very bad [nspetlabel]."
-    ns "I am a very bad [nspetlabel]."
+    ns "Sono una [nspetlabel] molto cattiva."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:569
 translate italian ns013_labels_section_3688c4d9:
 
     # ns "A little. I'm actually still-"
-    ns "A little. I'm actually still-"
+    ns "Un po'. In realtà sono ancora-"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:627
 translate italian ns013_labels_section_713f1049:
 
     # ns "You're always so kind to me, [nsmcpetlabel]."
-    ns "You're always so kind to me, [nsmcpetlabel]."
+    ns "Sei sempre così gentile con me, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:651
 translate italian ns013_labels_section_791ab451:
 
     # mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
-    mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
+    mc "Amo come la tua figa si sente intorno a me. Ho una [nspetlabel] così brava."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:662
 translate italian ns013_labels_section_ab353c83:
 
     # ns "I can go... Mrrmmm... at just the right speed."
-    ns "I can go... Mrrmmm... at just the right speed."
+    ns "Posso andare... Mrrmmm... alla giusta velocità."
 

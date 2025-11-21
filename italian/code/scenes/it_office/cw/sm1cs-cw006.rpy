@@ -128,7 +128,7 @@ translate italian sm1cs_cw006_83ff45ca:
 translate italian sm1cs_cw006_07b91840:
 
     # am "*noisy slurping*"
-    am "*noisy slurping*"
+    am "*rumoroso succhiare*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:104
 translate italian sm1cs_cw006_7b79d776:
@@ -212,7 +212,7 @@ translate italian sm1cs_cw006_8a9fc9a4:
 translate italian sm1cs_cw006_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "Certo."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:156
 translate italian sm1cs_cw006_0a0d6668:
@@ -428,7 +428,7 @@ translate italian sm1cs_cw006_54ed4ee7:
 translate italian sm1cs_cw006_09adac03:
 
     # cw "*gasps*"
-    cw "*gasps*"
+    cw "*ansima*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:256
 translate italian sm1cs_cw006_d99ab8d5:
@@ -1766,41 +1766,41 @@ translate italian strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:476
     old "Your lips?"
-    new "Your lips?"
+    new "Le tue labbra?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:238
 translate italian sm1cs_cw006_8854937c:
 
     # cw "If I didn't need your help in the first place..."
-    cw "If I didn't need your help in the first place..."
+    cw "Se non avessi avuto bisogno del tuo aiuto in primo luogo..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:253
 translate italian sm1cs_cw006_8fc13b58:
 
     # mc "I can only control my body so much, Claire."
-    mc "I can only control my body so much, Claire."
+    mc "Posso controllare il mio corpo solo fino a un certo punto, Claire."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:353
 translate italian cw006_choice1_b19ad390:
 
     # mc "Of course, Ms. Watts."
-    mc "Of course, Ms. Watts."
+    mc "Certo, Sig.ra Watts."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:400
 translate italian sm1cs_cw006_onramp_1a_e8dd973e:
 
     # cw "I think a little further analysis would be good.{w} Necessary even."
-    cw "I think a little further analysis would be good.{w} Necessary even."
+    cw "Penso che un'ulteriore analisi sarebbe utile.{w} Necessaria, persino."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:421
 translate italian sm1cs_cw006_onramp_1a_141a8791:
 
     # cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
-    cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
+    cw "E per aiutarmi, intendo che avrei bisogno del tuo aiuto con attività vagamente simili a quelle che abbiamo {i}completato{/i} sullo yacht."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:860
 translate italian sm1cs_cw006_onramp_2_d125b649:
 
     # mc "I wanted to talk to you about that special assignment you mentioned?"
-    mc "I wanted to talk to you about that special assignment you mentioned?"
+    mc "Volevo parlarti di quell'incarico speciale che hai menzionato?"
 

@@ -422,7 +422,7 @@ translate italian sm1cs_ns011_sy_interruption_9e587159:
 translate italian sm1cs_ns011_sy_interruption_d91d57e6:
 
     # sy "*giggles*"
-    sy "*giggles*"
+    sy "*ridacchia*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:269
 translate italian sm1cs_ns011_sy_interruption_06a865aa:
