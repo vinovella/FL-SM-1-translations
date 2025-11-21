@@ -680,5 +680,5 @@ translate portuguese sm1cs_arj001_92b04d3a:
 translate portuguese sm1cs_arj001_5c2dddcf:
 
     # arj "So what if I do? {i}No one{/i} should have the flash drive."
-    arj "So what if I do? {i}No one{/i} should have the flash drive."
+    arj "E daí se eu tenho? {i}Ninguém{/i} devia estar com o pen drive."
 
