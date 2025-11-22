@@ -196,8 +196,6 @@
     old "Doug"
     new "Doug"
 
-translate turkish strings:
-
     # game/code/data/characters/names.rpy:84
     old "Carmel"
     new "Carmel"
@@ -210,9 +208,11 @@ translate turkish strings:
     old "Jerk Cop"
     new "Pislik Polis"
 
-translate turkish strings:
-
     # game/code/data/characters/names.rpy:87
     old "Douche Cop"
     new "Serseri Polis"
+
+    # game/code/data/characters/names.rpy:83
+    old "Samiya"
+    new "Samiya"
 

@@ -346,47 +346,17 @@ translate deutsch sm1ms030_506f7900:
     # dd "Okay, I'm in!"
     dd "Okay, ich bin dabei!"
 
-# game/code/scenes/main_story/sm1ms030.rpy:159
-translate deutsch sm1ms030_cc3ef1ce:
-
-    # sb "Hold your horses, Diamond girl!"
-    sb "Immer mit der Ruhe, Diamant-Mädchen!"
-
-# game/code/scenes/main_story/sm1ms030.rpy:161
-translate deutsch sm1ms030_d01b0b66:
-
-    # sb "You're not the only one who wants to join!"
-    sb "Du bist nicht die Einzige, die mitmachen möchte!"
-
 # game/code/scenes/main_story/sm1ms030.rpy:163
 translate deutsch sm1ms030_8fb0bc5e:
 
     # sy "Oh! Samiya! You want in, too?"
     sy "Oh! Samiya! Willst du auch mitmachen?"
 
-# game/code/scenes/main_story/sm1ms030.rpy:165
-translate deutsch sm1ms030_bc0ebff7:
-
-    # sb "Damn straight. This is where the party's at, after all."
-    sb "Verdammt richtig. Hier ist schließlich die Party."
-
-# game/code/scenes/main_story/sm1ms030.rpy:167
-translate deutsch sm1ms030_6c510fc0:
-
-    # sb "So you may as well toss in the towel now, Daisy."
-    sb "Also kannst du genauso gut jetzt schon das Handtuch werfen, Daisy."
-
 # game/code/scenes/main_story/sm1ms030.rpy:169
 translate deutsch sm1ms030_9a9b981c:
 
     # dd "I never quit."
     dd "Ich gebe niemals auf."
-
-# game/code/scenes/main_story/sm1ms030.rpy:170
-translate deutsch sm1ms030_2153e8f8:
-
-    # sb "We'll see about that."
-    sb "Das werden wir noch sehen."
 
 # game/code/scenes/main_story/sm1ms030.rpy:176
 translate deutsch sm1ms030_f7753e02:
@@ -442,12 +412,6 @@ translate deutsch sm1ms030_46f3c53a:
     # zp "Mmm."
     zp "Mmm."
 
-# game/code/scenes/main_story/sm1ms030.rpy:198
-translate deutsch sm1ms030_87ef57fa:
-
-    # sb "Yo, Stacy. What can we expect for Season Two of S&M Studio?"
-    sb "Hey, Stacy. Was können wir von der zweiten Season von S&M Studio erwarten?"
-
 # game/code/scenes/main_story/sm1ms030.rpy:200
 translate deutsch sm1ms030_5ef43fce:
 
@@ -471,12 +435,6 @@ translate deutsch sm1ms030_c0adc584:
 
     # zp "The story is not going to finish itself."
     zp "Die Geschichte wird sich nicht von selbst zu Ende erzählen."
-
-# game/code/scenes/main_story/sm1ms030.rpy:207
-translate deutsch sm1ms030_57fe597d:
-
-    # sb "Bye Zemfira. Love your whole vibe by the way."
-    sb "Tschüss, Zemfira. Ich liebe übrigens deine ganze Ausstrahlung."
 
 # game/code/scenes/main_story/sm1ms030.rpy:209
 translate deutsch sm1ms030_a86635f3:
@@ -754,12 +712,6 @@ translate deutsch sm1ms030_b0cfc7e5:
     # dd "Excellent. I can't wait for it."
     dd "Ausgezeichnet. Ich kann es kaum erwarten."
 
-# game/code/scenes/main_story/sm1ms030.rpy:313
-translate deutsch sm1ms030_d3aab1c1:
-
-    # sb "And the Patreon poll!"
-    sb "Und die Patreon-Umfrage!"
-
 # game/code/scenes/main_story/sm1ms030.rpy:315
 translate deutsch sm1ms030_e90b76c4:
 
@@ -783,4 +735,52 @@ translate deutsch sm1ms030_99415122:
 
     # "Everyone" "See you in Season Two!"
     "Alle zusammen" "Wir sehen uns in der zweiten Season!"
+
+# game/code/scenes/main_story/sm1ms030.rpy:248
+translate deutsch sm1ms030_0f32b093:
+
+    # sbf "Hold your horses, Diamond girl!"
+    sbf "Immer mit der Ruhe, Diamant-Mädchen!"
+
+# game/code/scenes/main_story/sm1ms030.rpy:251
+translate deutsch sm1ms030_014f56b5:
+
+    # sbf "You're not the only one who wants to join!"
+    sbf "Du bist nicht die Einzige, die mitmachen möchte!"
+
+# game/code/scenes/main_story/sm1ms030.rpy:257
+translate deutsch sm1ms030_36bea1d2:
+
+    # sbf "Damn straight. This is where the party's at, after all."
+    sbf "Verdammt richtig. Hier ist schließlich die Party."
+
+# game/code/scenes/main_story/sm1ms030.rpy:260
+translate deutsch sm1ms030_502adca5:
+
+    # sbf "So you may as well toss in the towel now, Daisy."
+    sbf "Also kannst du genauso gut jetzt schon das Handtuch werfen, Daisy."
+
+# game/code/scenes/main_story/sm1ms030.rpy:265
+translate deutsch sm1ms030_0075f6b8:
+
+    # sbf "We'll see about that."
+    sbf "Das werden wir noch sehen."
+
+# game/code/scenes/main_story/sm1ms030.rpy:314
+translate deutsch sm1ms030_e3c64c3e:
+
+    # sbf "Yo, Stacy. What can we expect for Season Two of S&M Studio?"
+    sbf "Hey, Stacy. Was können wir von der zweiten Season von S&M Studio erwarten?"
+
+# game/code/scenes/main_story/sm1ms030.rpy:328
+translate deutsch sm1ms030_59604893:
+
+    # sbf "Bye Zemfira. Love your whole vibe by the way."
+    sbf "Tschüss, Zemfira. Ich liebe übrigens deine ganze Ausstrahlung."
+
+# game/code/scenes/main_story/sm1ms030.rpy:489
+translate deutsch sm1ms030_1bbf4e04:
+
+    # sbf "And the Patreon poll!"
+    sbf "Und die Patreon-Umfrage!"
 

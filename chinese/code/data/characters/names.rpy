@@ -364,3 +364,7 @@
     old "Douche Cop"
     new "烂人警察"
 
+    # game/code/data/characters/names.rpy:83
+    old "Samiya"
+    new "萨米娅"
+

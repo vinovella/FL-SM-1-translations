@@ -196,8 +196,6 @@
     old "Nelson Rohr"
     new "Nelson Rohr"
 
-translate italian strings:
-
     # game/code/data/characters/names.rpy:80
     old "Zemfira"
     new "Zemfira"
@@ -214,8 +212,6 @@ translate italian strings:
     old "Doug"
     new "Doug"
 
-translate italian strings:
-
     # game/code/data/characters/names.rpy:84
     old "Carmel"
     new "Carmel"
@@ -228,9 +224,11 @@ translate italian strings:
     old "Jerk Cop"
     new "Poliziotto Idiota"
 
-translate italian strings:
-
     # game/code/data/characters/names.rpy:87
     old "Douche Cop"
     new "Poliziotto Stronzo"
+
+    # game/code/data/characters/names.rpy:83
+    old "Samiya"
+    new "Samiya"
 

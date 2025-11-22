@@ -196,8 +196,6 @@
     old "Doug"
     new "Doug"
 
-translate deutsch strings:
-
     # game/code/data/characters/names.rpy:84
     old "Carmel"
     new "Carmel"
@@ -210,9 +208,11 @@ translate deutsch strings:
     old "Jerk Cop"
     new "Idioten Cop"
 
-translate deutsch strings:
-
     # game/code/data/characters/names.rpy:87
     old "Douche Cop"
     new "Böser Cop"
+
+    # game/code/data/characters/names.rpy:83
+    old "Samiya"
+    new "Samiya"
 

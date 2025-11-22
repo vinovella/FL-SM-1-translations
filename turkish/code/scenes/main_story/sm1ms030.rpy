@@ -346,47 +346,17 @@ translate turkish sm1ms030_506f7900:
     # dd "Okay, I'm in!"
     dd "Tamam, ben varım!"
 
-# game/code/scenes/main_story/sm1ms030.rpy:159
-translate turkish sm1ms030_cc3ef1ce:
-
-    # sb "Hold your horses, Diamond girl!"
-    sb "Dur bakalım, Elmas kızı!"
-
-# game/code/scenes/main_story/sm1ms030.rpy:161
-translate turkish sm1ms030_d01b0b66:
-
-    # sb "You're not the only one who wants to join!"
-    sb "Katılmak isteyen tek kişi sen değilsin!"
-
 # game/code/scenes/main_story/sm1ms030.rpy:163
 translate turkish sm1ms030_8fb0bc5e:
 
     # sy "Oh! Samiya! You want in, too?"
     sy "Oh! Samiya! Sen de mi katılmak istiyorsun?"
 
-# game/code/scenes/main_story/sm1ms030.rpy:165
-translate turkish sm1ms030_bc0ebff7:
-
-    # sb "Damn straight. This is where the party's at, after all."
-    sb "Kesinlikle. Ne de olsa parti burada."
-
-# game/code/scenes/main_story/sm1ms030.rpy:167
-translate turkish sm1ms030_6c510fc0:
-
-    # sb "So you may as well toss in the towel now, Daisy."
-    sb "O yüzden şimdiden havluyu atsan iyi olur, Daisy."
-
 # game/code/scenes/main_story/sm1ms030.rpy:169
 translate turkish sm1ms030_9a9b981c:
 
     # dd "I never quit."
     dd "Ben asla pes etmem."
-
-# game/code/scenes/main_story/sm1ms030.rpy:170
-translate turkish sm1ms030_2153e8f8:
-
-    # sb "We'll see about that."
-    sb "Bunu göreceğiz."
 
 # game/code/scenes/main_story/sm1ms030.rpy:176
 translate turkish sm1ms030_f7753e02:
@@ -442,12 +412,6 @@ translate turkish sm1ms030_46f3c53a:
     # zp "Mmm."
     zp "Mmm."
 
-# game/code/scenes/main_story/sm1ms030.rpy:198
-translate turkish sm1ms030_87ef57fa:
-
-    # sb "Yo, Stacy. What can we expect for Season Two of S&M Studio?"
-    sb "Hey, Stacy. S&M Studio'nun Sezon İki'sinde neler bekleyebiliriz?"
-
 # game/code/scenes/main_story/sm1ms030.rpy:200
 translate turkish sm1ms030_5ef43fce:
 
@@ -471,12 +435,6 @@ translate turkish sm1ms030_c0adc584:
 
     # zp "The story is not going to finish itself."
     zp "Hikaye kendini bitirmeyecek."
-
-# game/code/scenes/main_story/sm1ms030.rpy:207
-translate turkish sm1ms030_57fe597d:
-
-    # sb "Bye Zemfira. Love your whole vibe by the way."
-    sb "Hoşçakal Zemfira. Bu arada tüm havanı seviyorum."
 
 # game/code/scenes/main_story/sm1ms030.rpy:209
 translate turkish sm1ms030_a86635f3:
@@ -754,12 +712,6 @@ translate turkish sm1ms030_b0cfc7e5:
     # dd "Excellent. I can't wait for it."
     dd "Mükemmel. Sabırsızlanıyorum."
 
-# game/code/scenes/main_story/sm1ms030.rpy:313
-translate turkish sm1ms030_d3aab1c1:
-
-    # sb "And the Patreon poll!"
-    sb "Ve Patreon anketi!"
-
 # game/code/scenes/main_story/sm1ms030.rpy:315
 translate turkish sm1ms030_e90b76c4:
 
@@ -783,4 +735,52 @@ translate turkish sm1ms030_99415122:
 
     # "Everyone" "See you in Season Two!"
     "Herkes" "Sezon İki'de görüşürüz!"
+
+# game/code/scenes/main_story/sm1ms030.rpy:248
+translate turkish sm1ms030_0f32b093:
+
+    # sbf "Hold your horses, Diamond girl!"
+    sbf "Dur bakalım, Elmas kızı!"
+
+# game/code/scenes/main_story/sm1ms030.rpy:251
+translate turkish sm1ms030_014f56b5:
+
+    # sbf "You're not the only one who wants to join!"
+    sbf "Katılmak isteyen tek kişi sen değilsin!"
+
+# game/code/scenes/main_story/sm1ms030.rpy:257
+translate turkish sm1ms030_36bea1d2:
+
+    # sbf "Damn straight. This is where the party's at, after all."
+    sbf "Kesinlikle. Ne de olsa parti burada."
+
+# game/code/scenes/main_story/sm1ms030.rpy:260
+translate turkish sm1ms030_502adca5:
+
+    # sbf "So you may as well toss in the towel now, Daisy."
+    sbf "O yüzden şimdiden havluyu atsan iyi olur, Daisy."
+
+# game/code/scenes/main_story/sm1ms030.rpy:265
+translate turkish sm1ms030_0075f6b8:
+
+    # sbf "We'll see about that."
+    sbf "Bunu göreceğiz."
+
+# game/code/scenes/main_story/sm1ms030.rpy:314
+translate turkish sm1ms030_e3c64c3e:
+
+    # sbf "Yo, Stacy. What can we expect for Season Two of S&M Studio?"
+    sbf "Hey, Stacy. S&M Studio'nun Sezon İki'sinde neler bekleyebiliriz?"
+
+# game/code/scenes/main_story/sm1ms030.rpy:328
+translate turkish sm1ms030_59604893:
+
+    # sbf "Bye Zemfira. Love your whole vibe by the way."
+    sbf "Hoşçakal Zemfira. Bu arada tüm havanı seviyorum."
+
+# game/code/scenes/main_story/sm1ms030.rpy:489
+translate turkish sm1ms030_1bbf4e04:
+
+    # sbf "And the Patreon poll!"
+    sbf "Ve Patreon anketi!"
 

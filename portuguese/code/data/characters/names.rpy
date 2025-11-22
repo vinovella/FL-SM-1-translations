@@ -196,8 +196,6 @@ translate portuguese strings:
     old "Doug"
     new "Doug"
 
-translate portuguese strings:
-
     # game/code/data/characters/names.rpy:84
     old "Carmel"
     new "Carmel"
@@ -210,9 +208,11 @@ translate portuguese strings:
     old "Jerk Cop"
     new "Policial Cuzão"
 
-translate portuguese strings:
-
     # game/code/data/characters/names.rpy:87
     old "Douche Cop"
     new "Policial Babaca"
+
+    # game/code/data/characters/names.rpy:83
+    old "Samiya"
+    new "Samiya"
 

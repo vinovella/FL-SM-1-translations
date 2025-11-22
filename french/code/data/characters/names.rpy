@@ -104,3 +104,7 @@
     old "Douche Cop"
     new "Flic Douche"
 
+    # game/code/data/characters/names.rpy:83
+    old "Samiya"
+    new "Samiya"
+
