@@ -4238,7 +4238,7 @@ translate deutsch sm1ms029_party_sy_520b8235:
 translate deutsch sm1ms029_party_sy_491110f3:
 
     # sy "Fucking pound meeeee!"
-    sy "Fick mich hart!"
+    sy "Fick mich härter!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1653
 translate deutsch sm1ms029_party_sy_fcafe158:
