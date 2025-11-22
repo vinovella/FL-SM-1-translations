@@ -5576,7 +5576,7 @@ translate deutsch sm1ms029_party_arj_e1de2415:
 translate deutsch sm1ms029_party_arj_06b05f37:
 
     # arj "For being weak."
-    arj "Weil du schwach bist."
+    arj "Für ihre Schwäche."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2058
 translate deutsch sm1ms029_party_arj_92d1ab53:
