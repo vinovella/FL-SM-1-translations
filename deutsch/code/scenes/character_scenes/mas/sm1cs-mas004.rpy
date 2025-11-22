@@ -1532,7 +1532,7 @@ translate deutsch strings:
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:517
     old "I thought you were"
-    new "Ich dachte, das wärst du"
+    new "Ich dachte, das hättest du"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:633
     old "Guide her head gently"
