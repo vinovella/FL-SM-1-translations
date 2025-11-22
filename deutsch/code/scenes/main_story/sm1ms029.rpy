@@ -6482,7 +6482,7 @@ translate deutsch sm1ms029_party_end_cd614448:
 translate deutsch sm1ms029_party_end_16392459:
 
     # hr "Thank you, Stacy."
-    hr "TDanke, Stacy."
+    hr "Danke, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2379
 translate deutsch sm1ms029_party_end_6f70614c:
