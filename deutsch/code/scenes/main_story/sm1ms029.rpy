@@ -3410,7 +3410,7 @@ translate deutsch sm1ms029_part_1_my_appear_d1864257:
 translate deutsch sm1ms029_part_1_my_appear_39dcb748:
 
     # arj "Pounding your tight pussy, with this dildo shoved up your ass."
-    arj "Ich ficke deine enge Muschi, während ich dir diesen Dildo in den Arsch ramme."
+    arj "Er fickt deine enge Muschi, während ich dir diesen Dildo in den Arsch ramme."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1426
 translate deutsch sm1ms029_part_1_my_appear_2bc4e327:
