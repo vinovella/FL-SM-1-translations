@@ -2234,7 +2234,7 @@ translate deutsch sm1ms029_party_part_1_fdafb391:
 translate deutsch sm1ms029_party_part_1_00292478:
 
     # mc "All right, everyone! First up this evening, who wants to come up here and eats Stacy's ass?"
-    mc "Okay, Leute! Als Erstes heute Abend: Wer möchte hierher kommen und Stacys Arsch lecken?"
+    mc "Okay, Leute! Als Erstes heute Abend: Wer möchte hierher kommen und Stacys Arschloch lecken?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1006
 translate deutsch sm1ms029_party_part_1_3684e002:
@@ -2324,7 +2324,7 @@ translate deutsch sm1ms029_party_part_1_c442311a:
 translate deutsch sm1ms029_party_part_1_e7d10ee4:
 
     # kv "You've got a great ass, Stacy."
-    kv "Du hast einen tollen Arsch, Stacy."
+    kv "Du hast ein tolles Arschloch, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1038
 translate deutsch sm1ms029_party_part_1_66dd3fc3:
