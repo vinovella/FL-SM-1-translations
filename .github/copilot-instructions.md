@@ -75,6 +75,7 @@
    CODE: dl        NAME: `Doug`         CHINESE_TRANSLATION: `道格`         GENDER: Male               INFO: Doug Dickles
    CODE: et        NAME: `Ethan`        CHINESE_TRANSLATION: `伊桑`         GENDER: Male                INFO: Ethan Foxmorr
    CODE: cb        NAME: `Carmel`       CHINESE_TRANSLATION: `卡梅尔`       GENDER: Female              INFO: Carmel Blaise
+   CODE: sbf       NAME: `Samiya`       CHINESE_TRANSLATION: `萨米娅`       GENDER: Female              INFO: Samiya Byers
    CODE: narrator  NAME: `Narrator`     CHINESE_TRANSLATION: None           GENDER: Non-binary         INFO: Used For Narration.     	SPECIALTY: Has no code role. So, all dialogue without speaker attribution is Narrator.
    CODE: mhmes     NAME: `[mhmesname]`  CHINESE_TRANSLATION: `丽莎` or `明`  GENDER: Female             INFO: Lyssa or Min            	SPECIALTY: Used when the speaker could be either Lyssa or Min, depending on player choice.
 8. Always use the character's specialty and gender to guide translation choices, ensuring respectful and accurate representation.
