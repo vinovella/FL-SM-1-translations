@@ -4526,7 +4526,7 @@ translate deutsch sm1ms029_rival_enters_53878096:
 translate deutsch sm1ms029_rival_enters_2e4a5349:
 
     # kv "Wait, I think."
-    kv "Warte, denke ich."
+    kv "Moment, ich denke nach."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1733
 translate deutsch sm1ms029_rival_enters_34461a04:
@@ -4556,7 +4556,7 @@ translate deutsch sm1ms029_rival_enters_fda5068c:
 translate deutsch sm1ms029_rival_enters_a1ee8d6f:
 
     # kv "Ah... Hahaha. You guys are funny."
-    kv "Ah... Hahaha. Ihr seid echt witzig."
+    kv "Ah... Hahaha. Du bist echt witzig."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1745
 translate deutsch sm1ms029_rival_enters_755984d1:
@@ -5576,7 +5576,7 @@ translate deutsch sm1ms029_party_arj_e1de2415:
 translate deutsch sm1ms029_party_arj_06b05f37:
 
     # arj "For being weak."
-    arj "Weil du schwach bist."
+    arj "Für ihre Schwäche."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2058
 translate deutsch sm1ms029_party_arj_92d1ab53:
@@ -6482,7 +6482,7 @@ translate deutsch sm1ms029_party_end_cd614448:
 translate deutsch sm1ms029_party_end_16392459:
 
     # hr "Thank you, Stacy."
-    hr "TDanke, Stacy."
+    hr "Danke, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2379
 translate deutsch sm1ms029_party_end_6f70614c:
