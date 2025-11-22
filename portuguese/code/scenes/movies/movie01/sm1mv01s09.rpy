@@ -194,7 +194,7 @@ translate portuguese sm1mv01s09_b70108a4:
 translate portuguese sm1mv01s09_e8acd2b4:
 
     # "Everyone" "Yeah!"
-    "Everyone" "É!"
+    "Todos" "É!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:181
 translate portuguese sm1mv01s09_22aee32b:
