@@ -932,7 +932,7 @@ translate deutsch strings:
 
     # game/code/scenes/theatre/sm1fs-t008.rpy:19
     old "I did once"
-    new "Ich habe es"
+    new "Ich wollte es"
 
     # game/code/scenes/theatre/sm1fs-t008.rpy:19
     old "You mean, I'm going to get to act on stage?"
