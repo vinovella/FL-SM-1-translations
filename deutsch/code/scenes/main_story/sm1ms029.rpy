@@ -2234,7 +2234,7 @@ translate deutsch sm1ms029_party_part_1_fdafb391:
 translate deutsch sm1ms029_party_part_1_00292478:
 
     # mc "All right, everyone! First up this evening, who wants to come up here and eats Stacy's ass?"
-    mc "Okay, Leute! Als Erstes heute Abend: Wer möchte hierher kommen und Stacys Arsch lecken?"
+    mc "Okay, Leute! Als Erstes heute Abend: Wer möchte hierher kommen und Stacys Arschloch lecken?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1006
 translate deutsch sm1ms029_party_part_1_3684e002:
@@ -2324,7 +2324,7 @@ translate deutsch sm1ms029_party_part_1_c442311a:
 translate deutsch sm1ms029_party_part_1_e7d10ee4:
 
     # kv "You've got a great ass, Stacy."
-    kv "Du hast einen tollen Arsch, Stacy."
+    kv "Du hast ein tolles Arschloch, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1038
 translate deutsch sm1ms029_party_part_1_66dd3fc3:
@@ -3410,7 +3410,7 @@ translate deutsch sm1ms029_part_1_my_appear_d1864257:
 translate deutsch sm1ms029_part_1_my_appear_39dcb748:
 
     # arj "Pounding your tight pussy, with this dildo shoved up your ass."
-    arj "Ich ficke deine enge Muschi, während ich dir diesen Dildo in den Arsch ramme."
+    arj "Er fickt deine enge Muschi, während ich dir diesen Dildo in den Arsch ramme."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1426
 translate deutsch sm1ms029_part_1_my_appear_2bc4e327:
@@ -3974,13 +3974,13 @@ translate deutsch sm1ms029_party_sy_457f967d:
 translate deutsch sm1ms029_party_sy_934bc35c:
 
     # mc "Nggghhh - or at least your ass is!"
-    mc "Nggghhh – zumindest dein Arsch!"
+    mc "Nggghhh – oder zumindest dein Arsch!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1591
 translate deutsch sm1ms029_party_sy_91c06d49:
 
     # sy "That too!"
-    sy "Das auch!"
+    sy "Das stimmt!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1593
 translate deutsch sm1ms029_party_sy_b19d4084:
@@ -4232,13 +4232,13 @@ translate deutsch sm1ms029_party_sy_d284baa5:
 translate deutsch sm1ms029_party_sy_520b8235:
 
     # sy "And I love fucking yoooou!"
-    sy "Und ich liebe es, dich zu ficken!"
+    sy "Und ich liebe es, von dir gefickt zu werden!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1651
 translate deutsch sm1ms029_party_sy_491110f3:
 
     # sy "Fucking pound meeeee!"
-    sy "Fick mich hart!"
+    sy "Fick mich härter!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1653
 translate deutsch sm1ms029_party_sy_fcafe158:
