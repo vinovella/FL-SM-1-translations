@@ -98,7 +98,7 @@ translate deutsch sm1cs_my005_later_4caeea85:
 translate deutsch sm1cs_my005_later_35fedb77:
 
     # mc "Hey, Mom!"
-    mc "Hey, Mom!"
+    mc "Hey, Mama!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:64
 translate deutsch sm1cs_my005_later_f67d45c0:
