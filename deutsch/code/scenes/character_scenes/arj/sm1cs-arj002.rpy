@@ -692,7 +692,7 @@ translate deutsch sm1cs_arj002_254336d8_1:
 translate deutsch sm1cs_arj002_5db77737:
 
     # mc "*grunts*"
-    mc "*grunts*"
+    mc "*grunzt*"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:401
 translate deutsch sm1cs_arj002_95547680:
