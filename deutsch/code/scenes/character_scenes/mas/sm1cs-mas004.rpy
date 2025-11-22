@@ -584,7 +584,7 @@ translate deutsch sm1cs_mas004_after_lunch_954ad033:
 translate deutsch sm1cs_mas004_after_lunch_7d520140:
 
     # ms "*shrugs* It's a roof and it's cheap. That's all the character I need."
-    ms "*zuckt mit den Schultern* Es ist ein Dach und es ist günstig. Das ist alles, was ich brauche."
+    ms "*zuckt mit den Schultern* Es hat ein Dach und es ist günstig. Das ist alles, was ich brauche."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:414
 translate deutsch sm1cs_mas004_after_lunch_80aa877c:
@@ -1532,7 +1532,7 @@ translate deutsch strings:
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:517
     old "I thought you were"
-    new "Ich dachte, das wärst du"
+    new "Ich dachte, das hättest du"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:633
     old "Guide her head gently"
