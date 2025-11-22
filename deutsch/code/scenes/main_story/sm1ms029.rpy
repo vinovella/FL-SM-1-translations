@@ -3974,13 +3974,13 @@ translate deutsch sm1ms029_party_sy_457f967d:
 translate deutsch sm1ms029_party_sy_934bc35c:
 
     # mc "Nggghhh - or at least your ass is!"
-    mc "Nggghhh – zumindest dein Arsch!"
+    mc "Nggghhh – oder zumindest dein Arsch!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1591
 translate deutsch sm1ms029_party_sy_91c06d49:
 
     # sy "That too!"
-    sy "Das auch!"
+    sy "Das stimmt!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1593
 translate deutsch sm1ms029_party_sy_b19d4084:
