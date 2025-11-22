@@ -4232,7 +4232,7 @@ translate deutsch sm1ms029_party_sy_d284baa5:
 translate deutsch sm1ms029_party_sy_520b8235:
 
     # sy "And I love fucking yoooou!"
-    sy "Und ich liebe es, dich zu ficken!"
+    sy "Und ich liebe es, von dir gefickt zu werden!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1651
 translate deutsch sm1ms029_party_sy_491110f3:
