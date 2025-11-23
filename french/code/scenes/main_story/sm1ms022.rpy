@@ -332,7 +332,7 @@ translate french sm1ms022_07d8a687:
 translate french sm1ms022_84bb0a08:
 
     # sy "And you have to remember, today is alllll about butt stuff!"
-    sy "Et n’oublie pas, aujourd’hui c’est 100 % cul !"
+    sy "Et n’oublie pas, aujourd’hui c’est 100 %% cul !"
 
 # game/code/scenes/main_story/sm1ms022.rpy:234
 translate french sm1ms022_0d9fff2f:

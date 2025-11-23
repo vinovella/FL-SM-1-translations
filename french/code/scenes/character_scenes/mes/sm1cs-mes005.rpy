@@ -644,7 +644,7 @@ translate french sm1cs_mes005_292a3ee7:
 translate french sm1cs_mes005_d6821b9e:
 
     # kv "I mean, I've done that, but ninety percent of the time, I'm doing the camera work or other behind-the-scenes stuff."
-    kv "Enfin, je l’ai fait, mais 90 % du temps, je fais de la caméra ou d’autres trucs en coulisses."
+    kv "Enfin, je l’ai fait, mais 90 %% du temps, je fais de la caméra ou d’autres trucs en coulisses."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:324
 translate french sm1cs_mes005_11aa3e1b:

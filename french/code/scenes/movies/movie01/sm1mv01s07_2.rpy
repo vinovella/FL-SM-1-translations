@@ -332,7 +332,7 @@ translate french sm1mv01s07_2_at_rental_1ca6f519:
 translate french sm1mv01s07_2_at_rental_357dfeb5:
 
     # tl "But if you snore, we're kicking you out and this will be an all-girl crib."
-    tl "Mais si tu ronfles, on te vire et ça deviendra une coloc 100% filles."
+    tl "Mais si tu ronfles, on te vire et ça deviendra une coloc 100%% filles."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:215
 translate french sm1mv01s07_2_at_rental_fdbd970e:
