@@ -224,7 +224,7 @@ translate portuguese sm1mv01s01_55cf1d54:
 translate portuguese sm1mv01s01_e494c443:
 
     # mc "What, am I supposed to just steal from my job?"
-    mc "O quê, eu deveria só roubar do meu trabalho?"
+    mc "O quê, é pra eu roubar do meu trabalho?"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:129
 translate portuguese sm1mv01s01_4bd24381:
@@ -236,7 +236,7 @@ translate portuguese sm1mv01s01_4bd24381:
 translate portuguese sm1mv01s01_61989109:
 
     # sy "We're just temporarily requisitioning it without approval."
-    sy "A gente só estaria requisitando temporariamente sem autorização."
+    sy "Seria só requisitando temporariamente sem autorização."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:133
 translate portuguese sm1mv01s01_f94f9719:
@@ -254,7 +254,7 @@ translate portuguese sm1mv01s01_105eab9c:
 translate portuguese sm1mv01s01_e0c2473f:
 
     # mc "Aye yea yea...{w} maybe they have something like that."
-    mc "Ai, ai...{w} talvez eles tenham algo assim."
+    mc "Sim, sim...{w} talvez eles tenham algo assim."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:142
 translate portuguese sm1mv01s01_54a66b2d:
@@ -272,19 +272,19 @@ translate portuguese sm1mv01s01_373de6e0:
 translate portuguese sm1mv01s01_ab64b955:
 
     # sy "Yay! Okay, so that's props... wardrobe..."
-    sy "Boa! Então, props... figurino..."
+    sy "Eba! Então, objetos... figurino..."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:151
 translate portuguese sm1mv01s01_7c2ddf4f:
 
     # sy "What are we going to do about locations?"
-    sy "O que a gente vai fazer sobre as locações?"
+    sy "O que a gente vai fazer sobre os locais?"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:154
 translate portuguese sm1mv01s01_4a73ded0:
 
     # mc "Well, what locations do we need?"
-    mc "Bom, que locações a gente precisa?"
+    mc "Bom, que locais a gente precisa?"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:156
 translate portuguese sm1mv01s01_d7686662:
@@ -302,7 +302,7 @@ translate portuguese sm1mv01s01_263bdc2d:
 translate portuguese sm1mv01s01_6f97a1f8:
 
     # sy "That's probably a good idea."
-    sy "Isso aí deve ser uma boa ideia."
+    sy "Boa ideia."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:163
 translate portuguese sm1mv01s01_7e3eeadb:
@@ -314,19 +314,19 @@ translate portuguese sm1mv01s01_7e3eeadb:
 translate portuguese sm1mv01s01_0d6e74bf:
 
     # mc "Well, pirates are always looking for gold, right?"
-    mc "Bom, piratas tão sempre atrás de ouro, né?"
+    mc "Bom, piratas sempre estão atrás de ouro, né?"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:169
 translate portuguese sm1mv01s01_078cd4b1:
 
     # sy "Or their ships."
-    sy "Ou dos navios deles."
+    sy "Ou de navios."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:172
 translate portuguese sm1mv01s01_5f984867:
 
     # mc "How the hell do you lose a ship?"
-    mc "Como diabos alguém perde um navio?"
+    mc "Como que alguém perde um navio?"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:175
 translate portuguese sm1mv01s01_ecc14397:
@@ -344,7 +344,7 @@ translate portuguese sm1mv01s01_607b3b1a:
 translate portuguese sm1mv01s01_7228a582:
 
     # sy "Ye been a terrible cap'n, Cap'n [mcname]! Prepare to walk the plank!"
-    sy "Vossa mercê foi um capitão terrível, Capitão [mcname]! Se prepare pra caminhar na prancha!"
+    sy "Vossa mercê foi um capitão terrível, Capitão [mcname]! Se prepare pra andar na prancha!"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:185
 translate portuguese sm1mv01s01_82db637b:
@@ -368,7 +368,7 @@ translate portuguese sm1mv01s01_13c790bc:
 translate portuguese sm1mv01s01_24e0909f:
 
     # sy "Yer' going to Davy Jones locker!"
-    sy "Você vai pra tumba do Davy Jones!"
+    sy "Cê vai pra tumba do Davy Jones!"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:199
 translate portuguese sm1mv01s01_c5e4c232:
@@ -380,19 +380,19 @@ translate portuguese sm1mv01s01_c5e4c232:
 translate portuguese sm1mv01s01_4975572b:
 
     # sy "And that, [mcname], is how you lose a ship."
-    sy "E é assim, [mcname], que você perde um navio."
+    sy "E é assim, [mcname], que se perde um navio."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:204
 translate portuguese sm1mv01s01_0ca8a328:
 
     # mc "Okay, okay, point proved. Now get off me."
-    mc "Tá, tá, você provou. Agora sai de mim."
+    mc "Tá, tá, você provou seu ponto. Agora sai de mim."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:208
 translate portuguese sm1mv01s01_2b1146d4:
 
     # sy "But, you're right. Gold is usually what they're looking for."
-    sy "Mas você tá certo. Ouro é o que eles geralmente procuram."
+    sy "Mas tem razão. Eles geralmente estão atrás de ouro."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:211
 translate portuguese sm1mv01s01_711c6a7d:
@@ -506,13 +506,13 @@ translate portuguese sm1mv01s01_fd6f33e0:
 translate portuguese sm1mv01s01_de16c072:
 
     # sy "I think it definitely needs more work though."
-    sy "Mas acho que ainda precisa de mais trabalho."
+    sy "Mas acho que ainda precisa dar uma melhorada."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:288
 translate portuguese sm1mv01s01_4273ef70:
 
     # mc "And maybe a read through? With me, you, and Taisia?"
-    mc "E talvez uma leitura? Com eu, você e a Taisia?"
+    mc "E talvez uma leitura? Eu, você e a Taisia?"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:291
 translate portuguese sm1mv01s01_b81148b4:
@@ -524,7 +524,7 @@ translate portuguese sm1mv01s01_b81148b4:
 translate portuguese sm1mv01s01_f469fcc9:
 
     # sy "Now, we need to talk about locations..."
-    sy "Agora a gente precisa conversar sobre locações..."
+    sy "Agora a gente precisa conversar sobre locais..."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:297
 translate portuguese sm1mv01s01_cf1adef2:
@@ -536,7 +536,7 @@ translate portuguese sm1mv01s01_cf1adef2:
 translate portuguese sm1mv01s01_aeecc383:
 
     # sy "So, the big ones are like the deck of a boat, and a treasure cave."
-    sy "Então, as principais são tipo o convés de um barco e uma caverna de tesouro."
+    sy "Então, os principais são tipo o convés de um barco e uma caverna de tesouro."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:303
 translate portuguese sm1mv01s01_730b3d1d:
@@ -554,13 +554,13 @@ translate portuguese sm1mv01s01_481e5691:
 translate portuguese sm1mv01s01_4cd17417:
 
     # sy "Because dumping a bunch of sand in here sounds like a terrible idea."
-    sy "Porque jogar um monte de areia aqui dentro parece uma péssima ideia."
+    sy "Porque seria uma péssima ideia jogar um monte de areia aqui dentro."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:311
 translate portuguese sm1mv01s01_36750eb2:
 
     # mc "Yeah, we'll figure out something."
-    mc "É, a gente vai pensar em algo."
+    mc "É, vamos pensar em alguma coisa."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:312
 translate portuguese sm1mv01s01_d4034a2a:
@@ -578,7 +578,7 @@ translate portuguese sm1mv01s01_531bfbf1:
 translate portuguese sm1mv01s01_1452ccea:
 
     # sy "One thing we'll have to figure out is some CG work. Little bit of VFX to help sell the whole \"at sea\" thing."
-    sy "Uma coisa que a gente vai ter que resolver é a parte de CG. Um pouco de VFX pra ajudar a vender esse lance de \"alto-mar\"."
+    sy "Uma coisa que vamos ter que resolver é a parte de CG. Um pouco de efeitos visuais pra ajudar a vender esse lance de \"alto-mar\"."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:321
 translate portuguese sm1mv01s01_722f688f:
@@ -632,19 +632,19 @@ translate portuguese sm1mv01s01_30bf7622:
 translate portuguese sm1mv01s01_ee523ed5:
 
     # sy "Maybe, but if we make a great fucking movie, it won't be a problem!"
-    sy "Talvez, mas se a gente fizer um filme fodão, não vai ser um problema!"
+    sy "Talvez, mas se a gente fizer um filme fodão, não vai ser problema!"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:349
 translate portuguese sm1mv01s01_53373223:
 
     # mc "Hmmm. Then we better make a great fucking movie."
-    mc "Hmmm. Então é melhor a gente fazer um filme fodão."
+    mc "Hmmm. Então é melhor fazer um filme fodão."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:352
 translate portuguese sm1mv01s01_472b7c10:
 
     # sy "So now we just need to get Kanya over here to talk about camera and gear stuff."
-    sy "Então agora a gente só precisa chamar a Kanya pra falar de câmera e equipamento."
+    sy "Então agora é só chamar a Kanya pra falar de câmera e equipamento."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:355
 translate portuguese sm1mv01s01_70b4d600:
@@ -668,13 +668,13 @@ translate portuguese sm1mv01s01_b3d121ba:
 translate portuguese sm1mv01s01_82cfef52:
 
     # mc "Awesome."
-    mc "Boa."
+    mc "Maravilha."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:366
 translate portuguese sm1mv01s01_379b2d51:
 
     # sy "So... in the meantime, do we want to watch some pirate shit? Get some more ideas for the script?"
-    sy "Então... enquanto isso, a gente quer ver umas paradas de pirata? Pegar mais ideias pro roteiro?"
+    sy "Então... enquanto isso, vamos assistir umas paradas de pirata? Pegar mais ideias pro roteiro?"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:369
 translate portuguese sm1mv01s01_8c34d9aa:
@@ -698,7 +698,7 @@ translate portuguese sm1mv01s01_e229727a:
 translate portuguese sm1mv01s01_ab1d3255:
 
     # mct "We're making a pirate movie!"
-    mct "A gente tá fazendo um filme de pirata!"
+    mct "Vamos fazer um filme de pirata!"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:389
 translate portuguese sm1mv01s01_0d67c0cc:
@@ -710,7 +710,7 @@ translate portuguese sm1mv01s01_0d67c0cc:
 translate portuguese sm1mv01s01_947c9591:
 
     # sy "If it isn't my favorite camera person!"
-    sy "Olha só se não é minha pessoa favorita da câmera!"
+    sy "Olha só se não é minha pessoa câmera favorita!"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:402
 translate portuguese sm1mv01s01_09e77139:
@@ -746,7 +746,7 @@ translate portuguese sm1mv01s01_428ff741:
 translate portuguese sm1mv01s01_7b558075:
 
     # mc "We do-"
-    mc "Temos—"
+    mc "Temos-"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:421
 translate portuguese sm1mv01s01_ca75cf3f:
@@ -782,13 +782,13 @@ translate portuguese sm1mv01s01_73db3ef0:
 translate portuguese sm1mv01s01_b18a87ca:
 
     # mc "Oh - then, yes! We're making a feature!"
-    mc "Ah — então sim! A gente tá fazendo um longa!"
+    mc "Ah - então sim! Estamos fazendo um longa!"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:439
 translate portuguese sm1mv01s01_0daf0a13:
 
     # kv "Color me intrigued."
-    kv "Agora eu fiquei curiosa."
+    kv "Agora fiquei curiosa."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:442
 translate portuguese sm1mv01s01_fccaa82a:
@@ -818,7 +818,7 @@ translate portuguese sm1mv01s01_74fc6761:
 translate portuguese sm1mv01s01_fcf915ff:
 
     # sy "I'm happy we snuck in a little more choking!"
-    sy "Tô feliz que a gente enfiou mais um pouquinho de choking!"
+    sy "Tô feliz que a gente enfiou mais um pouquinho de enforcamento!"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:471
 translate portuguese sm1mv01s01_25be561e:
@@ -836,13 +836,13 @@ translate portuguese sm1mv01s01_83b690de:
 translate portuguese sm1mv01s01_b5501c4a:
 
     # mc "Boards? We're going to get the ship planks ourselves for the set."
-    mc "Tábuas? A gente mesmo vai pegar as tábuas do navio pro cenário."
+    mc "Board? Quer dizer tábuas? A gente mesmo pega as tábuas do navio pro cenário."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:481
 translate portuguese sm1mv01s01_35a6278b:
 
     # kv "No, I mean storyboards."
-    kv "Não, eu digo storyboards."
+    kv "Não, quer o dizer storyboards."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:483
 translate portuguese sm1mv01s01_4f9f4391:
@@ -854,7 +854,7 @@ translate portuguese sm1mv01s01_4f9f4391:
 translate portuguese sm1mv01s01_23f5b93e:
 
     # kv "I'll also put together a gear list. We'll probably want to rent a few things."
-    kv "Vou montar uma lista de equipamento também. Provavelmente a gente vai querer alugar algumas coisas."
+    kv "E eu vou montar uma lista de equipamento. Provavelmente vamos querer querer alugar algumas coisas."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:490
 translate portuguese sm1mv01s01_d9ab4cba:
@@ -866,7 +866,7 @@ translate portuguese sm1mv01s01_d9ab4cba:
 translate portuguese sm1mv01s01_c81c94d5:
 
     # kv "We might want to start thinking about getting more crew though."
-    kv "Mas acho que a gente devia começar a pensar em arrumar mais equipe."
+    kv "Mas acho que melhor começar a pensar em arrumar mais gente."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:497
 translate portuguese sm1mv01s01_85d51034:
@@ -878,13 +878,13 @@ translate portuguese sm1mv01s01_85d51034:
 translate portuguese sm1mv01s01_e9344b59:
 
     # kv "Probably an AD, Gaffer, Key Grip, Hair and Makeup, a PA or two, Production Designer and Art department."
-    kv "Provavelmente um AD, Gaffer, Key Grip, Cabelo e Maquiagem, um ou dois PAs, Designer de Produção e o departamento de Arte."
+    kv "Provavelmente um Assistente de Direção, Gaffer, Key Grip, Cabelo e Maquiagem, um ou dois PAs, Designer de Produção e um departamento de Arte."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:504
 translate portuguese sm1mv01s01_254ab32d:
 
     # kv "And Sound. We need to find someone to run sound for us."
-    kv "E Som. A gente precisa achar alguém pra cuidar do som."
+    kv "E Som. Vamos ter que achar alguém pra cuidar do som."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:507
 translate portuguese sm1mv01s01_10c90efd:
@@ -902,7 +902,7 @@ translate portuguese sm1mv01s01_eb6b2898:
 translate portuguese sm1mv01s01_a1ebbd82:
 
     # kv "But, I'm beat. You think about that, and we'll talk later. See ya'!"
-    kv "Mas tô exausta. Pensem nisso e a gente fala depois. Até mais!"
+    kv "Mas tô acabada. Pensem nisso e a gente se fala depois. Até mais!"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:514
 translate portuguese sm1mv01s01_68ccb375:
@@ -914,7 +914,7 @@ translate portuguese sm1mv01s01_68ccb375:
 translate portuguese sm1mv01s01_68d6dd2a:
 
     # sy "You know, I'm pretty tired too."
-    sy "Sabe, eu tô bem cansada também."
+    sy "Sabe, também tô bem cansada."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:521
 translate portuguese sm1mv01s01_bf168f41:
