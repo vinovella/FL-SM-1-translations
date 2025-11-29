@@ -50,7 +50,7 @@ translate portuguese sm1mv01s02_e17de6e1:
 translate portuguese sm1mv01s02_e26fe711:
 
     # sy "Can't she be just misunderstood? Like all of the villains from those animated movies?"
-    sy "Não dá pra ela ser só incompreendida? Tipo os vilões daqueles filmes animados?"
+    sy "Não dá pra ela ser só incompreendida? Tipo os vilões daquelas animações?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:64
 translate portuguese sm1mv01s02_3968a5eb:
@@ -62,25 +62,25 @@ translate portuguese sm1mv01s02_3968a5eb:
 translate portuguese sm1mv01s02_77e521fb:
 
     # sy "...but then we finally see in the prequels that they were actually the true victims all along?"
-    sy "...mas aí nos prelúdios a gente descobre que na verdade eram as verdadeiras vítimas o tempo todo?"
+    sy "... mas aí nos prequels a gente descobre que na verdade eram as verdadeiras vítimas o tempo todo?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:68
 translate portuguese sm1mv01s02_5f9381de:
 
     # kv "Ah yes. And the hunter who shot Tambi's mother was actually avenging his father that Tambi's mother killed..."
-    kv "Ah, sim. E o caçador que atirou na mãe da Tambi estava vingando o pai dele que a mãe da Tambi matou..."
+    kv "Ah, sim. E o caçador que atirou na mãe do Tambi estava vingando o pai dele que a mãe da Tambi matou..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:72
 translate portuguese sm1mv01s02_ae622efe:
 
     # kv "*Fake gagging*"
-    kv "*engole*"
+    kv "*Finge engasgar*"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:75
 translate portuguese sm1mv01s02_7ded6fb6:
 
     # kv "We're not trying to make a shades of gray, morally ambiguous character here."
-    kv "A gente não tá tentando criar uma personagem cinzenta e moralmente ambígua aqui."
+    kv "Não estamos tentando criar uma personagem moralmente ambíguo aqui."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:76
 translate portuguese sm1mv01s02_ae566dd8:
@@ -104,13 +104,13 @@ translate portuguese sm1mv01s02_8218548c:
 translate portuguese sm1mv01s02_c1477d1c:
 
     # kv "What?"
-    kv "Quê?"
+    kv "Que foi?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:86
 translate portuguese sm1mv01s02_87d78dfc:
 
     # sy "Very strong feelings about misunderstood villains, haven't we, Kanya?"
-    sy "Sentimentos fortes sobre vilões incompreendidos, né, Kanya?"
+    sy "Bem a fim de vilões incompreendidos, né, Kanya?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:89
 translate portuguese sm1mv01s02_ab17ae38:
@@ -140,7 +140,7 @@ translate portuguese sm1mv01s02_78395f4e:
 translate portuguese sm1mv01s02_6bfc74d9:
 
     # sy "What?"
-    sy "Quê?"
+    sy "Que foi?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:102
 translate portuguese sm1mv01s02_07968465:
@@ -152,7 +152,7 @@ translate portuguese sm1mv01s02_07968465:
 translate portuguese sm1mv01s02_b286c0f7:
 
     # kv "I mean it was..."
-    kv "Quer dizer, foi..."
+    kv "Bem, foi..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:106
 translate portuguese sm1mv01s02_7ca1dc1e:
@@ -164,25 +164,25 @@ translate portuguese sm1mv01s02_7ca1dc1e:
 translate portuguese sm1mv01s02_ceb88f98:
 
     # mc "You might be able to scare small children with a laugh like that."
-    mc "Você até assustaria crianças pequenas com uma risada dessas."
+    mc "Você assustaria crianças pequenas com uma risada dessas."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:110
 translate portuguese sm1mv01s02_66226ee3:
 
     # mc "But it certainly wasn't nefarious enough for a power-hungry pirate queen."
-    mc "Mas com certeza não foi nefasta o bastante pra uma rainha pirata sedenta por poder."
+    mc "Mas com certeza não foi malvada o bastante pra uma rainha pirata sedenta por poder."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:114
 translate portuguese sm1mv01s02_aa01decc:
 
     # sy "How dare you!"
-    sy "Como você ousa!"
+    sy "Como ousa!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:118
 translate portuguese sm1mv01s02_475c01b3:
 
     # sy "Any more lip like that, Mr. Young, and I'll be sending you off to old Davy John's locker."
-    sy "Fala assim de novo, Sr. Young, e eu vou te mandar direto pro armário do velho Davy Johns."
+    sy "Fale assim de novo, Sr. Young, e eu vou te mandar direto pro armário do velho Davy Johns."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:121
 translate portuguese sm1mv01s02_6d2d8309:
@@ -230,19 +230,19 @@ translate portuguese sm1mv01s02_8e49ff53:
 translate portuguese sm1mv01s02_a3ebfe85:
 
     # kv "Well, she's certainly letting her Queen flag fly."
-    kv "Bom, ela tá deixando a bandeira de rainha bem erguida."
+    kv "Bom, ela tá mostrando do meu lado de Rainha.
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:145
 translate portuguese sm1mv01s02_2a54947c:
 
     # mc "Stacy is always my Queen."
-    mc "A Stacy sempre é minha rainha."
+    mc "A Stacy sempre é minha Rainha."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:148
 translate portuguese sm1mv01s02_a73e4e8d:
 
     # kv "Haha. I suppose so."
-    kv "Haha. Imagino que sim."
+    kv "Haha. Imagino."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:149
 translate portuguese sm1mv01s02_8cf0a645:
@@ -254,7 +254,7 @@ translate portuguese sm1mv01s02_8cf0a645:
 translate portuguese sm1mv01s02_04678dcf:
 
     # kv "So you can't be simping around when the camera is rolling."
-    kv "Então você não pode ficar babando por ela quando a câmera tiver gravando."
+    kv "Então você não pode ficar babando por ela quando a câmera estiver gravando."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:153
 translate portuguese sm1mv01s02_2d973cd9:
@@ -272,13 +272,13 @@ translate portuguese sm1mv01s02_23add27f:
 translate portuguese sm1mv01s02_992a4b37:
 
     # kv "Haha. Sure, buddy."
-    kv "Haha. Sei, claro."
+    kv "Haha. Sei, amiguinho."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:164
 translate portuguese sm1mv01s02_867fd99e:
 
     # mc "I'm not sure if the world is ready for Stacy Unchained."
-    mc "Não sei se o mundo tá pronto pra Stacy Sem Correntes."
+    mc "Não sei se o mundo tá pronto pra Stacy Sem Limites."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:167
 translate portuguese sm1mv01s02_9a358d17:
@@ -290,7 +290,7 @@ translate portuguese sm1mv01s02_9a358d17:
 translate portuguese sm1mv01s02_7e964cf4:
 
     # mc "Haha. Yeah. Hey why hasn't Tarintino ever made a pirate movie?"
-    mc "Haha. É. Ei, por que o Tarantino nunca fez um filme de pirata?"
+    mc "Haha. É. Ei, por que o Tarintino nunca fez um filme de pirata?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:173
 translate portuguese sm1mv01s02_23775b78:
@@ -308,7 +308,7 @@ translate portuguese sm1mv01s02_fd1c0152:
 translate portuguese sm1mv01s02_c1477d1c_1:
 
     # kv "What?"
-    kv "Quê?"
+    kv "Que foi?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:184
 translate portuguese sm1mv01s02_51dce919:
@@ -320,13 +320,13 @@ translate portuguese sm1mv01s02_51dce919:
 translate portuguese sm1mv01s02_4da3d68d:
 
     # kv "Come on. We're lagging behind our queen."
-    kv "Vamos lá. A gente tá ficando pra trás da nossa rainha."
+    kv "Vamos lá. Já estamos ficando pra trás da nossa rainha."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:190
 translate portuguese sm1mv01s02_39e5f492:
 
     # mc "Right behind you, partner."
-    mc "Tô bem atrás de você, parceira."
+    mc "Bem atrás de você, parceira."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:194
 translate portuguese sm1mv01s02_fe98237a:
@@ -368,7 +368,7 @@ translate portuguese sm1mv01s02_2be0be4a:
 translate portuguese sm1mv01s02_b180829a:
 
     # mc "Bingo."
-    mc "Bingo."
+    mc "Exato."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:210
 translate portuguese sm1mv01s02_6e1c673b:
@@ -380,19 +380,19 @@ translate portuguese sm1mv01s02_6e1c673b:
 translate portuguese sm1mv01s02_26f447d6:
 
     # sy "Hey. I think I found them."
-    sy "Ei. Acho que eu achei."
+    sy "Ei. Acho que achei."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:216
 translate portuguese sm1mv01s02_27caad76:
 
     # mc "Nice work, Stacy."
-    mc "Bom trabalho, Stacy."
+    mc "Boa, Stacy."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:218
 translate portuguese sm1mv01s02_871a90e0:
 
     # kv "Yeah. I'm sure we'll find some outfits that work for us here."
-    kv "É. Tenho certeza de que a gente vai achar umas roupas que funcionem pra gente aqui."
+    kv "É. Tenho certeza de que a gente vai achar umas roupas boas aqui."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:225
 translate portuguese sm1mv01s02_daf402d8:
@@ -416,7 +416,7 @@ translate portuguese sm1mv01s02_1db469ee:
 translate portuguese sm1mv01s02_6b370281:
 
     # kv "I don't think they looked sexy while they were raping and pillaging."
-    kv "Duvido que fossem sexys enquanto estupravam e saqueavam."
+    kv "Duvido que fossem sexy enquanto estupravam e saqueavam."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:235
 translate portuguese sm1mv01s02_aad24bc7:
@@ -434,13 +434,13 @@ translate portuguese sm1mv01s02_c8450db3:
 translate portuguese sm1mv01s02_18cdf4ea:
 
     # kv "Woah. We came to the right shop."
-    kv "Nossa. A gente veio na loja certa."
+    kv "Nossa. Encontramos a loja certa."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:241
 translate portuguese sm1mv01s02_e68a5a87:
 
     # kv "Some of them are super slutty, but they're decently build."
-    kv "Algumas são bem ousadas, mas são bem feitas."
+    kv "Algumas são bem ousadas, mas bem feitas."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:244
 translate portuguese sm1mv01s02_b7a7a6bb:
@@ -452,55 +452,55 @@ translate portuguese sm1mv01s02_b7a7a6bb:
 translate portuguese sm1mv01s02_ccfdcbb1:
 
     # kv "But fuck me they're expensive."
-    kv "Mas, puta merda, são caras."
+    kv "Mas, puta merda, como são caras."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:251
 translate portuguese sm1mv01s02_b8c19e73:
 
     # sy "Maybe they have a bargain section."
-    sy "Talvez eles tenham uma seção de pechincha."
+    sy "Talvez eles tenham uma seção com desconto."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:252
 translate portuguese sm1mv01s02_934c6ecd:
 
     # sy "Or a 'used' section."
-    sy "Ou uma seção de 'usados'."
+    sy "Ou uma de 'usados'."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:255
 translate portuguese sm1mv01s02_4d206177:
 
     # mc "We're not buying second-hand clothes from a sex shop."
-    mc "A gente não vai comprar roupa de segunda mão de um sex shop."
+    mc "Não vamos comprar roupa de segunda mão de um sex shop."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:258
 translate portuguese sm1mv01s02_a43d5490:
 
     # mc "And we don't need to worry so much about the costs."
-    mc "E a gente não precisa se preocupar tanto com os custos."
+    mc "E não precisa se preocupar tanto com os custos."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:259
 translate portuguese sm1mv01s02_378ab5f1:
 
     # mc "We'll can handle the cost of getting good outfits."
-    mc "A gente dá conta do preço de pegar roupas boas."
+    mc "A gente dá conta dos custos de pegar roupas boas."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:261
 translate portuguese sm1mv01s02_91c301db:
 
     # mc "I haven't been breaking my fingers like a good code-monkey to pinch pennies."
-    mc "Eu não tô quebrando os dedos como um bom macaco de código pra economizar moeda."
+    mc "Eu não tô me quebrando como um bom macaco de código pra economizar centavos."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:263
 translate portuguese sm1mv01s02_c38e581b:
 
     # mc "I haven't been memorizing lines and dealing with super egos for weeks to skimp on costumes."
-    mc "Não tô decorando fala e lidando com ego inflado há semanas pra economizar em fantasia."
+    mc "Não tô decorando fala e lidando com ego inflado faz semanas pra economizar em fantasia."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:265
 translate portuguese sm1mv01s02_ec4c9d50:
 
     # mc "I'm been slinging hot dogs and brats for plenty of nights."
-    mc "E já vendi cachorro-quente por várias noites."
+    mc "Tenho vendido cachorro-quente tem várias noites."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:266
 translate portuguese sm1mv01s02_2bd512c1:
@@ -548,13 +548,13 @@ translate portuguese sm1mv01s02_af4bd44f:
 translate portuguese sm1mv01s02_bcff9820:
 
     # mc "I think it's a great fit."
-    mc "Acho que caiu muito bem."
+    mc "Acho que ficou muito bom."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:290
 translate portuguese sm1mv01s02_afd74152:
 
     # mc "What do you think?"
-    mc "O que você acha?"
+    mc "O que acha?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:293
 translate portuguese sm1mv01s02_49d89bd1:
@@ -572,13 +572,13 @@ translate portuguese sm1mv01s02_74def966:
 translate portuguese sm1mv01s02_02fc6250:
 
     # kv "Oh yeah!{w} It might work."
-    kv "Ah, é!{w} Pode funcionar."
+    kv "Ah, sim!{w} Pode funcionar."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:300
 translate portuguese sm1mv01s02_ef4f6571:
 
     # kv "We really should have her here."
-    kv "Era pra ela estar aqui mesmo."
+    kv "Era pra ela estar aqui."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:303
 translate portuguese sm1mv01s02_9252bebe:
@@ -590,7 +590,7 @@ translate portuguese sm1mv01s02_9252bebe:
 translate portuguese sm1mv01s02_95ddc92b:
 
     # sy "She gave us her measurements when she signed up to be in the movie."
-    sy "Ela deu as medidas dela quando entrou pro filme."
+    sy "Ela deu as medidas dela quando aceitou entrar pro filme."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:309
 translate portuguese sm1mv01s02_e658442d:
@@ -602,7 +602,7 @@ translate portuguese sm1mv01s02_e658442d:
 translate portuguese sm1mv01s02_2cbccefe:
 
     # sy "Exactly. And I have enough basic skills with needle and thread. I'm sure I can help with any adjustments."
-    sy "Exato. E eu tenho habilidade básica com agulha e linha. Tô certa de que posso ajudar em qualquer ajuste."
+    sy "Exato. E eu conheço o básico de agulha e linha. Tenho certeza que posso ajudar com ajustes."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:314
 translate portuguese sm1mv01s02_9930ed4b:
@@ -614,13 +614,13 @@ translate portuguese sm1mv01s02_9930ed4b:
 translate portuguese sm1mv01s02_4779a8cb:
 
     # mc "So? Is this our Hero outfit or what?"
-    mc "Então? Essa é a roupa do Herói ou não?"
+    mc "Então? Essa é a roupa da Heroína ou não?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:319
 translate portuguese sm1mv01s02_b8c021ce:
 
     # kv "I think so. We should see what we can find for Pirate Queen before making a final decision."
-    kv "Acho que sim. A gente devia ver o que dá pra achar pra Rainha Pirata antes de decidir de vez."
+    kv "Acho que sim. Vamos ver o que dá pra achar pra Rainha Pirata antes de decidir de vez."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:321
 translate portuguese sm1mv01s02_4661a639:
@@ -632,13 +632,13 @@ translate portuguese sm1mv01s02_4661a639:
 translate portuguese sm1mv01s02_cc2958f8:
 
     # sy "Forward my salty dogs."
-    sy "Avante, seus cães salgados."
+    sy "Avante, seus cães do mar."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:326
 translate portuguese sm1mv01s02_3a5e46aa:
 
     # sy "We found the hero clothes, but we haven't found all the treasure."
-    sy "Achamos a roupa do herói, mas ainda não achamos todo o tesouro."
+    sy "Achamos a roupa de heroína, mas ainda não achamos todo o tesouro."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:330
 translate portuguese sm1mv01s02_371407e9:
@@ -650,7 +650,7 @@ translate portuguese sm1mv01s02_371407e9:
 translate portuguese sm1mv01s02_later_d498e71f:
 
     # sy "Ooooh. This is going to be great."
-    sy "Ooooh. Isso vai ficar ótimo."
+    sy "Aaaah. Isso vai ficar ótimo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:353
 translate portuguese sm1mv01s02_later_f72bf8f5:
@@ -668,7 +668,7 @@ translate portuguese sm1mv01s02_later_e508dac5:
 translate portuguese sm1mv01s02_later_a233524f:
 
     # mct "Alright I found something."
-    mct "Beleza, achei alguma coisa."
+    mct "Beleza, achei uma coisa."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:362
 translate portuguese sm1mv01s02_later_08e5ae1c:
@@ -686,7 +686,7 @@ translate portuguese sm1mv01s02_later_0f5095cc:
 translate portuguese sm1mv01s02_later_3c65f722:
 
     # "CRASH"
-    "CRASH"
+    "BAM"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:376
 translate portuguese sm1mv01s02_later_2d61b5a8:
@@ -722,7 +722,7 @@ translate portuguese sm1mv01s02_later_2c2979ba:
 translate portuguese sm1mv01s02_later_711d858e:
 
     # sy "It must be super-glued on."
-    sy "Deve tá colado com supercola."
+    sy "Deve estar colado com supercola."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:392
 translate portuguese sm1mv01s02_later_0de058fb:
@@ -758,7 +758,7 @@ translate portuguese sm1mv01s02_later_5737bf74:
 translate portuguese sm1mv01s02_later_192794f1:
 
     # mc "Who's the 'him' in that sentence?"
-    mc "Quem é o 'ele' nessa frase?"
+    mc "Quem é 'ele' nessa frase?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:408
 translate portuguese sm1mv01s02_later_9ffe204a:
@@ -782,7 +782,7 @@ translate portuguese sm1mv01s02_later_b468f957:
 translate portuguese sm1mv01s02_later_461dc047:
 
     # kv "I thought we were making a serious film?"
-    kv "Achei que a gente estava fazendo um filme sério?"
+    kv "Achei que era pra fazer um filme sério?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:422
 translate portuguese sm1mv01s02_later_6a4279c2:
@@ -818,7 +818,7 @@ translate portuguese sm1mv01s02_later_cc150cbe:
 translate portuguese sm1mv01s02_later_edbc2b3f:
 
     # kv "It's a statue with some movable arms."
-    kv "É uma estátua com alguns braços móveis."
+    kv "É uma estátua com uns braços móveis."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:436
 translate portuguese sm1mv01s02_later_8b64c561:
@@ -830,7 +830,7 @@ translate portuguese sm1mv01s02_later_8b64c561:
 translate portuguese sm1mv01s02_later_f13d5e52:
 
     # kv "You're going to have to move it like a puppet every time it's on screen."
-    kv "Você vai ter que mexer nele como um fantoche sempre que aparecer na tela."
+    kv "Vai ter que mexer nele como um fantoche sempre que aparecer na tela."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:438
 translate portuguese sm1mv01s02_later_d5ac2ea9:
@@ -944,7 +944,7 @@ translate portuguese sm1mv01s02_later_cd6473ea:
 translate portuguese sm1mv01s02_later_6bb55cd8:
 
     # kv "Okay. I don't get the good of bringing in our skeletal friend, but I am willing to see how it goes."
-    kv "Certo. Não entendo qual é a vantagem de trazer nosso amigo esquelético, mas tô disposta a ver no que dá."
+    kv "Certo. Não entendo qual é a vantagem de trazer nosso amigo esquelético, mas quero ver no que dá."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:483
 translate portuguese sm1mv01s02_later_38caa5dc:
@@ -968,7 +968,7 @@ translate portuguese sm1mv01s02_later_331e8617:
 translate portuguese sm1mv01s02_later_7bcb8b91:
 
     # mc "I think it's very hot."
-    mc "Eu acho que tá bem quente."
+    mc "Eu acho que tá bem gostosa."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:498
 translate portuguese sm1mv01s02_later_4fe4d74b:
@@ -992,7 +992,7 @@ translate portuguese sm1mv01s02_later_8218548c:
 translate portuguese sm1mv01s02_later_e1b71c15:
 
     # sy "Awesome."
-    sy "Massa."
+    sy "Legal."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:514
 translate portuguese sm1mv01s02_later_6aba708b:
@@ -1016,7 +1016,7 @@ translate portuguese sm1mv01s02_later_64e9d282:
 translate portuguese sm1mv01s02_later_f60e7509:
 
     # mc "How do I look?"
-    mc "Como eu tô?"
+    mc "Como eu fiquei?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:534
 translate portuguese sm1mv01s02_later_59e7b700:
@@ -1052,7 +1052,7 @@ translate portuguese sm1mv01s02_later_87de1bac:
 translate portuguese sm1mv01s02_later_119b2dec:
 
     # sy "Do you mean you mean sexy but breathable?"
-    sy "Você quer dizer sexy mas respirável?"
+    sy "Quer dizer sexy mas respirável?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:550
 translate portuguese sm1mv01s02_later_5475a4de:
@@ -1070,7 +1070,7 @@ translate portuguese sm1mv01s02_later_9fd7949f:
 translate portuguese sm1mv01s02_later_05c53aef:
 
     # sy "Everyone get back into your normal clothes and we'll buy everything we need."
-    sy "Todo mundo volta pras roupas normais e a gente compra tudo que precisa."
+    sy "Todo mundo veste as suas roupas e vamos comprar tudo que precisa."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:558
 translate portuguese sm1mv01s02_later_9cdb2270:
@@ -1106,7 +1106,7 @@ translate portuguese sm1mv01s02_later_82a705c4:
 translate portuguese sm1mv01s02_later_7b4d5a36:
 
     # sy "YES."
-    sy "SIM."
+    sy "ISSO."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:578
 translate portuguese sm1mv01s02_later_3f0c4f35:
@@ -1124,13 +1124,13 @@ translate portuguese sm1mv01s02_later_b069b9fb:
 translate portuguese sm1mv01s02_later_60d467bc:
 
     # kv "And you know{w}... rules against this sort of thing."
-    kv "E vocês sabem{w}... regras contra esse tipo de coisa."
+    kv "E sabem{w}... regras contra esse tipo de coisa."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:584
 translate portuguese sm1mv01s02_later_706d9a7c:
 
     # mc "We'll be quick. Think of it as... field testing."
-    mc "A gente vai ser rápido. Pensa nisso como... teste de campo."
+    mc "Vai ser rápido. Pensa nisso como... teste de campo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:587
 translate portuguese sm1mv01s02_later_5ed1b1fa:
@@ -1142,13 +1142,13 @@ translate portuguese sm1mv01s02_later_5ed1b1fa:
 translate portuguese sm1mv01s02_later_abdb19ef:
 
     # kv "It's okay, officer. It wasn't public indecency.{w} It was field testing."
-    kv "Tudo bem, policial. Não foi indecência pública.{w} Foi teste de campo."
+    kv "Relaxa, policial. Não foi indecência pública.{w} Foi teste de campo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:591
 translate portuguese sm1mv01s02_later_1c8ea3ba:
 
     # sy "That's a good point, Kanya."
-    sy "Bem pensado, Kanya."
+    sy "É mesmo, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:592
 translate portuguese sm1mv01s02_later_a87b0df4:
@@ -1160,7 +1160,7 @@ translate portuguese sm1mv01s02_later_a87b0df4:
 translate portuguese sm1mv01s02_later_8b53b95d:
 
     # sy "Do you feel horny, punk?"
-    sy "Você tá com tesão, valentona?"
+    sy "Tá com tesão, verme?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:595
 translate portuguese sm1mv01s02_later_7f06eb4b:
@@ -1190,7 +1190,7 @@ translate portuguese sm1mv01s02_later_faa03e1a:
 translate portuguese sm1mv01s02_later_e99bf7e5:
 
     # sy "Heheh."
-    sy "Heheh."
+    sy "Hehe."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:613
 translate portuguese sm1mv01s02_later_59cd2960:
@@ -1214,7 +1214,7 @@ translate portuguese sm1mv01s02_later_5d805495:
 translate portuguese sm1mv01s02_later_2b22ff9d:
 
     # sy "Very important. Wouldn't you agree, Kanya?"
-    sy "Bem importante. Você não acha, Kanya?"
+    sy "Bem importante. Não acha, Kanya?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:622
 translate portuguese sm1mv01s02_later_6dec30ed:
@@ -1244,7 +1244,7 @@ translate portuguese sm1mv01s02_later_b81148b4:
 translate portuguese sm1mv01s02_later_1244a61e:
 
     # sy "It will be hard, but I love a challenge."
-    sy "Vai ser difícil, mas eu adoro um desafio."
+    sy "Vai ser difícil, mas adoro um desafio."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:638
 translate portuguese sm1mv01s02_later_0e09b362:
@@ -1262,7 +1262,7 @@ translate portuguese sm1mv01s02_later_2474ec75:
 translate portuguese sm1mv01s02_later_7a478400:
 
     # mc "Ahuah... good girl, Stacy."
-    mc "Ahuah... boa garota, Stacy."
+    mc "Ahuah... boa menina, Stacy."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:643
 translate portuguese sm1mv01s02_later_13597c08:
@@ -1406,7 +1406,7 @@ translate portuguese sm1mv01s02_later_5c1984cd:
 translate portuguese sm1mv01s02_later_cd7efae9:
 
     # kv "Your fingers seem extra kinky today, Captain."
-    kv "Seus dedos tão especialmente safados hoje, Capitão."
+    kv "Seus dedos tão mais safadinhos hoje, Capitão."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:725
 translate portuguese sm1mv01s02_later_e269fc32:
@@ -1466,7 +1466,7 @@ translate portuguese sm1mv01s02_later_063a8ccb:
 translate portuguese sm1mv01s02_later_c800bdff:
 
     # sy "*moaning* Oh, that's so good."
-    sy "*gemendo* Ai, isso é tão bom."
+    sy "*gemendo* Ai, que delícia."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:753
 translate portuguese sm1mv01s02_later_547407b9:
@@ -1508,7 +1508,7 @@ translate portuguese sm1mv01s02_later_c0564d68:
 translate portuguese sm1mv01s02_later_aba8bc8d:
 
     # mc "So fucking hot."
-    mc "Quente pra caralho."
+    mc "Gostoso pra caralho."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:768
 translate portuguese sm1mv01s02_later_7bf1f8b2:
@@ -1520,7 +1520,7 @@ translate portuguese sm1mv01s02_later_7bf1f8b2:
 translate portuguese sm1mv01s02_later_bb9b7392:
 
     # mc "We weren't planning one already?"
-    mc "A gente não estava planejando um?"
+    mc "E não estava planejando um?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:772
 translate portuguese sm1mv01s02_later_e3a58f39:
@@ -1550,13 +1550,13 @@ translate portuguese sm1mv01s02_later_5329efe3:
 translate portuguese sm1mv01s02_later_2ede6974:
 
     # sy "Oh bro, I'm getting close!"
-    sy "Ai mano, tô chegando!"
+    sy "Ai mano, tô gozando!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:784
 translate portuguese sm1mv01s02_later_aa9328ab:
 
     # sy "Oh [mcname], I'm getting close!"
-    sy "Ai [mcname], tô chegando!"
+    sy "Ai [mcname], tô gozando!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:785
 translate portuguese sm1mv01s02_later_d55d85a8:
@@ -1592,19 +1592,19 @@ translate portuguese sm1mv01s02_later_a6f37aa3:
 translate portuguese sm1mv01s02_later_f4f2111e:
 
     # kv "We should get dressed in our normal clothes."
-    kv "A gente devia vestir nossas roupas normais."
+    kv "É melhor a gente se trocar de volta."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:806
 translate portuguese sm1mv01s02_later_09003c12:
 
     # kv "Hopefully the clerk had a long list of loud customers."
-    kv "Tomara que o atendente tenha tido uma lista longa de clientes barulhentos."
+    kv "Tomara que a atendente tenha tido um bocado de clientes barulhentos."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:824
 translate portuguese sm1mv01s02_later_da1dfe01:
 
     # "Worker" "Excuse me."
-    "Worker" "Com licença."
+    "Atendente" "Com licença."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:828
 translate portuguese sm1mv01s02_later_4b4789b7:
@@ -1616,19 +1616,19 @@ translate portuguese sm1mv01s02_later_4b4789b7:
 translate portuguese sm1mv01s02_later_ab76bff1:
 
     # "Worker" "I hope you enjoyed that. And the outfits. Because you are definitely purchasing every garment that you went in with."
-    "Worker" "Espero que tenham aproveitado. E as roupas. Porque vocês vão comprar absolutamente todas as peças com que entraram."
+    "Atendente" "Espero que tenham aproveitado. E as roupas. Porque vocês vão comprar absolutamente todas as peças com que entraram."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:834
 translate portuguese sm1mv01s02_later_01cd3e26:
 
     # "Worker" "And you'll also be buying anything else affected by your lapse of judgement."
-    "Worker" "E também vão comprar qualquer outra coisa afetada pela falta de juízo de vocês."
+    "Atendente" "E também vão comprar qualquer outra coisa afetada pela falta de juízo de vocês."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:835
 translate portuguese sm1mv01s02_later_c8546ee6:
 
     # "Worker" "I expect a little better of you, Kanya."
-    "Worker" "Eu esperava um pouco mais de você, Kanya."
+    "Atendente" "Eu esperava um pouco mais de você, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:838
 translate portuguese sm1mv01s02_later_6581fe71:
@@ -1646,7 +1646,7 @@ translate portuguese sm1mv01s02_later_b44d3c4b:
 translate portuguese sm1mv01s02_later_ef924068:
 
     # "Worker" "Well I suggest you save it for the privacy of your own home."
-    "Worker" "Então sugiro que guardem isso pra privacidade da casa de vocês."
+    "Atendente" "Então sugiro que guardem isso pra privacidade da casa de vocês."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:845
 translate portuguese sm1mv01s02_later_9ece5b20:
@@ -1664,31 +1664,31 @@ translate portuguese sm1mv01s02_later_bca09261:
 translate portuguese sm1mv01s02_later_bc0c4158:
 
     # "Worker" "I'll be waiting at the counter."
-    "Worker" "Vou esperar no balcão."
+    "Atendente" "Vou esperar no balcão."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:851
 translate portuguese sm1mv01s02_later_a5f29463:
 
     # "Worker" "And make sure you bring up everything."
-    "Worker" "E tratem de levar tudo até lá."
+    "Atendente" "E tratem de levar tudo até lá."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:855
 translate portuguese sm1mv01s02_later_3471c0ab:
 
     # "Worker" "Kanya was right."
-    "Worker" "A Kanya tinha razão."
+    "Atendente" "A Kanya tinha razão."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:856
 translate portuguese sm1mv01s02_later_fab98077:
 
     # "Worker" "We do have cameras."
-    "Worker" "Nós temos câmeras, sim."
+    "Atendente" "Nós temos câmeras."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:857
 translate portuguese sm1mv01s02_later_764403cd:
 
     # "Worker" "This is a place of business. Not a live-action Fansly shoot."
-    "Worker" "Aqui é um estabelecimento comercial. Não um set ao vivo do Fansly."
+    "Atendente" "Aqui é um estabelecimento comercial. Não um set do Fansly."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:863
 translate portuguese sm1mv01s02_later_9f7e8476:
@@ -1712,13 +1712,13 @@ translate portuguese sm1mv01s02_later_e3395250:
 translate portuguese sm1mv01s02_later_0a29db9f:
 
     # "Worker" "Good thinking, Kanya."
-    "Worker" "Boa ideia, Kanya."
+    "Atendente" "Boa ideia, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:877
 translate portuguese sm1mv01s02_later_b2cbc7b2:
 
     # "Worker" "And here is the total."
-    "Worker" "E aqui está o total."
+    "Atendente" "E aqui está o total."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:880
 translate portuguese sm1mv01s02_later_7765b292:
@@ -1736,7 +1736,7 @@ translate portuguese sm1mv01s02_later_164ecf31:
 translate portuguese sm1mv01s02_later_5c7b1ea3:
 
     # "Worker" "Nrnnn."
-    "Worker" "Nrnnn."
+    "Atendente" "Nrnnn."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:887
 translate portuguese sm1mv01s02_later_fa158adf:
@@ -1754,13 +1754,13 @@ translate portuguese sm1mv01s02_later_c23b85e7:
 translate portuguese sm1mv01s02_later_c00afa54:
 
     # "Worker" "Thank you for shopping with us."
-    "Worker" "Obrigada por comprarem com a gente."
+    "Atendente" "Obrigada por comprarem com a gente."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:898
 translate portuguese sm1mv01s02_later_81bb874d:
 
     # "Worker" "Next time, please just try on the clothes at home."
-    "Worker" "Da próxima vez, por favor, experimentem as roupas em casa."
+    "Atendente" "Da próxima vez, por favor, experimentem as roupas em casa."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:900
 translate portuguese sm1mv01s02_later_a3480574:
@@ -1784,13 +1784,13 @@ translate portuguese sm1mv01s02_later_ad47d636:
 translate portuguese sm1mv01s02_later_2fa0bb4e:
 
     # sy "Honestly, worth it. We will look amazing.{w} I just know it!"
-    sy "Sinceramente, valeu. A gente vai ficar incrível.{w} Eu sei que vai!"
+    sy "Sinceramente, valeu. A gente vai ficar foda.{w} Eu sei que vai!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:912
 translate portuguese sm1mv01s02_later_12e7afd4:
 
     # mc "Yeah but for now, we're just significantly poorer than when we started the day."
-    mc "É, mas por enquanto, a gente só tá bem mais pobre do que quando começou o dia."
+    mc "É, mas por enquanto, acabamos bem mais pobre do que quando começou o dia."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:915
 translate portuguese sm1mv01s02_later_6d2d8309_1:
@@ -1808,13 +1808,13 @@ translate portuguese sm1mv01s02_later_e54de122:
 translate portuguese sm1mv01s02_later_236998fc:
 
     # mc "I had control. I just chose chaos."
-    mc "Eu tinha controle. Só escolhi o caos."
+    mc "Eu tinha controle. Só que escolhi o caos."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:923
 translate portuguese sm1mv01s02_later_8118bd4f:
 
     # kv "Get all your silly out now, [mcname].{w} We're going to have to be professional pretty soon."
-    kv "Gasta toda essa bobeira agora, [mcname].{w} Daqui a pouco a gente vai ter que ser profissional."
+    kv "Gasta toda essa bobeira agora, [mcname].{w} Daqui a pouco vamos ter que ser profissionais."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:926
 translate portuguese sm1mv01s02_later_124d509a:
@@ -1826,7 +1826,7 @@ translate portuguese sm1mv01s02_later_124d509a:
 translate portuguese sm1mv01s02_later_3c916420:
 
     # sy "If we make this film and it bombs, we're going to have to seriously consider reevaluating our life choices."
-    sy "Se a gente fizer esse filme e ele for um fracasso, vamos ter que, sério, repensar nossas escolhas de vida."
+    sy "Se a gente fizer esse filme e ele for um fracasso, vamos ter que, pensar seriamente nas nossas escolhas."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:931
 translate portuguese sm1mv01s02_later_500113a6:
@@ -1838,13 +1838,13 @@ translate portuguese sm1mv01s02_later_500113a6:
 translate portuguese sm1mv01s02_later_87c7a278:
 
     # kv "I know that we have done this before, but you two both know just how hard the next few stages will be."
-    kv "Eu sei que a gente já fez isso antes, mas vocês dois sabem bem o quanto as próximas etapas vão ser difíceis."
+    kv "Eu sei que já fizemos isso antes, mas vocês dois sabem bem o quanto as próximas etapas vão ser difíceis."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:937
 translate portuguese sm1mv01s02_later_dff79cab:
 
     # mc "You're right."
-    mc "Você tá certa."
+    mc "Tem razão."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:939
 translate portuguese sm1mv01s02_later_02eaa174:
@@ -1862,7 +1862,7 @@ translate portuguese sm1mv01s02_later_6a028b65:
 translate portuguese sm1mv01s02_later_a05cd929:
 
     # sy "Damn it. We forgot to find swords."
-    sy "Droga. A gente esqueceu de procurar espadas."
+    sy "Droga. Esquecemos das espadas."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:947
 translate portuguese sm1mv01s02_later_b3242797:
@@ -1880,7 +1880,7 @@ translate portuguese sm1mv01s02_later_4a4f5a78:
 translate portuguese sm1mv01s02_later_3a154c9f:
 
     # mc "I had a feeling we wouldn't find them here."
-    mc "Eu tinha a sensação de que a gente não ia encontrar isso aqui."
+    mc "Eu tinha a sensação que a gente não ia encontrar isso aqui."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:954
 translate portuguese sm1mv01s02_later_a71f6a5e:
@@ -1928,7 +1928,7 @@ translate portuguese sm1mv01s02_dress_tl_f6a5cd1a:
 translate portuguese sm1mv01s02_dress_tl_ab9f3ff3:
 
     # mc "Don't want to waste time we don't have."
-    mc "Não quero desperdiçar o tempo que a gente não tem."
+    mc "Não quero desperdiçar o tempo que não temos."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:993
 translate portuguese sm1mv01s02_walkout_08e04b18:
@@ -1958,7 +1958,7 @@ translate portuguese sm1mv01s02_walkout_9dfe18ce:
 translate portuguese sm1mv01s02_walkout_1de1d204:
 
     # kv "Got a client to make a spread for."
-    kv "Tenho uma cliente pra quem preciso montar um ensaio."
+    kv "Tenho uma cliente montar um ensaio."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:1005
 translate portuguese sm1mv01s02_walkout_40346122:
@@ -1976,7 +1976,7 @@ translate portuguese sm1mv01s02_walkout_3606bb3f:
 translate portuguese sm1mv01s02_walkout_ef7a7e35:
 
     # sy "We'll get in touch soon about the next steps."
-    sy "A gente fala com você em breve sobre os próximos passos."
+    sy "A gente se fala em breve sobre os próximos passos."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:1011
 translate portuguese sm1mv01s02_walkout_e7421fbe:
