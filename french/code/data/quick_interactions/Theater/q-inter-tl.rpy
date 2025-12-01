@@ -134,7 +134,7 @@ translate french q_inter_tl_7_5322da1f:
 translate french q_inter_tl_7_2161d2d2:
 
     # tl "No, they were fine... We might just want like 20 percent less of them."
-    tl "Non, ça allait… mais on pourrait en mettre genre 20 % de moins."
+    tl "Non, ça allait… mais on pourrait en mettre genre 20 %% de moins."
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:101
 translate french q_inter_tl_7_5f276d00:
