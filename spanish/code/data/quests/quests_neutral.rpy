@@ -273,10 +273,6 @@ translate spanish strings:
     new "Consigue 6 Puntos de Relación con Maya y habla con ella en Wurst Delivery"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Get {}/9 Relationship Points with Maya"
-    new "Consigue {}/9 Puntos de Relación con Maya"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about going to Lyssa during the day"
     new "Habla con Stacy sobre ir a ver a Lyssa durante el día"
 
@@ -367,10 +363,6 @@ translate spanish strings:
     # game/code/data/quests/quests_neutral.rpy:4
     old "Go to the General Store"
     new "Ve a la Tienda General"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Learn Photography until you reach 5 in this topic (currently {})"
-    new "Aprende Fotografía hasta que alcances 5 en este tema (actualmente {})"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Learn Photography until you reach 5 in this topic"

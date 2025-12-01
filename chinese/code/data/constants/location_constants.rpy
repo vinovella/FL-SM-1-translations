@@ -172,10 +172,6 @@
     old "Shooting Area"
     new "拍摄区"
 
-    # game/code/data/constants/location_constants.rpy:134
-    old "Corridor Entrance"
-    new "走廊入口"
-
     # game/code/data/constants/location_constants.rpy:139
     old "Backstage"
     new "后台"

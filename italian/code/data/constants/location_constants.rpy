@@ -174,10 +174,6 @@ translate italian strings:
     old "Shooting Area"
     new "Area Shooting"
 
-    # game/code/data/constants/location_constants.rpy:134
-    old "Corridor Entrance"
-    new "Ingresso Corridoio"
-
     # game/code/data/constants/location_constants.rpy:139
     old "Backstage"
     new "Dietro le Quinte"
@@ -205,14 +201,6 @@ translate italian strings:
     # game/code/data/constants/location_constants.rpy:153
     old "Director's Office"
     new "Ufficio del Direttore"
-
-    # game/code/data/constants/location_constants.rpy:155
-    old "Storage Entrance"
-    new "Ingresso Magazzino"
-
-    # game/code/data/constants/location_constants.rpy:161
-    old "Showers Entrance"
-    new "Ingresso Docce"
 
     # game/code/data/constants/location_constants.rpy:165
     old "Locker Room"

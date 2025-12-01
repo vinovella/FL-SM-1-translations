@@ -5,10 +5,6 @@ translate portuguese strings:
     new "Olá, Sr. Young."
 
     # game/code/data/chat/chat_cw.rpy:3
-    old "Hi, Ms. Claire."
-    new "Oi, Sra. Claire."
-
-    # game/code/data/chat/chat_cw.rpy:3
     old "Something has come up. Please meet me Friday evening at the office."
     new "Aconteceu uma coisa. Por favor me encontre no escritório no fim da tarde de sexta."
 

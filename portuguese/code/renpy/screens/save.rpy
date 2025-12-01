@@ -1,20 +1,8 @@
 translate portuguese strings:
 
-    # game/code/renpy/screens/save.rpy:12
-    old "Save for S&M Studio Chapter 2"
-    new "Save para o S&M Studio Capítulo 2"
-
     # game/code/renpy/screens/save.rpy:81
     old "No saves found!"
     new "Nenhum save encontrado!"
-
-    # game/code/renpy/screens/save.rpy:51
-    old "Saves For Chapter [chapter]"
-    new "Saves Para Capítulo [chapter]"
-
-    # game/code/renpy/screens/save.rpy:51
-    old "Saves From Chapter [chapter]"
-    new "Saves Do Capítulo [chapter]"
 
     # game/code/renpy/screens/save.rpy:20
     old "Congratulations! You completed all storylines!"

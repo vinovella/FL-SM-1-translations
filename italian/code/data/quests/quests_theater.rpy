@@ -25,10 +25,6 @@
     new "Progredisci la storyline di Denise"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Nelson about sponsoring the new show"
-    new "Parla con Nelson dello sponsorizzare il nuovo spettacolo"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Kellie at her dressing room"
     new "Parla con Kellie nel suo camerino"
 
@@ -71,10 +67,6 @@
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Denise in her office"
     new "Parla con Denise nel suo ufficio"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have ${}/$100 and invite Taisia to make a film"
-    new "Avere ${}/$100 e invita Taisia a girare un film"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have $100 and invite Taisia to make a film"
@@ -129,10 +121,6 @@
     new "Parla con Veronica sul palco"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Do the rehearsal on {}"
-    new "Fai le prove il {}"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Wait for Veronica to text you"
     new "Aspetta che Veronica ti mandi un messaggio"
 
@@ -157,18 +145,6 @@ translate italian strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica's and Kellie's storylines"
     new "Progredisci le storyline di Veronica e Kellie"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do the Saturday show at least {}/3 times"
-    new "Fai lo spettacolo del sabato almeno {}/3 volte"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have {}/10 total Relationship Points with the Theater girls"
-    new "Avere {}/10 Punti Relazione totali con le ragazze del teatro"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do the Saturday show at least {}/3 times and have {}/10 total Relationship Points with the Theater girls"
-    new "Fai lo spettacolo del sabato almeno {}/3 volte e avere {}/10 Punti Relazione totali con le ragazze del teatro"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the Saturday show at least 3 times and have 10 total Relationship Points with the Theater girls"
@@ -209,10 +185,6 @@ translate italian strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Taisia about \"work\" during the daytime"
     new "Parla con Taisia del \"lavoro\" durante il giorno"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have ${}/$50"
-    new "Avere ${}/$50"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have $50"

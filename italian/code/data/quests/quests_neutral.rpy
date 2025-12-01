@@ -169,10 +169,6 @@
     new "Ottieni 6 Punti Relazione con Maya e parla con lei al Wurst Delivery"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Get {}/9 Relationship Points with Maya"
-    new "Ottieni {}/9 Punti Relazione con Maya"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Visit Wurst Delivery in the evening"
     new "Visita il Wurst Delivery la sera"
 
@@ -367,10 +363,6 @@
     # game/code/data/quests/quests_neutral.rpy:4
     old "Go to the General Store"
     new "Vai al negozio"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Learn Photography until you reach 5 in this topic (currently {})"
-    new "Studia Fotografia finché non raggiungi il livello 5 in questo argomento (attualmente {})"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Learn Photography until you reach 5 in this topic"

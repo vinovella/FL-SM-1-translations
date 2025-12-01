@@ -16,10 +16,6 @@
     old "Fetishes"
     new "Fétiches"
 
-    # game/code/renpy/screens/character.rpy:59
-    old "Progress "
-    new "Progression "
-
     # game/code/renpy/screens/character.rpy:60
     old "Progress [storyline_progress_percent]%"
     new "Progression [storyline_progress_percent]%"

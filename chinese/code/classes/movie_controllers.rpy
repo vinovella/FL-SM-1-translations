@@ -4,10 +4,6 @@
     old "Movie royalty"
     new "电影版税"
 
-    # game/code/classes/movie_controllers.rpy:99
-    old "Pirate Movie"
-    new "海盗电影"
-
     # game/code/classes/movie_controllers.rpy:109
     old "You have filled the budget already"
     new "您已经填满了预算"

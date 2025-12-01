@@ -12,12 +12,6 @@
     old "You just discovered new location on the map"
     new "Haritada yeni bir konum keşfettiniz"
 
-    # game/code/classes/player.rpy:395
-    old "You just improved in topic"
-    new "Konuyu daha yeni geliştirdin"
-
-translate turkish strings:
-
     # game/code/classes/player.rpy:104
     old "You just got $[amount]"
     new "$[amount] kazandınız"
@@ -25,8 +19,6 @@ translate turkish strings:
     # game/code/classes/player.rpy:115
     old "You spent $[amount]"
     new "$[amount] harcadınız"
-
-translate turkish strings:
 
     # game/code/classes/player.rpy:403
     old "You have improved in topic [topic!t]"

@@ -12,10 +12,6 @@
     old "Days worked this week:"
     new "Jours travaillés cette semaine :"
 
-    # game/code/renpy/screens/faction_it.rpy:41
-    old "Days"
-    new "Jours"
-
     # game/code/renpy/screens/faction_it.rpy:46
     old "Pay per day:"
     new "Paiement par jour :"

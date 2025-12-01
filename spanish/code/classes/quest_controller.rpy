@@ -1,20 +1,8 @@
 translate spanish strings:
 
-    # game/code/classes/quest_controller.rpy:157
-    old "You need to progress {storyline_name} "
-    new "Necesitas avanzar {storyline_name} "
-
     # game/code/classes/quest_controller.rpy:218
     old "You are currently in a scene"
     new "Actualmente estás en una escena"
-
-    # game/code/classes/quest_controller.rpy:157
-    old " and "
-    new " y "
-
-    # game/code/classes/quest_controller.rpy:158
-    old "You need to progress [storyline_names!t]"
-    new "Necesitas avanzar [storyline_names!t]"
 
     # game/code/classes/quest_controller.rpy:156
     old "You need to progress [storyline_name!t]"

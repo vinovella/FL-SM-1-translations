@@ -12,10 +12,6 @@
     old "6 PM"
     new "18 h"
 
-    # game/code/renpy/screens/faction_th.rpy:60
-    old "Pay after show on "
-    new "Paye après le spectacle le "
-
     # game/code/renpy/screens/faction_th.rpy:67
     old "Extra pay for successful show:"
     new "Paye supplémentaire pour un spectacle réussi :"

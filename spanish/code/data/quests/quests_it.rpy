@@ -53,10 +53,6 @@ translate spanish strings:
     new "Habla con Anna durante el día"
 
     # game/code/data/quests/quests_it.rpy:3
-    old "Work at Orbix {}/20 times"
-    new "Trabajar en Orbix {}/20 veces"
-
-    # game/code/data/quests/quests_it.rpy:3
     old "Talk with Anna"
     new "Habla con Anna"
 
@@ -161,40 +157,16 @@ translate spanish strings:
     new "Go to sleep before the first working day"
 
     # game/code/data/quests/quests_it.rpy:3
-    old "Progress {}/3 of Nari's scenes"
-    new "Progress {}/3 of Nari's scenes"
-
-    # game/code/data/quests/quests_it.rpy:3
     old "Progress 0/1 of Anna's scenes"
     new "Progress 0/1 of Anna's scenes"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Progress {}/3 of Nari's scenes and 0/1 of Anna's scenes"
-    new "Progress {}/3 of Nari's scenes and 0/1 of Anna's scenes"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Progress 3/3 of Nari's scenes and 1/1 of Anna's scenes"
     new "Progress 3/3 of Nari's scenes and 1/1 of Anna's scenes"
 
     # game/code/data/quests/quests_it.rpy:3
-    old "Work the IT job 40/40 times and finish the renovations"
-    new "Work the IT job 40/40 times and finish the renovations"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Work the IT job {}/40 times and finish the renovations"
-    new "Work the IT job {}/40 times and finish the renovations"
-
-    # game/code/data/quests/quests_it.rpy:3
     old "Finish the renovations"
     new "Finish the renovations"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Work the IT job {}/40 times"
-    new "Work the IT job {}/40 times"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Get at least {}/15 total Relationship Points with characters at Orbix"
-    new "Get at least {}/15 total Relationship Points with characters at Orbix"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get at least 15 total Relationship Points with characters at Orbix"
@@ -249,14 +221,6 @@ translate spanish strings:
     # game/code/data/quests/quests_it.rpy:3
     old "Progress [var]/3 of Nari's scenes and 0/1 of Anna's scenes"
     new "Progress [var]/3 of Nari's scenes and 0/1 of Anna's scenes"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Work the IT job [var]/40 times and finish the renovations"
-    new "Work the IT job [var]/40 times and finish the renovations"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Work the IT job [var]/40 times"
-    new "Work the IT job [var]/40 times"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get at least [var]/15 total Relationship Points with characters at Orbix"

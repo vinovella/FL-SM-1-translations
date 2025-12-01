@@ -69,10 +69,6 @@
     new "Gün içinde Anna ile konuş"
 
     # game/code/data/quests/quests_it.rpy:3
-    old "Work at Orbix {}/20 times"
-    new "Orbix'te {}/20 kez çalış"
-
-    # game/code/data/quests/quests_it.rpy:3
     old "Talk with Anna"
     new "Anna ile konuş"
 
@@ -159,40 +155,16 @@ translate turkish strings:
     new "İlk iş gününden önce uyu"
 
     # game/code/data/quests/quests_it.rpy:3
-    old "Progress {}/3 of Nari's scenes"
-    new "Nari'nin sahnelerinin {}/3'ünü ilerlet"
-
-    # game/code/data/quests/quests_it.rpy:3
     old "Progress 0/1 of Anna's scenes"
     new "Anna'nın sahnelerinin 0/1'ini ilerlet"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Progress {}/3 of Nari's scenes and 0/1 of Anna's scenes"
-    new "Nari'nin sahnelerinin {}/3'ünü ve Anna'nın sahnelerinin 0/1'ini ilerlet"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Progress 3/3 of Nari's scenes and 1/1 of Anna's scenes"
     new "Nari'nin sahnelerinin 3/3'ünü ve Anna'nın sahnelerinin 1/1'ini ilerlet"
 
     # game/code/data/quests/quests_it.rpy:3
-    old "Work the IT job 40/40 times and finish the renovations"
-    new "BT işini 40/40 kez yap ve tadilatları bitir"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Work the IT job {}/40 times and finish the renovations"
-    new "BT işini {}/40 kez yap ve tadilatları bitir"
-
-    # game/code/data/quests/quests_it.rpy:3
     old "Finish the renovations"
     new "Tadilatları bitir"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Work the IT job {}/40 times"
-    new "BT işini {}/40 kez yap"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Get at least {}/15 total Relationship Points with characters at Orbix"
-    new "Orbix'teki karakterlerle toplam en az {}/15 İlişki Puanı kazan"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get at least 15 total Relationship Points with characters at Orbix"
@@ -247,14 +219,6 @@ translate turkish strings:
     # game/code/data/quests/quests_it.rpy:3
     old "Progress [var]/3 of Nari's scenes and 0/1 of Anna's scenes"
     new "Nari'nin sahnelerinin [var]/3'ünü ve Anna'nın sahnelerinin 0/1'ini ilerlet"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Work the IT job [var]/40 times and finish the renovations"
-    new "BT işini [var]/40 kez yap ve tadilatları bitir"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Work the IT job [var]/40 times"
-    new "BT işini [var]/40 kez yap"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get at least [var]/15 total Relationship Points with characters at Orbix"

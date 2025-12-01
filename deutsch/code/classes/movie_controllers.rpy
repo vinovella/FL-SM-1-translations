@@ -1,9 +1,5 @@
 ﻿translate deutsch strings:
 
-    # game/code/classes/movie_controllers.rpy:59
-    old "Pirate Movie"
-    new "Piratenfilm"
-
     # game/code/classes/movie_controllers.rpy:69
     old "You have filled the budget already"
     new "Du hast das Budget bereits gefüllt"

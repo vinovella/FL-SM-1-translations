@@ -25,10 +25,6 @@
     new "推进丹尼斯的故事线"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Nelson about sponsoring the new show"
-    new "与纳尔逊谈论赞助新演出"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Kellie at her dressing room"
     new "在凯莉的更衣室与她交谈"
 
@@ -71,10 +67,6 @@
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Denise in her office"
     new "在丹尼斯的办公室与她交谈"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have ${}/$100 and invite Taisia to make a film"
-    new "拥有${}/$100并邀请泰西娅拍电影"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have $100 and invite Taisia to make a film"
@@ -129,10 +121,6 @@
     new "在舞台上与维罗妮卡交谈"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Do the rehearsal on {}"
-    new "在{}进行彩排"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Wait for Veronica to text you"
     new "等待维罗妮卡给你发消息"
 
@@ -143,10 +131,6 @@
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Veronica in the afternoon"
     new "下午与维罗妮卡交谈"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have ${}/$50"
-    new "拥有${}/$50"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have $50"
@@ -171,18 +155,6 @@
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica's and Kellie's storylines"
     new "推进维罗妮卡和凯莉的故事线"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do the Saturday show at least {}/3 times"
-    new "至少进行{}/3次周六演出"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have {}/10 total Relationship Points with the Theater girls"
-    new "与剧院女孩们拥有{}/10总关系点数"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do the Saturday show at least {}/3 times and have {}/10 total Relationship Points with the Theater girls"
-    new "至少进行{}/3次周六演出并与剧院女孩们拥有{}/10总关系点数"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the Saturday show at least 3 times and have 10 total Relationship Points with the Theater girls"

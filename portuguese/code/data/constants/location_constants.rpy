@@ -172,10 +172,6 @@ translate portuguese strings:
     old "Shooting Area"
     new "Estande de Tiros"
 
-    # game/code/data/constants/location_constants.rpy:134
-    old "Corridor Entrance"
-    new "Entrada do Corredor"
-
     # game/code/data/constants/location_constants.rpy:139
     old "Backstage"
     new "Bastidores"
@@ -203,14 +199,6 @@ translate portuguese strings:
     # game/code/data/constants/location_constants.rpy:153
     old "Director's Office"
     new "Escritório da Diretora"
-
-    # game/code/data/constants/location_constants.rpy:155
-    old "Storage Entrance"
-    new "Área de Depósito"
-
-    # game/code/data/constants/location_constants.rpy:161
-    old "Showers Entrance"
-    new "Entrada das Duchas"
 
     # game/code/data/constants/location_constants.rpy:165
     old "Locker Room"

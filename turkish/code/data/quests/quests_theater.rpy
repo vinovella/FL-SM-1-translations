@@ -53,10 +53,6 @@
     new "Denise ile ofisinde konuş"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Have ${}/$100 and invite Taisia to make a film"
-    new "${}/100$ paran olsun ve Taisia'yı film yapmaya davet et"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Have $100 and invite Taisia to make a film"
     new "100$'ın olsun ve Taisia'yı film yapmaya davet et"
 
@@ -101,10 +97,6 @@
     new "Kellie'nin hikayesini ilerlet"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Do the rehearsal on {}"
-    new "{} tarihinde provaya katıl"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Wait for Veronica to text you"
     new "Veronica'nın sana mesaj atmasını bekle"
 
@@ -115,14 +107,6 @@
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Veronica in the afternoon"
     new "Öğleden sonra Veronica ile konuş"
-
-translate turkish strings:
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Nelson about sponsoring the new show"
-    new "Nelson ile yeni gösteriyi sponsorlamak hakkında konuş"
-
-translate turkish strings:
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Stacy during the day to interview Taisia"
@@ -139,10 +123,6 @@ translate turkish strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica's storyline"
     new "Veronica'nın hikayesini ilerlet"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have ${}/$50"
-    new "${}/$50'e sahip ol"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have $50"
@@ -164,8 +144,6 @@ translate turkish strings:
     old "Talk to Veronica on the stage"
     new "Sahnede Veronica ile konuş"
 
-translate turkish strings:
-
     # game/code/data/quests/quests_theater.rpy:3
     old "Invite Stacy to the amusement park during the day"
     new "Gün içinde Stacy'yi eğlence parkına davet et"
@@ -177,18 +155,6 @@ translate turkish strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica's and Kellie's storylines"
     new "Veronica ve Kellie'nin hikayelerini ilerlet"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do the Saturday show at least {}/3 times"
-    new "Cumartesi gösterisini en az {}/3 kez yap"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have {}/10 total Relationship Points with the Theater girls"
-    new "Tiyatro kızlarıyla toplam {}/10 İlişki Puanına sahip ol"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do the Saturday show at least {}/3 times and have {}/10 total Relationship Points with the Theater girls"
-    new "Cumartesi gösterisini en az {}/3 kez yap ve Tiyatro kızlarıyla toplam {}/10 İlişki Puanına sahip ol"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the Saturday show at least 3 times and have 10 total Relationship Points with the Theater girls"
@@ -242,8 +208,6 @@ translate turkish strings:
     old "Get your Film and TV topic to 3"
     new "Film ve TV konunu 3'e çıkar"
 
-translate turkish strings:
-
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the Saturday show at least [var]/3 times"
     new "Cumartesi gösterisini en az [var]/3 kez yap"
@@ -267,8 +231,6 @@ translate turkish strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the rehearsal on [var!t]"
     new "[var!t] tarihinde provaya katıl"
-
-translate turkish strings:
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Nelson during the day about sponsoring the new show"

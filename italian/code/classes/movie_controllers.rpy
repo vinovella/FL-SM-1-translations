@@ -4,10 +4,6 @@
     old "Movie royalty"
     new "Royalty del film"
 
-    # game/code/classes/movie_controllers.rpy:99
-    old "Pirate Movie"
-    new "Film dei Pirati"
-
     # game/code/classes/movie_controllers.rpy:109
     old "You have filled the budget already"
     new "Hai già riempito il budget"

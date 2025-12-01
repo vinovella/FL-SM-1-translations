@@ -45,10 +45,6 @@ translate spanish strings:
     new "Habla con Denise en su oficina"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Have ${}/$100 and invite Taisia to make a film"
-    new "Ten ${}/$100 e invita a Taisia a hacer una película"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Have $100 and invite Taisia to make a film"
     new "Ten $100 e invita a Taisia a hacer una película"
 
@@ -79,10 +75,6 @@ translate spanish strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Kellie's storyline"
     new "Avanza la historia de Kellie"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do the rehearsal on {}"
-    new "Haz el ensayo en {}"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Wait for Veronica to text you"
@@ -117,10 +109,6 @@ translate spanish strings:
     new "Habla con Verónica por la tarde"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Nelson about sponsoring the new show"
-    new "Habla con Nelson sobre patrocinar el nuevo espectáculo"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Stacy during the day to interview Taisia"
     new "Habla con Stacy durante el día para entrevistar a Taisia"
 
@@ -135,10 +123,6 @@ translate spanish strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica's storyline"
     new "Avanza la historia de Verónica"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have ${}/$50"
-    new "Ten ${}/$50"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have $50"
@@ -171,18 +155,6 @@ translate spanish strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica's and Kellie's storylines"
     new "Avanza las historias de Verónica y Kellie"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do the Saturday show at least {}/3 times"
-    new "Realiza el espectáculo del sábado al menos {}/3 veces"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have {}/10 total Relationship Points with the Theater girls"
-    new "Ten {}/10 puntos totales de afinidad con las chicas del teatro"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do the Saturday show at least {}/3 times and have {}/10 total Relationship Points with the Theater girls"
-    new "Realiza el espectáculo del sábado al menos {}/3 veces y ten {}/10 puntos totales de afinidad con las chicas del teatro"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the Saturday show at least 3 times and have 10 total Relationship Points with the Theater girls"

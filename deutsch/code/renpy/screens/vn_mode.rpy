@@ -8,8 +8,6 @@
     old "Rejected Characters"
     new "Abgelehnte Charaktere"
 
-translate deutsch strings:
-
     # game/code/renpy/screens/vn_mode.rpy:114
     old "Open Laptop"
     new "Laptop öffnen"

@@ -45,10 +45,6 @@ translate portuguese strings:
     new "Fale com Denise no escritório dela"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Have ${}/$100 and invite Taisia to make a film"
-    new "Tenha ${}/$100 e convide Taisia para fazer um filme"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Have $100 and invite Taisia to make a film"
     new "Tenha $100 e convide Taisia para fazer um filme"
 
@@ -81,18 +77,12 @@ translate portuguese strings:
     new "Avance a história da Kellie"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Do the rehearsal on {}"
-    new "Faço o ensaio em {}"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Wait for Veronica to text you"
     new "Aguarde a mensagem da Veronica"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Text Veronica"
     new "Mande uma mensagem para Veronica"
-
-translate portuguese strings:
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Veronica in the afternoon"
@@ -118,14 +108,6 @@ translate portuguese strings:
     old "Talk with Veronica in the afternoon"
     new "Fale com Veronica de tarde"
 
-translate portuguese strings:
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Nelson about sponsoring the new show"
-    new "Fale com Nelson sobre patrocinar a nova peça"
-
-translate portuguese strings:
-
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Stacy during the day to interview Taisia"
     new "Fale com Stacy durante o dia para entrevistar Taisia"
@@ -141,10 +123,6 @@ translate portuguese strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica's storyline"
     new "Avance a história de Veronica"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have ${}/$50"
-    new "Tenha ${}/$50"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have $50"
@@ -166,8 +144,6 @@ translate portuguese strings:
     old "Talk to Veronica on the stage"
     new "Fale com Veronica no palco"
 
-translate portuguese strings:
-
     # game/code/data/quests/quests_theater.rpy:3
     old "Invite Stacy to the amusement park during the day"
     new "Convide Stacy para o parque de diversões durante o dia"
@@ -179,18 +155,6 @@ translate portuguese strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica's and Kellie's storylines"
     new "Avance as histórias de Veronica e Kellie"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do the Saturday show at least {}/3 times"
-    new "Faça o show de sábado pelo menos {}/3 vezes"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have {}/10 total Relationship Points with the Theater girls"
-    new "Tenha {}/10 Pontos de Relacionamento no total com as garotas do teatro"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do the Saturday show at least {}/3 times and have {}/10 total Relationship Points with the Theater girls"
-    new "Faça o show de sábado pelo menos {}/3 vezes e tenha {}/10 Pontos de Relacionamento no total com as garotas do teatro"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the Saturday show at least 3 times and have 10 total Relationship Points with the Theater girls"
@@ -244,8 +208,6 @@ translate portuguese strings:
     old "Get your Film and TV topic to 3"
     new "Leve seu tópico de Cinema e TV a nível 3"
 
-translate portuguese strings:
-
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the Saturday show at least [var]/3 times"
     new "Faça o show de sábado pelo menos [var]/3 vezes"
@@ -269,8 +231,6 @@ translate portuguese strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the rehearsal on [var!t]"
     new "Faça o ensaio em [var!t]"
-
-translate portuguese strings:
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Nelson during the day about sponsoring the new show"

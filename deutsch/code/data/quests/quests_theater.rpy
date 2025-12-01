@@ -53,10 +53,6 @@
     new "Sprich mit Denise in ihrem Büro"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Have ${}/$100 and invite Taisia to make a film"
-    new "Habe ${}/$100 und lade Taisia ein, einen Film zu drehen"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Have $100 and invite Taisia to make a film"
     new "Habe $100 und lade Taisia ein, einen Film zu drehen"
 
@@ -101,10 +97,6 @@
     new "Fortschritt Kellies Geschichte"
 
     # game/code/data/quests/quests_theater.rpy:3
-    old "Do the rehearsal on {}"
-    new "Mach die Probe auf {}"
-
-    # game/code/data/quests/quests_theater.rpy:3
     old "Wait for Veronica to text you"
     new "Warte, bis Veronica dir eine Nachricht schickt"
 
@@ -115,14 +107,6 @@
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk with Veronica in the afternoon"
     new "Sprich am Nachmittag mit Veronica"
-
-translate deutsch strings:
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Talk to Nelson about sponsoring the new show"
-    new "Sprich mit Nelson über das Sponsoring der neuen Show"
-
-translate deutsch strings:
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Stacy during the day to interview Taisia"
@@ -139,10 +123,6 @@ translate deutsch strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica's storyline"
     new "Fortschritt in Veronicas Handlung"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have ${}/$50"
-    new "Habe ${}/$50"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Have $50"
@@ -164,8 +144,6 @@ translate deutsch strings:
     old "Talk to Veronica on the stage"
     new "Sprich mit Veronica auf der Bühne"
 
-translate deutsch strings:
-
     # game/code/data/quests/quests_theater.rpy:3
     old "Invite Stacy to the amusement park during the day"
     new "Lade Stacy tagsüber in den Vergnügungspark ein"
@@ -177,18 +155,6 @@ translate deutsch strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Progress Veronica's and Kellie's storylines"
     new "Fortschritte in den Handlungssträngen von Veronica und Kellie"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do the Saturday show at least {}/3 times"
-    new "Mache die Samstagsvorstellung mindestens {}/3 Mal"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Have {}/10 total Relationship Points with the Theater girls"
-    new "Habe insgesamt {}/10 Beziehungspunkte mit den Theatermädchen"
-
-    # game/code/data/quests/quests_theater.rpy:3
-    old "Do the Saturday show at least {}/3 times and have {}/10 total Relationship Points with the Theater girls"
-    new "Mach die Samstagsshow mindestens {}/3 Mal und hol dir {}/10 Beziehungspunkte mit den Theatermädchen"
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the Saturday show at least 3 times and have 10 total Relationship Points with the Theater girls"
@@ -242,8 +208,6 @@ translate deutsch strings:
     old "Get your Film and TV topic to 3"
     new "Bringe Film und Fernseh Thema auf 3"
 
-translate deutsch strings:
-
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the Saturday show at least [var]/3 times"
     new "Mache die Samstagsvorstellung mindestens [var]/3 Mal"
@@ -267,8 +231,6 @@ translate deutsch strings:
     # game/code/data/quests/quests_theater.rpy:3
     old "Do the rehearsal on [var!t]"
     new "Die Probe findet am [var!t] statt"
-
-translate deutsch strings:
 
     # game/code/data/quests/quests_theater.rpy:3
     old "Talk to Nelson during the day about sponsoring the new show"

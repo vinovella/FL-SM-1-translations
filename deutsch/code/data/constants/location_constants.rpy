@@ -170,10 +170,6 @@ translate deutsch strings:
     old "Shooting Area"
     new "Shooting Bereich"
 
-    # game/code/data/constants/location_constants.rpy:134
-    old "Corridor Entrance"
-    new "Korridor-Eingang"
-
     # game/code/data/constants/location_constants.rpy:139
     old "Backstage"
     new "Backstage"
@@ -201,14 +197,6 @@ translate deutsch strings:
     # game/code/data/constants/location_constants.rpy:153
     old "Director's Office"
     new "Büro der Direktorin"
-
-    # game/code/data/constants/location_constants.rpy:155
-    old "Storage Entrance"
-    new "Lagereingang"
-
-    # game/code/data/constants/location_constants.rpy:161
-    old "Showers Entrance"
-    new "Duscheingang"
 
     # game/code/data/constants/location_constants.rpy:165
     old "Locker Room"

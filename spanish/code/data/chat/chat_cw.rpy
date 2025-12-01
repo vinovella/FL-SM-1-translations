@@ -5,10 +5,6 @@
     new "Hola, Sr. Young."
 
     # game/code/data/chat/chat_cw.rpy:3
-    old "Hi, Ms. Claire."
-    new "Hola, Sra. Claire."
-
-    # game/code/data/chat/chat_cw.rpy:3
     old "Something has come up. Please meet me Friday evening at the office."
     new "Ha surgido algo. Por favor, encuéntrame el viernes por la tarde en la oficina."
 

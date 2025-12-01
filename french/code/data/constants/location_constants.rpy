@@ -44,10 +44,6 @@
     old "Lyssa's House"
     new "Maison de Lyssa"
 
-    # game/code/data/constants/location_constants.rpy:194
-    old "Guns n' Rossette's"
-    new "Guns n' Rossette's"
-
     # game/code/data/constants/location_constants.rpy:5
     old "Overview"
     new "Aperçu"
@@ -172,10 +168,6 @@
     old "Shooting Area"
     new "Zone de tournage"
 
-    # game/code/data/constants/location_constants.rpy:134
-    old "Corridor Entrance"
-    new "Entrée du couloir"
-
     # game/code/data/constants/location_constants.rpy:139
     old "Backstage"
     new "Coulisses"
@@ -203,14 +195,6 @@
     # game/code/data/constants/location_constants.rpy:153
     old "Director's Office"
     new "Bureau du directeur"
-
-    # game/code/data/constants/location_constants.rpy:155
-    old "Storage Entrance"
-    new "Entrée du stockage"
-
-    # game/code/data/constants/location_constants.rpy:161
-    old "Showers Entrance"
-    new "Entrée des douches"
 
     # game/code/data/constants/location_constants.rpy:165
     old "Locker Room"

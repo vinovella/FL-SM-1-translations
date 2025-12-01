@@ -273,10 +273,6 @@ translate turkish strings:
     new "Maya ile 6 İlişki Puanı kazan ve Sosis Teslimatı'nda onunla konuş"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Get {}/9 Relationship Points with Maya"
-    new "Maya ile {}/9 İlişki Puanı kazan"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about going to Lyssa during the day"
     new "Gündüz Lyssa'ya gitme hakkında Stacy ile konuş"
 
@@ -367,10 +363,6 @@ translate turkish strings:
     # game/code/data/quests/quests_neutral.rpy:4
     old "Go to the General Store"
     new "Genel Mağazaya git"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Learn Photography until you reach 5 in this topic (currently {})"
-    new "Bu konuda 5'e ulaşana kadar Fotoğrafçılık öğren (şu anda {})"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Learn Photography until you reach 5 in this topic"

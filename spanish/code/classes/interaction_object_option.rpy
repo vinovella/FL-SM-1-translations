@@ -1,12 +1,6 @@
 translate spanish strings:
 
     # game/code/classes/interaction_object_option.rpy:53
-    old "{name} (You need to have ${needed_money})"
-    new "{name} (Necesitas tener ${needed_money})"
-
-translate spanish strings:
-
-    # game/code/classes/interaction_object_option.rpy:53
     old "[name!t] (You need to have $[needed_money])"
     new "[name!t] (Necesitas tener $[needed_money])"
 

@@ -1,24 +1,8 @@
 translate portuguese strings:
 
-    # game/code/classes/quest_controller.rpy:156
-    old "You need to progress {storyline_name} "
-    new "Você precisa avançar {storyline_name} "
-
     # game/code/classes/quest_controller.rpy:218
     old "You are currently in a scene"
     new "Você está numa cena"
-
-translate portuguese strings:
-
-    # game/code/classes/quest_controller.rpy:157
-    old " and "
-    new " e "
-
-    # game/code/classes/quest_controller.rpy:158
-    old "You need to progress [storyline_names!t]"
-    new "Você precisa avançar [storyline_names!t]"
-
-translate portuguese strings:
 
     # game/code/classes/quest_controller.rpy:156
     old "You need to progress [storyline_name!t]"
@@ -31,8 +15,6 @@ translate portuguese strings:
     # game/code/classes/quest_controller.rpy:162
     old "[storyline_name!t]"
     new "[storyline_name!t]"
-
-translate portuguese strings:
 
     # game/code/classes/quest_controller.rpy:195
     old "Wait [days_left] day"

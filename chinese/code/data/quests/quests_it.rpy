@@ -93,10 +93,6 @@
     new "白天与安娜交谈"
 
     # game/code/data/quests/quests_it.rpy:3
-    old "Work at Orbix {}/20 times"
-    new "在Orbix工作{}/20次"
-
-    # game/code/data/quests/quests_it.rpy:3
     old "Talk with Anna"
     new "与安娜交谈"
 
@@ -153,40 +149,16 @@
     new "第一个工作日前去睡觉"
 
     # game/code/data/quests/quests_it.rpy:3
-    old "Progress {}/3 of Nari's scenes"
-    new "推进{}/3个娜丽的场景"
-
-    # game/code/data/quests/quests_it.rpy:3
     old "Progress 0/1 of Anna's scenes"
     new "推进0/1个安娜的场景"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Progress {}/3 of Nari's scenes and 0/1 of Anna's scenes"
-    new "推进{}/3个娜丽的场景和0/1个安娜的场景"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Progress 3/3 of Nari's scenes and 1/1 of Anna's scenes"
     new "推进3/3个娜丽的场景和1/1个安娜的场景"
 
     # game/code/data/quests/quests_it.rpy:3
-    old "Work the IT job 40/40 times and finish the renovations"
-    new "从事IT工作40/40次并完成装修"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Work the IT job {}/40 times and finish the renovations"
-    new "从事IT工作{}/40次并完成装修"
-
-    # game/code/data/quests/quests_it.rpy:3
     old "Finish the renovations"
     new "完成装修"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Work the IT job {}/40 times"
-    new "从事IT工作{}/40次"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Get at least {}/15 total Relationship Points with characters at Orbix"
-    new "在Orbix获得至少{}/15总关系点数"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get at least 15 total Relationship Points with characters at Orbix"
@@ -239,14 +211,6 @@
     # game/code/data/quests/quests_it.rpy:3
     old "Progress [var]/3 of Nari's scenes and 0/1 of Anna's scenes"
     new "推进[var]/3个娜丽的场景和0/1个安娜的场景"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Work the IT job [var]/40 times and finish the renovations"
-    new "从事IT工作[var]/40次并完成装修"
-
-    # game/code/data/quests/quests_it.rpy:3
-    old "Work the IT job [var]/40 times"
-    new "从事IT工作[var]/40次"
 
     # game/code/data/quests/quests_it.rpy:3
     old "Get at least [var]/15 total Relationship Points with characters at Orbix"

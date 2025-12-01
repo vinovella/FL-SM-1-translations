@@ -4,10 +4,6 @@
     old "Movie royalty"
     new "Film telif ücreti"
 
-    # game/code/classes/movie_controllers.rpy:99
-    old "Pirate Movie"
-    new "Korsan Filmi"
-
     # game/code/classes/movie_controllers.rpy:109
     old "You have filled the budget already"
     new "Bütçeyi zaten doldurdunuz"

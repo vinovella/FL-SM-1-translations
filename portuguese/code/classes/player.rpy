@@ -12,10 +12,6 @@ translate portuguese strings:
     old "You just discovered new location on the map"
     new "Você descobriu um novo local no mapa"
 
-    # game/code/classes/player.rpy:395
-    old "You just improved in topic"
-    new "Você melhorou no tópico"
-
 translate portuguese strings:
 
     # game/code/classes/player.rpy:104

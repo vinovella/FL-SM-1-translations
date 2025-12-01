@@ -4,10 +4,6 @@ translate spanish strings:
     old "Movie royalty"
     new "Regalías de la película"
 
-    # game/code/classes/movie_controllers.rpy:99
-    old "Pirate Movie"
-    new "Película pirata"
-
     # game/code/classes/movie_controllers.rpy:109
     old "You have filled the budget already"
     new "Ya has completado el presupuesto"

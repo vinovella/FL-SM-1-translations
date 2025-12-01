@@ -273,10 +273,6 @@
     new "Sammle 6 Beziehungspunkte mit Maya und sprich mit ihr bei Wurst Delivery"
 
     # game/code/data/quests/quests_neutral.rpy:4
-    old "Get {}/9 Relationship Points with Maya"
-    new "Sammle {}/9 Beziehungspunkte mit Maya"
-
-    # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy about going to Lyssa during the day"
     new "Sprich mit Stacy darüber, tagsüber zu Lyssa zu fahren"
 
@@ -367,10 +363,6 @@
     # game/code/data/quests/quests_neutral.rpy:4
     old "Go to the General Store"
     new "Geh zum General Store"
-
-    # game/code/data/quests/quests_neutral.rpy:4
-    old "Learn Photography until you reach 5 in this topic (currently {})"
-    new "Lerne Fotografie, bis du in diesem Thema 5 erreichst (derzeit {})"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Learn Photography until you reach 5 in this topic"

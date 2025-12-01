@@ -12,10 +12,6 @@
     old "You just discovered new location on the map"
     new "您刚在地图上发现了新位置"
 
-    # game/code/classes/player.rpy:399
-    old "You just improved in topic"
-    new "您刚在话题方面有所提高"
-
     # game/code/classes/player.rpy:104
     old "You just got $[amount]"
     new "您刚获得 $[amount]"

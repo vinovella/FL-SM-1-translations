@@ -2,7 +2,7 @@
 translate chinese q_inter_bg_1_5c7e01fb:
 
     # "BDSM Model" "Hey!"
-    "BDSM Model" "嘿！"
+    "BDSM 模特" "嘿！"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-bg.rpy:25
 translate chinese q_inter_bg_2_6c1fac90:

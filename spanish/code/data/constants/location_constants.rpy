@@ -172,10 +172,6 @@ translate spanish strings:
     old "Shooting Area"
     new "Zona de rodaje"
 
-    # game/code/data/constants/location_constants.rpy:134
-    old "Corridor Entrance"
-    new "Entrada del pasillo"
-
     # game/code/data/constants/location_constants.rpy:139
     old "Backstage"
     new "Backstage"
@@ -203,14 +199,6 @@ translate spanish strings:
     # game/code/data/constants/location_constants.rpy:153
     old "Director's Office"
     new "Oficina del director"
-
-    # game/code/data/constants/location_constants.rpy:155
-    old "Storage Entrance"
-    new "Entrada del almacén"
-
-    # game/code/data/constants/location_constants.rpy:161
-    old "Showers Entrance"
-    new "Entrada a las duchas"
 
     # game/code/data/constants/location_constants.rpy:165
     old "Locker Room"

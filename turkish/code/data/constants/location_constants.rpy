@@ -172,10 +172,6 @@ translate turkish strings:
     old "Shooting Area"
     new "Çekim Alanı"
 
-    # game/code/data/constants/location_constants.rpy:134
-    old "Corridor Entrance"
-    new "Koridor Girişi"
-
     # game/code/data/constants/location_constants.rpy:139
     old "Backstage"
     new "Sahne Arkası"
@@ -203,14 +199,6 @@ translate turkish strings:
     # game/code/data/constants/location_constants.rpy:153
     old "Director's Office"
     new "Yönetmen Ofisi"
-
-    # game/code/data/constants/location_constants.rpy:155
-    old "Storage Entrance"
-    new "Depo Girişi"
-
-    # game/code/data/constants/location_constants.rpy:161
-    old "Showers Entrance"
-    new "Duş Girişi"
 
     # game/code/data/constants/location_constants.rpy:165
     old "Locker Room"

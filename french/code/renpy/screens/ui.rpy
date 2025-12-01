@@ -13,10 +13,6 @@
     new "Masquer les quêtes"
 
     # game/code/renpy/screens/ui.rpy:30
-    old "Timeslot: {}"
-    new "Créneau horaire : {}"
-
-    # game/code/renpy/screens/ui.rpy:30
     old "Timeslot: [gt.curr_timeslot!t]"
     new "Créneau horaire: [gt.curr_timeslot!t]"
 
