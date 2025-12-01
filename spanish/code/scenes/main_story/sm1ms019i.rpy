@@ -14,5 +14,5 @@ translate spanish sm1ms019i_82775245:
 translate spanish sm1ms019i_d9ab3702:
 
     # sy "Let's pitter patter then!"
-    sy "¡Vamos, pues!"
+    sy "¡Vamos a ello!"
 

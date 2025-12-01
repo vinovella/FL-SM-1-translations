@@ -2,7 +2,7 @@
 translate spanish sm1ms001_02_1289ad51:
 
     # mct "Man, what a day. This bed feels so good."
-    mct "Hombre, qué día. Esta cama se siente tan bien."
+    mct "Vaya, qué día. Esta cama se siente tan bien."
 
 # game/code/scenes/main_story/sm1ms001-02.rpy:17
 translate spanish sm1ms001_02_8f9519a0:

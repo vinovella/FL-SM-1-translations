@@ -1074,193 +1074,193 @@ translate spanish strings:
 translate spanish sm1cs_mh007_bf2c0adf:
 
     # mh "[mcname], I was wondering..."
-    mh "[mcname], I was wondering..."
+    mh "[mcname], me preguntaba algo..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:262
 translate spanish sm1cs_mh007_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "¿Sí?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:263
 translate spanish sm1cs_mh007_030be35c:
 
     # mh "How would you feel if I...{w} had a turn, with you?"
-    mh "How would you feel if I...{w} had a turn, with you?"
+    mh "¿Qué sentirías si yo...{w} tuviera un turno, contigo?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:264
 translate spanish sm1cs_mh007_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "¿Qué quieres decir?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:266
 translate spanish sm1cs_mh007_d41060db:
 
     # mh "That I... kind of want to try fucking you. What do you think about that?"
-    mh "That I... kind of want to try fucking you. What do you think about that?"
+    mh "Que yo... en cierto modo quiero intentar penetrarte. ¿Qué piensas de eso?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:274
 translate spanish sm1cs_mh007_c0d907b0:
 
     # mc "I don't think I'd like that, Lyssa, I'm sorry..."
-    mc "I don't think I'd like that, Lyssa, I'm sorry..."
+    mc "No creo que eso me guste, Lyssa, lo siento..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:275
 translate spanish sm1cs_mh007_58f014e2:
 
     # mh "It's okay, we still have some more fun to have anyway."
-    mh "It's okay, we still have some more fun to have anyway."
+    mh "Está bien, de todas formas todavía nos queda más diversión por delante."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:281
 translate spanish sm1cs_mh007_e0c7542b:
 
     # mc "Yeah, Lyssa, I'd be down to try it."
-    mc "Yeah, Lyssa, I'd be down to try it."
+    mc "Sí, Lyssa, estaría dispuesto a intentarlo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:282
 translate spanish sm1cs_mh007_954a6ab6:
 
     # mh "Really?"
-    mh "Really?"
+    mh "¿En serio?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:283
 translate spanish sm1cs_mh007_a3caf5a7:
 
     # mc "Really, really!"
-    mc "Really, really!"
+    mc "¡Muy, muy en serio!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:285
 translate spanish sm1cs_mh007_1b966d50:
 
     # mc "Just promise to be gentle."
-    mc "Just promise to be gentle."
+    mc "Solo promete ser delicada."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:286
 translate spanish sm1cs_mh007_9f73cc01:
 
     # mh "Mmmmm, I promise, [mcname]."
-    mh "Mmmmm, I promise, [mcname]."
+    mh "Mmmmm, lo prometo, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:288
 translate spanish sm1cs_mh007_44c6d442:
 
     # mh "I have been fantasizing about this..."
-    mh "I have been fantasizing about this..."
+    mh "He estado fantaseando con esto..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:289
 translate spanish sm1cs_mh007_24687b7d:
 
     # mc "Well, I'm happy to bring your dream to reality!"
-    mc "Well, I'm happy to bring your dream to reality!"
+    mc "¡Pues estoy feliz de hacer realidad tu sueño!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:291
 translate spanish sm1cs_mh007_1263b847:
 
     # mh "Are you ready?"
-    mh "Are you ready?"
+    mh "¿Estás listo?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:292
 translate spanish sm1cs_mh007_37c12963:
 
     # mc "Uh huh!"
-    mc "Uh huh!"
+    mc "¡Ajá!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:294
 translate spanish sm1cs_mh007_5dfa7c5e:
 
-    # mc "Oooo, ooooooooo!"
-    mc "Oooo, ooooooooo!"
+    # mc "¡Oooo, ooooooooo!"
+    mc "¡Oooo, ooooooooo!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:295
 translate spanish sm1cs_mh007_0f5e6726:
 
     # mh "You okay?"
-    mh "You okay?"
+    mh "¿Estás bien?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:296
 translate spanish sm1cs_mh007_c5327c66:
 
     # mc "Mmm-mmhmmmm! Just - getting used to the feeling."
-    mc "Mmm-mmhmmmm! Just - getting used to the feeling."
+    mc "¡Mmm-mmhmmmm! Solo... acostumbrándome a la sensación."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:297
 translate spanish sm1cs_mh007_9bc304fb:
 
     # mh "I'm going to keep going, okay?"
-    mh "I'm going to keep going, okay?"
+    mh "Voy a seguir, ¿de acuerdo?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:298
 translate spanish sm1cs_mh007_ef71e91f:
 
     # mc "Mmmhmmm!"
-    mc "Mmmhmmm!"
+    mc "¡Mmmhmmm!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:300
 translate spanish sm1cs_mh007_de9dc30b:
 
-    # mc "Ooooooooo!"
-    mc "Ooooooooo!"
+    # mc "¡Ooooooooo!"
+    mc "¡Ooooooooo!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:301
 translate spanish sm1cs_mh007_ddd94792:
 
     # mh "Still okay?"
-    mh "Still okay?"
+    mh "¿Sigues bien?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:302
 translate spanish sm1cs_mh007_2ea6de0c:
 
-    # mc "Y-yeah!"
-    mc "Y-yeah!"
+    # mc "¡S-sí!"
+    mc "¡S-sí!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:303
 translate spanish sm1cs_mh007_6bd1c7a8:
 
     # mh "Just a little more..."
-    mh "Just a little more..."
+    mh "Solo un poco más..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:305
 translate spanish sm1cs_mh007_49ecd705:
 
-    # mc "Nnnngggghhhh-!"
-    mc "Nnnngggghhhh-!"
+    # mc "¡Nnnngggghhhh-!"
+    mc "¡Nnnngggghhhh-!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:306
 translate spanish sm1cs_mh007_c7cf2826:
 
     # mh "[mcname]?"
-    mh "[mcname]?"
+    mh "¿[mcname]?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:307
 translate spanish sm1cs_mh007_368efa07:
 
     # mc "Mmmm, just - wow - this is a - new feeling!"
-    mc "Mmmm, just - wow - this is a - new feeling!"
+    mc "Mmmm, solo... ¡Guau! Esta es una... ¡nueva sensación!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:308
 translate spanish sm1cs_mh007_a12e6db3:
 
     # mh "I'll give you a second to adjust."
-    mh "I'll give you a second to adjust."
+    mh "Te daré un segundo para que te adaptes."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:309
 translate spanish sm1cs_mh007_d2efecf2:
 
     # mc "Thank you..."
-    mc "Thank you..."
+    mc "Gracias..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:311
 translate spanish sm1cs_mh007_0896b69e:
 
     # mh "This feels amazing already, [mcname]."
-    mh "This feels amazing already, [mcname]."
+    mh "Esto ya se siente increíble, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:312
 translate spanish sm1cs_mh007_f49fff8f_1:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "¿Sí?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:313
 translate spanish sm1cs_mh007_259ad6b6_1:
@@ -1272,31 +1272,31 @@ translate spanish sm1cs_mh007_259ad6b6_1:
 translate spanish sm1cs_mh007_ec7fd73b:
 
     # mc "I think - ngggh - you can start thrusting if you want."
-    mc "I think - ngggh - you can start thrusting if you want."
+    mc "Creo... ngggh... que puedes empezar a embestir si quieres."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:315
 translate spanish sm1cs_mh007_84227619:
 
     # mh "Mmmmm, I'll go slow."
-    mh "Mmmmm, I'll go slow."
+    mh "Mmmmm, iré despacio."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:318
 translate spanish sm1cs_mh007_b7c684bc:
 
     # mc "Ohh - shit-"
-    mc "Ohh - shit-"
+    mc "¡Ohh, mierda!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:319
 translate spanish sm1cs_mh007_29d2ae55:
 
     # mh "You okay, [mcname]?"
-    mh "You okay, [mcname]?"
+    mh "¿Estás bien, [mcname]?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:320
 translate spanish sm1cs_mh007_eb3a1d15:
 
-    # mc "Mmmmmm - y-yep!"
-    mc "Mmmmmm - y-yep!"
+    # mc "¡Mmmmmm, s-sí!"
+    mc "¡Mmmmmm, s-sí!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:322
 translate spanish sm1cs_mh007_d608c209:
@@ -1308,135 +1308,135 @@ translate spanish sm1cs_mh007_d608c209:
 translate spanish sm1cs_mh007_085313a0:
 
     # mc "Oh shit, Lyssa - shiiiit-!"
-    mc "Oh shit, Lyssa - shiiiit-!"
+    mc "¡Oh, mierda, Lyssa! ¡Miiierda!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:324
 translate spanish sm1cs_mh007_118586bd:
 
     # mh "Mmmmm?"
-    mh "Mmmmm?"
+    mh "¿Mmmmm?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:326
 translate spanish sm1cs_mh007_73631d7d:
 
     # mc "This feels - ngggh-!"
-    mc "This feels - ngggh-!"
+    mc "¡Esto se siente... ngggh!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:327
 translate spanish sm1cs_mh007_fc477c8d:
 
     # mh "How does it feel?"
-    mh "How does it feel?"
+    mh "¿Cómo se siente?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:328
 translate spanish sm1cs_mh007_a1ba1026:
 
     # mc "It feels - mmmm- kind of, {i}really{/i}, good!"
-    mc "It feels - mmmm- kind of, {i}really{/i}, good!"
+    mc "Se siente... mmmm... ¡bastante, {i}muy{/i}, bien!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:329
 translate spanish sm1cs_mh007_3ce13710:
 
     # mh "Mmmmm, yes, yes it does!"
-    mh "Mmmmm, yes, yes it does!"
+    mh "Mmmmm, ¡sí, sí que se siente!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:331
 translate spanish sm1cs_mh007_f56613ea:
 
     # mc "Oh, shit - it feels - mmm - nice having you inside me, Lyssa!"
-    mc "Oh, shit - it feels - mmm - nice having you inside me, Lyssa!"
+    mc "¡Oh, mierda! ¡Se siente... mmm... bien tenerte dentro de mí, Lyssa!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:332
 translate spanish sm1cs_mh007_4f24e9cd:
 
     # mh "And your ass is wonderful, [mcname]!"
-    mh "And your ass is wonderful, [mcname]!"
+    mh "¡Y tu trasero es maravilloso, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:333
 translate spanish sm1cs_mh007_6dcde6a9:
 
     # mh "It feels - mmmmm - soooooo gooooood!"
-    mh "It feels - mmmmm - soooooo gooooood!"
+    mh "¡Se siente... mmmmm... taaaaan bieeeeen!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:335
 translate spanish sm1cs_mh007_dbf69743:
 
     # mc "Nggggghhhh - Lyssa!"
-    mc "Nggggghhhh - Lyssa!"
+    mc "¡Nggggghhhh - Lyssa!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:336
 translate spanish sm1cs_mh007_6ce1258d:
 
     # mh "Oh, yes, [mcname]!"
-    mh "Oh, yes, [mcname]!"
+    mh "¡Oh, sí, [mcname]!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:337
 translate spanish sm1cs_mh007_e8840ad8:
 
     # mc "Oooo, ooooo, mmmmmppphhh!"
-    mc "Oooo, ooooo, mmmmmppphhh!"
+    mc "¡Oooo, ooooo, mmmmmppphhh!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:339
 translate spanish sm1cs_mh007_ef890fd2:
 
     # mh "Oh shit - we definitely, mmmmm, need to do this more often!"
-    mh "Oh shit - we definitely, mmmmm, need to do this more often!"
+    mh "¡Oh, mierda! ¡Definitivamente, mmmmm, tenemos que hacer esto más a menudo!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:340
 translate spanish sm1cs_mh007_d02ad225:
 
     # mc "I - ngggghhh - agree!"
-    mc "I - ngggghhh - agree!"
+    mc "¡E-nggghhh-stoy de acuerdo!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:341
 translate spanish sm1cs_mh007_1d5fc5d6:
 
     # mh "Oh - mmmm, I feel myself getting close!"
-    mh "Oh - mmmm, I feel myself getting close!"
+    mh "¡Oh, mmmm, siento que estoy cerca!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:342
 translate spanish sm1cs_mh007_adaed853:
 
     # mc "Ngggghhhhh -"
-    mc "Ngggghhhhh -"
+    mc "¡Ngggghhhhh -!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:343
 translate spanish sm1cs_mh007_632389c9:
 
     # mh "But I - mmmmmm - I need you inside me again."
-    mh "But I - mmmmmm - I need you inside me again."
+    mh "Pero yo... mmmmmm... te necesito dentro de mí otra vez."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:346
 translate spanish sm1cs_mh007_591a1ccb:
 
     # mh "I really, really need you inside me again."
-    mh "I really, really need you inside me again."
+    mh "Realmente, realmente te necesito dentro de mí otra vez."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:347
 translate spanish sm1cs_mh007_09f2de35:
 
     # mc "Is that so?"
-    mc "Is that so?"
+    mc "¿Ah, sí?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:348
+# game/code/scenes/character_scenes/mh/sm1cs_mh007.rpy:348
 translate spanish sm1cs_mh007_bf5d86f0:
 
     # mh "Mmmmhmmm."
     mh "Mmmmhmmm."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:349
+# game/code/scenes/character_scenes/mh/sm1cs_mh007.rpy:349
 translate spanish sm1cs_mh007_b9a250b1:
 
     # mc "Well, I think I know just what we need to do..."
-    mc "Well, I think I know just what we need to do..."
+    mc "Bueno, creo que sé justo lo que tenemos que hacer..."
 
 translate spanish strings:
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:267
     old "I'd be up for that!"
-    new "I'd be up for that!"
+    new "¡Estaría dispuesto!"
 
     # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:267
     old "I don't think I would like that..."
-    new "I don't think I would like that..."
+    new "No creo que me gustaría eso..."
 

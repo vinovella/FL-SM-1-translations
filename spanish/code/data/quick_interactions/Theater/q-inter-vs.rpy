@@ -242,65 +242,65 @@ translate spanish q_inter_vs_11_cd1b3d42:
 translate spanish q_inter_vs_4_0ac7542c:
 
     # vs "Hi, [mcname]. I really hope you're enjoying your time in the theater."
-    vs "Hi, [mcname]. I really hope you're enjoying your time in the theater."
+    vs "Hola, [mcname]. De verdad espero que estés disfrutando tu tiempo en el teatro."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:74
 translate spanish q_inter_vs_5_26a5f019:
 
     # vs "I really hope you impress Denise the next time you get to audition, [mcname]."
-    vs "I really hope you impress Denise the next time you get to audition, [mcname]."
+    vs "De verdad espero que impresiones a Denise la próxima vez que tengas una audición, [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:92
 translate spanish q_inter_vs_7_2acf4fd6:
 
     # vs "*whispers* Hey [mcname]."
-    vs "*whispers* Hey [mcname]."
+    vs "*susurra* Hola, [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:95
 translate spanish q_inter_vs_7_305758d8:
 
     # vs "*whispers* Because it's fun, and because you want to keep talk about FL on the downlow right?"
-    vs "*whispers* Because it's fun, and because you want to keep talk about FL on the downlow right?"
+    vs "*susurra* Porque es divertido, y porque quieres mantener en secreto lo del Localizador de Fetiches, ¿verdad?"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:157
 translate spanish q_inter_vs_12_fbd78eaa:
 
     # vs "Yay, [mcname]! You're finally one of the real actors."
-    vs "Yay, [mcname]! You're finally one of the real actors."
+    vs "¡Bien, [mcname]! Por fin eres uno de los actores de verdad."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:158
 translate spanish q_inter_vs_12_40ecebb6:
 
     # vs "You don't have to feel ashamed of being a stagehand any longer."
-    vs "You don't have to feel ashamed of being a stagehand any longer."
+    vs "Ya no tienes por qué sentir vergüenza de ser un asistente de escenario."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:159
 translate spanish q_inter_vs_12_6d495a60:
 
     # mc "I was never ashamed of that."
-    mc "I was never ashamed of that."
+    mc "Nunca me avergoncé de eso."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:162
 translate spanish q_inter_vs_12_8576433e:
 
     # vs "Oh?"
-    vs "Oh?"
+    vs "¿Oh?"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:163
 translate spanish q_inter_vs_12_a24c393b:
 
     # vs "Why not?"
-    vs "Why not?"
+    vs "¿Por qué no?"
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:170
 translate spanish q_inter_vs_13_7c4f4e75:
 
     # vs "The most important thing about being a true actor is to not panic."
-    vs "The most important thing about being a true actor is to not panic."
+    vs "Lo más importante de ser un verdadero actor es no entrar en pánico."
 
 # game/code/data/quick_interactions/Theater/q-inter-vs.rpy:171
 translate spanish q_inter_vs_13_db875d9f:
 
     # vs "Oh, and you need to remember your lines. Denise says that is pretty important too."
-    vs "Oh, and you need to remember your lines. Denise says that is pretty important too."
+    vs "Ah, y tienes que recordar tus líneas. Denise dice que eso también es bastante importante."
 

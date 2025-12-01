@@ -72,8 +72,6 @@ translate spanish strings:
     old "Travel"
     new "Viajar"
 
-translate spanish strings:
-
     # game/code/data/constants/constants.rpy:77
     old "Night"
     new "Noche"
@@ -134,8 +132,6 @@ translate spanish strings:
     old "Su"
     new "Do"
 
-translate spanish strings:
-
     # game/code/data/constants/constants.rpy:131
     old "Monday"
     new "Lunes"
@@ -163,8 +159,6 @@ translate spanish strings:
     # game/code/data/constants/constants.rpy:137
     old "Sunday"
     new "Domingo"
-
-translate spanish strings:
 
     # game/code/data/constants/constants.rpy:168
     old "Mon"
@@ -194,17 +188,15 @@ translate spanish strings:
     old "Sun"
     new "Dom"
 
-translate spanish strings:
-
     # game/code/data/constants/constants.rpy:388
     old "Book"
-    new "Book"
+    new "Libro"
 
     # game/code/data/constants/constants.rpy:389
     old "Magazine"
-    new "Magazine"
+    new "Revista"
 
     # game/code/data/constants/constants.rpy:398
     old "Energy drink"
-    new "Energy drink"
+    new "Bebida energética"
 

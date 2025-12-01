@@ -1,8 +1,24 @@
 ﻿translate spanish strings:
 
+    # game/code/renpy/screens/save.rpy:12
+    old "Save for S&M Studio Chapter 2"
+    new "Guardado para S&M Studio Capítulo 2"
+
     # game/code/renpy/screens/save.rpy:81
     old "No saves found!"
     new "¡No se encontraron guardados!"
+
+translate spanish strings:
+
+    # game/code/renpy/screens/save.rpy:51
+    old "Saves For Chapter [chapter]"
+    new "Guardados del Capítulo [chapter]"
+
+    # game/code/renpy/screens/save.rpy:51
+    old "Saves From Chapter [chapter]"
+    new "Guardados desde el Capítulo [chapter]"
+
+translate spanish strings:
 
     # game/code/renpy/screens/save.rpy:20
     old "Congratulations! You completed all storylines!"

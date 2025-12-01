@@ -1,4 +1,3 @@
-
 # game/code/scenes/main_story/sm1ms029.rpy:792
 translate turkish sm1ms029_talk_tl_ns_8522c77b:
 

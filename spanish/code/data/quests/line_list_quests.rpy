@@ -84,23 +84,23 @@ translate spanish strings:
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Main story"
-    new "Main story"
+    new "Historia principal"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Second movie"
-    new "Second movie"
+    new "Segunda película"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Pirates movie"
-    new "Pirates movie"
+    new "Película de piratas"
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Sci-Fi movie"
-    new "Sci-Fi movie"
+    new "Película de ciencia ficción"
 
 translate spanish strings:
 
     # game/code/data/quests/line_list_quests.rpy:5
     old "Kellie's story"
-    new "Kellie's story"
+    new "Historia de Kellie"
 

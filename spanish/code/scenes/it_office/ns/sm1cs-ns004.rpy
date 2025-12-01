@@ -966,11 +966,11 @@ translate spanish strings:
 translate spanish sm1cs_ns004_fc4dfef5:
 
     # ns "I would consider that outcome as very high risk, low chance."
-    ns "I would consider that outcome as very high risk, low chance."
+    ns "Consideraría ese resultado como de muy alto riesgo y baja probabilidad."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:397
 translate spanish sm1cs_ns004_end_talk_36d68c75:
 
     # mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
-    mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
+    mc "Me alegra mucho oír eso. Pero estoy seguro de que conocerás a más personas que son tan buenas como yo."
 

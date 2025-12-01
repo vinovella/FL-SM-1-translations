@@ -43,6 +43,7 @@ translate spanish strings:
     # game/code/renpy/screens/phone.rpy:115
     old "Day: [gt.get_day_number()]"
     new "Día: [gt.get_day_number()]"
+
 translate spanish strings:
 
     # game/code/renpy/screens/phone.rpy:77

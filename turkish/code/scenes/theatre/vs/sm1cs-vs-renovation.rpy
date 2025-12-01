@@ -358,18 +358,6 @@ translate turkish sm1cs_vs_renovation_069acf88:
     # mc "Well, we can't have that."
     mc "Bunu yapamayız."
 
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:185
-translate turkish sm1cs_vs_renovation_6bf0b12c:
-
-    # mc "{i}🎶Come with me, and you'll be-🎶{/i}"
-    mc "{i}🎶Benimle gel, sen de-🎶{/i}"
-
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:186
-translate turkish sm1cs_vs_renovation_4d6d9f05:
-
-    # mc "{i}🎶In a world of scaffolding and exposed wi-ir-i-ng!🎶{/i}"
-    mc "{i}🎶İskelelerin ve açıkta kalan kabloların olduğu bir dünyada!🎶{/i}"
-
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:189
 translate turkish sm1cs_vs_renovation_3c91f103:
 
@@ -703,4 +691,16 @@ translate turkish strings:
     # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:47
     old "Act impressed"
     new "Etkilenmiş gibi davran"
+
+# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:177
+translate turkish sm1cs_vs_renovation_50c078bf:
+
+    # mc "{i}♪ Come with me, and you'll be- ♪{/i}"
+    mc "{i}♪ Come with me, and you'll be- ♪{/i}"
+
+# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:178
+translate turkish sm1cs_vs_renovation_a39ea472:
+
+    # mc "{i}♪ In a world of scaffolding and exposed wi-ir-i-ng! ♪{/i}"
+    mc "{i}♪ In a world of scaffolding and exposed wi-ir-i-ng! ♪{/i}"
 

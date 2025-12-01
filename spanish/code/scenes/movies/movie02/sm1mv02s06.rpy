@@ -896,133 +896,133 @@ translate spanish sm1mv02s06_scene_5a651755:
 translate spanish sm1mv02s06_scene_e53e54e3:
 
     # mhmes "And fill me up, Captain! Fill me with your cum!"
-    mhmes "And fill me up, Captain! Fill me with your cum!"
+    mhmes "¡Y lléname, Capitán! ¡Lléname con tu semen!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:707
 translate spanish sm1mv02s06_scene_eaaacb71:
 
     # mc "Oh, Vel! Oh, Vel!!!"
-    mc "Oh, Vel! Oh, Vel!!!"
+    mc "¡Oh, Vel! ¡¡¡Oh, Vel!!!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:713
 translate spanish sm1mv02s06_scene_66603763:
 
     # mhmes "Yes, Captain! Yesssss!"
-    mhmes "Yes, Captain! Yesssss!"
+    mhmes "¡Sí, Capitán! ¡Síííííí!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:714
 translate spanish sm1mv02s06_scene_275e2e78:
 
     # mc "Vel-!"
-    mc "Vel-!"
+    mc "¡Vel...!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:720
 translate spanish sm1mv02s06_scene_0e9bf26f:
 
     # mhmes "Oh, Captain, my Captain! I'm going-"
-    mhmes "Oh, Captain, my Captain! I'm going-"
+    mhmes "¡Oh, Capitán, mi Capitán! Me vengo..."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:726
 translate spanish sm1mv02s06_scene_3024275c:
 
     # mc "Me too! I'm going to cum!"
-    mc "Me too! I'm going to cum!"
+    mc "¡Yo también! ¡Me voy a venir!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:732
 translate spanish sm1mv02s06_scene_4a1aedc4:
 
     # mhmes "Fill me, Captain! Fill me fulllllll!"
-    mhmes "Fill me, Captain! Fill me fulllllll!"
+    mhmes "¡Lléname, Capitán! ¡Llénameeeeeeeeee!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:746
 translate spanish sm1mv02s06_scene_0a3a0497:
 
-    # mhmes "Captaaaaiiiiinnnn!"
-    mhmes "Captaaaaiiiiinnnn!"
+    # mhmes "Capitaaaannnnn!"
+    mhmes "¡Capitáaaannnnn!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:747
 translate spanish sm1mv02s06_scene_bf3673b9:
 
     # mc "Vel! Oh fuuuuuuuccck!"
-    mc "Vel! Oh fuuuuuuuccck!"
+    mc "¡Vel! ¡Maldita seaaaaa!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:753
 translate spanish sm1mv02s06_scene_971bd4b2:
 
     # mhmes "Captain?"
-    mhmes "Captain?"
+    mhmes "¿Capitán?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:755
 translate spanish sm1mv02s06_scene_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "¿Sí?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:762
 translate spanish sm1mv02s06_scene_5cab71fc:
 
     # mhmes "I need more, I need you to fuck me more!"
-    mhmes "I need more, I need you to fuck me more!"
+    mhmes "¡Necesito más, necesito que me folles más!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:765
 translate spanish sm1mv02s06_scene_65fa7e21:
 
     # mc "I'd love to, but I need to use the restroom, Vel."
-    mc "I'd love to, but I need to use the restroom, Vel."
+    mc "Me encantaría, pero necesito usar el baño, Vel."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:776
 translate spanish sm1mv02s06_watersports_7058debd:
 
     # mhmes "No!"
-    mhmes "No!"
+    mhmes "¡No!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:778
 translate spanish sm1mv02s06_watersports_d9af6597:
 
     # mc "No?"
-    mc "No?"
+    mc "¿No?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:783
 translate spanish sm1mv02s06_watersports_78936c65:
 
     # mhmes "Just pee on me! I want to feel your urine splashing all over me!"
-    mhmes "Just pee on me! I want to feel your urine splashing all over me!"
+    mhmes "¡Solo orina sobre mí! ¡Quiero sentir tu orina salpicándome por completo!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:786
 translate spanish sm1mv02s06_watersports_77db8da2:
 
     # mc "Are you sure about that, Vel?"
-    mc "Are you sure about that, Vel?"
+    mc "¿Estás segura de eso, Vel?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:789
 translate spanish sm1mv02s06_watersports_fc7917f8:
 
     # mhmes "Mmmmmmmm!"
-    mhmes "Mmmmmmmm!"
+    mhmes "¡Mmmmmmmm!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:799
 translate spanish sm1mv02s06_watersports_19a932fd:
 
     # mc "Oh God. That was so hot."
-    mc "Oh God. That was so hot."
+    mc "Dios. Eso fue tan excitante."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:800
 translate spanish sm1mv02s06_watersports_6f9ddf07:
 
     # mhmes "Oh, that feels amaaaazing, Ramses!"
-    mhmes "Oh, that feels amaaaazing, Ramses!"
+    mhmes "¡Oh, eso se siente increíble, Ramses!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:806
 translate spanish sm1mv02s06_watersports_c3ec5393:
 
     # mhmes "God, it feels... mmmmm, this feels so, so, soooo good!"
-    mhmes "God, it feels... mmmmm, this feels so, so, soooo good!"
+    mhmes "Dios, se siente... mmmmm, ¡esto se siente tan, tan, taaaan bien!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:807
 translate spanish sm1mv02s06_watersports_9c8d8331:
 
     # mhmes "Like... mmmmm..."
-    mhmes "Like... mmmmm..."
+    mhmes "Como... mmmmm..."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:808
 translate spanish sm1mv02s06_watersports_b6174385:
@@ -1034,25 +1034,25 @@ translate spanish sm1mv02s06_watersports_b6174385:
 translate spanish sm1mv02s06_watersports_24f13baf:
 
     # mhmes "It feels like... it feels like..."
-    mhmes "It feels like... it feels like..."
+    mhmes "Se siente como... se siente como..."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:815
 translate spanish sm1mv02s06_watersports_6aa5b073:
 
     # mhmes "Oh God... Oh, I feel like... mmmmmm!"
-    mhmes "Oh God... Oh, I feel like... mmmmmm!"
+    mhmes "Dios... Oh, siento que... ¡mmmmmm!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:821
 translate spanish sm1mv02s06_watersports_a2ffb3da:
 
     # mhmes "Oh God, I'm going to-"
-    mhmes "Oh God, I'm going to-"
+    mhmes "Dios, voy a..."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:835
 translate spanish sm1mv02s06_wet_319e2182:
 
     # mc "Computer, splash some water on Science Officer Vel?"
-    mc "Computer, splash some water on Science Officer Vel?"
+    mc "Computadora, ¿salpicar agua sobre la Oficial Científica Vel?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:837
 translate spanish sm1mv02s06_wet_8aab147d:
@@ -1064,19 +1064,19 @@ translate spanish sm1mv02s06_wet_8aab147d:
 translate spanish sm1mv02s06_end_628c4082:
 
     # mhmes "C... Captain?"
-    mhmes "C... Captain?"
+    mhmes "¿C... Capitán?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:860
 translate spanish sm1mv02s06_end_4cec0f4f:
 
     # mc "Vel? Are you back to your usual self?"
-    mc "Vel? Are you back to your usual self?"
+    mc "¿Vel? ¿Has vuelto a la normalidad?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:864
 translate spanish sm1mv02s06_end_0d08b23b:
 
     # sy "Captain!"
-    sy "Captain!"
+    sy "¡Capitán!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:868
 translate spanish sm1mv02s06_end_bdad02ad:
@@ -1088,167 +1088,167 @@ translate spanish sm1mv02s06_end_bdad02ad:
 translate spanish sm1mv02s06_end_1073dda9:
 
     # mhmes "Lieutenant Commander Orion."
-    mhmes "Lieutenant Commander Orion."
+    mhmes "Teniente Comandante Orion."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:880
 translate spanish sm1mv02s06_end_e7698a66:
 
     # sy "Am I... interrupting?"
-    sy "Am I... interrupting?"
+    sy "¿Estoy... interrumpiendo?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:881
 translate spanish sm1mv02s06_end_e6e4aa05:
 
     # mhmes "Just some experiments with the captain.{w} How is our new patient?"
-    mhmes "Just some experiments with the captain.{w} How is our new patient?"
+    mhmes "Solo unos experimentos con el Capitán.{w} ¿Cómo está nuestro nuevo paciente?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:884
 translate spanish sm1mv02s06_end_ed63edd4:
 
     # sy "Much improved. I have made a discovery, though, and I think it's best if we get the Captain into quarantine right away."
-    sy "Much improved. I have made a discovery, though, and I think it's best if we get the Captain into quarantine right away."
+    sy "Mucho mejor. Sin embargo, he hecho un descubrimiento, y creo que lo mejor es poner al Capitán en cuarentena de inmediato."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:887
 translate spanish sm1mv02s06_end_c2325c8d:
 
     # mhmes "Yes, I agree. It seems that whatever you came into contact with down on the surface has spread very quickly."
-    mhmes "Yes, I agree. It seems that whatever you came into contact with down on the surface has spread very quickly."
+    mhmes "Sí, estoy de acuerdo. Parece que lo que sea con lo que entraste en contacto en la superficie se ha propagado rápidamente."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:890
 translate spanish sm1mv02s06_end_66d4260c:
 
     # sy "Mmhmmm, a local flora. It becomes attached to the skin and acts as a pheromone."
-    sy "Mmhmmm, a local flora. It becomes attached to the skin and acts as a pheromone."
+    sy "Mmhmmm, una flora local. Se adhiere a la piel y actúa como una feromona."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:896
 translate spanish sm1mv02s06_end_ce3856a0:
 
     # mhmes "I've already ran some experiments on the... effectiveness of this agent. I need to get to the lab to study it more in depth."
-    mhmes "I've already ran some experiments on the... effectiveness of this agent. I need to get to the lab to study it more in depth."
+    mhmes "Ya hice algunos experimentos sobre la... efectividad de este agente. Necesito ir al laboratorio para estudiarlo más a fondo."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:897
 translate spanish sm1mv02s06_end_e809186a:
 
     # mhmes "In the meantime, can you take the Captain to his quarters and ensure he is thoroughly cleaned off?"
-    mhmes "In the meantime, can you take the Captain to his quarters and ensure he is thoroughly cleaned off?"
+    mhmes "Mientras tanto, ¿puedes llevar al Capitán a sus aposentos y asegurarte de que quede completamente limpio?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:900
 translate spanish sm1mv02s06_end_dcce1f24:
 
     # sy "Aye, aye!"
-    sy "Aye, aye!"
+    sy "¡Sí, señor!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:907
 translate spanish sm1mv02s06_end_f1fc1729:
 
     # mhmes "Very good."
-    mhmes "Very good."
+    mhmes "Muy bien."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:911
 translate spanish sm1mv02s06_end_d59e7cd8:
 
     # sy "To your quarters, Captain."
-    sy "To your quarters, Captain."
+    sy "A sus aposentos, Capitán."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:913
 translate spanish sm1mv02s06_end_0f5f5480:
 
     # mc "Whatever you say, Orion."
-    mc "Whatever you say, Orion."
+    mc "Lo que usted diga, Orion."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:940
 translate spanish sm1mv02s06_cut_f3598b86:
 
     # sy "And cut!"
-    sy "And cut!"
+    sy "¡Y corte!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:941
 translate spanish sm1mv02s06_cut_e1748d70:
 
     # sy "God, that looked hot! That was great!"
-    sy "God, that looked hot! That was great!"
+    sy "¡Dios, se veía ardiente! ¡Estuvo genial!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:943
 translate spanish sm1mv02s06_cut_d9233e91:
 
     # kv "Yeah, it looks fucking great! Damn."
-    kv "Yeah, it looks fucking great! Damn."
+    kv "Sí, se ve increíblemente bien. Maldición."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:949
 translate spanish sm1mv02s06_cut_dbeca818:
 
     # mhmes "That's good. I need to go and wash up."
-    mhmes "That's good. I need to go and wash up."
+    mhmes "Está bien. Necesito ir a lavarme."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:956
 translate spanish sm1mv02s06_cut_a883421e:
 
     # mhmes "But, this was a fantastic day. Thank you all for a good shoot!"
-    mhmes "But, this was a fantastic day. Thank you all for a good shoot!"
+    mhmes "Pero, este fue un día fantástico. ¡Gracias a todos por una buena filmación!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:960
 translate spanish sm1mv02s06_cut_fcb6bf72:
 
     # ns "Me too! This paint can get a little itchy."
-    ns "Me too! This paint can get a little itchy."
+    ns "¡Yo también! Esta pintura pica un poco."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:962
 translate spanish sm1mv02s06_cut_6bae2884:
 
     # sy "That's all good, you're wrapped too, Nari."
-    sy "That's all good, you're wrapped too, Nari."
+    sy "Todo está bien, tú también has terminado, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:965
 translate spanish sm1mv02s06_cut_83866363:
 
     # ns "Thank you, Stacy!"
-    ns "Thank you, Stacy!"
+    ns "¡Gracias, Stacy!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:972
 translate spanish sm1mv02s06_cut_504c194a:
 
     # mc "Everything looking good?"
-    mc "Everything looking good?"
+    mc "¿Todo se ve bien?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:974
 translate spanish sm1mv02s06_cut_3f8a9e94:
 
     # kv "Oh yeah, looks great. Definitely one for the reel."
-    kv "Oh yeah, looks great. Definitely one for the reel."
+    kv "Oh sí, se ve genial. Definitivamente algo para la cinta de presentación."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:977
 translate spanish sm1mv02s06_cut_e35f4d52:
 
     # mc "Good! But, I am fucking exhausted."
-    mc "Good! But, I am fucking exhausted."
+    mc "¡Bien! Pero estoy increíblemente exhausto."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:980
 translate spanish sm1mv02s06_cut_a1fcc79a:
 
     # mc "I'm glad that it looks good though!"
-    mc "I'm glad that it looks good though!"
+    mc "¡Aunque me alegra que se vea bien!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:982
 translate spanish sm1mv02s06_cut_10b8073b:
 
     # sy "Me too!"
-    sy "Me too!"
+    sy "¡A mí también me alegra!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:986
 translate spanish sm1mv02s06_cut_72c8ded8:
 
     # mc "I can't wait for the next one!"
-    mc "I can't wait for the next one!"
+    mc "¡No puedo esperar para la próxima!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:988
 translate spanish sm1mv02s06_cut_ba2a327a:
 
     # kv "I'm looking forward to the next one!"
-    kv "I'm looking forward to the next one!"
+    kv "¡Espero con ansias la próxima!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:991
 translate spanish sm1mv02s06_cut_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "Yo también."
 

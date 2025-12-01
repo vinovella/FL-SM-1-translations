@@ -428,19 +428,13 @@ translate spanish strings:
     old "Done editing the Sci-Fi Movie"
     new "Edición terminada de la película de ciencia ficción"
 
-translate spanish strings:
-
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk with Stacy about her job search"
     new "Hablar con Stacy sobre su búsqueda de trabajo"
 
-translate spanish strings:
-
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Let's go to the Amusement Park"
     new "Vamos al parque de diversiones"
-
-translate spanish strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Prepare for the party"
@@ -466,8 +460,6 @@ translate spanish strings:
     old "Ask about the play"
     new "Preguntar por la obra"
 
-translate spanish strings:
-
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Photography-101 for $60"
     new "Comprar Fotografía 101 por $60"
@@ -479,25 +471,24 @@ translate spanish strings:
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase An Actor Prepares for $60"
     new "Comprar Un Actor se Prepara por $60"
-translate spanish strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Live Chat with Stacy"
-    new "Live Chat with Stacy"
+    new "Chat en vivo con Stacy"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask Debbie to the movies"
-    new "Ask Debbie to the movies"
+    new "Invitar a Debbie al cine"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Let's go to sleep"
-    new "Let's go to sleep"
+    new "Vamos a dormir"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Have some fun in the toilet"
-    new "Have some fun in the toilet"
+    new "Divertirse en el baño"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Good morning!"
-    new "Good morning!"
+    new "¡Buenos días!"
 

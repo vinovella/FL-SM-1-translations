@@ -1682,23 +1682,23 @@ translate spanish strings:
 translate spanish sm1cs_am004_ag_appears_01e66815:
 
     # mcon "And on bass we have April the Merciless!"
-    mcon "And on bass we have April the Merciless!"
+    mcon "¡Y en el bajo tenemos a Abril la Despiadada!"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:799
 translate spanish sm1cs_am004_sex_ce4eb6af:
 
     # mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
-    mc "Listen, I know your whole thing is just being a bitch to me all the time, but I'm not trying to get my dick bit off."
+    mc "Escucha, sé que tu rollo es ser una desgraciada conmigo todo el tiempo, pero no estoy buscando que me muerdan la polla."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:987
 translate spanish sm1cs_am004_after_spank_94b939c6:
 
     # mc "Come on. You know the {b}word{/b} I'm waiting for."
-    mc "Come on. You know the {b}word{/b} I'm waiting for."
+    mc "Vamos. Sabes perfectamente qué {b}palabra{/b} quiero escuchar."
 
 translate spanish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am004.rpy:37
     old "Later that evening\nAt Guns n' Rosette"
-    new "Later that evening\nAt Guns n' Rosette"
+    new "Más tarde esa noche\nEn Guns n' Rosette"
 

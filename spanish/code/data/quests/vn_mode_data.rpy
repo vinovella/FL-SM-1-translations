@@ -508,231 +508,223 @@ translate spanish strings:
     old "Renovation help from Debbie"
     new "Ayuda a la renovación de Debbie"
 
-translate spanish strings:
-
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Text Kanya"
-    new "Text Kanya"
+    new "Enviar mensaje a Kanya"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Film the next movie"
-    new "Film the next movie"
+    new "Filmar la siguiente película"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Help Stacy with editing the movie"
-    new "Help Stacy with editing the movie"
+    new "Ayudar a Stacy con la edición de la película"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Check the status of the movie editing"
-    new "Check the status of the movie editing"
+    new "Revisar el estado de la edición de la película"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Check out the edited movie"
-    new "Check out the edited movie"
+    new "Ver la película editada"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Answer Min's text"
-    new "Answer Min's text"
+    new "Responder el mensaje de Min"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Meet Claire at the office kitchen"
-    new "Meet Claire at the office kitchen"
+    new "Encontrarse con Claire en la cocina de la oficina"
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Visit Taisia in her room"
-    new "Visit Taisia in her room"
+    new "Visitar a Taisia en su habitación"
 
 translate spanish strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about making a new move"
-    new "Talk about making a new move"
+    new "Hablar sobre hacer un nuevo movimiento"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about the movie options"
-    new "Talk about the movie options"
+    new "Hablar sobre las opciones de película"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Choose which movie to make"
-    new "Choose which movie to make"
+    new "Elegir qué película hacer"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Stacy launched the S&M Website"
-    new "Stacy launched the S&M Website"
+    new "Stacy lanzó el sitio web de S&M"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Answer Min's text again"
-    new "Answer Min's text again"
+    new "Responder otra vez el mensaje de Min"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Help Min to move in"
-    new "Help Min to move in"
+    new "Ayudar a Min a mudarse"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Carnival date with Lyssa"
-    new "Carnival date with Lyssa"
+    new "Cita en el carnaval con Lyssa"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Show the renovated studio to Lyssa"
-    new "Show the renovated studio to Lyssa"
+    new "Mostrar el estudio renovado a Lyssa"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Borrow Stacy's laptop"
-    new "Borrow Stacy's laptop"
+    new "Pedir prestado el portátil de Stacy"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Visit museum with Melony"
-    new "Visit museum with Melony"
+    new "Visitar el museo con Melony"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Go bouldering with Melony"
-    new "Go bouldering with Melony"
+    new "Ir a escalar con Melony"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Problem at the IT Office"
-    new "Problem at the IT Office"
+    new "Problema en la oficina de TI"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Go jogging with April"
-    new "Go jogging with April"
+    new "Salir a correr con Abril"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Get back with Claire"
-    new "Get back with Claire"
+    new "Volver con Claire"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Continue what you had with Claire"
-    new "Continue what you had with Claire"
+    new "Continuar lo que tenías con Claire"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Nari wants to talk with you"
-    new "Nari wants to talk with you"
+    new "Nari quiere hablar contigo"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Ask Nelson about sponsoring theater"
-    new "Ask Nelson about sponsoring theater"
+    new "Preguntar a Nelson sobre patrocinar el teatro"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about the Wurst Delivery Sponsorship"
-    new "Talk about the Wurst Delivery Sponsorship"
+    new "Hablar sobre el patrocinio de Wurst Delivery"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk to Stacy about the Pirates movie"
-    new "Talk to Stacy about the Pirates movie"
+    new "Hablar con Stacy sobre la película de Piratas"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Buy costumes for the movie"
-    new "Buy costumes for the movie"
+    new "Comprar disfraces para la película"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about recruiting the actress"
-    new "Talk about recruiting the actress"
+    new "Hablar sobre reclutar a la actriz"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Recruit Taisia as the actress"
-    new "Recruit Taisia as the actress"
+    new "Reclutar a Taisia como actriz"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Start filming the next scene"
-    new "Start filming the next scene"
+    new "Empezar a filmar la siguiente escena"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Travel to the location for shooting"
-    new "Travel to the location for shooting"
+    new "Viajar al lugar de rodaje"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Finished editing the movie"
-    new "Finished editing the movie"
+    new "Edición de la película finalizada"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk to Stacy about the Sci-Fi Movie"
-    new "Talk to Stacy about the Sci-Fi Movie"
+    new "Hablar con Stacy sobre la película de ciencia ficción"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Recruit Min for Sci-Fi Movie"
-    new "Recruit Min for Sci-Fi Movie"
+    new "Reclutar a Min para la película de ciencia ficción"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Recruit Lyssa for Sci-Fi Movie"
-    new "Recruit Lyssa for Sci-Fi Movie"
+    new "Reclutar a Lyssa para la película de ciencia ficción"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk to Stacy about Sci-Fi Movie props"
-    new "Talk to Stacy about Sci-Fi Movie props"
+    new "Hablar con Stacy sobre los accesorios de la película de ciencia ficción"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk to Stacy about building the set"
-    new "Talk to Stacy about building the set"
+    new "Hablar con Stacy sobre construir el set"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Build the rest of the set"
-    new "Build the rest of the set"
+    new "Construir el resto del set"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Start filming!"
-    new "Start filming!"
+    new "¡Comenzar a filmar!"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Film the second scene"
-    new "Film the second scene"
+    new "Filmar la segunda escena"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Plan a Spa day"
-    new "Plan a Spa day"
+    new "Planear un día de spa"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Enjoy a Spa day"
-    new "Enjoy a Spa day"
+    new "Disfrutar un día de spa"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about big scenes in the Sci-Fi Movie"
-    new "Talk about big scenes in the Sci-Fi Movie"
+    new "Hablar sobre las grandes escenas de la película de ciencia ficción"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Film the third scene"
-    new "Film the third scene"
+    new "Filmar la tercera escena"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Film the last scene"
-    new "Film the last scene"
+    new "Filmar la última escena"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Watch the final cut"
-    new "Watch the final cut"
-
-translate spanish strings:
+    new "Ver el corte final"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Meet an old friend"
-    new "Meet an old friend"
+    new "Encontrarse con una vieja amistad"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Surprise Nari at night"
-    new "Surprise Nari at night"
-
-translate spanish strings:
+    new "Sorprender a Nari por la noche"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Denise's, Kellie's, and Veronica's storylines"
-    new "Progress Denise's, Kellie's, and Veronica's storylines"
+    new "Avanzar las historias de Denise, Kellie y Verónica"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress the Theater and Taisia's storylines"
-    new "Progress the Theater and Taisia's storylines"
+    new "Avanzar las historias del teatro y de Taisia"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Lyssa's storyline and the Main Story"
-    new "Progress Lyssa's storyline and the Main Story"
+    new "Avanzar la historia de Lyssa y la historia principal"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Anna's and Nari's storylines"
-    new "Progress Anna's and Nari's storylines"
+    new "Avanzar las historias de Anna y Nari"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
-    new "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
-
-translate spanish strings:
+    new "Avanzar las historias de Denise, Kellie, Taisia y Verónica"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk big business"

@@ -56,15 +56,15 @@ translate spanish sm1cs_am005b_9163e74f:
 translate spanish sm1cs_am005b_658994d8:
 
     # mc "Never mind."
-    mc "Never mind."
+    mc "No importa."
 
 translate spanish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
     old "Try out things with April"
-    new "Try out things with April"
+    new "Intentar cosas con Abril"
 
     # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
     old "Never mind"
-    new "Never mind"
+    new "No importa"
 

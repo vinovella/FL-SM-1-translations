@@ -1670,35 +1670,29 @@ translate spanish strings:
 translate spanish sm1cs_mas003_third_delivery_7eec6586:
 
     # ms "Never mind."
-    ms "Never mind."
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
-translate spanish sm1cs_mas003_third_delivery_9ed10f06:
-
-    # ms "Show's over, ladies."
-    ms "Show's over, ladies."
-
-translate spanish strings:
-
-    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "Wurst Delivery tip"
-    new "Wurst Delivery tip"
-
-    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "You got a $[amount] as your cut of the tip."
-    new "You got a $[amount] as your cut of the tip."
+    ms "No importa."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:710
 translate spanish sm1cs_mas003_third_delivery_fedc52e9:
 
     # ka "*sniff* They're the best."
-    ka "*sniff* They're the best."
+    ka "*olfatea* Son los mejores."
+
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
+translate spanish sm1cs_mas003_third_delivery_9ed10f06:
+
+    # ms "Show's over, ladies."
+    ms "Se acabó el espectáculo, chicas."
 
 translate spanish strings:
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
-    old "You got a $[amount] as your cut of the tip"
-    new "You got a $[amount] as your cut of the tip"
+    old "Wurst Delivery tip"
+    new "Propina de Wurst Delivery"
+
+    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
+    old "You got a $[amount] as your cut of the tip."
+    new "Recibiste $[amount] como parte de la propina."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:334
 translate spanish sm1cs_mas003_second_delivery_e42e9cc6:
@@ -1723,4 +1717,10 @@ translate spanish sm1cs_mas003_third_delivery_a9e1c1c0:
 
     # "Kennedy, Lauren and Olivia" "*cheer wildly*"
     "Kennedy, Lauren and Olivia" "*cheer wildly*"
+
+translate spanish strings:
+
+    # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
+    old "You got a $[amount] as your cut of the tip"
+    new "You got a $[amount] as your cut of the tip"
 

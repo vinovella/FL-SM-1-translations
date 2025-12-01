@@ -50,7 +50,7 @@ translate spanish q_inter_km_3_a676ac5d:
 translate spanish q_inter_km_3_78a939a1:
 
     # km "*clears throat* Young adult, actually. And if you'd ever read them, you'd know they're fantastic, and the themes in the book grew as they came out."
-    km "*aclara la garganta* De hecho son para adultos jóvenes. Y si alguna vez los hubieras leído, sabrías que son fantásticos, y los temas del libro fueron creciendo a medida que salían."
+    km "*carraspea* De hecho son para adultos jóvenes. Y si alguna vez los hubieras leído, sabrías que son fantásticos, y los temas del libro fueron creciendo a medida que salían."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:56
 translate spanish q_inter_km_3_826b5892:
@@ -164,47 +164,47 @@ translate spanish q_inter_km_11_1342fee4:
 translate spanish q_inter_km_12_e774a14f:
 
     # km "So you're really one of us now."
-    km "So you're really one of us now."
+    km "Así que ahora eres realmente uno de nosotros."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:132
 translate spanish q_inter_km_12_92e25b2d:
 
     # mc "Looks that way."
-    mc "Looks that way."
+    mc "Eso parece."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:135
 translate spanish q_inter_km_12_73f8b446:
 
     # km "It is good that you didn't give up, [mcname]."
-    km "It is good that you didn't give up, [mcname]."
+    km "Es bueno que no te rindieras, [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:136
 translate spanish q_inter_km_12_f721a89e:
 
     # km "Persistence is an important trait for an actor."
-    km "Persistence is an important trait for an actor."
+    km "La perseverancia es un rasgo importante para un actor."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:141
 translate spanish q_inter_km_13_cfdaa95a:
 
     # km "I really hope that I don't end up competing with you for roles."
-    km "I really hope that I don't end up competing with you for roles."
+    km "Realmente espero no acabar compitiendo contigo por los papeles."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:142
 translate spanish q_inter_km_13_496871f4:
 
     # mc "I am sure there is room enough for both of us, Kellie."
-    mc "I am sure there is room enough for both of us, Kellie."
+    mc "Estoy seguro de que hay espacio suficiente para ambos, Kellie."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:145
 translate spanish q_inter_km_13_46f2a43c:
 
     # km "I'm not so sure about that. I mean, Veronica was already getting a lot of the good roles."
-    km "I'm not so sure about that. I mean, Veronica was already getting a lot of the good roles."
+    km "No estoy tan segura de eso. Es decir, Verónica ya estaba consiguiendo muchos de los buenos papeles."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:146
 translate spanish q_inter_km_13_b15644e2:
 
     # km "But... the best I can do is just keep improving my craft."
-    km "But... the best I can do is just keep improving my craft."
+    km "Pero... lo mejor que puedo hacer es seguir mejorando mi arte."
 

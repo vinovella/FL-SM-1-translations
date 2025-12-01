@@ -1238,17 +1238,17 @@ translate spanish sm1cs_sy002_dc_talk_074ea2e5:
 translate spanish sm1cs_sy002_77589fcc:
 
     # mc "It sounds like you've been planning this idea out for a while, Stacy."
-    mc "It sounds like you've been planning this idea out for a while, Stacy."
+    mc "Parece que has estado planeando esta idea desde hace tiempo, Stacy."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:267
 translate spanish sm1cs_sy002_2_221a6943:
 
     # sy "But never mind that! Let's get into the acting!"
-    sy "But never mind that! Let's get into the acting!"
+    sy "¡Pero no importa eso! ¡Pasemos a la actuación!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:587
 translate spanish sm1cs_sy002_dc_talk_4558d886:
 
     # mc "{size=*0.7}She looks like the park cop.{/size}"
-    mc "{size=*0.7}She looks like the park cop.{/size}"
+    mc "{size=*0.7}Se parece a la policía del parque.{/size}"
 

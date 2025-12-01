@@ -1104,11 +1104,11 @@ translate spanish strings:
 translate spanish sm1cs_bg001_01872126:
 
     # "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
-    "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
+    "Modelo BDSM" "Oh, eso es... un buen punto. Eh, puedes llamarme...{w} Amore."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:167
 translate spanish sm1cs_bg001_f21ffe59:
 
     # bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
-    bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
+    bg "Bueno, digamos que después de una noche movida salí y compré mi primer atuendo. Había estado ahorrando para... no sé. Para lo que la vida te dice que debes conseguir. Una hipoteca, un préstamo o pagos de deuda estudiantil."
 

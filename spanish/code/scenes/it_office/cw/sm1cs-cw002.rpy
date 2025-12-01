@@ -230,15 +230,15 @@ translate spanish sm1cs_cw002_8f39dca1:
 translate spanish sm1cs_cw002_e0bf352d:
 
     # mc "Of course. I won't let you down, Ms. Watts."
-    mc "Of course. I won't let you down, Ms. Watts."
+    mc "Por supuesto. No la defraudaré, señora Watts."
 
 translate spanish strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
     old "I like it"
-    new "I like it"
+    new "Me gusta"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002.rpy:39
     old "I don't like it"
-    new "I don't like it"
+    new "No me gusta"
 

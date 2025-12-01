@@ -468,5 +468,5 @@ translate spanish strings:
 translate spanish sm1cs_cw003_c8642c96:
 
     # mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
-    mc "Her mom is so relieved, saying she's glad Claire won't have to use that \"sex\" app anymore."
+    mc "Su madre está tan aliviada, dice que se alegra de que Claire ya no tenga que usar esa aplicación de \"sexo\"."
 

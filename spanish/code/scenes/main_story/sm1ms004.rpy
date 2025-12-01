@@ -584,17 +584,17 @@ translate spanish sm1ms004_fcf11b81:
 translate spanish sm1ms004_6ca11396:
 
     # arj "Never mind. It doesn't matter."
-    arj "Never mind. It doesn't matter."
+    arj "No importa. Da lo mismo."
 
 # game/code/scenes/main_story/sm1ms004.rpy:171
 translate spanish sm1ms004_b80a46ec:
 
     # mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
-    mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
+    mc "Quizás quieras suavizar eso si se lo dices a Stacy. Ella es muy optimista con todo esto y no quiero que pierda ese ánimo."
 
 # game/code/scenes/main_story/sm1ms004.rpy:266
 translate spanish sm1ms004_738d94cc:
 
     # mct "Maybe this isn't completely fucked after all."
-    mct "Maybe this isn't completely fucked after all."
+    mct "Quizás esto no esté completamente jodido después de todo."
 

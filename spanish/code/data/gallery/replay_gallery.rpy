@@ -235,33 +235,32 @@
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Filming of Sci-Fi Movie"
     new "Rodaje de la película de ciencia ficción"
-translate spanish strings:
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Mask party"
-    new "Mask party"
+    new "Fiesta de máscaras"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Convincing AmRose"
-    new "Convincing AmRose"
+    new "Convenciendo a AmRose"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Date with Debbie"
-    new "Date with Debbie"
+    new "Cita con Debbie"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Settling score with Maya"
-    new "Settling score with Maya"
+    new "Ajustando cuentas con Maya"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Helping Min relief stress"
-    new "Helping Min relief stress"
+    new "Ayudando a Min a aliviar el estrés"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Date with April"
-    new "Date with April"
+    new "Cita con April"
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Practicing with Denise"
-    new "Practicing with Denise"
+    new "Practicando con Denise"
 

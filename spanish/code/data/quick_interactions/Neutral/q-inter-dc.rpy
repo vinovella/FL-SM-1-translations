@@ -188,101 +188,101 @@ translate spanish q_inter_dc_12_757c5cb4:
 translate spanish q_inter_dc_12_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "¿Sí?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:138
 translate spanish q_inter_dc_12_b7912968:
 
     # dc "Have you heard about the bathroom in the park?"
-    dc "Have you heard about the bathroom in the park?"
+    dc "¿Has oído hablar del baño del parque?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:139
 translate spanish q_inter_dc_12_9e3589d8:
 
     # mc "Uhm... what about it?"
-    mc "Uhm... what about it?"
+    mc "Ejem... ¿qué pasa con él?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:142
 translate spanish q_inter_dc_12_6a5c9cc7:
 
     # dc "I think one day we'll have to go and check it out."
-    dc "I think one day we'll have to go and check it out."
+    dc "Creo que un día tendremos que ir a echarle un vistazo."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:143
 translate spanish q_inter_dc_12_db62a37a:
 
     # dc "You know. For police work."
-    dc "You know. For police work."
+    dc "Ya sabes. Por trabajo policial."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:148
 translate spanish q_inter_dc_13_4af35993:
 
     # mc "Officer Callahan!"
-    mc "Officer Callahan!"
+    mc "¡Oficial Callahan!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:149
 translate spanish q_inter_dc_13_3c0c267e:
 
     # dc "Yes?"
-    dc "Yes?"
+    dc "¿Sí?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:150
 translate spanish q_inter_dc_13_1f796c3d:
 
     # mc "You know, I've always loved a woman in uniform."
-    mc "You know, I've always loved a woman in uniform."
+    mc "Sabes, siempre me ha gustado una mujer en uniforme."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:153
 translate spanish q_inter_dc_13_f0a7cc79:
 
     # dc "[mcname]! Stop it, I'm at work!"
-    dc "[mcname]! Stop it, I'm at work!"
+    dc "¡[mcname]! ¡Detente, estoy en el trabajo!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:154
 translate spanish q_inter_dc_13_7a05d0ac:
 
     # mc "How can I, when you look this good?"
-    mc "How can I, when you look this good?"
+    mc "¿Cómo puedo, si te ves tan bien?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:155
 translate spanish q_inter_dc_13_3dc35730:
 
     # dc "Oh, you!"
-    dc "Oh, you!"
+    dc "¡Ay, tú!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:160
 translate spanish q_inter_dc_14_21c04b3a:
 
     # dc "You know, [mcname]..."
-    dc "You know, [mcname]..."
+    dc "Sabes, [mcname]..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:161
 translate spanish q_inter_dc_14_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "¿Sí?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:162
 translate spanish q_inter_dc_14_7e89b932:
 
     # dc "I wouldn't mind staying over some night... when I don't have to work early in the morning."
-    dc "I wouldn't mind staying over some night... when I don't have to work early in the morning."
+    dc "No me importaría quedarme una noche... cuando no tenga que trabajar temprano por la mañana."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:165
 translate spanish q_inter_dc_14_991eb26a:
 
     # dc "As long as that's not too presumptuous!"
-    dc "As long as that's not too presumptuous!"
+    dc "¡Siempre y cuando no sea demasiado presuntuoso!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:166
 translate spanish q_inter_dc_14_d09610d2:
 
     # mc "I would love that, Debbie."
-    mc "I would love that, Debbie."
+    mc "Me encantaría, Debbie."
 
 # game/code/data/quick_interactions/Neutral/q-inter-dc.rpy:167
 translate spanish q_inter_dc_14_9ddb8cfd:
 
     # dc "I was really hoping you'd say that."
-    dc "I was really hoping you'd say that."
+    dc "Realmente esperaba que dijeras eso."
 

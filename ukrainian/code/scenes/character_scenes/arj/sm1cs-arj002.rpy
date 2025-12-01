@@ -2037,8 +2037,8 @@ translate ukrainian strings:
     new "The jig is up, my sweet red flower"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:963
-translate ukrainian sm1cs_arj002_e937025f:
+translate ukrainian sm1cs_arj002_f4e62c7c:
 
-    # mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
-    mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
+    # mct "♪ Reunited and it feels so good. ♪"
+    mct "♪ Reunited and it feels so good. ♪"
 

@@ -2025,8 +2025,8 @@ translate chinese strings:
     new "恐怕你露馅了，我甜美的红花"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:963
-translate chinese sm1cs_arj002_e937025f:
+translate chinese sm1cs_arj002_f4e62c7c:
 
-    # mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
-    mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
+    # mct "♪ Reunited and it feels so good. ♪"
+    mct "♪ Reunited and it feels so good. ♪"
 

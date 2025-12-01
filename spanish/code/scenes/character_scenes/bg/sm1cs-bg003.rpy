@@ -1944,17 +1944,17 @@ translate spanish strings:
 translate spanish sm1cs_bg003_bg_appears_ad41354f:
 
     # mc "Is it looking good?"
-    mc "Is it looking good?"
+    mc "¿Se ve bien?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:478
 translate spanish sm1cs_bg003_whipping_ad41354f:
 
     # mc "Is it looking good?"
-    mc "Is it looking good?"
+    mc "¿Se ve bien?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:610
 translate spanish sm1cs_bg003_whipping_afad21c7:
 
     # mc "As long as you're comfortable with this."
-    mc "As long as you're comfortable with this."
+    mc "Mientras tú estés cómoda con esto."
 

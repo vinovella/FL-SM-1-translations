@@ -1300,7 +1300,7 @@ translate spanish strings:
 translate spanish sm1ms020_0046f9d0:
 
     # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
-    my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
+    my "Me encargo de gestionar las relaciones entre los inversionistas y la galería, y de buscar nuevos artistas para exponer..."
 
 # game/code/scenes/main_story/sm1ms020.rpy:110
 translate spanish sm1ms020_ef441d96:

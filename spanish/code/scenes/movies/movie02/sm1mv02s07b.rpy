@@ -931,7 +931,9 @@ translate spanish sm1mv02s07b_817806a6:
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:555
 translate spanish sm1mv02s07b_22e4a5e2:
     # ns "*giggles* It will be like a Nari sandwich."
-    ns " *risitas* Será como un sándwich de Nari."# game/code/scenes/movies/movie02/sm1mv02s07b.rpy:585
+    ns " *risitas* Será como un sándwich de Nari."
+
+# game/code/scenes/movies/movie02/sm1mv02s07b.rpy:585
 translate spanish sm1mv02s07b_79bbd417:
 
     # ns "Mrrrnnnggg! Slllrrrrp! Gllllck!"

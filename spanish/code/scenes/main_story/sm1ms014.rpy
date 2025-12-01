@@ -1062,5 +1062,5 @@ translate spanish strings:
 translate spanish sm1ms014_4834ec4b:
 
     # sy "Uhm, yeah... no internet nudes of me..."
-    sy "Uhm, yeah... no internet nudes of me..."
+    sy "Eh, sí... no hay fotos mías desnuda en internet..."
 

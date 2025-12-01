@@ -22,7 +22,7 @@ translate spanish strings:
 
     # game/code/renpy/screens/screens.rpy:338
     old "Naming save file:"
-    new "Nombrar archivo de guardado:"
+    new "Asignar nombre al archivo de guardado:"
 
     # game/code/renpy/screens/screens.rpy:339
     old "Enabled"
@@ -194,7 +194,7 @@ translate spanish strings:
 
     # game/code/renpy/screens/screens.rpy:844
     old "Mouse Wheel Down"
-    new "Rueda del ratón hacia abajo"
+    new "Rueda del mouse hacia abajo"
 
     # game/code/renpy/screens/screens.rpy:850
     old "Right Trigger\nA/Bottom Button"
@@ -350,7 +350,7 @@ translate spanish strings:
 
     # game/code/renpy/screens/screens.rpy:733
     old "Analytics :"
-    new "Analíticas :"
+    new "Estadísticas :"
 
     # game/code/renpy/screens/screens.rpy:742
     old "Quick Menu Buttons :"
@@ -461,16 +461,17 @@ translate spanish strings:
     new "CRÉDITOS DE CORRECCIÓN"
 
     # game/code/renpy/screens/screens.rpy:1065
-    old "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
-    new "Agradecimientos especiales a nuestro corrector: : GrubbJunk (Discord: grubbjunker)"
+    old "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
+    new "Agradecimientos especiales a nuestro corrector: .grubb (Discord: grubbjunker)"
 
     # game/code/renpy/screens/screens.rpy:1069
     old "ICON CREDITS"
-    new "CRÉDITOS DE ICONOS"
+    new "CRÉDITOS DE ÍCONOS"
 
     # game/code/renpy/screens/screens.rpy:1070
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
     new "Los íconos del menú provienen de {a=https://feathericons.com/}Feather{/a}, una hermosa colección creada por @colebemis y licenciada bajo {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT{/a}."
+
 translate spanish strings:
 
     # game/code/renpy/screens/screens.rpy:447
@@ -484,4 +485,8 @@ translate spanish strings:
     # game/code/renpy/screens/screens.rpy:1162
     old "FRENCH TRANSLATION"
     new "FRENCH TRANSLATION"
+
+    # game/code/renpy/screens/screens.rpy:1194
+    old "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
+    new "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
 

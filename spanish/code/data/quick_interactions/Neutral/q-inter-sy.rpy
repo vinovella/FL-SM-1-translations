@@ -14,7 +14,7 @@ translate spanish q_inter_sy_2_9da606b8:
 translate spanish q_inter_sy_3_c1c45700:
 
     # sy "*blows raspberry* Oh hey, [mcname]. Just waiting on a new download."
-    sy "*sopla frambuesa* Oh Hey, [mcname]. Solo esperando una nueva descarga."
+    sy "*hace un sonido de burla* ¡Oh, hola, [mcname]! Solo estoy esperando una nueva descarga."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:62
 translate spanish q_inter_sy_4_823e6606:
@@ -392,25 +392,25 @@ translate spanish q_inter_sy_32_3359e9ff:
 translate spanish q_inter_sy_33_d8c59b20:
 
     # sy "Our second film got ordered. It's really happening for us."
-    sy "Our second film got ordered. It's really happening for us."
+    sy "Nos encargaron nuestra segunda película. ¡De verdad está pasando para nosotros."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:312
 translate spanish q_inter_sy_33_71e206da:
 
     # mc "Yeah. I'm excited to play with you as a naughty farmer's daughter."
-    mc "Yeah. I'm excited to play with you as a naughty farmer's daughter."
+    mc "Sí. Estoy emocionado de actuar contigo como la traviesa hija del granjero."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:315
 translate spanish q_inter_sy_33_aab31592:
 
     # sy "We should have subverted the expectation, and made the story about the farmer's son losing his anal virginity."
-    sy "We should have subverted the expectation, and made the story about the farmer's son losing his anal virginity."
+    sy "Deberíamos haber subvertido las expectativas, y haber hecho la historia sobre el hijo del granjero perdiendo su virginidad anal."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:316
 translate spanish q_inter_sy_33_94821369:
 
     # mc "Yeah so it would still be me fucking you in the ass though."
-    mc "Yeah so it would still be me fucking you in the ass though."
+    mc "Sí, pero aun así sería yo follándote por el culo."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:319
 translate spanish q_inter_sy_33_5c2c7bcf:
@@ -422,7 +422,7 @@ translate spanish q_inter_sy_33_5c2c7bcf:
 translate spanish q_inter_sy_33_3c30f8a5:
 
     # mc "Right? I'd still be in control?"
-    mc "Right? I'd still be in control?"
+    mc "¿Verdad? ¿Yo seguiría teniendo el control?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:321
 translate spanish q_inter_sy_33_5c2c7bcf_1:
@@ -434,281 +434,281 @@ translate spanish q_inter_sy_33_5c2c7bcf_1:
 translate spanish q_inter_sy_33_4e13fbc5:
 
     # mc "I'm scaroused."
-    mc "I'm scaroused."
+    mc "Me asusta, pero me excita."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:327
 translate spanish q_inter_sy_34_c72d9db5:
 
     # sy "Make sure that you don't forget about our second film, [mcname]."
-    sy "Make sure that you don't forget about our second film, [mcname]."
+    sy "Asegúrate de no olvidarte de nuestra segunda película, [mcname]."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:328
 translate spanish q_inter_sy_34_742c8716:
 
     # mc "I'm not."
-    mc "I'm not."
+    mc "No lo haré."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:331
 translate spanish q_inter_sy_34_505e7c3d:
 
     # sy "We'll have to find some time to film it."
-    sy "We'll have to find some time to film it."
+    sy "Tendremos que encontrar tiempo para filmarla."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:332
 translate spanish q_inter_sy_34_e6078d57:
 
     # sy "Oh and we need to ask Kanya over."
-    sy "Oh and we need to ask Kanya over."
+    sy "Ah, y tenemos que invitar a Kanya a venir."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:333
 translate spanish q_inter_sy_34_dc16ebcd:
 
     # mc "Got it."
-    mc "Got it."
+    mc "Entendido."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:338
 translate spanish q_inter_sy_35_8ae6b8dc:
 
     # sy "Can you believe it, [mcname]?"
-    sy "Can you believe it, [mcname]?"
+    sy "¿Puedes creerlo, [mcname]?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:339
 translate spanish q_inter_sy_35_0dc643e7:
 
     # mc "Believe what?"
-    mc "Believe what?"
+    mc "¿Creer qué?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:342
 translate spanish q_inter_sy_35_a51acffd:
 
     # sy "We run a porn studio now!"
-    sy "We run a porn studio now!"
+    sy "¡Ahora dirigimos un estudio de porno!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:343
 translate spanish q_inter_sy_35_1a51579b:
 
     # mc "Yeah, we do!"
-    mc "Yeah, we do!"
+    mc "¡Sí, lo hacemos!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:346
 translate spanish q_inter_sy_35_95d62022:
 
     # sy "I just can't believe it!"
-    sy "I just can't believe it!"
+    sy "¡Simplemente no puedo creerlo!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:351
 translate spanish q_inter_sy_36_d3179d59:
 
     # sy "How do you like living with Nari?"
-    sy "How do you like living with Nari?"
+    sy "¿Qué tal te parece vivir con Nari?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:352
 translate spanish q_inter_sy_36_f2b84ff5:
 
     # mc "She's quiet, but bubbly. Weird mix."
-    mc "She's quiet, but bubbly. Weird mix."
+    mc "Es callada, pero alegre. Una mezcla extraña."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:353
 translate spanish q_inter_sy_36_f70fbbc5:
 
     # mc "But, she is a delight to have around!"
-    mc "But, she is a delight to have around!"
+    mc "¡Pero es un placer tenerla cerca!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:356
 translate spanish q_inter_sy_36_46726dcd:
 
     # sy "She is! She's absolutely adorable."
-    sy "She is! She's absolutely adorable."
+    sy "¡Lo es! Es absolutamente adorable."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:357
 translate spanish q_inter_sy_36_92c597a1:
 
     # sy "I'm super happy she moved in with us."
-    sy "I'm super happy she moved in with us."
+    sy "Estoy súper feliz de que se haya mudado con nosotros."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:358
 translate spanish q_inter_sy_36_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "Yo también."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:363
 translate spanish q_inter_sy_37_7a1c5ceb:
 
     # sy "What do you think of Taisia living here?"
-    sy "What do you think of Taisia living here?"
+    sy "¿Qué piensas de que Taisia viva aquí?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:364
 translate spanish q_inter_sy_37_4ae4015c:
 
     # mc "I think it's great."
-    mc "I think it's great."
+    mc "Creo que es genial."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:367
 translate spanish q_inter_sy_37_f77935f1:
 
     # sy "Good. That was the right answer."
-    sy "Good. That was the right answer."
+    sy "Bien. Esa era la respuesta correcta."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:368
 translate spanish q_inter_sy_37_4d1c76b0:
 
     # mc "I'm guessing you like that she's here too?"
-    mc "I'm guessing you like that she's here too?"
+    mc "¿Supongo que a ti también te gusta que esté aquí?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:371
 translate spanish q_inter_sy_37_17ee276e:
 
     # sy "Uh huh! She's bad ass, super hot, and you know what the best part is?"
-    sy "Uh huh! She's bad ass, super hot, and you know what the best part is?"
+    sy "¡Ajá! Es una chica ruda, súper sexy, ¿y sabes qué es lo mejor?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:372
 translate spanish q_inter_sy_37_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "¿Qué?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:375
 translate spanish q_inter_sy_37_3a12d63d:
 
     # sy "Clown pussy!"
-    sy "Clown pussy!"
+    sy "¡Coño de payaso!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:376
 translate spanish q_inter_sy_37_6b2595e6:
 
     # mc "Jesus Christ..."
-    mc "Jesus Christ..."
+    mc "Dios mío..."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:381
 translate spanish q_inter_sy_38_0d410548:
 
     # sy "You know, the studio is perfect for making small films."
-    sy "You know, the studio is perfect for making small films."
+    sy "Sabes, el estudio es perfecto para hacer películas pequeñas."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:382
 translate spanish q_inter_sy_38_fcf340b6:
 
     # mc "I agree."
-    mc "I agree."
+    mc "Estoy de acuerdo."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:385
 translate spanish q_inter_sy_38_14d0a4d4:
 
     # sy "But if we want to make bigger stuff, we might need to get something a bt more... open."
-    sy "But if we want to make bigger stuff, we might need to get something a bt more... open."
+    sy "Pero si queremos hacer cosas más grandes, quizás tengamos que conseguir algo un poco más... abierto."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:386
 translate spanish q_inter_sy_38_e4297727:
 
     # mc "Already planning the next blockbuster?"
-    mc "Already planning the next blockbuster?"
+    mc "¿Ya estás planeando el próximo éxito de taquilla?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:387
 translate spanish q_inter_sy_38_906dafd5:
 
     # sy "Always!"
-    sy "Always!"
+    sy "¡Siempre!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:392
 translate spanish q_inter_sy_39_27beff61:
 
     # sy "[mcname], you do know there are more empty rooms here, right?"
-    sy "[mcname], you do know there are more empty rooms here, right?"
+    sy "[mcname], sabes que hay más habitaciones vacías aquí, ¿verdad?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:393
 translate spanish q_inter_sy_39_7c4ee0ed:
 
     # mc "Right... and?"
-    mc "Right... and?"
+    mc "Correcto... ¿y?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:396
 translate spanish q_inter_sy_39_9c463f60:
 
     # sy "Aaaaand, we should get more roommates!"
-    sy "Aaaaand, we should get more roommates!"
+    sy "¡Yyyyyy, deberíamos conseguir más compañeros de piso!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:397
 translate spanish q_inter_sy_39_6d978903:
 
     # mc "Do you mean pornstars who live with us?"
-    mc "Do you mean pornstars who live with us?"
+    mc "¿Quieres decir estrellas de porno que vivan con nosotros?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:400
 translate spanish q_inter_sy_39_98c8613b:
 
     # sy "Even better!"
-    sy "Even better!"
+    sy "¡Aún mejor!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:405
 translate spanish q_inter_sy_40_3daf575b:
 
     # sy "That Foxmore guy was fucking weird."
-    sy "That Foxmore guy was fucking weird."
+    sy "Ese tipo Foxmore era jodidamente raro."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:406
 translate spanish q_inter_sy_40_621d2c91:
 
     # mc "Yeah he was."
-    mc "Yeah he was."
+    mc "Sí, lo era."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:409
 translate spanish q_inter_sy_40_b5d36d31:
 
     # sy "But Carmilla...{w} damn."
-    sy "But Carmilla...{w} damn."
+    sy "Pero Carmilla...{w} ¡Mierda!"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:410
 translate spanish q_inter_sy_40_c5013d5b:
 
     # mc "Yeah she is."
-    mc "Yeah she is."
+    mc "Sí, lo es."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:411
 translate spanish q_inter_sy_40_c08b1d6a:
 
     # sy "Just... so hot."
-    sy "Just... so hot."
+    sy "Simplemente... tan sexy."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:416
 translate spanish q_inter_sy_41_3b9e329f:
 
     # sy "So what's next for SM Studios, you think?"
-    sy "So what's next for SM Studios, you think?"
+    sy "Entonces, ¿qué crees que le depara el futuro a SM Studios?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:417
 translate spanish q_inter_sy_41_61d163f3:
 
     # mc "Well, more movies."
-    mc "Well, more movies."
+    mc "Bueno, más películas."
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:420
 translate spanish q_inter_sy_41_82141912:
 
     # sy "Aaaaaaand?"
-    sy "Aaaaaaand?"
+    sy "¿Yyyyyy?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:421
 translate spanish q_inter_sy_41_4e19dd85:
 
     # mc "Uhm... bigger movies?"
-    mc "Uhm... bigger movies?"
+    mc "Ejem... ¿películas más grandes?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:422
 translate spanish q_inter_sy_41_cea10e35:
 
     # sy "Aaaaaaaaaaaaaaaaaaand?"
-    sy "Aaaaaaaaaaaaaaaaaaand?"
+    sy "¿Yyyyyyyyyyyyyyyyyy?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:423
 translate spanish q_inter_sy_41_5468f630:
 
     # mc "I don't know... more sex?"
-    mc "I don't know... more sex?"
+    mc "No lo sé... ¿más sexo?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:426
 translate spanish q_inter_sy_41_47787dfc:
 
     # sy "Hell yeah!"
-    sy "Hell yeah!"
+    sy "¡Maldita sea, sí!"
 

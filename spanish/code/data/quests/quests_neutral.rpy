@@ -444,7 +444,6 @@ translate spanish strings:
     old "Talk to Stacy about Melony"
     new "Habla con Stacy sobre Melony"
 
-translate spanish strings:
     # game/code/data/quests/quests_neutral.rpy:4
     old "Learn Photography until you reach [var]/5 in this topic"
     new "Aprende Fotografía hasta que alcances [var]/5 en este tema"
@@ -452,13 +451,12 @@ translate spanish strings:
     # game/code/data/quests/quests_neutral.rpy:4
     old "Get [var]/9 Relationship Points with Maya"
     new "Consigue [var]/9 Puntos de Relación con Maya"
-translate spanish strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Debbie about your next date in the park"
-    new "Talk to Debbie about your next date in the park"
+    new "Habla con Debbie sobre tu próxima cita en el parque"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Invite Debbie to the next date"
-    new "Invite Debbie to the next date"
+    new "Invita a Debbie a la próxima cita"
 

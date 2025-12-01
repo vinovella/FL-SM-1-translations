@@ -336,5 +336,5 @@ translate spanish strings:
 
     # game/code/scenes/main_story/sm1ms002_it.rpy:76
     old "One eternity later"
-    new "One eternity later"
+    new "Una eternidad después"
 

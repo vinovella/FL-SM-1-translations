@@ -1232,13 +1232,11 @@ translate spanish strings:
     old "Parsing the script failed."
     new "Falló el análisis del script."
 
-translate spanish strings:
-
     # renpy/common/00preferences.rpy:701
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Clipboard voicing enabled. Press 'shift+C' to disable."
+    new "Lectura del portapapeles habilitada. Presiona 'shift+C' para deshabilitar."
 
     # renpy/common/00preferences.rpy:705
     old "Self-voicing enabled. Press 'v' to disable."
-    new "Self-voicing enabled. Press 'v' to disable."
+    new "Lectura en voz alta habilitada. Presiona 'v' para deshabilitar."
 

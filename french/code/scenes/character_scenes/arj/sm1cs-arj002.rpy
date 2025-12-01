@@ -2027,8 +2027,8 @@ translate french strings:
 #Translate by BlackViper_
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:963
-translate french sm1cs_arj002_e937025f:
+translate french sm1cs_arj002_f4e62c7c:
 
-    # mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
-    mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
+    # mct "♪ Reunited and it feels so good. ♪"
+    mct "♪ Reunited and it feels so good. ♪"
 

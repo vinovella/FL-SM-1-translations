@@ -398,7 +398,7 @@ translate chinese sm1cs_kv_renovation_at_studio_a6363980:
 translate chinese sm1cs_kv_renovation_at_studio_caba43d5:
 
     # kv "I should get going. But make sure to call me when you figure out what comes next, [mcname]."
-    kv "我该走了。不过下次有任务的话，随时叫我。"
+    kv "我该走了。不过下次有任务的话，随时叫我，[mcname]。"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv-renovation.rpy:276
 translate chinese sm1cs_kv_renovation_at_studio_1449aa40:

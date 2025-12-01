@@ -620,7 +620,7 @@ translate spanish sm1cs_ag001_continue_0f22d93c:
 translate spanish sm1cs_ag001_continue_7a22d199:
 
     # mc "Yeah. Why does she call you Aubergine Anna?"
-    mc "Sí. ¿Por qué te llama Aubergine Anna?"
+    mc "Sí. ¿Por qué te llama Anna Berenjena?"
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:404
 translate spanish sm1cs_ag001_continue_5826ec07:

@@ -1186,17 +1186,17 @@ translate spanish strings:
 
     # game/code/scenes/main_story/sm1ms010.rpy:106
     old "Yeah, me too"
-    new "Yeah, me too"
+    new "Sí, yo también"
 
     # game/code/scenes/main_story/sm1ms010.rpy:189
     old "She's doing fine"
-    new "She's doing fine"
+    new "Ella está bien"
 
     # game/code/scenes/main_story/sm1ms010.rpy:338
     old "Kiss her again and continue"
-    new "Kiss her again and continue"
+    new "Bésala otra vez y continúa"
 
     # game/code/scenes/main_story/sm1ms010.rpy:338
     old "Stop things from going further"
-    new "Stop things from going further"
+    new "Detener las cosas antes de que vayan más lejos"
 

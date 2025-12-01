@@ -602,11 +602,11 @@ translate spanish sm1cs_dc_renovation_e5818002:
 translate spanish sm1cs_dc_renovation_1b6ec0ce:
 
     # mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
-    mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
+    mc "¡Oh, carajo! ¡No te he ofrecido agua ni nada! Debes estar muy sedienta."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:322
 translate spanish sm1cs_dc_renovation_6d9f72cb:
 
     # mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
-    mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
+    mc "Hemos estado aquí por unas horas, e hiciste tanto, ¡{i}y{/i} también resolviste mi problema!"
 

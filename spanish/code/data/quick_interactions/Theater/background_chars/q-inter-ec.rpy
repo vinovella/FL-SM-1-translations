@@ -20,7 +20,7 @@ translate spanish q_inter_ec_1_b5e6fa12:
 translate spanish q_inter_ec_2_7d19511a:
 
     # ec "*waves* Hey [mcname], "
-    ec "*ondas* Hey [mcname], "
+    ec "*saluda* Hey [mcname], "
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:31
 translate spanish q_inter_ec_2_7fb08a75:
@@ -32,7 +32,7 @@ translate spanish q_inter_ec_2_7fb08a75:
 translate spanish q_inter_ec_2_d8e2f82c:
 
     # ec "I don't know if anyone has said anything, but it seems like you're doing a solid job helping Sam out."
-    ec "No sé si alguien ha dicho algo, pero parece que estás haciendo un buen trabajo ayudando a Sam."
+    ec "No sé si alguien ha dicho algo, pero parece que estás haciendo un trabajo excelente ayudando a Sam."
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:34
 translate spanish q_inter_ec_2_52c7dc7a:
@@ -80,13 +80,13 @@ translate spanish q_inter_ec_3_dd22b719:
 translate spanish q_inter_ec_3_cb53c14f:
 
     # ec "Well neither am I. I'm just a go-fer."
-    ec "Bueno, Tampoco yo. Sólo soy un go-fer."
+    ec "Bueno, Tampoco yo. Sólo soy una chica para todo."
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:54
 translate spanish q_inter_ec_4_ebd15155:
 
     # ec "Maaaaaaaaaan."
-    ec "Hoooooombre."
+    ec "Vayaaaaaa."
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:56
 translate spanish q_inter_ec_4_27f731a8:
@@ -116,7 +116,7 @@ translate spanish q_inter_ec_4_042c6c9d:
 translate spanish q_inter_ec_5_f70abdbe:
 
     # ec "Gah, Kellie can be such a pain!"
-    ec "¡Gah, Kellie puede ser tan molesta!"
+    ec "¡Arg, Kellie puede ser tan fastidiosa!"
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:72
 translate spanish q_inter_ec_5_ef3c501b:
@@ -140,7 +140,7 @@ translate spanish q_inter_ec_5_2c9a23fd:
 translate spanish q_inter_ec_5_9cb74f0d:
 
     # ec "Gah, there is no matching the ego of an actress!"
-    ec "¡Gah, no hay que coincidir con el ego de una actriz!"
+    ec "¡Arg, el ego de una actriz no tiene comparación!"
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:85
 translate spanish q_inter_ec_6_e760524a:
@@ -170,7 +170,7 @@ translate spanish q_inter_ec_7_269b7b64:
 translate spanish q_inter_ec_7_8852e77f:
 
     # mc "Uh huh."
-    mc "Uh huh."
+    mc "Ajá."
 
 # game/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy:100
 translate spanish q_inter_ec_7_a3393dc8:
@@ -194,5 +194,5 @@ translate spanish q_inter_ec_7_bc229872:
 translate spanish q_inter_ec_1_7a965d97:
 
     # ec "Well she works a lot better with a good coffee."
-    ec "Well she works a lot better with a good coffee."
+    ec "Bueno, ella trabaja mucho mejor con un buen café."
 

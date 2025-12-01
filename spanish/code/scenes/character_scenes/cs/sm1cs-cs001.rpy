@@ -194,11 +194,11 @@ translate spanish sm1cs_cs001_e9721ff3:
 translate spanish sm1cs_cs001_24cdc073:
 
     # cs "Uh huh."
-    cs "Uh huh."
+    cs "Ajá."
 
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:65
 translate spanish sm1cs_cs001_0b11eff4:
 
     # mc "Yeah, yeah. I'll have a dark roast coffee and a..."
-    mc "Yeah, yeah. I'll have a dark roast coffee and a..."
+    mc "Sí, sí. Tomaré un café tostado oscuro y un..."
 

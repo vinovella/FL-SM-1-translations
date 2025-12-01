@@ -246,5 +246,5 @@ translate spanish strings:
 translate spanish sm1ms002_4f8bfe43:
 
     # mc "I haven't started cutting myself yet."
-    mc "I haven't started cutting myself yet."
+    mc "Todavía no he empezado a cortarme."
 

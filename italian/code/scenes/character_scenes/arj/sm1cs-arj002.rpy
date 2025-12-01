@@ -2025,8 +2025,8 @@ translate italian strings:
     new "Il gioco è finito, mio dolce fiore rosso"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:963
-translate italian sm1cs_arj002_e937025f:
+translate italian sm1cs_arj002_f4e62c7c:
 
-    # mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
-    mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
+    # mct "♪ Reunited and it feels so good. ♪"
+    mct "♪ Reunited and it feels so good. ♪"
 

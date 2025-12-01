@@ -640,5 +640,5 @@ translate spanish strings:
 translate spanish sm1cs_ag002_47fea000:
 
     # mc "You know, \"Aubergine Anna\"?"
-    mc "You know, \"Aubergine Anna\"?"
+    mc "¿Sabes \"Anna Berenjena\"?"
 

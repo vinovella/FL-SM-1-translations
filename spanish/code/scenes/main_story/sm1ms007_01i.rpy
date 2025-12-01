@@ -36,5 +36,5 @@ translate spanish strings:
 
     # game/code/scenes/main_story/sm1ms007_01i.rpy:9
     old "You gave $50 to Stacy for buying a wig"
-    new "Le diste $50 a Stacy por comprar una peluca"
+    new "Le diste $50 a Stacy para comprar una peluca"
 

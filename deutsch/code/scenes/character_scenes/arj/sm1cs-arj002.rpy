@@ -2025,8 +2025,8 @@ translate deutsch strings:
     new "Das Spiel ist aus, meine süße rote Blume"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:963
-translate deutsch sm1cs_arj002_e937025f:
+translate deutsch sm1cs_arj002_f4e62c7c:
 
-    # mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
-    mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
+    # mct "♪ Reunited and it feels so good. ♪"
+    mct "♪ Reunited and it feels so good. ♪"
 

@@ -104,7 +104,7 @@ translate spanish sm1cs_cw001_9bfd29bb:
 translate spanish sm1cs_cw001_am_convo_ed0fa608:
 
     # cw "*clears throat* I've noticed that you and April seemed to have quite a heated conversation at work recently."
-    cw "*aclara la garganta* He notado que usted y Abril parecían tener una conversación bastante acalorada en el trabajo recientemente."
+    cw "*carraspea* He notado que usted y Abril parecían tener una conversación bastante acalorada en el trabajo recientemente."
 
 # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:89
 translate spanish sm1cs_cw001_am_convo_af0cefa2:
@@ -724,5 +724,5 @@ translate spanish strings:
 translate spanish sm1cs_cw001_end_convo_c4aa9c65:
 
     # mc "Did Orbix have some trouble with inter-office relationships in the past?"
-    mc "Did Orbix have some trouble with inter-office relationships in the past?"
+    mc "¿Orbix tuvo problemas con las relaciones internas de la oficina en el pasado?"
 

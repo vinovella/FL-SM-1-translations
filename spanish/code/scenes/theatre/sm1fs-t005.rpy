@@ -44,7 +44,7 @@ translate spanish sm1fs_t005_23b518a9:
 translate spanish sm1fs_t005_c702b119:
 
     # dvh "*clears throat*"
-    dvh "*aclara la garganta*"
+    dvh "*carraspea*"
 
 # game/code/scenes/theatre/sm1fs-t005.rpy:35
 translate spanish sm1fs_t005_efe8d1e7:
@@ -584,5 +584,5 @@ translate spanish strings:
 
     # game/code/scenes/theatre/sm1fs-t005.rpy:97
     old "I'm sure you did your best, Denise"
-    new "I'm sure you did your best, Denise"
+    new "Estoy seguro de que hiciste lo mejor que pudiste, Denise"
 

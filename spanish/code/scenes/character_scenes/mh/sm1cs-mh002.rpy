@@ -386,7 +386,7 @@ translate spanish sm1cs_mh002_92b73ecf:
 translate spanish sm1cs_mh002_4165b5fc:
 
     # mh "It sounds like once you guys picked up steam, you were able to pierce the veil of mystery quite quickly to figure out what Lydia was doing."
-    mh "It sounds like once you guys picked up steam, you were able to pierce the veil of mystery quite quickly to figure out what Lydia was doing."
+    mh "Parece que una vez que ustedes tomaron impulso, fueron capaces de atravesar el velo de misterio rápidamente para descubrir lo que Lydia estaba haciendo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:195
 translate spanish sm1cs_mh002_3b1b4dd9:

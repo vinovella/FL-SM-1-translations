@@ -1010,25 +1010,25 @@ translate spanish sm1cs_mes001_927c1195:
 translate spanish sm1cs_mes001_66273e86:
 
     # mes "*chuckles wryly* The elephant in the room."
-    mes "*chuckles wryly* The elephant in the room."
+    mes "*Ríe con ironía* El elefante en la habitación."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:219
 translate spanish sm1cs_mes001_9af4df5f:
 
     # mc "*sheepishly* Guilty as charged. The old business management program just wasn't cutting it for me."
-    mc "*sheepishly* Guilty as charged. The old business management program just wasn't cutting it for me."
+    mc "*Avergonzado* Soy culpable. El antiguo programa de gestión empresarial simplemente no me llenaba."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:344
 translate spanish sm1cs_mes001_3a955c35:
 
     # mc "Are you telling me you almost got a set up for an arranged marriage type date in Korea?"
-    mc "Are you telling me you almost got a set up for an arranged marriage type date in Korea?"
+    mc "¿Me estás diciendo que casi te organizan una cita tipo matrimonio concertado en Corea?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:368
 translate spanish sm1cs_mes001_229c1cea:
 
     # mc "Hey, we do that too, but we can be serious when we need to be."
-    mc "Hey, we do that too, but we can be serious when we need to be."
+    mc "Oye, nosotros también hacemos eso, pero podemos ser serios cuando es necesario."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:54
 translate spanish sm1cs_mes001_3e652f66:

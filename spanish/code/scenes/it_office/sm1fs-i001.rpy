@@ -182,7 +182,7 @@ translate spanish sm1fs_i001_b7ef7f95:
 translate spanish sm1fs_i001_32bf9044:
 
     # am "Only when I feel like it, Aubergine Anna."
-    am "Solo cuando tengo ganas, Aubergine Anna."
+    am "Solo cuando tengo ganas, Anna Berenjena."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:118
 translate spanish sm1fs_i001_91d8a70c:
@@ -606,23 +606,23 @@ translate spanish strings:
 translate spanish sm1fs_i001_af917135:
 
     # ag "Please have a seat."
-    ag "Please have a seat."
+    ag "Por favor, toma asiento."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:93
 translate spanish sm1fs_i001_73236aa5:
 
     # ag "Hi, what can I help you with, April?"
-    ag "Hi, what can I help you with, April?"
+    ag "Hola, ¿en qué puedo ayudarte, Abril?"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:178
 translate spanish sm1fs_i001_fd7e7967:
 
     # mc "Uhhhh, mostly FPS games. Every once in a while I'll pull up-"
-    mc "Uhhhh, mostly FPS games. Every once in a while I'll pull up-"
+    mc "Uhhhh, sobre todo juegos FPS. De vez en cuando también juego a..."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:336
 translate spanish sm1fs_i001_got_hired_718fe7f4:
 
     # ag "If you come tomorrow, [gt.next_day_name!t] at 8:00 am you should be able to meet with her."
-    ag "If you come tomorrow, [gt.next_day_name!t] at 8:00 am you should be able to meet with her."
+    ag "Si vienes mañana, [gt.next_day_name!t] a las 8:00 am deberías poder reunirte con ella."
 

@@ -798,11 +798,11 @@ translate spanish strings:
 translate spanish sm1cs_dc007_continue_2557068b:
 
     # dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
-    dc "Well you know, I'm curious... what do you do for work that gives you so much free time to trip up my suspects?"
+    dc "Bueno, sabes, tengo curiosidad... ¿qué haces en el trabajo que te da tanto tiempo libre para hacer tropezar a mis sospechosos?"
 
-# game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:391
+# game/code/scenes/character_scenes/dc/sm1cs_dc007.rpy:391
 translate spanish sm1cs_dc007_continue_6a0c526c:
 
     # dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
-    dc "Mmmmm, maybe when your move isn't \"Human Roadblock\"."
+    dc "Mmmmm, tal vez cuando tu maniobra no sea \"Bloqueo Humano\"."
 

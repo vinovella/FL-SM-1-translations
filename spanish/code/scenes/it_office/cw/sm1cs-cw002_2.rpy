@@ -894,25 +894,25 @@ translate spanish strings:
 translate spanish sm1cs_cw002_2_de7b5f54:
 
     # mc "*whispers* Eugene? Ms. Watts. I'm totally lost."
-    mc "*whispers* Eugene? Ms. Watts. I'm totally lost."
+    mc "*susurra* ¿Eugene? Sra. Watts. Estoy totalmente perdido."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:252
 translate spanish sm1cs_cw002_2_da7d3338:
 
     # cw "You told Daddy?"
-    cw "You told Daddy?"
+    cw "¿Le dijiste a papi?"
 
 translate spanish strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
     old "It was fine"
-    new "It was fine"
+    new "Estuvo bien"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
     old "Sorry, Claire"
-    new "Sorry, Claire"
+    new "Lo siento, Claire"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
     old "Don't mention it, Ms. Watts"
-    new "Don't mention it, Ms. Watts"
+    new "No hay de qué, Sra. Watts"
 

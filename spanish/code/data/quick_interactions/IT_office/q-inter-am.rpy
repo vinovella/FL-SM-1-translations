@@ -764,59 +764,59 @@ translate spanish q_inter_am_28_1c1031d5:
 translate spanish q_inter_am_15_f4735917:
 
     # mc "I thought I could make it more efficient."
-    mc "I thought I could make it more efficient."
+    mc "Pensé que podría hacerlo más eficiente."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:330
 translate spanish q_inter_am_21_5ceda4d0:
 
     # am "Uh... never mind. It might be awkward. And you'd just be sitting there."
-    am "Uh... never mind. It might be awkward. And you'd just be sitting there."
+    am "Uh... no importa. Podría ser incómodo. Y tú solo estarías sentado ahí."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:427
 translate spanish q_inter_am_29_6b516b0a:
 
     # mc "Can I get you a drink, April?"
-    mc "Can I get you a drink, April?"
+    mc "¿Te traigo una copa, Abril?" # <-- April cambiado a Abril
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:428
 translate spanish q_inter_am_29_e256ee28:
 
     # am "Nah, I'm just going to have this one and head home."
-    am "Nah, I'm just going to have this one and head home."
+    am "No, solo voy a tomar esta y me iré a casa."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:429
 translate spanish q_inter_am_29_d5ae2301:
 
     # mc "Fair enough."
-    mc "Fair enough."
+    mc "Me parece justo."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:432
 translate spanish q_inter_am_29_a98164a3:
 
     # am "But maybe some other time?"
-    am "But maybe some other time?"
+    am "¿Pero tal vez en otro momento?"
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:433
 translate spanish q_inter_am_29_74c498aa:
 
     # mc "Sounds good to me."
-    mc "Sounds good to me."
+    mc "Me parece bien."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:438
 translate spanish q_inter_am_30_fc8a648f:
 
     # am "You know... that was a pretty nice hotel we were at."
-    am "You know... that was a pretty nice hotel we were at."
+    am "Sabes... ese hotel en el que estuvimos era un hotel bastante agradable."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:439
 translate spanish q_inter_am_30_6e031e75:
 
     # mc "Yeah it was."
-    mc "Yeah it was."
+    mc "Sí, lo fue."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:442
 translate spanish q_inter_am_30_83e13801:
 
     # am "We'll have to go back sometime for round 2."
-    am "We'll have to go back sometime for round 2."
+    am "Tendremos que volver alguna vez para la segunda ronda."
 

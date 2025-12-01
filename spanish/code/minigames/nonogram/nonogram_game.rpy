@@ -14,7 +14,7 @@ translate spanish strings:
 
     # game/code/minigames/nonogram/nonogram_game.rpy:83
     old "You have coded the solution in [mt.minigame_timer]"
-    new "Ha codificado la solución en [mt.minigame_timer]"
+    new "Has codificado la solución en [mt.minigame_timer]"
 
     # game/code/minigames/nonogram/nonogram_game.rpy:85
     old "You have failed to code the solution"

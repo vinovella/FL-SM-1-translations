@@ -1184,23 +1184,23 @@ translate spanish strings:
 translate spanish sm1cs_kv004_9b3488c6:
 
     # kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
-    kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+    kv "Lo hizo. Sé que ha pasado un tiempo desde que tuvo algo de acción, así que pensé que algo para despertar su imaginación sería bienvenido."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:404
 translate spanish sm1cs_kv004_sex_repeatable_b52d6afd:
 
     # kv "Let's get rid of these pesky things..."
-    kv "Let's get rid of these pesky things..."
+    kv "Vamos a deshacernos de esta molesta ropa interior..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:458
 translate spanish sm1cs_kv004_sex_repeatable_0bda85cc:
 
     # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
-    mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+    mc "Mi- Kanya, eres increíble con tu boca, maldición."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
 translate spanish sm1cs_kv004_sex_repeatable_925a1079:
 
-    # mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
-    mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
+    # mc "Mmmmnngnng, Kanya, ¡estás tan apretada! ¡Tu vagina es como un tornillo!"
+    mc "Mmmmnngnng, Kanya, ¡estás tan apretada! ¡Tu vagina sujeta con tanta fuerza!"
 

@@ -358,18 +358,6 @@ translate spanish sm1cs_vs_renovation_069acf88:
     # mc "Well, we can't have that."
     mc "Bueno, no podemos tener eso."
 
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:185
-translate spanish sm1cs_vs_renovation_6bf0b12c:
-
-    # mc "{i}🎶Come with me, and you'll be-🎶{/i}"
-    mc "{i} 🎶Ven conmigo, y estarás...🎶{/i}"
-
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:186
-translate spanish sm1cs_vs_renovation_4d6d9f05:
-
-    # mc "{i}🎶In a world of scaffolding and exposed wi-ir-i-ng!🎶{/i}"
-    mc "{i} 🎶¡En un mundo de andamios y cableado expuesto!🎶{/i}"
-
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:189
 translate spanish sm1cs_vs_renovation_3c91f103:
 
@@ -692,15 +680,27 @@ translate spanish sm1cs_vs_renovation_ade0c19d:
 translate spanish sm1cs_vs_renovation_9c0bc37a:
 
     # mc "Oh I definitely have, but I'm not going to do something that might keep me from becoming an actor in the group."
-    mc "Oh I definitely have, but I'm not going to do something that might keep me from becoming an actor in the group."
+    mc "Oh, claro que sí. Pero no voy a hacer algo que pueda impedir que me convierta en actor del grupo."
 
 translate spanish strings:
 
     # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:47
     old "Pretend to be scared"
-    new "Pretend to be scared"
+    new "Fingir estar asustado"
 
     # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:47
     old "Act impressed"
-    new "Act impressed"
+    new "Actuar impresionado"
+
+# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:177
+translate spanish sm1cs_vs_renovation_50c078bf:
+
+    # mc "{i}♪ Come with me, and you'll be- ♪{/i}"
+    mc "{i}♪ Come with me, and you'll be- ♪{/i}"
+
+# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:178
+translate spanish sm1cs_vs_renovation_a39ea472:
+
+    # mc "{i}♪ In a world of scaffolding and exposed wi-ir-i-ng! ♪{/i}"
+    mc "{i}♪ In a world of scaffolding and exposed wi-ir-i-ng! ♪{/i}"
 

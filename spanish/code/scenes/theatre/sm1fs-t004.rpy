@@ -1578,5 +1578,5 @@ translate spanish strings:
 translate spanish sm1fs_t004_workshop_37885fbe:
 
     # dvh "Veronica, Kellie. Please walk into the center of the circle."
-    dvh "Veronica, Kellie. Please walk into the center of the circle."
+    dvh "Verónica, Kellie. Por favor, avancen al centro del círculo."
 

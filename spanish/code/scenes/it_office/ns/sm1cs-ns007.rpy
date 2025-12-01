@@ -200,7 +200,7 @@ translate spanish sm1cs_ns007_resturant_0ce4ada8:
 translate spanish sm1cs_ns007_resturant_976dbee8:
 
     # "Waiter" "*clears throat*"
-    "Mesero" "*Aclarando la garganta*"
+    "Mesero" "*carraspea*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:182
 translate spanish sm1cs_ns007_resturant_6baff45d:
@@ -1968,53 +1968,53 @@ translate spanish strings:
 translate spanish sm1cs_ns007_walkaway_e0cd2531:
 
     # ns "I will award you...{w}an Eight out of Ten."
-    ns "I will award you...{w}an Eight out of Ten."
+    ns "Te otorgaré...{w}un ocho sobre diez."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:234
 translate spanish sm1cs_ns007_resturant_0eecd966:
 
     # ns "I disagree. I've told you many things I like."
-    ns "I disagree. I've told you many things I like."
+    ns "No estoy de acuerdo. Te he dicho muchas cosas que me gustan."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:595
 translate spanish sm1cs_ns007_light_house_eb237d93:
 
     # ns "I feel... comfortable... with you."
-    ns "I feel... comfortable... with you."
+    ns "Me siento... cómoda... contigo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:694
 translate spanish sm1cs_ns007_light_house_0c97487e:
 
     # ns "*excited but stifled moaning*"
-    ns "*excited but stifled moaning*"
+    ns "*gemido excitado pero ahogado*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:806
 translate spanish sm1cs_ns007_light_house_5d826925:
 
     # ns "*moaning. I love... hearing that... ooouhah...*"
-    ns "*moaning. I love... hearing that... ooouhah...*"
+    ns "*gemido. Me encanta... escuchar eso... ooouhah...*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:882
 translate spanish sm1cs_ns007_light_house_81160ea0:
 
     # ns "*whispers* It's just like the hentai."
-    ns "*whispers* It's just like the hentai."
+    ns "*susurros* Es justo como el hentai."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:910
 translate spanish sm1cs_ns007_light_house_4e72d60e:
 
     # ns "Yes. Thank you, [mcname]."
-    ns "Yes. Thank you, [mcname]."
+    ns "Sí. Gracias, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1001
 translate spanish sm1cs_ns007_walkaway_9dae56c9:
 
     # ns "Hmm... considering the food, conversation, company and the amount of times I came..."
-    ns "Hmm... considering the food, conversation, company and the amount of times I came..."
+    ns "Mmm... considerando la comida, la conversación, la compañía y la cantidad de veces que me corrí..."
 
 translate spanish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:439
     old "The people close to me are happy about it"
-    new "The people close to me are happy about it"
+    new "La gente cercana a mí está feliz por eso"
 

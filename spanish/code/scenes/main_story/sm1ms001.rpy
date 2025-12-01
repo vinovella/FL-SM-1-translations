@@ -50,7 +50,7 @@ translate spanish sm1ms001_7d0a98b8:
 translate spanish sm1ms001_fd0907e0:
 
     # sy "She could at least admit that AmRose and I helped."
-    sy "Al menos podría admitir que Amrose y yo ayudamos."
+    sy "Al menos podrías admitir que Amrose y yo ayudamos."
 
 # game/code/scenes/main_story/sm1ms001.rpy:65
 translate spanish sm1ms001_92ebc623:

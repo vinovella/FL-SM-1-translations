@@ -466,5 +466,5 @@ translate spanish strings:
 translate spanish sm1cs_km002_complement_km_5e3be15b:
 
     # km "[mcname], are you still interested in learning to be a better actor?"
-    km "[mcname], are you still interested in learning to be a better actor?"
+    km "[mcname], ¿sigues interesado en aprender a ser un mejor actor?"
 

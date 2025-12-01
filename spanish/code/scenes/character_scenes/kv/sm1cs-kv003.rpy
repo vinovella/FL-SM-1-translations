@@ -980,17 +980,17 @@ translate spanish sm1cs_kv003_9c5419cb:
 translate spanish sm1cs_kv003_51d06342:
 
     # kv "What's the next question?"
-    kv "What's the next question?"
+    kv "¿Cuál es la siguiente pregunta?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:159
 translate spanish sm1cs_kv003_222c534c:
 
     # kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
-    kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
+    kv "Me he estado preguntando cómo vas a convencer a algunas de estas actrices para que protagonicen tu porno."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:462
 translate spanish sm1cs_kv003_9ac58097:
 
     # kv "I-I-I- think I'm going to cum!"
-    kv "I-I-I- think I'm going to cum!"
+    kv "¡C-C-C- creo que voy a correrme!"
 

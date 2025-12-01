@@ -20,9 +20,9 @@ translate spanish strings:
 
     # game/code/data/interaction_options/interaction_location_options.rpy:3
     old "Recruit Lyssa for the Sci-Fi Movie"
-    new "Recruit Lyssa for the Sci-Fi Movie"
+    new "Reclutar a Lyssa para la película de ciencia ficción"
 
     # game/code/data/interaction_options/interaction_location_options.rpy:3
     old "Talk about going to the spa with Nari"
-    new "Talk about going to the spa with Nari"
+    new "Hablar sobre ir al spa con Nari"
 

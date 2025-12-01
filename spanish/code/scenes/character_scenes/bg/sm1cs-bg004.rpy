@@ -1370,203 +1370,203 @@ translate spanish sm1cs_bg004_anal_41c02abb:
 translate spanish sm1cs_bg004_68f3bd4c:
 
     # bg "Yes, [bg_mcname!t]?"
-    bg "Yes, [bg_mcname!t]?"
+    bg "¿Sí, [bg_mcname!t]?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:122
 translate spanish sm1cs_bg004_97b77ba4:
 
     # bg "I am sorry, [bg_mcname!t]."
-    bg "I am sorry, [bg_mcname!t]."
+    bg "Lo siento, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:128
 translate spanish sm1cs_bg004_b26ff5d6:
 
     # bg "She's... not here, [bg_mcname!t]."
-    bg "She's... not here, [bg_mcname!t]."
+    bg "Ella... no está aquí, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:141
 translate spanish sm1cs_bg004_0be10152:
 
     # bg "But I still have a surprise for you, [bg_mcname!t]."
-    bg "But I still have a surprise for you, [bg_mcname!t]."
+    bg "Pero aún tengo una sorpresa para ti, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:146
 translate spanish sm1cs_bg004_1ad962f3:
 
     # bg "Yes, [bg_mcname!t]."
-    bg "Yes, [bg_mcname!t]."
+    bg "Sí, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:178
 translate spanish sm1cs_bg004_53e8255e:
 
     # bg "Yes, [bg_mcname!t]..."
-    bg "Yes, [bg_mcname!t]..."
+    bg "Sí, [bg_mcname!t]..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:191
 translate spanish sm1cs_bg004_f835aa01:
 
     # bg "I... I want you to fuck me, [bg_mcname!t]."
-    bg "I... I want you to fuck me, [bg_mcname!t]."
+    bg "Yo... yo quiero que me folles, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:198
 translate spanish sm1cs_bg004_acc2bd12:
 
     # bg "P-please, [bg_mcname!t], will you fuck me in the ass?"
-    bg "P-please, [bg_mcname!t], will you fuck me in the ass?"
+    bg "P-por favor, [bg_mcname!t], ¿me follas el culo?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:204
 translate spanish sm1cs_bg004_1ad962f3_1:
 
     # bg "Yes, [bg_mcname!t]."
-    bg "Yes, [bg_mcname!t]."
+    bg "Sí, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:218
 translate spanish sm1cs_bg004_1ad962f3_2:
 
     # bg "Yes, [bg_mcname!t]."
-    bg "Yes, [bg_mcname!t]."
+    bg "Sí, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:274
 translate spanish sm1cs_bg004_1db454fd:
 
     # bg "Did I do a good job, [bg_mcname!t]?"
-    bg "Did I do a good job, [bg_mcname!t]?"
+    bg "¿Lo hice bien, [bg_mcname!t]?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:285
 translate spanish sm1cs_bg004_1ad962f3_3:
 
     # bg "Yes, [bg_mcname!t]."
-    bg "Yes, [bg_mcname!t]."
+    bg "Sí, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:310
 translate spanish sm1cs_bg004_9ec65f24:
 
     # bg "I...{w} it makes me happy that you like my ass, [mcname] - erm, [bg_mcname!t]."
-    bg "I...{w} it makes me happy that you like my ass, [mcname] - erm, [bg_mcname!t]."
+    bg "Me...{w} me hace feliz que te guste mi culo, [mcname]... ejem, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:322
 translate spanish sm1cs_bg004_d75e8f1f:
 
     # bg "Y-yes, [bg_mcname!t]."
-    bg "Y-yes, [bg_mcname!t]."
+    bg "S-sí, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:367
 translate spanish sm1cs_bg004_anal_48c7bc8f:
 
     # bg "Y-yes, [bg_mcname!t], I-I am."
-    bg "Y-yes, [bg_mcname!t], I-I am."
+    bg "S-sí, [bg_mcname!t], l-lo estoy."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:374
 translate spanish sm1cs_bg004_anal_829a9180:
 
     # bg "Please, [bg_mcname!t]... I want your cock in my greedy little asshole."
-    bg "Please, [bg_mcname!t]... I want your cock in my greedy little asshole."
+    bg "Por favor, [bg_mcname!t]... quiero tu polla en mi culito ansioso."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:396
 translate spanish sm1cs_bg004_anal_d2f23d53:
 
     # bg "Please stop asking, and just fuck me, [bg_mcname!t]."
-    bg "Please stop asking, and just fuck me, [bg_mcname!t]."
+    bg "Deja de preguntar y fóllame de una vez, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:426
 translate spanish sm1cs_bg004_anal_b25297b8:
 
     # bg "Mmmm, I love having your cock in my ass, [bg_mcname!t]. I hope it pleases you!"
-    bg "Mmmm, I love having your cock in my ass, [bg_mcname!t]. I hope it pleases you!"
+    bg "Mmmm, me encanta tener tu polla en mi culo, [bg_mcname!t]. ¡Espero que te guste!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:431
 translate spanish sm1cs_bg004_anal_60e405c4:
 
     # bg "Yes, [bg_mcname!t]. My ass is yours - my body is yours!"
-    bg "Yes, [bg_mcname!t]. My ass is yours - my body is yours!"
+    bg "Sí, [bg_mcname!t]. Mi culo es tuyo, mi cuerpo es tuyo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:432
 translate spanish sm1cs_bg004_anal_a7da00e4:
 
     # bg "I want nothing more, than to make you happy, [bg_mcname!t]! To serve you!"
-    bg "I want nothing more, than to make you happy, [bg_mcname!t]! To serve you!"
+    bg "No quiero nada más que hacerte feliz, [bg_mcname!t]. ¡Servirte!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:458
 translate spanish sm1cs_bg004_anal_1ad962f3:
 
     # bg "Yes, [bg_mcname!t]."
-    bg "Yes, [bg_mcname!t]."
+    bg "Sí, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:496
 translate spanish sm1cs_bg004_anal_81564187:
 
     # bg "Oh my Gooood, [bg_mcname!t]!"
-    bg "Oh my Gooood, [bg_mcname!t]!"
+    bg "¡Oh, Dios mío, [bg_mcname!t]!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:504
 translate spanish sm1cs_bg004_anal_09fd918d:
 
     # bg "I love your cock, [bg_mcname!t]!"
-    bg "I love your cock, [bg_mcname!t]!"
+    bg "¡Amo tu polla, [bg_mcname!t]!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:512
 translate spanish sm1cs_bg004_anal_9de0d4b8:
 
     # bg "Satisfied me like being fucked like a ragdoll, [bg_mcname!t]!"
-    bg "Satisfied me like being fucked like a ragdoll, [bg_mcname!t]!"
+    bg "¡Me has dejado satisfecha, como cuando me follas como a un muñeco de trapo, [bg_mcname!t]!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:514
 translate spanish sm1cs_bg004_anal_021faad1:
 
     # bg "And I want - I want your cock always! Please, [bg_mcname!t], let me always have your cock!"
-    bg "And I want - I want your cock always! Please, [bg_mcname!t], let me always have your cock!"
+    bg "Y quiero... quiero tu polla siempre. Por favor, [bg_mcname!t], déjame tener siempre tu polla."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:518
 translate spanish sm1cs_bg004_anal_284b79bc:
 
     # bg "Yes, [bg_mcname!t], I am! I'm yoooooouuuursssss!"
-    bg "Yes, [bg_mcname!t], I am! I'm yoooooouuuursssss!"
+    bg "¡Sí, [bg_mcname!t], lo soy! ¡Soooooooooy tuyaaaaaaa!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:524
 translate spanish sm1cs_bg004_anal_4803e072:
 
     # bg "Y-yes, [bg_mcname!t]! Yes!"
-    bg "Y-yes, [bg_mcname!t]! Yes!"
+    bg "¡S-sí, [bg_mcname!t]! ¡Sí!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:582
 translate spanish sm1cs_bg004_anal_8246e89e:
 
     # bg "Of... of course, [bg_mcname!t]. I can..."
-    bg "Of... of course, [bg_mcname!t]. I can..."
+    bg "P-por supuesto, [bg_mcname!t]. Puedo..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:608
 translate spanish sm1cs_bg004_anal_2cec0f28:
 
     # bg "Oh, oh - I'm, I'm sorry [bg_mcname!t]-"
-    bg "Oh, oh - I'm, I'm sorry [bg_mcname!t]-"
+    bg "Oh, oh... l-lo siento, [bg_mcname!t]—"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:623
 translate spanish sm1cs_bg004_anal_ac4f330d:
 
     # bg "I understand. I won't cum until you do, [bg_mcname!t]."
-    bg "I understand. I won't cum until you do, [bg_mcname!t]."
+    bg "Entiendo. No me correré hasta que tú lo hagas, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:629
 translate spanish sm1cs_bg004_anal_339a170f:
 
     # bg "N-no, [bg_mcname!t]. But it's- it's hard-"
-    bg "N-no, [bg_mcname!t]. But it's- it's hard-"
+    bg "N-no, [bg_mcname!t]. Pero es... es difícil—"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:632
 translate spanish sm1cs_bg004_anal_d75e8f1f:
 
     # bg "Y-yes, [bg_mcname!t]."
-    bg "Y-yes, [bg_mcname!t]."
+    bg "S-sí, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:641
 translate spanish sm1cs_bg004_anal_be577bc5:
 
     # bg "I... I want your cum, [bg_mcname!t]."
-    bg "I... I want your cum, [bg_mcname!t]."
+    bg "Yo... yo quiero tu semen, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:543
 translate spanish sm1cs_bg004_anal_a58f65b7:
 
     # bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
-    bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
+    bg "NECESITO— FUUUUUH— ¡POR FAVOR, [bg_mcname!tu], NECESITO UN DESCANSO!"
 

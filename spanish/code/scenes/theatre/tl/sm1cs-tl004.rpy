@@ -925,18 +925,6 @@ translate spanish strings:
     new "Apuesta al billar con Taisia"
 
     # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:681
-    old "You lost ${} to Taisia in a pool game."
-    new "Perdiste ${} con Taisia en el juego de billar."
-
-translate spanish strings:
-
-    # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:681
-    old "You lost $[amount] to Taisia in a pool game."
-    new "You lost $[amount] to Taisia in a pool game."
-
-translate spanish strings:
-
-    # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:681
     old "You lost $[amount] to Taisia in a pool game"
-    new "You lost $[amount] to Taisia in a pool game"
+    new "Perdiste $[amount] con Taisia en el juego de billar."
 

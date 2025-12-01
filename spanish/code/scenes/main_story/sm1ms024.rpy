@@ -284,7 +284,7 @@ translate spanish sm1ms024_ebb2b599:
 translate spanish sm1ms024_2d4db5bf:
 
     # sy "No, bicho raro. Solo mira."
-    sy "No, bicho raro. Solo mira."
+    sy "No, rarito. Solo mira."
 
 # game/code/scenes/main_story/sm1ms024.rpy:143
 translate spanish sm1ms024_286ec01d:
@@ -506,7 +506,7 @@ translate spanish sm1ms024_6bfc74d9:
 translate spanish sm1ms024_fcda8cc6:
 
     # mc "That's the most grown-ass thing you've said since you said 'take my ass'."
-    mc "Es lo más maduro que has dicho desde que dijiste 'toma mi trasero'."
+    mc "Es lo más maduro que has dicho desde que dijiste 'toma mi culo'."
 
 # game/code/scenes/main_story/sm1ms024.rpy:253
 translate spanish sm1ms024_64961bb1:
@@ -638,7 +638,7 @@ translate spanish sm1ms024_3e221bca:
 translate spanish sm1ms024_729a93b5:
 
     # sy "It's enough to get a girl hot and bothered."
-    sy "Es suficiente para excitar a una chica."
+    sy "Es suficiente para dejar a una chica caliente."
 
 # game/code/scenes/main_story/sm1ms024.rpy:306
 translate spanish sm1ms024_430ab556:
@@ -668,7 +668,7 @@ translate spanish sm1ms024_c3efd0d6:
 translate spanish sm1ms024_ecb8bbde:
 
     # sy "And to the victor will go the booty?"
-    sy "¿Y para el vencedor será el trasero?"
+    sy "¿Y para el vencedor será el culo?"
 
 # game/code/scenes/main_story/sm1ms024.rpy:320
 translate spanish sm1ms024_d37a9b0f:
@@ -806,7 +806,7 @@ translate spanish sm1ms024_af82aaaa:
 translate spanish sm1ms024_2ce6b2b0:
 
     # sy "No sleep.{w} Only writing!"
-    sy "¡No dormir.{w} Solo escribir!"
+    sy "¡No dormir!.{w} Solo escribir!"
 
 # game/code/scenes/main_story/sm1ms024.rpy:400
 translate spanish sm1ms024_001cc87b:

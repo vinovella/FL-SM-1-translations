@@ -83,9 +83,8 @@ translate spanish strings:
     # game/code/classes/movie_controllers.rpy:150
     old "Spend [amount] Energy in [energy_name!t]"
     new "Gastar [amount] de energía en [energy_name!t]"
-translate spanish strings:
 
     # game/code/classes/movie_controllers.rpy:115
     old "Pirate movie"
-    new "Pirate movie"
+    new "Película pirata"
 

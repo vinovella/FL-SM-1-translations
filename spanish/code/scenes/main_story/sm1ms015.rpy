@@ -878,29 +878,29 @@ translate spanish sm1ms015_894728ea:
 translate spanish sm1ms015_23dee611:
 
     # mc "Their main focus is developing IT solutions and infrastructure."
-    mc "Their main focus is developing IT solutions and infrastructure."
+    mc "Su enfoque principal es desarrollar soluciones de informática e infraestructura."
 
 # game/code/scenes/main_story/sm1ms015.rpy:47
 translate spanish sm1ms015_4211e622:
 
     # mc "Everything okay, Mom?"
-    mc "Everything okay, Mom?"
+    mc "¿Todo bien, mamá?"
 
 # game/code/scenes/main_story/sm1ms015.rpy:157
 translate spanish sm1ms015_d989617b:
 
     # cw "Never mind."
-    cw "Never mind."
+    cw "No importa."
 
 # game/code/scenes/main_story/sm1ms015.rpy:246
 translate spanish sm1ms015_fdab53eb:
 
     # ns "And I'm delighted to meet you too, Ms. Melony."
-    ns "And I'm delighted to meet you too, Ms. Melony."
+    ns "Y yo también encantada de conocerla, señora Melony."
 
 # game/code/scenes/main_story/sm1ms015.rpy:381
 translate spanish sm1ms015_23fb47ba:
 
     # sy "Haha. He's got you there, Mom."
-    sy "Haha. He's got you there, Mom."
+    sy "Jaja. Ahí te ganó, mamá."
 

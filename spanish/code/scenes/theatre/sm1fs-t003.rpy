@@ -1124,17 +1124,17 @@ translate spanish sm1fs_t003_ss_tutorial_end_548f0968:
 translate spanish sm1fs_t003_11066cbf:
 
     # mc "Veronica, have we met before?"
-    mc "Veronica, have we met before?"
+    mc "Verónica, ¿nos hemos visto antes?"
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:355
 translate spanish sm1fs_t003_9c5ba426:
 
     # dvh "Hmmm. {w}I think you possess some talent, [mcname]."
-    dvh "Hmmm. {w}I think you possess some talent, [mcname]."
+    dvh "Hmmm. {w}Creo que tienes talento, [mcname]."
 
 # game/code/scenes/theatre/sm1fs-t003.rpy:487
 translate spanish sm1fs_t003_51a53f66:
 
     # vs "Seriously, it's not a problem! I'm super happy to show you around."
-    vs "Seriously, it's not a problem! I'm super happy to show you around."
+    vs "En serio, ¡no es ningún problema! Estoy muy feliz de enseñarte todo."
 

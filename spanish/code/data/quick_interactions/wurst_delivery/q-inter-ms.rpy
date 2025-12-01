@@ -800,53 +800,53 @@ translate spanish q_inter_ms_45_62351857:
 translate spanish q_inter_ms_9_4e19df90:
 
     # ms "Didn't anyone tell you? I'm a brat-slinging ninja, [mcname]."
-    ms "Didn't anyone tell you? I'm a brat-slinging ninja, [mcname]."
+    ms "¿Nadie te lo dijo? Soy una ninja repartiendo bratwurst, [mcname]."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:129
 translate spanish q_inter_ms_9_16556a01:
 
     # ms "Swwwssh. See? while you blinked, I delivered five combo packs."
-    ms "Swwwssh. See? while you blinked, I delivered five combo packs."
+    ms "Swwwssh. ¿Ves? Mientras parpadeabas, repartí cinco paquetes combinados."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:160
 translate spanish q_inter_ms_14_0ab32883:
 
     # ms "At least they can't automate bratwurst makers yet."
-    ms "At least they can't automate bratwurst makers yet."
+    ms "Al menos todavía no pueden automatizar a quienes preparan bratwurst."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:373
 translate spanish q_inter_ms_35_59b4bc48:
 
     # ms "Here's to the day we can both just sleep in and not rush out to get grinded down to pebbles."
-    ms "Here's to the day we can both just sleep in and not rush out to get grinded down to pebbles."
+    ms "Brindo por el día en que ambos podamos dormir hasta tarde y no salir corriendo para que nos desgasten como piedra molida."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:440
 translate spanish q_inter_ms_40_14e02518:
 
     # ms "Shhhh. You want the whole place to hear?"
-    ms "Shhhh. You want the whole place to hear?"
+    ms "Shhhh. ¿Quieres que todo el lugar escuche?"
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:528
 translate spanish q_inter_ms_45_fad7a7ce:
 
     # mc "I'm sure a lot of billionaires start the same way."
-    mc "I'm sure a lot of billionaires start the same way."
+    mc "Estoy seguro de que muchos multimillonarios empezaron igual."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:529
 translate spanish q_inter_ms_45_678c5fed:
 
     # ms "Maybe I'm on my first step to becoming one."
-    ms "Maybe I'm on my first step to becoming one."
+    ms "Quizás este sea mi primer paso para convertirme en una."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:86
 translate spanish q_inter_ms_5_8a5a6bb5:
 
     # ms "Never thought I'd be buried in debt and putting wieners in bags."
-    ms "Never thought I'd be buried in debt and putting wieners in bags."
+    ms "Nunca pensé que estaría llena de deudas y metiendo salchichas en bolsas."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:212
 translate spanish q_inter_ms_19_6c302b48:
 
     # ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
-    ms "Seeing you just reminds me that soon I have to be back at work handling wieners."
+    ms "Verte solo me recuerda que pronto tendré que volver al trabajo a encargarme de las salchichas."
 

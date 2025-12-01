@@ -8,5 +8,5 @@ translate spanish sm1cs_cw003i_eb884146:
 translate spanish sm1cs_cw003i_dd91e56f:
 
     # mc "Do you remember my boss's boss, Claire?"
-    mc "Do you remember my boss's boss, Claire?"
+    mc "¿Recuerdas a la jefa de mi jefa, Claire?"
 

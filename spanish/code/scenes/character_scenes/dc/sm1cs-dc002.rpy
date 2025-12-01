@@ -524,5 +524,5 @@ translate spanish strings:
 translate spanish sm1cs_dc002_9cef6b0f:
 
     # mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
-    mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
+    mct "Ahora mismo estoy fallando la Regla Número Uno: ¡el cardio! Dios, tal vez deberíamos conseguir una cinta de correr para el estudio..."
 

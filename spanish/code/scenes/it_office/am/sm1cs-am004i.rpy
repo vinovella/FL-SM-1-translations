@@ -78,11 +78,11 @@ translate spanish strings:
 translate spanish sm1cs_am004i_e2e0bcfb:
 
     # am "Well, don't forget, it's pagan rock. I don't want to hear you whining later."
-    am "Well, don't forget, it's pagan rock. I don't want to hear you whining later."
+    am "Bueno, no olvides que es rock pagano. No quiero oírte que te quejes después."
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:26
 translate spanish sm1cs_am004i_286029a4:
 
     # mc "Wouldn't dream of it. See you tonight."
-    mc "Wouldn't dream of it. See you tonight."
+    mc "Ni lo soñaría. Nos vemos esta noche."
 

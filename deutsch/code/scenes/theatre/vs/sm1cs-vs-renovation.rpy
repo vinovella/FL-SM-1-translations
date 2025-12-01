@@ -358,18 +358,6 @@ translate deutsch sm1cs_vs_renovation_069acf88:
     # mc "Well, we can't have that."
     mc "Nun, das können wir nicht zulassen."
 
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:185
-translate deutsch sm1cs_vs_renovation_6bf0b12c:
-
-    # mc "{i}🎶Come with me, and you'll be-🎶{/i}"
-    mc "{i}🎶Come with me, and you'll be-🎶{/i}"
-
-# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:186
-translate deutsch sm1cs_vs_renovation_4d6d9f05:
-
-    # mc "{i}🎶In a world of scaffolding and exposed wi-ir-i-ng!🎶{/i}"
-    mc "{i}🎶In a world of scaffolding and exposed wi-ir-i-ng!🎶{/i}"
-
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:189
 translate deutsch sm1cs_vs_renovation_3c91f103:
 
@@ -703,4 +691,16 @@ translate deutsch strings:
     # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:47
     old "Act impressed"
     new "Beeindruckt wirken"
+
+# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:177
+translate deutsch sm1cs_vs_renovation_50c078bf:
+
+    # mc "{i}♪ Come with me, and you'll be- ♪{/i}"
+    mc "{i}♪ Come with me, and you'll be- ♪{/i}"
+
+# game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:178
+translate deutsch sm1cs_vs_renovation_a39ea472:
+
+    # mc "{i}♪ In a world of scaffolding and exposed wi-ir-i-ng! ♪{/i}"
+    mc "{i}♪ In a world of scaffolding and exposed wi-ir-i-ng! ♪{/i}"
 

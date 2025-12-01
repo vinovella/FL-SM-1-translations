@@ -762,5 +762,5 @@ translate spanish strings:
 translate spanish sm1cs_sy001_watersports_962bd759:
 
     # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
-    sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
+    sy "Ajá. No te preocupes por mí, solo voy a sentarme aquí en el resplandor orgasmo y pensar en todas las cosas sucias por un rato."
 

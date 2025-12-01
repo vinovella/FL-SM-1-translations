@@ -104,11 +104,11 @@ translate spanish q_inter_dvh_6_1bda6376:
 translate spanish q_inter_dvh_7_2ee7b156:
 
     # dvh "Please don't me regret my choice to bring you aboard, [mcname]."
-    dvh "Please don't me regret my choice to bring you aboard, [mcname]."
+    dvh "Por favor, no me hagas arrepentirme de mi elección de traerte a bordo, [mcname]."
 
 # game/code/data/quick_interactions/Theater/q-inter-dvh.rpy:73
 translate spanish q_inter_dvh_7_c4c0ebea:
 
     # mc "You won't."
-    mc "You won't."
+    mc "No lo haré."
 

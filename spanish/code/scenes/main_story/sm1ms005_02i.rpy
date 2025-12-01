@@ -70,5 +70,5 @@ translate spanish strings:
 translate spanish sm1ms005_02i_5ddbcfce:
 
     # sy "Alright. Let's do it."
-    sy "Alright. Let's do it."
+    sy "Está bien. Hagámoslo."
 

@@ -680,5 +680,5 @@ translate spanish sm1cs_arj001_92b04d3a:
 translate spanish sm1cs_arj001_5c2dddcf:
 
     # arj "So what if I do? {i}No one{/i} should have the flash drive."
-    arj "So what if I do? {i}No one{/i} should have the flash drive."
+    arj "¿Y qué si la tengo? {i}Nadie{/i} debería tener la unidad USB."
 

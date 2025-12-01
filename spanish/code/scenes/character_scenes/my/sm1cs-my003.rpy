@@ -1626,7 +1626,7 @@ translate spanish strings:
 translate spanish sm1cs_my003_at_gym_b2b93b59:
 
     # my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
-    my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
+    my "Sí, simplemente ha pasado un tiempo desde que pude venir al gimnasio. Estoy trabajando algunos músculos que estaban un poco atrofiados."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:408
 translate spanish sm1cs_my003_at_gym_63659e95:

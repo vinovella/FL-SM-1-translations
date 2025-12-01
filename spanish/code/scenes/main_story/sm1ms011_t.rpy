@@ -338,5 +338,5 @@ translate spanish sm1ms011_t_fa295a50:
 translate spanish sm1ms011_t_7a002c3d:
 
     # sy "Someone has to keep you on track."
-    sy "Alguien tiene que mantenerte en el buen camino."
+    sy "Alguien tiene que tenerte bajo control."
 

@@ -488,7 +488,7 @@ translate spanish sm1cs_am003_189dae3a:
 translate spanish sm1cs_am003_5bd7e194:
 
     # am "*clears throat*"
-    am "*aclara la garganta*"
+    am "*carraspea*"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:367
 translate spanish sm1cs_am003_e9a611be:

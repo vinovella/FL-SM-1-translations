@@ -80,5 +80,5 @@ translate spanish sm1cs_dc004_404eabfc:
 translate spanish sm1cs_dc004_1172721c:
 
     # mc "But I wanted to ask you something. The other day, at the cafe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
-    mc "But I wanted to ask you something. The other day, at the cafe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
+    mc "Pero quería preguntarte algo. El otro día, en el café, saliste corriendo con prisa. ¿Pasa algo? ¿Dije algo malo?"
 

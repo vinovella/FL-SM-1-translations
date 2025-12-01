@@ -934,7 +934,7 @@ translate spanish strings:
 
     # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:391
     old "Cum on Taisia's face"
-    new "Correrse en la cara de Taisia"
+    new "Córrete en la cara de Taisia"
 
     # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:391
     old "Cum in Taisia's ass"

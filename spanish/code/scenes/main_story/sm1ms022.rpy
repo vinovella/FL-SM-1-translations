@@ -1694,7 +1694,7 @@ translate spanish sm1ms022_7c19882c:
 translate spanish sm1ms022_3f4bcb40:
 
     # mct "Man... that was a blast."
-    mct "Hombre... eso fue una maravilla."
+    mct "Vaya... eso fue una maravilla."
 
 # game/code/scenes/main_story/sm1ms022.rpy:902
 translate spanish sm1ms022_94f3e8f9:

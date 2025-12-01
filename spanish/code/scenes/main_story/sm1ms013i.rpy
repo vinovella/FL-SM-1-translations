@@ -2,7 +2,7 @@
 translate spanish sm1ms013i_5820aec4:
 
     # sy "Heyyyyyyy, [mcname]."
-    sy "Heyyyyyyy, [mcname]."
+    sy "Holaaaaaaa, [mcname]."
 
 # game/code/scenes/main_story/sm1ms013i.rpy:8
 translate spanish sm1ms013i_08c01398:

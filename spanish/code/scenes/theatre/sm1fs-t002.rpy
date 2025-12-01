@@ -1902,39 +1902,39 @@ translate spanish strings:
 translate spanish sm1fs_t002_3cc3e891:
 
     # tl "So what's your story, you two?"
-    tl "So what's your story, you two?"
+    tl "Entonces, ¿qué hay entre ustedes dos?"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:373
 translate spanish sm1fs_t002_48bdc3d2:
 
     # sy "Let's get this party started!"
-    sy "Let's get this party started!"
+    sy "¡Vamos a empezar esta fiesta!"
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:535
 translate spanish sm1fs_t002_sex_7f6d7367:
 
     # tl "Damn. Someone is definitely not shy."
-    tl "Damn. Someone is definitely not shy."
+    tl "Vaya. Alguien definitivamente no es tímida."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:704
 translate spanish sm1fs_t002_sex_226f2e7f:
 
     # mc "Literally zero complaints from me then."
-    mc "Literally zero complaints from me then."
+    mc "Entonces, no tengo literalmente ninguna queja."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:736
 translate spanish sm1fs_t002_sex_b41d6af2:
 
     # sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
-    sy "You got to show us, not tell us. Nobody wants the audiobook of porn. They want the cinema!"
+    sy "Tienes que mostrarnos, no contarnos. Nadie quiere el audiolibro de un porno. ¡Quieren el cine!"
 
 translate spanish strings:
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:245
     old "I'm into spanking"
-    new "I'm into spanking"
+    new "Me gustan las nalgadas"
 
     # game/code/scenes/theatre/sm1fs-t002.rpy:245
     old "I'm game. If you can do those things to me"
-    new "I'm game. If you can do those things to me"
+    new "Estoy dispuesta. Si puedes hacerme esas cosas"
 

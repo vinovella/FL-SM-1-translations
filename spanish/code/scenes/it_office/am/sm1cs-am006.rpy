@@ -380,7 +380,7 @@ translate spanish sm1cs_am006_arcade_af264e30:
 translate spanish sm1cs_am006_arcade_5bd7e194:
 
     # am "*clears throat*"
-    am "*se aclara la garganta*"
+    am "*carraspea*"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:230
 translate spanish sm1cs_am006_arcade_d3ecb31c:

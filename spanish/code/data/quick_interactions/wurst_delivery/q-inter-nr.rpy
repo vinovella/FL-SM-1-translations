@@ -182,17 +182,17 @@ translate spanish q_inter_nr_18_636f1bcd:
 translate spanish q_inter_nr_8_7ef23e41:
 
     # nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
-    nr "*sniffs* Mmm. Yup, needs a bit more dill before it's ready."
+    nr "*olfatea* Mmm. Sí, necesita un poco más de eneldo antes de que esté listo."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:52
 translate spanish q_inter_nr_4_9ff4a03c:
 
     # nr "Pull my wiener. Heh heh."
-    nr "Pull my wiener. Heh heh."
+    nr "Tira de mi salchicha. Je, je."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:93
 translate spanish q_inter_nr_10_6f8406ed:
 
     # nr "Let it rip, kid! Get out there and show those wieners who's boss."
-    nr "Let it rip, kid! Get out there and show those wieners who's boss."
+    nr "¡Dale con todo, chico! Sal ahí fuera y muéstrales a esas salchichas quién manda."
 

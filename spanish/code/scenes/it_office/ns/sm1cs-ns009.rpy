@@ -1340,21 +1340,21 @@ translate spanish strings:
 translate spanish sm1cs_ns009_sex_continue_78168329:
 
     # ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
-    ns "*giggles* Don't make feel {i}too{/i} embarrassed, [mcname]."
+    ns "*risitas* No me hagas sentir {i}demasiado{/i} avergonzada, [mcname]."
 
 translate spanish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
     old "Dominate Nari"
-    new "Dominate Nari"
+    new "Dominar a Nari"
 
     # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:427
     old "Don't dominate Nari"
-    new "Don't dominate Nari"
+    new "No dominar a Nari"
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:87
 translate spanish sm1cs_ns009_f37a2921:
 
     # mc "And... I totally wasn't scared."
-    mc "And... I totally wasn't scared."
+    mc "Y... no estuve asustado para nada."
 

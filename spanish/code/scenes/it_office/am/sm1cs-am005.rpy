@@ -994,135 +994,135 @@ translate spanish strings:
 translate spanish sm1cs_am005_d267eb2f:
 
     # mct "This can't go on. I need to at least get us back on the same page."
-    mct "This can't go on. I need to at least get us back on the same page."
+    mct "Esto no puede seguir así. Necesito, al menos, que volvamos a estar en sintonía."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:37
 translate spanish sm1cs_am005_71f06d2b:
 
     # mc "Hey, April."
-    mc "Hey, April."
+    mc "Hola, Abril."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:77
 translate spanish sm1cs_am005_hours_later_e90fce66:
 
     # mct "Finally. That's the last ticket for my shift."
-    mct "Finally. That's the last ticket for my shift."
+    mct "Por fin. Ese fue el último ticket de mi turno."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:86
 translate spanish sm1cs_am005_hours_later_a896092a:
 
     # mct "April texted me."
-    mct "April texted me."
+    mct "Abril me escribió."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:96
 translate spanish sm1cs_am005_hours_later_66953d1c:
 
     # am "Now I can talk.{w} So talk."
-    am "Now I can talk.{w} So talk."
+    am "Ahora puedo hablar.{w} Así que habla."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:118
 translate spanish sm1cs_am005_hours_later_146a1f48:
 
     # am "I... yes.{w} I want to talk."
-    am "I... yes.{w} I want to talk."
+    am "Yo... sí.{w} Quiero hablar."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:122
 translate spanish sm1cs_am005_hours_later_2cbd87a6:
 
     # am "So... can we just open up a new doc, [mcname]{w} Start fresh?"
-    am "So... can we just open up a new doc, [mcname]{w} Start fresh?"
+    am "Entonces... ¿podemos abrir un documento nuevo, [mcname]?{w} ¿Empezar de cero?"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:155
 translate spanish sm1cs_am005_hours_later_a275d6ef:
 
     # mct "I should be a little patient with April.{w} She's obviously got something on her mind."
-    mct "I should be a little patient with April.{w} She's obviously got something on her mind."
+    mct "Debería tener un poco de paciencia con Abril.{w} Es evidente que tiene algo en la cabeza."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:159
 translate spanish sm1cs_am005_hours_later_a7b1f1c9:
 
     # mct "Wait...{w} Is April into me?{w} It didn't seem that way in her car."
-    mct "Wait...{w} Is April into me?{w} It didn't seem that way in her car."
+    mct "Espera...{w} ¿Abril está interesada en mí?{w} No parecía ser así en su auto."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:175
 translate spanish sm1cs_am005_hours_later_0ff1fdb3:
 
     # am "What do you think, idiot?{w} All of it."
-    am "What do you think, idiot?{w} All of it."
+    am "¿Qué crees, idiota?{w} Todo."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:186
 translate spanish sm1cs_am005_sex_1_bd4a6ae6:
 
     # am "I let my bad impulses take over.{w} My brain wasn't thinking straight."
-    am "I let my bad impulses take over.{w} My brain wasn't thinking straight."
+    am "Dejé que mis malos impulsos tomaran el control.{w} No estaba pensando con claridad."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:198
 translate spanish sm1cs_am005_sex_1_028c5529:
 
     # mc "Say no more..."
-    mc "Say no more..."
+    mc "No digas más..."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:203
 translate spanish sm1cs_am005_sex_1_bd9f2d5b:
 
     # am "[mcname]...{w} That's not what I mean."
-    am "[mcname]...{w} That's not what I mean."
+    am "[mcname]...{w} No me refiero a eso."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:210
 translate spanish sm1cs_am005_sex_1_4e767ae1:
 
     # mc "Care to explain that, April?{w} As you often say, I'm not as sharp as you."
-    mc "Care to explain that, April?{w} As you often say, I'm not as sharp as you."
+    mc "¿Te gustaría explicarlo, Abril?{w} Como siempre dices, no soy tan listo como tú."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:217
 translate spanish sm1cs_am005_sex_1_5c9540af:
 
     # am "And I just, I don't know, I went stupid mode.{w} Basic mode."
-    am "And I just, I don't know, I went stupid mode.{w} Basic mode."
+    am "Y simplemente... no sé, me puse en plan idiota.{w} Como si hubiera apagado el cerebro."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:227
 translate spanish sm1cs_am005_sex_1_1d60ca19:
 
     # mct "I guess she doesn't have {b}all{/b} the answers."
-    mct "I guess she doesn't have {b}all{/b} the answers."
+    mct "Supongo que no tiene {b}todas{/b} las respuestas."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:230
 translate spanish sm1cs_am005_sex_1_5dc800e5:
 
     # mc "Text me if you ever figure it out.{w} I got other-"
-    mc "Text me if you ever figure it out.{w} I got other-"
+    mc "Escríbeme si alguna vez lo descubres.{w} Tengo otras—"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:263
 translate spanish sm1cs_am005_sex_1_61ca4758:
 
     # am "I didn't want {b}our{/b} first time to be like that."
-    am "I didn't want {b}our{/b} first time to be like that."
+    am "No quería que {b}nuestra{/b} primera vez fuera así."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:274
 translate spanish sm1cs_am005_sex_1_de51fd56:
 
     # am "Shuuuussssssh.{w} Not out here."
-    am "Shuuuussssssh.{w} Not out here."
+    am "Shhhhhh.{w} No aquí."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:280
 translate spanish sm1cs_am005_sex_1_246cc10d:
 
     # am "I don't know.{w} Maybe after I invited you to see my band."
-    am "I don't know.{w} Maybe after I invited you to see my band."
+    am "No lo sé.{w} Quizás después de invitarte a ver a mi banda."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:600
 translate spanish sm1cs_am005_thumbsup_end_901d4d24:
 
     # mct "Uh. Did she just really give me a thumbs up?"
-    mct "Uh. Did she just really give me a thumbs up?"
+    mct "Uh. ¿De verdad me acaba de hacer un gesto de aprobación?"
 
 translate spanish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
     old "Push it"
-    new "Push it"
+    new "Insistir"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:41
     old "Don't push it"
-    new "Don't push it"
+    new "No insistir"
 

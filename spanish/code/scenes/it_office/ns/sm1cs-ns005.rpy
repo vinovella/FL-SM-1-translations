@@ -1120,41 +1120,41 @@ translate spanish strings:
 translate spanish sm1cs_ns005_ef1a9eef:
 
     # mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
-    mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
+    mct "Debería dejar de perder el tiempo y pedirle una cita. Estoy seguro de que disfrutaría de una linda velada en lugar de seguir haciendo análisis financieros profundos."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:46
 translate spanish sm1cs_ns005_bdbf9d38:
 
     # ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
-    ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
+    ns "*risitas* No tienes que hacer una reverencia también. Fui yo quien tuvo que dejarte esperando cuando recibí una llamada la última vez."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:65
 translate spanish sm1cs_ns005_ecb1749e:
 
     # ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
-    ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
+    ns "Son caramelos de ginseng azul, uno de mis aperitivos favoritos de mi tierra."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:353
 translate spanish sm1cs_ns005_in_bathroom_55af1966:
 
     # mc "I... I don't. But I want you to finish me off."
-    mc "I... I don't. But I want you to finish me off."
+    mc "Yo... yo no. Pero quiero que termines conmigo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:503
 translate spanish sm1cs_ns005_after_cum_f15deec7:
 
     # ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
-    ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
+    ns "Fue mucho semen, [mcname]. Confío en que eso significa que lo disfrutaste."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:642
 translate spanish sm1cs_ns005_after_cum_5af9bd6d:
 
     # ns "You know I'm very efficient."
-    ns "You know I'm very efficient."
+    ns "Sabes que soy muy eficiente."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:646
 translate spanish sm1cs_ns005_after_cum_34dbd9c4:
 
-    # mc "Give me a little time and I'll find a restaurant and text you the details."
-    mc "Give me a little time and I'll find a restaurant and text you the details."
+    # mc "Dame un poco de tiempo y buscaré un restaurante y te enviaré los detalles por mensaje de texto."
+    mc "Dame un poco de tiempo y buscaré un restaurante y te enviaré los detalles por mensaje de texto."
 
