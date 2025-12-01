@@ -58,12 +58,6 @@ translate deutsch sm1cs_mes001_708bec31:
     # mes "*soft sigh* Yes. Things got a little complicated after the last time we saw each other."
     mes "*leises Seufzen* Ja. Seit wir uns das letzte Mal gesehen haben, ist es etwas kompliziert geworden."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:54
-translate deutsch sm1cs_mes001_39488d6a:
-
-    # mc "\"Complicated\" that's one way to describe everything that's happened."
-    mc "\"Kompliziert\" – so könnte man alles, was passiert ist, beschreiben."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:55
 translate deutsch sm1cs_mes001_94c2b1ed:
 
@@ -496,12 +490,6 @@ translate deutsch sm1cs_mes001_b54749f3:
     # mes "And why exactly does a team of professionals need a jokester?"
     mes "Und warum genau braucht ein Team von Fachleuten einen Spaßvogel?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:247
-translate deutsch sm1cs_mes001_f1a7154e:
-
-    # mc "When you're painting and drywalling walls for the third day straight, it helps to have someone cracking jokes at two in the morning."
-    mc "Wenn man drei Tage lang ununterbrochen Wände streicht und Trockenbauwände aufstellt, ist es hilfreich, wenn jemand um zwei Uhr morgens Witze macht."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:250
 translate deutsch sm1cs_mes001_ba677a9b:
 
@@ -753,12 +741,6 @@ translate deutsch sm1cs_mes001_812f8da4:
 
     # mes "They saw me floundering, they knew I was upset about life, and they thought, 'Oh, a stable relationship will fix everything'."
     mes "Sie sahen, wie ich mich abmühte, sie wussten, dass ich mit meinem Leben unzufrieden war, und sie dachten, oh, eine stabile Beziehung wird alles in Ordnung bringen."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:352
-translate deutsch sm1cs_mes001_e13edf2e:
-
-    # mc "Too bad they didn't consider that stable also means \"happy\" something a forced setup wouldn't necessarily guarantee."
-    mc "Schade, dass sie nicht bedacht haben, dass stabil auch \"glücklich\" bedeutet – etwas, das eine erzwungene Konstellation nicht unbedingt garantieren würde."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:355
 translate deutsch sm1cs_mes001_d4c70379:

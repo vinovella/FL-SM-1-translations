@@ -988,12 +988,6 @@ translate chinese sm1cs_mes_r1_watersports_48bfeefa:
     # mes "Please? I want to feel it again..."
     mes "拜托？我想再次感受..."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:412
-translate chinese sm1cs_mes_r1_watersports_b9ecb643:
-
-    # mes "I need your piss all over me. Make your dirty little piss slut."
-    mes "我需要你的尿遍布我全身。让我成为你肮脏的小尿奴。"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:416
 translate chinese sm1cs_mes_r1_watersports_0f840e6b:
 
@@ -1647,12 +1641,6 @@ translate chinese sm1cs_mes_r1_end_9115f74c:
 
     # mc "Good. I'll always be here. Always."
     mc "好。我永远都在。永远。"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:696
-translate chinese sm1cs_mes_r1_end_6364a7f9:
-
-    # mes "I'm glad I came back from Korea. This...us... {w} Being together."
-    mes "我很高兴从韩国回来了。这个...我们... {w} 在一起。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:697
 translate chinese sm1cs_mes_r1_end_2b92c25b:

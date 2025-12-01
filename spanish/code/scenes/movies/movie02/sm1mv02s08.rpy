@@ -997,3 +997,4 @@ translate spanish sm1mv02s08_mid_continue_17625dad:
 translate spanish sm1mv02s08_end_talk_95319d56:
     # mc "And lucky for us, it's a naughty one."
     mc "Y por suerte para nosotros, es una traviesa."
+

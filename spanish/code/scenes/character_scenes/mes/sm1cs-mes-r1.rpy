@@ -976,12 +976,6 @@ translate spanish sm1cs_mes_r1_watersports_48bfeefa:
     # mes "Please? I want to feel it again..."
     mes "Please? I want to feel it again..."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:412
-translate spanish sm1cs_mes_r1_watersports_b9ecb643:
-
-    # mes "I need your piss all over me. Make your dirty little piss slut."
-    mes "I need your piss all over me. Make your dirty little piss slut."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:416
 translate spanish sm1cs_mes_r1_watersports_0f840e6b:
 
@@ -1635,12 +1629,6 @@ translate spanish sm1cs_mes_r1_end_9115f74c:
 
     # mc "Good. I'll always be here. Always."
     mc "Good. I'll always be here. Always."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:696
-translate spanish sm1cs_mes_r1_end_6364a7f9:
-
-    # mes "I'm glad I came back from Korea. This...us... {w} Being together."
-    mes "I'm glad I came back from Korea. This...us... {w} Being together."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:697
 translate spanish sm1cs_mes_r1_end_2b92c25b:

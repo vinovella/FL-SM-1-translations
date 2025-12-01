@@ -75,3 +75,4 @@ translate spanish sm1mv01s04_2i_76eb3269:
 
     # sy "Bingo. Now get to it."
     sy "Bingo. Ahora, ¡a trabajar!"
+

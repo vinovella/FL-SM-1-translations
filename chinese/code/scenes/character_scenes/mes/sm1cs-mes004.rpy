@@ -484,12 +484,6 @@ translate chinese sm1cs_mes004_after_dance_c95aa715:
     # mc "Do you want to talk about it?"
     mc "你想谈谈吗？"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:332
-translate chinese sm1cs_mes004_after_dance_bd9106df:
-
-    # mes "No. It's."
-    mes "不。这是。"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:336
 translate chinese sm1cs_mes004_after_dance_f737300f:
 

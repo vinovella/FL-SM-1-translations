@@ -838,12 +838,6 @@ translate italian sm1ms028_location_change_4bc402b0:
     # mc "Something fishy about that guy."
     mc "C'è qualcosa di losco in quel tizio."
 
-# game/code/scenes/main_story/sm1ms028.rpy:360
-translate italian sm1ms028_location_change_8dfc4507:
-
-    # mc "We will need to watch him very carefully if Lyssa says ew can do business together."
-    mc "Dovremo tenerlo d'occhio molto attentamente se Lyssa dice che possiamo fare affari insieme."
-
 # game/code/scenes/main_story/sm1ms028.rpy:363
 translate italian sm1ms028_location_change_789d0fbf:
 

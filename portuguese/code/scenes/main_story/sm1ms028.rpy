@@ -838,12 +838,6 @@ translate portuguese sm1ms028_location_change_4bc402b0:
     # mc "Something fishy about that guy."
     mc "Tem algo estranho nesse cara."
 
-# game/code/scenes/main_story/sm1ms028.rpy:360
-translate portuguese sm1ms028_location_change_8dfc4507:
-
-    # mc "We will need to watch him very carefully if Lyssa says ew can do business together."
-    mc "Vamos ter que ficar bem de olho nele se a Lyssa falar a gente pode fazer parceria."
-
 # game/code/scenes/main_story/sm1ms028.rpy:363
 translate portuguese sm1ms028_location_change_789d0fbf:
 

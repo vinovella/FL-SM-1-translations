@@ -340,12 +340,6 @@ translate portuguese sm1cs_mes005_221c7c0b:
     # mc "Come on. She says she's finishing up a session."
     mc "Vem. Ela disse que tá terminando um ensaio."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:160
-translate portuguese sm1cs_mes005_19a94ea1:
-
-    # mc "Pay your bill and let's go meet Kanya"
-    mc "Paga sua conta e vamos lá ver a Kanya."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:163
 translate portuguese sm1cs_mes005_90378096:
 
@@ -903,12 +897,6 @@ translate portuguese sm1cs_mes005_28db3c43:
 
     # mc "No really. I wish we were going to a Fetish Locator party after this."
     mc "Não, é sério. Queria ir numa festa do Fetish Locator depois disso."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:449
-translate portuguese sm1cs_mes005_0905cec0:
-
-    # kv "Already, let's keep things nice and loose."
-    kv "Beleza, vamos manter a descontração."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:452
 translate portuguese sm1cs_mes005_a59da392:

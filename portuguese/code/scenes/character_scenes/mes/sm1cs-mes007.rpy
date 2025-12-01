@@ -178,12 +178,6 @@ translate portuguese sm1cs_mes007_921d09a4:
     # mes "I'm small but not {i}that{/i} small."
     mes "Eu sou pequena, mas não {i}tão{/i} pequena."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:148
-translate portuguese sm1cs_mes007_74fb982f:
-
-    # mes "And you lugging the big stuff save me the trouble of building an elaborate pulley and winch system that might damage the studio."
-    mes "E você carregando as coisas grandes me poupe o trabalho de criar um sistema elaborado de roldanas e guincho que poderia danificar o estúdio."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:153
 translate portuguese sm1cs_mes007_5595ea9d:
 
@@ -387,12 +381,6 @@ translate portuguese sm1cs_mes007_ac615639:
 
     # mes "I just want our lines of demarcation to be clear."
     mes "Eu só quero que as nossas demarcações fiquem claras."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:261
-translate portuguese sm1cs_mes007_1e3503da:
-
-    # mes "This is your home, but this is going to be my home within you home."
-    mes "Essa é a sua casa, mas isso aqui vai ser a minha casa dentro da sua."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:266
 translate portuguese sm1cs_mes007_3ff8f3e1:
@@ -646,12 +634,6 @@ translate portuguese sm1cs_mes007_continue_391ae28e:
     # mc "You're always pretty in pink."
     mc "Você sempre fica bonita de rosa."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:433
-translate portuguese sm1cs_mes007_continue_88f94c10:
-
-    # mc "I appreciate, Min. But my favoite thing about panties is when I pull them off you."
-    mc "Obrigado, Min. Mas a minha parte favorita das calcinhas é quando eu arranco elas de você."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:436
 translate portuguese sm1cs_mes007_continue_a80d84c6:
 
@@ -741,12 +723,6 @@ translate portuguese sm1cs_mes007_continue_07bae835:
 
     # mes "Smart man."
     mes "Esperto."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:520
-translate portuguese sm1cs_mes007_continue_0c0badc7:
-
-    # mc "Knock yourself out. Just don't be surprised to feel a sudden presure pushing against your pussy."
-    mc "Manda ver. Só não ache estranho se sentir uma pressão contra a sua boceta."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:523
 translate portuguese sm1cs_mes007_continue_9d4a3295:
@@ -904,12 +880,6 @@ translate portuguese sm1cs_mes007_continue_5f745e82:
     # mes "Give it to me."
     mes "Mete, vai."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:598
-translate portuguese sm1cs_mes007_continue_bd71179a:
-
-    # mes "Imprint the shape of yoru cock against my womb."
-    mes "Grava o formato do seu pau no meu útero."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:601
 translate portuguese sm1cs_mes007_continue_3250dad8:
 
@@ -957,12 +927,6 @@ translate portuguese sm1cs_mes007_continue_0f1f5fb8:
 
     # mes "Oh!"
     mes "Ah!"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:638
-translate portuguese sm1cs_mes007_continue_d8c79ef2:
-
-    # mes "On you're grinding me down!"
-    mes "Aaih, você tá acabando comigo!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:639
 translate portuguese sm1cs_mes007_continue_14bb7e2c:
@@ -1047,12 +1011,6 @@ translate portuguese sm1cs_mes007_continue_f6640250:
 
     # mes "Fffummmtth!"
     mes "Fffummmtth!"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:703
-translate portuguese sm1cs_mes007_continue_715a92c0:
-
-    # mes "Gulp."
-    mes "*gulp*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:706
 translate portuguese sm1cs_mes007_continue_1a5e043e:
@@ -1149,12 +1107,6 @@ translate portuguese sm1cs_mes007_continue_9840b0f1:
 
     # mc "It's going to be amazing."
     mc "Vai ser incrível."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:764
-translate portuguese sm1cs_mes007_continue_b81b5ced:
-
-    # mes "I like your spunky atttitude."
-    mes "Gostei da sua atitude."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:765
 translate portuguese sm1cs_mes007_continue_dea7848b:

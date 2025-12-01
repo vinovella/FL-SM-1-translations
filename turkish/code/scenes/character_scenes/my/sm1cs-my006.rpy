@@ -184,12 +184,6 @@ translate turkish sm1cs_my006_hotel_room_cf7af754:
     # my "Hehehehehehe!"
     my "Hehehehehehe!"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:124
-translate turkish sm1cs_my006_hotel_room_78d991b7:
-
-    # my "I will say though, my ranking from best to worse is Episode 5-4-6-3-1-2."
-    my "Yine de şunu söyleyeyim, en iyiden en kötüye sıralamam Bölüm 5-4-6-3-1-2."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:126
 translate turkish sm1cs_my006_hotel_room_ee7f1e17:
 
@@ -255,12 +249,6 @@ translate turkish sm1cs_my006_hotel_room_f49fff8f:
 
     # mc "Yeah?"
     mc "Evet?"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:154
-translate turkish sm1cs_my006_hotel_room_32febd7a:
-
-    # my "I want to say 'thank you'. Thank you for talking to treating me so well after how I acted when I first came to Crowning."
-    my "'Teşekkür ederim' demek istiyorum. Crowning'e ilk geldiğimde nasıl davrandığımdan sonra bana bu kadar iyi davrandığın için teşekkürler."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:155
 translate turkish sm1cs_my006_hotel_room_fce185f1:
@@ -339,12 +327,6 @@ translate turkish sm1cs_my006_hotel_room_55960cda:
 
     # my "Shhh. Leave everything to Mommy, my dear."
     my "Shhh. Her şeyi annecine bırak, canım."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:203
-translate turkish sm1cs_my006_hotel_room_dbe21ac6:
-
-    # my "Leave it to me, [mcname]"
-    my "Bana bırak, [mcname]"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:206
 translate turkish sm1cs_my006_hotel_room_604f3eaa:
@@ -429,18 +411,6 @@ translate turkish sm1cs_my006_hotel_room_29af458c:
 
     # mc "That's - ngggg - you're incredible!"
     mc "Bu - ngggg - inanılmazsın!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:247
-translate turkish sm1cs_my006_hotel_room_fffdfd43:
-
-    # mc "Holy shit, Mom is sucking my cock!"
-    mc "Lanet olsun, annem aletimi emiyor!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:249
-translate turkish sm1cs_my006_hotel_room_ce1954a5:
-
-    # mc "Holy shit, Melony is sucking my cock!"
-    mc "Lanet olsun, Melony aletimi emiyor!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:250
 translate turkish sm1cs_my006_hotel_room_09fa23af:
@@ -1012,12 +982,6 @@ translate turkish sm1cs_my006_hotel_room_4339e553:
     # mc "If memory serves, wasn't it just you who was begging me to go until you came?"
     mc "Eğer hafızam beni yanıltmıyorsa, boşalana kadar devam etmem için yalvaran sen değil miydin?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:459
-translate turkish sm1cs_my006_hotel_room_f4bfcab7:
-
-    # mc "Maybe, I want to tease you a little bit?"
-    mc "Belki seni biraz kızdırmak istiyorum?"
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:462
 translate turkish sm1cs_my006_hotel_room_b6c49741:
 
@@ -1384,12 +1348,6 @@ translate turkish sm1cs_my006_hotel_room_7d05dd5d:
     # mc "Are you okay!?"
     mc "İyi misin!?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:590
-translate turkish sm1cs_my006_hotel_room_ac0a9870:
-
-    # my "Mmmhmmm! B-better than, okay!"
-    my "Mmmhmmm! İ-iyiden daha iyi, tamam!"
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:591
 translate turkish sm1cs_my006_hotel_room_fe4cb180:
 
@@ -1527,12 +1485,6 @@ translate turkish sm1cs_my006_hotel_room_e5283d8e:
 
     # my "Let's see if I can't help us both out..."
     my "Bakalım ikimize de yardım edebilecek miyim..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:631
-translate turkish sm1cs_my006_hotel_room_7ef48fb7:
-
-    # my "Fuck, fuck, quick it, fuck, faster! Mmmmmm!"
-    my "Siktir, siktir, hızlı, siktir, daha hızlı! Mmmmmm!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:632
 translate turkish sm1cs_my006_hotel_room_1c9aab7f:
@@ -2080,12 +2032,6 @@ translate turkish sm1cs_my006_next_morning_5f7d7a52:
     # mc "Last night was incredible. And I can't wait to do it again. I want to be even closer to you."
     mc "Dün gece inanılmazdı. Ve bunu tekrar yapmak için sabırsızlanıyorum. Sana daha da yakın olmak istiyorum."
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:868
-translate turkish sm1cs_my006_next_morning_d00aa485:
-
-    # mc "There's still so much I don't know about you, even though you've been around, my whole life."
-    mc "Hayatım boyunca yanımda olduğun halde, hakkında hala bilmediğim çok şey var."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:871
 translate turkish sm1cs_my006_next_morning_79e58387:
 
@@ -2277,12 +2223,6 @@ translate turkish sm1cs_my006_at_studio_53d2dc99:
 
     # sy "Hell yeah you did!"
     sy "Tabii ki geçirdin!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:976
-translate turkish sm1cs_my006_at_studio_1f5f52ab:
-
-    # mc "-and I just want to take shower and get a cup of coffee, okay?"
-    mc "-ve sadece duş alıp bir fincan kahve içmek istiyorum, tamam mı?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:977
 translate turkish sm1cs_my006_at_studio_ca090197:

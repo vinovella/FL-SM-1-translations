@@ -58,12 +58,6 @@ translate italian sm1cs_mes001_708bec31:
     # mes "*soft sigh* Yes. Things got a little complicated after the last time we saw each other."
     mes "*sospiro leggero* Sì. Le cose si sono complicate un po' dopo l'ultima volta che ci siamo visti."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:54
-translate italian sm1cs_mes001_39488d6a:
-
-    # mc "\"Complicated\" that's one way to describe everything that's happened."
-    mc "\"Complicato\" è un modo per descrivere tutto ciò che è successo."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:55
 translate italian sm1cs_mes001_94c2b1ed:
 
@@ -508,12 +502,6 @@ translate italian sm1cs_mes001_b54749f3:
     # mes "And why exactly does a team of professionals need a jokester?"
     mes "E perché esattamente un team di professionisti ha bisogno di un burlone?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:247
-translate italian sm1cs_mes001_f1a7154e:
-
-    # mc "When you're painting and drywalling walls for the third day straight, it helps to have someone cracking jokes at two in the morning."
-    mc "Quando stai dipingendo e installando pareti a secco per il terzo giorno di fila, aiuta avere qualcuno che fa battute alle due del mattino."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:250
 translate italian sm1cs_mes001_ba677a9b:
 
@@ -771,12 +759,6 @@ translate italian sm1cs_mes001_812f8da4:
 
     # mes "They saw me floundering, they knew I was upset about life, and they thought, 'Oh, a stable relationship will fix everything'."
     mes "Mi hanno vista annaspare, sapevano che ero sconvolta per la vita, e hanno pensato, 'Oh, una relazione stabile aggiusterà tutto'."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:352
-translate italian sm1cs_mes001_e13edf2e:
-
-    # mc "Too bad they didn't consider that stable also means \"happy\" something a forced setup wouldn't necessarily guarantee."
-    mc "Peccato che non abbiano considerato che stabile significa anche \"felice\" qualcosa che un accordo forzato non garantirebbe necessariamente."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:355
 translate italian sm1cs_mes001_d4c70379:

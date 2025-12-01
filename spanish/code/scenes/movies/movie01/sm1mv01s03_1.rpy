@@ -438,3 +438,4 @@ translate spanish strings:
 
     old "Two mind-numbing hours later"
     new "Dos horas insoportables después"
+

@@ -352,12 +352,6 @@ translate portuguese sm1ms024_64ea2368:
     # sy "I don't-"
     sy "Eu não-"
 
-# game/code/scenes/main_story/sm1ms024.rpy:178
-translate portuguese sm1ms024_172363cd:
-
-    # mc "Come one, you have that look on your face."
-    mc "Qualé, você tá com aquele seu olhar."
-
 # game/code/scenes/main_story/sm1ms024.rpy:181
 translate portuguese sm1ms024_893f3db8:
 

@@ -10,12 +10,6 @@ translate french sm1cs_mh006_74515ee9:
     # mh "Same old, same old. Not much changes. Client needs a lawyer for a contract, or work dispute, I show up. I do the job, collect my retainer, head home to watch whatever's on the news."
     mh "Comme toujours, rien ne change. Un client a besoin d’un avocat pour un contrat ou un litige au travail, j’arrive, je fais le boulot, je touche mes honoraires et je rentre regarder les infos."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:43
-translate french sm1cs_mh006_0fc446c6:
-
-    # mc "That sounds... Exhilirating."
-    mc "Ça a l’air... palpitant."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:46
 translate french sm1cs_mh006_7478ac5c:
 
@@ -93,12 +87,6 @@ translate french sm1cs_mh006_85e245ca:
 
     # mc "I don't know. You're really good at your job. So like, 3 months?"
     mc "Je sais pas. Vu à quel point tu es douée, je dirais... trois mois ?"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:82
-translate french sm1cs_mh006_69618dba:
-
-    # mh "You're incouragable. No, it took me years to get my clients. Between consistency, trust, meshing with each other - it wasn't an overnight matter."
-    mh "Incorrigible... Non, ça m’a pris des années pour me faire une clientèle. Entre la constance, la confiance et le bon feeling, ça ne se fait pas du jour au lendemain."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:84
 translate french sm1cs_mh006_5693a819:
@@ -639,12 +627,6 @@ translate french sm1cs_mh006_after_choice_5ac8cc43:
 
     # mc "Good. Good..."
     mc "Bien... bien..."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:320
-translate french sm1cs_mh006_after_choice_047c5d38:
-
-    # mc "Wel, uhm... I guess-"
-    mc "Bon, euh... je suppose que..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:323
 translate french sm1cs_mh006_after_choice_b5fd75b7:

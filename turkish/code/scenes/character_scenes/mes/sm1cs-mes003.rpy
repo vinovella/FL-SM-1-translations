@@ -328,12 +328,6 @@ translate turkish sm1cs_mes003_cc17436b:
     # mes "I guess we both enjoyed our time together in my pool."
     mes "Sanırım ikimiz de havuzumda geçirdiğimiz zamandan keyif aldık."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:225
-translate turkish sm1cs_mes003_a5158368:
-
-    # mc "We can't all live in trust-fun homes."
-    mc "Hepimiz güvenli evlerde yaşayamayız."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:228
 translate turkish sm1cs_mes003_61fad611:
 
@@ -1353,12 +1347,6 @@ translate turkish sm1cs_mes003_menu_fd134cc0:
 
     # mc "Throatfucking you feels so good, Min."
     mc "Seni boğazlamak çok güzel hissettiriyor, Min."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:773
-translate turkish sm1cs_mes003_menu_5801802c:
-
-    # mes "*happy stuff moans*"
-    mes "*mutlu şeyler inliyor*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:776
 translate turkish sm1cs_mes003_menu_1c7497b8:

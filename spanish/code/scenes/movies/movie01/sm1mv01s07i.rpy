@@ -21,3 +21,4 @@ translate spanish sm1mv01s07i_6651ab87:
 
     # mc "Alright."
     mc "De acuerdo."
+

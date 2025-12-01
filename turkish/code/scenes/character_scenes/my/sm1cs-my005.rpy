@@ -736,12 +736,6 @@ translate turkish sm1cs_my005_half_movie_b0d66757:
     # my "Mmmmmmm..."
     my "Mmmmmmm..."
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:334
-translate turkish sm1cs_my005_half_movie_4c89329b:
-
-    # mct "Oh God, what the hell do I do know?"
-    mct "Tanrım, şimdi ne lanet olası yapayım?"
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:335
 translate turkish sm1cs_my005_half_movie_e3ac023f:
 
@@ -1191,12 +1185,6 @@ translate turkish sm1cs_my005_after_movie_bedbf63c:
 
     # mc "Hey, you're welcome to pass out on our couch any time, Melony."
     mc "Hey, istediğin zaman kanepemizde bayılabilirsin, Melony."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:505
-translate turkish sm1cs_my005_after_movie_e97c69fb:
-
-    # my "My days of couch crashing our far behind me."
-    my "Kanepede uyuma günlerim çok geride kaldı."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:509
 translate turkish sm1cs_my005_after_movie_03335dbc:

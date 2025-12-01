@@ -796,12 +796,6 @@ translate italian sm1cs_mas004_after_lunch_31aeabe2:
     # ms "You know the worst thing about it?{w} Those interviews felt like a fucking vacation!"
     ms "Sai qual è la cosa peggiore?{w} Quei colloqui sembravano una fottuta vacanza!"
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:555
-translate italian sm1cs_mas004_after_lunch_729d452e:
-
-    # ms "So I'm done waiting for something good to happen to me. I'm going to {i}make {/i} something good happen."
-    ms "Quindi ho finito di aspettare che mi accada qualcosa di buono. {i}Farò {/i}accadere qualcosa di buono."
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:556
 translate italian sm1cs_mas004_after_lunch_d7fe0636:
 
@@ -1173,12 +1167,6 @@ translate italian sm1cs_mas004_after_lunch_435f2123:
 
     # ms "*voice drops* Spank me. Make me feel it."
     ms "*voce che si abbassa* Sculacciami. Fammi sentire."
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:784
-translate italian sm1cs_mas004_after_lunch_6f9546d6:
-
-    # ms "**raw moaning* Fuck...yes."
-    ms "*gemiti intensi* Cazzo... sì."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:785
 translate italian sm1cs_mas004_after_lunch_4cd2d6dd:

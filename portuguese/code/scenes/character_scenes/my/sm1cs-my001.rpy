@@ -424,12 +424,6 @@ translate portuguese sm1cs_my001_3d8e743d:
     # "Waiter" "Can I start you off with anything to drink?"
     "Garçom" "Posso começar trazendo algo para beberem?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:236
-translate portuguese sm1cs_my001_520dd091:
-
-    # my "Mmmmm, I'll take a glass of the hosue red."
-    my "Mmmmm, eu quero uma taça do vinho tinto da casa."
-
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:238
 translate portuguese sm1cs_my001_9947685b:
 
@@ -502,18 +496,6 @@ translate portuguese sm1cs_my001_6dc64527:
     # my "I used to have this... friend. Now, he wasn't exactly working in the adult entertainment industry, but close. Lots of nude models in his studio, lots of partying..."
     my "Eu tinha um... amigo. Claro, ele não trabalhava na indústria de entretenimento adulto exatamente, mas era quase. Muitas modelos nuas no estúdio dele, muita festa..."
 
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:269
-translate portuguese sm1cs_my001_a83aec2c:
-
-    # my "But this little empire of industry he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
-    my "Mas esse impériozinho que ele começou a construir começou a desandar. Problemas na vida amorosa, ideias meia-boca para arrumar dinheiro..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:272
-translate portuguese sm1cs_my001_0a575054:
-
-    # my "The models own personal lives becoming intwined with his work and the studio..."
-    my "As vidas pessoais das modelos se misturaram com o trabalho dele e o estúdio..."
-
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:273
 translate portuguese sm1cs_my001_a9a8a236:
 
@@ -567,12 +549,6 @@ translate portuguese sm1cs_my001_a3a9b546:
 
     # mc "How about an order of those to start. And then we'll each have an order of the pasta linguini."
     mc "Por que não começar com um desses então. Aí vamos querer um prato de linguini pra cada."
-
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:299
-translate portuguese sm1cs_my001_8c89e5bd:
-
-    # "Waiter" "Both wonderful choices, sit."
-    "Garçom" "Ótimas escolhas, senhor."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:306
 translate portuguese sm1cs_my001_153e3d04:
@@ -657,12 +633,6 @@ translate portuguese sm1cs_my001_b8cc636d:
 
     # my "No, no. Nothing like that. I've just always found hotels... sterile. There's no life in them."
     my "Não, não. Não é nada disso. É que eu sempre achei hotéis... estéreis. Não tem vida."
-
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:346
-translate portuguese sm1cs_my001_2cecdbca:
-
-    # my "The erase the personality so you can fill it with whatever you can fit into a suitcase."
-    my "Eles apagam a personalidade para você preencher com o que couber na sua mala."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:349
 translate portuguese sm1cs_my001_d9480244:

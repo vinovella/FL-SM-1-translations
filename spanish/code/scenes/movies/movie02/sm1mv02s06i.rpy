@@ -21,3 +21,4 @@ translate spanish sm1mv02s06i_41494785:
 
     # mc "Sounds good!"
     mc "¡Suena bien!"
+

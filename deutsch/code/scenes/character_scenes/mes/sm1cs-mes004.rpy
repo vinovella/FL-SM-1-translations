@@ -484,12 +484,6 @@ translate deutsch sm1cs_mes004_after_dance_c95aa715:
     # mc "Do you want to talk about it?"
     mc "Möchtest du darüber reden?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:332
-translate deutsch sm1cs_mes004_after_dance_bd9106df:
-
-    # mes "No. It's."
-    mes "Nein. Es ist."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:336
 translate deutsch sm1cs_mes004_after_dance_f737300f:
 

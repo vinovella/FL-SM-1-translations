@@ -424,12 +424,6 @@ translate deutsch sm1cs_my001_3d8e743d:
     # "Waiter" "Can I start you off with anything to drink?"
     "Kellner" "Möchtet ihr etwas zu trinken?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:236
-translate deutsch sm1cs_my001_520dd091:
-
-    # my "Mmmmm, I'll take a glass of the hosue red."
-    my "Mmmmm, ich nehme ein Glas Hauswein, bitte."
-
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:238
 translate deutsch sm1cs_my001_9947685b:
 
@@ -502,18 +496,6 @@ translate deutsch sm1cs_my001_6dc64527:
     # my "I used to have this... friend. Now, he wasn't exactly working in the adult entertainment industry, but close. Lots of nude models in his studio, lots of partying..."
     my "Ich hatte mal diesen... Freund. Nun, er arbeitete nicht direkt in der Erotikbranche, aber fast. Viele Nacktmodels in seinem Studio, viele Partys..."
 
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:269
-translate deutsch sm1cs_my001_a83aec2c:
-
-    # my "But this little empire of industry he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
-    my "Doch dieses kleine Industrieimperium, das er aufgebaut hatte, begann zu zerfallen. Probleme in seinem Liebesleben, unausgereifte Ideen, um Geld zu verdienen..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:272
-translate deutsch sm1cs_my001_0a575054:
-
-    # my "The models own personal lives becoming intwined with his work and the studio..."
-    my "Das Privatleben der Models verflochten sich mit seiner Arbeit und dem Studio..."
-
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:273
 translate deutsch sm1cs_my001_a9a8a236:
 
@@ -567,12 +549,6 @@ translate deutsch sm1cs_my001_a3a9b546:
 
     # mc "How about an order of those to start. And then we'll each have an order of the pasta linguini."
     mc "Wie wäre es mit einer Portion davon zum Auftakt? Und dann nehmen wir jeder eine Portion Linguini-Nudeln."
-
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:299
-translate deutsch sm1cs_my001_8c89e5bd:
-
-    # "Waiter" "Both wonderful choices, sit."
-    "Kellner" "Beides wunderbare Entscheidungen, Sir."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:306
 translate deutsch sm1cs_my001_153e3d04:
@@ -657,12 +633,6 @@ translate deutsch sm1cs_my001_b8cc636d:
 
     # my "No, no. Nothing like that. I've just always found hotels... sterile. There's no life in them."
     my "Nein, nein. Nichts dergleichen. Ich habe Hotels nur immer als steril empfunden. Es gibt kein Leben in ihnen."
-
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:346
-translate deutsch sm1cs_my001_2cecdbca:
-
-    # my "The erase the personality so you can fill it with whatever you can fit into a suitcase."
-    my "Sie Löschen die Persönlichkeit, damit Sie dich mit allem füllen können, was in einen Koffer passt."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:349
 translate deutsch sm1cs_my001_d9480244:

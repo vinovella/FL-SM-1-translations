@@ -10,12 +10,6 @@ translate deutsch sm1cs_mh006_74515ee9:
     # mh "Same old, same old. Not much changes. Client needs a lawyer for a contract, or work dispute, I show up. I do the job, collect my retainer, head home to watch whatever's on the news."
     mh "Immer dasselbe. Es ändert sich nicht viel. Der Kunde braucht einen Anwalt für einen Vertrag oder einen Arbeitskonflikt, ich komme vorbei. Ich erledige den Auftrag, kassiere mein Honorar und gehe nach Hause, um mir die Nachrichten anzusehen."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:43
-translate deutsch sm1cs_mh006_0fc446c6:
-
-    # mc "That sounds... Exhilirating."
-    mc "Das klingt... aufregend."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:46
 translate deutsch sm1cs_mh006_7478ac5c:
 
@@ -93,12 +87,6 @@ translate deutsch sm1cs_mh006_85e245ca:
 
     # mc "I don't know. You're really good at your job. So like, 3 months?"
     mc "Ich weiß nicht. Du bist wirklich gut in deinem Job. Also etwa drei Monate?"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:82
-translate deutsch sm1cs_mh006_69618dba:
-
-    # mh "You're incouragable. No, it took me years to get my clients. Between consistency, trust, meshing with each other - it wasn't an overnight matter."
-    mh "Du bist unermüdlich. Nein, ich habe Jahre gebraucht, um meine Kunden zu gewinnen. Zwischen Beständigkeit, Vertrauen und gegenseitiger Übereinstimmung – das war keine Sache von heute auf morgen."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:84
 translate deutsch sm1cs_mh006_5693a819:
@@ -639,12 +627,6 @@ translate deutsch sm1cs_mh006_after_choice_5ac8cc43:
 
     # mc "Good. Good..."
     mc "Gut. Gut..."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:320
-translate deutsch sm1cs_mh006_after_choice_047c5d38:
-
-    # mc "Wel, uhm... I guess-"
-    mc "Nun, ähm... Ich denke..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:323
 translate deutsch sm1cs_mh006_after_choice_b5fd75b7:

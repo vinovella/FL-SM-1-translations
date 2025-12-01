@@ -796,12 +796,6 @@ translate portuguese sm1cs_mas004_after_lunch_31aeabe2:
     # ms "You know the worst thing about it?{w} Those interviews felt like a fucking vacation!"
     ms "Sabe o que é pior?{w} Essas entrevistas pareciam férias!"
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:555
-translate portuguese sm1cs_mas004_after_lunch_729d452e:
-
-    # ms "So I'm done waiting for something good to happen to me. I'm going to {i}make {/i} something good happen."
-    ms "Eu tô cansada de esperar algo legal acontecer comigo. Eu vou {i}fazer{/i} uma coisa boa acontecer."
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:556
 translate portuguese sm1cs_mas004_after_lunch_d7fe0636:
 
@@ -1173,12 +1167,6 @@ translate portuguese sm1cs_mas004_after_lunch_435f2123:
 
     # ms "*voice drops* Spank me. Make me feel it."
     ms "*voz baixa* Me dá palmada. Quero sentir."
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:784
-translate portuguese sm1cs_mas004_after_lunch_6f9546d6:
-
-    # ms "**raw moaning* Fuck...yes."
-    ms "*gemido bruto* Isso... porra."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:785
 translate portuguese sm1cs_mas004_after_lunch_4cd2d6dd:

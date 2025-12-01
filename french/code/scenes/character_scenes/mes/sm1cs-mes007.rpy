@@ -178,12 +178,6 @@ translate french sm1cs_mes007_921d09a4:
     # mes "I'm small but not {i}that{/i} small."
     mes "Je suis petite mais pas {i}à ce point{/i}-là."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:148
-translate french sm1cs_mes007_74fb982f:
-
-    # mes "And you lugging the big stuff save me the trouble of building an elaborate pulley and winch system that might damage the studio."
-    mes "Et le fait que tu portes les gros trucs m’évite de devoir construire un système de poulies compliqué qui pourrait abîmer le studio."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:153
 translate french sm1cs_mes007_5595ea9d:
 
@@ -387,12 +381,6 @@ translate french sm1cs_mes007_ac615639:
 
     # mes "I just want our lines of demarcation to be clear."
     mes "Je veux juste que nos limites soient claires."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:262
-translate french sm1cs_mes007_1e3503da:
-
-    # mes "This is your home, but this is going to be my home within you home."
-    mes "Ceci est ta maison, mais ceci va être ma maison à l’intérieur de ta maison."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:267
 translate french sm1cs_mes007_3ff8f3e1:
@@ -652,12 +640,6 @@ translate french sm1cs_mes007_continue_391ae28e:
     # mc "You're always pretty in pink."
     mc "Tu es toujours magnifique en rose."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:434
-translate french sm1cs_mes007_continue_88f94c10:
-
-    # mc "I appreciate, Min. But my favoite thing about panties is when I pull them off you."
-    mc "J’apprécie, Min. Mais ce que je préfère avec les culottes, c’est quand je les enlève de toi."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:437
 translate french sm1cs_mes007_continue_a80d84c6:
 
@@ -747,12 +729,6 @@ translate french sm1cs_mes007_continue_07bae835:
 
     # mes "Smart man."
     mes "Homme intelligent."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:521
-translate french sm1cs_mes007_continue_0c0badc7:
-
-    # mc "Knock yourself out. Just don't be surprised to feel a sudden presure pushing against your pussy."
-    mc "Fais-toi plaisir. Mais sois pas surprise si tu sens une pression soudaine contre ta petite chatte."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:524
 translate french sm1cs_mes007_continue_9d4a3295:
@@ -910,12 +886,6 @@ translate french sm1cs_mes007_continue_5f745e82:
     # mes "Give it to me."
     mes "Donne-le-moi."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:599
-translate french sm1cs_mes007_continue_bd71179a:
-
-    # mes "Imprint the shape of yoru cock against my womb."
-    mes "Imprime la forme de ta bite contre mon utérus."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:602
 translate french sm1cs_mes007_continue_3250dad8:
 
@@ -963,12 +933,6 @@ translate french sm1cs_mes007_continue_0f1f5fb8:
 
     # mes "Oh!"
     mes "Oh !"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:639
-translate french sm1cs_mes007_continue_d8c79ef2:
-
-    # mes "On you're grinding me down!"
-    mes "Tu es en train de m’écraser en me baisant !"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:640
 translate french sm1cs_mes007_continue_14bb7e2c:
@@ -1053,12 +1017,6 @@ translate french sm1cs_mes007_continue_f6640250:
 
     # mes "Fffummmtth!"
     mes "Fffummmtth !"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:704
-translate french sm1cs_mes007_continue_715a92c0:
-
-    # mes "Gulp."
-    mes "Gulp."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:707
 translate french sm1cs_mes007_continue_1a5e043e:
@@ -1155,12 +1113,6 @@ translate french sm1cs_mes007_continue_9840b0f1:
 
     # mc "It's going to be amazing."
     mc "Ça va être incroyable."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:765
-translate french sm1cs_mes007_continue_b81b5ced:
-
-    # mes "I like your spunky atttitude."
-    mes "J’aime ton attitude audacieuse."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:766
 translate french sm1cs_mes007_continue_dea7848b:

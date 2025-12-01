@@ -838,12 +838,6 @@ translate deutsch sm1ms028_location_change_4bc402b0:
     # mc "Something fishy about that guy."
     mc "Irgendetwas ist faul an diesem Typen."
 
-# game/code/scenes/main_story/sm1ms028.rpy:360
-translate deutsch sm1ms028_location_change_8dfc4507:
-
-    # mc "We will need to watch him very carefully if Lyssa says ew can do business together."
-    mc "Wir müssen ihn sehr genau beobachten, falls Lyssa sagt, dass wir zusammen Geschäfte machen können."
-
 # game/code/scenes/main_story/sm1ms028.rpy:363
 translate deutsch sm1ms028_location_change_789d0fbf:
 

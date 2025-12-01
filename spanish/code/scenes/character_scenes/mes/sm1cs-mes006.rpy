@@ -424,12 +424,6 @@ translate spanish sm1cs_mes006_14179337:
     # mes "Mu-rhuah... YES. Right there!"
     mes "Mu-rhuah... YES. Right there!"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:264
-translate spanish sm1cs_mes006_4a4e1a0d:
-
-    # mc "I love you, my naughty fuck-minx"
-    mc "I love you, my naughty fuck-minx"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:265
 translate spanish sm1cs_mes006_a7e4ffe2:
 
@@ -730,12 +724,6 @@ translate spanish sm1cs_mes006_924a8a9f:
     # mc "We all get to play the Boss character in charge of our own dungeon."
     mc "We all get to play the Boss character in charge of our own dungeon."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:418
-translate spanish sm1cs_mes006_016ace61:
-
-    # sy "Oh cool. A medusa."
-    sy "Oh cool. A medusa."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:421
 translate spanish sm1cs_mes006_74e0b126:
 
@@ -748,23 +736,11 @@ translate spanish sm1cs_mes006_4e6875bb:
     # mc "Yes, we'll randomly draw two and pick the one we like."
     mc "Yes, we'll randomly draw two and pick the one we like."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:427
-translate spanish sm1cs_mes006_a6bc92e7:
-
-    # sy "I call the medusa!"
-    sy "I call the medusa!"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:429
 translate spanish sm1cs_mes006_9ff7b3e8:
 
     # mc "Stacy that's against the rules."
     mc "Stacy that's against the rules."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:433
-translate spanish sm1cs_mes006_f90b2d59:
-
-    # sy "Rules, schmules,.{w} The medusa is sexy and she's green, like my hair."
-    sy "Rules, schmules,.{w} The medusa is sexy and she's green, like my hair."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:434
 translate spanish sm1cs_mes006_392a584c:
@@ -1222,12 +1198,6 @@ translate spanish sm1cs_mes006_continue_6f090bb6:
     # sy "Get them quickly and I shall be a sensual and merciful queen."
     sy "Get them quickly and I shall be a sensual and merciful queen."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:656
-translate spanish sm1cs_mes006_continue_eb315316:
-
-    # "[mcname] and Min" "Laughing"
-    "[mcname] and Min" "Laughing"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:659
 translate spanish sm1cs_mes006_continue_e3b9a087:
 
@@ -1558,12 +1528,6 @@ translate spanish sm1cs_mes006_continue_305c9e60:
     # mc "I imagined that if Min stayed here, then it would be like her parents have less influence on her."
     mc "I imagined that if Min stayed here, then it would be like her parents have less influence on her."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:814
-translate spanish sm1cs_mes006_continue_ec50e082:
-
-    # mes "But then wouldn't I just be trading you for my parents?"
-    mes "But then wouldn't I just be trading you for my parents?"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:819
 translate spanish sm1cs_mes006_continue_a6a41626:
 
@@ -1677,12 +1641,6 @@ translate spanish sm1cs_mes006_continue_03624646:
 
     # mc "I never shy away from a challenge."
     mc "I never shy away from a challenge."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:872
-translate spanish sm1cs_mes006_continue_6df17f5d:
-
-    # mc "But it sounds like you'er not opposed to the idea of staying here. Even with me and Stacy hooking up."
-    mc "But it sounds like you'er not opposed to the idea of staying here. Even with me and Stacy hooking up."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:875
 translate spanish sm1cs_mes006_continue_928aa4d8:
@@ -2379,12 +2337,6 @@ translate spanish sm1cs_mes006_continue_0cf47568:
 
     # mes "And after Lydia... oh fuck."
     mes "And after Lydia... oh fuck."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1221
-translate spanish sm1cs_mes006_continue_504e6b1e:
-
-    # mes "I was hesitant... being around, [mcname]."
-    mes "I was hesitant... being around, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1224
 translate spanish sm1cs_mes006_continue_3ccede34:

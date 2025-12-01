@@ -37,3 +37,4 @@ translate spanish sm1mv02s02i_d8a01e1e:
 translate spanish sm1mv02s02i_061d2d64:
     # mc "Let's have a seat."
     mc "Tomemos asiento."
+

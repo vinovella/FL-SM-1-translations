@@ -352,12 +352,6 @@ translate deutsch sm1ms024_64ea2368:
     # sy "I don't-"
     sy "Ich weiß nicht..."
 
-# game/code/scenes/main_story/sm1ms024.rpy:178
-translate deutsch sm1ms024_172363cd:
-
-    # mc "Come one, you have that look on your face."
-    mc "Komm schon, du hast diesen Ausdruck im Gesicht."
-
 # game/code/scenes/main_story/sm1ms024.rpy:181
 translate deutsch sm1ms024_893f3db8:
 

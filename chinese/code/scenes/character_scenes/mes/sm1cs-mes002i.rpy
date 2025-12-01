@@ -64,12 +64,6 @@ translate chinese sm1cs_mes002i_06f6f709:
     # mc "She told me that since she got back, she didn't reach out to anyone from college or anyone from the Fetish Locator parties."
     mc "她跟我说，回来后一直没联系大学里的人，也没联系性趣探测器里派对上认识的人。"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes002i.rpy:33
-translate chinese sm1cs_mes002i_a0c58f77:
-
-    # mc "Talking to her, it was like. I'm not sure, but she looked a bit lost."
-    mc "和她聊天时，我感觉...说不上来，但她看起来有点迷茫。"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes002i.rpy:37
 translate chinese sm1cs_mes002i_5df3ba5d:
 

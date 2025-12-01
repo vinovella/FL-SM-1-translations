@@ -328,12 +328,6 @@ translate italian sm1cs_mh002_29c9069c:
     # sy "Of course. I can email you over everything we have and get anything missing sent over."
     sy "Certo. Posso inviarti per email tutto ciò che abbiamo e farti mandare tutto ciò che manca."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:195
-translate italian sm1cs_mh002_b15c5e17:
-
-    # mh "Excellent. Well, I coudln't be much help today, but I am sure I can deliver in the next couple of days."
-    mh "Eccellente. Beh, non ho potuto esservi di molto aiuto oggi, ma sono sicura di poter consegnare nei prossimi giorni."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:198
 translate italian sm1cs_mh002_4191e217:
 

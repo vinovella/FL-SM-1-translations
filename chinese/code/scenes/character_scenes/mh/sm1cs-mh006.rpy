@@ -10,12 +10,6 @@ translate chinese sm1cs_mh006_74515ee9:
     # mh "Same old, same old. Not much changes. Client needs a lawyer for a contract, or work dispute, I show up. I do the job, collect my retainer, head home to watch whatever's on the news."
     mh "老样子。没什么变化。客户如果需要律师处理合同或者劳务纠纷，我就出面解决。做完工作，收下预付金，回家看新闻。"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:43
-translate chinese sm1cs_mh006_0fc446c6:
-
-    # mc "That sounds... Exhilirating."
-    mc "听起来...很刺激嘛。"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:46
 translate chinese sm1cs_mh006_7478ac5c:
 
@@ -93,12 +87,6 @@ translate chinese sm1cs_mh006_85e245ca:
 
     # mc "I don't know. You're really good at your job. So like, 3 months?"
     mc "不知道。你工作那么厉害。大概三个月？"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:82
-translate chinese sm1cs_mh006_69618dba:
-
-    # mh "You're incouragable. No, it took me years to get my clients. Between consistency, trust, meshing with each other - it wasn't an overnight matter."
-    mh "你可真会鼓励人。不是的，我花了好几年才积累到这些客户。要靠持续的努力、建立信任、和客户磨合--这不是一蹴而就的事。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:84
 translate chinese sm1cs_mh006_5693a819:
@@ -639,12 +627,6 @@ translate chinese sm1cs_mh006_after_choice_5ac8cc43:
 
     # mc "Good. Good..."
     mc "好。好..."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:320
-translate chinese sm1cs_mh006_after_choice_047c5d38:
-
-    # mc "Wel, uhm... I guess-"
-    mc "嗯...我想--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:323
 translate chinese sm1cs_mh006_after_choice_b5fd75b7:

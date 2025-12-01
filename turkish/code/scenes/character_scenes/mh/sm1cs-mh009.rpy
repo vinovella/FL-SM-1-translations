@@ -508,12 +508,6 @@ translate turkish sm1cs_mh009_e13e66b7:
     # mh "And... I do find myself thinking about the level of honesty and... submission, in a role like this."
     mh "Ve... böyle bir roldeki dürüstlük ve... itaat seviyesi hakkında düşünürken buluyorum kendimi."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:297
-translate turkish sm1cs_mh009_4fb44de1:
-
-    # mh "I can't help but feel a bit hungry..{w} to know more about how it works..."
-    mh "Biraz aç hissetmekten kendimi alamıyorum..{w} nasıl çalıştığı hakkında daha fazla bilmek için..."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:300
 translate turkish sm1cs_mh009_f78e912e:
 
@@ -1036,12 +1030,6 @@ translate turkish sm1cs_mh009_38a38140:
     # mc "It feels like you know how to pose yourself in your light, how to show off to the camera, how to be sexy without making it forced..."
     mc "Sanki kendi ışığında nasıl poz vereceğini, kameraya nasıl gösteriş yapacağını, zorlamadan nasıl seksi olacağını biliyorsun..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:570
-translate turkish sm1cs_mh009_294000b4:
-
-    # mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to preform for the camera."
-    mc "Ve yalan söylememin bir nedeni yok. Burası bir iş yeri ve her yetenek kamera için nasıl performans göstereceğini bilmeli."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:571
 translate turkish sm1cs_mh009_8115fc5e:
 
@@ -1191,12 +1179,6 @@ translate turkish sm1cs_mh009_4fe9d209:
 
     # mh "And what did you have in mind?"
     mh "Peki aklında ne var?"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:640
-translate turkish sm1cs_mh009_ad29a8c4:
-
-    # mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fuck as well as you suck."
-    mc "Şimdi sikim güzelce yağlandığına göre... emdiğin kadar iyi sikilip sikilemeyeceğini görmek isterim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:643
 translate turkish sm1cs_mh009_dadd9e73:
@@ -2085,12 +2067,6 @@ translate turkish sm1cs_mh009_1_cc441963:
 
     # mc "Uhm, I can always run them to you later? Maybe even edit the footage a little bit so that it looks nicer."
     mc "Uhm, onları sana daha sonra her zaman getirebilirim? Belki görüntüleri biraz düzenleyip daha güzel görünmesini sağlarım."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1050
-translate turkish sm1cs_mh009_1_43f85b91:
-
-    # mc "And I promise that the only person who is ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
-    mc "Ve söz veriyorum bunu görecek tek kişiler ben ve sen olacağız. Paylaşmayacağım, kimseye göstermeyeceğim, söz veriyorum-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1053
 translate turkish sm1cs_mh009_1_c7cf2826:

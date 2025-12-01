@@ -197,3 +197,4 @@ translate spanish sm1mv01s07_445db2a2:
 translate spanish sm1mv01s07_c5fb4c04:
     # sy "Great.{w} Road trip!"
     sy "¡Genial.{w} Viaje por carretera!"
+

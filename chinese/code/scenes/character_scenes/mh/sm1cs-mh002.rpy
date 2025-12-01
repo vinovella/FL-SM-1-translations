@@ -322,12 +322,6 @@ translate chinese sm1cs_mh002_29c9069c:
     # sy "Of course. I can email you over everything we have and get anything missing sent over."
     sy "没问题。我会把现有资料都发邮件给你，缺什么再补。"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:195
-translate chinese sm1cs_mh002_b15c5e17:
-
-    # mh "Excellent. Well, I coudln't be much help today, but I am sure I can deliver in the next couple of days."
-    mh "很好。今天我虽然帮不上你们大忙，但可以保证，几天内就能搞定。"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:198
 translate chinese sm1cs_mh002_4191e217:
 

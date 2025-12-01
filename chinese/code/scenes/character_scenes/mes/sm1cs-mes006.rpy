@@ -424,12 +424,6 @@ translate chinese sm1cs_mes006_14179337:
     # mes "Mu-rhuah... YES. Right there!"
     mes "呣--呼啊...是的。就是那里！"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:264
-translate chinese sm1cs_mes006_4a4e1a0d:
-
-    # mc "I love you, my naughty fuck-minx"
-    mc "我爱你，我淘气的小妖精"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:265
 translate chinese sm1cs_mes006_a7e4ffe2:
 
@@ -730,12 +724,6 @@ translate chinese sm1cs_mes006_924a8a9f:
     # mc "We all get to play the Boss character in charge of our own dungeon."
     mc "我们都可以扮演管理自己地下城的老板角色。"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:418
-translate chinese sm1cs_mes006_016ace61:
-
-    # sy "Oh cool. A medusa."
-    sy "哦，酷。美杜莎。"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:421
 translate chinese sm1cs_mes006_74e0b126:
 
@@ -748,23 +736,11 @@ translate chinese sm1cs_mes006_4e6875bb:
     # mc "Yes, we'll randomly draw two and pick the one we like."
     mc "是的，我们会随机抽两张，然后选我们喜欢的。"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:427
-translate chinese sm1cs_mes006_a6bc92e7:
-
-    # sy "I call the medusa!"
-    sy "我要美杜莎！"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:429
 translate chinese sm1cs_mes006_9ff7b3e8:
 
     # mc "Stacy that's against the rules."
     mc "史黛西，那违反规则。"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:433
-translate chinese sm1cs_mes006_f90b2d59:
-
-    # sy "Rules, schmules,.{w} The medusa is sexy and she's green, like my hair."
-    sy "规则，去他的规则，{w}美杜莎很性感，而且是绿色的，像我的头发。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:434
 translate chinese sm1cs_mes006_392a584c:
@@ -1222,12 +1198,6 @@ translate chinese sm1cs_mes006_continue_6f090bb6:
     # sy "Get them quickly and I shall be a sensual and merciful queen."
     sy "快点拿来，我会成为一个性感又仁慈的女王。"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:656
-translate chinese sm1cs_mes006_continue_eb315316:
-
-    # "[mcname] and Min" "Laughing"
-    "[mcname] 和明" "大笑"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:659
 translate chinese sm1cs_mes006_continue_e3b9a087:
 
@@ -1558,12 +1528,6 @@ translate chinese sm1cs_mes006_continue_305c9e60:
     # mc "I imagined that if Min stayed here, then it would be like her parents have less influence on her."
     mc "我想如果明留在这里，那就好像她父母对她的影响变少了。"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:814
-translate chinese sm1cs_mes006_continue_ec50e082:
-
-    # mes "But then wouldn't I just be trading you for my parents?"
-    mes "但那样我不就是用你换我父母吗？"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:819
 translate chinese sm1cs_mes006_continue_a6a41626:
 
@@ -1677,12 +1641,6 @@ translate chinese sm1cs_mes006_continue_03624646:
 
     # mc "I never shy away from a challenge."
     mc "我从不回避挑战。"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:872
-translate chinese sm1cs_mes006_continue_6df17f5d:
-
-    # mc "But it sounds like you'er not opposed to the idea of staying here. Even with me and Stacy hooking up."
-    mc "但听起来你并不反对留在这里的想法。即使我和史黛西搞在一起。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:875
 translate chinese sm1cs_mes006_continue_928aa4d8:
@@ -2379,12 +2337,6 @@ translate chinese sm1cs_mes006_continue_0cf47568:
 
     # mes "And after Lydia... oh fuck."
     mes "在莉迪亚之后...哦操。"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1221
-translate chinese sm1cs_mes006_continue_504e6b1e:
-
-    # mes "I was hesitant... being around, [mcname]."
-    mes "我犹豫了...和[mcname]在一起。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1224
 translate chinese sm1cs_mes006_continue_3ccede34:

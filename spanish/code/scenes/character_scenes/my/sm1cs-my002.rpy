@@ -442,12 +442,6 @@ translate spanish sm1cs_my002_art_gallery_f4777aee:
     # mc "Yeah! I totally can."
     mc "¡Sí! Totalmente puedo."
 
-# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:246
-translate spanish sm1cs_my002_art_gallery_158b5817:
-
-    # my "Well, let's hear your critique than, hotshot!"
-    my "¡Bueno, escuchemos tu crítica entonces, campeón!"
-
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:249
 translate spanish sm1cs_my002_art_gallery_c316e703:
 
@@ -645,12 +639,6 @@ translate spanish sm1cs_my002_art_gallery_77a15526:
 
     # mct "Wait, they're both kind of naked too... is this a nude exhibit?"
     mct "Espera, ambas están algo desnudas también... ¿es esta una exhibición de desnudos?"
-
-# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:354
-translate spanish sm1cs_my002_art_gallery_8fa9669a:
-
-    # my "So what do you think of \"Mishief and Repose\", hotshot?"
-    my "Entonces, ¿qué piensas de \"Travesura y Reposo\", campeón?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:357
 translate spanish sm1cs_my002_art_gallery_0972c153:
@@ -969,12 +957,6 @@ translate spanish sm1cs_my002_art_gallery_3ada0820:
 
     # mc "The contrast, and... dark background."
     mc "El contraste, y... fondo oscuro."
-
-# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:536
-translate spanish sm1cs_my002_art_gallery_e47c489a:
-
-    # my "Just because there's a dark background doesn't make it chiaroscuro, hot shot."
-    my "Solo porque hay un fondo oscuro no lo convierte en claroscuro, campeón."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:539
 translate spanish sm1cs_my002_art_gallery_9bf915e0:

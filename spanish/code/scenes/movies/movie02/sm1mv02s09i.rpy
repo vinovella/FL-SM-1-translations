@@ -12,3 +12,4 @@ translate spanish sm1mv02s09i_b125a709:
 translate spanish sm1mv02s09i_a6d27d45:
     # sy "Hell yes I am! Let's get over to the Photo Dojo!"
     sy "¡Diablos, sí que lo estoy! ¡Vamos al Dojo Fotográfico!"
+

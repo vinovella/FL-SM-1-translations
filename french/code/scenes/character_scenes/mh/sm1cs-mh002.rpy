@@ -322,12 +322,6 @@ translate french sm1cs_mh002_29c9069c:
     # sy "Of course. I can email you over everything we have and get anything missing sent over."
     sy "Bien sûr. Je peux t’envoyer tout ce qu’on a par mail et compléter ce qui manque."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:195
-translate french sm1cs_mh002_b15c5e17:
-
-    # mh "Excellent. Well, I coudln't be much help today, but I am sure I can deliver in the next couple of days."
-    mh "Parfait. Je peux pas faire beaucoup aujourd’hui, mais je suis sûre de vous livrer ça d’ici quelques jours."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:198
 translate french sm1cs_mh002_4191e217:
 

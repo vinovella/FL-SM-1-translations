@@ -179,3 +179,4 @@
     # game/code/data/quests/quests_movies.rpy:3
     old "Tell Stacy that you are done editing the Sci-Fi movie in the afternoon"
     new "Dile a Stacy por la tarde que has terminado de editar la película de Ciencia Ficción"
+

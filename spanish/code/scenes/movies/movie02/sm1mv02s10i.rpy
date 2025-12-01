@@ -32,3 +32,4 @@ translate spanish sm1mv02s10i_b8fe44a0:
 translate spanish sm1mv02s10i_3320a765:
     # mc "Perfect. I'll make the calls."
     mc "Perfecto. Yo haré las llamadas."
+

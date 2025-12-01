@@ -34,12 +34,6 @@ translate french sm1cs_mh005_0e3dd832:
     # mh "You'll have to show me these new skills of yours then."
     mh "Tu vas devoir me montrer tes nouveaux talents, alors."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:40
-translate french sm1cs_mh005_373d211e:
-
-    # mc "Oh don't you worry. I'm going to being it."
-    mc "Oh, t’inquiète pas. Je vais tout donner."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:47
 translate french sm1cs_mh005_f4308ba2:
 

@@ -1000,12 +1000,6 @@ translate italian sm1mv02s09_movie_ef025953:
     # kv "Slrrrp, slllllrrrpppp, sllrrp!"
     kv "Slrrrp, slllllrrrpppp, sllrrp!"
 
-# game/code/scenes/movies/movie02/sm1mv02s09.rpy:882
-translate italian sm1mv02s09_movie_8cee9893:
-
-    # mhmes "And she is also quite a spectacle to behold. She really understands how to being a body to climax."
-    mhmes "Ed è anche uno spettacolo da vedere. Capisce davvero come portare un corpo all'orgasmo."
-
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:885
 translate italian sm1mv02s09_movie_0642252e:
 

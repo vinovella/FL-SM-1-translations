@@ -47,3 +47,4 @@ translate spanish sm1mv02s07b_1i_98d07c34:
 translate spanish sm1mv02s07b_1i_ebf20c0f:
     # mc "Let me talk to her and see how she feels about the spa."
     mc "Déjame hablar con ella para ver qué opina sobre el balneario."
+

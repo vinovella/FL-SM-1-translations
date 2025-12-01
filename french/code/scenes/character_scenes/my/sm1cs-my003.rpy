@@ -790,12 +790,6 @@ translate french sm1cs_my003_at_gym_646a2746:
     # mc "Happy to help."
     mc "Content d’aider."
 
-# game/code/scenes/character_scenes/my/sm1cs-my003.rpy:409
-translate french sm1cs_my003_at_gym_45805ace:
-
-    # my "Now that I'm all good and stretched out to, shall we get to the main event?"
-    my "Maintenant que je suis bien échauffée, on passe à l’événement principal ?"
-
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:411
 translate french sm1cs_my003_at_gym_55973ee0:
 
@@ -1371,12 +1365,6 @@ translate french sm1cs_my003_continue_fd13055d:
 
     # mct "Shit, she's fast... I don't think I'll be able to catch up to her."
     mct "Merde, elle est rapide... je crois pas que je pourrai la rattraper."
-
-# game/code/scenes/character_scenes/my/sm1cs-my003.rpy:688
-translate french sm1cs_my003_continue_8340573b:
-
-    # my "Come one, [mcname]! You'll have to try harder than that!"
-    my "Allez, [mcname] ! Va falloir essayer plus fort que ça !"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:690
 translate french sm1cs_my003_continue_0204286d:

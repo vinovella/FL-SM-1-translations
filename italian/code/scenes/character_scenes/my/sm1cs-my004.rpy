@@ -574,12 +574,6 @@ translate italian sm1cs_my004_9676b995:
     # sy "No, doofus. Like... how does it fit {i}on me{/i}, like \"it is high waisted, do I look good with a high waisted suit?\""
     sy "No, scemo. Tipo... come calza {i}su di me{/i}, tipo \"è a vita alta, sto bene con un costume a vita alta?\""
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:326
-translate italian sm1cs_my004_4bd657c0:
-
-    # sy "Or, \"the way the top of the suit is cut really accentuates your breats and makes them pop\"."
-    sy "Oppure, \"il modo in cui è tagliata la parte superiore del costume risalta davvero il tuo seno e lo fa risaltare\"."
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:329
 translate italian sm1cs_my004_c9b837d5:
 
@@ -639,12 +633,6 @@ translate italian sm1cs_my004_6fc05bb8:
 
     # mc "Oh, right... uhm..."
     mc "Oh, giusto... uhm..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:355
-translate italian sm1cs_my004_3e7597de:
-
-    # mc "Uh...{w} The cut of the swimsuit is right for you, it draws attentions to all the right parts..."
-    mc "Uh...{w} Il taglio del costume è giusto per te, attira l'attenzione su tutte le parti giuste..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:356
 translate italian sm1cs_my004_1e4f6ff6:
@@ -753,12 +741,6 @@ translate italian sm1cs_my004_ce4fb5d2:
 
     # mc "All right, if you two say so..."
     mc "Va bene, se lo dite voi due..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:405
-translate italian sm1cs_my004_16c6c5e3:
-
-    # sy "All right, [mcname]. For this one, you need to tell us how our swimsuits looks when we move. Like, does it ride up, does it sit funny, that kind of thing."
-    sy "Va bene, [mcname]. Per questa, devi dirci come stanno i nostri costumi quando ci muoviamo. Tipo, sale, sta male, quel genere di cose."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:407
 translate italian sm1cs_my004_1b199792:
@@ -1174,12 +1156,6 @@ translate italian sm1cs_my004_78f056b6:
     # my "Part of me thinks it's so I can spend time with you and Stacy."
     my "Una parte di me pensa che sia per passare del tempo con te e Stacy."
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:644
-translate italian sm1cs_my004_eb32b762:
-
-    # my "But I think another part is that... doing this...{w} To help me be more comfortable with what you do for work."
-    my "Ma penso che un'altra parte sia che... fare questo...{w} Per aiutarmi a sentirmi più a mio agio con ciò che fai per lavoro."
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:647
 translate italian sm1cs_my004_908d02c1:
 
@@ -1191,12 +1167,6 @@ translate italian sm1cs_my004_78e8bc55:
 
     # my "The last few years I've focused on work, and you two, and... everything else in my life."
     my "Negli ultimi anni mi sono concentrata sul lavoro, e su voi due, e... su tutto il resto della mia vita."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:651
-translate italian sm1cs_my004_f9c0e736:
-
-    # my "And maybe I lost that side of that got really excited about life. It just... slipped away."
-    my "E forse ho perso quel lato di me che si entusiasmava davvero per la vita. È semplicemente... svanito."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:654
 translate italian sm1cs_my004_cc580392:
@@ -1246,12 +1216,6 @@ translate italian sm1cs_my004_be3f1e1d:
     # my "*giggles* I'm full of surprises."
     my "*ridacchia* Sono piena di sorprese."
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:671
-translate italian sm1cs_my004_f126e01d:
-
-    # my "But uh... don't get too distrated. I think there are a more spots that need oil."
-    my "Ma uh... non distrarti troppo. Penso che ci siano altri punti che hanno bisogno di olio."
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:672
 translate italian sm1cs_my004_13676ffb:
 
@@ -1263,24 +1227,6 @@ translate italian sm1cs_my004_d799f609:
 
     # my "*giggles* They are kind of hard to miss, [mcname]."
     my "*ridacchia* Sono difficili da non notare, [mcname]."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:678
-translate italian sm1cs_my004_b0258397:
-
-    # mct "My god. Melonly wants me to rub down her tits!"
-    mct "Mio Dio. Melony vuole che le massaggi le tette!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:680
-translate italian sm1cs_my004_dcd5bd3b:
-
-    # mct "God, Mom is being so forward..."
-    mct "Dio, la mamma è così diretta..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:682
-translate italian sm1cs_my004_44e0e6a6:
-
-    # mct "God, Melony is acting so forward..."
-    mct "Dio, Melony si sta comportando così direttamente..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:684
 translate italian sm1cs_my004_a33efff5:
@@ -1395,12 +1341,6 @@ translate italian sm1cs_my004_b936e578:
 
     # my "{size=*0.6}Mmmmmmmmmmmmmmmmm...{/size}"
     my "{size=*0.6}Mmmmmmmmmmmmmmmmm...{/size}"
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:732
-translate italian sm1cs_my004_f842086f:
-
-    # mct "Nope, not imaging it!"
-    mct "No, non me lo sto immaginando!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:737
 translate italian sm1cs_my004_9c7b9eae:
@@ -1582,12 +1522,6 @@ translate italian sm1cs_my004_63a9e153:
     # sy "What do you mean?"
     sy "Cosa intendi?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:827
-translate italian sm1cs_my004_90ba4701:
-
-    # mc "I mean, I think it's a lot to just surprise someone with a two on one swimsuit competition."
-    mc "Voglio dire, penso che sia molto sorprendere qualcuno con una competizione di costumi da bagno due contro uno."
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:828
 translate italian sm1cs_my004_44546bd6:
 
@@ -1605,12 +1539,6 @@ translate italian sm1cs_my004_0d359089:
 
     # sy "You weren't making any progress."
     sy "Non stavi facendo progressi."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:835
-translate italian sm1cs_my004_453349d5:
-
-    # mc "*annooyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
-    mc "*rumore infastidito* Posso gestirlo, Stacy. Devi solo avere un po' di fiducia nel processo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:839
 translate italian sm1cs_my004_f054ee30:
@@ -1701,12 +1629,6 @@ translate italian sm1cs_my004_be5f379f:
 
     # mct "I can't believe Melony even agreed to do the competition in the first place."
     mct "Non posso credere che Melony abbia persino accettato di fare la gara in primo luogo."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:882
-translate italian sm1cs_my004_e5a4fa76:
-
-    # mct "And then her moaning will I massaged her tits..."
-    mct "E poi il suo gemito mentre le massaggiavo le tette..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:885
 translate italian sm1cs_my004_ad1f7f82:

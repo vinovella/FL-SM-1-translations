@@ -124,12 +124,6 @@ translate turkish sm1cs_mh008_097fd9c1:
     # mh "Oh? You renovated?"
     mh "Ah? Yenileme yaptın mı?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:92
-translate turkish sm1cs_mh008_4de4b191:
-
-    # mc "Yeah! We wanted to be able use the studio as, well, a studio."
-    mc "Evet! Stüdyoyu, yani, bir stüdyo olarak kullanabilmek istedik."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:93
 translate turkish sm1cs_mh008_6b12ea62:
 
@@ -490,12 +484,6 @@ translate turkish sm1cs_mh008_carnival_bf61594d:
     # mh "I didn't know until I was older that it was because my bio-father had successfully defended a ride manufacturer in a pretty hairy civil suit because someone had gotten pretty badly injured."
     mh "Daha büyüyene kadar bunun, biyolojik babamın birinin ciddi şekilde yaralanması nedeniyle oldukça zor bir hukuk davasında bir eğlence aracı üreticisini başarıyla savunmuş olmasından kaynaklandığını bilmiyordum."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:288
-translate turkish sm1cs_mh008_carnival_bc753126:
-
-    # mh "As I kid, I just knew that we would come to the circus because we had free tickets, and..."
-    mh "Çocukken, sadece ücretsiz biletlerimiz olduğu için sirke geldiğimizi biliyordum ve..."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:289
 translate turkish sm1cs_mh008_carnival_0b117085:
 
@@ -771,12 +759,6 @@ translate turkish sm1cs_mh008_date_9ab85d26:
 
     # mc "What? Seriously?"
     mc "Ne? Ciddi misin?"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:430
-translate turkish sm1cs_mh008_date_6007f5df:
-
-    # mh "Yeah. it's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
-    mh "Evet. Garip bir hikaye ama kısaca - Bay Roosevelt bağlı bir ayıyı vurmayı reddetti ve sonra biri bunun siyasi bir karikatürünü yaptı."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:431
 translate turkish sm1cs_mh008_date_5e0303df:
@@ -1336,12 +1318,6 @@ translate turkish sm1cs_mh008_couple_carousel_end_e014e089:
     # mh "That was... a hell of a kiss."
     mh "Bu... müthiş bir öpücüktü."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:785
-translate turkish sm1cs_mh008_couple_carousel_end_ae0106d3:
-
-    # mc "Hey, when you say \"memorable\" and \"kiss\", I have to give you the maximum effort kiss, right?"
-    mc "Hey, \"unutulmaz\" ve \"öpücük\" dediğinde, sana maksimum çabalı bir öpücük vermeliyim, değil mi?"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:788
 translate turkish sm1cs_mh008_couple_carousel_end_22b9b3c1:
 
@@ -1485,12 +1461,6 @@ translate turkish sm1cs_mh008_throuple_carousel_d08cc125:
 
     # sy "Uh huh. We never really went growing up, and I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
     sy "Uh huh. Büyürken hiç gitmedik ve Crowning'e geldiğimden beri çok meşguldüm, yani... sadece zaman bulamadım."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
-translate turkish sm1cs_mh008_throuple_carousel_04b4af8c:
-
-    # sy "Growing up. Our familes never really went to the carvnial."
-    sy "Büyürken. Ailelerimiz karnavala hiç gitmedi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:862
 translate turkish sm1cs_mh008_throuple_carousel_2fc0ca58:
@@ -2247,12 +2217,6 @@ translate turkish sm1cs_mh008_throuple_carousel_end_e1deded6:
 
     # sy "Wait... I wanted, like, a whole production with my kiss."
     sy "Bekle... Öpücüğümle birlikte tam bir prodüksiyon istiyordum."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280
-translate turkish sm1cs_mh008_throuple_carousel_end_4a9a3a30:
-
-    # mh "Yeah, something like this, [mcname]"
-    mh "Evet, bunun gibi bir şey, [mcname]"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1286
 translate turkish sm1cs_mh008_throuple_carousel_end_77858d38:

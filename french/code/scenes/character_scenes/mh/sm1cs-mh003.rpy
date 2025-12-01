@@ -64,12 +64,6 @@ translate french sm1cs_mh003_d50e4a60:
     # sy "What are you waiting for! Tell her to come over!"
     sy "Qu’est-ce que t’attends !? Dis-lui de venir !"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:42
-translate french sm1cs_mh003_0c01668c:
-
-    # mc "All right, all right! Jees, I'm texting her right now."
-    mc "D’accord, d’accord ! Pff, je lui envoie un message tout de suite."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:49
 translate french sm1cs_mh003_152d6612:
 
@@ -579,12 +573,6 @@ translate french sm1cs_mh003_romance_b8117695:
 
     # mh "I want you to show me that you mean it. That you {i}want{/i} a relationship with me."
     mh "Je veux que tu me montres que tu es sérieux. Que tu {i}veux{/i} vraiment une relation avec moi."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:299
-translate french sm1cs_mh003_romance_8a39a9ac:
-
-    # mc "Of course! Yes! Absolutely"
-    mc "Bien sûr ! Oui ! Absolument !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:302
 translate french sm1cs_mh003_romance_01d609a0:

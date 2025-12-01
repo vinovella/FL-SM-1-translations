@@ -568,12 +568,6 @@ translate chinese sm1cs_my004_9676b995:
     # sy "No, doofus. Like... how does it fit {i}on me{/i}, like \"it is high waisted, do I look good with a high waisted suit?\""
     sy "不对，傻瓜。比如...它{i}穿在我身上{/i}怎么样，像是\"这是高腰的，我穿高腰泳装好看吗？\""
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:325
-translate chinese sm1cs_my004_4bd657c0:
-
-    # sy "Or, \"the way the top of the suit is cut really accentuates your breats and makes them pop\"."
-    sy "或者，\"泳装上衣的剪裁真的突出了你的乳房，让它们更显眼\"。"
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:328
 translate chinese sm1cs_my004_c9b837d5:
 
@@ -633,12 +627,6 @@ translate chinese sm1cs_my004_6fc05bb8:
 
     # mc "Oh, right... uhm..."
     mc "哦，对...嗯..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:354
-translate chinese sm1cs_my004_3e7597de:
-
-    # mc "Uh...{w} The cut of the swimsuit is right for you, it draws attentions to all the right parts..."
-    mc "呃...{w} 泳装的剪裁很适合你，它把注意力吸引到所有该注意的地方..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:355
 translate chinese sm1cs_my004_1e4f6ff6:
@@ -747,12 +735,6 @@ translate chinese sm1cs_my004_ce4fb5d2:
 
     # mc "All right, if you two say so..."
     mc "好吧，如果你们俩都这么说..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:404
-translate chinese sm1cs_my004_16c6c5e3:
-
-    # sy "All right, [mcname]. For this one, you need to tell us how our swimsuits looks when we move. Like, does it ride up, does it sit funny, that kind of thing."
-    sy "好了，[mcname]。这一项，你需要告诉我们泳装在我们移动时看起来怎么样。比如，会不会往上跑，会不会怪怪的，诸如此类。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:406
 translate chinese sm1cs_my004_1b199792:
@@ -1168,12 +1150,6 @@ translate chinese sm1cs_my004_78f056b6:
     # my "Part of me thinks it's so I can spend time with you and Stacy."
     my "我的一部分觉得是为了能和你和史黛西共度时光。"
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:643
-translate chinese sm1cs_my004_eb32b762:
-
-    # my "But I think another part is that... doing this...{w} To help me be more comfortable with what you do for work."
-    my "但我觉得另一部分原因是...做这个...{w} 是为了让我对你的工作更感到自在。"
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:646
 translate chinese sm1cs_my004_908d02c1:
 
@@ -1185,12 +1161,6 @@ translate chinese sm1cs_my004_78e8bc55:
 
     # my "The last few years I've focused on work, and you two, and... everything else in my life."
     my "过去几年我一直专注于工作，还有你们俩，还有...我生活中的其他一切。"
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:650
-translate chinese sm1cs_my004_f9c0e736:
-
-    # my "And maybe I lost that side of that got really excited about life. It just... slipped away."
-    my "也许我失去了那个对生活充满激情的自己。它就这样...溜走了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:653
 translate chinese sm1cs_my004_cc580392:
@@ -1240,12 +1210,6 @@ translate chinese sm1cs_my004_be3f1e1d:
     # my "*giggles* I'm full of surprises."
     my "*咯咯笑* 我充满了惊喜。"
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:670
-translate chinese sm1cs_my004_f126e01d:
-
-    # my "But uh... don't get too distrated. I think there are a more spots that need oil."
-    my "但是呃...别太分心。我想还有更多地方需要抹油。"
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:671
 translate chinese sm1cs_my004_13676ffb:
 
@@ -1257,24 +1221,6 @@ translate chinese sm1cs_my004_d799f609:
 
     # my "*giggles* They are kind of hard to miss, [mcname]."
     my "*咯咯笑* 它们很难错过的，[mcname]。"
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:677
-translate chinese sm1cs_my004_b0258397:
-
-    # mct "My god. Melonly wants me to rub down her tits!"
-    mct "我的天。梅洛妮想让我抹她的奶子！"
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:679
-translate chinese sm1cs_my004_dcd5bd3b:
-
-    # mct "God, Mom is being so forward..."
-    mct "天啊，妈妈太直接了..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:681
-translate chinese sm1cs_my004_44e0e6a6:
-
-    # mct "God, Melony is acting so forward..."
-    mct "天啊，梅洛妮表现得太直接了..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:683
 translate chinese sm1cs_my004_a33efff5:
@@ -1389,12 +1335,6 @@ translate chinese sm1cs_my004_b936e578:
 
     # my "{size=*0.6}Mmmmmmmmmmmmmmmmm...{/size}"
     my "{size=*0.6}嗯嗯嗯嗯嗯嗯嗯嗯嗯...{/size}"
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:731
-translate chinese sm1cs_my004_f842086f:
-
-    # mct "Nope, not imaging it!"
-    mct "不，不是在幻想！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:736
 translate chinese sm1cs_my004_9c7b9eae:
@@ -1576,12 +1516,6 @@ translate chinese sm1cs_my004_63a9e153:
     # sy "What do you mean?"
     sy "你什么意思？"
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:826
-translate chinese sm1cs_my004_90ba4701:
-
-    # mc "I mean, I think it's a lot to just surprise someone with a two on one swimsuit competition."
-    mc "我是说，我觉得突然给某人来个二对一泳装比赛太过了。"
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:827
 translate chinese sm1cs_my004_44546bd6:
 
@@ -1599,12 +1533,6 @@ translate chinese sm1cs_my004_0d359089:
 
     # sy "You weren't making any progress."
     sy "你一点进展都没有。"
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:834
-translate chinese sm1cs_my004_453349d5:
-
-    # mc "*annooyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
-    mc "*恼怒的声音* 我能处理，史黛西。你只需要对过程有点信心。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:838
 translate chinese sm1cs_my004_f054ee30:
@@ -1695,12 +1623,6 @@ translate chinese sm1cs_my004_be5f379f:
 
     # mct "I can't believe Melony even agreed to do the competition in the first place."
     mct "我不敢相信梅洛妮一开始就同意参加比赛。"
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:879
-translate chinese sm1cs_my004_e5a4fa76:
-
-    # mct "And then her moaning will I massaged her tits..."
-    mct "然后当我按摩她的奶子时她的呻吟..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:882
 translate chinese sm1cs_my004_ad1f7f82:

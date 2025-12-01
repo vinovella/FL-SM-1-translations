@@ -484,12 +484,6 @@ translate portuguese sm1cs_mes004_after_dance_c95aa715:
     # mc "Do you want to talk about it?"
     mc "Quer falar sobre isso?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:332
-translate portuguese sm1cs_mes004_after_dance_bd9106df:
-
-    # mes "No. It's."
-    mes "Não. É que..."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:336
 translate portuguese sm1cs_mes004_after_dance_f737300f:
 

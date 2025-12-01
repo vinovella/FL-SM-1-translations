@@ -34,12 +34,6 @@ translate spanish sm1cs_mh005_0e3dd832:
     # mh "You'll have to show me these new skills of yours then."
     mh "Tendrás que mostrarme estas nuevas habilidades tuyas entonces."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:40
-translate spanish sm1cs_mh005_373d211e:
-
-    # mc "Oh don't you worry. I'm going to being it."
-    mc "Oh, no te preocupes. Voy a serlo."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:47
 translate spanish sm1cs_mh005_f4308ba2:
 

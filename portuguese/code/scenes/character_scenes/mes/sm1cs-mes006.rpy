@@ -424,12 +424,6 @@ translate portuguese sm1cs_mes006_14179337:
     # mes "Mu-rhuah... YES. Right there!"
     mes "Mu-rhuah... ISSO! Aí mesmo!"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:264
-translate portuguese sm1cs_mes006_4a4e1a0d:
-
-    # mc "I love you, my naughty fuck-minx"
-    mc "Eu te amo, sua safadinha."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:265
 translate portuguese sm1cs_mes006_a7e4ffe2:
 
@@ -730,12 +724,6 @@ translate portuguese sm1cs_mes006_924a8a9f:
     # mc "We all get to play the Boss character in charge of our own dungeon."
     mc "A gente pode brincar de chefão da nossa própria dungeon."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:418
-translate portuguese sm1cs_mes006_016ace61:
-
-    # sy "Oh cool. A medusa."
-    sy "Ah, legal. Uma medusa."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:421
 translate portuguese sm1cs_mes006_74e0b126:
 
@@ -748,23 +736,11 @@ translate portuguese sm1cs_mes006_4e6875bb:
     # mc "Yes, we'll randomly draw two and pick the one we like."
     mc "Sim, a gente puxa duas aleatoriamente, aí escolhe qual quiser."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:427
-translate portuguese sm1cs_mes006_a6bc92e7:
-
-    # sy "I call the medusa!"
-    sy "Eu quero a medusa!"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:429
 translate portuguese sm1cs_mes006_9ff7b3e8:
 
     # mc "Stacy that's against the rules."
     mc "Stacy, isso é contra as regras."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:433
-translate portuguese sm1cs_mes006_f90b2d59:
-
-    # sy "Rules, schmules,.{w} The medusa is sexy and she's green, like my hair."
-    sy "Regras uma ova.{w} A medusa é gostosa e é verde, que nem o meu cabelo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:434
 translate portuguese sm1cs_mes006_392a584c:
@@ -1222,12 +1198,6 @@ translate portuguese sm1cs_mes006_continue_6f090bb6:
     # sy "Get them quickly and I shall be a sensual and merciful queen."
     sy "Tragam logo, e eu serei uma rainha sensual e piedosa."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:656
-translate portuguese sm1cs_mes006_continue_eb315316:
-
-    # "[mcname] and Min" "Laughing"
-    "[mcname] e Min" "*rindo*"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:659
 translate portuguese sm1cs_mes006_continue_e3b9a087:
 
@@ -1558,12 +1528,6 @@ translate portuguese sm1cs_mes006_continue_305c9e60:
     # mc "I imagined that if Min stayed here, then it would be like her parents have less influence on her."
     mc "Minha ideia é que se a Min fica aqui, os pais dela teriam menos influência nela."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:814
-translate portuguese sm1cs_mes006_continue_ec50e082:
-
-    # mes "But then wouldn't I just be trading you for my parents?"
-    mes "Mas aí eu não estaria trocando você pelos meus pais?"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:819
 translate portuguese sm1cs_mes006_continue_a6a41626:
 
@@ -1677,12 +1641,6 @@ translate portuguese sm1cs_mes006_continue_03624646:
 
     # mc "I never shy away from a challenge."
     mc "Eu nunca recuo de um desafio."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:872
-translate portuguese sm1cs_mes006_continue_6df17f5d:
-
-    # mc "But it sounds like you'er not opposed to the idea of staying here. Even with me and Stacy hooking up."
-    mc "Mas parece que você não é contra a ideia de ficar aqui. Mesmo eu e a Stacy saindo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:875
 translate portuguese sm1cs_mes006_continue_928aa4d8:
@@ -2379,12 +2337,6 @@ translate portuguese sm1cs_mes006_continue_0cf47568:
 
     # mes "And after Lydia... oh fuck."
     mes "E depois da Lydia... aaaih."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1221
-translate portuguese sm1cs_mes006_continue_504e6b1e:
-
-    # mes "I was hesitant... being around, [mcname]."
-    mes "Eu estava meio receosa... de ficar perto do [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1224
 translate portuguese sm1cs_mes006_continue_3ccede34:

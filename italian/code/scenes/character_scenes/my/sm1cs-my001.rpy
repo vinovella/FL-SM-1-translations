@@ -424,12 +424,6 @@ translate italian sm1cs_my001_3d8e743d:
     # "Waiter" "Can I start you off with anything to drink?"
     "Cameriere" "Posso iniziare con qualcosa da bere?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:236
-translate italian sm1cs_my001_520dd091:
-
-    # my "Mmmmm, I'll take a glass of the hosue red."
-    my "Mmmmm, prenderò un bicchiere del rosso della casa."
-
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:238
 translate italian sm1cs_my001_9947685b:
 
@@ -502,18 +496,6 @@ translate italian sm1cs_my001_6dc64527:
     # my "I used to have this... friend. Now, he wasn't exactly working in the adult entertainment industry, but close. Lots of nude models in his studio, lots of partying..."
     my "Avevo questo... amico. Non lavorava esattamente nell'industria dell'intrattenimento per adulti, ma quasi. Molte modelle nude nel suo studio, molte feste..."
 
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:269
-translate italian sm1cs_my001_a83aec2c:
-
-    # my "But this little empire of industry he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
-    my "Ma questo piccolo impero industriale che aveva iniziato a costruire ha cominciato a sgretolarsi. Problemi con la sua vita amorosa, idee mezze cotte per fare soldi..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:272
-translate italian sm1cs_my001_0a575054:
-
-    # my "The models own personal lives becoming intwined with his work and the studio..."
-    my "Le vite personali delle modelle che si intrecciavano con il suo lavoro e lo studio..."
-
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:273
 translate italian sm1cs_my001_a9a8a236:
 
@@ -567,12 +549,6 @@ translate italian sm1cs_my001_a3a9b546:
 
     # mc "How about an order of those to start. And then we'll each have an order of the pasta linguini."
     mc "Che ne dite di un ordine di quelle per iniziare. E poi prenderemo ciascuno un ordine di pasta linguine."
-
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:299
-translate italian sm1cs_my001_8c89e5bd:
-
-    # "Waiter" "Both wonderful choices, sit."
-    "Cameriere" "Entrambe ottime scelte, signore."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:306
 translate italian sm1cs_my001_153e3d04:
@@ -657,12 +633,6 @@ translate italian sm1cs_my001_b8cc636d:
 
     # my "No, no. Nothing like that. I've just always found hotels... sterile. There's no life in them."
     my "No, no. Niente del genere. Ho sempre trovato gli hotel... sterili. Non c'è vita in loro."
-
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:346
-translate italian sm1cs_my001_2cecdbca:
-
-    # my "The erase the personality so you can fill it with whatever you can fit into a suitcase."
-    my "Cancellano la personalità così puoi riempirla con qualsiasi cosa tu possa mettere in una valigia."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:349
 translate italian sm1cs_my001_d9480244:

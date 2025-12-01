@@ -1353,3 +1353,4 @@ translate spanish strings:
 translate spanish sm1mv02s10_continue_e27903d2:
     # mc "You never know. She could definitely bring her 'unique' perspective to other problems the {i}Intrepid{/i} might run into."
     mc "Nunca se sabe. Definitivamente podría aportar su perspectiva 'única' a otros problemas con los que podría encontrarse el {i}Intrepid{/i}."
+

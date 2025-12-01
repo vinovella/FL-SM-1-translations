@@ -124,12 +124,6 @@ translate chinese sm1cs_mh008_097fd9c1:
     # mh "Oh? You renovated?"
     mh "哦？你们装修了？"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:92
-translate chinese sm1cs_mh008_4de4b191:
-
-    # mc "Yeah! We wanted to be able use the studio as, well, a studio."
-    mc "是啊！我们想把工作室真正当成工作室来使用。"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:93
 translate chinese sm1cs_mh008_6b12ea62:
 
@@ -490,12 +484,6 @@ translate chinese sm1cs_mh008_carnival_bf61594d:
     # mh "I didn't know until I was older that it was because my bio-father had successfully defended a ride manufacturer in a pretty hairy civil suit because someone had gotten pretty badly injured."
     mh "直到我长大后才知道，那是因为我的生父成功地在一桩相当棘手的民事诉讼中为一家游乐设施制造商辩护，有人受了重伤。"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:288
-translate chinese sm1cs_mh008_carnival_bc753126:
-
-    # mh "As I kid, I just knew that we would come to the circus because we had free tickets, and..."
-    mh "小时候，我只知道我们来马戏团是因为我们有免费门票，而且..."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:289
 translate chinese sm1cs_mh008_carnival_0b117085:
 
@@ -771,12 +759,6 @@ translate chinese sm1cs_mh008_date_9ab85d26:
 
     # mc "What? Seriously?"
     mc "什么？真的吗？"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:430
-translate chinese sm1cs_mh008_date_6007f5df:
-
-    # mh "Yeah. it's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
-    mh "是的。这是个奇怪的故事，简单来说——罗斯福先生拒绝射杀一只被绑起来的熊，然后有人为此画了一幅政治漫画。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:431
 translate chinese sm1cs_mh008_date_5e0303df:
@@ -1336,12 +1318,6 @@ translate chinese sm1cs_mh008_couple_carousel_end_e014e089:
     # mh "That was... a hell of a kiss."
     mh "那真是...精彩的一吻。"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:785
-translate chinese sm1cs_mh008_couple_carousel_end_ae0106d3:
-
-    # mc "Hey, when you say \"memorable\" and \"kiss\", I have to give you the maximum effort kiss, right?"
-    mc "嘿，当你说\"难忘\"和\"吻\"时，我必须给你最大努力的吻，对吧？"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:788
 translate chinese sm1cs_mh008_couple_carousel_end_22b9b3c1:
 
@@ -1485,12 +1461,6 @@ translate chinese sm1cs_mh008_throuple_carousel_d08cc125:
 
     # sy "Uh huh. We never really went growing up, and I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
     sy "嗯哼。我们长大的时候从来没真正去过，而且自从我来到克劳宁后就一直很忙，嗯...我只是一直没能抽出时间。"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
-translate chinese sm1cs_mh008_throuple_carousel_04b4af8c:
-
-    # sy "Growing up. Our familes never really went to the carvnial."
-    sy "长大的时候。我们的家人从来没真正去过嘉年华。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:862
 translate chinese sm1cs_mh008_throuple_carousel_2fc0ca58:
@@ -2247,12 +2217,6 @@ translate chinese sm1cs_mh008_throuple_carousel_end_e1deded6:
 
     # sy "Wait... I wanted, like, a whole production with my kiss."
     sy "等等...我想要，像是一整套的吻。"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280
-translate chinese sm1cs_mh008_throuple_carousel_end_4a9a3a30:
-
-    # mh "Yeah, something like this, [mcname]"
-    mh "是的，就像这样，[mcname]"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1286
 translate chinese sm1cs_mh008_throuple_carousel_end_77858d38:

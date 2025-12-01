@@ -58,12 +58,6 @@ translate portuguese sm1cs_mes001_708bec31:
     # mes "*soft sigh* Yes. Things got a little complicated after the last time we saw each other."
     mes "*suspiro baixo* Sim. As coisas complicaram da última vez que a gente se viu."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:55
-translate portuguese sm1cs_mes001_39488d6a:
-
-    # mc "\"Complicated\" that's one way to describe everything that's happened."
-    mc "\"Complicaram\" é uma maneira de descrever o que aconteceu."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:56
 translate portuguese sm1cs_mes001_94c2b1ed:
 
@@ -496,12 +490,6 @@ translate portuguese sm1cs_mes001_b54749f3:
     # mes "And why exactly does a team of professionals need a jokester?"
     mes "E por que um time de profissionais precisa de piadas mesmo?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:248
-translate portuguese sm1cs_mes001_f1a7154e:
-
-    # mc "When you're painting and drywalling walls for the third day straight, it helps to have someone cracking jokes at two in the morning."
-    mc "Quando tá pintando e subindo parede no terceiro dia sem parar, é legal ter alguém soltando piada às duas da manhã."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:251
 translate portuguese sm1cs_mes001_ba677a9b:
 
@@ -753,12 +741,6 @@ translate portuguese sm1cs_mes001_812f8da4:
 
     # mes "They saw me floundering, they knew I was upset about life, and they thought, 'Oh, a stable relationship will fix everything'."
     mes "Eles me viram perdida, viram que eu estava chateada com a vida, aí pensaram: 'Ah, um relacionamento estável vai solucionar tudo'.'"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:353
-translate portuguese sm1cs_mes001_e13edf2e:
-
-    # mc "Too bad they didn't consider that stable also means \"happy\" something a forced setup wouldn't necessarily guarantee."
-    mc "Uma pena que não consideraram que estável também significa \"feliz\", algo que um casamento forçado não garante."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:356
 translate portuguese sm1cs_mes001_d4c70379:

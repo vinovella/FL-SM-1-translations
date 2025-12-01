@@ -62,3 +62,4 @@ translate spanish sm1mv02s08_1i_ffbc62ec:
 translate spanish sm1mv02s08_1i_cd319782:
     # mc "Let's do it!"
     mc "¡Hagámoslo!"
+

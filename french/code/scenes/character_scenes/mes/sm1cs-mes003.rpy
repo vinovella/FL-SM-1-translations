@@ -328,12 +328,6 @@ translate french sm1cs_mes003_cc17436b:
     # mes "I guess we both enjoyed our time together in my pool."
     mes "Je suppose qu’on a bien profité de mon bassin, tous les deux."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:225
-translate french sm1cs_mes003_a5158368:
-
-    # mc "We can't all live in trust-fun homes."
-    mc "On ne peut pas tous vivre dans des maisons payées par un trust fund."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:228
 translate french sm1cs_mes003_61fad611:
 
@@ -1353,12 +1347,6 @@ translate french sm1cs_mes003_menu_fd134cc0:
 
     # mc "Throatfucking you feels so good, Min."
     mc "Te défoncer la gorge, c’est tellement bon, Min."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:773
-translate french sm1cs_mes003_menu_5801802c:
-
-    # mes "*happy stuff moans*"
-    mes "*gémissements étouffés de plaisir*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:776
 translate french sm1cs_mes003_menu_1c7497b8:

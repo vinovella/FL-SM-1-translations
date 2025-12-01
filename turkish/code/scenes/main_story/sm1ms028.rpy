@@ -838,12 +838,6 @@ translate turkish sm1ms028_location_change_4bc402b0:
     # mc "Something fishy about that guy."
     mc "O adamda balık kokulu bir şeyler var."
 
-# game/code/scenes/main_story/sm1ms028.rpy:360
-translate turkish sm1ms028_location_change_8dfc4507:
-
-    # mc "We will need to watch him very carefully if Lyssa says ew can do business together."
-    mc "Lyssa birlikte iş yapabileceğimizi söylerse onu çok dikkatli izlememiz gerekecek."
-
 # game/code/scenes/main_story/sm1ms028.rpy:363
 translate turkish sm1ms028_location_change_789d0fbf:
 

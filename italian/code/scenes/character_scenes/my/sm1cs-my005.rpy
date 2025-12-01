@@ -736,12 +736,6 @@ translate italian sm1cs_my005_half_movie_b0d66757:
     # my "Mmmmmmm..."
     my "Mmmmmmm..."
 
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:334
-translate italian sm1cs_my005_half_movie_4c89329b:
-
-    # mct "Oh God, what the hell do I do know?"
-    mct "Oh Dio, che diavolo faccio ora?"
-
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:335
 translate italian sm1cs_my005_half_movie_e3ac023f:
 
@@ -1191,12 +1185,6 @@ translate italian sm1cs_my005_after_movie_bedbf63c:
 
     # mc "Hey, you're welcome to pass out on our couch any time, Melony."
     mc "Ehi, puoi addormentarti sul nostro divano quando vuoi, Melony."
-
-# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:505
-translate italian sm1cs_my005_after_movie_e97c69fb:
-
-    # my "My days of couch crashing our far behind me."
-    my "I miei giorni di crolli sul divano sono ormai lontani."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:509
 translate italian sm1cs_my005_after_movie_03335dbc:

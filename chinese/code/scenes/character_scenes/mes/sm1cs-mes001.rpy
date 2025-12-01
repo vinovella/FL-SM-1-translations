@@ -58,12 +58,6 @@ translate chinese sm1cs_mes001_708bec31:
     # mes "*soft sigh* Yes. Things got a little complicated after the last time we saw each other."
     mes "*轻轻叹气* 是啊。自从上次分别后，事情变得有点复杂。"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:55
-translate chinese sm1cs_mes001_39488d6a:
-
-    # mc "\"Complicated\" that's one way to describe everything that's happened."
-    mc "\"复杂\"，这个形容倒是贴切。"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:56
 translate chinese sm1cs_mes001_94c2b1ed:
 
@@ -496,12 +490,6 @@ translate chinese sm1cs_mes001_b54749f3:
     # mes "And why exactly does a team of professionals need a jokester?"
     mes "什么一个专业团队需要讲笑话的人？"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:248
-translate chinese sm1cs_mes001_f1a7154e:
-
-    # mc "When you're painting and drywalling walls for the third day straight, it helps to have someone cracking jokes at two in the morning."
-    mc "当你连续三天刷墙、钉石膏板时，凌晨两点有人讲笑话真的很解压。"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:251
 translate chinese sm1cs_mes001_ba677a9b:
 
@@ -753,12 +741,6 @@ translate chinese sm1cs_mes001_812f8da4:
 
     # mes "They saw me floundering, they knew I was upset about life, and they thought, 'Oh, a stable relationship will fix everything'."
     mes "他们看我一蹶不振，知道我对生活很迷茫，就觉得‘哎呀，稳定的感情能解决一切’。"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:353
-translate chinese sm1cs_mes001_e13edf2e:
-
-    # mc "Too bad they didn't consider that stable also means \"happy\" something a forced setup wouldn't necessarily guarantee."
-    mc "可惜他们没考虑到，‘稳定’也意味着\"幸福\"，而被迫的安排未必能带来幸福。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:356
 translate chinese sm1cs_mes001_d4c70379:

@@ -64,12 +64,6 @@ translate chinese sm1cs_mh003_d50e4a60:
     # sy "What are you waiting for! Tell her to come over!"
     sy "还等什么！快让她来！"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:42
-translate chinese sm1cs_mh003_0c01668c:
-
-    # mc "All right, all right! Jees, I'm texting her right now."
-    mc "好好好！我这就给她发信息！"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:49
 translate chinese sm1cs_mh003_152d6612:
 
@@ -579,12 +573,6 @@ translate chinese sm1cs_mh003_romance_b8117695:
 
     # mh "I want you to show me that you mean it. That you {i}want{/i} a relationship with me."
     mh "我要你证明你是认真的。让我知道你是{i}真心{/i}想和我交往。"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:299
-translate chinese sm1cs_mh003_romance_8a39a9ac:
-
-    # mc "Of course! Yes! Absolutely"
-    mc "当然！没问题！完全可以！"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:302
 translate chinese sm1cs_mh003_romance_01d609a0:

@@ -372,3 +372,4 @@ translate spanish sm1mv02s02_8c26d624:
 translate spanish sm1mv02s02_26fe3e60:
     # ns "Porn with a special theme or setting can be like eating at a fancy restaurant if all you watch is stuff just filmed in a bedroom."
     ns "El porno con una temática o un set especial puede ser como comer en un restaurante elegante si todo lo que ves es material filmado solo en una habitación."
+

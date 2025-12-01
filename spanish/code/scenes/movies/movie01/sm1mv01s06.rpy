@@ -1371,3 +1371,4 @@ translate spanish sm1mv01s06_movie_start_bb856909:
 translate spanish sm1mv01s06_done_recording_659dcc56:
     # kv "I admire your fervor, but let's not forget what we're making."
     kv "Admiro tu fervor, pero no olvidemos lo que estamos haciendo."
+

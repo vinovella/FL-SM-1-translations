@@ -496,12 +496,6 @@ translate chinese sm1cs_mas003_second_delivery_28762c10:
     # mc "People would say, \"I've never seen someone like that before\"."
     mc "别人说不定会说，\"我从来没见过这样的人\"。"
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:334
-translate chinese sm1cs_mas003_second_delivery_602b83f0:
-
-    # mc "\"She could be the Slobber Attractor.\""
-    mc "\"她简直是口水吸引器。\""
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:337
 translate chinese sm1cs_mas003_second_delivery_54183bec:
 
@@ -1330,12 +1324,6 @@ translate chinese sm1cs_mas003_third_delivery_252272b7:
     # lg "Here. One, two, three hundred dollars."
     lg "给你。一百，两百，这里有三百美元。"
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:756
-translate chinese sm1cs_mas003_third_delivery_ffef8177:
-
-    # lg "I've already seen Olivia and Kennedy's girls."
-    lg "奥利维亚和肯尼迪的我都已经看过了。"
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:759
 translate chinese sm1cs_mas003_third_delivery_e901380f:
 
@@ -1353,12 +1341,6 @@ translate chinese sm1cs_mas003_third_delivery_656f8bcb:
 
     # lg "Come on, it's a party. I must have my unchained entertainment."
     lg "别这样嘛，这可是派对啊。我总得有点不受拘束的乐子吧。"
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:765
-translate chinese sm1cs_mas003_third_delivery_b9f7c36f:
-
-    # mct "No way, Maya goes for this."
-    mct "玛雅肯定不会答应这种事的。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:769
 translate chinese sm1cs_mas003_third_delivery_a83b93df:
@@ -1395,12 +1377,6 @@ translate chinese sm1cs_mas003_third_delivery_d2c11984:
 
     # lg "Hush. And that's not at all how you say that."
     lg "别说话。而且话也不是你那么说的。"
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:787
-translate chinese sm1cs_mas003_third_delivery_ac1ccd30:
-
-    # "Kennedy, Lauren and Olivia" "*cheer widly*"
-    "肯尼迪、劳伦和奥利维亚" "*大声欢呼*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:794
 translate chinese sm1cs_mas003_third_delivery_c7253fdd:

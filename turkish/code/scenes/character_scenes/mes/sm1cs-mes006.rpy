@@ -424,12 +424,6 @@ translate turkish sm1cs_mes006_14179337:
     # mes "Mu-rhuah... YES. Right there!"
     mes "Mu-rhuah... EVET. Tam orası!"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:264
-translate turkish sm1cs_mes006_4a4e1a0d:
-
-    # mc "I love you, my naughty fuck-minx"
-    mc "Seni seviyorum, yaramaz sürtüğüm"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:265
 translate turkish sm1cs_mes006_a7e4ffe2:
 
@@ -730,12 +724,6 @@ translate turkish sm1cs_mes006_924a8a9f:
     # mc "We all get to play the Boss character in charge of our own dungeon."
     mc "Hepimiz kendi zindanımızın başındaki Boss karakterini oynuyoruz."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:418
-translate turkish sm1cs_mes006_016ace61:
-
-    # sy "Oh cool. A medusa."
-    sy "Oh harika. Bir medusa."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:421
 translate turkish sm1cs_mes006_74e0b126:
 
@@ -748,23 +736,11 @@ translate turkish sm1cs_mes006_4e6875bb:
     # mc "Yes, we'll randomly draw two and pick the one we like."
     mc "Evet, rastgele iki tane çekip istediğimizi seçeceğiz."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:427
-translate turkish sm1cs_mes006_a6bc92e7:
-
-    # sy "I call the medusa!"
-    sy "Medusa'yı ben alıyorum!"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:429
 translate turkish sm1cs_mes006_9ff7b3e8:
 
     # mc "Stacy that's against the rules."
     mc "Stacy bu kurallara aykırı."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:433
-translate turkish sm1cs_mes006_f90b2d59:
-
-    # sy "Rules, schmules,.{w} The medusa is sexy and she's green, like my hair."
-    sy "Kurallar, şurallar,.{w} Medusa seksi ve yeşil, saçım gibi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:434
 translate turkish sm1cs_mes006_392a584c:
@@ -1222,12 +1198,6 @@ translate turkish sm1cs_mes006_continue_6f090bb6:
     # sy "Get them quickly and I shall be a sensual and merciful queen."
     sy "Çabuk getirin ve şehvetli ve merhametli bir kraliçe olacağım."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:656
-translate turkish sm1cs_mes006_continue_eb315316:
-
-    # "[mcname] and Min" "Laughing"
-    "[mcname] ve Min" "Gülüyorlar"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:659
 translate turkish sm1cs_mes006_continue_e3b9a087:
 
@@ -1558,12 +1528,6 @@ translate turkish sm1cs_mes006_continue_305c9e60:
     # mc "Min burada kalırsa, ailesi üzerinde daha az etkisi olur gibi düşünmüştüm."
     mc "Min burada kalırsa, ailesi üzerinde daha az etkisi olur gibi düşünmüştüm."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:814
-translate turkish sm1cs_mes006_continue_ec50e082:
-
-    # mes "Ama o zaman seni ailemle değiştirmiş olmaz mıyım?"
-    mes "Ama o zaman seni ailemle değiştirmiş olmaz mıyım?"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:819
 translate turkish sm1cs_mes006_continue_a6a41626:
 
@@ -1677,12 +1641,6 @@ translate turkish sm1cs_mes006_continue_03624646:
 
     # mc "Asla bir meydan okumadan kaçınmam."
     mc "Asla bir meydan okumadan kaçınmam."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:872
-translate turkish sm1cs_mes006_continue_6df17f5d:
-
-    # mc "Ama burada kalma fikrine karşı değil gibisin. Ben ve Stacy takılsak bile."
-    mc "Ama burada kalma fikrine karşı değil gibisin. Ben ve Stacy takılsak bile."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:875
 translate turkish sm1cs_mes006_continue_928aa4d8:
@@ -2379,12 +2337,6 @@ translate turkish sm1cs_mes006_continue_0cf47568:
 
     # mes "And after Lydia... oh fuck."
     mes "Ve Lydia'dan sonra... oh siktir."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1221
-translate turkish sm1cs_mes006_continue_504e6b1e:
-
-    # mes "I was hesitant... being around, [mcname]."
-    mes "Tereddüt ediyordum... [mcname]'in yanında olmaktan."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1224
 translate turkish sm1cs_mes006_continue_3ccede34:

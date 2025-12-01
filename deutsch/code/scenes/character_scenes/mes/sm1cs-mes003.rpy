@@ -328,12 +328,6 @@ translate deutsch sm1cs_mes003_cc17436b:
     # mes "I guess we both enjoyed our time together in my pool."
     mes "Ich glaube, wir haben beide die Zeit zusammen in meinem Pool genossen."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:225
-translate deutsch sm1cs_mes003_a5158368:
-
-    # mc "We can't all live in trust-fun homes."
-    mc "Wir können nicht alle in Häusern leben, die aus Treuhandfonds finanziert sind."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:228
 translate deutsch sm1cs_mes003_61fad611:
 
@@ -1353,12 +1347,6 @@ translate deutsch sm1cs_mes003_menu_fd134cc0:
 
     # mc "Throatfucking you feels so good, Min."
     mc "Dich in den Hals zu ficken fühlt sich so gut an, Min."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:773
-translate deutsch sm1cs_mes003_menu_5801802c:
-
-    # mes "*happy stuff moans*"
-    mes "*glückliches Stöhnen*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:776
 translate deutsch sm1cs_mes003_menu_1c7497b8:

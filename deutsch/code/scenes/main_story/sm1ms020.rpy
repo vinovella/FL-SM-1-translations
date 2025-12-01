@@ -184,12 +184,6 @@ translate deutsch sm1ms020_ff81abaf:
     # mct "Wow, when Stacy said dive... I didn't think it would be this much of a dive."
     mct "Wow, als Stacy tauchen sagte... hätte ich nicht gedacht, dass es so ein Tauchgang werden würde."
 
-# game/code/scenes/main_story/sm1ms020.rpy:110
-translate deutsch sm1ms020_4ee9b4b6:
-
-    # my "Oh! You brought us to Guns and Rosette's!"
-    my "Oh! Du hast uns zu Guns and Rosette's mitgenommen!"
-
 # game/code/scenes/main_story/sm1ms020.rpy:113
 translate deutsch sm1ms020_7ea9d06a:
 

@@ -442,12 +442,6 @@ translate turkish sm1cs_my002_art_gallery_f4777aee:
     # mc "Yeah! I totally can."
     mc "Evet! Kesinlikle yapabilirim."
 
-# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:254
-translate turkish sm1cs_my002_art_gallery_158b5817:
-
-    # my "Well, let's hear your critique than, hotshot!"
-    my "Hadi bakalım eleştirini duyalım, delikanlı!"
-
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:257
 translate turkish sm1cs_my002_art_gallery_c316e703:
 
@@ -645,12 +639,6 @@ translate turkish sm1cs_my002_art_gallery_77a15526:
 
     # mct "Wait, they're both kind of naked too... is this a nude exhibit?"
     mct "Bekle, ikisi de biraz çıplak zaten... bu bir çıplaklık sergisi mi?"
-
-# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:362
-translate turkish sm1cs_my002_art_gallery_8fa9669a:
-
-    # my "So what do you think of \"Mishief and Repose\", hotshot?"
-    my "Peki \"Mishief and Repose\" hakkında ne düşünüyorsun, yakışıklı?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:365
 translate turkish sm1cs_my002_art_gallery_0972c153:
@@ -969,12 +957,6 @@ translate turkish sm1cs_my002_art_gallery_3ada0820:
 
     # mc "The contrast, and... dark background."
     mc "Kontrast ve... koyu arka plan."
-
-# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:544
-translate turkish sm1cs_my002_art_gallery_e47c489a:
-
-    # my "Just because there's a dark background doesn't make it chiaroscuro, hot shot."
-    my "Sadece karanlık bir arka plan olması onu ışık-gölge oyunu yapmaz, yakışıklı."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:547
 translate turkish sm1cs_my002_art_gallery_9bf915e0:

@@ -484,12 +484,6 @@ translate italian sm1cs_mes004_after_dance_c95aa715:
     # mc "Do you want to talk about it?"
     mc "Vuoi parlarne?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:331
-translate italian sm1cs_mes004_after_dance_bd9106df:
-
-    # mes "No. It's."
-    mes "No. È che."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:335
 translate italian sm1cs_mes004_after_dance_f737300f:
 

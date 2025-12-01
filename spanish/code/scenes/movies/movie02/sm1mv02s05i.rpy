@@ -63,3 +63,4 @@ translate spanish sm1mv02s05i_e1bae39e:
 
     # mc "No need to worry about that."
     mc "No tienes que preocuparte por eso."
+

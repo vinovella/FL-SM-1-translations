@@ -328,12 +328,6 @@ translate portuguese sm1cs_mes003_cc17436b:
     # mes "I guess we both enjoyed our time together in my pool."
     mes "Acho que nós dois gostamos do tempo que passamos na piscina."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:225
-translate portuguese sm1cs_mes003_a5158368:
-
-    # mc "We can't all live in trust-fun homes."
-    mc "Nem todo mundo pode morar numa mansão."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:228
 translate portuguese sm1cs_mes003_61fad611:
 
@@ -1353,12 +1347,6 @@ translate portuguese sm1cs_mes003_menu_fd134cc0:
 
     # mc "Throatfucking you feels so good, Min."
     mc "É tão gostoso meter na sua garganta, Min."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:773
-translate portuguese sm1cs_mes003_menu_5801802c:
-
-    # mes "*happy stuff moans*"
-    mes "*gemidos abafados de felicidade*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:776
 translate portuguese sm1cs_mes003_menu_1c7497b8:

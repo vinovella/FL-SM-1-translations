@@ -484,12 +484,6 @@ translate french sm1cs_mes004_after_dance_c95aa715:
     # mc "Do you want to talk about it?"
     mc "Tu veux en parler ?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:332
-translate french sm1cs_mes004_after_dance_bd9106df:
-
-    # mes "No. It's."
-    mes "Non. C’est..."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:336
 translate french sm1cs_mes004_after_dance_f737300f:
 

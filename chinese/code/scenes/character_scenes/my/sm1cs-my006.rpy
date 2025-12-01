@@ -184,12 +184,6 @@ translate chinese sm1cs_my006_hotel_room_cf7af754:
     # my "Hehehehehehe!"
     my "呵呵呵呵呵！"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:124
-translate chinese sm1cs_my006_hotel_room_78d991b7:
-
-    # my "I will say though, my ranking from best to worse is Episode 5-4-6-3-1-2."
-    my "不过我要说，我从最好到最差的排名是第5-4-6-3-1-2集。"
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:126
 translate chinese sm1cs_my006_hotel_room_ee7f1e17:
 
@@ -255,12 +249,6 @@ translate chinese sm1cs_my006_hotel_room_f49fff8f:
 
     # mc "Yeah?"
     mc "嗯？"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:154
-translate chinese sm1cs_my006_hotel_room_32febd7a:
-
-    # my "I want to say 'thank you'. Thank you for talking to treating me so well after how I acted when I first came to Crowning."
-    my "我想说声'谢谢'。感谢你在我刚来克朗宁时那样对待我之后，还能这么好地对我。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:155
 translate chinese sm1cs_my006_hotel_room_fce185f1:
@@ -339,12 +327,6 @@ translate chinese sm1cs_my006_hotel_room_55960cda:
 
     # my "Shhh. Leave everything to Mommy, my dear."
     my "嘘。把一切都交给妈咪，亲爱的。"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:203
-translate chinese sm1cs_my006_hotel_room_dbe21ac6:
-
-    # my "Leave it to me, [mcname]"
-    my "交给我吧，[mcname]"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:206
 translate chinese sm1cs_my006_hotel_room_604f3eaa:
@@ -429,18 +411,6 @@ translate chinese sm1cs_my006_hotel_room_29af458c:
 
     # mc "That's - ngggg - you're incredible!"
     mc "这-嗯-你太棒了！"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:247
-translate chinese sm1cs_my006_hotel_room_fffdfd43:
-
-    # mc "Holy shit, Mom is sucking my cock!"
-    mc "我操，妈妈在吸我的鸡巴！"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:249
-translate chinese sm1cs_my006_hotel_room_ce1954a5:
-
-    # mc "Holy shit, Melony is sucking my cock!"
-    mc "我操，梅洛妮在吸我的鸡巴！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:250
 translate chinese sm1cs_my006_hotel_room_09fa23af:
@@ -1012,12 +982,6 @@ translate chinese sm1cs_my006_hotel_room_4339e553:
     # mc "If memory serves, wasn't it just you who was begging me to go until you came?"
     mc "如果我没记错的话，不就是你刚才求我一直做到你高潮吗？"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:459
-translate chinese sm1cs_my006_hotel_room_f4bfcab7:
-
-    # mc "Maybe, I want to tease you a little bit?"
-    mc "也许，我想稍微逗逗你？"
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:462
 translate chinese sm1cs_my006_hotel_room_b6c49741:
 
@@ -1384,12 +1348,6 @@ translate chinese sm1cs_my006_hotel_room_7d05dd5d:
     # mc "Are you okay!?"
     mc "你还好吗！？"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:590
-translate chinese sm1cs_my006_hotel_room_ac0a9870:
-
-    # my "Mmmhmmm! B-better than, okay!"
-    my "嗯嗯嗯！比-比好还要好！"
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:591
 translate chinese sm1cs_my006_hotel_room_fe4cb180:
 
@@ -1527,12 +1485,6 @@ translate chinese sm1cs_my006_hotel_room_e5283d8e:
 
     # my "Let's see if I can't help us both out..."
     my "让我看看能不能帮我们俩一起..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:631
-translate chinese sm1cs_my006_hotel_room_7ef48fb7:
-
-    # my "Fuck, fuck, quick it, fuck, faster! Mmmmmm!"
-    my "操，操，快点，操，更快！嗯嗯嗯！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:632
 translate chinese sm1cs_my006_hotel_room_1c9aab7f:
@@ -2080,12 +2032,6 @@ translate chinese sm1cs_my006_next_morning_5f7d7a52:
     # mc "Last night was incredible. And I can't wait to do it again. I want to be even closer to you."
     mc "昨晚太不可思议了。我迫不及待地想再做一次。我想和你更加亲密。"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:868
-translate chinese sm1cs_my006_next_morning_d00aa485:
-
-    # mc "There's still so much I don't know about you, even though you've been around, my whole life."
-    mc "关于你还有很多我不知道的，尽管你一直在我身边，我的一生。"
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:871
 translate chinese sm1cs_my006_next_morning_79e58387:
 
@@ -2277,12 +2223,6 @@ translate chinese sm1cs_my006_at_studio_53d2dc99:
 
     # sy "Hell yeah you did!"
     sy "当然了！"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:976
-translate chinese sm1cs_my006_at_studio_1f5f52ab:
-
-    # mc "-and I just want to take shower and get a cup of coffee, okay?"
-    mc "-我只想洗个澡喝杯咖啡，好吗？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:977
 translate chinese sm1cs_my006_at_studio_ca090197:

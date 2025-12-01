@@ -929,3 +929,4 @@ translate spanish strings:
     # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:485
     old "Just teasing"
     new "Solo estoy bromeando"
+

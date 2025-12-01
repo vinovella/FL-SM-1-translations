@@ -978,14 +978,6 @@ translate turkish sm1cs_mes_r1_watersports_48bfeefa:
     # mes "Please? I want to feel it again..."
     mes "Lütfen? Tekrar hissetmek istiyorum..."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:412
-translate turkish sm1cs_mes_r1_watersports_b9ecb643:
-
-    # mes "I need your piss all over me. Make your dirty little piss slut."
-    mes "Sidik
-
-in her yerime sıçramasına ihtiyacım var. Beni kirli küçük sidik sürtüğün yap."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:416
 translate turkish sm1cs_mes_r1_watersports_0f840e6b:
 
@@ -1641,12 +1633,6 @@ translate turkish sm1cs_mes_r1_end_9115f74c:
 
     # mc "Good. I'll always be here. Always."
     mc "İyi. Her zaman burada olacağım. Her zaman."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:696
-translate turkish sm1cs_mes_r1_end_6364a7f9:
-
-    # mes "I'm glad I came back from Korea. This...us... {w} Being together."
-    mes "Kore'den döndüğüme memnunum. Bu...biz... {w} Birlikte olmak."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:697
 translate turkish sm1cs_mes_r1_end_2b92c25b:

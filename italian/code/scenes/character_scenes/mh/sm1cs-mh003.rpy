@@ -64,12 +64,6 @@ translate italian sm1cs_mh003_d50e4a60:
     # sy "What are you waiting for! Tell her to come over!"
     sy "Cosa aspetti! Dille di venire!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:42
-translate italian sm1cs_mh003_0c01668c:
-
-    # mc "All right, all right! Jees, I'm texting her right now."
-    mc "Va bene, va bene! Cavolo, le sto scrivendo proprio ora."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:49
 translate italian sm1cs_mh003_152d6612:
 
@@ -579,12 +573,6 @@ translate italian sm1cs_mh003_romance_b8117695:
 
     # mh "I want you to show me that you mean it. That you {i}want{/i} a relationship with me."
     mh "Voglio che tu mi mostri che fai sul serio. Che {i}vuoi{/i} una relazione con me."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:299
-translate italian sm1cs_mh003_romance_8a39a9ac:
-
-    # mc "Of course! Yes! Absolutely"
-    mc "Certo! Sì! Assolutamente"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:302
 translate italian sm1cs_mh003_romance_01d609a0:

@@ -424,12 +424,6 @@ translate deutsch sm1cs_mes006_14179337:
     # mes "Mu-rhuah... YES. Right there!"
     mes "Mu-rhuah... JA. Genau dort!"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:264
-translate deutsch sm1cs_mes006_4a4e1a0d:
-
-    # mc "I love you, my naughty fuck-minx"
-    mc "Ich liebe dich, meine freche kleine Schlampe."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:265
 translate deutsch sm1cs_mes006_a7e4ffe2:
 
@@ -730,12 +724,6 @@ translate deutsch sm1cs_mes006_924a8a9f:
     # mc "We all get to play the Boss character in charge of our own dungeon."
     mc "Wir alle dürfen den Boss spielen, der für unseren eigenen Dungeon verantwortlich ist."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:418
-translate deutsch sm1cs_mes006_016ace61:
-
-    # sy "Oh cool. A medusa."
-    sy "Oh cool. Eine Medusa."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:421
 translate deutsch sm1cs_mes006_74e0b126:
 
@@ -748,23 +736,11 @@ translate deutsch sm1cs_mes006_4e6875bb:
     # mc "Yes, we'll randomly draw two and pick the one we like."
     mc "Ja, wir werden zwei zufällig auswählen und denjenigen nehmen, der uns gefällt."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:427
-translate deutsch sm1cs_mes006_a6bc92e7:
-
-    # sy "I call the medusa!"
-    sy "Ich nehme die Medusa!"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:429
 translate deutsch sm1cs_mes006_9ff7b3e8:
 
     # mc "Stacy that's against the rules."
     mc "Stacy, das verstößt gegen die Regeln."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:433
-translate deutsch sm1cs_mes006_f90b2d59:
-
-    # sy "Rules, schmules,.{w} The medusa is sexy and she's green, like my hair."
-    sy "Regeln, pah!{w} Die Medusa ist sexy und sie ist grün, genau wie meine Haare."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:434
 translate deutsch sm1cs_mes006_392a584c:
@@ -1222,12 +1198,6 @@ translate deutsch sm1cs_mes006_continue_6f090bb6:
     # sy "Get them quickly and I shall be a sensual and merciful queen."
     sy "Besorgt sie euch schnell und ich werde eine sinnliche und barmherzige Königin sein."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:656
-translate deutsch sm1cs_mes006_continue_eb315316:
-
-    # "[mcname] and Min" "Laughing"
-    "[mcname] und Min" "Lachen"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:659
 translate deutsch sm1cs_mes006_continue_e3b9a087:
 
@@ -1558,12 +1528,6 @@ translate deutsch sm1cs_mes006_continue_305c9e60:
     # mc "I imagined that if Min stayed here, then it would be like her parents have less influence on her."
     mc "Ich stellte mir vor, dass Min, wenn sie hier bliebe, weniger unter dem Einfluss ihrer Eltern stünde."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:814
-translate deutsch sm1cs_mes006_continue_ec50e082:
-
-    # mes "But then wouldn't I just be trading you for my parents?"
-    mes "Aber würde ich dich dann nicht einfach gegen meine Eltern eintauschen?"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:819
 translate deutsch sm1cs_mes006_continue_a6a41626:
 
@@ -1677,12 +1641,6 @@ translate deutsch sm1cs_mes006_continue_03624646:
 
     # mc "I never shy away from a challenge."
     mc "Ich scheue mich nie vor einer Herausforderung."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:872
-translate deutsch sm1cs_mes006_continue_6df17f5d:
-
-    # mc "But it sounds like you'er not opposed to the idea of staying here. Even with me and Stacy hooking up."
-    mc "Aber es klingt, als wärst du nicht gegen die Idee, hier zu bleiben. Selbst wenn Stacy und ich öfters ficken."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:875
 translate deutsch sm1cs_mes006_continue_928aa4d8:
@@ -2379,12 +2337,6 @@ translate deutsch sm1cs_mes006_continue_0cf47568:
 
     # mes "And after Lydia... oh fuck."
     mes "Und nach Lydia... oh Scheiße."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1221
-translate deutsch sm1cs_mes006_continue_504e6b1e:
-
-    # mes "I was hesitant... being around, [mcname]."
-    mes "Ich war zögerlich... in der Nähe von [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1224
 translate deutsch sm1cs_mes006_continue_3ccede34:

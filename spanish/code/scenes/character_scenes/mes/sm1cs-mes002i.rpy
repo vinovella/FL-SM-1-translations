@@ -64,12 +64,6 @@ translate spanish sm1cs_mes002i_06f6f709:
     # mc "She told me that since she got back, she didn't reach out to anyone from college or anyone from the Fetish Locator parties."
     mc "Ella me dijo que desde que regresó, no se comunicó con nadie de la universidad ni con nadie de las fiestas del Localizador de Fetiches."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes002i.rpy:33
-translate spanish sm1cs_mes002i_a0c58f77:
-
-    # mc "Talking to her, it was like. I'm not sure, but she looked a bit lost."
-    mc "Hablando con ella, era como. No estoy seguro, pero parecía un poco perdida."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes002i.rpy:37
 translate spanish sm1cs_mes002i_5df3ba5d:
 

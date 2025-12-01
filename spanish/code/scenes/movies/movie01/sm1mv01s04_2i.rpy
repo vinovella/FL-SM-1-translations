@@ -15,3 +15,4 @@ translate spanish sm1mv01s04i_5265a6a3:
 
     # mc "Yep, I'm ready!"
     mc "¡Sí, estoy listo!"
+

@@ -1000,12 +1000,6 @@ translate turkish sm1mv02s09_movie_ef025953:
     # kv "Slrrrp, slllllrrrpppp, sllrrp!"
     kv "Slrrrp, slllllrrrpppp, sllrrp!"
 
-# game/code/scenes/movies/movie02/sm1mv02s09.rpy:850
-translate turkish sm1mv02s09_movie_8cee9893:
-
-    # mhmes "And she is also quite a spectacle to behold. She really understands how to being a body to climax."
-    mhmes "Ve o da seyretmesi oldukça etkileyici. Bir vücudu doruğa nasıl çıkaracağını gerçekten biliyor."
-
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:853
 translate turkish sm1mv02s09_movie_0642252e:
 

@@ -62,3 +62,4 @@ translate spanish sm1mv02s08i_121c5b7c:
 translate spanish sm1mv02s08i_f088434a:
     # mc "Alright. I'll see what I can do."
     mc "De acuerdo. Veré qué puedo hacer."
+

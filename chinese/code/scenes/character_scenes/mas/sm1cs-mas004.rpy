@@ -796,12 +796,6 @@ translate chinese sm1cs_mas004_after_lunch_31aeabe2:
     # ms "You know the worst thing about it?{w} Those interviews felt like a fucking vacation!"
     ms "你知道最糟糕的是什么吗？{w}那些面试感觉就像他妈的度假！"
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:555
-translate chinese sm1cs_mas004_after_lunch_729d452e:
-
-    # ms "So I'm done waiting for something good to happen to me. I'm going to {i}make {/i} something good happen."
-    ms "所以我不再等待好事发生在我身上了。我要{i}让{/i}好事发生。"
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:556
 translate chinese sm1cs_mas004_after_lunch_d7fe0636:
 
@@ -1173,12 +1167,6 @@ translate chinese sm1cs_mas004_after_lunch_435f2123:
 
     # ms "*voice drops* Spank me. Make me feel it."
     ms "*声音降低*打我屁股。让我感受到。"
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:784
-translate chinese sm1cs_mas004_after_lunch_6f9546d6:
-
-    # ms "**raw moaning* Fuck...yes."
-    ms "*原始的呻吟*操...是的。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:785
 translate chinese sm1cs_mas004_after_lunch_4cd2d6dd:

@@ -424,12 +424,6 @@ translate chinese sm1cs_my001_3d8e743d:
     # "Waiter" "Can I start you off with anything to drink?"
     "服务员" "请问两位现在需要来点喝的吗？"
 
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:236
-translate chinese sm1cs_my001_520dd091:
-
-    # my "Mmmmm, I'll take a glass of the hosue red."
-    my "嗯...我要一杯餐厅的招牌红酒。"
-
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:238
 translate chinese sm1cs_my001_9947685b:
 
@@ -502,18 +496,6 @@ translate chinese sm1cs_my001_6dc64527:
     # my "I used to have this... friend. Now, he wasn't exactly working in the adult entertainment industry, but close. Lots of nude models in his studio, lots of partying..."
     my "我以前有个...朋友。他当时虽然不是在成人娱乐行业工作，但也差不多了。他的工作室里有好多裸体模特，还经常举办派对..."
 
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:269
-translate chinese sm1cs_my001_a83aec2c:
-
-    # my "But this little empire of industry he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
-    my "可他当时正在搭建的那个小商业帝国，后来慢慢就垮掉了。先是感情生活出了问题，然后想出来的赚钱点子又都不成熟..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:272
-translate chinese sm1cs_my001_0a575054:
-
-    # my "The models own personal lives becoming intwined with his work and the studio..."
-    my "那些模特的私人生活还跟他的工作、以及工作室都搅在了一起..."
-
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:273
 translate chinese sm1cs_my001_a9a8a236:
 
@@ -567,12 +549,6 @@ translate chinese sm1cs_my001_a3a9b546:
 
     # mc "How about an order of those to start. And then we'll each have an order of the pasta linguini."
     mc "先来一份生蚝吧。然后我们各要一份扁面条意面。"
-
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:299
-translate chinese sm1cs_my001_8c89e5bd:
-
-    # "Waiter" "Both wonderful choices, sit."
-    "服务员" "先生，这两道菜都是很棒的选择。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:306
 translate chinese sm1cs_my001_153e3d04:
@@ -657,12 +633,6 @@ translate chinese sm1cs_my001_b8cc636d:
 
     # my "No, no. Nothing like that. I've just always found hotels... sterile. There's no life in them."
     my "没有，没有。不是那种问题。我就是一直觉得酒店...太缺乏生气了。里面一点生活的气息都没有。"
-
-# game/code/scenes/character_scenes/my/sm1cs-my001.rpy:346
-translate chinese sm1cs_my001_2cecdbca:
-
-    # my "The erase the personality so you can fill it with whatever you can fit into a suitcase."
-    my "酒店把所有个性都抹掉了，就只留下能让你把行李箱里的东西塞进去的空间。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:349
 translate chinese sm1cs_my001_d9480244:

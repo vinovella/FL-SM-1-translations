@@ -340,12 +340,6 @@ translate turkish sm1cs_mes005_221c7c0b:
     # mc "Come on. She says she's finishing up a session."
     mc "Hadi ama. Bir seansı bitirdiğini söylüyor."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:178
-translate turkish sm1cs_mes005_19a94ea1:
-
-    # mc "Pay your bill and let's go meet Kanya"
-    mc "Faturanı öde ve Kanya ile tanışmaya gidelim"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:181
 translate turkish sm1cs_mes005_90378096:
 
@@ -903,12 +897,6 @@ translate turkish sm1cs_mes005_28db3c43:
 
     # mc "No really. I wish we were going to a Fetish Locator party after this."
     mc "Hayır gerçekten. Keşke bundan sonra bir Fetiş Bulucu partisine gitseydik."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:518
-translate turkish sm1cs_mes005_0905cec0:
-
-    # kv "Already, let's keep things nice and loose."
-    kv "Hadi, işleri güzel ve rahat bırakalım."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:522
 translate turkish sm1cs_mes005_a59da392:

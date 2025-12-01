@@ -478,3 +478,4 @@ translate spanish strings:
     # game/code/scenes/movies/movie02/sm1mv02s01.rpy:4
     old "No, do not include watersports content"
     new "No, no incluir contenido de lluvia dorada"
+

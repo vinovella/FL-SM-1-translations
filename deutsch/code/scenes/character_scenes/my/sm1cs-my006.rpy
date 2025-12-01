@@ -184,12 +184,6 @@ translate deutsch sm1cs_my006_hotel_room_cf7af754:
     # my "Hehehehehehe!"
     my "Hehehehehehe!"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:124
-translate deutsch sm1cs_my006_hotel_room_78d991b7:
-
-    # my "I will say though, my ranking from best to worse is Episode 5-4-6-3-1-2."
-    my "Ich würde allerdings sagen, dass meine Rangliste von der besten zur schlechtesten Folge wie folgt aussieht: 5-4-6-3-1-2."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:126
 translate deutsch sm1cs_my006_hotel_room_ee7f1e17:
 
@@ -255,12 +249,6 @@ translate deutsch sm1cs_my006_hotel_room_f49fff8f:
 
     # mc "Yeah?"
     mc "Ja?"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:154
-translate deutsch sm1cs_my006_hotel_room_32febd7a:
-
-    # my "I want to say 'thank you'. Thank you for talking to treating me so well after how I acted when I first came to Crowning."
-    my "Ich möchte mich bedanken. Danke, dass du mich so gut behandelt hast, nachdem ich mich bei meiner Ankunft in Crowning so verhalten habe."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:155
 translate deutsch sm1cs_my006_hotel_room_fce185f1:
@@ -339,12 +327,6 @@ translate deutsch sm1cs_my006_hotel_room_55960cda:
 
     # my "Shhh. Leave everything to Mommy, my dear."
     my "Pssst. Überlass alles Mama, mein Schatz."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:203
-translate deutsch sm1cs_my006_hotel_room_dbe21ac6:
-
-    # my "Leave it to me, [mcname]"
-    my "Überlass das mir, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:206
 translate deutsch sm1cs_my006_hotel_room_604f3eaa:
@@ -429,18 +411,6 @@ translate deutsch sm1cs_my006_hotel_room_29af458c:
 
     # mc "That's - ngggg - you're incredible!"
     mc "Das ist – ngggg – du bist unglaublich!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:247
-translate deutsch sm1cs_my006_hotel_room_fffdfd43:
-
-    # mc "Holy shit, Mom is sucking my cock!"
-    mc "Heilige Scheiße, Mama bläst meinen Schwanz!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:249
-translate deutsch sm1cs_my006_hotel_room_ce1954a5:
-
-    # mc "Holy shit, Melony is sucking my cock!"
-    mc "Heilige Scheiße, Melony bläst meinen Schwanz!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:250
 translate deutsch sm1cs_my006_hotel_room_09fa23af:
@@ -1012,12 +982,6 @@ translate deutsch sm1cs_my006_hotel_room_4339e553:
     # mc "If memory serves, wasn't it just you who was begging me to go until you came?"
     mc "Wenn ich mich recht erinnere, warst du es doch, die mich angefleht hat, bis zu deinem Orgasmus weiterzumachen, oder?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:459
-translate deutsch sm1cs_my006_hotel_room_f4bfcab7:
-
-    # mc "Maybe, I want to tease you a little bit?"
-    mc "Vielleicht möchte ich dich ein bisschen necken?"
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:462
 translate deutsch sm1cs_my006_hotel_room_b6c49741:
 
@@ -1384,12 +1348,6 @@ translate deutsch sm1cs_my006_hotel_room_7d05dd5d:
     # mc "Are you okay!?"
     mc "Alles okay?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:590
-translate deutsch sm1cs_my006_hotel_room_ac0a9870:
-
-    # my "Mmmhmmm! B-better than, okay!"
-    my "Mmmhmmm! B-besser als, okay!"
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:591
 translate deutsch sm1cs_my006_hotel_room_fe4cb180:
 
@@ -1527,12 +1485,6 @@ translate deutsch sm1cs_my006_hotel_room_e5283d8e:
 
     # my "Let's see if I can't help us both out..."
     my "Mal sehen, ob ich uns beiden helfen kann..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:631
-translate deutsch sm1cs_my006_hotel_room_7ef48fb7:
-
-    # my "Fuck, fuck, quick it, fuck, faster! Mmmmmm!"
-    my "Fick mich, fick mich, schneller, fick mich, schneller! Mmmmmm!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:632
 translate deutsch sm1cs_my006_hotel_room_1c9aab7f:
@@ -2080,12 +2032,6 @@ translate deutsch sm1cs_my006_next_morning_5f7d7a52:
     # mc "Last night was incredible. And I can't wait to do it again. I want to be even closer to you."
     mc "Die letzte Nacht war unglaublich. Und ich kann es kaum erwarten, es wieder zu tun. Ich möchte dir noch näher sein."
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:868
-translate deutsch sm1cs_my006_next_morning_d00aa485:
-
-    # mc "There's still so much I don't know about you, even though you've been around, my whole life."
-    mc "Es gibt noch so viel, was ich nicht über dich weiß, obwohl du schon mein ganzes Leben lang da bist."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:871
 translate deutsch sm1cs_my006_next_morning_79e58387:
 
@@ -2277,12 +2223,6 @@ translate deutsch sm1cs_my006_at_studio_53d2dc99:
 
     # sy "Hell yeah you did!"
     sy "Aber klar hattest du das!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:976
-translate deutsch sm1cs_my006_at_studio_1f5f52ab:
-
-    # mc "-and I just want to take shower and get a cup of coffee, okay?"
-    mc "-und ich möchte nur duschen und eine Tasse Kaffee trinken, okay?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:977
 translate deutsch sm1cs_my006_at_studio_ca090197:

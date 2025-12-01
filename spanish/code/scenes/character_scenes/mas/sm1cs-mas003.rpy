@@ -496,12 +496,6 @@ translate spanish sm1cs_mas003_second_delivery_28762c10:
     # mc "People would say, \"I've never seen someone like that before\"."
     mc "La gente diría, \"Nunca había visto a alguien así antes\"."
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:334
-translate spanish sm1cs_mas003_second_delivery_602b83f0:
-
-    # mc "\"She could be the Slobber Attractor.\""
-    mc "\"Ella podría ser el imán de la baba.\""
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:337
 translate spanish sm1cs_mas003_second_delivery_54183bec:
 
@@ -1324,12 +1318,6 @@ translate spanish sm1cs_mas003_third_delivery_252272b7:
     # lg "Here. One, two, three hundred dollars."
     lg "Aquí. Uno, dos, trescientos dólares."
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:756
-translate spanish sm1cs_mas003_third_delivery_ffef8177:
-
-    # lg "I've already seen Olivia and Kennedy's girls."
-    lg "Ya he visto a las chicas de Olivia y Kennedy."
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:759
 translate spanish sm1cs_mas003_third_delivery_e901380f:
 
@@ -1347,12 +1335,6 @@ translate spanish sm1cs_mas003_third_delivery_656f8bcb:
 
     # lg "Come on, it's a party. I must have my unchained entertainment."
     lg "Vamos, es una fiesta. Debo tener mi entretenimiento desencadenado."
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:765
-translate spanish sm1cs_mas003_third_delivery_b9f7c36f:
-
-    # mct "No way, Maya goes for this."
-    mct "De ninguna manera, Maya va a hacer esto."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:769
 translate spanish sm1cs_mas003_third_delivery_a83b93df:
@@ -1389,12 +1371,6 @@ translate spanish sm1cs_mas003_third_delivery_d2c11984:
 
     # lg "Hush. And that's not at all how you say that."
     lg "Cállate. Y no es así como dices eso."
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:787
-translate spanish sm1cs_mas003_third_delivery_ac1ccd30:
-
-    # "Kennedy, Lauren and Olivia" "*cheer widly*"
-    "Kennedy, Lauren y Olivia" "*animar salvajemente*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:794
 translate spanish sm1cs_mas003_third_delivery_c7253fdd:

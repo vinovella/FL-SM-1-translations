@@ -496,12 +496,6 @@ translate portuguese sm1cs_mas003_second_delivery_28762c10:
     # mc "People would say, \"I've never seen someone like that before\"."
     mc "O pessoal ia falar \"Nunca vi alguém assim antes\"."
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:334
-translate portuguese sm1cs_mas003_second_delivery_602b83f0:
-
-    # mc "\"She could be the Slobber Attractor.\""
-    mc "\"Ela poderia ser a Leva-Baba.\""
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:337
 translate portuguese sm1cs_mas003_second_delivery_54183bec:
 
@@ -1324,12 +1318,6 @@ translate portuguese sm1cs_mas003_third_delivery_252272b7:
     # lg "Here. One, two, three hundred dollars."
     lg "Aqui. Cem, duzentos, trezentos."
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:756
-translate portuguese sm1cs_mas003_third_delivery_ffef8177:
-
-    # lg "I've already seen Olivia and Kennedy's girls."
-    lg "Já vi as garotinhas da Olivia e da Kennedy."
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:759
 translate portuguese sm1cs_mas003_third_delivery_e901380f:
 
@@ -1347,12 +1335,6 @@ translate portuguese sm1cs_mas003_third_delivery_656f8bcb:
 
     # lg "Come on, it's a party. I must have my unchained entertainment."
     lg "Que isso, é uma festa. Quero o meu entretenimento sem limites."
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:765
-translate portuguese sm1cs_mas003_third_delivery_b9f7c36f:
-
-    # mct "No way, Maya goes for this."
-    mct "Duvido que a Maya aceite."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:769
 translate portuguese sm1cs_mas003_third_delivery_a83b93df:
@@ -1389,12 +1371,6 @@ translate portuguese sm1cs_mas003_third_delivery_d2c11984:
 
     # lg "Hush. And that's not at all how you say that."
     lg "Xiu. E não é assim que se fala."
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:787
-translate portuguese sm1cs_mas003_third_delivery_ac1ccd30:
-
-    # "Kennedy, Lauren and Olivia" "*cheer widly*"
-    "Kennedy, Lauren e Olivia" "*vibrando loucamente*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:794
 translate portuguese sm1cs_mas003_third_delivery_c7253fdd:

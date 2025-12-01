@@ -64,12 +64,6 @@ translate turkish sm1cs_mh003_d50e4a60:
     # sy "What are you waiting for! Tell her to come over!"
     sy "Ne duruyorsun! Ona gelmesini söyle!"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:42
-translate turkish sm1cs_mh003_0c01668c:
-
-    # mc "All right, all right! Jees, I'm texting her right now."
-    mc "Tamam, tamam! Aman Tanrım, şu anda ona mesaj atıyorum."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:49
 translate turkish sm1cs_mh003_152d6612:
 
@@ -579,12 +573,6 @@ translate turkish sm1cs_mh003_romance_b8117695:
 
     # mh "I want you to show me that you mean it. That you {i}want{/i} a relationship with me."
     mh "Bana bunu gerçekten istediğini göstermeni istiyorum. Benimle bir ilişki {i}istediğini{/i}."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:299
-translate turkish sm1cs_mh003_romance_8a39a9ac:
-
-    # mc "Of course! Yes! Absolutely"
-    mc "Elbette! Evet! Kesinlikle"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:302
 translate turkish sm1cs_mh003_romance_01d609a0:

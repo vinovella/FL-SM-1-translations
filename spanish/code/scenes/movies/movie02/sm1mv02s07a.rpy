@@ -1229,3 +1229,4 @@ translate spanish strings:
     # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:597
     old "I think Min needs a turn on my cock"
     new "Creo que es el turno de Min con mi polla"
+

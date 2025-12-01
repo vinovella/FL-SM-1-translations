@@ -178,12 +178,6 @@ translate italian sm1cs_mes007_921d09a4:
     # mes "I'm small but not {i}that{/i} small."
     mes "Sono piccola ma non {i}così{/i} piccola."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:148
-translate italian sm1cs_mes007_74fb982f:
-
-    # mes "And you lugging the big stuff save me the trouble of building an elaborate pulley and winch system that might damage the studio."
-    mes "E tu che trascini la roba pesante mi risparmi la fatica di costruire un elaborato sistema di carrucole e argani che potrebbe danneggiare lo studio."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:153
 translate italian sm1cs_mes007_5595ea9d:
 
@@ -387,12 +381,6 @@ translate italian sm1cs_mes007_ac615639:
 
     # mes "I just want our lines of demarcation to be clear."
     mes "Voglio solo che le nostre linee di demarcazione siano chiare."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:262
-translate italian sm1cs_mes007_1e3503da:
-
-    # mes "This is your home, but this is going to be my home within you home."
-    mes "Questa è la tua casa, ma questa sarà la mia casa dentro la tua casa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:267
 translate italian sm1cs_mes007_3ff8f3e1:
@@ -652,12 +640,6 @@ translate italian sm1cs_mes007_continue_391ae28e:
     # mc "You're always pretty in pink."
     mc "Sei sempre bella in rosa."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:434
-translate italian sm1cs_mes007_continue_88f94c10:
-
-    # mc "I appreciate, Min. But my favoite thing about panties is when I pull them off you."
-    mc "Apprezzo, Min. Ma la mia cosa preferita delle mutandine è quando te le sfilo."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:437
 translate italian sm1cs_mes007_continue_a80d84c6:
 
@@ -747,12 +729,6 @@ translate italian sm1cs_mes007_continue_07bae835:
 
     # mes "Smart man."
     mes "Uomo intelligente."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:521
-translate italian sm1cs_mes007_continue_0c0badc7:
-
-    # mc "Knock yourself out. Just don't be surprised to feel a sudden presure pushing against your pussy."
-    mc "Fai pure. Non sorprenderti di sentire una pressione improvvisa che spinge contro la tua figa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:524
 translate italian sm1cs_mes007_continue_9d4a3295:
@@ -910,12 +886,6 @@ translate italian sm1cs_mes007_continue_5f745e82:
     # mes "Give it to me."
     mes "Dammelo."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:599
-translate italian sm1cs_mes007_continue_bd71179a:
-
-    # mes "Imprint the shape of yoru cock against my womb."
-    mes "Imprime la forma del tuo cazzo contro il mio utero."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:602
 translate italian sm1cs_mes007_continue_3250dad8:
 
@@ -963,12 +933,6 @@ translate italian sm1cs_mes007_continue_0f1f5fb8:
 
     # mes "Oh!"
     mes "Oh!"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:639
-translate italian sm1cs_mes007_continue_d8c79ef2:
-
-    # mes "On you're grinding me down!"
-    mes "Oh mi stai macinando!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:640
 translate italian sm1cs_mes007_continue_14bb7e2c:
@@ -1053,12 +1017,6 @@ translate italian sm1cs_mes007_continue_f6640250:
 
     # mes "Fffummmtth!"
     mes "Fffummmtth!"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:704
-translate italian sm1cs_mes007_continue_715a92c0:
-
-    # mes "Gulp."
-    mes "Gulp."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:707
 translate italian sm1cs_mes007_continue_1a5e043e:
@@ -1155,12 +1113,6 @@ translate italian sm1cs_mes007_continue_9840b0f1:
 
     # mc "It's going to be amazing."
     mc "Sarà fantastico."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:765
-translate italian sm1cs_mes007_continue_b81b5ced:
-
-    # mes "I like your spunky atttitude."
-    mes "Mi piace il tuo atteggiamento vivace."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:766
 translate italian sm1cs_mes007_continue_dea7848b:

@@ -442,12 +442,6 @@ translate deutsch sm1cs_my002_art_gallery_f4777aee:
     # mc "Yeah! I totally can."
     mc "Ja! Das kann ich auf jeden Fall."
 
-# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:246
-translate deutsch sm1cs_my002_art_gallery_158b5817:
-
-    # my "Well, let's hear your critique than, hotshot!"
-    my "Na dann, lass mal deine Kritik hören, du Überflieger!"
-
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:249
 translate deutsch sm1cs_my002_art_gallery_c316e703:
 
@@ -645,12 +639,6 @@ translate deutsch sm1cs_my002_art_gallery_77a15526:
 
     # mct "Wait, they're both kind of naked too... is this a nude exhibit?"
     mct "Moment mal, die beiden sind auch irgendwie nackt... Ist das eine Nackt-Ausstellung?"
-
-# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:354
-translate deutsch sm1cs_my002_art_gallery_8fa9669a:
-
-    # my "So what do you think of \"Mishief and Repose\", hotshot?"
-    my "Was hältst du von \"Mishief and Repose\", du Ass?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:357
 translate deutsch sm1cs_my002_art_gallery_0972c153:
@@ -969,12 +957,6 @@ translate deutsch sm1cs_my002_art_gallery_3ada0820:
 
     # mc "The contrast, and... dark background."
     mc "Der Kontrast und... der dunkle Hintergrund."
-
-# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:536
-translate deutsch sm1cs_my002_art_gallery_e47c489a:
-
-    # my "Just because there's a dark background doesn't make it chiaroscuro, hot shot."
-    my "Nur weil es einen dunklen Hintergrund gibt, ist es noch lange kein Chiaroscuro, du Überflieger."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:539
 translate deutsch sm1cs_my002_art_gallery_9bf915e0:

@@ -508,12 +508,6 @@ translate italian sm1cs_mh009_e13e66b7:
     # mh "And... I do find myself thinking about the level of honesty and... submission, in a role like this."
     mh "E... mi ritrovo a pensare al livello di onestà e... sottomissione, in un ruolo come questo."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:298
-translate italian sm1cs_mh009_4fb44de1:
-
-    # mh "I can't help but feel a bit hungry..{w} to know more about how it works..."
-    mh "Non posso fare a meno di sentirmi un po' affamata..{w} di sapere di più su come funziona..."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:301
 translate italian sm1cs_mh009_f78e912e:
 
@@ -1042,12 +1036,6 @@ translate italian sm1cs_mh009_38a38140:
     # mc "It feels like you know how to pose yourself in your light, how to show off to the camera, how to be sexy without making it forced..."
     mc "Sembra che tu sappia come metterti in posa nella tua luce, come metterti in mostra davanti alla telecamera, come essere sexy senza forzare..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:569
-translate italian sm1cs_mh009_294000b4:
-
-    # mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to preform for the camera."
-    mc "E non ho motivo di mentire. Questo è un luogo di lavoro, e ogni talento dovrebbe sapere come esibirsi davanti alla telecamera."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:570
 translate italian sm1cs_mh009_8115fc5e:
 
@@ -1197,12 +1185,6 @@ translate italian sm1cs_mh009_4fe9d209:
 
     # mh "And what did you have in mind?"
     mh "E cosa avevi in mente?"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:638
-translate italian sm1cs_mh009_ad29a8c4:
-
-    # mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fuck as well as you suck."
-    mc "Beh, ora che il mio cazzo è tutto bello e lubrificato... mi piacerebbe vedere se puoi scopare così bene come succhi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:641
 translate italian sm1cs_mh009_dadd9e73:
@@ -2091,12 +2073,6 @@ translate italian sm1cs_mh009_1_cc441963:
 
     # mc "Uhm, I can always run them to you later? Maybe even edit the footage a little bit so that it looks nicer."
     mc "Uhm, posso sempre portarteli più tardi? Magari anche modificare un po' il filmato così che sembri più bello."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1042
-translate italian sm1cs_mh009_1_43f85b91:
-
-    # mc "And I promise that the only person who is ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
-    mc "E prometto che l'unica persona che lo vedrà mai saremo io e tu. Non lo pubblicherò, non lo mostrerò a nessuno, prometto-"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1045
 translate italian sm1cs_mh009_1_c7cf2826:

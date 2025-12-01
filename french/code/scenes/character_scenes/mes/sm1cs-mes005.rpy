@@ -340,12 +340,6 @@ translate french sm1cs_mes005_221c7c0b:
     # mc "Come on. She says she's finishing up a session."
     mc "Allez. Elle dit qu’elle termine une séance."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:160
-translate french sm1cs_mes005_19a94ea1:
-
-    # mc "Pay your bill and let's go meet Kanya"
-    mc "Règle ton addition et allons rencontrer Kanya."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:163
 translate french sm1cs_mes005_90378096:
 
@@ -903,12 +897,6 @@ translate french sm1cs_mes005_28db3c43:
 
     # mc "No really. I wish we were going to a Fetish Locator party after this."
     mc "Non, vraiment. J’aimerais qu’on aille à une soirée Fetish Locator après ça."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:449
-translate french sm1cs_mes005_0905cec0:
-
-    # kv "Already, let's keep things nice and loose."
-    kv "Allez, restons détendues et naturelles."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:452
 translate french sm1cs_mes005_a59da392:

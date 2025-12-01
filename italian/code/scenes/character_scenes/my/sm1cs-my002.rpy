@@ -442,12 +442,6 @@ translate italian sm1cs_my002_art_gallery_f4777aee:
     # mc "Yeah! I totally can."
     mc "Sì! Assolutamente."
 
-# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:246
-translate italian sm1cs_my002_art_gallery_158b5817:
-
-    # my "Well, let's hear your critique than, hotshot!"
-    my "Beh, sentiamo la tua critica allora, fenomeno!"
-
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:249
 translate italian sm1cs_my002_art_gallery_c316e703:
 
@@ -645,12 +639,6 @@ translate italian sm1cs_my002_art_gallery_77a15526:
 
     # mct "Wait, they're both kind of naked too... is this a nude exhibit?"
     mct "Aspetta, sono entrambe un po' nude... è una mostra di nudi?"
-
-# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:354
-translate italian sm1cs_my002_art_gallery_8fa9669a:
-
-    # my "So what do you think of \"Mishief and Repose\", hotshot?"
-    my "Allora cosa pensi di \"Malizia e Riposo\", fenomeno?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:357
 translate italian sm1cs_my002_art_gallery_0972c153:
@@ -969,12 +957,6 @@ translate italian sm1cs_my002_art_gallery_3ada0820:
 
     # mc "The contrast, and... dark background."
     mc "Il contrasto, e... lo sfondo scuro."
-
-# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:536
-translate italian sm1cs_my002_art_gallery_e47c489a:
-
-    # my "Just because there's a dark background doesn't make it chiaroscuro, hot shot."
-    my "Solo perché c'è uno sfondo scuro non lo rende chiaroscuro, fenomeno."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:539
 translate italian sm1cs_my002_art_gallery_9bf915e0:

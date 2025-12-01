@@ -796,12 +796,6 @@ translate french sm1cs_mas004_after_lunch_31aeabe2:
     # ms "You know the worst thing about it?{w} Those interviews felt like a fucking vacation!"
     ms "Tu sais le pire ?{w} Ces entretiens ressemblaient à des putain de vacances !"
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:555
-translate french sm1cs_mas004_after_lunch_729d452e:
-
-    # ms "So I'm done waiting for something good to happen to me. I'm going to {i}make {/i} something good happen."
-    ms "Alors j’arrête d’attendre que quelque chose de bien m’arrive. Je vais {i}faire{/i} arriver quelque chose de bien."
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:556
 translate french sm1cs_mas004_after_lunch_d7fe0636:
 
@@ -1173,12 +1167,6 @@ translate french sm1cs_mas004_after_lunch_435f2123:
 
     # ms "*voice drops* Spank me. Make me feel it."
     ms "*voix qui tombe* Frappe-moi. Que je le sente."
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:784
-translate french sm1cs_mas004_after_lunch_6f9546d6:
-
-    # ms "**raw moaning* Fuck...yes."
-    ms "*gémissement brut* Putain... oui."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:785
 translate french sm1cs_mas004_after_lunch_4cd2d6dd:

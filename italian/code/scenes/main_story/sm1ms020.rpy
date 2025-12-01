@@ -184,12 +184,6 @@ translate italian sm1ms020_ff81abaf:
     # mct "Wow, when Stacy said dive... I didn't think it would be this much of a dive."
     mct "Wow, quando Stacy ha detto bettola... non pensavo fosse così tanto una bettola."
 
-# game/code/scenes/main_story/sm1ms020.rpy:110
-translate italian sm1ms020_4ee9b4b6:
-
-    # my "Oh! You brought us to Guns and Rosette's!"
-    my "Oh! Ci hai portato al Guns and Rosette's!"
-
 # game/code/scenes/main_story/sm1ms020.rpy:113
 translate italian sm1ms020_7ea9d06a:
 

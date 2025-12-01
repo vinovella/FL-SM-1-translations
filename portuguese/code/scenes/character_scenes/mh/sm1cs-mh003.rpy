@@ -64,12 +64,6 @@ translate portuguese sm1cs_mh003_d50e4a60:
     # sy "What are you waiting for! Tell her to come over!"
     sy "Tá esperando o quê! Fala pra ela vir aqui."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:42
-translate portuguese sm1cs_mh003_0c01668c:
-
-    # mc "All right, all right! Jees, I'm texting her right now."
-    mc "Tá bom, tá bom! Eu hein, tô mandando a mensagem."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:49
 translate portuguese sm1cs_mh003_152d6612:
 
@@ -579,12 +573,6 @@ translate portuguese sm1cs_mh003_romance_b8117695:
 
     # mh "I want you to show me that you mean it. That you {i}want{/i} a relationship with me."
     mh "Quero que mostre que está falando sério. Que você {i}quer{/i} um relacionamento comigo."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:299
-translate portuguese sm1cs_mh003_romance_8a39a9ac:
-
-    # mc "Of course! Yes! Absolutely"
-    mc "Claro! Sim! Com certeza!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:302
 translate portuguese sm1cs_mh003_romance_01d609a0:

@@ -340,12 +340,6 @@ translate chinese sm1cs_mes005_221c7c0b:
     # mc "Come on. She says she's finishing up a session."
     mc "走吧。她说她快结束一个拍摄了。"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:160
-translate chinese sm1cs_mes005_19a94ea1:
-
-    # mc "Pay your bill and let's go meet Kanya"
-    mc "结账吧，我们去见康雅"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:163
 translate chinese sm1cs_mes005_90378096:
 
@@ -915,12 +909,6 @@ translate chinese sm1cs_mes005_4a089a68:
 
     # mes "Well, then you'll enjoy this."
     mes "那么，你会喜欢这个的。"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:449
-translate chinese sm1cs_mes005_0905cec0:
-
-    # kv "Already, let's keep things nice and loose."
-    kv "好了，让我们保持轻松自然。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:452
 translate chinese sm1cs_mes005_a59da392:

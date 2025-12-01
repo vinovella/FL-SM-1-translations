@@ -687,3 +687,4 @@ translate spanish sm1mv01s10_b6cf5280:
 translate spanish sm1mv01s10_9ab27c1f:
     # kv "I'm sure once the money comes in we can start to work on some of these other things, it'll get easier."
     kv "Estoy segura de que una vez que entre el dinero podremos empezar a trabajar en algunas de estas otras cosas, será más fácil."
+

@@ -352,12 +352,6 @@ translate french sm1ms024_64ea2368:
     # sy "I don't-"
     sy "Je ne..."
 
-# game/code/scenes/main_story/sm1ms024.rpy:178
-translate french sm1ms024_172363cd:
-
-    # mc "Come one, you have that look on your face."
-    mc "Allez, tu fais cette tête-là, je te connais."
-
 # game/code/scenes/main_story/sm1ms024.rpy:181
 translate french sm1ms024_893f3db8:
 

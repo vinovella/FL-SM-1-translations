@@ -424,12 +424,6 @@ translate italian sm1cs_mes006_14179337:
     # mes "Mu-rhuah... YES. Right there!"
     mes "Mu-rhuah... SÌ. Proprio lì!"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:263
-translate italian sm1cs_mes006_4a4e1a0d:
-
-    # mc "I love you, my naughty fuck-minx"
-    mc "Ti amo, mia birichina scopatrice"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:264
 translate italian sm1cs_mes006_a7e4ffe2:
 
@@ -730,12 +724,6 @@ translate italian sm1cs_mes006_924a8a9f:
     # mc "We all get to play the Boss character in charge of our own dungeon."
     mc "Tutti noi giochiamo il personaggio del Boss a capo del nostro dungeon."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:417
-translate italian sm1cs_mes006_016ace61:
-
-    # sy "Oh cool. A medusa."
-    sy "Oh figo. Una medusa."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:420
 translate italian sm1cs_mes006_74e0b126:
 
@@ -748,23 +736,11 @@ translate italian sm1cs_mes006_4e6875bb:
     # mc "Yes, we'll randomly draw two and pick the one we like."
     mc "Sì, ne pescheremo due a caso e sceglieremo quello che ci piace."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:426
-translate italian sm1cs_mes006_a6bc92e7:
-
-    # sy "I call the medusa!"
-    sy "Chiamo la medusa!"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:428
 translate italian sm1cs_mes006_9ff7b3e8:
 
     # mc "Stacy that's against the rules."
     mc "Stacy questo è contro le regole."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:432
-translate italian sm1cs_mes006_f90b2d59:
-
-    # sy "Rules, schmules,.{w} The medusa is sexy and she's green, like my hair."
-    sy "Regole, schegole,.{w} La medusa è sexy ed è verde, come i miei capelli."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:433
 translate italian sm1cs_mes006_392a584c:
@@ -1222,12 +1198,6 @@ translate italian sm1cs_mes006_continue_6f090bb6:
     # sy "Get them quickly and I shall be a sensual and merciful queen."
     sy "Portateli velocemente e sarò una regina sensuale e misericordiosa."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:654
-translate italian sm1cs_mes006_continue_eb315316:
-
-    # "[mcname] and Min" "Laughing"
-    "[mcname] and Min" "Ridendo"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:657
 translate italian sm1cs_mes006_continue_e3b9a087:
 
@@ -1558,12 +1528,6 @@ translate italian sm1cs_mes006_continue_305c9e60:
     # mc "I imagined that if Min stayed here, then it would be like her parents have less influence on her."
     mc "Immaginavo che se Min rimanesse qui, sarebbe come se i suoi genitori avessero meno influenza su di lei."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:812
-translate italian sm1cs_mes006_continue_ec50e082:
-
-    # mes "But then wouldn't I just be trading you for my parents?"
-    mes "Ma allora non starei solo scambiando te per i miei genitori?"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:817
 translate italian sm1cs_mes006_continue_a6a41626:
 
@@ -1677,12 +1641,6 @@ translate italian sm1cs_mes006_continue_03624646:
 
     # mc "I never shy away from a challenge."
     mc "Non mi tiro mai indietro davanti a una sfida."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:870
-translate italian sm1cs_mes006_continue_6df17f5d:
-
-    # mc "But it sounds like you'er not opposed to the idea of staying here. Even with me and Stacy hooking up."
-    mc "Ma sembra che tu non sia contraria all'idea di stare qui. Anche con me e Stacy che stiamo insieme."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:873
 translate italian sm1cs_mes006_continue_928aa4d8:
@@ -2379,12 +2337,6 @@ translate italian sm1cs_mes006_continue_0cf47568:
 
     # mes "And after Lydia... oh fuck."
     mes "E dopo Lydia... oh cazzo."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1219
-translate italian sm1cs_mes006_continue_504e6b1e:
-
-    # mes "I was hesitant... being around, [mcname]."
-    mes "Ero esitante... stare in giro, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1222
 translate italian sm1cs_mes006_continue_3ccede34:

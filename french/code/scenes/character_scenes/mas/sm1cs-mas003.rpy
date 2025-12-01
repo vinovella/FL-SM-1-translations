@@ -496,12 +496,6 @@ translate french sm1cs_mas003_second_delivery_28762c10:
     # mc "People would say, \"I've never seen someone like that before\"."
     mc "Les gens diraient : \"J’ai jamais vu quelqu’un comme ça avant\""
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:334
-translate french sm1cs_mas003_second_delivery_602b83f0:
-
-    # mc "\"She could be the Slobber Attractor.\""
-    mc "\"Elle pourrait être l’aimant à bave.\""
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:337
 translate french sm1cs_mas003_second_delivery_54183bec:
 
@@ -1324,12 +1318,6 @@ translate french sm1cs_mas003_third_delivery_252272b7:
     # lg "Here. One, two, three hundred dollars."
     lg "Tiens. Cent, deux cents, trois cents dollars."
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:756
-translate french sm1cs_mas003_third_delivery_ffef8177:
-
-    # lg "I've already seen Olivia and Kennedy's girls."
-    lg "J’ai déjà vu les nichons d’Olivia et de Kennedy."
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:759
 translate french sm1cs_mas003_third_delivery_e901380f:
 
@@ -1347,12 +1335,6 @@ translate french sm1cs_mas003_third_delivery_656f8bcb:
 
     # lg "Come on, it's a party. I must have my unchained entertainment."
     lg "Allez, c’est une fête. Je veux mon divertissement sans limite."
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:765
-translate french sm1cs_mas003_third_delivery_b9f7c36f:
-
-    # mct "No way, Maya goes for this."
-    mct "Pas possible... Maya va accepter ça ?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:769
 translate french sm1cs_mas003_third_delivery_a83b93df:
@@ -1389,12 +1371,6 @@ translate french sm1cs_mas003_third_delivery_d2c11984:
 
     # lg "Hush. And that's not at all how you say that."
     lg "Chut. Et c’est pas du tout comme ça qu’on dit."
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:787
-translate french sm1cs_mas003_third_delivery_ac1ccd30:
-
-    # "Kennedy, Lauren and Olivia" "*cheer widly*"
-    "Kennedy, Lauren et Olivia" "*acclament à fond*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:794
 translate french sm1cs_mas003_third_delivery_c7253fdd:

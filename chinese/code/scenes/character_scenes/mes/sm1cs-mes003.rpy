@@ -328,12 +328,6 @@ translate chinese sm1cs_mes003_cc17436b:
     # mes "I guess we both enjoyed our time together in my pool."
     mes "看来我们都很怀念当初在我家泳池边一起度过的时光啊。"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:225
-translate chinese sm1cs_mes003_a5158368:
-
-    # mc "We can't all live in trust-fun homes."
-    mc "可不是所有人都能住上有信托基金支撑的豪宅啊。"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:228
 translate chinese sm1cs_mes003_61fad611:
 
@@ -1353,12 +1347,6 @@ translate chinese sm1cs_mes003_menu_fd134cc0:
 
     # mc "Throatfucking you feels so good, Min."
     mc "明，干你的喉咙感觉太爽了。"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:773
-translate chinese sm1cs_mes003_menu_5801802c:
-
-    # mes "*happy stuff moans*"
-    mes "*被塞满的愉悦呻吟声*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:776
 translate chinese sm1cs_mes003_menu_1c7497b8:

@@ -92,3 +92,4 @@ translate spanish sm1mv02s02_02i_1bb6550c:
 translate spanish sm1mv02s02_02i_d0722df0:
     # mh "Looking forward to it"
     mh "Lo espero con ansias"
+

@@ -124,12 +124,6 @@ translate french sm1cs_mh008_097fd9c1:
     # mh "Oh? You renovated?"
     mh "Oh ? Vous avez rénové ?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:94
-translate french sm1cs_mh008_4de4b191:
-
-    # mc "Yeah! We wanted to be able use the studio as, well, a studio."
-    mc "Ouais ! On voulait pouvoir utiliser le studio comme... un vrai studio."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:95
 translate french sm1cs_mh008_6b12ea62:
 
@@ -490,12 +484,6 @@ translate french sm1cs_mh008_carnival_bf61594d:
     # mh "I didn't know until I was older that it was because my bio-father had successfully defended a ride manufacturer in a pretty hairy civil suit because someone had gotten pretty badly injured."
     mh "Je n’ai su que plus tard que c’était parce que mon père bio avait défendu avec succès un fabricant de manèges dans un procès civil compliqué, après qu’une personne ait été gravement blessée."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:290
-translate french sm1cs_mh008_carnival_bc753126:
-
-    # mh "As I kid, I just knew that we would come to the circus because we had free tickets, and..."
-    mh "Enfant, je savais juste qu’on allait au cirque parce qu’on avait des billets gratuits, et..."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:291
 translate french sm1cs_mh008_carnival_0b117085:
 
@@ -771,12 +759,6 @@ translate french sm1cs_mh008_date_9ab85d26:
 
     # mc "What? Seriously?"
     mc "Quoi ? Sérieusement ?"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:432
-translate french sm1cs_mh008_date_6007f5df:
-
-    # mh "Yeah. it's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
-    mh "Ouais. C’est une histoire bizarre, mais en gros ... M. Roosevelt a refusé de tirer sur un ours attaché, et quelqu’un en a fait une caricature politique."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:433
 translate french sm1cs_mh008_date_5e0303df:
@@ -1330,12 +1312,6 @@ translate french sm1cs_mh008_couple_carousel_end_e014e089:
     # mh "That was... a hell of a kiss."
     mh "C’était... un sacré baiser."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:787
-translate french sm1cs_mh008_couple_carousel_end_ae0106d3:
-
-    # mc "Hey, when you say \"memorable\" and \"kiss\", I have to give you the maximum effort kiss, right?"
-    mc "Hé, quand tu dis \"mémorable\" et \"baiser\", je suis obligé de donner le baiser maximum, non ?"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:790
 translate french sm1cs_mh008_couple_carousel_end_22b9b3c1:
 
@@ -1479,12 +1455,6 @@ translate french sm1cs_mh008_throuple_carousel_d08cc125:
 
     # sy "Uh huh. We never really went growing up, and I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
     sy "Ouais. On n’y allait jamais quand on était gamins, et depuis que je suis arrivée à Crowning j’ai été tellement occupée que... j’ai jamais trouvé le temps."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:863
-translate french sm1cs_mh008_throuple_carousel_04b4af8c:
-
-    # sy "Growing up. Our familes never really went to the carvnial."
-    sy "En grandissant, nos familles n’allaient jamais vraiment au carnaval."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:864
 translate french sm1cs_mh008_throuple_carousel_2fc0ca58:
@@ -2241,12 +2211,6 @@ translate french sm1cs_mh008_throuple_carousel_end_e1deded6:
 
     # sy "Wait... I wanted, like, a whole production with my kiss."
     sy "Attends... je voulais carrément une mise en scène pour mon baiser."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1282
-translate french sm1cs_mh008_throuple_carousel_end_4a9a3a30:
-
-    # mh "Yeah, something like this, [mcname]"
-    mh "Ouais, quelque chose comme ça, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1288
 translate french sm1cs_mh008_throuple_carousel_end_77858d38:

@@ -352,12 +352,6 @@ translate turkish sm1ms024_64ea2368:
     # sy "I don't-"
     sy "Ben yapmam-"
 
-# game/code/scenes/main_story/sm1ms024.rpy:213
-translate turkish sm1ms024_172363cd:
-
-    # mc "Come one, you have that look on your face."
-    mc "Hadi canım, yüzünde o ifade var."
-
 # game/code/scenes/main_story/sm1ms024.rpy:216
 translate turkish sm1ms024_893f3db8:
 

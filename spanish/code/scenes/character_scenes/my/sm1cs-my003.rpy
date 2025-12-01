@@ -790,12 +790,6 @@ translate spanish sm1cs_my003_at_gym_646a2746:
     # mc "Happy to help."
     mc "Feliz de ayudar."
 
-# game/code/scenes/character_scenes/my/sm1cs-my003.rpy:408
-translate spanish sm1cs_my003_at_gym_45805ace:
-
-    # my "Now that I'm all good and stretched out to, shall we get to the main event?"
-    my "Ahora que ya estoy bien estirada, ¿pasamos al evento principal?"
-
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:410
 translate spanish sm1cs_my003_at_gym_55973ee0:
 
@@ -1371,12 +1365,6 @@ translate spanish sm1cs_my003_continue_fd13055d:
 
     # mct "Shit, she's fast... I don't think I'll be able to catch up to her."
     mct "Mierda, es rápida... No creo que pueda alcanzarla."
-
-# game/code/scenes/character_scenes/my/sm1cs-my003.rpy:687
-translate spanish sm1cs_my003_continue_8340573b:
-
-    # my "Come one, [mcname]! You'll have to try harder than that!"
-    my "¡Vamos, [mcname]! ¡Tendrás que esforzarte más que eso!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:689
 translate spanish sm1cs_my003_continue_0204286d:

@@ -508,12 +508,6 @@ translate french sm1cs_mh009_e13e66b7:
     # mh "And... I do find myself thinking about the level of honesty and... submission, in a role like this."
     mh "Et... je me surprends à réfléchir au degré d’honnêteté et de... soumission qu’implique un rôle comme celui-là."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:297
-translate french sm1cs_mh009_4fb44de1:
-
-    # mh "I can't help but feel a bit hungry..{w} to know more about how it works..."
-    mh "Je peux pas m’empêcher de me sentir avide...{w} d’en savoir plus sur la façon dont ça marche..."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:300
 translate french sm1cs_mh009_f78e912e:
 
@@ -1036,12 +1030,6 @@ translate french sm1cs_mh009_38a38140:
     # mc "It feels like you know how to pose yourself in your light, how to show off to the camera, how to be sexy without making it forced..."
     mc "On dirait que tu sais instinctivement te placer dans la lumière, te mettre en valeur, être sexy sans que ça paraisse forcé..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:570
-translate french sm1cs_mh009_294000b4:
-
-    # mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to preform for the camera."
-    mc "Et j’ai aucune raison de mentir. Ici c’est du sérieux, et chaque talent doit savoir performer devant la caméra."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:571
 translate french sm1cs_mh009_8115fc5e:
 
@@ -1191,12 +1179,6 @@ translate french sm1cs_mh009_4fe9d209:
 
     # mh "And what did you have in mind?"
     mh "Et tu pensais à quoi ?"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:640
-translate french sm1cs_mh009_ad29a8c4:
-
-    # mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fuck as well as you suck."
-    mc "Eh bien, maintenant que ma bite est bien chaude et bien lubrifiée... j’aimerais voir si tu te fais baiser aussi bien que tu suces."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:643
 translate french sm1cs_mh009_dadd9e73:
@@ -2085,12 +2067,6 @@ translate french sm1cs_mh009_1_cc441963:
 
     # mc "Uhm, I can always run them to you later? Maybe even edit the footage a little bit so that it looks nicer."
     mc "Euh, je peux toujours te les apporter plus tard ? Peut-être même retoucher un peu la vidéo pour que ça rende mieux."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1050
-translate french sm1cs_mh009_1_43f85b91:
-
-    # mc "And I promise that the only person who is ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
-    mc "Et je te jure que seuls toi et moi verrons ça. Pas de post, pas de partage, à personne, je le jure..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1053
 translate french sm1cs_mh009_1_c7cf2826:

@@ -555,3 +555,4 @@ translate spanish sm1mv02s03_2_e31bbbc0:
 
     # mc "Night, Stacy."
     mc "Buenas noche, Stacy."
+

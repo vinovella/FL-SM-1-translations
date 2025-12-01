@@ -976,12 +976,6 @@ translate french sm1cs_mes_r1_watersports_48bfeefa:
     # mes "Please? I want to feel it again..."
     mes "S’il te plaît ? Je veux le sentir encore..."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:412
-translate french sm1cs_mes_r1_watersports_b9ecb643:
-
-    # mes "I need your piss all over me. Make your dirty little piss slut."
-    mes "J’ai besoin de ta pisse partout sur moi. Fais de moi ta petite salope à pisse."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:416
 translate french sm1cs_mes_r1_watersports_0f840e6b:
 
@@ -1635,12 +1629,6 @@ translate french sm1cs_mes_r1_end_9115f74c:
 
     # mc "Good. I'll always be here. Always."
     mc "Bien. Je serai toujours là. Toujours."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:696
-translate french sm1cs_mes_r1_end_6364a7f9:
-
-    # mes "I'm glad I came back from Korea. This...us... {w} Being together."
-    mes "Je suis heureuse d’être revenue de Corée. Ça... nous... {w} Être ensemble."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:697
 translate french sm1cs_mes_r1_end_2b92c25b:

@@ -10,12 +10,6 @@ translate spanish sm1cs_mh006_74515ee9:
     # mh "Same old, same old. Not much changes. Client needs a lawyer for a contract, or work dispute, I show up. I do the job, collect my retainer, head home to watch whatever's on the news."
     mh "Lo mismo de siempre. No hay muchos cambios. El cliente necesita un abogado para un contrato o una disputa laboral, yo aparezco. Hago el trabajo, cobro el anticipo y me voy a casa a ver las noticias."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:43
-translate spanish sm1cs_mh006_0fc446c6:
-
-    # mc "That sounds... Exhilirating."
-    mc "Eso suena... Emocionante."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:46
 translate spanish sm1cs_mh006_7478ac5c:
 
@@ -93,12 +87,6 @@ translate spanish sm1cs_mh006_85e245ca:
 
     # mc "I don't know. You're really good at your job. So like, 3 months?"
     mc "No sé. Eres realmente buena en tu trabajo. Entonces, ¿3 meses?"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:82
-translate spanish sm1cs_mh006_69618dba:
-
-    # mh "You're incouragable. No, it took me years to get my clients. Between consistency, trust, meshing with each other - it wasn't an overnight matter."
-    mh "Eres incorregible. No, tardé años en conseguir clientes. Entre la constancia, la confianza, el entendimiento con los demás... no fue cosa de un día para otro."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:84
 translate spanish sm1cs_mh006_5693a819:
@@ -639,12 +627,6 @@ translate spanish sm1cs_mh006_after_choice_5ac8cc43:
 
     # mc "Good. Good..."
     mc "Bien. Bien..."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:320
-translate spanish sm1cs_mh006_after_choice_047c5d38:
-
-    # mc "Wel, uhm... I guess-"
-    mc "Bien, uhm... supongo..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:323
 translate spanish sm1cs_mh006_after_choice_b5fd75b7:

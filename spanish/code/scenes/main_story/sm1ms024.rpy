@@ -352,12 +352,6 @@ translate spanish sm1ms024_64ea2368:
     # sy "I don't-"
     sy "Yo no-"
 
-# game/code/scenes/main_story/sm1ms024.rpy:178
-translate spanish sm1ms024_172363cd:
-
-    # mc "Come one, you have that look on your face."
-    mc "Vamos, tienes esa mirada en tu cara."
-
 # game/code/scenes/main_story/sm1ms024.rpy:181
 translate spanish sm1ms024_893f3db8:
 
@@ -837,3 +831,4 @@ translate spanish sm1ms024_72133c5b:
 
     # mct "This is exciting.{w} Terrifying. Wonderful... I can't wait to get started."
     mct "Esto es emocionante.{w} Aterrador. Maravilloso... No puedo esperar para empezar."
+

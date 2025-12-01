@@ -424,12 +424,6 @@ translate french sm1cs_mes006_14179337:
     # mes "Mu-rhuah... YES. Right there!"
     mes "Mu-rhuah... OUI. Juste là !"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:263
-translate french sm1cs_mes006_4a4e1a0d:
-
-    # mc "I love you, my naughty fuck-minx"
-    mc "Je t’aime, ma petite garce coquine."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:264
 translate french sm1cs_mes006_a7e4ffe2:
 
@@ -730,12 +724,6 @@ translate french sm1cs_mes006_924a8a9f:
     # mc "We all get to play the Boss character in charge of our own dungeon."
     mc "On joue tous un Boss qui contrôle son propre donjon."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:417
-translate french sm1cs_mes006_016ace61:
-
-    # sy "Oh cool. A medusa."
-    sy "Oh trop bien. Une Méduse."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:420
 translate french sm1cs_mes006_74e0b126:
 
@@ -748,23 +736,11 @@ translate french sm1cs_mes006_4e6875bb:
     # mc "Yes, we'll randomly draw two and pick the one we like."
     mc "Oui, on en tire deux au hasard et on choisit celui qu’on préfère."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:426
-translate french sm1cs_mes006_a6bc92e7:
-
-    # sy "I call the medusa!"
-    sy "Je prends la Méduse !"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:428
 translate french sm1cs_mes006_9ff7b3e8:
 
     # mc "Stacy that's against the rules."
     mc "Stacy, c’est contre les règles."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:432
-translate french sm1cs_mes006_f90b2d59:
-
-    # sy "Rules, schmules,.{w} The medusa is sexy and she's green, like my hair."
-    sy "Les règles, pfff.{w} La Méduse est sexy et elle est verte, comme mes cheveux."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:433
 translate french sm1cs_mes006_392a584c:
@@ -1222,12 +1198,6 @@ translate french sm1cs_mes006_continue_6f090bb6:
     # sy "Get them quickly and I shall be a sensual and merciful queen."
     sy "Dépêchez-vous et je serai une reine sensuelle et miséricordieuse."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:654
-translate french sm1cs_mes006_continue_eb315316:
-
-    # "[mcname] and Min" "Laughing"
-    "[mcname] and Min" "Rient"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:657
 translate french sm1cs_mes006_continue_e3b9a087:
 
@@ -1558,12 +1528,6 @@ translate french sm1cs_mes006_continue_305c9e60:
     # mc "I imagined that if Min stayed here, then it would be like her parents have less influence on her."
     mc "Je pensais que si Min restait ici, ça réduirait l’influence de ses parents sur elle."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:812
-translate french sm1cs_mes006_continue_ec50e082:
-
-    # mes "But then wouldn't I just be trading you for my parents?"
-    mes "Mais dans ce cas je ne ferais que vous échanger contre mes parents, non ?"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:817
 translate french sm1cs_mes006_continue_a6a41626:
 
@@ -1677,12 +1641,6 @@ translate french sm1cs_mes006_continue_03624646:
 
     # mc "I never shy away from a challenge."
     mc "Je ne recule jamais devant un défi."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:870
-translate french sm1cs_mes006_continue_6df17f5d:
-
-    # mc "But it sounds like you'er not opposed to the idea of staying here. Even with me and Stacy hooking up."
-    mc "Mais on dirait que tu n’es pas contre l’idée de rester ici. Même si Stacy et moi couchons ensemble."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:873
 translate french sm1cs_mes006_continue_928aa4d8:
@@ -2379,12 +2337,6 @@ translate french sm1cs_mes006_continue_0cf47568:
 
     # mes "And after Lydia... oh fuck."
     mes "Et après Lydia... oh putain."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1219
-translate french sm1cs_mes006_continue_504e6b1e:
-
-    # mes "I was hesitant... being around, [mcname]."
-    mes "J’étais hésitante... à rester près de toi, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1222
 translate french sm1cs_mes006_continue_3ccede34:

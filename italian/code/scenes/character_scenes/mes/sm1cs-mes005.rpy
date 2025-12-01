@@ -340,12 +340,6 @@ translate italian sm1cs_mes005_221c7c0b:
     # mc "Dai. Dice che sta finendo una sessione."
     mc "Dai. Dice che sta finendo una sessione."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:160
-translate italian sm1cs_mes005_19a94ea1:
-
-    # mc "Paga il conto e andiamo a conoscere Kanya"
-    mc "Paga il conto e andiamo a conoscere Kanya"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:163
 translate italian sm1cs_mes005_90378096:
 
@@ -915,12 +909,6 @@ translate italian sm1cs_mes005_4a089a68:
 
     # mes "Beh, allora ti piacerà questo."
     mes "Beh, allora ti piacerà questo."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:450
-translate italian sm1cs_mes005_0905cec0:
-
-    # kv "Già, manteniamo le cose belle e rilassate."
-    kv "Già, manteniamo le cose belle e rilassate."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:453
 translate italian sm1cs_mes005_a59da392:

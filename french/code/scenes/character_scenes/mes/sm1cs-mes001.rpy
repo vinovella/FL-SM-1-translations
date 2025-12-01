@@ -58,12 +58,6 @@ translate french sm1cs_mes001_708bec31:
     # mes "*soft sigh* Yes. Things got a little complicated after the last time we saw each other."
     mes "*soupir doux* Oui. Les choses se sont compliquées après la dernière fois qu’on s’est vus."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:54
-translate french sm1cs_mes001_39488d6a:
-
-    # mc "\"Complicated\" that's one way to describe everything that's happened."
-    mc "\"Compliqué\", c’est une façon de décrire tout ce qui s’est passé."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:55
 translate french sm1cs_mes001_94c2b1ed:
 
@@ -496,12 +490,6 @@ translate french sm1cs_mes001_b54749f3:
     # mes "And why exactly does a team of professionals need a jokester?"
     mes "Et pourquoi une équipe de pros aurait besoin d’un clown, au juste ?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:247
-translate french sm1cs_mes001_f1a7154e:
-
-    # mc "When you're painting and drywalling walls for the third day straight, it helps to have someone cracking jokes at two in the morning."
-    mc "Quand tu peins et poses des cloisons pour le troisième jour d’affilée, ça aide d’avoir quelqu’un qui balance des blagues à deux heures du matin."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:250
 translate french sm1cs_mes001_ba677a9b:
 
@@ -753,12 +741,6 @@ translate french sm1cs_mes001_812f8da4:
 
     # mes "They saw me floundering, they knew I was upset about life, and they thought, 'Oh, a stable relationship will fix everything'."
     mes "Ils me voyaient patauger, ils savaient que j’étais paumée, et ils se sont dit : 'Oh, une relation stable va tout arranger'."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:352
-translate french sm1cs_mes001_e13edf2e:
-
-    # mc "Too bad they didn't consider that stable also means \"happy\" something a forced setup wouldn't necessarily guarantee."
-    mc "Dommage qu’ils n’aient pas compris que \"stable\" veut aussi dire \"heureux\", ce qu’un plan forcé ne garantit pas vraiment."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:355
 translate french sm1cs_mes001_d4c70379:

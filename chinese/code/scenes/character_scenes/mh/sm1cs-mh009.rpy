@@ -508,12 +508,6 @@ translate chinese sm1cs_mh009_e13e66b7:
     # mh "And... I do find myself thinking about the level of honesty and... submission, in a role like this."
     mh "而且...我确实发现自己在思考这样的角色中的诚实和...顺从程度。"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:297
-translate chinese sm1cs_mh009_4fb44de1:
-
-    # mh "I can't help but feel a bit hungry..{w} to know more about how it works..."
-    mh "我忍不住感到有点渴望..{w}想更多地了解它是如何运作的..."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:300
 translate chinese sm1cs_mh009_f78e912e:
 
@@ -1036,12 +1030,6 @@ translate chinese sm1cs_mh009_38a38140:
     # mc "It feels like you know how to pose yourself in your light, how to show off to the camera, how to be sexy without making it forced..."
     mc "感觉你知道如何在你的光线下摆姿势，如何在镜头前展示自己，如何在不显得勉强的情况下展现性感..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:570
-translate chinese sm1cs_mh009_294000b4:
-
-    # mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to preform for the camera."
-    mc "而且我没有理由撒谎。这是一个商业场所，任何人才都应该知道如何在镜头前表演。"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:571
 translate chinese sm1cs_mh009_8115fc5e:
 
@@ -1191,12 +1179,6 @@ translate chinese sm1cs_mh009_4fe9d209:
 
     # mh "And what did you have in mind?"
     mh "那你心里在想什么？"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:640
-translate chinese sm1cs_mh009_ad29a8c4:
-
-    # mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fuck as well as you suck."
-    mc "嗯，现在我的鸡巴已经润滑得很好了...我很想看看你被操的时候是否和你吸的时候一样棒。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:643
 translate chinese sm1cs_mh009_dadd9e73:
@@ -2085,12 +2067,6 @@ translate chinese sm1cs_mh009_1_cc441963:
 
     # mc "Uhm, I can always run them to you later? Maybe even edit the footage a little bit so that it looks nicer."
     mc "呃，我可以晚点给你送过去？也许还可以稍微编辑一下录像，让它看起来更好。"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1050
-translate chinese sm1cs_mh009_1_43f85b91:
-
-    # mc "And I promise that the only person who is ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
-    mc "我保证唯一会看到这个的人就是我和你。不会发布，不会给任何人看，我保证--"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1053
 translate chinese sm1cs_mh009_1_c7cf2826:

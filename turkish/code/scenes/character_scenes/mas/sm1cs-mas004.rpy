@@ -796,12 +796,6 @@ translate turkish sm1cs_mas004_after_lunch_31aeabe2:
     # ms "You know the worst thing about it?{w} Those interviews felt like a fucking vacation!"
     ms "En kötü yanı ne biliyor musun?{w} O mülakatlar lanet bir tatil gibi hissettirdi!"
 
-# game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:555
-translate turkish sm1cs_mas004_after_lunch_729d452e:
-
-    # ms "So I'm done waiting for something good to happen to me. I'm going to {i}make {/i} something good happen."
-    ms "Bu yüzden bana iyi bir şey olmasını beklemeyi bıraktım. İyi bir şey {i}yaratacağım{/i}."
-
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:556
 translate turkish sm1cs_mas004_after_lunch_d7fe0636:
 
@@ -1173,12 +1167,6 @@ translate turkish sm1cs_mas004_after_lunch_435f2123:
 
     # ms "*voice drops* Spank me. Make me feel it."
     ms "*sesi alçalır* Şaplağı at. Hissetmemi sağla."
-
-# game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:784
-translate turkish sm1cs_mas004_after_lunch_6f9546d6:
-
-    # ms "**raw moaning* Fuck...yes."
-    ms "**ham inleme* Lanet...evet."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:785
 translate turkish sm1cs_mas004_after_lunch_4cd2d6dd:

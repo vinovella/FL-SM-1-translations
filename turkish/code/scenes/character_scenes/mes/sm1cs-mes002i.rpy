@@ -64,12 +64,6 @@ translate turkish sm1cs_mes002i_06f6f709:
     # mc "She told me that since she got back, she didn't reach out to anyone from college or anyone from the Fetish Locator parties."
     mc "Bana geri döndüğünden beri üniversiteden veya Fetish Locator partilerinden hiç kimseyle iletişime geçmediğini söyledi."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes002i.rpy:33
-translate turkish sm1cs_mes002i_a0c58f77:
-
-    # mc "Talking to her, it was like. I'm not sure, but she looked a bit lost."
-    mc "Onunla konuşurken sanki. Emin değilim ama biraz kaybolmuş gibi görünüyordu."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes002i.rpy:37
 translate turkish sm1cs_mes002i_5df3ba5d:
 

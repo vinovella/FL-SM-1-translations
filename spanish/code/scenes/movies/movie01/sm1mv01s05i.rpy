@@ -33,3 +33,4 @@ translate spanish sm1mv01s05i_94baf1a9:
 
     # mc "I'll call Kanya and Taisia and let them know the show is on."
     mc "Llamaré a Kanya y a Taisia para avisarles que la función comienza."
+

@@ -442,12 +442,6 @@ translate chinese sm1cs_my002_art_gallery_f4777aee:
     # mc "Yeah! I totally can."
     mc "是的！我完全可以。"
 
-# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:246
-translate chinese sm1cs_my002_art_gallery_158b5817:
-
-    # my "Well, let's hear your critique than, hotshot!"
-    my "那么，让我听听你的评论，能人！"
-
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:249
 translate chinese sm1cs_my002_art_gallery_c316e703:
 
@@ -645,12 +639,6 @@ translate chinese sm1cs_my002_art_gallery_77a15526:
 
     # mct "Wait, they're both kind of naked too... is this a nude exhibit?"
     mct "等等，她们两个也都有点裸露... 这是裸体展览吗？"
-
-# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:354
-translate chinese sm1cs_my002_art_gallery_8fa9669a:
-
-    # my "So what do you think of \"Mishief and Repose\", hotshot?"
-    my "那么你对《恶作剧与休憩》有什么看法，能人？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:357
 translate chinese sm1cs_my002_art_gallery_0972c153:
@@ -969,12 +957,6 @@ translate chinese sm1cs_my002_art_gallery_3ada0820:
 
     # mc "The contrast, and... dark background."
     mc "对比，还有... 黑暗的背景。"
-
-# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:536
-translate chinese sm1cs_my002_art_gallery_e47c489a:
-
-    # my "Just because there's a dark background doesn't make it chiaroscuro, hot shot."
-    my "仅仅因为有黑暗的背景并不意味着它是明暗对照法，能人。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:539
 translate chinese sm1cs_my002_art_gallery_9bf915e0:

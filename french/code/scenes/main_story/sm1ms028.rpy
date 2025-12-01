@@ -838,12 +838,6 @@ translate french sm1ms028_location_change_4bc402b0:
     # mc "Something fishy about that guy."
     mc "Y’a un truc louche chez ce mec."
 
-# game/code/scenes/main_story/sm1ms028.rpy:360
-translate french sm1ms028_location_change_8dfc4507:
-
-    # mc "We will need to watch him very carefully if Lyssa says ew can do business together."
-    mc "On devra le surveiller de près si Lyssa dit qu’on peut faire affaire avec lui."
-
 # game/code/scenes/main_story/sm1ms028.rpy:363
 translate french sm1ms028_location_change_789d0fbf:
 

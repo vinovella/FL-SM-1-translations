@@ -568,12 +568,6 @@ translate spanish sm1cs_my004_9676b995:
     # sy "No, doofus. Like... how does it fit {i}on me{/i}, like \"it is high waisted, do I look good with a high waisted suit?\""
     sy "No, tonto. Como... cómo queda {i}en mí{/i}, como \"es de talle alto, ¿me veo bien con un traje de talle alto?\""
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:325
-translate spanish sm1cs_my004_4bd657c0:
-
-    # sy "Or, \"the way the top of the suit is cut really accentuates your breats and makes them pop\"."
-    sy "O, \"la forma en que está cortada la parte superior del traje realmente acentúa tus pechos y los hace resaltar\"."
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:328
 translate spanish sm1cs_my004_c9b837d5:
 
@@ -633,12 +627,6 @@ translate spanish sm1cs_my004_6fc05bb8:
 
     # mc "Oh, right... uhm..."
     mc "Oh, cierto... uhm..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:354
-translate spanish sm1cs_my004_3e7597de:
-
-    # mc "Uh...{w} The cut of the swimsuit is right for you, it draws attentions to all the right parts..."
-    mc "Uh...{w} El corte del traje de baño es perfecto para ti, atrae la atención a todas las partes correctas..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:355
 translate spanish sm1cs_my004_1e4f6ff6:
@@ -747,12 +735,6 @@ translate spanish sm1cs_my004_ce4fb5d2:
 
     # mc "All right, if you two say so..."
     mc "Está bien, si ustedes dos lo dicen..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:404
-translate spanish sm1cs_my004_16c6c5e3:
-
-    # sy "All right, [mcname]. For this one, you need to tell us how our swimsuits looks when we move. Like, does it ride up, does it sit funny, that kind of thing."
-    sy "Está bien, [mcname]. Para esto, necesitas decirnos cómo se ven nuestros trajes de baño cuando nos movemos. Como, si se sube, si se ve raro, ese tipo de cosas."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:406
 translate spanish sm1cs_my004_1b199792:
@@ -1168,12 +1150,6 @@ translate spanish sm1cs_my004_78f056b6:
     # my "Part of me thinks it's so I can spend time with you and Stacy."
     my "Parte de mí piensa que es para poder pasar tiempo contigo y Stacy."
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:643
-translate spanish sm1cs_my004_eb32b762:
-
-    # my "But I think another part is that... doing this...{w} To help me be more comfortable with what you do for work."
-    my "Pero creo que otra parte es que... hacer esto...{w} Para ayudarme a sentirme más cómoda con lo que haces para trabajar."
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:646
 translate spanish sm1cs_my004_908d02c1:
 
@@ -1185,12 +1161,6 @@ translate spanish sm1cs_my004_78e8bc55:
 
     # my "The last few years I've focused on work, and you two, and... everything else in my life."
     my "Los últimos años me he concentrado en el trabajo, en ustedes dos, y... todo lo demás en mi vida."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:650
-translate spanish sm1cs_my004_f9c0e736:
-
-    # my "And maybe I lost that side of that got really excited about life. It just... slipped away."
-    my "Y tal vez perdí ese lado de mí que se emocionaba mucho con la vida. Simplemente... se escapó."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:653
 translate spanish sm1cs_my004_cc580392:
@@ -1240,12 +1210,6 @@ translate spanish sm1cs_my004_be3f1e1d:
     # my "*giggles* I'm full of surprises."
     my "*risitas* Estoy llena de sorpresas."
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:670
-translate spanish sm1cs_my004_f126e01d:
-
-    # my "But uh... don't get too distrated. I think there are a more spots that need oil."
-    my "Pero uh... no te distraigas demasiado. Creo que hay más áreas que necesitan aceite."
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:671
 translate spanish sm1cs_my004_13676ffb:
 
@@ -1257,24 +1221,6 @@ translate spanish sm1cs_my004_d799f609:
 
     # my "*giggles* They are kind of hard to miss, [mcname]."
     my "*risitas* Son algo difíciles de perder, [mcname]."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:677
-translate spanish sm1cs_my004_b0258397:
-
-    # mct "My god. Melonly wants me to rub down her tits!"
-    mct "Dios mío. ¡Melony quiere que le frote las tetas!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:679
-translate spanish sm1cs_my004_dcd5bd3b:
-
-    # mct "God, Mom is being so forward..."
-    mct "Dios, mamá está siendo tan directa..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:681
-translate spanish sm1cs_my004_44e0e6a6:
-
-    # mct "God, Melony is acting so forward..."
-    mct "Dios, Melony está actuando tan directa..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:683
 translate spanish sm1cs_my004_a33efff5:
@@ -1389,12 +1335,6 @@ translate spanish sm1cs_my004_b936e578:
 
     # my "{size=*0.6}Mmmmmmmmmmmmmmmmm...{/size}"
     my "{size=*0.6}Mmmmmmmmmmmmmmmmm...{/size}"
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:731
-translate spanish sm1cs_my004_f842086f:
-
-    # mct "Nope, not imaging it!"
-    mct "¡No, no me lo estoy imaginando!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:736
 translate spanish sm1cs_my004_9c7b9eae:
@@ -1576,12 +1516,6 @@ translate spanish sm1cs_my004_63a9e153:
     # sy "What do you mean?"
     sy "¿Qué quieres decir?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:826
-translate spanish sm1cs_my004_90ba4701:
-
-    # mc "I mean, I think it's a lot to just surprise someone with a two on one swimsuit competition."
-    mc "Quiero decir, creo que es mucho sorprender a alguien con un concurso de trajes de baño de dos contra uno."
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:827
 translate spanish sm1cs_my004_44546bd6:
 
@@ -1599,12 +1533,6 @@ translate spanish sm1cs_my004_0d359089:
 
     # sy "You weren't making any progress."
     sy "No estabas haciendo ningún progreso."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:834
-translate spanish sm1cs_my004_453349d5:
-
-    # mc "*annooyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
-    mc "*ruido molesto* Puedo manejarlo, Stacy. Solo tienes que tener un poco de fe en el proceso."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:838
 translate spanish sm1cs_my004_f054ee30:
@@ -1695,12 +1623,6 @@ translate spanish sm1cs_my004_be5f379f:
 
     # mct "I can't believe Melony even agreed to do the competition in the first place."
     mct "No puedo creer que Melony incluso aceptara hacer la competencia en primer lugar."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:879
-translate spanish sm1cs_my004_e5a4fa76:
-
-    # mct "And then her moaning will I massaged her tits..."
-    mct "Y luego sus gemidos mientras le masajeaba las tetas..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:882
 translate spanish sm1cs_my004_ad1f7f82:

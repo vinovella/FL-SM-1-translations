@@ -33,3 +33,4 @@ translate spanish sm1mv02s04i_53f01752:
 
     # sy "Sure!"
     sy "¡Claro!"
+

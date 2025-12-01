@@ -508,12 +508,6 @@ translate deutsch sm1cs_mh009_e13e66b7:
     # mh "And... I do find myself thinking about the level of honesty and... submission, in a role like this."
     mh "Und... ich denke tatsächlich über das Maß an Ehrlichkeit und... Unterwerfung in einer solchen Rolle nach."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:297
-translate deutsch sm1cs_mh009_4fb44de1:
-
-    # mh "I can't help but feel a bit hungry..{w} to know more about how it works..."
-    mh "Ich kann nicht anders, als ein bisschen neugierig zu sein...{w}, mehr darüber zu erfahren, wie es funktioniert..."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:300
 translate deutsch sm1cs_mh009_f78e912e:
 
@@ -1036,12 +1030,6 @@ translate deutsch sm1cs_mh009_38a38140:
     # mc "It feels like you know how to pose yourself in your light, how to show off to the camera, how to be sexy without making it forced..."
     mc "Es scheint, als wüsstest du genau, wie du dich ins rechte Licht rückst, wie du dich vor der Kamera präsentierst, wie du sexy sein kannst, ohne dabei gekünstelt zu wirken..."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:570
-translate deutsch sm1cs_mh009_294000b4:
-
-    # mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to preform for the camera."
-    mc "Und ich habe keinen Grund zu lügen. Dies ist ein Ort, an dem Geschäfte gemacht werden, und jedes Talent sollte wissen, wie man vor der Kamera auftritt."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:571
 translate deutsch sm1cs_mh009_8115fc5e:
 
@@ -1191,12 +1179,6 @@ translate deutsch sm1cs_mh009_4fe9d209:
 
     # mh "And what did you have in mind?"
     mh "Und was hast du so vor?"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:640
-translate deutsch sm1cs_mh009_ad29a8c4:
-
-    # mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fuck as well as you suck."
-    mc "Nun, jetzt, wo mein Schwanz schön geschmiert ist... würde ich gerne sehen, ob du genauso gut ficken kannst, wie du bläst."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:643
 translate deutsch sm1cs_mh009_dadd9e73:
@@ -2085,12 +2067,6 @@ translate deutsch sm1cs_mh009_1_cc441963:
 
     # mc "Uhm, I can always run them to you later? Maybe even edit the footage a little bit so that it looks nicer."
     mc "Ähm, ich kann sie dir später vorbeibringen? Vielleicht bearbeite ich das Filmmaterial sogar ein wenig, damit es besser aussieht."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1050
-translate deutsch sm1cs_mh009_1_43f85b91:
-
-    # mc "And I promise that the only person who is ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
-    mc "Und ich verspreche dir, dass die einzigen Personen, die das jemals sehen werden, du und ich sind. Ich werde es nicht posten und niemandem zeigen, das verspreche ich dir."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1053
 translate deutsch sm1cs_mh009_1_c7cf2826:

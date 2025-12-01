@@ -322,12 +322,6 @@ translate turkish sm1cs_mh002_29c9069c:
     # sy "Of course. I can email you over everything we have and get anything missing sent over."
     sy "Elbette. Sana sahip olduğumuz her şeyi e-postayla gönderebilirim ve eksik olan bir şey varsa gönderebilirim."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:195
-translate turkish sm1cs_mh002_b15c5e17:
-
-    # mh "Excellent. Well, I coudln't be much help today, but I am sure I can deliver in the next couple of days."
-    mh "Mükemmel. Aslında bugün çok yardımcı olamadım ama önümüzdeki birkaç gün içinde yardımcı olabileceğimden eminim."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:198
 translate turkish sm1cs_mh002_4191e217:
 

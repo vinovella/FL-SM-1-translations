@@ -1000,12 +1000,6 @@ translate chinese sm1mv02s09_movie_ef025953:
     # kv "Slrrrp, slllllrrrpppp, sllrrp!"
     kv "嘶...啧啧啧...吸溜！"
 
-# game/code/scenes/movies/movie02/sm1mv02s09.rpy:850
-translate chinese sm1mv02s09_movie_8cee9893:
-
-    # mhmes "And she is also quite a spectacle to behold. She really understands how to being a body to climax."
-    mhmes "她本身就是一道风景。她真的很懂如何让身体达到高潮。"
-
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:853
 translate chinese sm1mv02s09_movie_0642252e:
 

@@ -184,12 +184,6 @@ translate french sm1cs_my006_hotel_room_cf7af754:
     # my "Hehehehehehe!"
     my "Héhéhéhéhé!"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:124
-translate french sm1cs_my006_hotel_room_78d991b7:
-
-    # my "I will say though, my ranking from best to worse is Episode 5-4-6-3-1-2."
-    my "Cela dit, mon classement du meilleur au pire, c’est épisode 5-4-6-3-1-2."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:126
 translate french sm1cs_my006_hotel_room_ee7f1e17:
 
@@ -255,12 +249,6 @@ translate french sm1cs_my006_hotel_room_f49fff8f:
 
     # mc "Yeah?"
     mc "Oui?"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:154
-translate french sm1cs_my006_hotel_room_32febd7a:
-
-    # my "I want to say 'thank you'. Thank you for talking to treating me so well after how I acted when I first came to Crowning."
-    my "Je voulais dire 'merci'. Merci de m’avoir parlé et d'avoir été si gentil avec moi, malgré la façon dont j’ai agi quand je suis arrivée à Crowning."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:155
 translate french sm1cs_my006_hotel_room_fce185f1:
@@ -339,12 +327,6 @@ translate french sm1cs_my006_hotel_room_55960cda:
 
     # my "Shhh. Leave everything to Mommy, my dear."
     my "Chut. Laisse tout à maman, mon chéri.."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:203
-translate french sm1cs_my006_hotel_room_dbe21ac6:
-
-    # my "Leave it to me, [mcname]"
-    my "Laisse-moi faire, [mcname]"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:206
 translate french sm1cs_my006_hotel_room_604f3eaa:
@@ -429,18 +411,6 @@ translate french sm1cs_my006_hotel_room_29af458c:
 
     # mc "That's - ngggg - you're incredible!"
     mc "C’est... Ngggg... t'es incroyable!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:247
-translate french sm1cs_my006_hotel_room_fffdfd43:
-
-    # mc "Holy shit, Mom is sucking my cock!"
-    mc "Putain, maman est en train de me sucer!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:249
-translate french sm1cs_my006_hotel_room_ce1954a5:
-
-    # mc "Holy shit, Melony is sucking my cock!"
-    mc "Putain, Melony est en train de me sucer!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:250
 translate french sm1cs_my006_hotel_room_09fa23af:
@@ -1012,12 +982,6 @@ translate french sm1cs_my006_hotel_room_4339e553:
     # mc "If memory serves, wasn't it just you who was begging me to go until you came?"
     mc "Si je me souviens bien, c’était toi qui me suppliais de continuer jusqu’à jouir, non?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:459
-translate french sm1cs_my006_hotel_room_f4bfcab7:
-
-    # mc "Maybe, I want to tease you a little bit?"
-    mc "Peut-être que j'ai envie de te taquiner un peu ?"
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:462
 translate french sm1cs_my006_hotel_room_b6c49741:
 
@@ -1384,12 +1348,6 @@ translate french sm1cs_my006_hotel_room_7d05dd5d:
     # mc "Are you okay!?"
     mc "Ça va !?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:590
-translate french sm1cs_my006_hotel_room_ac0a9870:
-
-    # my "Mmmhmmm! B-better than, okay!"
-    my "Mmmhmmm ! M-mieux que bien !"
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:591
 translate french sm1cs_my006_hotel_room_fe4cb180:
 
@@ -1527,12 +1485,6 @@ translate french sm1cs_my006_hotel_room_e5283d8e:
 
     # my "Let's see if I can't help us both out..."
     my "Voyons si je ne peux pas nous aider tous les deux..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:631
-translate french sm1cs_my006_hotel_room_7ef48fb7:
-
-    # my "Fuck, fuck, quick it, fuck, faster! Mmmmmm!"
-    my "Putain, putain, plus vite, putain, plus vite ! Mmmmmm !"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:632
 translate french sm1cs_my006_hotel_room_1c9aab7f:
@@ -2080,12 +2032,6 @@ translate french sm1cs_my006_next_morning_5f7d7a52:
     # mc "Last night was incredible. And I can't wait to do it again. I want to be even closer to you."
     mc "La nuit dernière était incroyable. Et j’ai hâte de recommencer. Je veux être encore plus proche de toi."
 
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:868
-translate french sm1cs_my006_next_morning_d00aa485:
-
-    # mc "There's still so much I don't know about you, even though you've been around, my whole life."
-    mc "Il y a encore tellement de choses que je ne sais pas sur toi, même si tu as été là toute ma vie."
-
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:871
 translate french sm1cs_my006_next_morning_79e58387:
 
@@ -2277,12 +2223,6 @@ translate french sm1cs_my006_at_studio_53d2dc99:
 
     # sy "Hell yeah you did!"
     sy "Ça, ouais, qu’elle a été longue !"
-
-# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:976
-translate french sm1cs_my006_at_studio_1f5f52ab:
-
-    # mc "-and I just want to take shower and get a cup of coffee, okay?"
-    mc "-et je veux juste prendre une douche et un café, d’accord ?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:977
 translate french sm1cs_my006_at_studio_ca090197:

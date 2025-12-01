@@ -34,12 +34,6 @@ translate portuguese sm1cs_mh005_0e3dd832:
     # mh "You'll have to show me these new skills of yours then."
     mh "Então vai ter que mostrar essas suas habilidades aí."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:40
-translate portuguese sm1cs_mh005_373d211e:
-
-    # mc "Oh don't you worry. I'm going to being it."
-    mc "Ah, relaxe. Você vai ver só."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:47
 translate portuguese sm1cs_mh005_f4308ba2:
 

@@ -58,12 +58,6 @@ translate turkish sm1cs_mes001_708bec31:
     # mes "*soft sigh* Yes. Things got a little complicated after the last time we saw each other."
     mes "*yumuşak iç çekiş* Evet. Birbirimizi en son gördüğümüzden beri işler biraz karmaşıklaştı."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:55
-translate turkish sm1cs_mes001_39488d6a:
-
-    # mc "\"Complicated\" that's one way to describe everything that's happened."
-    mc "\"Karmaşık\" olan biten her şeyi anlatmanın bir yolu."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:56
 translate turkish sm1cs_mes001_94c2b1ed:
 
@@ -496,12 +490,6 @@ translate turkish sm1cs_mes001_b54749f3:
     # mes "And why exactly does a team of professionals need a jokester?"
     mes "Peki profesyonellerden oluşan bir ekibin bir şakacıya ihtiyacı olmasının sebebi tam olarak nedir?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:248
-translate turkish sm1cs_mes001_f1a7154e:
-
-    # mc "When you're painting and drywalling walls for the third day straight, it helps to have someone cracking jokes at two in the morning."
-    mc "Üçüncü gündür duvarları boyayıp alçıpanla uğraştığınızda, sabahın ikisinde şaka yapan birinin olması işinize yarıyor."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:251
 translate turkish sm1cs_mes001_ba677a9b:
 
@@ -753,12 +741,6 @@ translate turkish sm1cs_mes001_812f8da4:
 
     # mes "They saw me floundering, they knew I was upset about life, and they thought, 'Oh, a stable relationship will fix everything'."
     mes "Beni çırpınırken gördüler, hayattan bezdiğimi biliyorlardı ve 'Ah, istikrarlı bir ilişki her şeyi düzeltir' diye düşündüler."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:353
-translate turkish sm1cs_mes001_e13edf2e:
-
-    # mc "Too bad they didn't consider that stable also means \"happy\" something a forced setup wouldn't necessarily guarantee."
-    mc "Keşke kararlılığın aynı zamanda \"mutlu\" anlamına geldiğini ve zorunlu bir kurulumun bunu garanti edemeyeceğini düşünmeselerdi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:356
 translate turkish sm1cs_mes001_d4c70379:

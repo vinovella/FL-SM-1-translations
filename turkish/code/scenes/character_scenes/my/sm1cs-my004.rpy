@@ -568,12 +568,6 @@ translate turkish sm1cs_my004_9676b995:
     # sy "No, doofus. Like... how does it fit {i}on me{/i}, like \"it is high waisted, do I look good with a high waisted suit?\""
     sy "Hayır, aptal. Gibi... {i}üzerimde{/i} nasıl duruyor, \"yüksek belli mi, yüksek belli bir mayoyla iyi görünüyor muyum?\" gibi"
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:325
-translate turkish sm1cs_my004_4bd657c0:
-
-    # sy "Or, \"the way the top of the suit is cut really accentuates your breats and makes them pop\"."
-    sy "Veya, \"mayonun üst kısmının kesilme şekli göğüslerini gerçekten vurguluyor ve öne çıkarıyor\"."
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:328
 translate turkish sm1cs_my004_c9b837d5:
 
@@ -633,12 +627,6 @@ translate turkish sm1cs_my004_6fc05bb8:
 
     # mc "Oh, right... uhm..."
     mc "Oh, doğru... uhm..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:354
-translate turkish sm1cs_my004_3e7597de:
-
-    # mc "Uh...{w} The cut of the swimsuit is right for you, it draws attentions to all the right parts..."
-    mc "Uh...{w} Mayonun kesimi senin için doğru, dikkati tüm doğru yerlere çekiyor..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:355
 translate turkish sm1cs_my004_1e4f6ff6:
@@ -747,12 +735,6 @@ translate turkish sm1cs_my004_ce4fb5d2:
 
     # mc "All right, if you two say so..."
     mc "Pekala, eğer siz ikiniz öyle diyorsanız..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:404
-translate turkish sm1cs_my004_16c6c5e3:
-
-    # sy "All right, [mcname]. For this one, you need to tell us how our swimsuits looks when we move. Like, does it ride up, does it sit funny, that kind of thing."
-    sy "Pekala, [mcname]. Bunun için, hareket ettiğimizde mayolarımızın nasıl göründüğünü söylemen gerekiyor. Mesela, yukarı çıkıyor mu, garip duruyor mu, o tür şeyler."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:406
 translate turkish sm1cs_my004_1b199792:
@@ -1168,12 +1150,6 @@ translate turkish sm1cs_my004_78f056b6:
     # my "Part of me thinks it's so I can spend time with you and Stacy."
     my "Bir parçam seninle ve Stacy ile vakit geçirebilmem için olduğunu düşünüyor."
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:643
-translate turkish sm1cs_my004_eb32b762:
-
-    # my "But I think another part is that... doing this...{w} To help me be more comfortable with what you do for work."
-    my "Ama sanırım başka bir kısmı... bunu yapmak...{w} İş için ne yaptığınla daha rahat olmama yardımcı olmak."
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:646
 translate turkish sm1cs_my004_908d02c1:
 
@@ -1185,12 +1161,6 @@ translate turkish sm1cs_my004_78e8bc55:
 
     # my "The last few years I've focused on work, and you two, and... everything else in my life."
     my "Son birkaç yıl işe, siz ikinize ve... hayatımdaki diğer her şeye odaklandım."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:650
-translate turkish sm1cs_my004_f9c0e736:
-
-    # my "And maybe I lost that side of that got really excited about life. It just... slipped away."
-    my "Ve belki hayattan gerçekten heyecan duyan o yanımı kaybettim. Sadece... kayıp gitti."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:653
 translate turkish sm1cs_my004_cc580392:
@@ -1240,12 +1210,6 @@ translate turkish sm1cs_my004_be3f1e1d:
     # my "*giggles* I'm full of surprises."
     my "*kıkırdar* Sürprizlerle doluyum."
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:670
-translate turkish sm1cs_my004_f126e01d:
-
-    # my "But uh... don't get too distrated. I think there are a more spots that need oil."
-    my "Ama uh... çok dağılma. Sanırım yağ ihtiyacı olan daha fazla nokta var."
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:671
 translate turkish sm1cs_my004_13676ffb:
 
@@ -1257,24 +1221,6 @@ translate turkish sm1cs_my004_d799f609:
 
     # my "*giggles* They are kind of hard to miss, [mcname]."
     my "*kıkırdar* Onları gözden kaçırmak zor, [mcname]."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:677
-translate turkish sm1cs_my004_b0258397:
-
-    # mct "My god. Melonly wants me to rub down her tits!"
-    mct "Tanrım. Melony göğüslerini ovmamı istiyor!"
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:679
-translate turkish sm1cs_my004_dcd5bd3b:
-
-    # mct "God, Mom is being so forward..."
-    mct "Tanrım, Anne çok ileri gidiyor..."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:681
-translate turkish sm1cs_my004_44e0e6a6:
-
-    # mct "God, Melony is acting so forward..."
-    mct "Tanrım, Melony çok ileri davranıyor..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:683
 translate turkish sm1cs_my004_a33efff5:
@@ -1389,12 +1335,6 @@ translate turkish sm1cs_my004_b936e578:
 
     # my "{size=*0.6}Mmmmmmmmmmmmmmmmm...{/size}"
     my "{size=*0.6}Mmmmmmmmmmmmmmmmm...{/size}"
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:731
-translate turkish sm1cs_my004_f842086f:
-
-    # mct "Nope, not imaging it!"
-    mct "Hayır, hayal görmüyorum!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:736
 translate turkish sm1cs_my004_9c7b9eae:
@@ -1576,12 +1516,6 @@ translate turkish sm1cs_my004_63a9e153:
     # sy "What do you mean?"
     sy "Ne demek istiyorsun?"
 
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:826
-translate turkish sm1cs_my004_90ba4701:
-
-    # mc "I mean, I think it's a lot to just surprise someone with a two on one swimsuit competition."
-    mc "Yani, sanırım birine iki kişiye karşı bir mayo yarışmasıyla sürpriz yapmak çok fazla."
-
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:827
 translate turkish sm1cs_my004_44546bd6:
 
@@ -1599,12 +1533,6 @@ translate turkish sm1cs_my004_0d359089:
 
     # sy "You weren't making any progress."
     sy "Hiç ilerleme kaydetmiyordun."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:834
-translate turkish sm1cs_my004_453349d5:
-
-    # mc "*annooyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
-    mc "*sinirli ses* Hallederim, Stacy. Sadece sürece biraz inanman gerekiyor."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:838
 translate turkish sm1cs_my004_f054ee30:
@@ -1695,12 +1623,6 @@ translate turkish sm1cs_my004_be5f379f:
 
     # mct "I can't believe Melony even agreed to do the competition in the first place."
     mct "Melony'nin ilk etapta yarışmayı kabul ettiğine bile inanamıyorum."
-
-# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:879
-translate turkish sm1cs_my004_e5a4fa76:
-
-    # mct "And then her moaning will I massaged her tits..."
-    mct "Ve sonra göğüslerine masaj yaparken inlemesi..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:882
 translate turkish sm1cs_my004_ad1f7f82:

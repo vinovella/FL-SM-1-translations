@@ -21,3 +21,4 @@ translate spanish sm1mv02s03_2i_0cf71cc6:
 
     # mc "Will do!"
     mc "¡Lo haré!"
+

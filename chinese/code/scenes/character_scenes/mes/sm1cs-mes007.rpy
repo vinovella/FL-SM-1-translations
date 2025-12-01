@@ -178,12 +178,6 @@ translate chinese sm1cs_mes007_921d09a4:
     # mes "I'm small but not {i}that{/i} small."
     mes "我是小但没有{i}那么{/i}小。"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:148
-translate chinese sm1cs_mes007_74fb982f:
-
-    # mes "And you lugging the big stuff save me the trouble of building an elaborate pulley and winch system that might damage the studio."
-    mes "而且你搬这些大件东西省得我去搭一套复杂的滑轮和绞盘系统，那样可能会损坏工作室。"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:153
 translate chinese sm1cs_mes007_5595ea9d:
 
@@ -387,12 +381,6 @@ translate chinese sm1cs_mes007_ac615639:
 
     # mes "I just want our lines of demarcation to be clear."
     mes "我只是想让我们的界限清楚。"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:261
-translate chinese sm1cs_mes007_1e3503da:
-
-    # mes "This is your home, but this is going to be my home within you home."
-    mes "这是你的家，但这将是你家里我的家。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:266
 translate chinese sm1cs_mes007_3ff8f3e1:
@@ -646,12 +634,6 @@ translate chinese sm1cs_mes007_continue_391ae28e:
     # mc "You're always pretty in pink."
     mc "你穿粉色总是很漂亮。"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:433
-translate chinese sm1cs_mes007_continue_88f94c10:
-
-    # mc "I appreciate, Min. But my favoite thing about panties is when I pull them off you."
-    mc "我很感激，明。但我最喜欢内裤的地方是当我把它们从你身上脱下来的时候。"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:436
 translate chinese sm1cs_mes007_continue_a80d84c6:
 
@@ -741,12 +723,6 @@ translate chinese sm1cs_mes007_continue_07bae835:
 
     # mes "Smart man."
     mes "聪明的男人。"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:520
-translate chinese sm1cs_mes007_continue_0c0badc7:
-
-    # mc "Knock yourself out. Just don't be surprised to feel a sudden presure pushing against your pussy."
-    mc "尽管来吧。只是不要对感受到突然的压力推着你的私处感到惊讶。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:523
 translate chinese sm1cs_mes007_continue_9d4a3295:
@@ -904,12 +880,6 @@ translate chinese sm1cs_mes007_continue_5f745e82:
     # mes "Give it to me."
     mes "给我。"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:598
-translate chinese sm1cs_mes007_continue_bd71179a:
-
-    # mes "Imprint the shape of yoru cock against my womb."
-    mes "把你的鸡巴形状印在我的子宫上。"
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:601
 translate chinese sm1cs_mes007_continue_3250dad8:
 
@@ -957,12 +927,6 @@ translate chinese sm1cs_mes007_continue_0f1f5fb8:
 
     # mes "Oh!"
     mes "哦！"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:638
-translate chinese sm1cs_mes007_continue_d8c79ef2:
-
-    # mes "On you're grinding me down!"
-    mes "哦你在碾压我！"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:639
 translate chinese sm1cs_mes007_continue_14bb7e2c:
@@ -1047,12 +1011,6 @@ translate chinese sm1cs_mes007_continue_f6640250:
 
     # mes "Fffummmtth!"
     mes "呜呜呜！"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:703
-translate chinese sm1cs_mes007_continue_715a92c0:
-
-    # mes "Gulp."
-    mes "咕噜。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:706
 translate chinese sm1cs_mes007_continue_1a5e043e:
@@ -1149,12 +1107,6 @@ translate chinese sm1cs_mes007_continue_9840b0f1:
 
     # mc "It's going to be amazing."
     mc "会很精彩的。"
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:764
-translate chinese sm1cs_mes007_continue_b81b5ced:
-
-    # mes "I like your spunky atttitude."
-    mes "我喜欢你的活力态度。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:765
 translate chinese sm1cs_mes007_continue_dea7848b:

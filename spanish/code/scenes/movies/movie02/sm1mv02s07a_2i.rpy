@@ -117,3 +117,4 @@ translate spanish sm1mv02s07a_2i_b9c9d9aa:
 translate spanish sm1mv02s07a_2i_dc275c3e:
     # ns "Okay. I'll go get ready."
     ns "De acuerdo. Iré a prepararme."
+

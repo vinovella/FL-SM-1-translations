@@ -34,12 +34,6 @@ translate chinese sm1cs_mh005_0e3dd832:
     # mh "You'll have to show me these new skills of yours then."
     mh "那你得让我见识下你的新本事了。"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:40
-translate chinese sm1cs_mh005_373d211e:
-
-    # mc "Oh don't you worry. I'm going to being it."
-    mc "别担心。我会全力以赴的。"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:47
 translate chinese sm1cs_mh005_f4308ba2:
 

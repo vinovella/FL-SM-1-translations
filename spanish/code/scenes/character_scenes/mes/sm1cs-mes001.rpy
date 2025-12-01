@@ -58,12 +58,6 @@ translate spanish sm1cs_mes001_708bec31:
     # mes "*soft sigh* Yes. Things got a little complicated after the last time we saw each other."
     mes "*suspiro suave* Sí. Las cosas se complicaron un poco después de la última vez que nos vimos."
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:55
-translate spanish sm1cs_mes001_39488d6a:
-
-    # mc "\"Complicated\" that's one way to describe everything that's happened."
-    mc "\"Complicado\" esa es una forma de describir todo lo que ha sucedido."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:56
 translate spanish sm1cs_mes001_94c2b1ed:
 
@@ -496,12 +490,6 @@ translate spanish sm1cs_mes001_b54749f3:
     # mes "And why exactly does a team of professionals need a jokester?"
     mes "¿Y por qué exactamente un equipo de profesionales necesita un bromista?"
 
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:248
-translate spanish sm1cs_mes001_f1a7154e:
-
-    # mc "When you're painting and drywalling walls for the third day straight, it helps to have someone cracking jokes at two in the morning."
-    mc "Cuando estás pintando y levantando paredes por tres días consecutivos, te ayuda tener a alguien que te cuente chistes a las dos de la mañana."
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:251
 translate spanish sm1cs_mes001_ba677a9b:
 
@@ -753,12 +741,6 @@ translate spanish sm1cs_mes001_812f8da4:
 
     # mes "They saw me floundering, they knew I was upset about life, and they thought, 'Oh, a stable relationship will fix everything'."
     mes "Me vieron tambalearme, sabían que estaba disgustada con la vida, y pensaron, \"Oh, una relación estable lo arreglará todo\"."
-
-# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:353
-translate spanish sm1cs_mes001_e13edf2e:
-
-    # mc "Too bad they didn't consider that stable also means \"happy\" something a forced setup wouldn't necessarily guarantee."
-    mc "Lástima que no tuvieran en cuenta que estable también significa \"feliz\", algo que un matrimonio arreglado no garantizaría necesariamente."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:356
 translate spanish sm1cs_mes001_d4c70379:
