@@ -902,7 +902,7 @@ translate deutsch sm1mv02s08_mid_continue_68fc7504:
 translate deutsch sm1mv02s08_mid_continue_f71c29fc:
 
     # mc "Good speed, Orion."
-    mc "Gute Geschwindigkeit, Orion."
+    mc "Gute Reise, Orion."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:696
 translate deutsch sm1mv02s08_mid_continue_ec66b2a5:
