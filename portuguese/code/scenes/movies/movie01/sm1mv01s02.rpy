@@ -230,7 +230,7 @@ translate portuguese sm1mv01s02_8e49ff53:
 translate portuguese sm1mv01s02_a3ebfe85:
 
     # kv "Well, she's certainly letting her Queen flag fly."
-    kv "Bom, ela tá mostrando do meu lado de Rainha.
+    kv "Bom, ela tá mostrando do meu lado de Rainha."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:145
 translate portuguese sm1mv01s02_2a54947c:
