@@ -1006,5 +1006,5 @@ translate deutsch strings:
 translate deutsch sm1ms028_location_change_f85f2d25:
 
     # mc "We will need to watch him very carefully if Lyssa says we can do business together."
-    mc "We will need to watch him very carefully if Lyssa says we can do business together."
+    mc "Wir müssen ihn sehr genau im Auge behalten, wenn Lyssa sagt, dass wir Geschäfte miteinander machen können."
 

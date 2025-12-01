@@ -6870,17 +6870,17 @@ translate deutsch sm1ms029_talk_mes_ns_b89ca410:
 translate deutsch sm1ms029_party_sy_ebb69a71:
 
     # mc "Time for a little ground and pound."
-    mc "Time for a little ground and pound."
+    mc "Zeit für ein bisschen Bodenkampf."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3203
 translate deutsch sm1ms029_party_arj_3d299e51:
 
     # arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
-    arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
+    arj "Ich werde deine Fickpuppe zur freien Verfügung sein, deinen Stress abbauen und dann direkt danach in einer Szene mitspielen."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3527
 translate deutsch sm1ms029_confrontation_c8157585:
 
     # et "But I don't think it will be enough."
-    et "But I don't think it will be enough."
+    et "Aber ich glaube nicht, dass es ausreichen wird."
 

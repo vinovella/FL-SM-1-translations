@@ -910,7 +910,7 @@ translate deutsch strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:382
     old "Sorry, Claire"
-    new "Sorry, Claire"
+    new "Entschuldigung, Claire"
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
     old "Don't mention it, Ms. Watts"

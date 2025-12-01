@@ -1312,17 +1312,17 @@ translate deutsch strings:
 translate deutsch sm1cs_my002_art_gallery_49542627:
 
     # my "Well, let's hear your critique then, hotshot!"
-    my "Well, let's hear your critique then, hotshot!"
+    my "Na dann, lass mal deine Kritik hören, Angeber!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:354
 translate deutsch sm1cs_my002_art_gallery_b0686e24:
 
     # my "So what do you think of \"Mischief and Repose\", hotshot?"
-    my "So what do you think of \"Mischief and Repose\", hotshot?"
+    my "Und was hältst du von \"Unfug und Ruhe\", Angeber?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:536
 translate deutsch sm1cs_my002_art_gallery_2944e37e:
 
     # my "Just because there's a dark background doesn't make it chiaroscuro, hotshot."
-    my "Just because there's a dark background doesn't make it chiaroscuro, hotshot."
+    my "Nur weil der Hintergrund dunkel ist, macht es das noch nicht zum Chiaroscuro, Angeber."
 

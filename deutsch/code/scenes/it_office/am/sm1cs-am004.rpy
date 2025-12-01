@@ -356,7 +356,7 @@ translate deutsch sm1cs_am004_ag_appears_d6a2cbf1:
 translate deutsch sm1cs_am004_ag_appears_395d02a4:
 
     # "Crowd" "*cheering*"
-    "Crowd" "*Jubel*"
+    "Menge" "*Jubel*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:242
 translate deutsch sm1cs_am004_ag_appears_d34041f6:
@@ -368,7 +368,7 @@ translate deutsch sm1cs_am004_ag_appears_d34041f6:
 translate deutsch sm1cs_am004_ag_appears_395d02a4_1:
 
     # "Crowd" "*cheering*"
-    "Crowd" "*Jubel*"
+    "Menge" "*Jubel*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:248
 translate deutsch sm1cs_am004_ag_appears_0323f92f:
@@ -380,7 +380,7 @@ translate deutsch sm1cs_am004_ag_appears_0323f92f:
 translate deutsch sm1cs_am004_ag_appears_395d02a4_2:
 
     # "Crowd" "*cheering*"
-    "Crowd" "*Jubel*"
+    "Menge" "*Jubel*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:255
 translate deutsch sm1cs_am004_ag_appears_01e66815:
@@ -392,7 +392,7 @@ translate deutsch sm1cs_am004_ag_appears_01e66815:
 translate deutsch sm1cs_am004_ag_appears_395d02a4_3:
 
     # "Crowd" "*cheering*"
-    "Crowd" "*Jubel*"
+    "Menge" "*Jubel*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:272
 translate deutsch sm1cs_am004_ag_appears_cebe9fd8:
@@ -656,7 +656,7 @@ translate deutsch sm1cs_am004_continue_cfffe58f:
 translate deutsch sm1cs_am004_music_2_end_395d02a4:
 
     # "Crowd" "*cheering*"
-    "Crowd" "*Jubel*"
+    "Menge" "*Jubel*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:476
 translate deutsch sm1cs_am004_music_2_end_8ede7d85:

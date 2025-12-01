@@ -836,5 +836,5 @@ translate deutsch sm1ms024_72133c5b:
 translate deutsch sm1ms024_620a96b9:
 
     # mc "Come on, you have that look on your face."
-    mc "Come on, you have that look on your face."
+    mc "Komm schon, du hast diesen Ausdruck im Gesicht."
 

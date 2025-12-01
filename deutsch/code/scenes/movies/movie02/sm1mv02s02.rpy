@@ -128,7 +128,7 @@ translate deutsch sm1mv02s02_6e1c3a07:
 translate deutsch sm1mv02s02_1cf359ad:
 
     # ns "Sorry sorry sorry."
-    ns "Sorry sorry sorry."
+    ns "Entschuldigung, Entschuldigung, Entschuldigung."
 
 # game/code/scenes/movies/movie02/sm1mv02s02.rpy:84
 translate deutsch sm1mv02s02_bb129128:

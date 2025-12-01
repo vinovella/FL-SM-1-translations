@@ -386,7 +386,7 @@ translate deutsch sm1cs_tl008_sex_83129961:
 translate deutsch sm1cs_tl008_sex_f2cf079d:
 
     # mc "Okie-dokie!"
-    mc "Okie-dokie!"
+    mc "Alles klar!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:275
 translate deutsch sm1cs_tl008_sex_29988449:

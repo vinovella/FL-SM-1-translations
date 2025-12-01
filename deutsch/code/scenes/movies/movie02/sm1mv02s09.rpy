@@ -1550,7 +1550,7 @@ translate deutsch sm1mv02s09_end_968c5f96:
 translate deutsch sm1mv02s09_end_8f26a5a0:
 
     # mhmes "Aye, aye, Captain."
-    mhmes "Aye, aye, Captain."
+    mhmes "Jawohl, Captain."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1243
 translate deutsch sm1mv02s09_end_1db2a4b6:
@@ -1706,5 +1706,5 @@ translate deutsch sm1mv02s09_watersports_0fb44886:
 translate deutsch sm1mv02s09_movie_2466e48f:
 
     # mhmes "And she is also quite a spectacle to behold. She really understands how to bring a body to climax."
-    mhmes "And she is also quite a spectacle to behold. She really understands how to bring a body to climax."
+    mhmes "Und sie ist auch ein ziemliches Spektakel. Sie versteht wirklich, wie man einen Körper zum Höhepunkt bringt."
 

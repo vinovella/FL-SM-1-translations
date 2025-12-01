@@ -1340,7 +1340,7 @@ translate deutsch sm1ms099_recording_91d51d36:
 translate deutsch sm1ms099_recording_8b34867d:
 
     # kv "Cut!"
-    kv "Cut!"
+    kv "Schnitt!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:777
 translate deutsch sm1ms099_recording_512a2047:

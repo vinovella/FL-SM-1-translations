@@ -890,7 +890,7 @@ translate deutsch sm1mv02s04_later_b552ba6c:
 translate deutsch sm1mv02s04_later_6c11b34d:
 
     # mh "Aye aye, Captain Stacy."
-    mh "Aye aye, Captain Stacy."
+    mh "Jawohl, Captain Stacy."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:505
 translate deutsch sm1mv02s04_later_d91d57e6:

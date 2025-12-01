@@ -986,7 +986,7 @@ translate deutsch sm1mv01s06_movie_start_5f71acf7:
 translate deutsch sm1mv01s06_movie_start_b54fa042:
 
     # mc "Parlay?"
-    mc "Parlay?"
+    mc "Verhandeln?"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:637
 translate deutsch sm1mv01s06_movie_start_fee6a076:

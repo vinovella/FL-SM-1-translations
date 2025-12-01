@@ -2316,35 +2316,35 @@ translate deutsch sm1cs_mh008_f927037e:
 translate deutsch sm1cs_mh008_034e2023:
 
     # mc "Yeah! We wanted to be able to use the studio as, well, a studio."
-    mc "Yeah! We wanted to be able to use the studio as, well, a studio."
+    mc "Ja! Wir wollten das Studio als, naja, ein Studio nutzen können."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:288
 translate deutsch sm1cs_mh008_carnival_57b30d8d:
 
     # mh "As a kid, I just knew that we would come to the circus because we had free tickets, and..."
-    mh "As a kid, I just knew that we would come to the circus because we had free tickets, and..."
+    mh "Als Kind wusste ich nur, dass wir zum Zirkus gehen würden, weil wir Freikarten hatten, und..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:430
 translate deutsch sm1cs_mh008_date_28d03d83:
 
     # mh "Yeah. It's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
-    mh "Yeah. It's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
+    mh "Ja. Es ist eine seltsame Geschichte, aber kurz gesagt - Mr. Roosevelt weigerte sich, einen gefesselten Bären zu erschießen, und dann hat jemand eine politische Karikatur davon gemacht."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:785
 translate deutsch sm1cs_mh008_couple_carousel_end_83caa5fe:
 
     # mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
-    mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+    mc "Hey, wenn du \"phänomenal\" und \"Kuss\" sagst, muss ich dir den bestmöglichen Kuss geben, oder?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
 translate deutsch sm1cs_mh008_throuple_carousel_77fca0f2:
 
     # sy "Growing up. Our families never really went to the carvnial."
-    sy "Growing up. Our families never really went to the carvnial."
+    sy "Als wir aufwuchsen. Unsere Familien gingen eigentlich nie auf den Jahrmarkt."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280
 translate deutsch sm1cs_mh008_throuple_carousel_end_b4912f4b:
 
     # mh "Yeah, something like this, [mcname]."
-    mh "Yeah, something like this, [mcname]."
+    mh "Ja, so etwas in der Art, [mcname]."
 

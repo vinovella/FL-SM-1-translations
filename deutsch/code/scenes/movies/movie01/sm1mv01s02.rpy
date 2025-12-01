@@ -302,7 +302,7 @@ translate deutsch sm1mv01s02_23775b78:
 translate deutsch sm1mv01s02_fd1c0152:
 
     # mc "Oh man!"
-    mc "Oh man!"
+    mc "Oh Mann!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:180
 translate deutsch sm1mv01s02_c1477d1c_1:
