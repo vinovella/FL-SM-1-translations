@@ -2,13 +2,13 @@
 translate deutsch sm1mv02s07a_43b066d8:
 
     # "Spa Attendant" "And here you are, Miss Eun-Soo."
-    "Spa-Mitarbeiter" "Und da bist du ja, Miss Eun-Soo."
+    "Spa-Mitarbeiterin" "Und da bist du ja, Miss Eun-Soo."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:55
 translate deutsch sm1mv02s07a_217f0f7d:
 
     # "Spa Attendant" "I hope the room is to your liking."
-    "Spa-Mitarbeiter" "Ich hoffe, das Zimmer gefällt dir."
+    "Spa-Mitarbeiterin" "Ich hoffe, das Zimmer gefällt dir."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:58
 translate deutsch sm1mv02s07a_6a371bf0:
@@ -20,13 +20,13 @@ translate deutsch sm1mv02s07a_6a371bf0:
 translate deutsch sm1mv02s07a_770afc0b:
 
     # "Spa Attendant" "Your masseuses will be here shortly."
-    "Spa-Mitarbeiter" "Deine Masseurinnen werden in Kürze hier sein."
+    "Spa-Mitarbeiterin" "Deine Masseurinnen werden in Kürze hier sein."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:65
 translate deutsch sm1mv02s07a_1272e27c:
 
     # "Spa Attendant" "Enjoy your spa day."
-    "Spa-Mitarbeiter" "Genieße deinen Wellness-Tag."
+    "Spa-Mitarbeiterin" "Genieße deinen Wellness-Tag."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:72
 translate deutsch sm1mv02s07a_7937f344:
