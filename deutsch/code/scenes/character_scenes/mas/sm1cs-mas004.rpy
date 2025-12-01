@@ -680,7 +680,7 @@ translate deutsch sm1cs_mas004_after_lunch_dbc66971:
 translate deutsch sm1cs_mas004_after_lunch_40f5de64:
 
     # ms "Problem, [mcname]?"
-    ms "Problem, [mcname]?"
+    ms "Gibt es ein Problem, [mcname]?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:481
 translate deutsch sm1cs_mas004_after_lunch_2f5753b6:
@@ -1534,7 +1534,7 @@ translate deutsch strings:
 translate deutsch sm1cs_mas004_after_lunch_f378cc8e:
 
     # ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
-    ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
+    ms "Ich habe also aufgehört zu warten, dass mir etwas Gutes passiert. Ich werde dafür {i}sorgen{/i}, dass etwas Gutes passiert."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:765
 translate deutsch sm1cs_mas004_after_lunch_fdf6afe0:

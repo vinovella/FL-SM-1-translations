@@ -194,5 +194,5 @@ translate deutsch sm1cs_mes002i_5ee8dc16:
 translate deutsch sm1cs_mes002i_f65bd79d:
 
     # mc "Talking to her, it was like... I'm not sure, but she looked a bit lost."
-    mc "Talking to her, it was like... I'm not sure, but she looked a bit lost."
+    mc "Als ich mit ihr sprach, war es so... Ich bin mir nicht sicher, aber sie wirkte ein bisschen verloren."
 

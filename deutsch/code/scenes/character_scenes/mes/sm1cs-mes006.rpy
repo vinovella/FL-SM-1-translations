@@ -3604,47 +3604,47 @@ translate deutsch strings:
 translate deutsch sm1cs_mes006_6193ab1b:
 
     # mc "I love you, my naughty fuck-minx."
-    mc "I love you, my naughty fuck-minx."
+    mc "Ich liebe dich, meine freche Fickmieze."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:432
 translate deutsch sm1cs_mes006_e9cbaa26:
 
     # sy "Oh cool. A Medusa."
-    sy "Oh cool. A Medusa."
+    sy "Oh cool. Eine Medusa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:441
 translate deutsch sm1cs_mes006_ea3b9fe6:
 
     # sy "I call the Medusa!"
-    sy "I call the Medusa!"
+    sy "Ich nehme die Medusa!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:447
 translate deutsch sm1cs_mes006_b0ac8035:
 
     # sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
-    sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
+    sy "Regeln, Schmegeln.{w} Die Medusa ist sexy und grün, wie meine Haare."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:669
 translate deutsch sm1cs_mes006_continue_dea9bd6d:
 
     # "[mcname] and Min" "*laughing*"
-    "[mcname] and Min" "*laughing*"
+    "[mcname] und Min" "*lachend*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:827
 translate deutsch sm1cs_mes006_continue_3e2044ca:
 
     # mes "But then wouldn't I just be trading my parents for you?"
-    mes "But then wouldn't I just be trading my parents for you?"
+    mes "Aber würde ich dann nicht einfach meine Eltern gegen dich eintauschen?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:885
 translate deutsch sm1cs_mes006_continue_35dadad0:
 
     # mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
-    mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
+    mc "Aber es klingt so, als wärst du nicht abgeneigt, hier zu bleiben. Auch wenn Stacy und ich zusammen sind."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1244
 translate deutsch sm1cs_mes006_continue_22b1ff20:
 
     # mes "I was hesitant... being around [mcname]."
-    mes "I was hesitant... being around [mcname]."
+    mes "Ich war zögerlich... in der Nähe von [mcname] zu sein."
 

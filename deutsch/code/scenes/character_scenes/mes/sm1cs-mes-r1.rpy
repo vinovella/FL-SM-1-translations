@@ -1738,13 +1738,13 @@ translate deutsch sm1cs_mes_r1_continue_2_3151895e:
 translate deutsch sm1cs_mes_r1_watersports_3108adbd:
 
     # mes "I need your piss all over me. Make me your dirty little piss slut."
-    mes "I need your piss all over me. Make me your dirty little piss slut."
+    mes "Ich brauche deine Pisse überall auf mir. Mach mich zu deiner versauten kleinen Pissschlampe."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:1194
 translate deutsch sm1cs_mes_r1_end_3c9bdbc5:
 
     # mes "I'm glad I came back from Korea. This...us...{w} Being together."
-    mes "I'm glad I came back from Korea. This...us...{w} Being together."
+    mes "Ich bin froh, dass ich aus Korea zurückgekommen bin. Das hier... wir...{w} Zusammen sein."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:102
 translate deutsch sm1cs_mes_r1_initiator_0e8ab82c:

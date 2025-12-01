@@ -626,7 +626,7 @@
 
     # renpy/common/00preferences.rpy:437
     old "self voicing"
-    new "self voicing"
+    new "Selbstsprachausgabe"
 
     # renpy/common/00preferences.rpy:440
     old "self voicing enable"
@@ -642,7 +642,7 @@
 
     # renpy/common/00preferences.rpy:454
     old "clipboard voicing"
-    new "clipboard voicing"
+    new "Zwischenablage-Sprachausgabe"
 
     # renpy/common/00preferences.rpy:457
     old "clipboard voicing enable"
@@ -654,7 +654,7 @@
 
     # renpy/common/00preferences.rpy:463
     old "debug voicing"
-    new "debug voicing"
+    new "Debug-Sprachausgabe"
 
     # renpy/common/00preferences.rpy:466
     old "debug voicing enable"

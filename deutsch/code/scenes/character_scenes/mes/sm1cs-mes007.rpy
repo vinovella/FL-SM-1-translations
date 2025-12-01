@@ -1180,7 +1180,7 @@ translate deutsch strings:
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:401
     old "Pink"
-    new "Pink"
+    new "Rosa"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:401
     old "I don't need one"
@@ -1220,37 +1220,37 @@ translate deutsch sm1cs_mes007_5b463004:
 translate deutsch sm1cs_mes007_5a9df7e5:
 
     # mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
-    mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
+    mes "Und dass du die schweren Sachen schleppst, erspart mir den Aufwand, ein aufwendiges Flaschenzug- und Windensystem zu bauen, das das Studio beschädigen könnte."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:265
 translate deutsch sm1cs_mes007_2c65153e:
 
     # mes "This is your home, but this is going to be my home within your home."
-    mes "This is your home, but this is going to be my home within your home."
+    mes "Das ist dein Zuhause, aber das wird mein Zuhause in deinem Zuhause sein."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:437
 translate deutsch sm1cs_mes007_continue_e174a810:
 
     # mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
-    mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
+    mc "Ich weiß das zu schätzen, Min. Aber mein Liebstes an Höschen ist, wenn ich sie dir ausziehe."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:529
 translate deutsch sm1cs_mes007_continue_b07f733a:
 
     # mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
-    mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
+    mc "Tu dir keinen Zwang an. Aber wundere dich nicht, wenn du plötzlich einen Druck gegen deine Pussy spürst."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:610
 translate deutsch sm1cs_mes007_continue_7b7099ec:
 
     # mes "Imprint the shape of your cock against my womb."
-    mes "Imprint the shape of your cock against my womb."
+    mes "Präge die Form deines Schwanzes in meine Gebärmutter ein."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:656
 translate deutsch sm1cs_mes007_continue_fc117b28:
 
     # mes "You're grinding me down!"
-    mes "You're grinding me down!"
+    mes "Du reibst mich auf!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:725
 translate deutsch sm1cs_mes007_continue_a0e12b14:
@@ -1262,5 +1262,5 @@ translate deutsch sm1cs_mes007_continue_a0e12b14:
 translate deutsch sm1cs_mes007_continue_d0c62791:
 
     # mes "I like your spunky attitude."
-    mes "I like your spunky attitude."
+    mes "Mir gefällt deine mutige Einstellung."
 

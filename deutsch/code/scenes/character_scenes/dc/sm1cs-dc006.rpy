@@ -746,7 +746,7 @@ translate deutsch sm1cs_dc006_at_park_c680609a:
 translate deutsch sm1cs_dc006_at_park_902b991c:
 
     # "Creep" "Oink, oink, bacon!"
-    "Creep" "Oink, oink, Speck!"
+    "Gruseltyp" "Oink, oink, Speck!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:388
 translate deutsch sm1cs_dc006_at_park_3de3da24:
@@ -764,7 +764,7 @@ translate deutsch sm1cs_dc006_at_park_c3b81b15:
 translate deutsch sm1cs_dc006_at_park_9eedbba7:
 
     # "Creep" "You'll never take me alive!"
-    "Creep" "Ihr werdet mich niemals lebendig kriegen!"
+    "Gruseltyp" "Ihr werdet mich niemals lebendig kriegen!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:396
 translate deutsch sm1cs_dc006_at_park_c585f227:
@@ -782,13 +782,13 @@ translate deutsch sm1cs_dc006_at_park_99878731:
 translate deutsch sm1cs_dc006_at_park_c46906f4:
 
     # "Creep" "Not quite!"
-    "Creep" "Nicht ganz!"
+    "Gruseltyp" "Nicht ganz!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:414
 translate deutsch sm1cs_dc006_at_park_64491fce:
 
     # "Creep" "Until next time! Hahahaha!"
-    "Creep" "Bis zum nächsten Mal! Hahahaha!"
+    "Gruseltyp" "Bis zum nächsten Mal! Hahahaha!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:420
 translate deutsch sm1cs_dc006_at_park_0314ba89:
