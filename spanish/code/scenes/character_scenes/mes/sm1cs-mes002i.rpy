@@ -190,3 +190,9 @@ translate spanish sm1cs_mes002i_5ee8dc16:
     # sy "Mmhmm."
     sy "Mmhmm."
 
+# game/code/scenes/character_scenes/mes/sm1cs-mes002i.rpy:33
+translate spanish sm1cs_mes002i_f65bd79d:
+
+    # mc "Talking to her, it was like... I'm not sure, but she looked a bit lost."
+    mc "Talking to her, it was like... I'm not sure, but she looked a bit lost."
+

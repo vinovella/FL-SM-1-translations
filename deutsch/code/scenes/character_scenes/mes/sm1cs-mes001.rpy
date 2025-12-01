@@ -1030,3 +1030,21 @@ translate deutsch sm1cs_mes001_229c1cea:
     # mc "Hey, we do that too, but we can be serious when we need to be."
     mc "Hey, das machen wir auch, aber wir können auch ernst sein, wenn es nötig ist."
 
+# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:54
+translate deutsch sm1cs_mes001_3e652f66:
+
+    # mc "\"Complicated\", that's one way to describe everything that's happened."
+    mc "\"Complicated\", that's one way to describe everything that's happened."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:247
+translate deutsch sm1cs_mes001_ddb765ab:
+
+    # mc "When you're painting and drywalling for the third day straight, it helps to have someone cracking jokes at two in the morning."
+    mc "When you're painting and drywalling for the third day straight, it helps to have someone cracking jokes at two in the morning."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:352
+translate deutsch sm1cs_mes001_4c2f9ce1:
+
+    # mc "Too bad they didn't consider that stable also means \"happy\", something a forced setup wouldn't necessarily guarantee."
+    mc "Too bad they didn't consider that stable also means \"happy\", something a forced setup wouldn't necessarily guarantee."
+

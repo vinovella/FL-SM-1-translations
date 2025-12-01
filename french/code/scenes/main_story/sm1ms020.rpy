@@ -1304,3 +1304,9 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/main_story/sm1ms020.rpy:110
+translate french sm1ms020_ef441d96:
+
+    # my "Oh! You brought us to Guns and Rosette!"
+    my "Oh! You brought us to Guns and Rosette!"
+

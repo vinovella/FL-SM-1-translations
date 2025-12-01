@@ -1692,3 +1692,27 @@ translate chinese strings:
     old "You got a $[amount] as your cut of the tip"
     new "你得到了$[amount]作为你应得的小费"
 
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:334
+translate chinese sm1cs_mas003_second_delivery_e42e9cc6:
+
+    # mc "\"She could be the Slobber Atractor.\""
+    mc "\"She could be the Slobber Atractor.\""
+
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:756
+translate chinese sm1cs_mas003_third_delivery_b52e61ff:
+
+    # lg "I've already seen Olivia's and Kennedy's girls."
+    lg "I've already seen Olivia's and Kennedy's girls."
+
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:765
+translate chinese sm1cs_mas003_third_delivery_c1710beb:
+
+    # mct "No way Maya goes for this."
+    mct "No way Maya goes for this."
+
+# game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:787
+translate chinese sm1cs_mas003_third_delivery_a9e1c1c0:
+
+    # "Kennedy, Lauren and Olivia" "*cheer wildly*"
+    "Kennedy, Lauren and Olivia" "*cheer wildly*"
+

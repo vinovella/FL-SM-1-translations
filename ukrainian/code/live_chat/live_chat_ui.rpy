@@ -68,23 +68,3 @@
     old "Hide"
     new "Hide"
 
-    # game/code/live_chat/live_chat_ui.rpy:330
-    old "I Subscribed — Revalidate"
-    new "I Subscribed — Revalidate"
-
-    # game/code/live_chat/live_chat_ui.rpy:400
-    old "Enable Live Chat"
-    new "Enable Live Chat"
-
-    # game/code/live_chat/live_chat_ui.rpy:458
-    old "Send"
-    new "Send"
-
-    # game/code/live_chat/live_chat_ui.rpy:462
-    old "Close"
-    new "Close"
-
-    # game/code/live_chat/live_chat_ui.rpy:463
-    old "Export chat (.txt)"
-    new "Export chat (.txt)"
-

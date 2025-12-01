@@ -1302,3 +1302,9 @@ translate italian strings:
     old "To no more manual labor!"
     new "A niente più lavoro manuale!"
 
+# game/code/scenes/main_story/sm1ms020.rpy:110
+translate italian sm1ms020_ef441d96:
+
+    # my "Oh! You brought us to Guns and Rosette!"
+    my "Oh! You brought us to Guns and Rosette!"
+

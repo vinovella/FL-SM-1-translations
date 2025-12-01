@@ -1740,3 +1740,15 @@ translate chinese strings:
     old "I'm going to cover your face"
     new "我要盖住你的脸"
 
+# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:758
+translate chinese sm1cs_mes_r1_watersports_3108adbd:
+
+    # mes "I need your piss all over me. Make me your dirty little piss slut."
+    mes "I need your piss all over me. Make me your dirty little piss slut."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:1194
+translate chinese sm1cs_mes_r1_end_3c9bdbc5:
+
+    # mes "I'm glad I came back from Korea. This...us...{w} Being together."
+    mes "I'm glad I came back from Korea. This...us...{w} Being together."
+

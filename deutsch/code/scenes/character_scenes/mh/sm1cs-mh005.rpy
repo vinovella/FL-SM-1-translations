@@ -958,3 +958,9 @@ translate deutsch strings:
     old "Try and win it all"
     new "Versuch zu gewinnen"
 
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:40
+translate deutsch sm1cs_mh005_04197275:
+
+    # mc "Oh don't you worry. I'm going to bring it."
+    mc "Oh don't you worry. I'm going to bring it."
+

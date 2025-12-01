@@ -2402,3 +2402,27 @@ translate chinese sm1cs_mh009_e9245de9:
     # mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
     mct "她在说一些非常重要的事情。她真的因为性爱采访的想法而兴奋到想暂时忽略这些吗？"
 
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:301
+translate chinese sm1cs_mh009_b94c53e3:
+
+    # mh "I can't help but feel a bit hungry...{w} to know more about how it works..."
+    mh "I can't help but feel a bit hungry...{w} to know more about how it works..."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:573
+translate chinese sm1cs_mh009_0890b5c5:
+
+    # mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to perform for the camera."
+    mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to perform for the camera."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:651
+translate chinese sm1cs_mh009_13748be9:
+
+    # mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fucked as well as you suck."
+    mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fucked as well as you suck."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1082
+translate chinese sm1cs_mh009_1_02c03f87:
+
+    # mc "And I promise that the only people who are ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
+    mc "And I promise that the only people who are ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
+

@@ -1002,3 +1002,9 @@ translate deutsch strings:
     old "You got $500 as your signup bonus from Porn Cave"
     new "Du hast $500 als Anmeldebonus von Porn Cave erhalten"
 
+# game/code/scenes/main_story/sm1ms028.rpy:395
+translate deutsch sm1ms028_location_change_f85f2d25:
+
+    # mc "We will need to watch him very carefully if Lyssa says we can do business together."
+    mc "We will need to watch him very carefully if Lyssa says we can do business together."
+

@@ -1314,3 +1314,15 @@ translate deutsch sm1cs_my005_after_movie_eed91999:
     # mct "I just made Melony cum from a foot massage, and then flirted with her like it was no big deal..."
     mct "Ich habe Melony gerade mit einer Fußmassage zum Orgasmus gebracht und dann mit ihr geflirtet, als wäre es nichts Besonderes..."
 
+# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:395
+translate deutsch sm1cs_my005_half_movie_14afb82a:
+
+    # mct "Oh God, what the hell do I do now?"
+    mct "Oh God, what the hell do I do now?"
+
+# game/code/scenes/character_scenes/my/sm1cs-my005.rpy:592
+translate deutsch sm1cs_my005_after_movie_2431015a:
+
+    # my "My days of couch crashing are far behind me."
+    my "My days of couch crashing are far behind me."
+

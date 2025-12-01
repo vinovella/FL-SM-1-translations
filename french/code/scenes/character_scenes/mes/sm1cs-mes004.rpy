@@ -1050,3 +1050,9 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:331
+translate french sm1cs_mes004_after_dance_51504a32:
+
+    # mes "No. It's... complicated."
+    mes "No. It's... complicated."
+

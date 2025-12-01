@@ -1280,3 +1280,15 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:160
+translate french sm1cs_mes005_fb570c11:
+
+    # mc "Pay your bill and let's go meet Kanya."
+    mc "Pay your bill and let's go meet Kanya."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:450
+translate french sm1cs_mes005_f66d5621:
+
+    # kv "Alrighty, let's keep things nice and loose."
+    kv "Alrighty, let's keep things nice and loose."
+

@@ -1704,3 +1704,9 @@ translate french sm1mv02s09_end_ac4f60cc:
 
 #Translate by BlackViper_
 
+# game/code/scenes/movies/movie02/sm1mv02s09.rpy:893
+translate french sm1mv02s09_movie_2466e48f:
+
+    # mhmes "And she is also quite a spectacle to behold. She really understands how to bring a body to climax."
+    mhmes "And she is also quite a spectacle to behold. She really understands how to bring a body to climax."
+

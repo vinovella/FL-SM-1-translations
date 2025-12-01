@@ -2312,3 +2312,63 @@ translate deutsch sm1cs_my006_next_morning_02f10a8a:
     # my "It's fine, it's not like you have anyone who's going to miss you in bed."
     my "Das ist okay, es ist ja nicht so, als gäbe es jemanden, der dich im Bett vermissen würde."
 
+# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:217
+translate deutsch sm1cs_my006_hotel_room_48510f06:
+
+    # my "I will say though, my ranking from best to worst is Episode 5-4-6-3-1-2."
+    my "I will say though, my ranking from best to worst is Episode 5-4-6-3-1-2."
+
+# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:247
+translate deutsch sm1cs_my006_hotel_room_e268fe97:
+
+    # my "I want to say 'thank you'. Thank you for treating me so well after how I acted when I first came to Crowning."
+    my "I want to say 'thank you'. Thank you for treating me so well after how I acted when I first came to Crowning."
+
+# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:303
+translate deutsch sm1cs_my006_hotel_room_adc7a6e5:
+
+    # my "Leave it to me, [mcname]."
+    my "Leave it to me, [mcname]."
+
+# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:351
+translate deutsch sm1cs_my006_hotel_room_4ad2bb87:
+
+    # mct "Holy shit, Mom is sucking my cock!"
+    mct "Holy shit, Mom is sucking my cock!"
+
+# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:353
+translate deutsch sm1cs_my006_hotel_room_d60b4c35:
+
+    # mct "Holy shit, Melony is sucking my cock!"
+    mct "Holy shit, Melony is sucking my cock!"
+
+# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:603
+translate deutsch sm1cs_my006_hotel_room_e5715d71:
+
+    # mc "Maybe I want to tease you a little bit?"
+    mc "Maybe I want to tease you a little bit?"
+
+# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:764
+translate deutsch sm1cs_my006_hotel_room_df14ac92:
+
+    # my "Mmmhmmm! B-better than okay!"
+    my "Mmmhmmm! B-better than okay!"
+
+# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:818
+translate deutsch sm1cs_my006_hotel_room_34ef9d5d:
+
+    # my "Fuck, fuck, fuck, faster! Mmmmmm!"
+    my "Fuck, fuck, fuck, faster! Mmmmmm!"
+
+# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:1084
+translate deutsch sm1cs_my006_next_morning_da8eab1c:
+
+    # mc "There's still so much I don't know about you, even though you've been around my whole life."
+    mc "There's still so much I don't know about you, even though you've been around my whole life."
+
+# game/code/scenes/character_scenes/my/sm1cs-my006.rpy:1200
+translate deutsch sm1cs_my006_at_studio_4d0a5dbc:
+
+    # mc "-and I just want to take a shower and get a cup of coffee, okay?"
+    mc "-and I just want to take a shower and get a cup of coffee, okay?"
+

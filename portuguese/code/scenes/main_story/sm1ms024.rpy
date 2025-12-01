@@ -832,3 +832,9 @@ translate portuguese sm1ms024_72133c5b:
     # mct "This is exciting.{w} Terrifying. Wonderful... I can't wait to get started."
     mct "Isso é tão legal.{w} E assustador. E maravilhoso... Mal posso esperar pra começar."
 
+# game/code/scenes/main_story/sm1ms024.rpy:178
+translate portuguese sm1ms024_620a96b9:
+
+    # mc "Come on, you have that look on your face."
+    mc "Come on, you have that look on your face."
+

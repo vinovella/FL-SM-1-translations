@@ -1278,3 +1278,15 @@ translate italian strings:
     old "Support Min"
     new "Supporta Min"
 
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:160
+translate italian sm1cs_mes005_fb570c11:
+
+    # mc "Pay your bill and let's go meet Kanya."
+    mc "Pay your bill and let's go meet Kanya."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:450
+translate italian sm1cs_mes005_f66d5621:
+
+    # kv "Alrighty, let's keep things nice and loose."
+    kv "Alrighty, let's keep things nice and loose."
+

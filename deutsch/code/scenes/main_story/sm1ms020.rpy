@@ -1302,3 +1302,9 @@ translate deutsch sm1ms020_0046f9d0:
     # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
     my "Ich kümmere mich um die Kontakte zwischen Investoren und der Galerie und suche nach neuen Künstlern, die wir präsentieren können..."
 
+# game/code/scenes/main_story/sm1ms020.rpy:110
+translate deutsch sm1ms020_ef441d96:
+
+    # my "Oh! You brought us to Guns and Rosette!"
+    my "Oh! You brought us to Guns and Rosette!"
+

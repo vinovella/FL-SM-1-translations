@@ -1662,3 +1662,93 @@ translate portuguese sm1cs_my004_3de68331:
     # sy "Come on, [mcname]. You have got to do better than that. How about the cut? The fit?"
     sy "Poxa, [mcname]. Você tem que se esforçar mais. E o corte? E o ajuste?"
 
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:326
+translate portuguese sm1cs_my004_15c0d188:
+
+    # sy "Or, \"the way the top of the suit is cut really accentuates your breasts and makes them pop\"."
+    sy "Or, \"the way the top of the suit is cut really accentuates your breasts and makes them pop\"."
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:355
+translate portuguese sm1cs_my004_c3ba184a:
+
+    # mc "Uh...{w} The cut of the swimsuit is right for you, it draws attention to all the right parts..."
+    mc "Uh...{w} The cut of the swimsuit is right for you, it draws attention to all the right parts..."
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:405
+translate portuguese sm1cs_my004_56ed8d43:
+
+    # sy "All right, [mcname]. For this one, you need to tell us how our swimsuits look when we move. Like, does it ride up, does it sit funny, that kind of thing."
+    sy "All right, [mcname]. For this one, you need to tell us how our swimsuits look when we move. Like, does it ride up, does it sit funny, that kind of thing."
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:649
+translate portuguese sm1cs_my004_048402d9:
+
+    # my "But I think another part is that... doing this...{w} will help me be more comfortable with what you do for work."
+    my "But I think another part is that... doing this...{w} will help me be more comfortable with what you do for work."
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:656
+translate portuguese sm1cs_my004_32624e7b:
+
+    # my "And maybe I lost that side of me that got really excited about life. It just... slipped away."
+    my "And maybe I lost that side of me that got really excited about life. It just... slipped away."
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:676
+translate portuguese sm1cs_my004_4524d312:
+
+    # my "But uh... don't get too distracted. I think there are a few more spots that need oil."
+    my "But uh... don't get too distracted. I think there are a few more spots that need oil."
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:684
+translate portuguese sm1cs_my004_56ed8403:
+
+    # mct "My god. Mom wants me to rub down her tits!"
+    mct "My god. Mom wants me to rub down her tits!"
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:685
+translate portuguese sm1cs_my004_5c37fdf0:
+
+    # mct "God, she is being so forward..."
+    mct "God, she is being so forward..."
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:687
+translate portuguese sm1cs_my004_96b86827:
+
+    # mct "My god. Melony wants me to rub down her tits!"
+    mct "My god. Melony wants me to rub down her tits!"
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:688
+translate portuguese sm1cs_my004_6944a890:
+
+    # mct "God, she is acting so forward..."
+    mct "God, she is acting so forward..."
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:740
+translate portuguese sm1cs_my004_5481387b:
+
+    # mct "Nope, not imagining it!"
+    mct "Nope, not imagining it!"
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:841
+translate portuguese sm1cs_my004_17c43927:
+
+    # mc "I mean, I think it's a lot to just surprise someone with a one on one swimsuit competition."
+    mc "I mean, I think it's a lot to just surprise someone with a one on one swimsuit competition."
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:849
+translate portuguese sm1cs_my004_941d9048:
+
+    # mc "*annoyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
+    mc "*annoyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:896
+translate portuguese sm1cs_my004_ebe34586:
+
+    # mct "And then her moaning while I massaged her tits..."
+    mct "And then her moaning while I massaged her tits..."
+
+# game/code/scenes/character_scenes/my/sm1cs-my004.rpy:903
+translate portuguese sm1cs_my004_fadda722:
+
+    # mct "I should probably give Mom a few days to calm down. That will give me some time to come up with a plan for what comes next."
+    mct "I should probably give Mom a few days to calm down. That will give me some time to come up with a plan for what comes next."
+

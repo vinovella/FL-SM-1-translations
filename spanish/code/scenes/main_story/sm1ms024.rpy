@@ -832,3 +832,9 @@ translate spanish sm1ms024_72133c5b:
     # mct "This is exciting.{w} Terrifying. Wonderful... I can't wait to get started."
     mct "Esto es emocionante.{w} Aterrador. Maravilloso... No puedo esperar para empezar."
 
+# game/code/scenes/main_story/sm1ms024.rpy:178
+translate spanish sm1ms024_620a96b9:
+
+    # mc "Come on, you have that look on your face."
+    mc "Come on, you have that look on your face."
+

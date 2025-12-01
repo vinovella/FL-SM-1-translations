@@ -1048,3 +1048,9 @@ translate italian strings:
     old "I could live without it"
     new "Potrei vivere senza"
 
+# game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:331
+translate italian sm1cs_mes004_after_dance_51504a32:
+
+    # mes "No. It's... complicated."
+    mes "No. It's... complicated."
+

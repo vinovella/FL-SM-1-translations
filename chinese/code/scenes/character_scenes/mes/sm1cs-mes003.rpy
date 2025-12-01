@@ -1732,3 +1732,15 @@ translate chinese strings:
     old "Stretch Min's asshole"
     new "把明的屁眼撑开"
 
+# game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:229
+translate chinese sm1cs_mes003_059006be:
+
+    # mc "We can't all live in trust-fund homes."
+    mc "We can't all live in trust-fund homes."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:800
+translate chinese sm1cs_mes003_menu_dd5bb37b:
+
+    # mes "*happy stuffy moans*"
+    mes "*happy stuffy moans*"
+

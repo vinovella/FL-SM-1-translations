@@ -1302,3 +1302,9 @@ translate turkish sm1ms020_0046f9d0:
     # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
     my "Yatırımcılar ve galeri arasındaki bağlantıları yönetiyorum, sergilenecek yeni sanatçılar için yetenek avcısıyım..."
 
+# game/code/scenes/main_story/sm1ms020.rpy:110
+translate turkish sm1ms020_ef441d96:
+
+    # my "Oh! You brought us to Guns and Rosette!"
+    my "Oh! You brought us to Guns and Rosette!"
+

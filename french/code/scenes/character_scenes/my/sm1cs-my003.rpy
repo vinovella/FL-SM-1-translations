@@ -1630,3 +1630,15 @@ translate french sm1cs_my003_at_gym_b2b93b59:
     # my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
     my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
 
+# game/code/scenes/character_scenes/my/sm1cs-my003.rpy:408
+translate french sm1cs_my003_at_gym_63659e95:
+
+    # my "Now that I'm all good and stretched out too, shall we get to the main event?"
+    my "Now that I'm all good and stretched out too, shall we get to the main event?"
+
+# game/code/scenes/character_scenes/my/sm1cs-my003.rpy:687
+translate french sm1cs_my003_continue_c59e5ae1:
+
+    # my "Come on, [mcname]! You'll have to try harder than that!"
+    my "Come on, [mcname]! You'll have to try harder than that!"
+

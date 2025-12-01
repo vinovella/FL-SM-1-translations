@@ -960,3 +960,9 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:40
+translate french sm1cs_mh005_04197275:
+
+    # mc "Oh don't you worry. I'm going to bring it."
+    mc "Oh don't you worry. I'm going to bring it."
+

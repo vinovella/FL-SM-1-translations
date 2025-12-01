@@ -832,3 +832,9 @@ translate deutsch sm1ms024_72133c5b:
     # mct "This is exciting.{w} Terrifying. Wonderful... I can't wait to get started."
     mct "Das ist aufregend.{w} Beängstigend. Wunderbar... Ich kann es kaum erwarten, anzufangen."
 
+# game/code/scenes/main_story/sm1ms024.rpy:178
+translate deutsch sm1ms024_620a96b9:
+
+    # mc "Come on, you have that look on your face."
+    mc "Come on, you have that look on your face."
+

@@ -1002,3 +1002,9 @@ translate turkish strings:
     old "You got $500 as your signup bonus from Porn Cave"
     new "Porn Cave'den kayıt bonusu olarak 500 dolar aldınız"
 
+# game/code/scenes/main_story/sm1ms028.rpy:395
+translate turkish sm1ms028_location_change_f85f2d25:
+
+    # mc "We will need to watch him very carefully if Lyssa says we can do business together."
+    mc "We will need to watch him very carefully if Lyssa says we can do business together."
+

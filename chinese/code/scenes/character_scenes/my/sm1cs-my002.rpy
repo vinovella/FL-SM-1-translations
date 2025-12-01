@@ -1308,3 +1308,21 @@ translate chinese strings:
     old "This is a great example of chiaroscuro"
     new "这是明暗对照法的一个很好的例子"
 
+# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:246
+translate chinese sm1cs_my002_art_gallery_49542627:
+
+    # my "Well, let's hear your critique then, hotshot!"
+    my "Well, let's hear your critique then, hotshot!"
+
+# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:354
+translate chinese sm1cs_my002_art_gallery_b0686e24:
+
+    # my "So what do you think of \"Mischief and Repose\", hotshot?"
+    my "So what do you think of \"Mischief and Repose\", hotshot?"
+
+# game/code/scenes/character_scenes/my/sm1cs-my002.rpy:536
+translate chinese sm1cs_my002_art_gallery_2944e37e:
+
+    # my "Just because there's a dark background doesn't make it chiaroscuro, hotshot."
+    my "Just because there's a dark background doesn't make it chiaroscuro, hotshot."
+

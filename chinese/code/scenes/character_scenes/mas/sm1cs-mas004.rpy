@@ -1530,3 +1530,15 @@ translate chinese strings:
     old "Let her lead"
     new "让她主导"
 
+# game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:520
+translate chinese sm1cs_mas004_after_lunch_f378cc8e:
+
+    # ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
+    ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
+
+# game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:765
+translate chinese sm1cs_mas004_after_lunch_fdf6afe0:
+
+    # ms "*raw moaning* Fuck...yes."
+    ms "*raw moaning* Fuck...yes."
+

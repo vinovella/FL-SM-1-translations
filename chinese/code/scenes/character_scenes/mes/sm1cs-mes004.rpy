@@ -1044,3 +1044,9 @@ translate chinese strings:
     old "I could live without it"
     new "我没有也能活"
 
+# game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:331
+translate chinese sm1cs_mes004_after_dance_51504a32:
+
+    # mes "No. It's... complicated."
+    mes "No. It's... complicated."
+

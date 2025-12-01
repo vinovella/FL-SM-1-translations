@@ -2312,3 +2312,39 @@ translate turkish sm1cs_mh008_f927037e:
     # mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
     mh "Bilmiyorum... Gerçekten birlikte vakit geçirmeyeli uzun zaman oldu. Belki bir şeyler yapabiliriz, bir yere gidebiliriz diye düşündüm."
 
+# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:92
+translate turkish sm1cs_mh008_034e2023:
+
+    # mc "Yeah! We wanted to be able to use the studio as, well, a studio."
+    mc "Yeah! We wanted to be able to use the studio as, well, a studio."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:288
+translate turkish sm1cs_mh008_carnival_57b30d8d:
+
+    # mh "As a kid, I just knew that we would come to the circus because we had free tickets, and..."
+    mh "As a kid, I just knew that we would come to the circus because we had free tickets, and..."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:430
+translate turkish sm1cs_mh008_date_28d03d83:
+
+    # mh "Yeah. It's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
+    mh "Yeah. It's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:785
+translate turkish sm1cs_mh008_couple_carousel_end_83caa5fe:
+
+    # mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+    mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
+translate turkish sm1cs_mh008_throuple_carousel_77fca0f2:
+
+    # sy "Growing up. Our families never really went to the carvnial."
+    sy "Growing up. Our families never really went to the carvnial."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280
+translate turkish sm1cs_mh008_throuple_carousel_end_b4912f4b:
+
+    # mh "Yeah, something like this, [mcname]."
+    mh "Yeah, something like this, [mcname]."
+

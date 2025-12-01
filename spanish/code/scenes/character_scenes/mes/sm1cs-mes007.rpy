@@ -1212,3 +1212,51 @@ translate spanish sm1cs_mes007_5b463004:
     # mc "I know it's going to be great."
     mc "I know it's going to be great."
 
+# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:148
+translate spanish sm1cs_mes007_5a9df7e5:
+
+    # mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
+    mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:265
+translate spanish sm1cs_mes007_2c65153e:
+
+    # mes "This is your home, but this is going to be my home within your home."
+    mes "This is your home, but this is going to be my home within your home."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:437
+translate spanish sm1cs_mes007_continue_e174a810:
+
+    # mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
+    mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:529
+translate spanish sm1cs_mes007_continue_b07f733a:
+
+    # mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
+    mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:610
+translate spanish sm1cs_mes007_continue_7b7099ec:
+
+    # mes "Imprint the shape of your cock against my womb."
+    mes "Imprint the shape of your cock against my womb."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:656
+translate spanish sm1cs_mes007_continue_fc117b28:
+
+    # mes "You're grinding me down!"
+    mes "You're grinding me down!"
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:725
+translate spanish sm1cs_mes007_continue_a0e12b14:
+
+    # mes "*gulp*"
+    mes "*gulp*"
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:790
+translate spanish sm1cs_mes007_continue_d0c62791:
+
+    # mes "I like your spunky attitude."
+    mes "I like your spunky attitude."
+

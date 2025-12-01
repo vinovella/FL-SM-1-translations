@@ -834,3 +834,9 @@ translate french sm1ms024_72133c5b:
 
 #Translate by BlackViper_
 
+# game/code/scenes/main_story/sm1ms024.rpy:178
+translate french sm1ms024_620a96b9:
+
+    # mc "Come on, you have that look on your face."
+    mc "Come on, you have that look on your face."
+

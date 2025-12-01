@@ -828,3 +828,15 @@ translate french strings:
 
 #Translate by BlackViper_
 
+# game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:42
+translate french sm1cs_mh003_ca55627e:
+
+    # mc "All right, all right! Jeez, I'm texting her right now."
+    mc "All right, all right! Jeez, I'm texting her right now."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:299
+translate french sm1cs_mh003_romance_99931624:
+
+    # mc "Of course! Yes! Absolutely."
+    mc "Of course! Yes! Absolutely."
+
