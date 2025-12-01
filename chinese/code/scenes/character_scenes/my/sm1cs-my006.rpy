@@ -2316,59 +2316,59 @@ translate chinese sm1cs_my006_next_morning_02f10a8a:
 translate chinese sm1cs_my006_hotel_room_48510f06:
 
     # my "I will say though, my ranking from best to worst is Episode 5-4-6-3-1-2."
-    my "I will say though, my ranking from best to worst is Episode 5-4-6-3-1-2."
+    my "不过我要说，我的排名从最好到最差是第5-4-6-3-1-2集。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:247
 translate chinese sm1cs_my006_hotel_room_e268fe97:
 
     # my "I want to say 'thank you'. Thank you for treating me so well after how I acted when I first came to Crowning."
-    my "I want to say 'thank you'. Thank you for treating me so well after how I acted when I first came to Crowning."
+    my "我想说'谢谢你'。感谢你在我刚来Crowning时那样对待我之后还对我这么好。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:303
 translate chinese sm1cs_my006_hotel_room_adc7a6e5:
 
     # my "Leave it to me, [mcname]."
-    my "Leave it to me, [mcname]."
+    my "交给我吧，[mcname]。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:351
 translate chinese sm1cs_my006_hotel_room_4ad2bb87:
 
     # mct "Holy shit, Mom is sucking my cock!"
-    mct "Holy shit, Mom is sucking my cock!"
+    mct "我靠，妈妈在给我口交！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:353
 translate chinese sm1cs_my006_hotel_room_d60b4c35:
 
     # mct "Holy shit, Melony is sucking my cock!"
-    mct "Holy shit, Melony is sucking my cock!"
+    mct "我靠，梅洛妮在给我口交！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:603
 translate chinese sm1cs_my006_hotel_room_e5715d71:
 
     # mc "Maybe I want to tease you a little bit?"
-    mc "Maybe I want to tease you a little bit?"
+    mc "也许我想逗逗你？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:764
 translate chinese sm1cs_my006_hotel_room_df14ac92:
 
     # my "Mmmhmmm! B-better than okay!"
-    my "Mmmhmmm! B-better than okay!"
+    my "嗯嗯嗯！比……比好还好！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:818
 translate chinese sm1cs_my006_hotel_room_34ef9d5d:
 
     # my "Fuck, fuck, fuck, faster! Mmmmmm!"
-    my "Fuck, fuck, fuck, faster! Mmmmmm!"
+    my "操，操，操，快点！嗯嗯嗯嗯嗯！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:1084
 translate chinese sm1cs_my006_next_morning_da8eab1c:
 
     # mc "There's still so much I don't know about you, even though you've been around my whole life."
-    mc "There's still so much I don't know about you, even though you've been around my whole life."
+    mc "虽然你陪伴了我一辈子，但我对你还有很多不了解的地方。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:1200
 translate chinese sm1cs_my006_at_studio_4d0a5dbc:
 
     # mc "-and I just want to take a shower and get a cup of coffee, okay?"
-    mc "-and I just want to take a shower and get a cup of coffee, okay?"
+    mc "-我只想洗个澡，喝杯咖啡，好吗？"
 

@@ -1282,11 +1282,11 @@ translate chinese strings:
 translate chinese sm1cs_mes005_fb570c11:
 
     # mc "Pay your bill and let's go meet Kanya."
-    mc "Pay your bill and let's go meet Kanya."
+    mc "付完账，我们去见康雅吧。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:450
 translate chinese sm1cs_mes005_f66d5621:
 
     # kv "Alrighty, let's keep things nice and loose."
-    kv "Alrighty, let's keep things nice and loose."
+    kv "好的，让我们保持轻松愉快的状态。"
 

@@ -3606,47 +3606,47 @@ translate chinese strings:
 translate chinese sm1cs_mes006_6193ab1b:
 
     # mc "I love you, my naughty fuck-minx."
-    mc "I love you, my naughty fuck-minx."
+    mc "我爱你，我的淘气小妖精。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:432
 translate chinese sm1cs_mes006_e9cbaa26:
 
     # sy "Oh cool. A Medusa."
-    sy "Oh cool. A Medusa."
+    sy "哦，好酷。美杜莎。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:441
 translate chinese sm1cs_mes006_ea3b9fe6:
 
     # sy "I call the Medusa!"
-    sy "I call the Medusa!"
+    sy "我要美杜莎！"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:447
 translate chinese sm1cs_mes006_b0ac8035:
 
     # sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
-    sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
+    sy "规则什么的无所谓啦。{w}美杜莎又性感又是绿色的，和我的头发一样。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:669
 translate chinese sm1cs_mes006_continue_dea9bd6d:
 
     # "[mcname] and Min" "*laughing*"
-    "[mcname] and Min" "*laughing*"
+    "[mcname]和明" "*大笑*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:827
 translate chinese sm1cs_mes006_continue_3e2044ca:
 
     # mes "But then wouldn't I just be trading my parents for you?"
-    mes "But then wouldn't I just be trading my parents for you?"
+    mes "但那样的话，我不就是把父母换成你了吗？"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:885
 translate chinese sm1cs_mes006_continue_35dadad0:
 
     # mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
-    mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
+    mc "但听起来你并不反对留在这里的想法。即使我和史黛西在一起。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1244
 translate chinese sm1cs_mes006_continue_22b1ff20:
 
     # mes "I was hesitant... being around [mcname]."
-    mes "I was hesitant... being around [mcname]."
+    mes "我曾经很犹豫……待在[mcname]身边。"
 

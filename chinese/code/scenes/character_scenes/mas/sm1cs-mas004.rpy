@@ -1534,11 +1534,11 @@ translate chinese strings:
 translate chinese sm1cs_mas004_after_lunch_f378cc8e:
 
     # ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
-    ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
+    ms "所以我不再等待好事降临了。我要{i}主动{/i}创造好事。"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:765
 translate chinese sm1cs_mas004_after_lunch_fdf6afe0:
 
     # ms "*raw moaning* Fuck...yes."
-    ms "*raw moaning* Fuck...yes."
+    ms "*原始的呻吟* 操……太爽了。"
 

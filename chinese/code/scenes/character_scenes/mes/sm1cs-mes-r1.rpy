@@ -1739,13 +1739,13 @@ translate chinese strings:
 translate chinese sm1cs_mes_r1_watersports_3108adbd:
 
     # mes "I need your piss all over me. Make me your dirty little piss slut."
-    mes "I need your piss all over me. Make me your dirty little piss slut."
+    mes "我要你的尿液洒满我全身。让我当你的小骚货。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:1194
 translate chinese sm1cs_mes_r1_end_3c9bdbc5:
 
     # mes "I'm glad I came back from Korea. This...us...{w} Being together."
-    mes "I'm glad I came back from Korea. This...us...{w} Being together."
+    mes "我很高兴从韩国回来了。这一切……我们……{w}在一起。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:102
 translate chinese sm1cs_mes_r1_initiator_0e8ab82c:

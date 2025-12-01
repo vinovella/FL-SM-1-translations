@@ -1632,11 +1632,11 @@ translate chinese sm1cs_my003_at_gym_b2b93b59:
 translate chinese sm1cs_my003_at_gym_63659e95:
 
     # my "Now that I'm all good and stretched out too, shall we get to the main event?"
-    my "Now that I'm all good and stretched out too, shall we get to the main event?"
+    my "现在我也热好身拉伸完了，我们进入正题吧？"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:687
 translate chinese sm1cs_my003_continue_c59e5ae1:
 
     # my "Come on, [mcname]! You'll have to try harder than that!"
-    my "Come on, [mcname]! You'll have to try harder than that!"
+    my "加油，[mcname]！你得更努力才行！"
 

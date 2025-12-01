@@ -2316,35 +2316,35 @@ translate chinese sm1cs_mh008_f927037e:
 translate chinese sm1cs_mh008_034e2023:
 
     # mc "Yeah! We wanted to be able to use the studio as, well, a studio."
-    mc "Yeah! We wanted to be able to use the studio as, well, a studio."
+    mc "是啊！我们想要把工作室用作，嗯，工作室。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:288
 translate chinese sm1cs_mh008_carnival_57b30d8d:
 
     # mh "As a kid, I just knew that we would come to the circus because we had free tickets, and..."
-    mh "As a kid, I just knew that we would come to the circus because we had free tickets, and..."
+    mh "小时候，我只知道我们去马戏团是因为有免费的票，然后……"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:430
 translate chinese sm1cs_mh008_date_28d03d83:
 
     # mh "Yeah. It's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
-    mh "Yeah. It's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
+    mh "是的。这是个奇怪的故事，简单说——罗斯福先生拒绝射杀一只被绑住的熊，然后有人画了一幅政治漫画。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:785
 translate chinese sm1cs_mh008_couple_carousel_end_83caa5fe:
 
     # mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
-    mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+    mc "嘿，当你说\"非凡\"和\"亲吻\"时，我必须全力以赴地吻你，对吧？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
 translate chinese sm1cs_mh008_throuple_carousel_77fca0f2:
 
     # sy "Growing up. Our families never really went to the carvnial."
-    sy "Growing up. Our families never really went to the carvnial."
+    sy "小时候，我们家从来没去过嘉年华。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280
 translate chinese sm1cs_mh008_throuple_carousel_end_b4912f4b:
 
     # mh "Yeah, something like this, [mcname]."
-    mh "Yeah, something like this, [mcname]."
+    mh "是的，差不多就是这样，[mcname]。"
 

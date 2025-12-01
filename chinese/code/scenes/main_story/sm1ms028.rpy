@@ -1008,5 +1008,5 @@ translate chinese strings:
 translate chinese sm1ms028_location_change_f85f2d25:
 
     # mc "We will need to watch him very carefully if Lyssa says we can do business together."
-    mc "We will need to watch him very carefully if Lyssa says we can do business together."
+    mc "如果丽莎说我们可以合作的话，我们需要非常仔细地观察他。"
 

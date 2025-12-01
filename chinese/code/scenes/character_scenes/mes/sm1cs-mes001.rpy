@@ -1034,17 +1034,17 @@ translate chinese sm1cs_mes001_229c1cea:
 translate chinese sm1cs_mes001_3e652f66:
 
     # mc "\"Complicated\", that's one way to describe everything that's happened."
-    mc "\"Complicated\", that's one way to describe everything that's happened."
+    mc "\"复杂\"，这倒是形容所发生的一切的一种方式。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:247
 translate chinese sm1cs_mes001_ddb765ab:
 
     # mc "When you're painting and drywalling for the third day straight, it helps to have someone cracking jokes at two in the morning."
-    mc "When you're painting and drywalling for the third day straight, it helps to have someone cracking jokes at two in the morning."
+    mc "当你连续三天刷墙、装石膏板时，凌晨两点有人讲笑话确实很有帮助。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:352
 translate chinese sm1cs_mes001_4c2f9ce1:
 
     # mc "Too bad they didn't consider that stable also means \"happy\", something a forced setup wouldn't necessarily guarantee."
-    mc "Too bad they didn't consider that stable also means \"happy\", something a forced setup wouldn't necessarily guarantee."
+    mc "可惜他们没考虑到稳定也意味着\"幸福\"，而强迫安排的婚姻不一定能保证幸福。"
 
