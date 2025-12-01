@@ -138,8 +138,8 @@ translate portuguese strings:
 
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Help out Debbie"
-
     new "Ajude Debbie"
+
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Coffee with Debbie"
     new "Café com Debbie"
@@ -508,8 +508,6 @@ translate portuguese strings:
     old "Renovation help from Debbie"
     new "Ajuda da Debbie na reforma"
 
-translate portuguese strings:
-
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Text Kanya"
     new "Mande mensagem para Kanya"
@@ -541,8 +539,6 @@ translate portuguese strings:
     # game/code/data/quests/vn_mode_data.rpy:10
     old "Visit Taisia in her room"
     new "Visite Taisia no quarto dela"
-
-translate portuguese strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about making a new move"
@@ -700,8 +696,6 @@ translate portuguese strings:
     old "Watch the final cut"
     new "Assista a última versão"
 
-translate portuguese strings:
-
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Meet an old friend"
     new "Encontre uma velha amiga"
@@ -709,8 +703,6 @@ translate portuguese strings:
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Surprise Nari at night"
     new "Surpreenda Nari à noite"
-
-translate portuguese strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Denise's, Kellie's, and Veronica's storylines"
@@ -731,8 +723,6 @@ translate portuguese strings:
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
     new "Avance as histórias de Denise, Kellie, Taisia e Veronica"
-
-translate portuguese strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk big business"

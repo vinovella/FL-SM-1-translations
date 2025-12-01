@@ -1,0 +1,192 @@
+deutsch/code/scenes/character_scenes/mh/sm1cs-mh008.rpy [102 words]
+425: mh "Hahahaha, oh, [mcname]."
+1127: mc "Donald. MacDonald."
+1373: sy "[mcname]! Lyssa!"
+1877: mc "Donald. MacDonald."
+2319: mc "Yeah! We wanted to be able to use the studio as, well, a studio."
+2325: mh "As a kid, I just knew that we would come to the circus because we had free tickets, and..."
+2331: mh "Yeah. It's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
+2337: mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+2343: sy "Growing up. Our families never really went to the carvnial."
+2349: mh "Yeah, something like this, [mcname]."
+
+deutsch/code/scenes/character_scenes/mh/sm1cs-mh009.rpy [94 words]
+2409: mh "I can't help but feel a bit hungry...{w} to know more about how it works..."
+2415: mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to perform for the camera."
+2421: mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fucked as well as you suck."
+2427: mc "And I promise that the only people who are ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
+
+deutsch/code/scenes/character_scenes/my/sm1cs-my001.rpy [68 words]
+1329: my "Mmmmm, I'll take a glass of the house red."
+1335: my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
+1341: my "The models own personal lives becoming entwined with his work and the studio..."
+1347: "Waiter" "Both wonderful choices, sir." (Reason: Speaker not translated)
+1353: my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
+
+deutsch/code/scenes/character_scenes/my/sm1cs-my002.rpy [27 words]
+1315: my "Well, let's hear your critique then, hotshot!"
+1321: my "So what do you think of \"Mischief and Repose\", hotshot?"
+1327: my "Just because there's a dark background doesn't make it chiaroscuro, hotshot."
+
+deutsch/code/scenes/character_scenes/my/sm1cs-my003.rpy [26 words]
+1635: my "Now that I'm all good and stretched out too, shall we get to the main event?"
+1641: my "Come on, [mcname]! You'll have to try harder than that!"
+
+deutsch/code/scenes/character_scenes/my/sm1cs-my004.rpy [216 words]
+1669: sy "Or, \"the way the top of the suit is cut really accentuates your breasts and makes them pop\"."
+1675: mc "Uh...{w} The cut of the swimsuit is right for you, it draws attention to all the right parts..."
+1681: sy "All right, [mcname]. For this one, you need to tell us how our swimsuits look when we move. Like, does it ride up, does it sit funny, that kind of thing."
+1687: my "But I think another part is that... doing this...{w} will help me be more comfortable with what you do for work."
+1693: my "And maybe I lost that side of me that got really excited about life. It just... slipped away."
+1699: my "But uh... don't get too distracted. I think there are a few more spots that need oil."
+1705: mct "My god. Mom wants me to rub down her tits!"
+1711: mct "God, she is being so forward..."
+1717: mct "My god. Melony wants me to rub down her tits!"
+1723: mct "God, she is acting so forward..."
+1729: mct "Nope, not imagining it!"
+1735: mc "I mean, I think it's a lot to just surprise someone with a one on one swimsuit competition."
+1741: mc "*annoyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
+1747: mct "And then her moaning while I massaged her tits..."
+1753: mct "I should probably give Mom a few days to calm down. That will give me some time to come up with a plan for what comes next."
+
+deutsch/code/scenes/character_scenes/my/sm1cs-my005.rpy [89 words]
+605: "TV" "Ich habe dich vom ersten Moment an geliebt, als ich dich getroffen habe!" (Reason: Speaker not translated)
+623: "TV" "Küss mich, wie du mich noch nie zuvor geküsst hast." (Reason: Speaker not translated)
+641: "TV" "Ich muss dich in mir spüren." (Reason: Speaker not translated)
+653: "TV" "Das mache ich gerne." (Reason: Speaker not translated)
+665: "TV" "Nimm mich! Nimm mich als deine Geliebte, für immer!" (Reason: Speaker not translated)
+755: "TV" "Oh, dein Schwanz füllt mich perfekt aus! Ich liebe es, wie er so fest in meine Muschi stößt!" (Reason: Speaker not translated)
+893: "TV" "Oh ja, fick mich! Dein Schwanz fühlt sich unglaublich an, oh jaaaa!" (Reason: Speaker not translated)
+1321: mct "Oh God, what the hell do I do now?"
+1327: my "My days of couch crashing are far behind me."
+
+deutsch/code/scenes/character_scenes/my/sm1cs-my006.rpy [105 words]
+2319: my "I will say though, my ranking from best to worst is Episode 5-4-6-3-1-2."
+2325: my "I want to say 'thank you'. Thank you for treating me so well after how I acted when I first came to Crowning."
+2331: my "Leave it to me, [mcname]."
+2337: mct "Holy shit, Mom is sucking my cock!"
+2343: mct "Holy shit, Melony is sucking my cock!"
+2349: mc "Maybe I want to tease you a little bit?"
+2355: my "Mmmhmmm! B-better than okay!"
+2361: my "Fuck, fuck, fuck, faster! Mmmmmm!"
+2367: mc "There's still so much I don't know about you, even though you've been around my whole life."
+2373: mc "-and I just want to take a shower and get a cup of coffee, okay?"
+
+deutsch/code/scenes/cross_characters/sm1xc_ns_tl_001i.rpy [2 words]
+89: mc "Morning, Taisia."
+
+deutsch/code/scenes/it_office/sm1fs-i002.rpy [3 words]
+609: new "Dating"
+613: new "Party"
+617: new "Kinky"
+
+deutsch/code/scenes/it_office/am/sm1cs-am004.rpy [10 words]
+359: "Crowd" "*Jubel*" (Reason: Speaker not translated)
+371: "Crowd" "*Jubel*" (Reason: Speaker not translated)
+383: "Crowd" "*Jubel*" (Reason: Speaker not translated)
+395: "Crowd" "*Jubel*" (Reason: Speaker not translated)
+659: "Crowd" "*Jubel*" (Reason: Speaker not translated)
+
+deutsch/code/scenes/it_office/am/sm1cs-am006.rpy [1 words]
+5: mc "April."
+
+deutsch/code/scenes/it_office/cw/sm1cs-cw002_2.rpy [2 words]
+913: new "Sorry, Claire"
+
+deutsch/code/scenes/it_office/ns/sm1cs-ns010.rpy [1 words]
+173: ns "Super."
+
+deutsch/code/scenes/main_story/sm1ms009.rpy [1 words]
+1343: kv "Cut!"
+
+deutsch/code/scenes/main_story/sm1ms014.rpy [3 words]
+449: "Lieferant" "Okaaaay..."
+
+deutsch/code/scenes/main_story/sm1ms020.rpy [8 words]
+1309: my "Oh! You brought us to Guns and Rosette!"
+
+deutsch/code/scenes/main_story/sm1ms022.rpy [10 words]
+131: kv "Old Macdonald had a farm, ee-aye-ee-aye-ohhhhhhh!"
+287: mc "...{w} Fair."
+407: kv "Cut!"
+899: mc "Ma'am?"
+
+deutsch/code/scenes/main_story/sm1ms024.rpy [9 words]
+839: mc "Come on, you have that look on your face."
+
+deutsch/code/scenes/main_story/sm1ms025.rpy [8 words]
+737: mc "Quiet Decks, Last Space, Killbot, Strange New Planets."
+
+deutsch/code/scenes/main_story/sm1ms028.rpy [21 words]
+17: dl "Mr. [mcname] Young?"
+119: mc "Fortune Blooms?"
+1009: mc "We will need to watch him very carefully if Lyssa says we can do business together."
+
+deutsch/code/scenes/main_story/sm1ms029.rpy [34 words]
+4763: "Mann" "Bugs."
+6873: mc "Time for a little ground and pound."
+6879: arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
+6885: et "But I don't think it will be enough."
+
+deutsch/code/scenes/movies/movie01/sm1mv01s02.rpy [3 words]
+305: mc "Oh man!"
+
+deutsch/code/scenes/movies/movie01/sm1mv01s05.rpy [2 words]
+539: "Shink"
+1415: sy "Action."
+
+deutsch/code/scenes/movies/movie01/sm1mv01s06.rpy [11 words]
+989: mc "Parlay?"
+1073: "Toms" "Kapitän! Die {i}Sirene{/i} bricht ab." (Reason: Speaker not translated)
+1091: "Toms" "Aye, Kapitän!" (Reason: Speaker not translated)
+
+deutsch/code/scenes/movies/movie01/sm1mv01s09.rpy [1 words]
+245: kv "Action!"
+
+deutsch/code/scenes/movies/movie02/sm1mv02s01.rpy [2 words]
+89: mc "\"Star Voyage VI: Babe-lyon 9\"."
+
+deutsch/code/scenes/movies/movie02/sm1mv02s02.rpy [3 words]
+131: ns "Sorry sorry sorry."
+
+deutsch/code/scenes/movies/movie02/sm1mv02s04.rpy [4 words]
+893: mh "Aye aye, Captain Stacy."
+
+deutsch/code/scenes/movies/movie02/sm1mv02s05.rpy [1 words]
+1139: sy "Team?"
+
+deutsch/code/scenes/movies/movie02/sm1mv02s06.rpy [5 words]
+119: sy "Sound?"
+137: sy "Action!"
+1067: mhmes "C... Captain?"
+1079: sy "Captain!"
+
+deutsch/code/scenes/movies/movie02/sm1mv02s08.rpy [19 words]
+455: "Crew" "*Jubel*" (Reason: Speaker not translated)
+899: "Computer" "Alarm. Katastrophale Schäden an den Sicherheitsverschlüssen der Luftschleuse." (Reason: Speaker not translated)
+911: "Computer" "Achtung! Luftschleuse wird dekomprimiert. Alle Personen müssen sofort evakuiert werden." (Reason: Speaker not translated)
+
+deutsch/code/scenes/movies/movie02/sm1mv02s09.rpy [35 words]
+497: "Kasaru Warrior" "Hatte ich gerade einen Orgasmus?!? OH!" (Reason: Speaker not translated)
+503: "Kasaru Warrior" "Ich mache es schon wieder!?!" (Reason: Speaker not translated)
+1553: mhmes "Aye, aye, Captain."
+1709: mhmes "And she is also quite a spectacle to behold. She really understands how to bring a body to climax."
+
+deutsch/code/scenes/theatre/sm1fs-t001.rpy [3 words]
+467: "Gruseliger Clown" "GAAAAAAAHHHHHH!!!!!"
+
+deutsch/code/scenes/theatre/km/sm1cs-km002.rpy [1 words]
+463: new "Neutral"
+
+deutsch/code/scenes/theatre/tl/sm1cs-tl003.rpy [1 words]
+551: tl "Outfit?"
+
+deutsch/code/scenes/theatre/tl/sm1cs-tl004.rpy [2 words]
+563: mc "Ladies first."
+
+deutsch/code/scenes/theatre/tl/sm1cs-tl008.rpy [1 words]
+389: mc "Okie-dokie!"
+
+deutsch/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy [14 words]
+699: mc "{i}♪ Come with me, and you'll be- ♪{/i}"
+705: mc "{i}♪ In a world of scaffolding and exposed wi-ir-i-ng! ♪{/i}"
