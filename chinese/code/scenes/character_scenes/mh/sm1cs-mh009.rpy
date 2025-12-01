@@ -2406,23 +2406,23 @@ translate chinese sm1cs_mh009_e9245de9:
 translate chinese sm1cs_mh009_b94c53e3:
 
     # mh "I can't help but feel a bit hungry...{w} to know more about how it works..."
-    mh "I can't help but feel a bit hungry...{w} to know more about how it works..."
+    mh "我忍不住有点渴望……{w}想更多地了解这是怎么运作的……"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:573
 translate chinese sm1cs_mh009_0890b5c5:
 
     # mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to perform for the camera."
-    mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to perform for the camera."
+    mc "而且我没有理由撒谎。这是一个商业场所，每一个有才华的人都应该知道如何在镜头前表演。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:651
 translate chinese sm1cs_mh009_13748be9:
 
     # mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fucked as well as you suck."
-    mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fucked as well as you suck."
+    mc "好了，现在我的老二已经润滑好了……我想看看你被操起来是不是和你口的一样棒。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1082
 translate chinese sm1cs_mh009_1_02c03f87:
 
     # mc "And I promise that the only people who are ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
-    mc "And I promise that the only people who are ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
+    mc "而且我保证唯一会看到这个的只有我和你。不会发布，不会给任何人看，我保证——"
 

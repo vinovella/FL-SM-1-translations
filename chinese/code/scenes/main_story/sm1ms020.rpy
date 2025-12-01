@@ -1306,5 +1306,5 @@ translate chinese strings:
 translate chinese sm1ms020_ef441d96:
 
     # my "Oh! You brought us to Guns and Rosette!"
-    my "Oh! You brought us to Guns and Rosette!"
+    my "哦！你带我们来Guns and Rosette了！"
 

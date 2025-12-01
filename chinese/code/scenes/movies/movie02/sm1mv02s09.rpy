@@ -1706,5 +1706,5 @@ translate chinese sm1mv02s09_watersports_0fb44886:
 translate chinese sm1mv02s09_movie_2466e48f:
 
     # mhmes "And she is also quite a spectacle to behold. She really understands how to bring a body to climax."
-    mhmes "And she is also quite a spectacle to behold. She really understands how to bring a body to climax."
+    mhmes "而且她看起来也相当壮观。她真的很懂如何让身体达到高潮。"
 

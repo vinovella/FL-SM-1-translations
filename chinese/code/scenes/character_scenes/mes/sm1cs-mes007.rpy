@@ -1216,47 +1216,47 @@ translate chinese strings:
 translate chinese sm1cs_mes007_5a9df7e5:
 
     # mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
-    mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
+    mes "而且你搬重物也省得我建一个复杂的滑轮绞盘系统，那可能会损坏工作室。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:265
 translate chinese sm1cs_mes007_2c65153e:
 
     # mes "This is your home, but this is going to be my home within your home."
-    mes "This is your home, but this is going to be my home within your home."
+    mes "这是你的家，但这里将成为你家中属于我的家。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:437
 translate chinese sm1cs_mes007_continue_e174a810:
 
     # mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
-    mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
+    mc "谢谢你，明。但我最喜欢的还是把你的内裤脱下来那一刻。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:529
 translate chinese sm1cs_mes007_continue_b07f733a:
 
     # mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
-    mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
+    mc "随你便。只是别惊讶突然感觉到有东西顶着你的下面。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:610
 translate chinese sm1cs_mes007_continue_7b7099ec:
 
     # mes "Imprint the shape of your cock against my womb."
-    mes "Imprint the shape of your cock against my womb."
+    mes "把你的形状印在我的子宫上。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:656
 translate chinese sm1cs_mes007_continue_fc117b28:
 
     # mes "You're grinding me down!"
-    mes "You're grinding me down!"
+    mes "你要把我磨碎了！"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:725
 translate chinese sm1cs_mes007_continue_a0e12b14:
 
     # mes "*gulp*"
-    mes "*gulp*"
+    mes "*咕噜*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:790
 translate chinese sm1cs_mes007_continue_d0c62791:
 
     # mes "I like your spunky attitude."
-    mes "I like your spunky attitude."
+    mes "我喜欢你这股子倔强劲儿。"
 

@@ -194,5 +194,5 @@ translate chinese sm1cs_mes002i_5ee8dc16:
 translate chinese sm1cs_mes002i_f65bd79d:
 
     # mc "Talking to her, it was like... I'm not sure, but she looked a bit lost."
-    mc "Talking to her, it was like... I'm not sure, but she looked a bit lost."
+    mc "和她说话时，感觉……我不确定，但她看起来有点迷茫。"
 

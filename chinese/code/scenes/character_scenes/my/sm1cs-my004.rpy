@@ -1666,89 +1666,89 @@ translate chinese sm1cs_my004_3de68331:
 translate chinese sm1cs_my004_15c0d188:
 
     # sy "Or, \"the way the top of the suit is cut really accentuates your breasts and makes them pop\"."
-    sy "Or, \"the way the top of the suit is cut really accentuates your breasts and makes them pop\"."
+    sy "或者，\"泳衣上半部分的剪裁真的突出了你的胸部，让它们更挺拔\"。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:355
 translate chinese sm1cs_my004_c3ba184a:
 
     # mc "Uh...{w} The cut of the swimsuit is right for you, it draws attention to all the right parts..."
-    mc "Uh...{w} The cut of the swimsuit is right for you, it draws attention to all the right parts..."
+    mc "呃……{w}这件泳衣的剪裁很适合你，它把视线吸引到所有该突出的地方……"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:405
 translate chinese sm1cs_my004_56ed8d43:
 
     # sy "All right, [mcname]. For this one, you need to tell us how our swimsuits look when we move. Like, does it ride up, does it sit funny, that kind of thing."
-    sy "All right, [mcname]. For this one, you need to tell us how our swimsuits look when we move. Like, does it ride up, does it sit funny, that kind of thing."
+    sy "好的，[mcname]。这一轮，你要告诉我们当我们动起来的时候泳衣看起来怎么样。比如，会不会往上跑，穿着会不会奇怪，这类的。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:649
 translate chinese sm1cs_my004_048402d9:
 
     # my "But I think another part is that... doing this...{w} will help me be more comfortable with what you do for work."
-    my "But I think another part is that... doing this...{w} will help me be more comfortable with what you do for work."
+    my "但我想另一部分原因是……做这个……{w}会让我更能接受你的工作。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:656
 translate chinese sm1cs_my004_32624e7b:
 
     # my "And maybe I lost that side of me that got really excited about life. It just... slipped away."
-    my "And maybe I lost that side of me that got really excited about life. It just... slipped away."
+    my "也许我失去了那个对生活充满热情的自己。它就……悄悄溜走了。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:676
 translate chinese sm1cs_my004_4524d312:
 
     # my "But uh... don't get too distracted. I think there are a few more spots that need oil."
-    my "But uh... don't get too distracted. I think there are a few more spots that need oil."
+    my "不过呃……别太分心了。我觉得还有几个地方需要抹油。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:684
 translate chinese sm1cs_my004_56ed8403:
 
     # mct "My god. Mom wants me to rub down her tits!"
-    mct "My god. Mom wants me to rub down her tits!"
+    mct "天哪。妈妈想让我揉她的胸！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:685
 translate chinese sm1cs_my004_5c37fdf0:
 
     # mct "God, she is being so forward..."
-    mct "God, she is being so forward..."
+    mct "天哪，她好主动……"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:687
 translate chinese sm1cs_my004_96b86827:
 
     # mct "My god. Melony wants me to rub down her tits!"
-    mct "My god. Melony wants me to rub down her tits!"
+    mct "天哪。梅洛妮想让我揉她的胸！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:688
 translate chinese sm1cs_my004_6944a890:
 
     # mct "God, she is acting so forward..."
-    mct "God, she is acting so forward..."
+    mct "天哪，她表现得好主动……"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:740
 translate chinese sm1cs_my004_5481387b:
 
     # mct "Nope, not imagining it!"
-    mct "Nope, not imagining it!"
+    mct "不，不是我的想象！"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:841
 translate chinese sm1cs_my004_17c43927:
 
     # mc "I mean, I think it's a lot to just surprise someone with a one on one swimsuit competition."
-    mc "I mean, I think it's a lot to just surprise someone with a one on one swimsuit competition."
+    mc "我的意思是，突然给某人来个一对一泳装比赛确实有点过分。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:849
 translate chinese sm1cs_my004_941d9048:
 
     # mc "*annoyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
-    mc "*annoyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
+    mc "*不耐烦的声音* 我能处理好的，史黛西。你只需要对这个过程有点信心。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:896
 translate chinese sm1cs_my004_ebe34586:
 
     # mct "And then her moaning while I massaged her tits..."
-    mct "And then her moaning while I massaged her tits..."
+    mct "然后我按摩她胸部时她的呻吟……"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:903
 translate chinese sm1cs_my004_fadda722:
 
     # mct "I should probably give Mom a few days to calm down. That will give me some time to come up with a plan for what comes next."
-    mct "I should probably give Mom a few days to calm down. That will give me some time to come up with a plan for what comes next."
+    mct "我应该让妈妈冷静几天。这会给我一些时间来想想下一步该怎么办。"
 

@@ -1736,11 +1736,11 @@ translate chinese strings:
 translate chinese sm1cs_mes003_059006be:
 
     # mc "We can't all live in trust-fund homes."
-    mc "We can't all live in trust-fund homes."
+    mc "我们不可能都住在信托基金买的房子里。"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:800
 translate chinese sm1cs_mes003_menu_dd5bb37b:
 
     # mes "*happy stuffy moans*"
-    mes "*happy stuffy moans*"
+    mes "*幸福闷闷的呻吟*"
 

@@ -1326,29 +1326,29 @@ translate chinese strings:
 translate chinese sm1cs_my001_94670bab:
 
     # my "Mmmmm, I'll take a glass of the house red."
-    my "Mmmmm, I'll take a glass of the house red."
+    my "嗯嗯嗯，我要一杯招牌红酒。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:269
 translate chinese sm1cs_my001_ef92aff5:
 
     # my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
-    my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
+    my "但他开始建立的这个小商业帝国开始瓦解了。感情生活出了问题，赚钱的想法也不成熟……"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:272
 translate chinese sm1cs_my001_837a40da:
 
     # my "The models own personal lives becoming entwined with his work and the studio..."
-    my "The models own personal lives becoming entwined with his work and the studio..."
+    my "模特们自己的私生活也和他的工作和工作室纠缠在一起……"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:299
 translate chinese sm1cs_my001_27ef328b:
 
     # "Waiter" "Both wonderful choices, sir."
-    "Waiter" "Both wonderful choices, sir."
+    "服务员" "先生，两个都是很棒的选择。"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:346
 translate chinese sm1cs_my001_b4bd7f1c:
 
     # my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
-    my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
+    my "它们抹去了个性，这样你就可以用任何能装进行李箱的东西来填满它。"
 

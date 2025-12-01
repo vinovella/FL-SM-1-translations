@@ -836,5 +836,5 @@ translate chinese sm1ms024_72133c5b:
 translate chinese sm1ms024_620a96b9:
 
     # mc "Come on, you have that look on your face."
-    mc "Come on, you have that look on your face."
+    mc "得了吧，你脸上就是那种表情。"
 

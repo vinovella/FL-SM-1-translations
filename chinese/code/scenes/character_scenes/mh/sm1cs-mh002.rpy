@@ -392,5 +392,5 @@ translate chinese sm1cs_mh002_4165b5fc:
 translate chinese sm1cs_mh002_3b1b4dd9:
 
     # mh "Excellent. Well, I coudn't be much help today, but I am sure I can deliver in the next couple of days."
-    mh "Excellent. Well, I coudn't be much help today, but I am sure I can deliver in the next couple of days."
+    mh "太好了。嗯，今天我帮不了什么忙，但我相信接下来几天我能搞定的。"
 
