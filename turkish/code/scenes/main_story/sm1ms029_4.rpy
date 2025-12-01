@@ -304,12 +304,6 @@ translate turkish sm1ms029_party_arj_d43c754f:
     # arj "I'm not. I'm thinking about it."
     arj "Geçmiyorum. Bunu düşünüyorum."
 
-# game/code/scenes/main_story/sm1ms029.rpy:1995
-translate turkish sm1ms029_party_arj_f3811e05:
-
-    # arj "I'll be your free use fuckdoll, relieving your stress, and then staring in a scene right after."
-    arj "Senin serbestçe kullanabileceğin seks bebeğin olacağım, stresini atacağım ve sonra hemen bir sahnede rol alacağım."
-
 # game/code/scenes/main_story/sm1ms029.rpy:1996
 translate turkish sm1ms029_party_arj_64eab9e9:
 
@@ -891,12 +885,6 @@ translate turkish sm1ms029_confrontation_bb0eeaf4:
 
     # mc "Thank you."
     mc "Teşekkür ederim."
-
-# game/code/scenes/main_story/sm1ms029.rpy:2191
-translate turkish sm1ms029_confrontation_37146546:
-
-    # et "But I doubt think it will be enough."
-    et "Ama yeterli olacağını sanmıyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2192
 translate turkish sm1ms029_confrontation_d88a0e25:

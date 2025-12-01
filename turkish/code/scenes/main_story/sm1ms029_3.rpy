@@ -700,12 +700,6 @@ translate turkish sm1ms029_party_sy_9a36bb7f:
     # sy "Eeeep!"
     sy "Eeeep!"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1620
-translate turkish sm1ms029_party_sy_8fd1c1b3:
-
-    # mc "Time for a little ground and pund."
-    mc "Biraz yerde dövme zamanı."
-
 # game/code/scenes/main_story/sm1ms029.rpy:1622
 translate turkish sm1ms029_party_sy_6c09de90:
 

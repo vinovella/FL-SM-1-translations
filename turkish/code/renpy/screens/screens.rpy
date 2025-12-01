@@ -461,8 +461,8 @@
     new "DÜZELTME KATKIDA BULUNANLAR"
 
     # game/code/renpy/screens/screens.rpy:1065
-    old "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
-    new "Düzeltmenimize özel teşekkürler : .grubb (Discord: grubbjunker)"
+    old "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
+    new "Düzeltmenimize özel teşekkürler : GrubbJunk (Discord: grubbjunker)"
 
     # game/code/renpy/screens/screens.rpy:1069
     old "ICON CREDITS"

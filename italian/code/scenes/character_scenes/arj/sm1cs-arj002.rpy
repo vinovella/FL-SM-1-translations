@@ -1762,12 +1762,6 @@ translate italian sm1cs_arj002_c91b6000:
     # mct "Me and {b}my{/b} girls."
     mct "Io e le {b}mie{/b} ragazze."
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:916
-translate italian sm1cs_arj002_43cb6eb3:
-
-    # mct "{font=DejaVuSans.ttf}𝅘𝅥𝅮{/font} Reunited and it feels so good. 𝅘𝅥𝅮"
-    mct "{font=DejaVuSans.ttf}𝅘𝅥𝅮{/font} Reunited and it feels so good. 𝅘𝅥𝅮"
-
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:919
 translate italian sm1cs_arj002_206a90b7:
 
@@ -2029,4 +2023,10 @@ translate italian strings:
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:459
     old "The jig is up, my sweet red flower"
     new "Il gioco è finito, mio dolce fiore rosso"
+
+# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:963
+translate italian sm1cs_arj002_e937025f:
+
+    # mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
+    mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
 

@@ -718,12 +718,6 @@ translate chinese sm1ms029_party_sy_9a36bb7f:
     # sy "Eeeep!"
     sy "啊啊啊！"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1620
-translate chinese sm1ms029_party_sy_8fd1c1b3:
-
-    # mc "Time for a little ground and pund."
-    mc "是时候来点地面冲撞了。"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1622
 translate chinese sm1ms029_party_sy_6c09de90:
 

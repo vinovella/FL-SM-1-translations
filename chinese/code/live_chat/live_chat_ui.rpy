@@ -68,3 +68,23 @@
     old "Hide"
     new "隐藏"
 
+    # game/code/live_chat/live_chat_ui.rpy:116
+    old "Live Chat requires Patreon authentication, please authenticate first to continue."
+    new "实时聊天需要Patreon身份验证，请先进行身份验证以继续。"
+
+    # game/code/live_chat/live_chat_ui.rpy:120
+    old "Authenticate"
+    new "身份验证"
+
+    # game/code/live_chat/live_chat_ui.rpy:215
+    old "Delete this conversation?"
+    new "删除此对话？"
+
+    # game/code/live_chat/live_chat_ui.rpy:216
+    old "This will permanently delete your local chat history and reset the context on our servers. You can’t undo this."
+    new "这将永久删除您的本地聊天记录并重置我们服务器上的上下文。您无法撤消此操作。"
+
+    # game/code/live_chat/live_chat_ui.rpy:219
+    old "Delete chat"
+    new "删除聊天"
+

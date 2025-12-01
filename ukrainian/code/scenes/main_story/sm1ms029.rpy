@@ -1456,41 +1456,11 @@ translate ukrainian sm1ms029_talk_tl_mes_7545b72e:
     # mct "I don't need to be ripped to shreds a second time..."
     mct "I don't need to be ripped to shreds a second time..."
 
-# game/code/scenes/main_story/sm1ms029.rpy:1100
-translate ukrainian sm1ms029_talk_mes_ns_3dc038a1:
-
-    # ns "{font=fonts/notosanskr-medium.ttf}그 사람 좆 진짜 멋지지 않아?{/font}"
-    ns "{font=fonts/notosanskr-medium.ttf}그 사람 좆 진짜 멋지지 않아?{/font}"
-
-# game/code/scenes/main_story/sm1ms029.rpy:1103
-translate ukrainian sm1ms029_talk_mes_ns_aa98a970:
-
-    # mes "{font=fonts/notosanskr-medium.ttf}아, 알겠어요.{/font}"
-    mes "{font=fonts/notosanskr-medium.ttf}아, 알겠어요.{/font}"
-
-# game/code/scenes/main_story/sm1ms029.rpy:1104
-translate ukrainian sm1ms029_talk_mes_ns_67698200:
-
-    # mes "{font=fonts/notosanskr-medium.ttf}저는 서울에 돌아왔을 때 그 꿈을 꾸었습니다.{/font}"
-    mes "{font=fonts/notosanskr-medium.ttf}저는 서울에 돌아왔을 때 그 꿈을 꾸었습니다.{/font}"
-
-# game/code/scenes/main_story/sm1ms029.rpy:1107
-translate ukrainian sm1ms029_talk_mes_ns_bd55fdb3:
-
-    # ns "{font=fonts/notosanskr-medium.ttf}그것에 대해 생각하는 것만으로도 흥분이 됩니다.{/font}"
-    ns "{font=fonts/notosanskr-medium.ttf}그것에 대해 생각하는 것만으로도 흥분이 됩니다.{/font}"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1110
 translate ukrainian sm1ms029_talk_mes_ns_ee6bc3d3:
 
     # mc "You two seem to be getting along well!"
     mc "You two seem to be getting along well!"
-
-# game/code/scenes/main_story/sm1ms029.rpy:1112
-translate ukrainian sm1ms029_talk_mes_ns_a072c855:
-
-    # ns "{font=fonts/notosanskr-medium.ttf}우리는, 미스터 원더풀 딕!{/font}"
-    ns "{font=fonts/notosanskr-medium.ttf}우리는, 미스터 원더풀 딕!{/font}"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1114
 translate ukrainian sm1ms029_talk_mes_ns_05500ff6:
@@ -1690,23 +1660,11 @@ translate ukrainian sm1ms029_talk_mes_ns_3bee4600:
     # ns "Oh, we will!"
     ns "Oh, we will!"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1195
-translate ukrainian sm1ms029_talk_mes_ns_4d2952fd:
-
-    # mes "{font=fonts/notosanskr-medium.ttf}맙소사, 당신은 정말 흥분한 사람이군요, 그렇죠?{/font}"
-    mes "{font=fonts/notosanskr-medium.ttf}맙소사, 당신은 정말 흥분한 사람이군요, 그렇죠?{/font}"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1196
 translate ukrainian sm1ms029_talk_mes_ns_1c408ac7:
 
     # ns "..."
     ns "..."
-
-# game/code/scenes/main_story/sm1ms029.rpy:1199
-translate ukrainian sm1ms029_talk_mes_ns_f79cb370:
-
-    # ns "{font=fonts/notosanskr-medium.ttf}아마도.{/font}"
-    ns "{font=fonts/notosanskr-medium.ttf}아마도.{/font}"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1214
 translate ukrainian sm1ms029_talk_tl_ns_8522c77b:
@@ -4114,12 +4072,6 @@ translate ukrainian sm1ms029_party_sy_9a36bb7f:
     # sy "Eeeep!"
     sy "Eeeep!"
 
-# game/code/scenes/main_story/sm1ms029.rpy:2480
-translate ukrainian sm1ms029_party_sy_8fd1c1b3:
-
-    # mc "Time for a little ground and pund."
-    mc "Time for a little ground and pund."
-
 # game/code/scenes/main_story/sm1ms029.rpy:2483
 translate ukrainian sm1ms029_party_sy_6c09de90:
 
@@ -5398,12 +5350,6 @@ translate ukrainian sm1ms029_party_arj_d43c754f:
     # arj "I'm not. I'm thinking about it."
     arj "I'm not. I'm thinking about it."
 
-# game/code/scenes/main_story/sm1ms029.rpy:3203
-translate ukrainian sm1ms029_party_arj_f3811e05:
-
-    # arj "I'll be your free use fuckdoll, relieving your stress, and then staring in a scene right after."
-    arj "I'll be your free use fuckdoll, relieving your stress, and then staring in a scene right after."
-
 # game/code/scenes/main_story/sm1ms029.rpy:3207
 translate ukrainian sm1ms029_party_arj_64eab9e9:
 
@@ -5991,12 +5937,6 @@ translate ukrainian sm1ms029_confrontation_bb0eeaf4:
 
     # mc "Thank you."
     mc "Thank you."
-
-# game/code/scenes/main_story/sm1ms029.rpy:3527
-translate ukrainian sm1ms029_confrontation_37146546:
-
-    # et "But I doubt think it will be enough."
-    et "But I doubt think it will be enough."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3528
 translate ukrainian sm1ms029_confrontation_d88a0e25:
@@ -6883,4 +6823,64 @@ translate ukrainian strings:
     # game/code/scenes/main_story/sm1ms029.rpy:3671
     old "Forget about him"
     new "Forget about him"
+
+# game/code/scenes/main_story/sm1ms029.rpy:1100
+translate ukrainian sm1ms029_talk_mes_ns_02795e35:
+
+    # ns "그 사람 좆 진짜 멋지지 않아?"
+    ns "그 사람 좆 진짜 멋지지 않아?"
+
+# game/code/scenes/main_story/sm1ms029.rpy:1103
+translate ukrainian sm1ms029_talk_mes_ns_d9f7eaef:
+
+    # mes "아, 알겠어요."
+    mes "아, 알겠어요."
+
+# game/code/scenes/main_story/sm1ms029.rpy:1104
+translate ukrainian sm1ms029_talk_mes_ns_836ebfc3:
+
+    # mes "저는 서울에 돌아왔을 때 그 꿈을 꾸었습니다."
+    mes "저는 서울에 돌아왔을 때 그 꿈을 꾸었습니다."
+
+# game/code/scenes/main_story/sm1ms029.rpy:1107
+translate ukrainian sm1ms029_talk_mes_ns_60c27c4b:
+
+    # ns "그것에 대해 생각하는 것만으로도 흥분이 됩니다."
+    ns "그것에 대해 생각하는 것만으로도 흥분이 됩니다."
+
+# game/code/scenes/main_story/sm1ms029.rpy:1112
+translate ukrainian sm1ms029_talk_mes_ns_f3852060:
+
+    # ns "우리는, 미스터 원더풀 딕!"
+    ns "우리는, 미스터 원더풀 딕!"
+
+# game/code/scenes/main_story/sm1ms029.rpy:1195
+translate ukrainian sm1ms029_talk_mes_ns_87618042:
+
+    # mes "맙소사, 당신은 정말 흥분한 사람이군요, 그렇죠?"
+    mes "맙소사, 당신은 정말 흥분한 사람이군요, 그렇죠?"
+
+# game/code/scenes/main_story/sm1ms029.rpy:1199
+translate ukrainian sm1ms029_talk_mes_ns_b89ca410:
+
+    # ns "아마도."
+    ns "아마도."
+
+# game/code/scenes/main_story/sm1ms029.rpy:2480
+translate ukrainian sm1ms029_party_sy_ebb69a71:
+
+    # mc "Time for a little ground and pound."
+    mc "Time for a little ground and pound."
+
+# game/code/scenes/main_story/sm1ms029.rpy:3203
+translate ukrainian sm1ms029_party_arj_3d299e51:
+
+    # arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
+    arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
+
+# game/code/scenes/main_story/sm1ms029.rpy:3527
+translate ukrainian sm1ms029_confrontation_c8157585:
+
+    # et "But I don't think it will be enough."
+    et "But I don't think it will be enough."
 

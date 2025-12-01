@@ -1450,41 +1450,11 @@ translate chinese sm1ms029_talk_tl_mes_7545b72e:
     # mct "I don't need to be ripped to shreds a second time..."
     mct "我不需要再被撕成碎片第二次..."
 
-# game/code/scenes/main_story/sm1ms029.rpy:702
-translate chinese sm1ms029_talk_mes_ns_3dc038a1:
-
-    # ns "{font=fonts/notosanskr-medium.ttf}그 사람 좆 진짜 멋지지 않아?{/font}"
-    ns "{font=fonts/notosanskr-medium.ttf}그 사람 좆 진짜 멋지지 않아?{/font}"
-
-# game/code/scenes/main_story/sm1ms029.rpy:704
-translate chinese sm1ms029_talk_mes_ns_aa98a970:
-
-    # mes "{font=fonts/notosanskr-medium.ttf}아, 알겠어요.{/font}"
-    mes "{font=fonts/notosanskr-medium.ttf}아, 알겠어요.{/font}"
-
-# game/code/scenes/main_story/sm1ms029.rpy:705
-translate chinese sm1ms029_talk_mes_ns_67698200:
-
-    # mes "{font=fonts/notosanskr-medium.ttf}저는 서울에 돌아왔을 때 그 꿈을 꾸었습니다.{/font}"
-    mes "{font=fonts/notosanskr-medium.ttf}저는 서울에 돌아왔을 때 그 꿈을 꾸었습니다.{/font}"
-
-# game/code/scenes/main_story/sm1ms029.rpy:708
-translate chinese sm1ms029_talk_mes_ns_bd55fdb3:
-
-    # ns "{font=fonts/notosanskr-medium.ttf}그것에 대해 생각하는 것만으로도 흥분이 됩니다.{/font}"
-    ns "{font=fonts/notosanskr-medium.ttf}그것에 대해 생각하는 것만으로도 흥분이 됩니다.{/font}"
-
 # game/code/scenes/main_story/sm1ms029.rpy:710
 translate chinese sm1ms029_talk_mes_ns_ee6bc3d3:
 
     # mc "You two seem to be getting along well!"
     mc "你们俩似乎相处得很好！"
-
-# game/code/scenes/main_story/sm1ms029.rpy:711
-translate chinese sm1ms029_talk_mes_ns_a072c855:
-
-    # ns "{font=fonts/notosanskr-medium.ttf}우리는, 미스터 원더풀 딕!{/font}"
-    ns "{font=fonts/notosanskr-medium.ttf}우리는, 미스터 원더풀 딕!{/font}"
 
 # game/code/scenes/main_story/sm1ms029.rpy:712
 translate chinese sm1ms029_talk_mes_ns_05500ff6:
@@ -1683,10 +1653,4 @@ translate chinese sm1ms029_talk_mes_ns_3bee4600:
 
     # ns "Oh, we will!"
     ns "哦，我们会的！"
-
-# game/code/scenes/main_story/sm1ms029.rpy:775
-translate chinese sm1ms029_talk_mes_ns_4d2952fd:
-
-    # mes "{font=fonts/notosanskr-medium.ttf}맙소사, 당신은 정말 흥분한 사람이군요, 그렇죠?{/font}"
-    mes "{font=fonts/notosanskr-medium.ttf}맙소사, 당신은 정말 흥분한 사람이군요, 그렇죠?{/font}"
 

@@ -1762,12 +1762,6 @@ translate chinese sm1cs_arj002_c91b6000:
     # mct "Me and {b}my{/b} girls."
     mct "我和{b}我的{/b}女孩们。"
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:916
-translate chinese sm1cs_arj002_43cb6eb3:
-
-    # mct "{font=DejaVuSans.ttf}𝅘𝅥𝅮{/font} Reunited and it feels so good. 𝅘𝅥𝅮"
-    mct "{font=DejaVuSans.ttf}𝅘𝅥𝅮{/font} Reunited and it feels so good. 𝅘𝅥𝅮"
-
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:919
 translate chinese sm1cs_arj002_206a90b7:
 
@@ -2029,4 +2023,10 @@ translate chinese strings:
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:459
     old "The jig is up, my sweet red flower"
     new "恐怕你露馅了，我甜美的红花"
+
+# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:963
+translate chinese sm1cs_arj002_e937025f:
+
+    # mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
+    mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
 

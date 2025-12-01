@@ -1762,12 +1762,6 @@ translate french sm1cs_arj002_c91b6000:
     # mct "Me and {b}my{/b} girls."
     mct "Moi et {b}mes{/b} filles."
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:916
-translate french sm1cs_arj002_43cb6eb3:
-
-    # mct "{font=DejaVuSans.ttf}𝅘𝅥𝅮{/font} Reunited and it feels so good. 𝅘𝅥𝅮"
-    mct "{font=DejaVuSans.ttf}𝅘𝅥𝅮{/font} Réunis et ça fait tellement du bien. 𝅘𝅥𝅮"
-
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:919
 translate french sm1cs_arj002_206a90b7:
 
@@ -2031,4 +2025,10 @@ translate french strings:
     new "Le jeu est terminé, ma douce fleur rouge"
 
 #Translate by BlackViper_
+
+# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:963
+translate french sm1cs_arj002_e937025f:
+
+    # mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
+    mct "𝅘𝅥𝅮 Reunited and it feels so good. 𝅘𝅥𝅮"
 

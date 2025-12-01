@@ -417,8 +417,8 @@
     new "校对鸣谢"
 
     # game/code/renpy/screens/screens.rpy:981
-    old "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
-    new "特别感谢我们的校对员 : .grubb (Discord: grubbjunker)"
+    old "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
+    new "特别感谢我们的校对员 : GrubbJunk (Discord: grubbjunker)"
 
     # game/code/renpy/screens/screens.rpy:984
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."

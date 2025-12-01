@@ -461,8 +461,8 @@ translate portuguese strings:
     new "CRÉDITOS DE REVISÃO"
 
     # game/code/renpy/screens/screens.rpy:1065
-    old "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
-    new "Agradecimentos especiais ao nosso revisor : grubbjunker (Discord: GrubbJunk)"
+    old "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
+    new "Agradecimentos especiais ao nosso revisor : GrubbJunk (Discord: grubbjunker)"
 
     # game/code/renpy/screens/screens.rpy:1069
     old "ICON CREDITS"
@@ -471,8 +471,6 @@ translate portuguese strings:
     # game/code/renpy/screens/screens.rpy:1070
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
     new "Os ícones do menu são derivados de {a=https://feathericons.com/}Feather{/a}, uma bela coleção de ícones feita por @colebemis e licenciada sob a {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}Licença MIT{/a}."
-
-translate portuguese strings:
 
     # game/code/renpy/screens/screens.rpy:444
     old "Saves For Season 2"

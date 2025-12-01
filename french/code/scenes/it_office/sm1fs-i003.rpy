@@ -1000,12 +1000,6 @@ translate french sm1fs_i003_end_88720f29:
     # ag "Then that's all! You can take off for the rest of the day."
     ag "Alors c’est tout ! Vous pouvez rentrer pour le reste de la journée."
 
-# game/code/scenes/it_office/sm1fs-i003.rpy:130
-translate french sm1fs_i003_884c26d7:
-
-    # ns "{font=fonts/notosanskr-medium.ttf}새로운 잘생긴 동료를 만나서 반가워요!{/font}"
-    ns "{font=fonts/notosanskr-medium.ttf}Ravi de rencontrer un nouveau collègue beau gosse !{/font}"
-
 translate french strings:
 
     # game/code/scenes/it_office/sm1fs-i003.rpy:5
@@ -1021,4 +1015,10 @@ translate french strings:
     new "Trois heures plus tard..."
 
 #Translate by BlackViper_
+
+# game/code/scenes/it_office/sm1fs-i003.rpy:130
+translate french sm1fs_i003_e75ea0e0:
+
+    # ns "새로운 잘생긴 동료를 만나서 반가워요!"
+    ns "새로운 잘생긴 동료를 만나서 반가워요!"
 

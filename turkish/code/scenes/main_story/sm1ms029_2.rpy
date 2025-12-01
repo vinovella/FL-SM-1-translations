@@ -1,8 +1,3 @@
-﻿# game/code/scenes/main_story/sm1ms029.rpy:778
-translate turkish sm1ms029_talk_mes_ns_f79cb370:
-
-    # ns "{font=fonts/notosanskr-medium.ttf}아마도.{/font}"
-    ns "{font=fonts/notosanskr-medium.ttf}아마도.{/font}"
 
 # game/code/scenes/main_story/sm1ms029.rpy:792
 translate turkish sm1ms029_talk_tl_ns_8522c77b:

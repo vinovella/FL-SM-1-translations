@@ -453,8 +453,8 @@
     new "KORREKTURLESER CREDITS"
 
     # game/code/renpy/screens/screens.rpy:1065
-    old "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
-    new "Besonderer Dank gilt unserem Korrekturleser : .grubb (Discord: grubbjunker)"
+    old "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
+    new "Besonderer Dank gilt unserem Korrekturleser : GrubbJunk (Discord: grubbjunker)"
 
     # game/code/renpy/screens/screens.rpy:1069
     old "ICON CREDITS"
@@ -463,8 +463,6 @@
     # game/code/renpy/screens/screens.rpy:1070
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
     new "Menüicons stammen aus {a=https://feathericons.com/}Feather{/a}, einer wunderschönen Sammlung von Icons, erstellt von @colebemis und lizenziert unter der {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
-
-translate deutsch strings:
 
     # game/code/renpy/screens/screens.rpy:444
     old "Saves For Season 2"

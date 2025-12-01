@@ -68,3 +68,25 @@
     old "Hide"
     new "Hide"
 
+translate portuguese strings:
+
+    # game/code/live_chat/live_chat_ui.rpy:116
+    old "Live Chat requires Patreon authentication, please authenticate first to continue."
+    new "Live Chat requires Patreon authentication, please authenticate first to continue."
+
+    # game/code/live_chat/live_chat_ui.rpy:120
+    old "Authenticate"
+    new "Authenticate"
+
+    # game/code/live_chat/live_chat_ui.rpy:215
+    old "Delete this conversation?"
+    new "Delete this conversation?"
+
+    # game/code/live_chat/live_chat_ui.rpy:216
+    old "This will permanently delete your local chat history and reset the context on our servers. You can’t undo this."
+    new "This will permanently delete your local chat history and reset the context on our servers. You can’t undo this."
+
+    # game/code/live_chat/live_chat_ui.rpy:219
+    old "Delete chat"
+    new "Delete chat"
+

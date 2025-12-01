@@ -40,12 +40,6 @@ translate chinese sm1ms029_talk_mes_ns_1c408ac7:
     # ns "..."
     ns "..."
 
-# game/code/scenes/main_story/sm1ms029.rpy:1146
-translate chinese sm1ms029_talk_mes_ns_f79cb370:
-
-    # ns "{font=fonts/notosanskr-medium.ttf}아마도.{/font}"
-    ns "{font=fonts/notosanskr-medium.ttf}아마도.{/font}"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1161
 translate chinese sm1ms029_talk_tl_ns_8522c77b:
 
@@ -843,4 +837,64 @@ translate chinese sm1ms029_party_part_1_60014851:
 
     # sy "Nnngghhhhh - H-Hana?"
     sy "嗯嗯嗯嗯——哈——哈娜？"
+
+# game/code/scenes/main_story/sm1ms029.rpy:1100
+translate chinese sm1ms029_talk_mes_ns_02795e35:
+
+    # ns "그 사람 좆 진짜 멋지지 않아?"
+    ns "그 사람 좆 진짜 멋지지 않아?"
+
+# game/code/scenes/main_story/sm1ms029.rpy:1103
+translate chinese sm1ms029_talk_mes_ns_d9f7eaef:
+
+    # mes "아, 알겠어요."
+    mes "아, 알겠어요."
+
+# game/code/scenes/main_story/sm1ms029.rpy:1104
+translate chinese sm1ms029_talk_mes_ns_836ebfc3:
+
+    # mes "저는 서울에 돌아왔을 때 그 꿈을 꾸었습니다."
+    mes "저는 서울에 돌아왔을 때 그 꿈을 꾸었습니다."
+
+# game/code/scenes/main_story/sm1ms029.rpy:1107
+translate chinese sm1ms029_talk_mes_ns_60c27c4b:
+
+    # ns "그것에 대해 생각하는 것만으로도 흥분이 됩니다."
+    ns "그것에 대해 생각하는 것만으로도 흥분이 됩니다."
+
+# game/code/scenes/main_story/sm1ms029.rpy:1112
+translate chinese sm1ms029_talk_mes_ns_f3852060:
+
+    # ns "우리는, 미스터 원더풀 딕!"
+    ns "우리는, 미스터 원더풀 딕!"
+
+# game/code/scenes/main_story/sm1ms029.rpy:1195
+translate chinese sm1ms029_talk_mes_ns_87618042:
+
+    # mes "맙소사, 당신은 정말 흥분한 사람이군요, 그렇죠?"
+    mes "맙소사, 당신은 정말 흥분한 사람이군요, 그렇죠?"
+
+# game/code/scenes/main_story/sm1ms029.rpy:1199
+translate chinese sm1ms029_talk_mes_ns_b89ca410:
+
+    # ns "아마도."
+    ns "아마도."
+
+# game/code/scenes/main_story/sm1ms029.rpy:2480
+translate chinese sm1ms029_party_sy_ebb69a71:
+
+    # mc "Time for a little ground and pound."
+    mc "Time for a little ground and pound."
+
+# game/code/scenes/main_story/sm1ms029.rpy:3203
+translate chinese sm1ms029_party_arj_3d299e51:
+
+    # arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
+    arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
+
+# game/code/scenes/main_story/sm1ms029.rpy:3527
+translate chinese sm1ms029_confrontation_c8157585:
+
+    # et "But I don't think it will be enough."
+    et "But I don't think it will be enough."
 

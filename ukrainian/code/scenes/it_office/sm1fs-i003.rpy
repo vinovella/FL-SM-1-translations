@@ -148,12 +148,6 @@ translate ukrainian sm1fs_i003_2792d5cd:
     # mc "It's nice to meet you Nari."
     mc "It's nice to meet you Nari."
 
-# game/code/scenes/it_office/sm1fs-i003.rpy:130
-translate ukrainian sm1fs_i003_884c26d7:
-
-    # ns "{font=fonts/notosanskr-medium.ttf}새로운 잘생긴 동료를 만나서 반가워요!{/font}"
-    ns "{font=fonts/notosanskr-medium.ttf}새로운 잘생긴 동료를 만나서 반가워요!{/font}"
-
 # game/code/scenes/it_office/sm1fs-i003.rpy:133
 translate ukrainian sm1fs_i003_b3ae8984:
 
@@ -1019,4 +1013,10 @@ translate ukrainian strings:
     # game/code/scenes/it_office/sm1fs-i003.rpy:256
     old "Three Hours Later..."
     new "Three Hours Later..."
+
+# game/code/scenes/it_office/sm1fs-i003.rpy:130
+translate ukrainian sm1fs_i003_e75ea0e0:
+
+    # ns "새로운 잘생긴 동료를 만나서 반가워요!"
+    ns "새로운 잘생긴 동료를 만나서 반가워요!"
 

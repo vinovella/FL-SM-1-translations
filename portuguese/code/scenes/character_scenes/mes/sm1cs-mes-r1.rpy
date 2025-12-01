@@ -1,8 +1,3 @@
-# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:13
-translate portuguese sm1cs_mes_r1_initiator_90e2eba7:
-
-    # mes "{font=fonts/notosanskr-medium.ttf}...이게 무슨 개소리야...{/font}"
-    mes "{font=fonts/notosanskr-medium.ttf}...이게 무슨 개소리야...{/font}"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:14
 translate portuguese sm1cs_mes_r1_initiator_dbaa5dfb:
@@ -1751,4 +1746,10 @@ translate portuguese sm1cs_mes_r1_end_3c9bdbc5:
 
     # mes "I'm glad I came back from Korea. This...us...{w} Being together."
     mes "I'm glad I came back from Korea. This...us...{w} Being together."
+
+# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:102
+translate portuguese sm1cs_mes_r1_initiator_0e8ab82c:
+
+    # mes "...이게 무슨 개소리야..."
+    mes "...이게 무슨 개소리야..."
 

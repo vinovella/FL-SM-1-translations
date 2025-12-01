@@ -328,12 +328,6 @@ translate chinese sm1ms029_party_arj_d43c754f:
     # arj "I'm not. I'm thinking about it."
     arj "我没有。我在认真考虑。"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1995
-translate chinese sm1ms029_party_arj_f3811e05:
-
-    # arj "I'll be your free use fuckdoll, relieving your stress, and then staring in a scene right after."
-    arj "我会成为你随意使用的性爱玩偶，缓解你的压力，然后马上出演一个场景。"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1996
 translate chinese sm1ms029_party_arj_64eab9e9:
 
@@ -915,12 +909,6 @@ translate chinese sm1ms029_confrontation_bb0eeaf4:
 
     # mc "Thank you."
     mc "谢谢。"
-
-# game/code/scenes/main_story/sm1ms029.rpy:2191
-translate chinese sm1ms029_confrontation_37146546:
-
-    # et "But I doubt think it will be enough."
-    et "但我怀疑这还不够。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2192
 translate chinese sm1ms029_confrontation_d88a0e25:

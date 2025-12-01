@@ -461,8 +461,8 @@ translate spanish strings:
     new "CRÉDITOS DE CORRECCIÓN"
 
     # game/code/renpy/screens/screens.rpy:1065
-    old "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
-    new "Agradecimientos especiales a nuestro corrector: .grubb (Discord: grubbjunker)"
+    old "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
+    new "Agradecimientos especiales a nuestro corrector: : GrubbJunk (Discord: grubbjunker)"
 
     # game/code/renpy/screens/screens.rpy:1069
     old "ICON CREDITS"

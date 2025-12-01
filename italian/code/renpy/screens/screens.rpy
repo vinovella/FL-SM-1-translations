@@ -453,8 +453,8 @@
     new "CREDITI REVISIONE"
 
     # game/code/renpy/screens/screens.rpy:1065
-    old "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
-    new "Ringraziamenti speciali al nostro revisore : .grubb (Discord: grubbjunker)"
+    old "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
+    new "Ringraziamenti speciali al nostro revisore : GrubbJunk (Discord: grubbjunker)"
 
     # game/code/renpy/screens/screens.rpy:1069
     old "ICON CREDITS"

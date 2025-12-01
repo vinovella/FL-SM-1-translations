@@ -341,8 +341,8 @@
     new "PROOFREADING CREDITS"
 
     # game/code/renpy/screens/screens.rpy:1194
-    old "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
-    new "Special thanks to our proofreader : .grubb (Discord: grubbjunker)"
+    old "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
+    new "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
 
     # game/code/renpy/screens/screens.rpy:1256
     old "The dialogue history is empty."
