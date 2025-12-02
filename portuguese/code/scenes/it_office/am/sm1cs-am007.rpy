@@ -1406,7 +1406,7 @@ translate portuguese sm1cs_am007_one_hour_later_9a2b5140:
 translate portuguese sm1cs_am007_one_hour_later_b6d84516:
 
     # mc "Pepper and Mitch."
-    mc "Pepper and Mitch."
+    mc "Pepper e Mitch."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:786
 translate portuguese sm1cs_am007_one_hour_later_57610924:
