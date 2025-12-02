@@ -3608,47 +3608,47 @@ translate portuguese strings:
 translate portuguese sm1cs_mes006_6193ab1b:
 
     # mc "I love you, my naughty fuck-minx."
-    mc "I love you, my naughty fuck-minx."
+    mc "Eu te amo, sua safadinha."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:432
 translate portuguese sm1cs_mes006_e9cbaa26:
 
     # sy "Oh cool. A Medusa."
-    sy "Oh cool. A Medusa."
+    sy "Ah, legal. Uma Medusa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:441
 translate portuguese sm1cs_mes006_ea3b9fe6:
 
     # sy "I call the Medusa!"
-    sy "I call the Medusa!"
+    sy "Eu quero a Medusa!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:447
 translate portuguese sm1cs_mes006_b0ac8035:
 
     # sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
-    sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
+    sy "Regras uma ova.{w} A medusa é gostosa e é verde, que nem o meu cabelo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:669
 translate portuguese sm1cs_mes006_continue_dea9bd6d:
 
     # "[mcname] and Min" "*laughing*"
-    "[mcname] and Min" "*laughing*"
+    "[mcname] e Min" "*rindo*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:827
 translate portuguese sm1cs_mes006_continue_3e2044ca:
 
     # mes "But then wouldn't I just be trading my parents for you?"
-    mes "But then wouldn't I just be trading my parents for you?"
+    mes "Mas aí eu não estaria trocando meus pais por você?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:885
 translate portuguese sm1cs_mes006_continue_35dadad0:
 
     # mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
-    mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
+    mc "Mas parece que você não é contra a ideia de ficar aqui. Mesmo eu e a Stacy estando juntos."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1244
 translate portuguese sm1cs_mes006_continue_22b1ff20:
 
     # mes "I was hesitant... being around [mcname]."
-    mes "I was hesitant... being around [mcname]."
+    mes "Eu estava meio receosa... de ficar perto do [mcname]."
 
