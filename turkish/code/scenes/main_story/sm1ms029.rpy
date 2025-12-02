@@ -80,17 +80,17 @@ translate turkish sm1ms029_talk_mes_ns_b89ca410:
 translate turkish sm1ms029_party_sy_ebb69a71:
 
     # mc "Time for a little ground and pound."
-    mc "Time for a little ground and pound."
+    mc "Biraz dövüş zamanı."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3203
 translate turkish sm1ms029_party_arj_3d299e51:
 
     # arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
-    arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
+    arj "Bedava kullanım seks oyuncağın olacağım, stresini azaltacağım ve hemen ardından bir sahnede oynayacağım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3527
 translate turkish sm1ms029_confrontation_c8157585:
 
     # et "But I don't think it will be enough."
-    et "But I don't think it will be enough."
+    et "Ama yeterli olacağını düşünmüyorum."
 

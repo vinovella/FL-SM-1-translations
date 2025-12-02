@@ -122,7 +122,7 @@ translate turkish sm1ms029_party_arj_3f19b7c7:
 translate turkish sm1ms029_party_arj_a281a7be:
 
     # arj "Bauha-houah... yes..."
-    arj "Bauha-houah... yes..."
+    arj "Bauha-houah... evet..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1944
 translate turkish sm1ms029_party_arj_230a1b61:
@@ -440,13 +440,13 @@ translate turkish sm1ms029_party_arj_dd4a8689:
 translate turkish sm1ms029_party_arj_adf45718:
 
     # arj "*drained cooing*"
-    arj "*drained cooing*"
+    arj "*bitkin mırıldanma*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2038
 translate turkish sm1ms029_party_arj_4568a3c8:
 
     # "Crowd" "*clapping*"
-    "Crowd" "*clapping*"
+    "Kalabalık" "*alkışlıyor*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2040
 translate turkish sm1ms029_party_arj_ffbb976a:
@@ -476,7 +476,7 @@ translate turkish sm1ms029_party_arj_e7c9f9db:
 translate turkish sm1ms029_party_arj_9cfa5994:
 
     # arj "*soft mumbling*"
-    arj "*soft mumbling*"
+    arj "*hafif mırıldanma*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2054
 translate turkish sm1ms029_party_arj_45f4612b:

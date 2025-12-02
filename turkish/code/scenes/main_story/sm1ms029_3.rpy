@@ -74,7 +74,7 @@ translate turkish sm1ms029_part_1_my_appear_5d49a728:
 translate turkish sm1ms029_part_1_my_appear_39df4a78:
 
     # "*KNOCK, KNOCK*"
-    "*KNOCK, KNOCK*"
+    "*TIK, TIK*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1442
 translate turkish sm1ms029_part_1_my_appear_0c33f972:
@@ -422,13 +422,13 @@ translate turkish sm1ms029_part_1_my_appear_e91e8c0a:
 translate turkish sm1ms029_part_1_my_appear_c0ff99e1:
 
     # "Everyone" "Woot woot!"
-    "Everyone" "Woot woot!"
+    "Herkes" "Woot woot!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1545
 translate turkish sm1ms029_part_1_my_appear_5ce30a02:
 
     # kv "Hell yeah!"
-    kv "Hell yeah!"
+    kv "Cehennem evet!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1553
 translate turkish sm1ms029_party_sy_30b99243:
@@ -494,7 +494,7 @@ translate turkish sm1ms029_party_sy_723025d4:
 translate turkish sm1ms029_party_sy_37b38662:
 
     # sy "OH MY GOOOOD!"
-    sy "OH MY GOOOOD!"
+    sy "TANRIM!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1570
 translate turkish sm1ms029_party_sy_d2634a7d:
@@ -1112,7 +1112,7 @@ translate turkish sm1ms029_rival_enters_7d5f301c:
 translate turkish sm1ms029_rival_enters_d8f0561d:
 
     # "Lady" "Hello, Kanya. [mcname] said there was a party tonight."
-    "Lady" "Merhaba, Kanya. [mcname] bu gece parti olduğunu söyledi."
+    "Kadın" "Merhaba, Kanya. [mcname] bu gece parti olduğunu söyledi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1730
 translate turkish sm1ms029_rival_enters_53878096:
@@ -1142,13 +1142,13 @@ translate turkish sm1ms029_rival_enters_adb7344a:
 translate turkish sm1ms029_rival_enters_a0952905:
 
     # "Man" "Yes..."
-    "Man" "Evet..."
+    "Adam" "Evet..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1741
 translate turkish sm1ms029_rival_enters_fda5068c:
 
     # "Man" "Lucky me."
-    "Man" "Ne şanslıyım."
+    "Adam" "Ne şanslıyım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1743
 translate turkish sm1ms029_rival_enters_a1ee8d6f:
@@ -1166,7 +1166,7 @@ translate turkish sm1ms029_rival_enters_755984d1:
 translate turkish sm1ms029_rival_enters_ed66a87e:
 
     # "Man" "Oh goodie. Thank you, Kanya."
-    "Man" "Oh güzel. Teşekkür ederim, Kanya."
+    "Adam" "Oh güzel. Teşekkür ederim, Kanya."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1748
 translate turkish sm1ms029_rival_enters_9bfb7146:
@@ -1346,7 +1346,7 @@ translate turkish sm1ms029_party_sy_finale_ce48cb8c:
 translate turkish sm1ms029_party_sy_finale_d3a7b16b:
 
     # "Lady" "He's good."
-    "Lady" "İyi biri."
+    "Kadın" "İyi biri."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1805
 translate turkish sm1ms029_party_sy_finale_8bf12768:
@@ -1358,37 +1358,37 @@ translate turkish sm1ms029_party_sy_finale_8bf12768:
 translate turkish sm1ms029_party_sy_finale_799ac833:
 
     # "Lady" "He is, the stamina he must have-"
-    "Lady" "Öyle, sahip olduğu dayanıklılık-"
+    "Kadın" "Öyle, sahip olduğu dayanıklılık-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1808
 translate turkish sm1ms029_party_sy_finale_fd15032d:
 
     # "Man" "Shut up, I don't want to hear that."
-    "Man" "Kapa çeneni, bunu duymak istemiyorum."
+    "Adam" "Kapa çeneni, bunu duymak istemiyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1809
 translate turkish sm1ms029_party_sy_finale_04ccb60f:
 
     # "Lady" "It's important to know your enemies."
-    "Lady" "Düşmanlarını tanımak önemlidir."
+    "Kadın" "Düşmanlarını tanımak önemlidir."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1811
 translate turkish sm1ms029_party_sy_finale_b9fcfc6e:
 
     # "Man" "He is not even worthy of that label in my mind."
-    "Man" "Benim gözümde o bile bu etikete layık değil."
+    "Adam" "Benim gözümde o bile bu etikete layık değil."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1814
 translate turkish sm1ms029_party_sy_finale_717987d4:
 
     # "Man" "She has some talent though."
-    "Man" "Yine de onun biraz yeteneği var."
+    "Adam" "Yine de onun biraz yeteneği var."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1815
 translate turkish sm1ms029_party_sy_finale_c95514d6:
 
     # "Lady" "Yes, yes she does..."
-    "Lady" "Evet, evet var..."
+    "Kadın" "Evet, evet var..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1816
 translate turkish sm1ms029_party_sy_finale_8bf12768_1:
@@ -1400,13 +1400,13 @@ translate turkish sm1ms029_party_sy_finale_8bf12768_1:
 translate turkish sm1ms029_party_sy_finale_c54ad9c5:
 
     # "Lady" "Well, if they're not our enemies, what are they?"
-    "Lady" "Peki, eğer düşmanımız değillerse, nedir onlar?"
+    "Kadın" "Peki, eğer düşmanımız değillerse, nedir onlar?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1821
 translate turkish sm1ms029_party_sy_finale_c0c223fa:
 
     # "Man" "Bugs."
-    "Man" "Böcekler."
+    "Adam" "Böcekler."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1828
 translate turkish sm1ms029_party_arj_254336d8:

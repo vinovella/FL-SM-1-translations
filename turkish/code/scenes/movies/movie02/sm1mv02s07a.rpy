@@ -290,7 +290,7 @@ translate turkish sm1mv02s07a_85788dd1:
 translate turkish sm1mv02s07a_4d1ccd91:
 
     # mes "*giggles*"
-    mes "*giggles*"
+    mes "*kıkırdar*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:220
 translate turkish sm1mv02s07a_ce8d676c:

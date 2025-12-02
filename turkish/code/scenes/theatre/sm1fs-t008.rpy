@@ -740,7 +740,7 @@ translate turkish sm1fs_t008_later_29e5ae1c:
 translate turkish sm1fs_t008_later_e29cc3b7:
 
     # km "Yes."
-    km "Yes."
+    km "Evet."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:384
 translate turkish sm1fs_t008_later_cca1dd29:

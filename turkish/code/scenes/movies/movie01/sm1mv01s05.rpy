@@ -374,7 +374,7 @@ translate turkish sm1mv01s05_start_shoot_0ecfdd50:
 translate turkish sm1mv01s05_start_shoot_38e0cfe6:
 
     # mc "*pirate cackling*"
-    mc "*pirate cackling*"
+    mc "*korsan kahkahası*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:317
 translate turkish sm1mv01s05_start_shoot_930595f9:
@@ -554,7 +554,7 @@ translate turkish sm1mv01s05_start_shoot_a3681dd3:
 translate turkish sm1mv01s05_start_shoot_38e0cfe6_1:
 
     # mc "*pirate cackling*"
-    mc "*pirate cackling*"
+    mc "*korsan kahkahası*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:424
 translate turkish sm1mv01s05_start_shoot_dc4e6303:
@@ -1004,7 +1004,7 @@ translate turkish sm1mv01s05_start_shoot_422a6713:
 translate turkish sm1mv01s05_start_shoot_d125c2e2:
 
     # mc "*sensual groaning*"
-    mc "*sensual groaning*"
+    mc "*şehvetli inleme*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:712
 translate turkish sm1mv01s05_start_shoot_c05edca6:
@@ -1166,7 +1166,7 @@ translate turkish sm1mv01s05_start_shoot_6ad74559:
 translate turkish sm1mv01s05_start_shoot_5dbe1b4f:
 
     # tl "Captain-uaaah-ooouhaah!"
-    tl "Captain-uaaah-ooouhaah!"
+    tl "Kaptan-uaaah-ooouhaah!"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:795
 translate turkish sm1mv01s05_start_shoot_cf34c512:

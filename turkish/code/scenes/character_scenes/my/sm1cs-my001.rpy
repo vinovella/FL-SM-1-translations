@@ -1326,29 +1326,29 @@ translate turkish strings:
 translate turkish sm1cs_my001_94670bab:
 
     # my "Mmmmm, I'll take a glass of the house red."
-    my "Mmmmm, I'll take a glass of the house red."
+    my "Mmmmm, bir bardak ev şarabı alacağım."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:269
 translate turkish sm1cs_my001_ef92aff5:
 
     # my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
-    my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
+    my "Ama inşa etmeye başladığı bu küçük iş imparatorluğu çözülmeye başladı. Aşk hayatındaki sorunlar, yarım yamalak para kazanma fikirleri..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:272
 translate turkish sm1cs_my001_837a40da:
 
     # my "The models own personal lives becoming entwined with his work and the studio..."
-    my "The models own personal lives becoming entwined with his work and the studio..."
+    my "Modellerin kendi özel hayatları onun işi ve stüdyosuyla iç içe geçmeye başladı..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:299
 translate turkish sm1cs_my001_27ef328b:
 
     # "Waiter" "Both wonderful choices, sir."
-    "Waiter" "Both wonderful choices, sir."
+    "Garson" "İkisi de harika seçimler, efendim."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:346
 translate turkish sm1cs_my001_b4bd7f1c:
 
     # my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
-    my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
+    my "Kişiliği siliyorlar, böylece bir bavula sığdırabileceklerin her şeyle doldurabilirsin."
 

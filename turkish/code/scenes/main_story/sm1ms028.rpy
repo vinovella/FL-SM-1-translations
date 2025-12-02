@@ -116,7 +116,7 @@ translate turkish sm1ms028_bbc8bf75:
 translate turkish sm1ms028_42aa0c00:
 
     # mc "Fortune Blooms?"
-    mc "Fortune Blooms?"
+    mc "Fortune Blooms mı?"
 
 # game/code/scenes/main_story/sm1ms028.rpy:53
 translate turkish sm1ms028_a6c11f39:
@@ -338,7 +338,7 @@ translate turkish sm1ms028_location_change_99b8c33e:
 translate turkish sm1ms028_location_change_c127ec72:
 
     # dl "I love it."
-    dl "I love it."
+    dl "Bayıldım."
 
 # game/code/scenes/main_story/sm1ms028.rpy:166
 translate turkish sm1ms028_location_change_882800ea:
@@ -374,7 +374,7 @@ translate turkish sm1ms028_location_change_a18d4cd9:
 translate turkish sm1ms028_location_change_c127ec72_1:
 
     # dl "I love it."
-    dl "I love it."
+    dl "Bayıldım."
 
 # game/code/scenes/main_story/sm1ms028.rpy:178
 translate turkish sm1ms028_location_change_8d91c587:
@@ -1006,5 +1006,5 @@ translate turkish strings:
 translate turkish sm1ms028_location_change_f85f2d25:
 
     # mc "We will need to watch him very carefully if Lyssa says we can do business together."
-    mc "We will need to watch him very carefully if Lyssa says we can do business together."
+    mc "Lyssa birlikte iş yapabileceğimizi söylerse onu çok dikkatli izlememiz gerekecek."
 

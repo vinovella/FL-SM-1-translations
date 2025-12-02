@@ -92,7 +92,7 @@ translate turkish sm1cs_my005_23f941c8:
 translate turkish sm1cs_my005_later_4caeea85:
 
     # "*KNOCK, KNOCK, KNOCK*"
-    "*KNOCK, KNOCK, KNOCK*"
+    "*TIK, TIK, TIK*"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:62
 translate turkish sm1cs_my005_later_35fedb77:
@@ -500,7 +500,7 @@ translate turkish sm1cs_my005_half_movie_80ee10da:
 translate turkish sm1cs_my005_half_movie_24788808:
 
     # mc "Fiiiiine."
-    mc "Fiiiiine."
+    mc "Pekalaaaa."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:248
 translate turkish sm1cs_my005_half_movie_5db23aef:
@@ -560,7 +560,7 @@ translate turkish sm1cs_my005_half_movie_44240522:
 translate turkish sm1cs_my005_half_movie_16cfa384:
 
     # my "Mmmm... good..."
-    my "Mmmm... good..."
+    my "Mmmm... güzel..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:273
 translate turkish sm1cs_my005_half_movie_cda28b2a:
@@ -602,7 +602,7 @@ translate turkish sm1cs_my005_half_movie_af41823f:
 translate turkish sm1cs_my005_half_movie_8bc73477:
 
     # "TV" "I've loved you from the second I met you!"
-    "TV" "Seninle tanıştığım andan beri seni seviyorum!"
+    "Televizyon" "Seninle tanıştığım andan beri seni seviyorum!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:287
 translate turkish sm1cs_my005_half_movie_01f6e561:
@@ -620,7 +620,7 @@ translate turkish sm1cs_my005_half_movie_4459fa98:
 translate turkish sm1cs_my005_half_movie_93fd7b9b:
 
     # "TV" "Kiss me like you've never kissed me before."
-    "TV" "Beni daha önce hiç öpmediğin gibi öp."
+    "Televizyon" "Beni daha önce hiç öpmediğin gibi öp."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:292
 translate turkish sm1cs_my005_half_movie_450753ae:
@@ -638,7 +638,7 @@ translate turkish sm1cs_my005_half_movie_8ae2d869:
 translate turkish sm1cs_my005_half_movie_0bf35fa5:
 
     # "TV" "I need to feel you in me."
-    "TV" "Seni içimde hissetmem gerekiyor."
+    "Televizyon" "Seni içimde hissetmem gerekiyor."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:298
 translate turkish sm1cs_my005_half_movie_061faddc:
@@ -650,7 +650,7 @@ translate turkish sm1cs_my005_half_movie_061faddc:
 translate turkish sm1cs_my005_half_movie_fb3aa7c8:
 
     # "TV" "It would be my pleasure."
-    "TV" "Bu benim zevkim olur."
+    "Televizyon" "Bu benim zevkim olur."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:304
 translate turkish sm1cs_my005_half_movie_82e04c20:
@@ -662,7 +662,7 @@ translate turkish sm1cs_my005_half_movie_82e04c20:
 translate turkish sm1cs_my005_half_movie_d4d00c15:
 
     # "TV" "Take me! Take me as your lover, forever!"
-    "TV" "Al beni! Beni sonsuza dek sevgilin olarak al!"
+    "Televizyon" "Al beni! Beni sonsuza dek sevgilin olarak al!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:308
 translate turkish sm1cs_my005_half_movie_b401c8cf:
@@ -752,7 +752,7 @@ translate turkish sm1cs_my005_half_movie_c25aaa78:
 translate turkish sm1cs_my005_half_movie_be3c77cd:
 
     # "TV" "Oh, your cock fills me up perfectly! I love how it slams into my pussy so snugly!"
-    "TV" "Oh, aletin beni mükemmel dolduruyor! Amıma ne kadar sıkıca çarptığını seviyorum!"
+    "Televizyon" "Oh, aletin beni mükemmel dolduruyor! Amıma ne kadar sıkıca çarptığını seviyorum!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:341
 translate turkish sm1cs_my005_half_movie_2fe41ad3:
@@ -842,7 +842,7 @@ translate turkish sm1cs_my005_half_movie_7983d7e5:
 translate turkish sm1cs_my005_half_movie_66164468:
 
     # mct "Melony has a foot thing!"
-    mct "Melony has a foot thing!"
+    mct "Melony'nin ayak fetişi var!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:372
 translate turkish sm1cs_my005_half_movie_a3842e09:
@@ -890,7 +890,7 @@ translate turkish sm1cs_my005_half_movie_9b3e5d45:
 translate turkish sm1cs_my005_half_movie_4d17b2e6:
 
     # "TV" "Oh yes, fuck me! Your cock feels incredible, oh yessss!"
-    "TV" "Oh evet, sik beni! Aletin inanılmaz hissettiriyor, oh evetttt!"
+    "Televizyon" "Oh evet, sik beni! Aletin inanılmaz hissettiriyor, oh evetttt!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:387
 translate turkish sm1cs_my005_half_movie_44d90e34:
@@ -1318,11 +1318,11 @@ translate turkish sm1cs_my005_after_movie_eed91999:
 translate turkish sm1cs_my005_half_movie_14afb82a:
 
     # mct "Oh God, what the hell do I do now?"
-    mct "Oh God, what the hell do I do now?"
+    mct "Tanrım, şimdi ne lanet yapmalıyım?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:592
 translate turkish sm1cs_my005_after_movie_2431015a:
 
     # my "My days of couch crashing are far behind me."
-    my "My days of couch crashing are far behind me."
+    my "Koltukta uyuma günlerim çok geride kaldı."
 

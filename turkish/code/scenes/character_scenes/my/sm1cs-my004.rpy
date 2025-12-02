@@ -1666,89 +1666,89 @@ translate turkish sm1cs_my004_3de68331:
 translate turkish sm1cs_my004_15c0d188:
 
     # sy "Or, \"the way the top of the suit is cut really accentuates your breasts and makes them pop\"."
-    sy "Or, \"the way the top of the suit is cut really accentuates your breasts and makes them pop\"."
+    sy "Ya da, \"mayonun üst kısmının kesimi göğüslerini gerçekten ön plana çıkarıyor ve onları belirginleştiriyor\"."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:355
 translate turkish sm1cs_my004_c3ba184a:
 
     # mc "Uh...{w} The cut of the swimsuit is right for you, it draws attention to all the right parts..."
-    mc "Uh...{w} The cut of the swimsuit is right for you, it draws attention to all the right parts..."
+    mc "Şey...{w} Mayonun kesimi sana uygun, tüm doğru yerlere dikkat çekiyor..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:405
 translate turkish sm1cs_my004_56ed8d43:
 
     # sy "All right, [mcname]. For this one, you need to tell us how our swimsuits look when we move. Like, does it ride up, does it sit funny, that kind of thing."
-    sy "All right, [mcname]. For this one, you need to tell us how our swimsuits look when we move. Like, does it ride up, does it sit funny, that kind of thing."
+    sy "Peki, [mcname]. Bunun için, hareket ettiğimizde mayolarımızın nasıl göründüğünü söylemen gerekiyor. Mesela, yukarı kayıyor mu, garip mi duruyor, bu tür şeyler."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:649
 translate turkish sm1cs_my004_048402d9:
 
     # my "But I think another part is that... doing this...{w} will help me be more comfortable with what you do for work."
-    my "But I think another part is that... doing this...{w} will help me be more comfortable with what you do for work."
+    my "Ama sanırım bir diğer kısmı da... bunu yapmak...{w} senin işin için yaptıklarınla daha rahat olmama yardımcı olacak."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:656
 translate turkish sm1cs_my004_32624e7b:
 
     # my "And maybe I lost that side of me that got really excited about life. It just... slipped away."
-    my "And maybe I lost that side of me that got really excited about life. It just... slipped away."
+    my "Ve belki de hayattan gerçekten heyecan duyan yanımı kaybettim. Öylece... kayıp gitti."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:676
 translate turkish sm1cs_my004_4524d312:
 
     # my "But uh... don't get too distracted. I think there are a few more spots that need oil."
-    my "But uh... don't get too distracted. I think there are a few more spots that need oil."
+    my "Ama şey... çok dikkatini dağıtma. Sanırım yağ gerektiren birkaç yer daha var."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:684
 translate turkish sm1cs_my004_56ed8403:
 
     # mct "My god. Mom wants me to rub down her tits!"
-    mct "My god. Mom wants me to rub down her tits!"
+    mct "Tanrım. Annem göğüslerini ovmamı istiyor!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:685
 translate turkish sm1cs_my004_5c37fdf0:
 
     # mct "God, she is being so forward..."
-    mct "God, she is being so forward..."
+    mct "Tanrım, çok cesur davranıyor..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:687
 translate turkish sm1cs_my004_96b86827:
 
     # mct "My god. Melony wants me to rub down her tits!"
-    mct "My god. Melony wants me to rub down her tits!"
+    mct "Tanrım. Melony göğüslerini ovmamı istiyor!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:688
 translate turkish sm1cs_my004_6944a890:
 
     # mct "God, she is acting so forward..."
-    mct "God, she is acting so forward..."
+    mct "Tanrım, çok cesur davranıyor..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:740
 translate turkish sm1cs_my004_5481387b:
 
     # mct "Nope, not imagining it!"
-    mct "Nope, not imagining it!"
+    mct "Hayır, hayal etmiyorum!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:841
 translate turkish sm1cs_my004_17c43927:
 
     # mc "I mean, I think it's a lot to just surprise someone with a one on one swimsuit competition."
-    mc "I mean, I think it's a lot to just surprise someone with a one on one swimsuit competition."
+    mc "Yani, birini birebir mayo yarışmasıyla şaşırtmak biraz fazla sanırım."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:849
 translate turkish sm1cs_my004_941d9048:
 
     # mc "*annoyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
-    mc "*annoyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
+    mc "*sinirli ses* Halledebilirim, Stacy. Sadece sürece biraz güvenmen gerekiyor."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:896
 translate turkish sm1cs_my004_ebe34586:
 
     # mct "And then her moaning while I massaged her tits..."
-    mct "And then her moaning while I massaged her tits..."
+    mct "Ve sonra göğüslerini masaj yaparken inlemesi..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:903
 translate turkish sm1cs_my004_fadda722:
 
     # mct "I should probably give Mom a few days to calm down. That will give me some time to come up with a plan for what comes next."
-    mct "I should probably give Mom a few days to calm down. That will give me some time to come up with a plan for what comes next."
+    mct "Muhtemelen anneme sakinleşmesi için birkaç gün vermeliyim. Bu bana bundan sonrası için bir plan yapma zamanı verecek."
 
