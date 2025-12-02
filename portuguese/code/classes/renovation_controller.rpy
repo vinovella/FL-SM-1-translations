@@ -38,7 +38,7 @@ translate portuguese strings:
 
     # game/code/classes/renovation_controller.rpy:140
     old "Max"
-    new "Max"
+    new "Máx"
 
     # game/code/classes/renovation_controller.rpy:149
     old "Insufficient money"
