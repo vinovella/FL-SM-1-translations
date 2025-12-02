@@ -458,7 +458,7 @@ translate portuguese sm1cs_vs004_after_choice_b6c7e143:
 translate portuguese sm1cs_vs004_after_choice_993ac284:
 
     # vs "*nervous noises*"
-    vs "*nervous noises*"
+    vs "*barulhos nervosos*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:245
 translate portuguese sm1cs_vs004_after_choice_8b066857:
