@@ -374,7 +374,7 @@ translate portuguese sm1cs_kv004_6fa0d6dd:
 translate portuguese sm1cs_kv004_bda7dcbc:
 
     # "BDSM Model" "I'll see you around, [mcname]."
-    "BDSM Model" "A gente se vê, [mcname]."
+    "Modelo BDSM" "A gente se vê, [mcname]."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:225
 translate portuguese sm1cs_kv004_3fc9c984:
