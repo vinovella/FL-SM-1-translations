@@ -1742,7 +1742,7 @@ translate italian ns013_labels_section_e8301e81:
 translate italian ns013_labels_section_4d152809:
 
     # "Stacy and Nari" "*panting*"
-    "Stacy and Nari" "*ansimando*"
+    "Stacy e Nari" "*ansimando*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:891
 translate italian ns013_labels_section_628bf4a3:
@@ -1790,7 +1790,7 @@ translate italian ns013_labels_section_55b79db6:
 translate italian ns013_labels_section_1c81208e:
 
     # "Stacy and Nari" "*giggling*"
-    "Stacy and Nari" "*ridacchiando*"
+    "Stacy e Nari" "*ridacchiando*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:919
 translate italian ns013_labels_section_8e9ba5df:
@@ -2210,7 +2210,7 @@ translate italian ns013_labels_section_88a5f694:
 translate italian ns013_labels_section_50800ec3:
 
     # "[mcname] and Stacy" "*laughing*"
-    "[mcname] and Stacy" "*ridendo*"
+    "[mcname] e Stacy" "*ridendo*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1119
 translate italian ns013_labels_section_57d25b67:
@@ -2312,7 +2312,7 @@ translate italian ns013_labels_section_b820a812:
 translate italian ns013_labels_section_cd71789f:
 
     # ns "*giggles*"
-    ns "*giggles*"
+    ns "*ridacchia*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1157
 translate italian ns013_labels_section_9da26eaf:

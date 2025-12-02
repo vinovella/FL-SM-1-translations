@@ -440,7 +440,7 @@ translate italian sm1ms014_ff2403ce:
 translate italian sm1ms014_20b6bd56:
 
     # "Delivery Guy" "Where do you want this stuff?"
-    "Delivery Guy" "Dove volete questa roba?"
+    "Fattorino" "Dove volete questa roba?"
 
 # game/code/scenes/main_story/sm1ms014.rpy:224
 translate italian sm1ms014_f827c469:
@@ -452,7 +452,7 @@ translate italian sm1ms014_f827c469:
 translate italian sm1ms014_02d8c14f:
 
     # "Delivery Guy" "Okaaaay..."
-    "Delivery Guy" "Vaaabene..."
+    "Fattorino" "Vaaabene..."
 
 # game/code/scenes/main_story/sm1ms014.rpy:230
 translate italian sm1ms014_565ef331:

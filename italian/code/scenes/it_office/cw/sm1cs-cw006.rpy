@@ -1370,7 +1370,7 @@ translate italian sm1cs_cw006_eat_pussy_b3cf7828:
 translate italian sm1cs_cw006_eat_pussy_13149977:
 
     # cw "Oooohua... *soft gasping*... Huhaahh..."
-    cw "Oooohua... *soft gasping*... Huhaahh..."
+    cw "Oooohua... *respiro affannoso*... Huhaahh..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:700
 translate italian sm1cs_cw006_eat_pussy_6b0edf92:

@@ -200,13 +200,13 @@ translate italian sm1cs_ns007_resturant_0ce4ada8:
 translate italian sm1cs_ns007_resturant_976dbee8:
 
     # "Waiter" "*clears throat*"
-    "Waiter" "*si schiarisce la gola*"
+    "Cameriere" "*si schiarisce la gola*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:182
 translate italian sm1cs_ns007_resturant_6baff45d:
 
     # "Waiter" "Can I get you two some drinks?"
-    "Waiter" "Posso portarvi qualcosa da bere?"
+    "Cameriere" "Posso portarvi qualcosa da bere?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:185
 translate italian sm1cs_ns007_resturant_a995f686:
@@ -236,7 +236,7 @@ translate italian sm1cs_ns007_resturant_cae96378:
 translate italian sm1cs_ns007_resturant_8a969bcf:
 
     # "Waiter" "I'm sorry, miss. I don't think we have those."
-    "Waiter" "Mi dispiace, signorina. Non credo che le abbiamo."
+    "Cameriere" "Mi dispiace, signorina. Non credo che le abbiamo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:195
 translate italian sm1cs_ns007_resturant_711faeeb:
@@ -272,7 +272,7 @@ translate italian sm1cs_ns007_resturant_3f808327:
 translate italian sm1cs_ns007_resturant_5c4006c2:
 
     # "Waiter" "Hey, you and me both, sister."
-    "Waiter" "Ehi, siamo in due, sorella."
+    "Cameriere" "Ehi, siamo in due, sorella."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:211
 translate italian sm1cs_ns007_resturant_3c90d786:
@@ -284,7 +284,7 @@ translate italian sm1cs_ns007_resturant_3c90d786:
 translate italian sm1cs_ns007_resturant_85b40951:
 
     # "Waiter" "Excellent choice. I'll be right back."
-    "Waiter" "Ottima scelta. Torno subito."
+    "Cameriere" "Ottima scelta. Torno subito."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:217
 translate italian sm1cs_ns007_resturant_41d5e5f7:

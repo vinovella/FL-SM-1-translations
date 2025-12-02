@@ -1658,89 +1658,89 @@ translate italian strings:
 translate italian sm1cs_my004_15c0d188:
 
     # sy "Or, \"the way the top of the suit is cut really accentuates your breasts and makes them pop\"."
-    sy "Or, \"the way the top of the suit is cut really accentuates your breasts and makes them pop\"."
+    sy "Oppure, \"il modo in cui è tagliata la parte superiore del costume mette davvero in risalto il tuo seno e lo fa risaltare\"."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:355
 translate italian sm1cs_my004_c3ba184a:
 
     # mc "Uh...{w} The cut of the swimsuit is right for you, it draws attention to all the right parts..."
-    mc "Uh...{w} The cut of the swimsuit is right for you, it draws attention to all the right parts..."
+    mc "Ehm...{w} Il taglio del costume è giusto per te, attira l'attenzione su tutte le parti giuste..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:405
 translate italian sm1cs_my004_56ed8d43:
 
     # sy "All right, [mcname]. For this one, you need to tell us how our swimsuits look when we move. Like, does it ride up, does it sit funny, that kind of thing."
-    sy "All right, [mcname]. For this one, you need to tell us how our swimsuits look when we move. Like, does it ride up, does it sit funny, that kind of thing."
+    sy "Va bene, [mcname]. Per questo, devi dirci come appaiono i nostri costumi quando ci muoviamo. Tipo, si alza, sta strano, cose del genere."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:649
 translate italian sm1cs_my004_048402d9:
 
     # my "But I think another part is that... doing this...{w} will help me be more comfortable with what you do for work."
-    my "But I think another part is that... doing this...{w} will help me be more comfortable with what you do for work."
+    my "Ma penso che un'altra parte sia che... fare questo...{w} mi aiuterà a sentirmi più a mio agio con quello che fai per lavoro."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:656
 translate italian sm1cs_my004_32624e7b:
 
     # my "And maybe I lost that side of me that got really excited about life. It just... slipped away."
-    my "And maybe I lost that side of me that got really excited about life. It just... slipped away."
+    my "E forse ho perso quella parte di me che si entusiasmava davvero per la vita. È semplicemente... svanita."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:676
 translate italian sm1cs_my004_4524d312:
 
     # my "But uh... don't get too distracted. I think there are a few more spots that need oil."
-    my "But uh... don't get too distracted. I think there are a few more spots that need oil."
+    my "Ma ehm... non distrarti troppo. Penso che ci siano altri punti che hanno bisogno di olio."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:684
 translate italian sm1cs_my004_56ed8403:
 
     # mct "My god. Mom wants me to rub down her tits!"
-    mct "My god. Mom wants me to rub down her tits!"
+    mct "Mio dio. Mamma vuole che le massaggi le tette!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:685
 translate italian sm1cs_my004_5c37fdf0:
 
     # mct "God, she is being so forward..."
-    mct "God, she is being so forward..."
+    mct "Dio, si sta comportando in modo così diretto..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:687
 translate italian sm1cs_my004_96b86827:
 
     # mct "My god. Melony wants me to rub down her tits!"
-    mct "My god. Melony wants me to rub down her tits!"
+    mct "Mio dio. Melony vuole che le massaggi le tette!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:688
 translate italian sm1cs_my004_6944a890:
 
     # mct "God, she is acting so forward..."
-    mct "God, she is acting so forward..."
+    mct "Dio, si sta comportando in modo così diretto..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:740
 translate italian sm1cs_my004_5481387b:
 
     # mct "Nope, not imagining it!"
-    mct "Nope, not imagining it!"
+    mct "No, non me lo sto immaginando!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:841
 translate italian sm1cs_my004_17c43927:
 
     # mc "I mean, I think it's a lot to just surprise someone with a one on one swimsuit competition."
-    mc "I mean, I think it's a lot to just surprise someone with a one on one swimsuit competition."
+    mc "Voglio dire, penso che sia un po' tanto sorprendere qualcuno con una gara di costumi da bagno uno contro uno."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:849
 translate italian sm1cs_my004_941d9048:
 
     # mc "*annoyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
-    mc "*annoyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
+    mc "*rumore infastidito* Ce la faccio, Stacy. Devi solo avere un po' di fiducia nel processo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:896
 translate italian sm1cs_my004_ebe34586:
 
     # mct "And then her moaning while I massaged her tits..."
-    mct "And then her moaning while I massaged her tits..."
+    mct "E poi i suoi gemiti mentre le massaggiavo le tette..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:903
 translate italian sm1cs_my004_fadda722:
 
     # mct "I should probably give Mom a few days to calm down. That will give me some time to come up with a plan for what comes next."
-    mct "I should probably give Mom a few days to calm down. That will give me some time to come up with a plan for what comes next."
+    mct "Probabilmente dovrei dare a mamma qualche giorno per calmarsi. Questo mi darà un po' di tempo per pensare a un piano per quello che viene dopo."
 

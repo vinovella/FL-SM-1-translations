@@ -1306,5 +1306,5 @@ translate italian strings:
 translate italian sm1ms020_ef441d96:
 
     # my "Oh! You brought us to Guns and Rosette!"
-    my "Oh! You brought us to Guns and Rosette!"
+    my "Oh! Ci hai portato da Guns and Rosette!"
 

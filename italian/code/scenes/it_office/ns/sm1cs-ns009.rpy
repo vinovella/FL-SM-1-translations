@@ -596,7 +596,7 @@ translate italian sm1cs_ns009_sex_84d9991b:
 translate italian sm1cs_ns009_sex_eb1e9e47:
 
     # ns "*moans*"
-    ns "*moans*"
+    ns "*geme*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:329
 translate italian sm1cs_ns009_sex_e5491366:
@@ -662,7 +662,7 @@ translate italian sm1cs_ns009_sex_61cbca74:
 translate italian sm1cs_ns009_sex_e9570e8b:
 
     # ns "*panting* [mcname]."
-    ns "*panting* [mcname]."
+    ns "*ansimando* [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:384
 translate italian sm1cs_ns009_sex_menu_1a1daa4b:

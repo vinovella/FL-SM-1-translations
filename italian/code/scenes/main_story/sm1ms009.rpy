@@ -38,7 +38,7 @@ translate italian sm1ms009_8f3d580b:
 translate italian sm1ms009_d9018f3c:
 
     # "*KNOCK KNOCK*"
-    "*KNOCK KNOCK*"
+    "*TOC TOC*"
 
 # game/code/scenes/main_story/sm1ms009.rpy:127
 translate italian sm1ms009_9fc7d980:
