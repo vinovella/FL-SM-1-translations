@@ -1568,17 +1568,17 @@ translate french strings:
 translate french sm1cs_bg002_white_screen_12b3e2b8:
 
     # kv "You two make quite the pair, you know that? It might be a little bumpy, but you two have excellent on camera chemistry."
-    kv "You two make quite the pair, you know that? It might be a little bumpy, but you two have excellent on camera chemistry."
+    kv "Vous faites un sacré duo, vous savez ? C'est un peu chaotique, mais vous avez une super alchimie à l'écran."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:387
 translate french sm1cs_bg002_white_screen_cf9bf6a9:
 
     # kv "Suddenly have some ideas running around that brain of yours, [mcname]?"
-    kv "Suddenly have some ideas running around that brain of yours, [mcname]?"
+    kv "Tu as soudain des idées qui te trottent dans la tête, [mcname] ?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:684
 translate french sm1cs_bg002_continue_shoot_75643fbc:
 
     # mc "I'm cummmming!"
-    mc "I'm cummmming!"
+    mc "Je jouiiiiis !"
 

@@ -81,5 +81,5 @@ translate french sm1cs_dc004_404eabfc:
 translate french sm1cs_dc004_1172721c:
 
     # mc "But I wanted to ask you something. The other day, at the cafe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
-    mc "But I wanted to ask you something. The other day, at the cafe, you kind of ran off in a hurry. Is something wrong? Did I say something wrong?"
+    mc "Mais je voulais te demander quelque chose. L'autre jour, au café, tu es partie un peu précipitamment. Il y a un problème ? J'ai dit quelque chose qu'il ne fallait pas ?"
 

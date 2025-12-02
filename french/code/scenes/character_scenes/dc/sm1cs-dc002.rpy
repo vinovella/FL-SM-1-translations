@@ -526,5 +526,5 @@ translate french strings:
 translate french sm1cs_dc002_9cef6b0f:
 
     # mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
-    mct "I'm failing Rule Number One right now; cardio! God, maybe we should get a treadmill for the studio..."
+    mct "Je suis en train de foirer la Règle Numéro Un là ; le cardio ! Mon Dieu, on devrait peut-être acheter un tapis de course pour le studio..."
 

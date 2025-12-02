@@ -266,5 +266,5 @@
 
     # game/code/data/gallery/replay_gallery.rpy:1
     old "Practicing with Denise"
-    new "Practicing with Denise"
+    new "S'entraîner avec Denise"
 

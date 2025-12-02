@@ -8,7 +8,7 @@ translate french sm1cs_bg001_ba263eeb:
 translate french sm1cs_bg001_764cd629:
 
     # "BDSM Model" "Oh, shit - uhm, hey [mcname]. Uhhh, what's... Hi."
-    "BDSM Model" "Oh, merde... euh, salut [mcname]. Euhhh, qu’est-ce qui... salut."
+    "Modèle BDSM" "Oh, merde... euh, salut [mcname]. Euhhh, qu’est-ce qui... salut."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:30
 translate french sm1cs_bg001_dd35a703:
@@ -20,7 +20,7 @@ translate french sm1cs_bg001_dd35a703:
 translate french sm1cs_bg001_03c6db78:
 
     # "BDSM Model" "Oh yeah?? Why's that?"
-    "BDSM Model" "Ah ouais ?? Pourquoi ça ?"
+    "Modèle BDSM" "Ah ouais ?? Pourquoi ça ?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:37
 translate french sm1cs_bg001_acbd2f1d:
@@ -32,7 +32,7 @@ translate french sm1cs_bg001_acbd2f1d:
 translate french sm1cs_bg001_cbaada12:
 
     # "BDSM Model" "Oh... Really?"
-    "BDSM Model" "Oh... vraiment ?"
+    "Modèle BDSM" "Oh... vraiment ?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:43
 translate french sm1cs_bg001_d86b865f:
@@ -266,7 +266,7 @@ translate french sm1cs_bg001_3f7d054e:
 translate french sm1cs_bg001_1aa9d36b:
 
     # bg "{i}Leather and Latex.{/i}"
-    bg "{i}Leather and Latex.{/i}"
+    bg "{i}Cuir et Latex.{/i}"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:161
 translate french sm1cs_bg001_99a6dbdf:
@@ -1106,11 +1106,11 @@ translate french strings:
 translate french sm1cs_bg001_01872126:
 
     # "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
-    "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
+    "Modèle BDSM" "Oh c'est... Bien vu. Euh, tu peux m'appeler...{w} Amore."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:167
 translate french sm1cs_bg001_f21ffe59:
 
     # bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
-    bg "Well, let's just say after a busy night, I went out and got my first outfit. I had been saving for... I don't know. Whatever life tells you to get. A mortgage, or a loan, or student debt payments."
+    bg "Disons qu'après une nuit bien remplie, je suis sortie m'acheter ma première tenue. J'économisais pour... je sais pas. Ce que la vie te dit d'acheter. Un crédit immo, un prêt, ou des remboursements de dette étudiante."
 

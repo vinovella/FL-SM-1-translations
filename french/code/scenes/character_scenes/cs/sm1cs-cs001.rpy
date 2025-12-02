@@ -202,5 +202,5 @@ translate french sm1cs_cs001_24cdc073:
 translate french sm1cs_cs001_0b11eff4:
 
     # mc "Yeah, yeah. I'll have a dark roast coffee and a..."
-    mc "Yeah, yeah. I'll have a dark roast coffee and a..."
+    mc "Ouais, ouais. Je vais prendre un café noir corsé et un..."
 

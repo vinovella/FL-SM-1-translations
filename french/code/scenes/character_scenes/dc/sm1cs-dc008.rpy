@@ -32,7 +32,7 @@ translate french sm1cs_dc008_2a2af33c:
 translate french sm1cs_dc008_f4a14c02:
 
     # "Waiter" "And I will make sure your date joins you as soon as he arrives."
-    "Waiter" "Et je m’assurerai que ton rendez-vous te rejoigne dès qu’il arrive."
+    "Serveur" "Et je m’assurerai que ton rendez-vous te rejoigne dès qu’il arrive."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:25
 translate french sm1cs_dc008_2ac081b1:
@@ -158,7 +158,7 @@ translate french sm1cs_dc008_5ced8d29:
 translate french sm1cs_dc008_c772b2ac:
 
     # "Waiter" "Good evening. Would either of you like to begin your meal with a glass of wine?"
-    "Waiter" "Bonsoir. Est-ce que l’un de vous voudrait commencer le repas avec un verre de vin ?"
+    "Serveur" "Bonsoir. Est-ce que l’un de vous voudrait commencer le repas avec un verre de vin ?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:97
 translate french sm1cs_dc008_54da2d69:
@@ -176,7 +176,7 @@ translate french sm1cs_dc008_2ac081b1:
 translate french sm1cs_dc008_7b35456f:
 
     # "Waiter" "Of course. And for you, sir?"
-    "Waiter" "Bien sûr. Et pour vous, monsieur ?"
+    "Serveur" "Bien sûr. Et pour vous, monsieur ?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:103
 translate french sm1cs_dc008_afff03ad:
@@ -188,7 +188,7 @@ translate french sm1cs_dc008_afff03ad:
 translate french sm1cs_dc008_44354fc3:
 
     # "Waiter" "Excellent choices. I will have that right out."
-    "Waiter" "Excellents choix. Je vous apporte ça tout de suite."
+    "Serveur" "Excellents choix. Je vous apporte ça tout de suite."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:108
 translate french sm1cs_dc008_06ea2fde:
@@ -242,7 +242,7 @@ translate french sm1cs_dc008_653f936a:
 translate french sm1cs_dc008_b80b7e5f:
 
     # "Waiter" "Your wine."
-    "Waiter" "Votre vin."
+    "Serveur" "Votre vin."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:132
 translate french sm1cs_dc008_0531688b:
@@ -254,7 +254,7 @@ translate french sm1cs_dc008_0531688b:
 translate french sm1cs_dc008_5814b5ec:
 
     # "Waiter" "Of course. Do you two still need a moment with the menu? Or are you ready to order?"
-    "Waiter" "Bien sûr. Voulez-vous encore un moment pour regarder la carte ? Ou êtes-vous prêts à commander ?"
+    "Serveur" "Bien sûr. Voulez-vous encore un moment pour regarder la carte ? Ou êtes-vous prêts à commander ?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:138
 translate french sm1cs_dc008_ddb7485f:
@@ -266,7 +266,7 @@ translate french sm1cs_dc008_ddb7485f:
 translate french sm1cs_dc008_4290e358:
 
     # "Waiter" "Of course, sir."
-    "Waiter" "Bien sûr, monsieur."
+    "Serveur" "Bien sûr, monsieur."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:144
 translate french sm1cs_dc008_7c1ee514:
@@ -422,7 +422,7 @@ translate french sm1cs_dc008_8d314c9a:
 translate french sm1cs_dc008_11407d3d:
 
     # "Waiter" "Have you two had a chance to look over the menu?"
-    "Waiter" "Avez-vous eu le temps de regarder la carte ?"
+    "Serveur" "Avez-vous eu le temps de regarder la carte ?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:212
 translate french sm1cs_dc008_28fe45a4:
@@ -440,7 +440,7 @@ translate french sm1cs_dc008_9191e49c:
 translate french sm1cs_dc008_4290e358_1:
 
     # "Waiter" "Of course, sir."
-    "Waiter" "Bien sûr, monsieur."
+    "Serveur" "Bien sûr, monsieur."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:222
 translate french sm1cs_dc008_757c5cb4:
@@ -758,7 +758,7 @@ translate french sm1cs_dc008_17bde779:
 translate french sm1cs_dc008_9b879ebd:
 
     # "Waiter" "Your appetizer, sir?"
-    "Waiter" "Votre entrée, monsieur ?"
+    "Serveur" "Votre entrée, monsieur ?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:333
 translate french sm1cs_dc008_0d843cb3:
@@ -770,7 +770,7 @@ translate french sm1cs_dc008_0d843cb3:
 translate french sm1cs_dc008_4290e358_2:
 
     # "Waiter" "Of course, sir."
-    "Waiter" "Bien sûr, monsieur."
+    "Serveur" "Bien sûr, monsieur."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:342
 translate french sm1cs_dc008_bbe41178:
@@ -818,7 +818,7 @@ translate french sm1cs_dc008_e660675d:
 translate french sm1cs_dc008_70ee5c25:
 
     # "Waiter" "And here you are, sir."
-    "Waiter" "Et voilà, monsieur."
+    "Serveur" "Et voilà, monsieur."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:363
 translate french sm1cs_dc008_bb0eeaf4:
@@ -830,7 +830,7 @@ translate french sm1cs_dc008_bb0eeaf4:
 translate french sm1cs_dc008_e0323d9a:
 
     # "Waiter" "I hope you and your date enjoy the rest of your evening."
-    "Waiter" "J’espère que vous et votre compagne profiterez du reste de votre soirée."
+    "Serveur" "J’espère que vous et votre compagne profiterez du reste de votre soirée."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:370
 translate french sm1cs_dc008_e9721ff3:
@@ -1028,7 +1028,7 @@ translate french sm1cs_dc008_02776fbe:
 translate french sm1cs_dc008_3e0984ed:
 
     # "Waiter" "And I will make sure your date joins you as soon as he arrives."
-    "Waiter" "Et je m’assurerai que ton rendez-vous te rejoigne dès qu’il arrivera."
+    "Serveur" "Et je m’assurerai que ton rendez-vous te rejoigne dès qu’il arrivera."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:441
 translate french sm1cs_dc008_b12cc4d7:
@@ -1041,5 +1041,5 @@ translate french sm1cs_dc008_b12cc4d7:
 translate french sm1cs_dc008_a037dc10:
 
     # dc "Thanks, [mcname]. I like your outfit too."
-    dc "Thanks, [mcname]. I like your outfit too."
+    dc "Merci, [mcname]. J'aime bien ta tenue aussi."
 

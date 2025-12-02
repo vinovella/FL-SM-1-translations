@@ -1057,5 +1057,5 @@ translate french strings:
 translate french sm1cs_arj003_05e6e8bd:
 
     # arj "It feels like it's been forever since we jus hung out.{w} No drama.{w} No baggage."
-    arj "It feels like it's been forever since we jus hung out.{w} No drama.{w} No baggage."
+    arj "J'ai l'impression que ça fait une éternité qu'on a pas juste traîné ensemble.{w} Sans drama.{w} Sans prise de tête."
 
