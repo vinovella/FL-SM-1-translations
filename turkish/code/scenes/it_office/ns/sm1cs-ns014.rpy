@@ -1022,7 +1022,7 @@ translate turkish sm1cs_ns014_studio_817ddac0:
 translate turkish sm1cs_ns014_studio_81e2c81c:
 
     # sy "Fair enough."
-    ns "Yeterince adil."
+    sy "Yeterince adil."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:621
 translate turkish sm1cs_ns014_studio_79de7289:
