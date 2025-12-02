@@ -1226,7 +1226,7 @@ translate italian sm1mv02s10_sex_95838639:
 translate italian sm1mv02s10_sex_aa946a8f:
 
     # mh "*desperate moaning*"
-    mh "*desperate moaning*"
+    mh "*gemiti disperati*"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:867
 translate italian sm1mv02s10_sex_d2986c36:
@@ -1250,7 +1250,7 @@ translate italian sm1mv02s10_sex_e603ebff:
 translate italian sm1mv02s10_sex_7aa29cfc:
 
     # mh "Muaah-fraaaauh... I could even do it again..."
-    mh "Muaah-fraaaauh... I could even do it again..."
+    mh "Muaah-fraaaauh... Potrei anche rifarlo..."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:873
 translate italian sm1mv02s10_sex_02f28023:
@@ -1268,7 +1268,7 @@ translate italian sm1mv02s10_sex_eef67037:
 translate italian sm1mv02s10_sex_50e40433:
 
     # mh "*moaning wildly*"
-    mh "*moaning wildly*"
+    mh "*geme selvaggiamente*"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:891
 translate italian sm1mv02s10_sex_95e2f62b:
@@ -1298,7 +1298,7 @@ translate italian sm1mv02s10_sex_d0e1e1e3:
 translate italian sm1mv02s10_sex_e86977de:
 
     # mc "*panting*"
-    mc "*panting*"
+    mc "*ansimando*"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:913
 translate italian sm1mv02s10_sex_93746866:
@@ -1310,7 +1310,7 @@ translate italian sm1mv02s10_sex_93746866:
 translate italian sm1mv02s10_sex_3745c0b8:
 
     # mh "*gulps*"
-    mh "*gulps*"
+    mh "*deglutisce*"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:922
 translate italian sm1mv02s10_sex_c5592b84:
@@ -1328,7 +1328,7 @@ translate italian sm1mv02s10_sex_86d8dbd5:
 translate italian sm1mv02s10_sex_45bca86c:
 
     # mc "Ha-gaah... easy. You're mashing it."
-    mc "Ha-gaah... easy. You're mashing it."
+    mc "Ha-gaah... piano. Lo stai schiacciando."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:935
 translate italian sm1mv02s10_sex_3123749e:

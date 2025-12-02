@@ -470,7 +470,7 @@ translate italian sm1cs_tl005_fountain_fd394cc8:
 translate italian sm1cs_tl005_fountain_1b400966:
 
     # tl "What?"
-    tl "What?"
+    tl "Cosa?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:293
 translate italian sm1cs_tl005_fountain_4fe61dce:
@@ -554,7 +554,7 @@ translate italian sm1cs_tl005_fountain_13b09e8c:
 translate italian sm1cs_tl005_fountain_1b400966_1:
 
     # tl "What?"
-    tl "What?"
+    tl "Cosa?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:334
 translate italian sm1cs_tl005_fountain_1382bcdf:

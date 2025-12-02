@@ -446,7 +446,7 @@ translate italian sm1mv02s07b_c62c543c:
 translate italian sm1mv02s07b_a276a6dc:
 
     # mh "*giggles*"
-    mh "*giggles*"
+    mh "*ridacchia*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:273
 translate italian sm1mv02s07b_f0ad3bf5:
@@ -1526,7 +1526,7 @@ translate italian sm1mv02s07b_end_fec80edb:
 translate italian sm1mv02s07b_end_d7593448:
 
     # mct "Post-coital?"
-    mct "Post-coital?"
+    mct "Post-coitale?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:792
 translate italian sm1mv02s07b_end_acb8586d:

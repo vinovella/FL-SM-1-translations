@@ -1238,7 +1238,7 @@ translate italian sm1mv01s05_start_shoot_b3f15ec2:
 translate italian sm1mv01s05_start_shoot_136d6bc0:
 
     # mc "*shallow breathing*"
-    mc "*shallow breathing*"
+    mc "*respiro affannoso*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:846
 translate italian sm1mv01s05_start_shoot_0b082b6a:

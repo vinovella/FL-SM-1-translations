@@ -482,7 +482,7 @@ translate italian sm1fs_t001_85c2ac8a:
 translate italian sm1fs_t001_ce78b221:
 
     # "Scary Clown" "FUCKING OWWW!!!"
-    "Scary Clown" "CAZZO CHE MALE!!!"
+    "Pagliaccio Spaventoso" "CAZZO CHE MALE!!!"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:289
 translate italian sm1fs_t001_87890278:
@@ -494,7 +494,7 @@ translate italian sm1fs_t001_87890278:
 translate italian sm1fs_t001_af9a22c5:
 
     # "Scary Clown" "Do it again! I liked it!!!"
-    "Scary Clown" "Fallo di nuovo! Mi è piaciuto!!!"
+    "Pagliaccio Spaventoso" "Fallo di nuovo! Mi è piaciuto!!!"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:298
 translate italian sm1fs_t001_5b1ff97e:
@@ -524,7 +524,7 @@ translate italian sm1fs_t001_7b766756:
 translate italian sm1fs_t001_ebecd94b:
 
     # "Scary Clown" "Fuck me. {w}I've never seen THAT response before."
-    "Scary Clown" "Cazzo. {w}Non ho mai visto QUELLA reazione prima d'ora."
+    "Pagliaccio Spaventoso" "Cazzo. {w}Non ho mai visto QUELLA reazione prima d'ora."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:315
 translate italian sm1fs_t001_dd4b9619:
@@ -536,7 +536,7 @@ translate italian sm1fs_t001_dd4b9619:
 translate italian sm1fs_t001_7c8a16fe:
 
     # "Scary Clown" "I mean, I've made people pee themselves, but that was new."
-    "Scary Clown" "Voglio dire, ho fatto pisciare addosso alla gente, ma questa era nuova."
+    "Pagliaccio Spaventoso" "Voglio dire, ho fatto pisciare addosso alla gente, ma questa era nuova."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:321
 translate italian sm1fs_t001_6bfc74d9:
@@ -554,7 +554,7 @@ translate italian sm1fs_t001_e3755f82:
 translate italian sm1fs_t001_fbbd6b3f:
 
     # "Scary Clown" "You got what you paid for. Move along."
-    "Scary Clown" "Hai avuto quello per cui hai pagato. Vai avanti."
+    "Pagliaccio Spaventoso" "Hai avuto quello per cui hai pagato. Vai avanti."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:328
 translate italian sm1fs_t001_4a944e2a:
@@ -572,7 +572,7 @@ translate italian sm1fs_t001_850fcb18:
 translate italian sm1fs_t001_f8460994:
 
     # "Scary Clown" "That's it for this room. Move along to the next."
-    "Scary Clown" "È tutto per questa stanza. Passate alla prossima."
+    "Pagliaccio Spaventoso" "È tutto per questa stanza. Passate alla prossima."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:335
 translate italian sm1fs_t001_f12757a5:
@@ -590,7 +590,7 @@ translate italian sm1fs_t001_d1e4eeaa:
 translate italian sm1fs_t001_d0b1cb47:
 
     # "Scary Clown" "Of course I'm real. Would you mind taking your hand off my tit?"
-    "Scary Clown" "Certo che sono reale. Ti dispiacerebbe togliere la mano dalla mia tetta?"
+    "Pagliaccio Spaventoso" "Certo che sono reale. Ti dispiacerebbe togliere la mano dalla mia tetta?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:344
 translate italian sm1fs_t001_66b18449:
@@ -632,7 +632,7 @@ translate italian sm1fs_t001_0e6e8f4a:
 translate italian sm1fs_t001_7c2f1e49:
 
     # "Scary Clown" "Don't get me wrong, you two have been the most interesting guests I've had in quite a while."
-    "Scary Clown" "Non fraintendetemi, voi due siete stati gli ospiti più interessanti che ho avuto da un bel po'."
+    "Pagliaccio Spaventoso" "Non fraintendetemi, voi due siete stati gli ospiti più interessanti che ho avuto da un bel po'."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:361
 translate italian sm1fs_t001_af788747:
@@ -644,7 +644,7 @@ translate italian sm1fs_t001_af788747:
 translate italian sm1fs_t001_02a3aae3:
 
     # "Scary Clown" "But another group might be along at any time. And you've both been here a while."
-    "Scary Clown" "Ma potrebbe arrivare un altro gruppo da un momento all'altro. E voi siete qui già da un po'."
+    "Pagliaccio Spaventoso" "Ma potrebbe arrivare un altro gruppo da un momento all'altro. E voi siete qui già da un po'."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:366
 translate italian sm1fs_t001_1deb6c78:
@@ -656,7 +656,7 @@ translate italian sm1fs_t001_1deb6c78:
 translate italian sm1fs_t001_7010c7fb:
 
     # "Scary Clown" "Huh?{w} Why?"
-    "Scary Clown" "Huh?{w} Perché?"
+    "Pagliaccio Spaventoso" "Huh?{w} Perché?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:371
 translate italian sm1fs_t001_82eb8e19:
@@ -674,7 +674,7 @@ translate italian sm1fs_t001_7222bac4:
 translate italian sm1fs_t001_f0a9927d:
 
     # "Scary Clown" "Interesting...{w} Do you often jerk him off in front of strangers like this?"
-    "Scary Clown" "Interessante...{w} Gli fai spesso le seghe davanti a sconosciuti così?"
+    "Pagliaccio Spaventoso" "Interessante...{w} Gli fai spesso le seghe davanti a sconosciuti così?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:378
 translate italian sm1fs_t001_03ed6f44:

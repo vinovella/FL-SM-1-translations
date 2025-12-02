@@ -608,7 +608,7 @@ translate italian sm1cs_km005_dbd4fdbc:
 translate italian sm1cs_km005_06f8b886:
 
     # km "What?"
-    km "What?"
+    km "Cosa?"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:340
 translate italian sm1cs_km005_e39113e5:
@@ -1166,7 +1166,7 @@ translate italian sm1cs_km005_8c0d2e72_1:
 translate italian sm1cs_km005_06f8b886_1:
 
     # km "What?"
-    km "What?"
+    km "Cosa?"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:595
 translate italian sm1cs_km005_8fa6ce6d:

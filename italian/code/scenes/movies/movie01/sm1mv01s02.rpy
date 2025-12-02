@@ -1274,7 +1274,7 @@ translate italian sm1mv01s02_later_7a478400:
 translate italian sm1mv01s02_later_13597c08:
 
     # sy "*eager sucking*"
-    sy "*eager sucking*"
+    sy "*succhia avidamente*"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:647
 translate italian sm1mv01s02_later_d83ed11e:
@@ -1352,7 +1352,7 @@ translate italian sm1mv01s02_later_87acb237:
 translate italian sm1mv01s02_later_34e12491:
 
     # kv "*moans happily*"
-    kv "*moans happily*"
+    kv "*geme felice*"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:687
 translate italian sm1mv01s02_later_13d0470b:
@@ -1610,7 +1610,7 @@ translate italian sm1mv01s02_later_09003c12:
 translate italian sm1mv01s02_later_da1dfe01:
 
     # "Worker" "Excuse me."
-    "Worker" "Mi scusi."
+    "Commessa" "Mi scusi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:829
 translate italian sm1mv01s02_later_4b4789b7:
@@ -1622,19 +1622,19 @@ translate italian sm1mv01s02_later_4b4789b7:
 translate italian sm1mv01s02_later_ab76bff1:
 
     # "Worker" "I hope you enjoyed that. And the outfits. Because you are definitely purchasing every garment that you went in with."
-    "Worker" "Spero vi siate divertiti. E i costumi. Perché state decisamente comprando ogni capo con cui siete entrati."
+    "Commessa" "Spero vi siate divertiti. E i costumi. Perché state decisamente comprando ogni capo con cui siete entrati."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:835
 translate italian sm1mv01s02_later_01cd3e26:
 
     # "Worker" "And you'll also be buying anything else affected by your lapse of judgement."
-    "Worker" "E comprerete anche qualsiasi altra cosa danneggiata dalla vostra mancanza di giudizio."
+    "Commessa" "E comprerete anche qualsiasi altra cosa danneggiata dalla vostra mancanza di giudizio."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:836
 translate italian sm1mv01s02_later_c8546ee6:
 
     # "Worker" "I expect a little better of you, Kanya."
-    "Worker" "Mi aspettavo qualcosa di meglio da te, Kanya."
+    "Commessa" "Mi aspettavo qualcosa di meglio da te, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:839
 translate italian sm1mv01s02_later_6581fe71:
@@ -1652,7 +1652,7 @@ translate italian sm1mv01s02_later_b44d3c4b:
 translate italian sm1mv01s02_later_ef924068:
 
     # "Worker" "Well I suggest you save it for the privacy of your own home."
-    "Worker" "Beh, suggerisco di risparmiarlo per la privacy della vostra casa."
+    "Commessa" "Beh, suggerisco di risparmiarlo per la privacy della vostra casa."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:846
 translate italian sm1mv01s02_later_9ece5b20:
@@ -1670,31 +1670,31 @@ translate italian sm1mv01s02_later_bca09261:
 translate italian sm1mv01s02_later_bc0c4158:
 
     # "Worker" "I'll be waiting at the counter."
-    "Worker" "Vi aspetterò al banco."
+    "Commessa" "Vi aspetterò al banco."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:852
 translate italian sm1mv01s02_later_a5f29463:
 
     # "Worker" "And make sure you bring up everything."
-    "Worker" "E assicuratevi di portare su tutto."
+    "Commessa" "E assicuratevi di portare su tutto."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:856
 translate italian sm1mv01s02_later_3471c0ab:
 
     # "Worker" "Kanya was right."
-    "Worker" "Kanya aveva ragione."
+    "Commessa" "Kanya aveva ragione."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:857
 translate italian sm1mv01s02_later_fab98077:
 
     # "Worker" "We do have cameras."
-    "Worker" "Abbiamo telecamere."
+    "Commessa" "Abbiamo telecamere."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:858
 translate italian sm1mv01s02_later_764403cd:
 
     # "Worker" "This is a place of business. Not a live-action Fansly shoot."
-    "Worker" "Questo è un luogo di lavoro. Non un set dal vivo di Fansly."
+    "Commessa" "Questo è un luogo di lavoro. Non un set dal vivo di Fansly."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:864
 translate italian sm1mv01s02_later_9f7e8476:
@@ -1718,13 +1718,13 @@ translate italian sm1mv01s02_later_e3395250:
 translate italian sm1mv01s02_later_0a29db9f:
 
     # "Worker" "Good thinking, Kanya."
-    "Worker" "Buona idea, Kanya."
+    "Commessa" "Buona idea, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:878
 translate italian sm1mv01s02_later_b2cbc7b2:
 
     # "Worker" "And here is the total."
-    "Worker" "Ed ecco il totale."
+    "Commessa" "Ed ecco il totale."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:881
 translate italian sm1mv01s02_later_7765b292:
@@ -1742,7 +1742,7 @@ translate italian sm1mv01s02_later_164ecf31:
 translate italian sm1mv01s02_later_5c7b1ea3:
 
     # "Worker" "Nrnnn."
-    "Worker" "Nrnnn."
+    "Commessa" "Nrnnn."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:888
 translate italian sm1mv01s02_later_fa158adf:
@@ -1760,13 +1760,13 @@ translate italian sm1mv01s02_later_c23b85e7:
 translate italian sm1mv01s02_later_c00afa54:
 
     # "Worker" "Thank you for shopping with us."
-    "Worker" "Grazie per aver fatto acquisti con noi."
+    "Commessa" "Grazie per aver fatto acquisti con noi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:899
 translate italian sm1mv01s02_later_81bb874d:
 
     # "Worker" "Next time, please just try on the clothes at home."
-    "Worker" "La prossima volta, per favore provate i vestiti a casa."
+    "Commessa" "La prossima volta, per favore provate i vestiti a casa."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:901
 translate italian sm1mv01s02_later_a3480574:

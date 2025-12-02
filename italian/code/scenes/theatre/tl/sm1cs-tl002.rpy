@@ -8,7 +8,7 @@ translate italian sm1cs_tl002_25e8e476:
 translate italian sm1cs_tl002_88d10eca:
 
     # "Worker" "We just opened!"
-    "Worker" "Abbiamo appena aperto!"
+    "Commessa" "Abbiamo appena aperto!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:21
 translate italian sm1cs_tl002_f9fc7303:
@@ -20,7 +20,7 @@ translate italian sm1cs_tl002_f9fc7303:
 translate italian sm1cs_tl002_7963fdb5:
 
     # "Worker" "I'm sorry! I didn't mean to scare you!"
-    "Worker" "Mi dispiace! Non volevo spaventarti!"
+    "Commessa" "Mi dispiace! Non volevo spaventarti!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:26
 translate italian sm1cs_tl002_833a73e2:
@@ -62,7 +62,7 @@ translate italian sm1cs_tl002_4ee6c4bb:
 translate italian sm1cs_tl002_ba0cc9b1:
 
     # "Worker" "Let me know if you need anything!"
-    "Worker" "Fammi sapere se hai bisogno di qualcosa!"
+    "Commessa" "Fammi sapere se hai bisogno di qualcosa!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:49
 translate italian sm1cs_tl002_0910c569:
@@ -452,7 +452,7 @@ translate italian sm1cs_tl002_a8067dd9:
 translate italian sm1cs_tl002_882d9cf9:
 
     # "Worker" "We do! Would you like to try that outfit on?"
-    "Worker" "Sì! Vorresti provare quel vestito?"
+    "Commessa" "Sì! Vorresti provare quel vestito?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:207
 translate italian sm1cs_tl002_1088cde2:
@@ -464,7 +464,7 @@ translate italian sm1cs_tl002_1088cde2:
 translate italian sm1cs_tl002_1ed5ccc8:
 
     # "Worker" "Right this way."
-    "Worker" "Da questa parte."
+    "Commessa" "Da questa parte."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:216
 translate italian sm1cs_tl002_2fa0d64b:
@@ -638,7 +638,7 @@ translate italian sm1cs_tl002_worker_88ebbf02:
 translate italian sm1cs_tl002_worker_63882ad0:
 
     # "Worker" "Hey! You can't do that in here! At least, not until you've paid for the outfit!"
-    "Worker" "Ehi! Non puoi farlo qui! Almeno, non finché non hai pagato per il vestito!"
+    "Commessa" "Ehi! Non puoi farlo qui! Almeno, non finché non hai pagato per il vestito!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:311
 translate italian sm1cs_tl002_worker_9d2f0b59:
@@ -662,7 +662,7 @@ translate italian sm1cs_tl002_worker_ea29e112:
 translate italian sm1cs_tl002_worker_0bb41cea:
 
     # "Worker" "Okay, that's going to be $50."
-    "Worker" "Okay, saranno 50 $."
+    "Commessa" "Okay, saranno 50 $."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:324
 translate italian sm1cs_tl002_worker_9c5de379:
@@ -680,7 +680,7 @@ translate italian sm1cs_tl002_worker_c3f89c23:
 translate italian sm1cs_tl002_worker_b415620e:
 
     # "Worker" "Great! Let me get this wrapped up for you."
-    "Worker" "Ottimo! Lasciami incartare questo per te."
+    "Commessa" "Ottimo! Lasciami incartare questo per te."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:337
 translate italian sm1cs_tl002_worker_e8e463fe:
