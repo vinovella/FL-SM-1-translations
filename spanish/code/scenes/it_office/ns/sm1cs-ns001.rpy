@@ -586,7 +586,7 @@ translate spanish strings:
 translate spanish sm1cs_ns001_1c682e14:
 
     # ag "Of course. The office has its own cafeteria."
-    ag "Of course. The office has its own cafeteria."
+    ag "Por supuesto. La oficina tiene su propia cafetería."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:194
 translate spanish sm1cs_ns001_continue_e2b53835:

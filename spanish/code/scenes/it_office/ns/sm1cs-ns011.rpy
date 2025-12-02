@@ -1102,37 +1102,37 @@ translate spanish sm1cs_ns011_a266d0ee:
 translate spanish sm1cs_ns011_sy_interruption_d4978ed6:
 
     # mc "No no. You don't have to compete."
-    mc "No no. You don't have to compete."
+    mc "No, no. No tienes que competir."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:507
 translate spanish sm1cs_ns011_sy_interruption_1ce17e33:
 
     # mc "Stacy has never minded if I am with other girls while I am with her."
-    mc "Stacy has never minded if I am with other girls while I am with her."
+    mc "A Stacy nunca le ha importado si estoy con otras chicas mientras estoy con ella."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:508
 translate spanish sm1cs_ns011_sy_interruption_daadae9a:
 
     # mc "It actually turns her on a lot."
-    mc "It actually turns her on a lot."
+    mc "De hecho, la excita mucho."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:511
 translate spanish sm1cs_ns011_sy_interruption_04b26e96:
 
     # mc "I guess the question I should have asked you earlier is..."
-    mc "I guess the question I should have asked you earlier is..."
+    mc "Supongo que la pregunta que debería haberte hecho antes es..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:514
 translate spanish sm1cs_ns011_sy_interruption_c328f7ed:
 
     # ns "If I also believe that I could {b}share{/b} you."
-    ns "If I also believe that I could {b}share{/b} you."
+    ns "Si yo también creo que podría {b}compartirte{/b}."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:517
 translate spanish sm1cs_ns011_sy_interruption_cf1adef2:
 
     # mc "Yeah."
-    mc "Yeah."
+    mc "Sí."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:520
 translate spanish sm1cs_ns011_sy_interruption_1c408ac7:
@@ -1150,5 +1150,5 @@ translate spanish sm1cs_ns011_sy_interruption_6d796813:
 translate spanish sm1cs_ns011_sy_interruption_bb89f2a8:
 
     # mct "Was that a good noise or a bad noise?"
-    mct "Was that a good noise or a bad noise?"
+    mct "¿Fue eso un ruido bueno o un ruido malo?"
 

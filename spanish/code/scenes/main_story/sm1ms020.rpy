@@ -1306,5 +1306,5 @@ translate spanish sm1ms020_0046f9d0:
 translate spanish sm1ms020_ef441d96:
 
     # my "Oh! You brought us to Guns and Rosette!"
-    my "Oh! You brought us to Guns and Rosette!"
+    my "¡Oh! ¡Nos trajiste a Guns and Rosette!"
 

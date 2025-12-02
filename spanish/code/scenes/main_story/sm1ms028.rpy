@@ -2,7 +2,7 @@
 translate spanish sm1ms028_449e1cf6:
 
     # "BUZZ BUZZ"
-    "BUZZ BUZZ"
+    "BZZZ BZZZ"
 
 # game/code/scenes/main_story/sm1ms028.rpy:10
 translate spanish sm1ms028_4e85cb4d:
@@ -914,7 +914,7 @@ translate spanish sm1ms028_location_change_77975f23:
 translate spanish sm1ms028_location_change_4f38ddaf:
 
     # sy "*slurp*"
-    sy "*slurp*"
+    sy "*sluurp*"
 
 # game/code/scenes/main_story/sm1ms028.rpy:398
 translate spanish sm1ms028_location_change_5faf666d:
@@ -1000,11 +1000,11 @@ translate spanish sm1ms028_dress_change_d5624f26:
 translate spanish sm1ms028_location_change_f85f2d25:
 
     # mc "We will need to watch him very carefully if Lyssa says we can do business together."
-    mc "We will need to watch him very carefully if Lyssa says we can do business together."
+    mc "Tendremos que vigilarlo muy de cerca si Lyssa dice que podemos hacer negocios juntos."
 
 translate spanish strings:
 
     # game/code/scenes/main_story/sm1ms028.rpy:372
     old "You got $500 as your signup bonus from Porn Cave"
-    new "You got $500 as your signup bonus from Porn Cave"
+    new "Recibiste $500 como bono de inscripción de Porn Cave"
 

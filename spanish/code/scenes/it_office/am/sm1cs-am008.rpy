@@ -3183,5 +3183,5 @@ translate spanish strings:
 translate spanish sm1cs_am008_sex_b63b36bc:
 
     # mc "Thinking about what?"
-    mc "Thinking about what?"
+    mc "¿Pensando en qué?"
 

@@ -194,7 +194,7 @@ translate spanish sm1cs_ns013_4194afb2:
 translate spanish sm1cs_ns013_0792d9f7:
 
     # sy "Ahuha-good-ahah..."
-    sy "Ahuha-good-ahah..."
+    sy "Ahuha-bien-ahah..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:166
 translate spanish sm1cs_ns013_caacab03:
@@ -1802,7 +1802,7 @@ translate spanish ns013_labels_section_2454c390:
 translate spanish ns013_labels_section_b3eebab8:
 
     # ns "Oh no, [nsmcpetlabel]."
-    ns "Oh no, [nsmcpetlabel]."
+    ns "Oh, no, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:938
 translate spanish ns013_labels_section_fae7e98c:
@@ -2408,13 +2408,13 @@ translate spanish sm1cs_ns013_5ee8dc16:
 translate spanish sm1cs_ns013_2e1a03a5:
 
     # sy "That's okay, [mcname]."
-    sy "That's okay, [mcname]."
+    sy "Está bien, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:280
 translate spanish sm1cs_ns013_3ad2098e_1:
 
     # sy "I'm already pretty wet from playing with your cock."
-    sy "I'm already pretty wet from playing with your cock."
+    sy "Ya estoy bastante mojada de jugar con tu polla."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:309
 translate spanish sm1cs_ns013_9186400b:
