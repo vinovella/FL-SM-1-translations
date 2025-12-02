@@ -604,11 +604,11 @@ translate french sm1cs_dc_renovation_e5818002:
 translate french sm1cs_dc_renovation_1b6ec0ce:
 
     # mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
-    mc "Oh shit! I haven't offered you water or anything! You must have worked up a thirst."
+    mc "Oh merde ! Je ne t'ai même pas proposé de l'eau ou quoi que ce soit ! Tu dois avoir soif après tout ça."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:322
 translate french sm1cs_dc_renovation_6d9f72cb:
 
     # mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
-    mc "We've been here for a few hours, and you got so much done, {i}and{/i} you solved my problem too!"
+    mc "On est là depuis quelques heures, et tu as fait tellement de choses, {i}et{/i} tu as résolu mon problème aussi !"
 

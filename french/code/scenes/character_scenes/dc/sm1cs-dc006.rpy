@@ -745,8 +745,8 @@ translate french sm1cs_dc006_at_park_c680609a:
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:386
 translate french sm1cs_dc006_at_park_902b991c:
 
-    # "Creep" "Oink, oink, bacon!"
-    "Creep" "Oink, oink, bacon!"
+    # "Taré" "Oink, oink, bacon!"
+    "Taré" "Oink, oink, bacon!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:388
 translate french sm1cs_dc006_at_park_3de3da24:
@@ -782,7 +782,7 @@ translate french sm1cs_dc006_at_park_99878731:
 translate french sm1cs_dc006_at_park_c46906f4:
 
     # "Creep" "Not quite!"
-    "Creep" "Pas tout à fait !"
+    "Taré" "Pas tout à fait !"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:414
 translate french sm1cs_dc006_at_park_64491fce:
@@ -945,11 +945,11 @@ translate french strings:
 translate french sm1cs_dc006_993ec2ac:
 
     # dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
-    dc "I would be lying if I said I wasn't a little interested in what happened. If the cops won't talk about it... it must be juicy."
+    dc "Je mentirais si je disais que ça ne m'intéresse pas un peu ce qui s'est passé. Si les flics ne veulent pas en parler... ça doit être croustillant."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:141
 translate french sm1cs_dc006_a541102c:
 
     # dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
-    dc "They're pretty good. It's espresso and milk and some chocolate mix. I mean, yours is a white chocolate mix, and..."
+    dc "Ils sont plutôt bons. C'est de l'espresso avec du lait et un mélange au chocolat. Enfin, le tien c'est un mélange au chocolat blanc, et..."
 

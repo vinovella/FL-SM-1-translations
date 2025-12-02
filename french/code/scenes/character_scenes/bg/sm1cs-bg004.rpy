@@ -1570,5 +1570,5 @@ translate french sm1cs_bg004_anal_41c02abb:
 translate french sm1cs_bg004_anal_a58f65b7:
 
     # bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
-    bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
+    bg "J'AI BESOIN- FUUUUUH - S'IL TE PLAÎT, [bg_mcname!tu], J'AI BESOIN D'UNE PAUSE !"
 

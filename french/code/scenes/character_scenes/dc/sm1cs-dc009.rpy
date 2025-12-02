@@ -1606,85 +1606,85 @@ translate french sm1cs_dc009_2341bb60:
 translate french sm1cs_dc009_78d5a7ce:
 
     # mct "I can't help but think of a different wiener I'd love for her to be putting-"
-    mct "I can't help but think of a different wiener I'd love for her to be putting-"
+    mct "Je peux pas m'empêcher de penser à une autre saucisse que j'aimerais bien qu'elle mette-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:222
 translate french sm1cs_dc009_c2f0d634:
 
     # mc "No, everything is great.{w} But, I do have a confession to make..."
-    mc "No, everything is great.{w} But, I do have a confession to make..."
+    mc "Non, tout va bien.{w} Mais j'ai un aveu à te faire..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:272
 translate french sm1cs_dc009_6cf47e29:
 
     # dc "And I'd like to do that with you, [mcname]!"
-    dc "And I'd like to do that with you, [mcname]!"
+    dc "Et j'aimerais faire ça avec toi, [mcname] !"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:344
 translate french sm1cs_dc009_bb81e359:
 
     # dc "That is the most important rule about any and every gun."
-    dc "That is the most important rule about any and every gun."
+    dc "C'est la règle la plus importante concernant n'importe quelle arme."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:395
 translate french sm1cs_dc009_6827ff1e:
 
     # dc "All right, and lean a little forward, brace yourself a bit for the recoil..."
-    dc "All right, and lean a little forward, brace yourself a bit for the recoil..."
+    dc "Très bien, et penche-toi un peu en avant, prépare-toi un peu pour le recul..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:456
 translate french sm1cs_dc009_440ee9ae:
 
     # doc "Well hi there, little miss police officer!"
-    doc "Well hi there, little miss police officer!"
+    doc "Eh bien salut, petite mademoiselle agent de police !"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:468
 translate french sm1cs_dc009_101d86dd:
 
     # doc "Oh, that's not a surprise!"
-    doc "Oh, that's not a surprise!"
+    doc "Oh, ça ne me surprend pas !"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:480
 translate french sm1cs_dc009_e360942c:
 
     # doc "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
-    doc "Oh, look at the little bunny rabbit standing up for the park cop! So cute!"
+    doc "Oh, regardez le petit lapin qui défend la fliquette du parc ! Trop mignon !"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:488
 translate french sm1cs_dc009_fd79c6d2:
 
     # doc "What's you just call me?"
-    doc "What's you just call me?"
+    doc "Tu viens de m'appeler comment là ?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:497
 translate french sm1cs_dc009_79c0c6bc:
 
     # doc "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
-    doc "That's right! Cap was talking about making you ride a desk! Something about being too much of a pain in the ass."
+    doc "C'est ça ! Le chef parlait de te coller derrière un bureau ! Un truc comme quoi t'es trop chiante."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:512
 translate french sm1cs_dc009_9fae04d3:
 
     # doc "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
-    doc "Yeah, it's them big ol' saggy tits! Fucking flopping around every time she's got to chase down some fucking misdemeanor creep in the park!"
+    doc "Ouais, c'est à cause de ses gros nichons flasques ! Qui ballotent putain à chaque fois qu'elle doit courser un putain de délinquant dans le parc !"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:513
 translate french sm1cs_dc009_3524c2c1:
 
     # doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
-    doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
+    doc "Je vois ça d'ici ! Elle court et puis \"oh non, mon nichon vient de me frapper dans la figure ! Nooon !\"."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:518
 translate french sm1cs_dc009_a03bd0eb:
 
     # doc "Ohhh, my tits, ohhhhh!"
-    doc "Ohhh, my tits, ohhhhh!"
+    doc "Ohhh, mes nichons, ohhhhh !"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:526
 translate french sm1cs_dc009_21183386:
 
     # doc "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
-    doc "Yeah? And how she gonna' prove it? She going to beat us to death with those fucking funbags!?"
+    doc "Ouais ? Et comment elle va le prouver ? Elle va nous tabasser à mort avec ces putains de gros lolos ?!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:576
 translate french sm1cs_dc009_6f1555e8:
@@ -1696,17 +1696,17 @@ translate french sm1cs_dc009_6f1555e8:
 translate french sm1cs_dc009_8359aaa6:
 
     # doc "Bullshit! No way!"
-    doc "Bullshit! No way!"
+    doc "N'importe quoi ! Impossible !"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:639
 translate french sm1cs_dc009_337ab247:
 
     # doc "Shit... three 9s..."
-    doc "Shit... three 9s..."
+    doc "Merde... trois 9..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:670
 translate french sm1cs_dc009_fad668c9:
 
     # dc "I mean...{w} you want me as your girlfriend?"
-    dc "I mean...{w} you want me as your girlfriend?"
+    dc "Je veux dire...{w} tu me veux comme petite amie ?"
 
