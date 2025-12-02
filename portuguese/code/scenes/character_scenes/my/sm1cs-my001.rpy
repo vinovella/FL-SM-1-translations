@@ -1350,5 +1350,5 @@ translate portuguese sm1cs_my001_27ef328b:
 translate portuguese sm1cs_my001_b4bd7f1c:
 
     # my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
-    my "Eles apagam a personalidade para você preencher com o que couber na sua mala.""
+    my "Eles apagam a personalidade para você preencher com o que couber na sua mala."
 
