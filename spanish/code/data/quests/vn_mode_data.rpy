@@ -728,85 +728,85 @@ translate spanish strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk big business"
-    new "Talk big business"
+    new "Hablar de grandes negocios"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress AmRose's story"
-    new "Progress AmRose's story"
+    new "Avanzar la historia de AmRose"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Throw a party"
-    new "Throw a party"
+    new "Organizar una fiesta"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Start making the second movie"
-    new "Start making the second movie"
+    new "Empezar a hacer la segunda película"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Text AmRose for a meetup"
-    new "Text AmRose for a meetup"
+    new "Enviar mensaje a AmRose para quedar"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Answer AmRose's message"
-    new "Answer AmRose's message"
+    new "Responder el mensaje de AmRose"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Reminisce with AmRose"
-    new "Reminisce with AmRose"
+    new "Recordar viejos tiempos con AmRose"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk with Amore"
-    new "Talk with Amore"
+    new "Hablar con Amore"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Date with Debbie at the shooting range"
-    new "Date with Debbie at the shooting range"
+    new "Cita con Debbie en el campo de tiro"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Movie date with Debbie"
-    new "Movie date with Debbie"
+    new "Cita de película con Debbie"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Working it with Maya"
-    new "Working it with Maya"
+    new "Trabajando con Maya"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Some fun with Min"
-    new "Some fun with Min"
+    new "Algo de diversión con Min"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Contest with Melony and Stacy"
-    new "Contest with Melony and Stacy"
+    new "Concurso con Melony y Stacy"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "A night in Melony"
-    new "A night in Melony"
+    new "Una noche en Melony"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Answer April's message"
-    new "Answer April's message"
+    new "Responder el mensaje de Abril"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Dinner with April"
-    new "Dinner with April"
+    new "Cena con Abril"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Perform a hungry show"
-    new "Perform a hungry show"
+    new "Realizar un show hambriento"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about the play"
-    new "Talk about the play"
+    new "Hablar sobre la obra"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Text Taisia"
-    new "Text Taisia"
+    new "Enviar mensaje a Taisia"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Taisia wants to make breakfast"
-    new "Taisia wants to make breakfast"
+    new "Taisia quiere preparar el desayuno"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Nari is hungry in the morning"
-    new "Nari is hungry in the morning"
+    new "Nari tiene hambre por la mañana"
 

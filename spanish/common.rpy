@@ -774,7 +774,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:701
     old "Clipboard voicing enabled. "
-    new "Clipboard voicing enabled. "
+    new "Voz del portapapeles activada. "
 
     # renpy/common/00preferences.rpy:703
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
@@ -782,7 +782,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:705
     old "Self-voicing enabled. "
-    new "Self-voicing enabled. "
+    new "Voz automática activada. "
 
     # renpy/common/00speechbubble.rpy:416
     old "Speech Bubble Editor"

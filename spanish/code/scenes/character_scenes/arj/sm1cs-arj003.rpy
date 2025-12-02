@@ -1040,17 +1040,17 @@ translate spanish strings:
 
     # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:69
     old "It may be too late"
-    new "It may be too late"
+    new "Puede que sea demasiado tarde"
 
     # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:69
     old "Easier said than done"
-    new "Easier said than done"
+    new "Es más fácil decirlo que hacerlo"
 
     # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:188
     old "You told me you loved me"
-    new "You told me you loved me"
+    new "Me dijiste que me amabas"
 
     # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:188
     old "You became my sex slave"
-    new "You became my sex slave"
+    new "Te convertiste en mi esclava sexual"
 

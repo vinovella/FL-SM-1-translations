@@ -132,7 +132,7 @@ translate spanish strings:
 
     # game/code/data/characters/characters.rpy:3
     old "Walker"
-    new "Walker"
+    new "Paseadora"
 
     # game/code/data/characters/characters.rpy:3
     old "Driver"

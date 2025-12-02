@@ -56,5 +56,5 @@ translate spanish strings:
 
     # game/code/renpy/screens/others.rpy:173
     old "How do you want to name your Season 2 save?"
-    new "How do you want to name your Season 2 save?"
+    new "¿Cómo quieres nombrar tu guardado de la temporada 2?"
 

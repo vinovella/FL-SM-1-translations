@@ -1534,7 +1534,7 @@ translate spanish strings:
 translate spanish sm1cs_mas004_after_lunch_f378cc8e:
 
     # ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
-    ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
+    ms "Así que ya terminé de esperar a que algo bueno me pase. Voy a {i}hacer{/i} que algo bueno suceda."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:765
 translate spanish sm1cs_mas004_after_lunch_fdf6afe0:
