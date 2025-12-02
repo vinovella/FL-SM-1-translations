@@ -632,17 +632,17 @@ translate french strings:
 translate french sm1fs_i002_46800ea7:
 
     # mc "After I had it for a while I... Realized it could be made better."
-    mc "After I had it for a while I... Realized it could be made better."
+    mc "Après l'avoir eu un moment, j'ai... réalisé qu'il pouvait être amélioré."
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:280
 translate french sm1fs_i002_59b9bf49:
 
     # cw "After I've made my decision [gt.next_day_name!t] by 8:00 am I'll give you a call."
-    cw "After I've made my decision [gt.next_day_name!t] by 8:00 am I'll give you a call."
+    cw "Une fois ma décision prise [gt.next_day_name!t] à 8h00, je vous appellerai."
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:287
 translate french sm1fs_i002_334c54a0:
 
     # mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
-    mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
+    mc "J'attends votre appel avec impatience [gt.next_day_name!t] à 8h00 !"
 

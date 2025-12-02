@@ -1232,5 +1232,5 @@ translate french strings:
 translate french sm1cs_ns014_studio_34d49c4d:
 
     # ns "No fair. You're too sneaky. Stacy..."
-    ns "No fair. You're too sneaky. Stacy..."
+    ns "C'est pas juste. Tu es trop sournois. Stacy..."
 

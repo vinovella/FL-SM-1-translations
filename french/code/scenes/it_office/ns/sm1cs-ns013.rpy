@@ -1742,7 +1742,7 @@ translate french ns013_labels_section_e8301e81:
 translate french ns013_labels_section_4d152809:
 
     # "Stacy and Nari" "*panting*"
-    "Stacy and Nari" "*halètements*"
+    "Stacy et Nari" "*halètements*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:891
 translate french ns013_labels_section_628bf4a3:
@@ -1790,7 +1790,7 @@ translate french ns013_labels_section_55b79db6:
 translate french ns013_labels_section_1c81208e:
 
     # "Stacy and Nari" "*giggling*"
-    "Stacy and Nari" "*ricanements*"
+    "Stacy et Nari" "*ricanements*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:919
 translate french ns013_labels_section_8e9ba5df:
@@ -2409,29 +2409,29 @@ translate french strings:
 translate french ns013_labels_section_0887f6cc:
 
     # ns "I am a very bad [nspetlabel]."
-    ns "I am a very bad [nspetlabel]."
+    ns "Je suis une très mauvaise [nspetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:608
 translate french ns013_labels_section_3688c4d9:
 
     # ns "A little. I'm actually still-"
-    ns "A little. I'm actually still-"
+    ns "Un peu. En fait, je suis encore-"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:666
 translate french ns013_labels_section_713f1049:
 
     # ns "You're always so kind to me, [nsmcpetlabel]."
-    ns "You're always so kind to me, [nsmcpetlabel]."
+    ns "Tu es toujours si gentil avec moi, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:691
 translate french ns013_labels_section_791ab451:
 
     # mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
-    mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
+    mc "J'adore la sensation de ta chatte autour de moi. J'ai une si bonne [nspetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:702
 translate french ns013_labels_section_ab353c83:
 
     # ns "I can go... Mrrmmm... at just the right speed."
-    ns "I can go... Mrrmmm... at just the right speed."
+    ns "Je peux y aller... Mrrmmm... à la bonne vitesse."
 

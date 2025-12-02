@@ -740,7 +740,7 @@ translate french sm1ms028_location_change_28fca550:
 translate french sm1ms028_location_change_999a2f4d:
 
     # "Waitress" "Here you are."
-    "Waitress" "Voilà pour vous."
+    "Serveuse" "Voilà pour vous."
 
 # game/code/scenes/main_story/sm1ms028.rpy:315
 translate french sm1ms028_location_change_8b8c23d8:
@@ -764,7 +764,7 @@ translate french sm1ms028_location_change_43ae394a:
 translate french sm1ms028_location_change_c80598fe:
 
     # "Waitress" "Of course, Dickles. Anything else?"
-    "Waitress" "Bien sûr, Dickles. Autre chose ?"
+    "Serveuse" "Bien sûr, Dickles. Autre chose ?"
 
 # game/code/scenes/main_story/sm1ms028.rpy:323
 translate french sm1ms028_location_change_b899d511:
@@ -996,17 +996,17 @@ translate french strings:
 translate french sm1ms028_dress_change_d5624f26:
 
     # mc "Never mind, we dont have time to change."
-    mc "Never mind, we dont have time to change."
+    mc "Laisse tomber, on n'a pas le temps de se changer."
 
 translate french strings:
 
     # game/code/scenes/main_story/sm1ms028.rpy:372
     old "You got $500 as your signup bonus from Porn Cave"
-    new "You got $500 as your signup bonus from Porn Cave"
+    new "Tu as reçu 500 $ en prime d'inscription de Porn Cave"
 
 # game/code/scenes/main_story/sm1ms028.rpy:395
 translate french sm1ms028_location_change_f85f2d25:
 
     # mc "We will need to watch him very carefully if Lyssa says we can do business together."
-    mc "We will need to watch him very carefully if Lyssa says we can do business together."
+    mc "On devra le surveiller de très près si Lyssa dit qu'on peut faire affaire ensemble."
 

@@ -1313,5 +1313,5 @@ translate french strings:
 translate french sm1cs_am006_arcade_8441b9e9:
 
     # mct "Woah.{w} She's... she's really into this."
-    mct "Woah.{w} She's... she's really into this."
+    mct "Woah.{w} Elle... elle est vraiment à fond dedans."
 

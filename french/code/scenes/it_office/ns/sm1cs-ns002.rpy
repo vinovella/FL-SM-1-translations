@@ -815,11 +815,11 @@ translate french strings:
 translate french sm1cs_ns002_bc4ba015:
 
     # mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
-    mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+    mc "Calmons-nous un instant. Je vais t'aider à passer ça. On a tous... eu des envies dans des endroits bizarres."
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:426
 translate french sm1cs_ns002_94a1cd6a:
 
     # mct "No one is close. I hope."
-    mct "No one is close. I hope."
+    mct "Personne n'est proche. J'espère."
 

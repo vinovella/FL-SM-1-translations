@@ -236,7 +236,7 @@ translate french sm1cs_cw002_e0bf352d:
 translate french sm1cs_cw002_e0bf352d:
 
     # mc "Of course. I won't let you down, Ms. Watts."
-    mc "Of course. I won't let you down, Ms. Watts."
+    mc "Bien sûr. Je ne vous décevrai pas, Mme Watts."
 
 translate french strings:
 

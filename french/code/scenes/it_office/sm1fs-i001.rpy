@@ -608,23 +608,23 @@ translate french strings:
 translate french sm1fs_i001_af917135:
 
     # ag "Please have a seat."
-    ag "Please have a seat."
+    ag "Veuillez vous asseoir."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:93
 translate french sm1fs_i001_73236aa5:
 
     # ag "Hi, what can I help you with, April?"
-    ag "Hi, what can I help you with, April?"
+    ag "Salut, qu'est-ce que je peux faire pour toi, April ?"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:178
 translate french sm1fs_i001_fd7e7967:
 
     # mc "Uhhhh, mostly FPS games. Every once in a while I'll pull up-"
-    mc "Uhhhh, mostly FPS games. Every once in a while I'll pull up-"
+    mc "Euh, surtout des FPS. De temps en temps je lance-"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:336
 translate french sm1fs_i001_got_hired_718fe7f4:
 
     # ag "If you come tomorrow, [gt.next_day_name!t] at 8:00 am you should be able to meet with her."
-    ag "If you come tomorrow, [gt.next_day_name!t] at 8:00 am you should be able to meet with her."
+    ag "Si vous venez demain, [gt.next_day_name!t] à 8h00, vous devriez pouvoir la rencontrer."
 

@@ -356,7 +356,7 @@ translate french sm1cs_am004_ag_appears_d6a2cbf1:
 translate french sm1cs_am004_ag_appears_395d02a4:
 
     # "Crowd" "*cheering*"
-    "Crowd" "*acclamations*"
+    "Foule" "*acclamations*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:242
 translate french sm1cs_am004_ag_appears_d34041f6:
@@ -368,7 +368,7 @@ translate french sm1cs_am004_ag_appears_d34041f6:
 translate french sm1cs_am004_ag_appears_395d02a4_1:
 
     # "Crowd" "*cheering*"
-    "Crowd" "*acclamations*"
+    "Foule" "*acclamations*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:248
 translate french sm1cs_am004_ag_appears_0323f92f:
@@ -380,7 +380,7 @@ translate french sm1cs_am004_ag_appears_0323f92f:
 translate french sm1cs_am004_ag_appears_395d02a4_2:
 
     # "Crowd" "*cheering*"
-    "Crowd" "*acclamations*"
+    "Foule" "*acclamations*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:255
 translate french sm1cs_am004_ag_appears_01e66815:
@@ -392,7 +392,7 @@ translate french sm1cs_am004_ag_appears_01e66815:
 translate french sm1cs_am004_ag_appears_395d02a4_3:
 
     # "Crowd" "*cheering*"
-    "Crowd" "*acclamations*"
+    "Foule" "*acclamations*"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:272
 translate french sm1cs_am004_ag_appears_cebe9fd8:

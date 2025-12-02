@@ -789,11 +789,11 @@ translate french strings:
 translate french sm1cs_ag001_9e2758b7:
 
     # mct "This certainly deserves an Adults Only rating."
-    mct "This certainly deserves an Adults Only rating."
+    mct "Ça mérite clairement une classification réservée aux adultes."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:240
 translate french sm1cs_ag001_8601bed3:
 
     # mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
-    mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
+    mct "Vu ça, je pense qu'Anna aurait pu être intéressée par Fetish Locator s'il n'avait pas été fermé."
 

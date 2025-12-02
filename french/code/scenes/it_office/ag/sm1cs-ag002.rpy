@@ -110,7 +110,7 @@ translate french sm1cs_ag002_6ccdfd77:
 translate french sm1cs_ag002_9c29c361:
 
     # "Bartender" "Really? Shit..."
-    "Bartender" "Vraiment ? Merde..."
+    "Barman" "Vraiment ? Merde..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:95
 translate french sm1cs_ag002_e4e461af:
@@ -122,7 +122,7 @@ translate french sm1cs_ag002_e4e461af:
 translate french sm1cs_ag002_ba3581dc:
 
     # "Bartender" "Sorry about that..."
-    "Bartender" "Désolé pour ça..."
+    "Barman" "Désolé pour ça..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:104
 translate french sm1cs_ag002_69dce492:

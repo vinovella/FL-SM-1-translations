@@ -602,7 +602,7 @@ translate french sm1cs_my005_half_movie_af41823f:
 translate french sm1cs_my005_half_movie_8bc73477:
 
     # "TV" "I've loved you from the second I met you!"
-    "TV" "Je t’aime depuis la seconde où je t’ai vu !"
+    "Télé" "Je t’aime depuis la seconde où je t’ai vu !"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:287
 translate french sm1cs_my005_half_movie_01f6e561:
@@ -620,7 +620,7 @@ translate french sm1cs_my005_half_movie_4459fa98:
 translate french sm1cs_my005_half_movie_93fd7b9b:
 
     # "TV" "Kiss me like you've never kissed me before."
-    "TV" "Embrasse-moi comme tu ne m’as jamais embrassé."
+    "Télé" "Embrasse-moi comme tu ne m’as jamais embrassé."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:292
 translate french sm1cs_my005_half_movie_450753ae:
@@ -638,7 +638,7 @@ translate french sm1cs_my005_half_movie_8ae2d869:
 translate french sm1cs_my005_half_movie_0bf35fa5:
 
     # "TV" "I need to feel you in me."
-    "TV" "J'ai besoin de te sentir en moi."
+    "Télé" "J'ai besoin de te sentir en moi."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:298
 translate french sm1cs_my005_half_movie_061faddc:
@@ -650,7 +650,7 @@ translate french sm1cs_my005_half_movie_061faddc:
 translate french sm1cs_my005_half_movie_fb3aa7c8:
 
     # "TV" "It would be my pleasure."
-    "TV" "Ce serait avec plaisir."
+    "Télé" "Ce serait avec plaisir."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:304
 translate french sm1cs_my005_half_movie_82e04c20:
@@ -662,7 +662,7 @@ translate french sm1cs_my005_half_movie_82e04c20:
 translate french sm1cs_my005_half_movie_d4d00c15:
 
     # "TV" "Take me! Take me as your lover, forever!"
-    "TV" "Prends-moi ! Prends-moi comme ton amante, pour toujours !"
+    "Télé" "Prends-moi ! Prends-moi comme ton amante, pour toujours !"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:308
 translate french sm1cs_my005_half_movie_b401c8cf:
@@ -752,7 +752,7 @@ translate french sm1cs_my005_half_movie_c25aaa78:
 translate french sm1cs_my005_half_movie_be3c77cd:
 
     # "TV" "Oh, your cock fills me up perfectly! I love how it slams into my pussy so snugly!"
-    "TV" "Oh, ta bite me remplit parfaitement ! J'adore comme elle cogne dans ma chatte, bien serrée !"
+    "Télé" "Oh, ta bite me remplit parfaitement ! J'adore comme elle cogne dans ma chatte, bien serrée !"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:341
 translate french sm1cs_my005_half_movie_2fe41ad3:
@@ -890,7 +890,7 @@ translate french sm1cs_my005_half_movie_9b3e5d45:
 translate french sm1cs_my005_half_movie_4d17b2e6:
 
     # "TV" "Oh yes, fuck me! Your cock feels incredible, oh yessss!"
-    "TV" "Oh oui, baise-moi ! Ta bite est incroyable, oh ouiiiiii!"
+    "Télé" "Oh oui, baise-moi ! Ta bite est incroyable, oh ouiiiiii!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:387
 translate french sm1cs_my005_half_movie_44d90e34:
@@ -1256,7 +1256,7 @@ translate french sm1cs_my005_after_movie_4a7a48b3:
 translate french sm1cs_my005_after_movie_d450cdbc:
 
     # mct "She just walked out the door like nothing happened..."
-    mct "She just walked out the door like nothing happened..."
+    mct "Elle vient de sortir comme si de rien n'était..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:547
 translate french sm1cs_my005_after_movie_41bfe327:
@@ -1296,35 +1296,35 @@ translate french strings:
 translate french sm1cs_my005_half_movie_c72b9a46:
 
     # mct "What is... is Mom rubbing my dick with her foot?"
-    mct "What is... is Mom rubbing my dick with her foot?"
+    mct "Qu'est-ce que... c'est Maman qui me frotte la bite avec son pied ?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:591
 translate french sm1cs_my005_after_movie_52d70a1d:
 
     # my "I appreciate that, but when you get to be my age, you want a nice, big soft bed, with a down comforter."
-    my "I appreciate that, but when you get to be my age, you want a nice, big soft bed, with a down comforter."
+    my "J'apprécie, mais quand tu arrives à mon âge, tu veux un bon grand lit moelleux avec une couette en duvet."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:632
 translate french sm1cs_my005_after_movie_2d23f06a:
 
     # mct "I just made my mom cum from a foot massage, and then flirted with her like it was no big deal..."
-    mct "I just made my mom cum from a foot massage, and then flirted with her like it was no big deal..."
+    mct "Je viens de faire jouir ma mère avec un massage des pieds, et ensuite j'ai flirté avec elle comme si de rien n'était..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:634
 translate french sm1cs_my005_after_movie_eed91999:
 
     # mct "I just made Melony cum from a foot massage, and then flirted with her like it was no big deal..."
-    mct "I just made Melony cum from a foot massage, and then flirted with her like it was no big deal..."
+    mct "Je viens de faire jouir Melony avec un massage des pieds, et ensuite j'ai flirté avec elle comme si de rien n'était..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:395
 translate french sm1cs_my005_half_movie_14afb82a:
 
     # mct "Oh God, what the hell do I do now?"
-    mct "Oh God, what the hell do I do now?"
+    mct "Oh mon Dieu, qu'est-ce que je fais maintenant ?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:592
 translate french sm1cs_my005_after_movie_2431015a:
 
     # my "My days of couch crashing are far behind me."
-    my "My days of couch crashing are far behind me."
+    my "L'époque où je dormais sur des canapés est bien derrière moi."
 

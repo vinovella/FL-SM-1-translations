@@ -1152,5 +1152,5 @@ translate french strings:
 translate french sm1cs_ns011_a266d0ee:
 
     # ns "Sugar Daddies love to play with their Good Girls..."
-    ns "Sugar Daddies love to play with their Good Girls..."
+    ns "Les Sugar Daddies adorent jouer avec leurs Bonnes Filles..."
 

@@ -1363,5 +1363,5 @@ translate french strings:
 translate french sm1cs_ns009_f37a2921:
 
     # mc "And... I totally wasn't scared."
-    mc "And... I totally wasn't scared."
+    mc "Et... je n'avais absolument pas peur."
 

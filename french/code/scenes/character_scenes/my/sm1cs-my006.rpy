@@ -2234,7 +2234,7 @@ translate french sm1cs_my006_at_studio_ca090197:
 translate french sm1cs_my006_at_studio_2404c756:
 
     # sy "Fiiiiiiine."
-    sy "Fiiiiiiine."
+    sy "Trèèèèès bien."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:983
 translate french sm1cs_my006_at_studio_c3e315db:
@@ -2306,71 +2306,71 @@ translate french strings:
 translate french sm1cs_my006_hotel_room_edc09e20:
 
     # mct "Melony's ass is amazing... and her pussy, fucking wow."
-    mct "Melony's ass is amazing... and her pussy, fucking wow."
+    mct "Le cul de Melony est incroyable... et sa chatte, putain de wow."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:1022
 translate french sm1cs_my006_next_morning_02f10a8a:
 
     # my "It's fine, it's not like you have anyone who's going to miss you in bed."
-    my "It's fine, it's not like you have anyone who's going to miss you in bed."
+    my "C'est bon, c'est pas comme si quelqu'un allait te manquer au lit."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:217
 translate french sm1cs_my006_hotel_room_48510f06:
 
     # my "I will say though, my ranking from best to worst is Episode 5-4-6-3-1-2."
-    my "I will say though, my ranking from best to worst is Episode 5-4-6-3-1-2."
+    my "Par contre, mon classement du meilleur au pire est Épisode 5-4-6-3-1-2."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:247
 translate french sm1cs_my006_hotel_room_e268fe97:
 
     # my "I want to say 'thank you'. Thank you for treating me so well after how I acted when I first came to Crowning."
-    my "I want to say 'thank you'. Thank you for treating me so well after how I acted when I first came to Crowning."
+    my "Je veux te dire 'merci'. Merci de m'avoir si bien traitée après la façon dont j'ai agi quand je suis arrivée à Crowning."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:303
 translate french sm1cs_my006_hotel_room_adc7a6e5:
 
     # my "Leave it to me, [mcname]."
-    my "Leave it to me, [mcname]."
+    my "Laisse-moi faire, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:351
 translate french sm1cs_my006_hotel_room_4ad2bb87:
 
     # mct "Holy shit, Mom is sucking my cock!"
-    mct "Holy shit, Mom is sucking my cock!"
+    mct "Putain de merde, Maman me suce la bite !"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:353
 translate french sm1cs_my006_hotel_room_d60b4c35:
 
     # mct "Holy shit, Melony is sucking my cock!"
-    mct "Holy shit, Melony is sucking my cock!"
+    mct "Putain de merde, Melony me suce la bite !"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:603
 translate french sm1cs_my006_hotel_room_e5715d71:
 
     # mc "Maybe I want to tease you a little bit?"
-    mc "Maybe I want to tease you a little bit?"
+    mc "Peut-être que j'ai envie de te taquiner un peu ?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:764
 translate french sm1cs_my006_hotel_room_df14ac92:
 
     # my "Mmmhmmm! B-better than okay!"
-    my "Mmmhmmm! B-better than okay!"
+    my "Mmmhmmm ! M-mieux que bien !"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:818
 translate french sm1cs_my006_hotel_room_34ef9d5d:
 
     # my "Fuck, fuck, fuck, faster! Mmmmmm!"
-    my "Fuck, fuck, fuck, faster! Mmmmmm!"
+    my "Putain, putain, putain, plus vite ! Mmmmmm !"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:1084
 translate french sm1cs_my006_next_morning_da8eab1c:
 
     # mc "There's still so much I don't know about you, even though you've been around my whole life."
-    mc "There's still so much I don't know about you, even though you've been around my whole life."
+    mc "Il y a encore tant de choses que j'ignore sur toi, même si tu as été présente toute ma vie."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:1200
 translate french sm1cs_my006_at_studio_4d0a5dbc:
 
     # mc "-and I just want to take a shower and get a cup of coffee, okay?"
-    mc "-and I just want to take a shower and get a cup of coffee, okay?"
+    mc "-et je veux juste prendre une douche et boire un café, d'accord ?"
 
