@@ -2337,9 +2337,9 @@ translate spanish sm1cs_mh008_couple_carousel_end_83caa5fe:
     mc "Oye, cuando dices \"fenomenal\" y \"beso\", tengo que darte el beso con el máximo esfuerzo, ¿verdad?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
-translate spanish sm1cs_mh008_throuple_carousel_77fca0f2:
+translate spanish sm1cs_mh008_throuple_carousel_cfb96106:
 
-    # sy "Growing up. Our families never really went to the carvnial."
+    # sy "Growing up. Our families never really went to the carnival."
     sy "De niños. Nuestras familias nunca iban realmente al carnaval."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280

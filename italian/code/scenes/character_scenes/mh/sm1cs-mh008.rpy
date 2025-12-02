@@ -2337,9 +2337,9 @@ translate italian sm1cs_mh008_couple_carousel_end_83caa5fe:
     mc "Ehi, quando dici \"fenomenale\" e \"bacio\", devo darti il bacio con il massimo sforzo, giusto?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
-translate italian sm1cs_mh008_throuple_carousel_77fca0f2:
+translate italian sm1cs_mh008_throuple_carousel_cfb96106:
 
-    # sy "Growing up. Our families never really went to the carvnial."
+    # sy "Growing up. Our families never really went to the carnival."
     sy "Crescendo. Le nostre famiglie non andavano mai al luna park."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280

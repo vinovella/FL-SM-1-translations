@@ -2337,9 +2337,9 @@ translate portuguese sm1cs_mh008_couple_carousel_end_83caa5fe:
     mc "Ei, quando você fala \"fenomenal\" e \"beijo\", tenho que dar o melhor beijo possível, né?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
-translate portuguese sm1cs_mh008_throuple_carousel_77fca0f2:
+translate portuguese sm1cs_mh008_throuple_carousel_cfb96106:
 
-    # sy "Growing up. Our families never really went to the carvnial."
+    # sy "Growing up. Our families never really went to the carnival."
     sy "Na nossa infância... As nossas famílias nunca iam pro parque."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280

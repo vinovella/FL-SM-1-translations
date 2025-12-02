@@ -2337,9 +2337,9 @@ translate deutsch sm1cs_mh008_couple_carousel_end_83caa5fe:
     mc "Hey, wenn du \"phänomenal\" und \"Kuss\" sagst, muss ich dir den bestmöglichen Kuss geben, oder?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
-translate deutsch sm1cs_mh008_throuple_carousel_77fca0f2:
+translate deutsch sm1cs_mh008_throuple_carousel_cfb96106:
 
-    # sy "Growing up. Our families never really went to the carvnial."
+    # sy "Growing up. Our families never really went to the carnival."
     sy "Als wir aufwuchsen. Unsere Familien gingen eigentlich nie auf den Jahrmarkt."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280

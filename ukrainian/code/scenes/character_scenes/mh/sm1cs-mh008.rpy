@@ -1493,10 +1493,10 @@ translate ukrainian sm1cs_mh008_throuple_carousel_d08cc125:
     sy "Uh huh. We never really went growing up, and I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
-translate ukrainian sm1cs_mh008_throuple_carousel_77fca0f2:
+translate ukrainian sm1cs_mh008_throuple_carousel_cfb96106:
 
-    # sy "Growing up. Our families never really went to the carvnial."
-    sy "Growing up. Our families never really went to the carvnial."
+    # sy "Growing up. Our families never really went to the carnival."
+    sy "Growing up. Our families never really went to the carnival."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:862
 translate ukrainian sm1cs_mh008_throuple_carousel_2fc0ca58:

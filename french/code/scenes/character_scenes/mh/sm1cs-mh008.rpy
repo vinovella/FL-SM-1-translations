@@ -2338,9 +2338,9 @@ translate french sm1cs_mh008_couple_carousel_end_83caa5fe:
     mc "Hé, quand tu dis \"phénoménal\" et \"baiser\", je dois te donner le baiser avec un effort maximal, non ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
-translate french sm1cs_mh008_throuple_carousel_77fca0f2:
+translate french sm1cs_mh008_throuple_carousel_cfb96106:
 
-    # sy "En grandissant. Nos familles n'allaient jamais vraiment à la fête foraine."
+    # sy "Growing up. Our families never really went to the carnival."
     sy "En grandissant. Nos familles n'allaient jamais vraiment à la fête foraine."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280

@@ -2337,9 +2337,9 @@ translate chinese sm1cs_mh008_couple_carousel_end_83caa5fe:
     mc "嘿，当你说\"非凡\"和\"亲吻\"时，我必须全力以赴地吻你，对吧？"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
-translate chinese sm1cs_mh008_throuple_carousel_77fca0f2:
+translate chinese sm1cs_mh008_throuple_carousel_cfb96106:
 
-    # sy "Growing up. Our families never really went to the carvnial."
+    # sy "Growing up. Our families never really went to the carnival."
     sy "小时候，我们家从来没去过嘉年华。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280
