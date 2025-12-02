@@ -1048,5 +1048,5 @@ translate portuguese strings:
 translate portuguese sm1cs_mes004_after_dance_51504a32:
 
     # mes "No. It's... complicated."
-    mes "No. It's... complicated."
+    mes "Não. É... complicado."
 
