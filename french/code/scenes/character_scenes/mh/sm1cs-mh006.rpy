@@ -1379,18 +1379,18 @@ translate french strings:
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:43
 translate french sm1cs_mh006_e6eae1c1:
 
-    # mc "That sounds... Exhilarating."
-    mc "That sounds... Exhilarating."
+    # mc "Ça a l'air... Exaltant."
+    mc "Ça a l'air... Exaltant."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:82
 translate french sm1cs_mh006_7a25c7b5:
 
-    # mh "You're incorrigible. No, it took me years to get my clients. Between consistency, trust, meshing with each other - it wasn't an overnight matter."
-    mh "You're incorrigible. No, it took me years to get my clients. Between consistency, trust, meshing with each other - it wasn't an overnight matter."
+    # mh "Tu es incorrigible. Non, il m'a fallu des années pour avoir mes clients. Entre la constance, la confiance, s'entendre les uns avec les autres - ce n'était pas une affaire de nuit."
+    mh "Tu es incorrigible. Non, il m'a fallu des années pour avoir mes clients. Entre la constance, la confiance, s'entendre les uns avec les autres - ce n'était pas une affaire de nuit."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:324
 translate french sm1cs_mh006_after_choice_37279168:
 
-    # mc "Well, uhm... I guess-"
-    mc "Well, uhm... I guess-"
+    # mc "Eh bien, euh... Je suppose-"
+    mc "Eh bien, euh... Je suppose-"
 

@@ -1313,18 +1313,18 @@ translate french strings:
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:246
 translate french sm1cs_my002_art_gallery_49542627:
 
-    # my "Well, let's hear your critique then, hotshot!"
-    my "Well, let's hear your critique then, hotshot!"
+    # my "Eh bien, voyons ta critique alors, petit malin !"
+    my "Eh bien, voyons ta critique alors, petit malin !"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:354
 translate french sm1cs_my002_art_gallery_b0686e24:
 
-    # my "So what do you think of \"Mischief and Repose\", hotshot?"
-    my "So what do you think of \"Mischief and Repose\", hotshot?"
+    # my "Alors que penses-tu de \"Malice et Repos\", petit malin ?"
+    my "Alors que penses-tu de \"Malice et Repos\", petit malin ?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:536
 translate french sm1cs_my002_art_gallery_2944e37e:
 
-    # my "Just because there's a dark background doesn't make it chiaroscuro, hotshot."
-    my "Just because there's a dark background doesn't make it chiaroscuro, hotshot."
+    # my "Ce n'est pas parce qu'il y a un fond sombre que c'est du clair-obscur, petit malin."
+    my "Ce n'est pas parce qu'il y a un fond sombre que c'est du clair-obscur, petit malin."
 

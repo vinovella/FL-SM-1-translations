@@ -2299,104 +2299,104 @@ translate french strings:
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:318
 translate french sm1cs_mh009_e9245de9:
 
-    # mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
-    mct "She was saying some really important stuff. Is she really that turned on by the idea of a sex interview that she wants to just ignore it for a while?"
+    # mct "Elle disait des trucs vraiment importants. Est-elle vraiment excitée par l'idée d'une interview sexuelle au point de vouloir l'ignorer un moment ?"
+    mct "Elle disait des trucs vraiment importants. Est-elle vraiment excitée par l'idée d'une interview sexuelle au point de vouloir l'ignorer un moment ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:344
 translate french sm1cs_mh009_7b2b35e6:
 
-    # mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
-    mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+    # mh "[mhname!t]...{w} J'aime bien, excellente suggestion, [mcname]."
+    mh "[mhname!t]...{w} J'aime bien, excellente suggestion, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:345
 translate french sm1cs_mh009_7b2b35e6_1:
 
-    # mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
-    mh "[mhname!t]...{w} I like it, great suggestion, [mcname]."
+    # mh "[mhname!t]...{w} J'aime bien, excellente suggestion, [mcname]."
+    mh "[mhname!t]...{w} J'aime bien, excellente suggestion, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:351
 translate french sm1cs_mh009_72f11ebc:
 
-    # mc "Sure, Lys- I mean, [mhname!t]."
-    mc "Sure, Lys- I mean, [mhname!t]."
+    # mc "Bien sûr, Lys- je veux dire, [mhname!t]."
+    mc "Bien sûr, Lys- je veux dire, [mhname!t]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:392
 translate french sm1cs_mh009_0c331674:
 
-    # mh "Well, my name is [mhname!t], and I'm here because a friend suggested that this might be a good way to make some extra money."
-    mh "Well, my name is [mhname!t], and I'm here because a friend suggested that this might be a good way to make some extra money."
+    # mh "Eh bien, je m'appelle [mhname!t], et je suis ici parce qu'une amie m'a suggéré que ça pourrait être un bon moyen de gagner un peu d'argent."
+    mh "Eh bien, je m'appelle [mhname!t], et je suis ici parce qu'une amie m'a suggéré que ça pourrait être un bon moyen de gagner un peu d'argent."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:449
 translate french sm1cs_mh009_ed0f3263:
 
-    # mc "Well, that makes two of us! That sounds super duper hot, [mhname!t]."
-    mc "Well, that makes two of us! That sounds super duper hot, [mhname!t]."
+    # mc "Eh bien, ça fait deux d'entre nous ! Ça a l'air super méga chaud, [mhname!t]."
+    mc "Eh bien, ça fait deux d'entre nous ! Ça a l'air super méga chaud, [mhname!t]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:610
 translate french sm1cs_mh009_348b8dd7:
 
-    # mc "Oh shit, [mhname!t]!"
-    mc "Oh shit, [mhname!t]!"
+    # mc "Oh merde, [mhname!t] !"
+    mc "Oh merde, [mhname!t] !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:629
 translate french sm1cs_mh009_beac13b0:
 
-    # mc "Do you? Do you like being my good girl, [mhname!t]?"
-    mc "Do you? Do you like being my good girl, [mhname!t]?"
+    # mc "Ah oui ? Tu aimes être ma bonne fille, [mhname!t] ?"
+    mc "Ah oui ? Tu aimes être ma bonne fille, [mhname!t] ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:634
 translate french sm1cs_mh009_70654531:
 
-    # mc "Fuuuucking hell, this is great, [mhname!t]."
-    mc "Fuuuucking hell, this is great, [mhname!t]."
+    # mc "Putaaain de merde, c'est génial, [mhname!t]."
+    mc "Putaaain de merde, c'est génial, [mhname!t]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:701
 translate french sm1cs_mh009_2c204863:
 
-    # mc "Oh fuck yeah, [mhname!t]!"
-    mc "Oh fuck yeah, [mhname!t]!"
+    # mc "Oh putain ouais, [mhname!t] !"
+    mc "Oh putain ouais, [mhname!t] !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:756
 translate french sm1cs_mh009_8751d578:
 
-    # mc "Oh shit, [mhname!t]! Oh this is incredible!"
-    mc "Oh shit, [mhname!t]! Oh this is incredible!"
+    # mc "Oh merde, [mhname!t] ! Oh c'est incroyable !"
+    mc "Oh merde, [mhname!t] ! Oh c'est incroyable !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:774
 translate french sm1cs_mh009_e922e4ef:
 
-    # mc "What, [mhname!t]?"
-    mc "What, [mhname!t]?"
+    # mc "Quoi, [mhname!t] ?"
+    mc "Quoi, [mhname!t] ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:783
 translate french sm1cs_mh009_2b193e52:
 
-    # mc "Ohh, L- love this, [mhname!t], I love this!"
-    mc "Ohh, L- love this, [mhname!t], I love this!"
+    # mc "Ohh, J'- j'adore ça, [mhname!t], j'adore ça !"
+    mc "Ohh, J'- j'adore ça, [mhname!t], j'adore ça !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:805
 translate french sm1cs_mh009_c66ced23:
 
-    # mc "Oh God, [mhname!t]..."
-    mc "Oh God, [mhname!t]..."
+    # mc "Oh mon Dieu, [mhname!t]..."
+    mc "Oh mon Dieu, [mhname!t]..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:890
 translate french sm1cs_mh009_32fbcfe7:
 
-    # mc "Are you going to cum, [mhname!t]?"
-    mc "Are you going to cum, [mhname!t]?"
+    # mc "Tu vas jouir, [mhname!t] ?"
+    mc "Tu vas jouir, [mhname!t] ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:970
 translate french sm1cs_mh009_1_c8b0e979:
 
-    # mc "Shhh, [mhname!t]. It looks amazing, watching your fingers move like that."
-    mc "Shhh, [mhname!t]. It looks amazing, watching your fingers move like that."
+    # mc "Shhh, [mhname!t]. C'est magnifique de regarder tes doigts bouger comme ça."
+    mc "Shhh, [mhname!t]. C'est magnifique de regarder tes doigts bouger comme ça."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:983
 translate french sm1cs_mh009_1_44176ab2:
 
-    # mc "Cum for me, [mhname!t]."
-    mc "Cum for me, [mhname!t]."
+    # mc "Jouis pour moi, [mhname!t]."
+    mc "Jouis pour moi, [mhname!t]."
 
 translate french strings:
 
@@ -2407,24 +2407,24 @@ translate french strings:
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:301
 translate french sm1cs_mh009_b94c53e3:
 
-    # mh "I can't help but feel a bit hungry...{w} to know more about how it works..."
-    mh "I can't help but feel a bit hungry...{w} to know more about how it works..."
+    # mh "Je ne peux pas m'empêcher d'avoir un peu faim...{w} d'en savoir plus sur comment ça fonctionne..."
+    mh "Je ne peux pas m'empêcher d'avoir un peu faim...{w} d'en savoir plus sur comment ça fonctionne..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:573
 translate french sm1cs_mh009_0890b5c5:
 
-    # mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to perform for the camera."
-    mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to perform for the camera."
+    # mc "Et je n'ai aucune raison de mentir. C'est un lieu de travail, et chaque talent devrait savoir comment performer devant la caméra."
+    mc "Et je n'ai aucune raison de mentir. C'est un lieu de travail, et chaque talent devrait savoir comment performer devant la caméra."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:651
 translate french sm1cs_mh009_13748be9:
 
-    # mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fucked as well as you suck."
-    mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fucked as well as you suck."
+    # mc "Eh bien, maintenant que ma bite est bien lubrifiée... J'adorerais voir si tu te fais baiser aussi bien que tu suces."
+    mc "Eh bien, maintenant que ma bite est bien lubrifiée... J'adorerais voir si tu te fais baiser aussi bien que tu suces."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1082
 translate french sm1cs_mh009_1_02c03f87:
 
-    # mc "And I promise that the only people who are ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
-    mc "And I promise that the only people who are ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
+    # mc "Et je te promets que les seules personnes qui verront ça, c'est toi et moi. Pas de publication, pas de montrer à qui que ce soit, je promets-"
+    mc "Et je te promets que les seules personnes qui verront ça, c'est toi et moi. Pas de publication, pas de montrer à qui que ce soit, je promets-"
 

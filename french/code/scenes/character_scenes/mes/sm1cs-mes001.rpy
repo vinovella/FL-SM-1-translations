@@ -1035,18 +1035,18 @@ translate french sm1cs_mes001_229c1cea:
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:54
 translate french sm1cs_mes001_3e652f66:
 
-    # mc "\"Complicated\", that's one way to describe everything that's happened."
-    mc "\"Complicated\", that's one way to describe everything that's happened."
+    # mc "\"Compliqué\", c'est une façon de décrire tout ce qui s'est passé."
+    mc "\"Compliqué\", c'est une façon de décrire tout ce qui s'est passé."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:247
 translate french sm1cs_mes001_ddb765ab:
 
-    # mc "When you're painting and drywalling for the third day straight, it helps to have someone cracking jokes at two in the morning."
-    mc "When you're painting and drywalling for the third day straight, it helps to have someone cracking jokes at two in the morning."
+    # mc "Quand tu peins et poses du placo pour le troisième jour d'affilée, ça aide d'avoir quelqu'un qui fait des blagues à deux heures du matin."
+    mc "Quand tu peins et poses du placo pour le troisième jour d'affilée, ça aide d'avoir quelqu'un qui fait des blagues à deux heures du matin."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:352
 translate french sm1cs_mes001_4c2f9ce1:
 
-    # mc "Too bad they didn't consider that stable also means \"happy\", something a forced setup wouldn't necessarily guarantee."
-    mc "Too bad they didn't consider that stable also means \"happy\", something a forced setup wouldn't necessarily guarantee."
+    # mc "Dommage qu'ils n'aient pas considéré que stable signifie aussi \"heureux\", quelque chose qu'un arrangement forcé ne garantirait pas nécessairement."
+    mc "Dommage qu'ils n'aient pas considéré que stable signifie aussi \"heureux\", quelque chose qu'un arrangement forcé ne garantirait pas nécessairement."
 

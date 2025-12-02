@@ -193,8 +193,8 @@ translate french sm1cs_mes007_d22ef071:
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:158
 translate french sm1cs_mes007_3f1cb8fa:
 
-    # mc "Home sweet home."
-    mc "Home sweet home."
+    # mc "On est bien chez soi."
+    mc "On est bien chez soi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:161
 translate french sm1cs_mes007_395940d8:
@@ -1124,7 +1124,7 @@ translate french sm1cs_mes007_continue_dea7848b:
 translate french sm1cs_mes007_continue_af082a20:
 
     # "[mcname] and Min" "*chuckling*"
-    "[mcname] and Min" "*ricanent*"
+    "[mcname] et Min" "*ricanent*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:785
 translate french sm1cs_mes007_continue_04ff985a:
@@ -1217,38 +1217,38 @@ translate french strings:
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:148
 translate french sm1cs_mes007_5a9df7e5:
 
-    # mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
-    mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
+    # mes "Et toi qui portes les trucs lourds, ça m'évite d'avoir à construire un système de poulies et de treuils élaboré qui pourrait endommager le studio."
+    mes "Et toi qui portes les trucs lourds, ça m'évite d'avoir à construire un système de poulies et de treuils élaboré qui pourrait endommager le studio."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:265
 translate french sm1cs_mes007_2c65153e:
 
-    # mes "This is your home, but this is going to be my home within your home."
-    mes "This is your home, but this is going to be my home within your home."
+    # mes "C'est ta maison, mais ça va devenir ma maison dans ta maison."
+    mes "C'est ta maison, mais ça va devenir ma maison dans ta maison."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:437
 translate french sm1cs_mes007_continue_e174a810:
 
-    # mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
-    mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
+    # mc "J'apprécie, Min. Mais ce que je préfère avec les culottes, c'est quand je te les enlève."
+    mc "J'apprécie, Min. Mais ce que je préfère avec les culottes, c'est quand je te les enlève."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:529
 translate french sm1cs_mes007_continue_b07f733a:
 
-    # mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
-    mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
+    # mc "Fais-toi plaisir. Mais ne sois pas surprise de sentir une pression soudaine contre ta chatte."
+    mc "Fais-toi plaisir. Mais ne sois pas surprise de sentir une pression soudaine contre ta chatte."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:610
 translate french sm1cs_mes007_continue_7b7099ec:
 
-    # mes "Imprint the shape of your cock against my womb."
-    mes "Imprint the shape of your cock against my womb."
+    # mes "Imprime la forme de ta bite contre mon utérus."
+    mes "Imprime la forme de ta bite contre mon utérus."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:656
 translate french sm1cs_mes007_continue_fc117b28:
 
-    # mes "You're grinding me down!"
-    mes "You're grinding me down!"
+    # mes "Tu m'écrases !"
+    mes "Tu m'écrases !"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:725
 translate french sm1cs_mes007_continue_a0e12b14:
@@ -1259,6 +1259,6 @@ translate french sm1cs_mes007_continue_a0e12b14:
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:790
 translate french sm1cs_mes007_continue_d0c62791:
 
-    # mes "I like your spunky attitude."
-    mes "I like your spunky attitude."
+    # mes "J'aime ton attitude courageuse."
+    mes "J'aime ton attitude courageuse."
 

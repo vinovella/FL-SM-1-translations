@@ -44,7 +44,7 @@ translate french sm1cs_kv002_439f1141:
 translate french sm1cs_kv002_5667f407:
 
     # "Model" "Sure, I totally don't care. Super cool with me. Uh huh."
-    "Model" "Bien sûr, je m’en fiche complètement. C’est cool pour moi. Ouais ouais."
+    "Mannequin" "Bien sûr, je m’en fiche complètement. C’est cool pour moi. Ouais ouais."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:47
 translate french sm1cs_kv002_a1f184e9:
@@ -146,7 +146,7 @@ translate french sm1cs_kv002_406ecb21:
 translate french sm1cs_kv002_4261da0b:
 
     # "Model" "Thanks, Kanya."
-    "Model" "Merci, Kanya."
+    "Mannequin" "Merci, Kanya."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:91
 translate french sm1cs_kv002_a1f184e9_4:
@@ -206,7 +206,7 @@ translate french sm1cs_kv002_1a015882:
 translate french sm1cs_kv002_3cef9b83:
 
     # "Model" "Didn't think I was going to be helping some new photographer today."
-    "Model" "Je pensais pas devoir coacher un photographe débutant aujourd’hui."
+    "Mannequin" "Je pensais pas devoir coacher un photographe débutant aujourd’hui."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:115
 translate french sm1cs_kv002_d8872958:
@@ -218,7 +218,7 @@ translate french sm1cs_kv002_d8872958:
 translate french sm1cs_kv002_c85124d1:
 
     # "Model" "Eh, good point. Sure, why not. It's better than going back to my shitty job."
-    "Model" "Mouais, pas faux. Allez, pourquoi pas. C’est toujours mieux que de retourner à mon taf pourri."
+    "Mannequin" "Mouais, pas faux. Allez, pourquoi pas. C’est toujours mieux que de retourner à mon taf pourri."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:120
 translate french sm1cs_kv002_e7b9b1a8:
@@ -344,7 +344,7 @@ translate french sm1cs_kv002_eed5622b:
 translate french sm1cs_kv002_712ede90:
 
     # "Model" "Great, how do you feel about the photos?"
-    "Model" "Super, alors ? Tu les trouves comment, tes photos ?"
+    "Mannequin" "Super, alors ? Tu les trouves comment, tes photos ?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:179
 translate french sm1cs_kv002_92321f6e:
@@ -356,7 +356,7 @@ translate french sm1cs_kv002_92321f6e:
 translate french sm1cs_kv002_3ef07597:
 
     # "Model" "Awesome. I have to get to work now. See ya' around!"
-    "Model" "Parfait. Bon, faut que j’aille bosser. À la prochaine !"
+    "Mannequin" "Parfait. Bon, faut que j’aille bosser. À la prochaine !"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:186
 translate french sm1cs_kv002_6af1c1b3:

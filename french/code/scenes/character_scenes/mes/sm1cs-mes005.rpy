@@ -1283,12 +1283,12 @@ translate french strings:
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:160
 translate french sm1cs_mes005_fb570c11:
 
-    # mc "Pay your bill and let's go meet Kanya."
-    mc "Pay your bill and let's go meet Kanya."
+    # mc "Paie ton addition et allons retrouver Kanya."
+    mc "Paie ton addition et allons retrouver Kanya."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:450
 translate french sm1cs_mes005_f66d5621:
 
-    # kv "Alrighty, let's keep things nice and loose."
-    kv "Alrighty, let's keep things nice and loose."
+    # kv "Allez, gardons les choses cool et décontractées."
+    kv "Allez, gardons les choses cool et décontractées."
 

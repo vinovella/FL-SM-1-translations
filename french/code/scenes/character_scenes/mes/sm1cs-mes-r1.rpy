@@ -1,4 +1,4 @@
-# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:14
+﻿# game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:14
 translate french sm1cs_mes_r1_initiator_dbaa5dfb:
 
     # mc "Min? You okay?"
@@ -1727,36 +1727,36 @@ translate french strings:
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:575
 translate french sm1cs_mes_r1_continue_2_d9861589:
 
-    # mc "Yes you can. Cum again or I'll keep fucking you like this for hours."
-    mc "Yes you can. Cum again or I'll keep fucking you like this for hours."
+    # mc "Oh que si. Jouis encore ou je continue à te baiser comme ça pendant des heures."
+    mc "Oh que si. Jouis encore ou je continue à te baiser comme ça pendant des heures."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:579
 translate french sm1cs_mes_r1_continue_2_3151895e:
 
-    # mes "*sobbing with pleasure* I'm your little sextoy."
-    mes "*sobbing with pleasure* I'm your little sextoy."
+    # mes "*sanglotant de plaisir* Je suis ton petit jouet sexuel."
+    mes "*sanglotant de plaisir* Je suis ton petit jouet sexuel."
 
 translate french strings:
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:141
     old "Yes, include watersports content"
-    new "Yes, include watersports content"
+    new "Oui, inclure le contenu watersports"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:141
     old "No, do not include watersports content"
-    new "No, do not include watersports content"
+    new "Non, ne pas inclure le contenu watersports"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:758
 translate french sm1cs_mes_r1_watersports_3108adbd:
 
-    # mes "I need your piss all over me. Make me your dirty little piss slut."
-    mes "I need your piss all over me. Make me your dirty little piss slut."
+    # mes "J'ai besoin de ta pisse partout sur moi. Fais de moi ta petite salope à pipi."
+    mes "J'ai besoin de ta pisse partout sur moi. Fais de moi ta petite salope à pipi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:1194
 translate french sm1cs_mes_r1_end_3c9bdbc5:
 
-    # mes "I'm glad I came back from Korea. This...us...{w} Being together."
-    mes "I'm glad I came back from Korea. This...us...{w} Being together."
+    # mes "Je suis contente d'être revenue de Corée. Ça... nous... {w} Être ensemble."
+    mes "Je suis contente d'être revenue de Corée. Ça... nous... {w} Être ensemble."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:102
 translate french sm1cs_mes_r1_initiator_0e8ab82c:

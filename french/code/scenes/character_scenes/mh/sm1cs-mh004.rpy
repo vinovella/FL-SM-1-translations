@@ -86,7 +86,7 @@ translate french sm1cs_mh004_83239112:
 translate french sm1cs_mh004_0b95cb2e:
 
     # "Waiter" "Good evening. Can I interest either of you in some wine?"
-    "Waiter" "Bonsoir. Puis-je vous proposer un peu de vin ?"
+    "Serveur" "Bonsoir. Puis-je vous proposer un peu de vin ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:87
 translate french sm1cs_mh004_b3ef49bb:
@@ -104,7 +104,7 @@ translate french sm1cs_mh004_74fc6761:
 translate french sm1cs_mh004_114960f2:
 
     # "Waiter" "I'll bring that out right away then. Do you two need some more time with the menu?"
-    "Waiter" "Je vous apporte ça tout de suite. Voulez-vous encore un peu de temps pour le menu ?"
+    "Serveur" "Je vous apporte ça tout de suite. Voulez-vous encore un peu de temps pour le menu ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:96
 translate french sm1cs_mh004_2e60022c:
@@ -116,7 +116,7 @@ translate french sm1cs_mh004_2e60022c:
 translate french sm1cs_mh004_a65d2034:
 
     # "Waiter" "Then I shall check back in with you in a bit."
-    "Waiter" "Très bien, je reviens vers vous dans un instant."
+    "Serveur" "Très bien, je reviens vers vous dans un instant."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:104
 translate french sm1cs_mh004_fdf21164:
@@ -188,7 +188,7 @@ translate french sm1cs_mh004_3db3341a:
 translate french sm1cs_mh004_b80b7e5f:
 
     # "Waiter" "Your wine."
-    "Waiter" "Votre vin."
+    "Serveur" "Votre vin."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:138
 translate french sm1cs_mh004_ffc6a815:
@@ -200,7 +200,7 @@ translate french sm1cs_mh004_ffc6a815:
 translate french sm1cs_mh004_f1c497b6:
 
     # "Waiter" "Have you two made any decisions yet?"
-    "Waiter" "Avez-vous déjà fait votre choix ?"
+    "Serveur" "Avez-vous déjà fait votre choix ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:144
 translate french sm1cs_mh004_31b384ce:
@@ -218,7 +218,7 @@ translate french sm1cs_mh004_40865c75:
 translate french sm1cs_mh004_e41eb22b:
 
     # "Waiter" "Wonderful, you both will not be disappointed. We've had a lot of rave reviews about it lately."
-    "Waiter" "Excellent, vous ne serez pas déçus. Nous avons eu beaucoup d’éloges à ce sujet dernièrement."
+    "Serveur" "Excellent, vous ne serez pas déçus. Nous avons eu beaucoup d’éloges à ce sujet dernièrement."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:161
 translate french sm1cs_mh004_428a91a1:

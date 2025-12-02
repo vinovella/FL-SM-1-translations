@@ -794,7 +794,7 @@ translate french sm1cs_mh008_date_c1c53635:
 translate french sm1ms_mh008_game_0ec5aa4b:
 
     # "Carnival Worker" "Step right up! See if you have what it takes to take home one of these adorable, stuffed animals!"
-    "Carnival Worker" "Approchez ! Venez voir si vous avez ce qu’il faut pour repartir avec l’un de ces adorables animaux en peluche !"
+    "Employé de fête foraine" "Approchez ! Venez voir si vous avez ce qu’il faut pour repartir avec l’un de ces adorables animaux en peluche !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:456
 translate french sm1ms_mh008_game_d9246fd0:
@@ -806,7 +806,7 @@ translate french sm1ms_mh008_game_d9246fd0:
 translate french sm1ms_mh008_game_782b7512:
 
     # "Carnival Worker" "It's simple! You got five shots with our air rifle, and you just need to knock down three of the targets!"
-    "Carnival Worker" "C’est simple ! Vous avez cinq tirs avec notre carabine à air, et il suffit d’en faire tomber trois !"
+    "Employé de fête foraine" "C’est simple ! Vous avez cinq tirs avec notre carabine à air, et il suffit d’en faire tomber trois !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:462
 translate french sm1ms_mh008_game_c76ac7c5:
@@ -818,7 +818,7 @@ translate french sm1ms_mh008_game_c76ac7c5:
 translate french sm1ms_mh008_game_35c81463:
 
     # "Carnival Worker" "Yeah! Nothing to it! Show me what you got!"
-    "Carnival Worker" "Ouais ! C’est rien du tout ! Montrez-moi ce que vous avez dans le ventre !"
+    "Employé de fête foraine" "Ouais ! C’est rien du tout ! Montrez-moi ce que vous avez dans le ventre !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:469
 translate french sm1ms_mh008_game_c904ccf1:
@@ -836,7 +836,7 @@ translate french sm1ms_mh008_game_8a88410b:
 translate french sm1ms_mh008_game_8701f4f1:
 
     # "Carnival Worker" "Well, it seems like you missed all three shots! Would you like to try again?"
-    "Carnival Worker" "Eh bien, on dirait que vous avez raté les trois tirs ! Voulez-vous réessayer ?"
+    "Employé de fête foraine" "Eh bien, on dirait que vous avez raté les trois tirs ! Voulez-vous réessayer ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:483
 translate french sm1ms_mh008_game_3c0bbbee:
@@ -848,7 +848,7 @@ translate french sm1ms_mh008_game_3c0bbbee:
 translate french sm1ms_mh008_game_b0f92f45:
 
     # "Carnival Worker" "All right, have at her!"
-    "Carnival Worker" "Très bien, à vous de jouer !"
+    "Employé de fête foraine" "Très bien, à vous de jouer !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:489
 translate french sm1ms_mh008_game_8a88410b_1:
@@ -866,7 +866,7 @@ translate french sm1ms_mh008_game_b8b01170:
 translate french sm1ms_mh008_game_b0674b22:
 
     # "Carnival Worker" "And three more misses! Wow!{w} What about you, miss? Would you like to give it a go?"
-    "Carnival Worker" "Et encore trois ratés ! Wow !{w} Et vous, mademoiselle ? Vous voulez essayer ?"
+    "Employé de fête foraine" "Et encore trois ratés ! Wow !{w} Et vous, mademoiselle ? Vous voulez essayer ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:500
 translate french sm1ms_mh008_game_fb8892f4:
@@ -884,7 +884,7 @@ translate french sm1ms_mh008_game_1ad4d7ce:
 translate french sm1ms_mh008_game_dba3a987:
 
     # "Carnival Worker" "And fire awwaaayyyy when you're ready!"
-    "Carnival Worker" "Et tiiiirez quand vous êtes prête !"
+    "Employé de fête foraine" "Et tiiiirez quand vous êtes prête !"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:509
 translate french sm1ms_mh008_game_d8ed4d23:
@@ -896,7 +896,7 @@ translate french sm1ms_mh008_game_d8ed4d23:
 translate french sm1ms_mh008_game_5a299d56:
 
     # "Carnival Worker" "Holy guacamole... you hit all three targets! {size=*0.5}Corporate said that it was impossible! What the hell...{/size}"
-    "Carnival Worker" "Nom d’un guacamole... vous avez touché les trois cibles ! {size=*0.5}La direction disait que c’était impossible ! Mais qu’est-ce que...{/size}"
+    "Employé de fête foraine" "Nom d’un guacamole... vous avez touché les trois cibles ! {size=*0.5}La direction disait que c’était impossible ! Mais qu’est-ce que...{/size}"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:522
 translate french sm1ms_mh008_game_08371f5e:
@@ -908,13 +908,13 @@ translate french sm1ms_mh008_game_08371f5e:
 translate french sm1ms_mh008_game_b1582b3e:
 
     # "Carnival Worker" "Oh, uhm... you most definitely are..."
-    "Carnival Worker" "Oh, euh... oui, bien sûr..."
+    "Employé de fête foraine" "Oh, euh... oui, bien sûr..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:529
 translate french sm1ms_mh008_game_9d53957e:
 
     # "Carnival Worker" "Here you go..."
-    "Carnival Worker" "Le voilà..."
+    "Employé de fête foraine" "Le voilà..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:532
 translate french sm1ms_mh008_game_ffc6a815:
@@ -2167,7 +2167,7 @@ translate french sm1cs_mh008_throuple_carousel_end_e014e089:
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1254
 translate french sm1cs_mh008_throuple_carousel_end_83caa5fe:
 
-    # mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+    # mc "Hé, quand tu dis \"phénoménal\" et \"baiser\", je dois te donner le baiser avec un effort maximal, non ?"
     mc "Hé, quand tu dis \"phénoménal\" et \"baiser\", je suis obligé de donner le baiser maximum, pas vrai ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1257
@@ -2310,42 +2310,42 @@ translate french strings:
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:46
 translate french sm1cs_mh008_f927037e:
 
-    # mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
-    mh "I don't know... it's been a while since we've really spent time together. I thought we could maybe do something, go somewhere."
+    # mh "Je ne sais pas... ça fait longtemps qu'on n'a pas vraiment passé du temps ensemble. Je pensais qu'on pourrait peut-être faire quelque chose, aller quelque part."
+    mh "Je ne sais pas... ça fait longtemps qu'on n'a pas vraiment passé du temps ensemble. Je pensais qu'on pourrait peut-être faire quelque chose, aller quelque part."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:92
 translate french sm1cs_mh008_034e2023:
 
-    # mc "Yeah! We wanted to be able to use the studio as, well, a studio."
-    mc "Yeah! We wanted to be able to use the studio as, well, a studio."
+    # mc "Ouais ! On voulait pouvoir utiliser le studio comme, eh bien, un studio."
+    mc "Ouais ! On voulait pouvoir utiliser le studio comme, eh bien, un studio."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:288
 translate french sm1cs_mh008_carnival_57b30d8d:
 
-    # mh "As a kid, I just knew that we would come to the circus because we had free tickets, and..."
-    mh "As a kid, I just knew that we would come to the circus because we had free tickets, and..."
+    # mh "Enfant, je savais juste qu'on venait au cirque parce qu'on avait des billets gratuits, et..."
+    mh "Enfant, je savais juste qu'on venait au cirque parce qu'on avait des billets gratuits, et..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:430
 translate french sm1cs_mh008_date_28d03d83:
 
-    # mh "Yeah. It's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
-    mh "Yeah. It's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
+    # mh "Ouais. C'est une histoire bizarre, mais en bref - M. Roosevelt a refusé de tirer sur un ours attaché, puis quelqu'un en a fait une caricature politique."
+    mh "Ouais. C'est une histoire bizarre, mais en bref - M. Roosevelt a refusé de tirer sur un ours attaché, puis quelqu'un en a fait une caricature politique."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:785
 translate french sm1cs_mh008_couple_carousel_end_83caa5fe:
 
-    # mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
-    mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+    # mc "Hé, quand tu dis \"phénoménal\" et \"baiser\", je dois te donner le baiser avec un effort maximal, non ?"
+    mc "Hé, quand tu dis \"phénoménal\" et \"baiser\", je dois te donner le baiser avec un effort maximal, non ?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
 translate french sm1cs_mh008_throuple_carousel_77fca0f2:
 
-    # sy "Growing up. Our families never really went to the carvnial."
-    sy "Growing up. Our families never really went to the carvnial."
+    # sy "En grandissant. Nos familles n'allaient jamais vraiment à la fête foraine."
+    sy "En grandissant. Nos familles n'allaient jamais vraiment à la fête foraine."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280
 translate french sm1cs_mh008_throuple_carousel_end_b4912f4b:
 
-    # mh "Yeah, something like this, [mcname]."
-    mh "Yeah, something like this, [mcname]."
+    # mh "Ouais, quelque chose comme ça, [mcname]."
+    mh "Ouais, quelque chose comme ça, [mcname]."
 

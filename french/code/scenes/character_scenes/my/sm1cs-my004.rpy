@@ -61,8 +61,8 @@ translate french sm1cs_my004_a227dfde:
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:64
 translate french sm1cs_my004_6f4d4501:
 
-    # mc "Bullshit."
-    mc "Bullshit."
+    # mc "N'importe quoi."
+    mc "N'importe quoi."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:67
 translate french sm1cs_my004_4cf3e7c6:
@@ -77,7 +77,7 @@ translate french sm1cs_my004_08aa5e98:
     mc "Tu es ma sœur, je te connais depuis toujours. Je sais quand tu mens."
 
 # (alternative route)
-# mc "Stacy, you're my best friend. I know when you're lying."
+# mc "Stacy, tu es ma meilleure amie. Je sais quand tu mens."
 # Already matches context, translation was fine above.
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:76
@@ -105,7 +105,7 @@ translate french sm1cs_my004_a96ab65e:
     sy "Mon propre frère ! Qui me traite d’arnaqueuse !"
 
 # (alternate route)
-    # sy "My boyfriend! Calling me a bamboozler!"
+    # sy "Mon petit ami ! Il me traite d'arnaqueuse !"
     sy "Mon copain ! Qui me traite d’arnaqueuse !"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:89
@@ -143,7 +143,7 @@ translate french sm1cs_my004_e9950d05:
     mct "Pourquoi maman est là ?"
 
 # / alternate
-    # mct "Why the hell did Stacy invite Melony over?"
+    # mct "Pourquoi diable Stacy a-t-elle invité Melony ?"
     mct "Pourquoi Stacy a invité Melony ?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:116
@@ -1644,21 +1644,21 @@ translate french strings:
 
     # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:486
     old "Mom"
-    new "Mom"
+    new "Maman"
 
 #Translate by BlackViper_
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:73
 translate french sm1cs_my004_3c362a4d:
 
-    # mc "Stacy, you're my best friend. I know when you're lying."
-    mc "Stacy, you're my best friend. I know when you're lying."
+    # mc "Stacy, tu es ma meilleure amie. Je sais quand tu mens."
+    mc "Stacy, tu es ma meilleure amie. Je sais quand tu mens."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:86
 translate french sm1cs_my004_37fb631c:
 
-    # sy "My boyfriend! Calling me a bamboozler!"
-    sy "My boyfriend! Calling me a bamboozler!"
+    # sy "Mon petit ami ! Il me traite d'arnaqueuse !"
+    sy "Mon petit ami ! Il me traite d'arnaqueuse !"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:105
 translate french sm1cs_my004_edd08fb7:
@@ -1669,96 +1669,96 @@ translate french sm1cs_my004_edd08fb7:
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:111
 translate french sm1cs_my004_3270b043:
 
-    # mct "Why the hell did Stacy invite Melony over?"
-    mct "Why the hell did Stacy invite Melony over?"
+    # mct "Pourquoi diable Stacy a-t-elle invité Melony ?"
+    mct "Pourquoi diable Stacy a-t-elle invité Melony ?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:326
 translate french sm1cs_my004_15c0d188:
 
-    # sy "Or, \"the way the top of the suit is cut really accentuates your breasts and makes them pop\"."
-    sy "Or, \"the way the top of the suit is cut really accentuates your breasts and makes them pop\"."
+    # sy "Ou, \"la façon dont le haut du maillot est coupé met vraiment tes seins en valeur et les fait ressortir\"."
+    sy "Ou, \"la façon dont le haut du maillot est coupé met vraiment tes seins en valeur et les fait ressortir\"."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:355
 translate french sm1cs_my004_c3ba184a:
 
-    # mc "Uh...{w} The cut of the swimsuit is right for you, it draws attention to all the right parts..."
-    mc "Uh...{w} The cut of the swimsuit is right for you, it draws attention to all the right parts..."
+    # mc "Euh...{w} La coupe du maillot te va bien, ça attire l'attention sur toutes les bonnes parties..."
+    mc "Euh...{w} La coupe du maillot te va bien, ça attire l'attention sur toutes les bonnes parties..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:405
 translate french sm1cs_my004_56ed8d43:
 
-    # sy "All right, [mcname]. For this one, you need to tell us how our swimsuits look when we move. Like, does it ride up, does it sit funny, that kind of thing."
-    sy "All right, [mcname]. For this one, you need to tell us how our swimsuits look when we move. Like, does it ride up, does it sit funny, that kind of thing."
+    # sy "D'accord, [mcname]. Pour celle-ci, tu dois nous dire comment nos maillots bougent quand on se déplace. Genre, est-ce qu'il remonte, est-ce qu'il tombe mal, ce genre de chose."
+    sy "D'accord, [mcname]. Pour celle-ci, tu dois nous dire comment nos maillots bougent quand on se déplace. Genre, est-ce qu'il remonte, est-ce qu'il tombe mal, ce genre de chose."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:649
 translate french sm1cs_my004_048402d9:
 
-    # my "But I think another part is that... doing this...{w} will help me be more comfortable with what you do for work."
-    my "But I think another part is that... doing this...{w} will help me be more comfortable with what you do for work."
+    # my "Mais je pense qu'une autre partie c'est que... faire ça...{w} m'aidera à être plus à l'aise avec ce que tu fais pour le travail."
+    my "Mais je pense qu'une autre partie c'est que... faire ça...{w} m'aidera à être plus à l'aise avec ce que tu fais pour le travail."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:656
 translate french sm1cs_my004_32624e7b:
 
-    # my "And maybe I lost that side of me that got really excited about life. It just... slipped away."
-    my "And maybe I lost that side of me that got really excited about life. It just... slipped away."
+    # my "Et peut-être que j'ai perdu cette partie de moi qui était vraiment excitée par la vie. C'est juste... parti."
+    my "Et peut-être que j'ai perdu cette partie de moi qui était vraiment excitée par la vie. C'est juste... parti."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:676
 translate french sm1cs_my004_4524d312:
 
-    # my "But uh... don't get too distracted. I think there are a few more spots that need oil."
-    my "But uh... don't get too distracted. I think there are a few more spots that need oil."
+    # my "Mais euh... ne te laisse pas trop distraire. Je pense qu'il y a encore quelques endroits qui ont besoin d'huile."
+    my "Mais euh... ne te laisse pas trop distraire. Je pense qu'il y a encore quelques endroits qui ont besoin d'huile."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:684
 translate french sm1cs_my004_56ed8403:
 
-    # mct "My god. Mom wants me to rub down her tits!"
-    mct "My god. Mom wants me to rub down her tits!"
+    # mct "Mon Dieu. Maman veut que je lui masse les seins !"
+    mct "Mon Dieu. Maman veut que je lui masse les seins !"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:685
 translate french sm1cs_my004_5c37fdf0:
 
-    # mct "God, she is being so forward..."
-    mct "God, she is being so forward..."
+    # mct "Mon Dieu, elle est tellement directe..."
+    mct "Mon Dieu, elle est tellement directe..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:687
 translate french sm1cs_my004_96b86827:
 
-    # mct "My god. Melony wants me to rub down her tits!"
-    mct "My god. Melony wants me to rub down her tits!"
+    # mct "Mon Dieu. Melony veut que je lui masse les seins !"
+    mct "Mon Dieu. Melony veut que je lui masse les seins !"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:688
 translate french sm1cs_my004_6944a890:
 
-    # mct "God, she is acting so forward..."
-    mct "God, she is acting so forward..."
+    # mct "Mon Dieu, elle agit de façon tellement directe..."
+    mct "Mon Dieu, elle agit de façon tellement directe..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:740
 translate french sm1cs_my004_5481387b:
 
-    # mct "Nope, not imagining it!"
-    mct "Nope, not imagining it!"
+    # mct "Non, je n'imagine pas ça !"
+    mct "Non, je n'imagine pas ça !"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:841
 translate french sm1cs_my004_17c43927:
 
-    # mc "I mean, I think it's a lot to just surprise someone with a one on one swimsuit competition."
-    mc "I mean, I think it's a lot to just surprise someone with a one on one swimsuit competition."
+    # mc "Je veux dire, je pense que c'est beaucoup de surprendre quelqu'un avec une compétition de maillots de bain en tête-à-tête."
+    mc "Je veux dire, je pense que c'est beaucoup de surprendre quelqu'un avec une compétition de maillots de bain en tête-à-tête."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:849
 translate french sm1cs_my004_941d9048:
 
-    # mc "*annoyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
-    mc "*annoyed noise* I can handle it, Stacy. You just have to have a little faith in the process."
+    # mc "*bruit agacé* Je peux gérer, Stacy. Tu dois juste avoir un peu confiance dans le processus."
+    mc "*bruit agacé* Je peux gérer, Stacy. Tu dois juste avoir un peu confiance dans le processus."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:896
 translate french sm1cs_my004_ebe34586:
 
-    # mct "And then her moaning while I massaged her tits..."
-    mct "And then her moaning while I massaged her tits..."
+    # mct "Et puis ses gémissements pendant que je lui massais les seins..."
+    mct "Et puis ses gémissements pendant que je lui massais les seins..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:903
 translate french sm1cs_my004_fadda722:
 
-    # mct "I should probably give Mom a few days to calm down. That will give me some time to come up with a plan for what comes next."
-    mct "I should probably give Mom a few days to calm down. That will give me some time to come up with a plan for what comes next."
+    # mct "Je devrais probablement donner quelques jours à maman pour se calmer. Ça me donnera du temps pour élaborer un plan pour la suite."
+    mct "Je devrais probablement donner quelques jours à maman pour se calmer. Ça me donnera du temps pour élaborer un plan pour la suite."
 

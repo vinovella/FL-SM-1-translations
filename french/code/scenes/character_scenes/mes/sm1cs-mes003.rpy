@@ -1057,8 +1057,8 @@ translate french sm1cs_mes003_pussy_b8fb10fc:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:612
 translate french sm1cs_mes003_pussy_0b0a318e:
 
-    # mes "Aahuhua-shit-hooouhaah."
-    mes "Aahuhua-shit-hooouhaah."
+    # mes "Aahuhua-merde-hooouhaah."
+    mes "Aahuhua-merde-hooouhaah."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:615
 translate french sm1cs_mes003_pussy_c6c37043:
@@ -1737,12 +1737,12 @@ translate french strings:
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:229
 translate french sm1cs_mes003_059006be:
 
-    # mc "We can't all live in trust-fund homes."
-    mc "We can't all live in trust-fund homes."
+    # mc "On ne peut pas tous vivre dans des maisons de fonds fiduciaires."
+    mc "On ne peut pas tous vivre dans des maisons de fonds fiduciaires."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:800
 translate french sm1cs_mes003_menu_dd5bb37b:
 
-    # mes "*happy stuffy moans*"
-    mes "*happy stuffy moans*"
+    # mes "*gémissements étouffés de bonheur*"
+    mes "*gémissements étouffés de bonheur*"
 

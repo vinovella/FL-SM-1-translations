@@ -992,7 +992,7 @@ translate french sm1cs_mes006_continue_307a2969:
 translate french sm1cs_mes006_continue_015aa569:
 
     # "Stacy and Min" "*Laughing*"
-    "Stacy and Min" "*Rient*"
+    "Stacy et Min" "*Rient*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:557
 translate french sm1cs_mes006_continue_8e345497:
@@ -3044,13 +3044,13 @@ translate french sm1cs_mes006_water_sports_519bd721:
 translate french sm1cs_mes006_water_sports_64dd68df:
 
     # "Stacy and Min" "*giggling*"
-    "Stacy and Min" "*ricanent*"
+    "Stacy et Min" "*ricanent*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1563
 translate french sm1cs_mes006_water_sports_52007839:
 
     # "Stacy and Min" "*breathing deeply*"
-    "Stacy and Min" "*respirent profondément*"
+    "Stacy et Min" "*respirent profondément*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1571
 translate french sm1cs_mes006_water_sports_424b1dc6:
@@ -3603,48 +3603,48 @@ translate french strings:
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:270
 translate french sm1cs_mes006_6193ab1b:
 
-    # mc "I love you, my naughty fuck-minx."
-    mc "I love you, my naughty fuck-minx."
+    # mc "Je t'aime, ma petite coquine à baiser."
+    mc "Je t'aime, ma petite coquine à baiser."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:432
 translate french sm1cs_mes006_e9cbaa26:
 
-    # sy "Oh cool. A Medusa."
-    sy "Oh cool. A Medusa."
+    # sy "Oh cool. Une Méduse."
+    sy "Oh cool. Une Méduse."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:441
 translate french sm1cs_mes006_ea3b9fe6:
 
-    # sy "I call the Medusa!"
-    sy "I call the Medusa!"
+    # sy "Je prends la Méduse !"
+    sy "Je prends la Méduse !"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:447
 translate french sm1cs_mes006_b0ac8035:
 
-    # sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
-    sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
+    # sy "Les règles, c'est nul.{w} La Méduse est sexy et elle est verte, comme mes cheveux."
+    sy "Les règles, c'est nul.{w} La Méduse est sexy et elle est verte, comme mes cheveux."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:669
 translate french sm1cs_mes006_continue_dea9bd6d:
 
-    # "[mcname] and Min" "*laughing*"
-    "[mcname] and Min" "*laughing*"
+    # "[mcname] and Min" "*ricanent*"
+    "[mcname] et Min" "*ricanent*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:827
 translate french sm1cs_mes006_continue_3e2044ca:
 
-    # mes "But then wouldn't I just be trading my parents for you?"
-    mes "But then wouldn't I just be trading my parents for you?"
+    # mes "Mais alors, est-ce que je n'échangerais pas simplement mes parents contre toi ?"
+    mes "Mais alors, est-ce que je n'échangerais pas simplement mes parents contre toi ?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:885
 translate french sm1cs_mes006_continue_35dadad0:
 
-    # mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
-    mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
+    # mc "Mais on dirait que tu n'es pas opposée à l'idée de rester ici. Même avec Stacy et moi ensemble."
+    mc "Mais on dirait que tu n'es pas opposée à l'idée de rester ici. Même avec Stacy et moi ensemble."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1244
 translate french sm1cs_mes006_continue_22b1ff20:
 
-    # mes "I was hesitant... being around [mcname]."
-    mes "I was hesitant... being around [mcname]."
+    # mes "J'hésitais... être près de [mcname]."
+    mes "J'hésitais... être près de [mcname]."
 
