@@ -1,0 +1,190 @@
+spanish/code/scenes/it_office/am/sm1cs-am003.rpy [341 words]
+
+753: am "Humans. We have created all this technology.{w} It can do incredible things."
+759: am "Hmmph.{w} Sounds like you wasted your afternoon. I'm fine."
+765: am "It's bullying to say someone {b}sucks{/b} at their job?"
+771: mct "This girl...{w} It's like Anna said. If she wasn't so good, her attitude would have gotten her kicked right out of Orbix."
+777: mc "You were right. I didn't come to check on you.{w} I need help with a work problem and this is where you are working now. Simple as that."
+783: am "After that work session, I... I figured you would either quit or just do the bare minimum with your assignments."
+789: am "But here you are..."
+795: mc "You were. I can be a screwup, but I can also work incredibly hard to get what I want.{w} Sometimes I stumble, but I never stay on the ground for long."
+801: mc "I didn't study IT at college, but I've always been a fast learner.{w} Teach me, I'm ready to learn at your feet, April."
+807: am "Against my better judgment, I'll try to give you some pointers here and there."
+813: am "I am not your teacher, [mcname]. That's not my job."
+819: am "Okay.{w} Show me what problems you're having with the website."
+825: mc "One dark roast coffee for the girl who roasts me every day."
+831: mct "Ah. That hit the spot."
+837: am "Yes. There is a lot of stuff going on. Decisions I... we have to make.{w} Hard decisions."
+843: mc "I think we've got our signals mixed up.{w} If I wanted to ask you on a date, I'd ask you on a date."
+849: am "Totally.{w} And you wouldn't ask me on a date because you know I'm out of your league."
+855: am "I've worked with a lot of assholes, and I thought you'd just be like them.{w} But you're not just sitting around. You're-"
+861: mc "Trying to not {b}suck{/b} all the time?"
+867: mc "So I'm an elite-code-monkey now, right?"
+873: am "Oh yeah... A future Wozniak."
+879: am "Cool.{w} It's a pagan rock band so be prepared. You might see me... looking a bit crazy.{w} And I may or may not have warpaint on my face."
+885: new "I had to come here for work"
+
+spanish/code/scenes/it_office/am/sm1cs-am006.rpy [409 words]
+
+1019: mc "Isn't the customer always right?"
+1025: am "I {b}know{/b} I can be a lot.{w} That's what you're thinking, right?"
+1031: mc "So you're going to try lowering your shields?"
+1037: am "I'm not {b}that{/b} easy, [mcname]."
+1043: mc "The last time we were out, you asked me to fuck you in your car..."
+1049: mct "I remember this machine.{w} It's easier to throw into the big rings but you get the most points by throwing the ball into the smaller rings."
+1055: am "I'm a little rusty..."
+1061: am "And you know you're never going to see my smaller {b}hole{/b} acting like that."
+1067: am "It's gotta be you.{w} When I do this alone, I always score way higher."
+1073: mc "That might be it.{w} Or it's because you're not really letting yourself relax."
+1079: mc "I studied your movements, April.{w} Your body was so stiff and tense."
+1085: mc "Yeah, sounds like you're {b}totally{/b} relaxed."
+1091: mc "Once is lucky.{w} Twice is just plain {b}good{/b}."
+1097: am "No way.{w} Best two out of three."
+1103: am "Yes!{w} Wooh. She shoots, she scores!"
+1109: am "In your face!{w} In your stupid handsome face!"
+1115: am "Oh yeah.{w} Forget I said anything."
+1121: mc "So spill it.{w} When was the last time you let your shields down?"
+1127: mc "Okay, liar."
+1133: am "I'm not lying.{w} I... I really mean it, [mcname]."
+1139: am "It's probably been years..."
+1145: am "Around middle school is when I realized how good I was with computers..."
+1151: am "When I started getting really good, a lot of guys {i}changed{/i} how they acted toward me."
+1157: am "Sometimes it was small changes.{w} Other times..."
+1163: am "I lost friends.{w} People I knew for years turned into super assholes."
+1169: mct "I can't imagine that was easy."
+1175: am "I had to break them with my words.{w} Or at least get them to leave me the hell alone."
+1181: mc "Is that why you treat Anna like you do?{w} Because she got the promotion and is now above you?"
+1187: mc "Maybe because I'm the first non-asshole who saw the {i}real{/i} you?{w} Underneath the barbs."
+1193: am "Hmmph.{w} Maybe you're onto something."
+1199: am "But more realistically, it's probably because I have a crush on you."
+1205: am "And one day, it will wear off."
+1211: mc "I do.{w} Maybe we can test things out again."
+1217: mc "*softly* The basics."
+1223: mc "Okay, okay.{w} We don't have to-"
+1229: mct "Woah.{w} She's... she's really into this."
+1235: am "What?{w} No. Of course I didn't.{w} Shut up!"
+1241: am "I know.{w} I don't know what's gotten into me."
+1247: am "I {b}hate{/b} that thought more."
+1253: mc "So what happens now?"
+1259: am "You {i}were{/i} right, this was a good idea."
+1265: am "I just.{w} For now, I still need time."
+1271: new "That really sucks"
+1275: new "You look great"
+1279: new "I hope it doesn't"
+1283: new "Kiss April again"
+1287: new "Don't kiss April"
+
+spanish/code/scenes/it_office/am/sm1cs-am008.rpy [3 words]
+
+3186: mc "Thinking about what?"
+
+spanish/code/scenes/it_office/cw/sm1cs-cw001.rpy [1 words]
+
+329: cw "Excitable."
+
+spanish/code/scenes/it_office/cw/sm1cs-cw006.rpy [17 words]
+
+887: mct "She could get rid of me just like that."
+1810: mc "My life is very complicated as it is."
+
+spanish/code/scenes/it_office/ns/sm1cs-ns001.rpy [8 words]
+
+589: ag "Of course. The office has its own cafeteria."
+
+spanish/code/scenes/it_office/ns/sm1cs-ns011.rpy [60 words]
+
+1105: mc "No no. You don't have to compete."
+1111: mc "Stacy has never minded if I am with other girls while I am with her."
+1117: mc "It actually turns her on a lot."
+1123: mc "I guess the question I should have asked you earlier is..."
+1129: ns "If I also believe that I could {b}share{/b} you."
+1153: mct "Was that a good noise or a bad noise?"
+
+spanish/code/scenes/it_office/ns/sm1cs-ns012.rpy [112 words]
+
+1877: new "I did, didn't I?"
+1881: new "Nah. You would have rescued yourself in due time"
+1885: new "You're very important to me too"
+1889: new "Interruptions can be fun"
+1893: new "Aggressive"
+1897: new "Relaxed"
+1901: new "Do, don't ask"
+1905: new "Oh that's fucking hot"
+1909: new "Create a pet label for Nari and you during private sex like this."
+1913: new "Create pet labels"
+1917: new "I prefer us just being who we are, Nari"
+1921: new "Do you want to describe Nari in a special way?"
+1925: new "Please enter pet label for Nari."
+1929: new "Do you want Nari to describe you in a special way?"
+1933: new "Please enter pet label for you."
+1937: new "Cum inside Nari"
+1941: new "Cum on Nari"
+1945: new "Cum in Nari's asshole"
+1949: new "Cum all over Nari's face"
+1953: new "I want to cum in her mouth"
+
+spanish/code/scenes/it_office/ns/sm1cs-ns013.rpy [17 words]
+
+197: sy "Ahuha-good-ahah..."
+1805: ns "Oh no, [nsmcpetlabel]."
+2411: sy "That's okay, [mcname]."
+2417: sy "I'm already pretty wet from playing with your cock."
+
+spanish/code/scenes/it_office/ns/sm1cs-ns014.rpy [8 words]
+
+1227: sy "The look on your face."
+1233: ns "Hmmm. What cat?"
+
+spanish/code/scenes/main_story/sm1ms020.rpy [20 words]
+
+1309: my "Oh! You brought us to Guns and Rosette!"
+
+spanish/code/scenes/main_story/sm1ms024.rpy [22 words]
+
+839: mc "Come on, you have that look on your face."
+
+spanish/code/scenes/main_story/sm1ms026.rpy [68 words]
+
+833: sy "All right! Now the most important thing!"
+839: mc "What?"
+845: sy "You have to decide on which movie we are making."
+851: mc "Oh right. That is pretty important."
+863: sy "Once you figure it out, come and talk to me."
+869: mc "What would I do without you, little sister?"
+875: mc "What would I do without you, Stacy?"
+881: sy "God only knows..."
+887: new "A Pirates Movie"
+891: new "A Sci-Fi Movie"
+895: new "That's all for now"
+899: new "We should do watersports"
+903: new "No watersports"
+
+spanish/code/scenes/main_story/sm1ms028.rpy [29 words]
+
+5: "BUZZ BUZZ"
+917: sy "*slurp*"
+1003: mc "We will need to watch him very carefully if Lyssa says we can do business together."
+1009: new "You got $500 as your signup bonus from Porn Cave"
+
+spanish/code/scenes/main_story/sm1ms029.rpy [64 words]
+
+4469: "Lady" "Hola Kanya. [mcname] dijo que había una fiesta esta noche." (Reason: Speaker not translated)
+4499: "Man" "Sí..." (Reason: Speaker not translated)
+4505: "Man" "Qué suerte tengo." (Reason: Speaker not translated)
+4523: "Man" "Oh bueno. Gracias, Kanya." (Reason: Speaker not translated)
+6819: mes "I see you two were paying attention!"
+6867: mc "She's a worry wort."
+6873: mc "Time for a little ground and pound."
+6879: arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
+6885: et "But I don't think it will be enough."
+
+spanish/code/scenes/main_story/sm1ms030.rpy [64 words]
+
+749: sbf "Hold your horses, Diamond girl!"
+755: sbf "You're not the only one who wants to join!"
+761: sbf "Damn straight. This is where the party's at, after all."
+767: sbf "So you may as well toss in the towel now, Daisy."
+773: sbf "We'll see about that."
+779: sbf "Yo, Stacy. What can we expect for Season Two of S&M Studio?"
+785: sbf "Bye Zemfira. Love your whole vibe by the way."
+791: sbf "And the Patreon poll!"

@@ -1,0 +1,159 @@
+spanish/common.rpy [5 words]
+
+777: new "Clipboard voicing enabled. "
+785: new "Self-voicing enabled. "
+
+spanish/code/data/characters/characters.rpy [31 words]
+
+135: new "Walker" ## Gender Female
+
+spanish/code/data/characters/names.rpy [1 words]
+
+73: new "Jogger" ## Gender Female
+
+spanish/code/data/gallery/achievements.rpy (Entire file untranslated) [242 words]
+
+spanish/code/data/quests/vn_mode_data.rpy [83 words]
+
+731: new "Talk big business"
+735: new "Progress AmRose's story"
+739: new "Throw a party"
+743: new "Start making the second movie"
+747: new "Text AmRose for a meetup"
+751: new "Answer AmRose's message"
+755: new "Reminisce with AmRose"
+759: new "Talk with Amore"
+763: new "Date with Debbie at the shooting range"
+767: new "Movie date with Debbie"
+771: new "Working it with Maya"
+775: new "Some fun with Min"
+779: new "Contest with Melony and Stacy"
+783: new "A night in Melony"
+787: new "Answer April's message"
+791: new "Dinner with April"
+795: new "Perform a hungry show"
+799: new "Talk about the play"
+803: new "Text Taisia"
+807: new "Taisia wants to make breakfast"
+811: new "Nari is hungry in the morning"
+
+spanish/code/live_chat/live_chat.rpy [27 words]
+
+5: new "Please finish login in the browser, then press Check Status."
+9: new "Subscription required. Please check our Patreon page for access."
+13: new "Live Chat reset."
+17: new "Could not reset chat: [error]."
+
+spanish/code/live_chat/live_chat_auth.rpy (Entire file untranslated) [93 words]
+
+spanish/code/live_chat/live_chat_helpers.rpy [8 words]
+
+5: new "Live Chat state reset."
+9: new "Session expired. Re-authentication required."
+
+spanish/code/live_chat/live_chat_storage.rpy [12 words]
+
+5: new "No chat logs to export yet."
+9: new "Export failed: [error]."
+13: new "Chat exported: [path]."
+
+spanish/code/live_chat/live_chat_ui.rpy (Entire file untranslated) [115 words]
+
+spanish/code/minigames/wurst_delivery/wurst_delivery_class.rpy [2 words]
+
+11: new "Wurst delivery" ## Action of delivering wurst
+
+spanish/code/renpy/screens/others.rpy [10 words]
+
+59: new "How do you want to name your Season 2 save?"
+
+spanish/code/renpy/screens/phone.rpy [5 words]
+
+51: new "Save for Season 2"
+55: new "Settings{#phone_button}"
+
+spanish/code/renpy/screens/save.rpy [60 words]
+
+25: new "Congratulations! You completed all storylines!"
+29: new "Here is your progress so far!"
+33: new "Congratulations! You completed the main story!"
+37: new "You completed 100% of the game!"
+41: new "You finished the main story!"
+45: new "Save your progress for S&M Studio Season 2!"
+49: new "You can continue to play the game and save later from your phone as well."
+53: new "Skip"
+57: new "Saves For Season [season]"
+61: new "Saves From Season [season]"
+
+spanish/code/renpy/screens/screens.rpy [21 words]
+
+253: new "Audio"
+479: new "Saves For Season 2"
+483: new "MUSIC LISENCES & SOURCES"
+487: new "FRENCH TRANSLATION"
+491: new "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
+
+spanish/code/renpy/screens/sm_website.rpy [2 words]
+
+9: new "VIDEOS"
+37: new "Top"
+
+spanish/code/scenes/character_scenes/arj/sm1cs-arj003.rpy [20 words]
+
+1043: new "It may be too late"
+1047: new "Easier said than done"
+1051: new "You told me you loved me"
+1055: new "You became my sex slave"
+
+spanish/code/scenes/character_scenes/mas/sm1cs-mas003.rpy [30 words]
+
+1701: mc "\"She could be the Slobber Atractor.\""
+1707: lg "I've already seen Olivia's and Kennedy's girls."
+1713: mct "No way Maya goes for this."
+1719: "Kennedy, Lauren and Olivia" "*cheer wildly*" (Reason: Speaker not translated)
+1725: new "You got a $[amount] as your cut of the tip"
+
+spanish/code/scenes/character_scenes/mas/sm1cs-mas004.rpy [80 words]
+
+1537: ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
+
+spanish/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy [27 words]
+
+1748: mes "I need your piss all over me. Make me your dirty little piss slut."
+1754: mes "I'm glad I came back from Korea. This...us...{w} Being together."
+
+spanish/code/scenes/character_scenes/mes/sm1cs-mes001.rpy [50 words]
+
+1037: mc "\"Complicated\", that's one way to describe everything that's happened."
+1043: mc "When you're painting and drywalling for the third day straight, it helps to have someone cracking jokes at two in the morning."
+1049: mc "Too bad they didn't consider that stable also means \"happy\", something a forced setup wouldn't necessarily guarantee."
+
+spanish/code/scenes/character_scenes/mes/sm1cs-mes002i.rpy [15 words]
+
+197: mc "Talking to her, it was like... I'm not sure, but she looked a bit lost."
+
+spanish/code/scenes/character_scenes/mes/sm1cs-mes003.rpy [10 words]
+
+1739: mc "We can't all live in trust-fund homes."
+1745: mes "*happy stuffy moans*"
+
+spanish/code/scenes/character_scenes/mes/sm1cs-mes004.rpy [3 words]
+
+1051: mes "No. It's... complicated."
+
+spanish/code/scenes/character_scenes/mes/sm1cs-mes005.rpy [15 words]
+
+1285: mc "Pay your bill and let's go meet Kanya."
+1291: kv "Alrighty, let's keep things nice and loose."
+
+spanish/code/scenes/character_scenes/mes/sm1cs-mes006.rpy [68 words]
+
+695: sy "Yay."
+3611: mc "I love you, my naughty fuck-minx."
+3617: sy "Oh cool. A Medusa."
+3623: sy "I call the Medusa!"
+3629: sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
+3635: "[mcname] and Min" "*laughing*" (Reason: Speaker not translated)
+3641: mes "But then wouldn't I just be trading my parents for you?"
+3647: mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
+3653: mes "I was hesitant... being around [mcname]."
