@@ -830,11 +830,11 @@ translate portuguese strings:
 translate portuguese sm1cs_mh003_ca55627e:
 
     # mc "All right, all right! Jeez, I'm texting her right now."
-    mc "All right, all right! Jeez, I'm texting her right now."
+    mc "Tá bom, tá bom! Eu hein, tô mandando a mensagem."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:299
 translate portuguese sm1cs_mh003_romance_99931624:
 
     # mc "Of course! Yes! Absolutely."
-    mc "Of course! Yes! Absolutely."
+    mc "Claro! Sim! Com certeza."
 
