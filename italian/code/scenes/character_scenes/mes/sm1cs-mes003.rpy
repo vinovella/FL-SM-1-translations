@@ -1736,11 +1736,11 @@ translate italian strings:
 translate italian sm1cs_mes003_059006be:
 
     # mc "We can't all live in trust-fund homes."
-    mc "We can't all live in trust-fund homes."
+    mc "Non tutti possiamo vivere in case pagate dai fondi fiduciari."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:800
 translate italian sm1cs_mes003_menu_dd5bb37b:
 
     # mes "*happy stuffy moans*"
-    mes "*happy stuffy moans*"
+    mes "*gemiti soffocati felici*"
 

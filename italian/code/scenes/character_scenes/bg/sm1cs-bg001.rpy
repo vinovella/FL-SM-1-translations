@@ -8,7 +8,7 @@ translate italian sm1cs_bg001_ba263eeb:
 translate italian sm1cs_bg001_764cd629:
 
     # "BDSM Model" "Oh, shit - uhm, hey [mcname]. Uhhh, what's... Hi."
-    "BDSM Model" "Oh, merda - uhm, ehi [mcname]. Uhhh, cosa... Ciao."
+    "Modella BDSM" "Oh, merda - uhm, ehi [mcname]. Uhhh, cosa... Ciao."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:30
 translate italian sm1cs_bg001_dd35a703:
@@ -20,7 +20,7 @@ translate italian sm1cs_bg001_dd35a703:
 translate italian sm1cs_bg001_03c6db78:
 
     # "BDSM Model" "Oh yeah?? Why's that?"
-    "BDSM Model" "Oh sì?? Come mai?"
+    "Modella BDSM" "Oh sì?? Come mai?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:37
 translate italian sm1cs_bg001_acbd2f1d:
@@ -32,7 +32,7 @@ translate italian sm1cs_bg001_acbd2f1d:
 translate italian sm1cs_bg001_cbaada12:
 
     # "BDSM Model" "Oh... Really?"
-    "BDSM Model" "Oh... Davvero?"
+    "Modella BDSM" "Oh... Davvero?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:43
 translate italian sm1cs_bg001_d86b865f:
@@ -266,7 +266,7 @@ translate italian sm1cs_bg001_3f7d054e:
 translate italian sm1cs_bg001_1aa9d36b:
 
     # bg "{i}Leather and Latex.{/i}"
-    bg "{i}Leather and Latex.{/i}"
+    bg "{i}Pelle e Lattice.{/i}"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:161
 translate italian sm1cs_bg001_99a6dbdf:
@@ -1104,7 +1104,7 @@ translate italian strings:
 translate italian sm1cs_bg001_01872126:
 
     # "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
-    "BDSM Model" "Oh è... Un buon punto. Uhm, puoi chiamarmi...{w} Amore."
+    "Modella BDSM" "Oh è... Un buon punto. Uhm, puoi chiamarmi...{w} Amore."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:167
 translate italian sm1cs_bg001_f21ffe59:

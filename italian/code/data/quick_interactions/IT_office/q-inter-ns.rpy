@@ -1052,7 +1052,7 @@ translate italian q_inter_ns_41_0ffd1d15:
 translate italian q_inter_ns_41_52a24206:
 
     # ns "Nari Stardust. Nari Always-Wet."
-    ns "Nari Stardust. Nari Always-Wet."
+    ns "Nari Stardust. Nari Sempre-Bagnata."
 
 # game/code/data/quick_interactions/IT_office/q-inter-ns.rpy:592
 translate italian q_inter_ns_41_8dd527a3:

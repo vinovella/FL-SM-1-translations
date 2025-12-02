@@ -830,11 +830,11 @@ translate italian strings:
 translate italian sm1cs_mh003_ca55627e:
 
     # mc "All right, all right! Jeez, I'm texting her right now."
-    mc "All right, all right! Jeez, I'm texting her right now."
+    mc "Va bene, va bene! Cavolo, le sto scrivendo proprio adesso."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:299
 translate italian sm1cs_mh003_romance_99931624:
 
     # mc "Of course! Yes! Absolutely."
-    mc "Of course! Yes! Absolutely."
+    mc "Certo! Sì! Assolutamente."
 

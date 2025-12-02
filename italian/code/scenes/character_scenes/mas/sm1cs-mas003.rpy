@@ -764,7 +764,7 @@ translate italian sm1cs_mas003_third_delivery_f1d06a18:
 translate italian sm1cs_mas003_third_delivery_753a892f:
 
     # "[mcname] and Maya" "*laughing*"
-    "[mcname] and Maya" "*ridendo*"
+    "[mcname] e Maya" "*ridendo*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:490
 translate italian sm1cs_mas003_third_delivery_a311ba0f:
@@ -1698,23 +1698,23 @@ translate italian sm1cs_mas003_third_delivery_fedc52e9:
 translate italian sm1cs_mas003_second_delivery_e42e9cc6:
 
     # mc "\"She could be the Slobber Atractor.\""
-    mc "\"She could be the Slobber Atractor.\""
+    mc "\"Potrebbe essere l'Attrattrice di Bava.\""
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:756
 translate italian sm1cs_mas003_third_delivery_b52e61ff:
 
     # lg "I've already seen Olivia's and Kennedy's girls."
-    lg "I've already seen Olivia's and Kennedy's girls."
+    lg "Ho già visto le ragazze di Olivia e Kennedy."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:765
 translate italian sm1cs_mas003_third_delivery_c1710beb:
 
     # mct "No way Maya goes for this."
-    mct "No way Maya goes for this."
+    mct "Maya non ci sta di sicuro."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:787
 translate italian sm1cs_mas003_third_delivery_a9e1c1c0:
 
     # "Kennedy, Lauren and Olivia" "*cheer wildly*"
-    "Kennedy, Lauren and Olivia" "*cheer wildly*"
+    "Kennedy, Lauren e Olivia" "*esultano selvaggiamente*"
 

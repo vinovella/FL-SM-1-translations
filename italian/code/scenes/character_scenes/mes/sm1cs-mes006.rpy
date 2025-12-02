@@ -992,7 +992,7 @@ translate italian sm1cs_mes006_continue_307a2969:
 translate italian sm1cs_mes006_continue_015aa569:
 
     # "Stacy and Min" "*Laughing*"
-    "Stacy and Min" "*Ridendo*"
+    "Stacy e Min" "*Ridendo*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:557
 translate italian sm1cs_mes006_continue_8e345497:
@@ -3044,13 +3044,13 @@ translate italian sm1cs_mes006_water_sports_519bd721:
 translate italian sm1cs_mes006_water_sports_64dd68df:
 
     # "Stacy and Min" "*giggling*"
-    "Stacy and Min" "*ridacchiando*"
+    "Stacy e Min" "*ridacchiando*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1563
 translate italian sm1cs_mes006_water_sports_52007839:
 
     # "Stacy and Min" "*breathing deeply*"
-    "Stacy and Min" "*respirando profondamente*"
+    "Stacy e Min" "*respirando profondamente*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1571
 translate italian sm1cs_mes006_water_sports_424b1dc6:
@@ -3606,47 +3606,47 @@ translate italian strings:
 translate italian sm1cs_mes006_6193ab1b:
 
     # mc "I love you, my naughty fuck-minx."
-    mc "I love you, my naughty fuck-minx."
+    mc "Ti amo, mia birichina vogliosa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:432
 translate italian sm1cs_mes006_e9cbaa26:
 
     # sy "Oh cool. A Medusa."
-    sy "Oh cool. A Medusa."
+    sy "Oh figo. Una Medusa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:441
 translate italian sm1cs_mes006_ea3b9fe6:
 
     # sy "I call the Medusa!"
-    sy "I call the Medusa!"
+    sy "Prendo la Medusa!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:447
 translate italian sm1cs_mes006_b0ac8035:
 
     # sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
-    sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
+    sy "Regole, schmegole.{w} La Medusa è sexy ed è verde, come i miei capelli."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:669
 translate italian sm1cs_mes006_continue_dea9bd6d:
 
     # "[mcname] and Min" "*laughing*"
-    "[mcname] and Min" "*laughing*"
+    "[mcname] e Min" "*ridendo*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:827
 translate italian sm1cs_mes006_continue_3e2044ca:
 
     # mes "But then wouldn't I just be trading my parents for you?"
-    mes "But then wouldn't I just be trading my parents for you?"
+    mes "Ma allora non starei solo scambiando i miei genitori per te?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:885
 translate italian sm1cs_mes006_continue_35dadad0:
 
     # mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
-    mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
+    mc "Ma sembra che tu non sia contraria all'idea di restare qui. Anche con me e Stacy che stiamo insieme."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1244
 translate italian sm1cs_mes006_continue_22b1ff20:
 
     # mes "I was hesitant... being around [mcname]."
-    mes "I was hesitant... being around [mcname]."
+    mes "Ero esitante... stare vicino a [mcname]."
 

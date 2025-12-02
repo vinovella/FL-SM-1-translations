@@ -86,7 +86,7 @@ translate italian q_inter_bg_5_5152d686:
 translate italian q_inter_bg_5_da6d2e15:
 
     # bg "Me too!"
-    bg "Me too!"
+    bg "Anch'io!"
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-bg.rpy:75
 translate italian q_inter_bg_6_e91d05df:

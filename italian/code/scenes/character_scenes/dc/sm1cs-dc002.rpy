@@ -272,7 +272,7 @@ translate italian sm1cs_dc002_ccafa12b:
 translate italian sm1cs_dc002_fcecd43d:
 
     # "Creep" "You'll never take me alive, coppers!"
-    "Creep" "Non mi prenderete mai vivo, sbirri!"
+    "Molestatore" "Non mi prenderete mai vivo, sbirri!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:165
 translate italian sm1cs_dc002_30396998:
