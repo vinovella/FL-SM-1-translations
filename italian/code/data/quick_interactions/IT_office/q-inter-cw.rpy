@@ -199,8 +199,8 @@ translate italian q_inter_cw_9_b155848d:
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:120
 translate italian q_inter_cw_9_ea3232f4:
 
-    # cw "Signora Watts."
-    cw "Signora Watts."
+    # cw "Mrs. Watts."
+    cw "Mrs. Watts."
 
 # game/code/data/quick_interactions/IT_office/q-inter-cw.rpy:122
 translate italian q_inter_cw_9_5eeccfb2:
