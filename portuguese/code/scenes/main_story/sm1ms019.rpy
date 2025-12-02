@@ -632,7 +632,7 @@ translate portuguese sm1ms019_cc4442cc:
 translate portuguese sm1ms019_f9bf11de:
 
     # my "I still can't believe you're opening a porn studio, [mcname]."
-    my "Ainda não acredito que você está abrindo um estúdio pornô."
+    my "Ainda não acredito que você está abrindo um estúdio pornô, [mcname]."
 
 # game/code/scenes/main_story/sm1ms019.rpy:382
 translate portuguese sm1ms019_9cfb2954:
