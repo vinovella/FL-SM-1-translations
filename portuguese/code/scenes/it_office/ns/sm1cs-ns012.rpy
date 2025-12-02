@@ -1496,7 +1496,7 @@ translate portuguese sm1cs_ns012_part_2_5a0cc609:
 translate portuguese sm1cs_ns012_part_2_873a05f3:
 
     # ns "Fuck, me... oh [mcname]... *moans*{w} Eiiaaah-ahuaaah!"
-    ns "Porra... aaih, [mcname... *gemido*{w}  Aaaaaaaah!"
+    ns "Porra... aaih, [mcname]... *gemido*{w}  Aaaaaaaah!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:873
 translate portuguese sm1cs_ns012_part_2_67215ad1:
