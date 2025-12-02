@@ -1628,5 +1628,5 @@ translate french strings:
 translate french sm1mv02s10_624bea48:
 
     # mc "Kanya has been busy with work."
-    mc "Kanya has been busy with work."
+    mc "Kanya a été très occupée avec le travail."
 

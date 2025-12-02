@@ -1328,7 +1328,7 @@ translate french sm1fs_t002_sex_0ae8748f:
 translate french sm1fs_t002_sex_fb39d104:
 
     # sy "That's right. Taisia, I want you to suck on [mcname]'s balls."
-    sy "Exactement. Taisia, je veux que tu lui suces les couilles."
+    sy "Exactement. Taisia, je veux que tu suces les couilles de [mcname]."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:776
 translate french sm1fs_t002_sex_e487696d:

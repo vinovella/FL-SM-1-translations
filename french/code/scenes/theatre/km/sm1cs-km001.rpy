@@ -550,11 +550,11 @@ translate french strings:
 translate french sm1cs_km001_b55f6d50:
 
     # mct "Why is she snooping?"
-    mct "Why is she snooping?"
+    mct "Pourquoi elle fouine ?"
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:116
 translate french sm1cs_km001_7262d936:
 
     # km "Unless you're afraid to lose to a girl."
-    km "Unless you're afraid to lose to a girl."
+    km "À moins que tu aies peur de perdre contre une fille."
 

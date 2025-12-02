@@ -458,7 +458,7 @@ translate french sm1mv02s08_5b095715:
 translate french sm1mv02s08_9a5fab53:
 
     # "Crew" "*cheers*"
-    "Crew" "*acclamations*"
+    "Équipage" "*acclamations*"
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:329
 translate french sm1mv02s08_5338f635:
@@ -590,7 +590,7 @@ translate french sm1mv02s08_8cf3d724:
 translate french sm1mv02s08_ac4def6a:
 
     # "Kasaru Warrior" "Blood and death!"
-    "Kasaru Warrior" "Sang et mort !"
+    "Guerrier Kasaru" "Sang et mort !"
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:430
 translate french sm1mv02s08_414121a1:
@@ -908,7 +908,7 @@ translate french sm1mv02s08_mid_continue_54f5c0ec:
 translate french sm1mv02s08_mid_continue_68fc7504:
 
     # "Computer" "Alert. Catostrophic damage to airlock safety locks."
-    "Computer" "Alerte. Dégâts catastrophiques sur les verrous de sécurité de l’écluse."
+    "Ordinateur" "Alerte. Dégâts catastrophiques sur les verrous de sécurité de l’écluse."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:693
 translate french sm1mv02s08_mid_continue_f71c29fc:
@@ -920,7 +920,7 @@ translate french sm1mv02s08_mid_continue_f71c29fc:
 translate french sm1mv02s08_mid_continue_ec66b2a5:
 
     # "Computer" "Alert! Airlock decompressing. All personnel should evacuate immediately."
-    "Computer" "Alerte ! Décompression de l’écluse. Tout le personnel doit évacuer immédiatement."
+    "Ordinateur" "Alerte ! Décompression de l’écluse. Tout le personnel doit évacuer immédiatement."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:699
 translate french sm1mv02s08_mid_continue_ee3d9f7f:

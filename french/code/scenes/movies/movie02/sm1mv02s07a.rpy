@@ -2,13 +2,13 @@
 translate french sm1mv02s07a_43b066d8:
 
     # "Spa Attendant" "And here you are, Miss Eun-Soo."
-    "Spa Attendant" "Et vous y voilà, Mademoiselle Eun-Soo."
+    "Employée du spa" "Et vous y voilà, Mademoiselle Eun-Soo."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:66
 translate french sm1mv02s07a_217f0f7d:
 
     # "Spa Attendant" "I hope the room is to your liking."
-    "Spa Attendant" "J'espère que la chambre vous conviendra."
+    "Employée du spa" "J'espère que la chambre vous conviendra."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:69
 translate french sm1mv02s07a_6a371bf0:
@@ -20,13 +20,13 @@ translate french sm1mv02s07a_6a371bf0:
 translate french sm1mv02s07a_770afc0b:
 
     # "Spa Attendant" "Your masseuses will be here shortly."
-    "Spa Attendant" "Vos masseuses arriveront sous peu."
+    "Employée du spa" "Vos masseuses arriveront sous peu."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:76
 translate french sm1mv02s07a_1272e27c:
 
     # "Spa Attendant" "Enjoy your spa day."
-    "Spa Attendant" "Profitez bien de votre journée au spa."
+    "Employée du spa" "Profitez bien de votre journée au spa."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:83
 translate french sm1mv02s07a_7937f344:
