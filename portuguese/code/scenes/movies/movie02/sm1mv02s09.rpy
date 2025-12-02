@@ -356,7 +356,7 @@ translate portuguese sm1mv02s09_movie_b964c89a:
 translate portuguese sm1mv02s09_movie_990722a0:
 
     # "Kasaru Warrior" "Hiiiyyyyaaaa!"
-    "Kasaru Warrior" "Hiiiyyyyaaaa!"
+    "Guerreiro Kasaru" "Hiiiyyyyaaaa!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:393
 translate portuguese sm1mv02s09_movie_a5d6c8a3:
@@ -368,7 +368,7 @@ translate portuguese sm1mv02s09_movie_a5d6c8a3:
 translate portuguese sm1mv02s09_movie_9da8b7f0:
 
     # "Kasaru Warrior" "Bring it on."
-    "Kasaru Warrior" "Manda ver."
+    "Guerreiro Kasaru" "Manda ver."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:403
 translate portuguese sm1mv02s09_movie_137e9508:
@@ -422,7 +422,7 @@ translate portuguese sm1mv02s09_movie_b68a9182:
 translate portuguese sm1mv02s09_movie_1f4a0da7:
 
     # "Kasaru Warrior" "I've got you now, you puny human!"
-    "Kasaru Warrior" "Agora eu te peguei, seu humano insignificante!"
+    "Guerreiro Kasaru" "Agora eu te peguei, seu humano insignificante!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:468
 translate portuguese sm1mv02s09_movie_987f7a37:
@@ -440,7 +440,7 @@ translate portuguese sm1mv02s09_movie_46a432d0:
 translate portuguese sm1mv02s09_movie_9bf83b12:
 
     # "Kasaru Warrior" "Yeearrrrggg!!!"
-    "Kasaru Warrior" "Yeearrrrggg!!!"
+    "Guerreiro Kasaru" "Yeearrrrggg!!!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:483
 translate portuguese sm1mv02s09_movie_bf12d390:
@@ -458,7 +458,7 @@ translate portuguese sm1mv02s09_movie_cb97af6b:
 translate portuguese sm1mv02s09_movie_3f6c9ec3:
 
     # "Kasaru Warrior" "That's only going to work once! Now what!?"
-    "Kasaru Warrior" "Isso só vai funcionar uma vez! E agora!?"
+    "Guerreiro Kasaru" "Isso só vai funcionar uma vez! E agora!?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:498
 translate portuguese sm1mv02s09_movie_6fe993c4:
@@ -476,31 +476,31 @@ translate portuguese sm1mv02s09_movie_d9c0aa28:
 translate portuguese sm1mv02s09_movie_447443c4:
 
     # "Kasaru Warrior" "What-!?"
-    "Kasaru Warrior" "O quê!?"
+    "Guerreiro Kasaru" "O quê!?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:510
 translate portuguese sm1mv02s09_movie_8a71592f:
 
     # "Kasaru Warrior" "Ha, what, what do you... oh..."
-    "Kasaru Warrior" "Ha, o que, o que você... oh..."
+    "Guerreiro Kasaru" "Ha, o que, o que você... oh..."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:513
 translate portuguese sm1mv02s09_movie_5cfdbad7:
 
     # "Kasaru Warrior" "Oh, oh, OH!"
-    "Kasaru Warrior" "Oh, oh, OH!"
+    "Guerreiro Kasaru" "Ah, ah, AH!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:516
 translate portuguese sm1mv02s09_movie_e86cc71c:
 
     # "Kasaru Warrior" "Did I just orgasm!?! OH!"
-    "Kasaru Warrior" "Eu acabei de gozar!?! OH!"
+    "Guerreiro Kasaru" "Eu acabei de gozar!?! OH!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:518
 translate portuguese sm1mv02s09_movie_027674b4:
 
     # "Kasaru Warrior" "I'm doing it again!?!"
-    "Kasaru Warrior" "Eu tô gozando de novo!?!"
+    "Guerreiro Kasaru" "Eu tô gozando de novo!?!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:526
 translate portuguese sm1mv02s09_movie_a877a75e:
@@ -554,19 +554,19 @@ translate portuguese sm1mv02s09_movie_1d62f4a8:
 translate portuguese sm1mv02s09_movie_e59b2499:
 
     # "Kasaru Warrior" "Hahaha, I can't wait to kill some humans!"
-    "Kasaru Warrior" "Hahaha, mal posso esperar pra matar uns humanos!"
+    "Guerreiro Kasaru" "Hahaha, mal posso esperar pra matar uns humanos!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:562
 translate portuguese sm1mv02s09_movie_ee5b3b67:
 
     # "Kasaru Warrior" "Or even that sexy alien from the- wait, what the-"
-    "Kasaru Warrior" "Ou até aquela alienígena gostosa do- pera, que por-"
+    "Guerreiro Kasaru" "Ou até aquela alienígena gostosa do- pera, que por-"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:566
 translate portuguese sm1mv02s09_movie_cf520166:
 
     # "Kasaru Warrior" "OH GOD, I JUST CAME SO HARD!"
-    "Kasaru Warrior" "MEU DEUS, EU GOZEI TÃO FORTE!"
+    "Guerreiro Kasaru" "MEU DEUS, EU GOZEI TÃO FORTE!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:582
 translate portuguese sm1mv02s09_movie_3874baf3:
@@ -1706,5 +1706,5 @@ translate portuguese sm1mv02s09_watersports_0fb44886:
 translate portuguese sm1mv02s09_movie_2466e48f:
 
     # mhmes "And she is also quite a spectacle to behold. She really understands how to bring a body to climax."
-    mhmes "And she is also quite a spectacle to behold. She really understands how to bring a body to climax."
+    mhmes "E ela é um espetáculo de se ver. Sabe muito bem trazer um corpo ao orgasmo."
 
