@@ -194,5 +194,5 @@ translate portuguese sm1cs_mes002i_5ee8dc16:
 translate portuguese sm1cs_mes002i_f65bd79d:
 
     # mc "Talking to her, it was like... I'm not sure, but she looked a bit lost."
-    mc "Talking to her, it was like... I'm not sure, but she looked a bit lost."
+    mc "Falando com ela, foi tipo... sei lá, mas ela parecia meio perdida."
 
