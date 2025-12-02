@@ -1326,25 +1326,25 @@ translate portuguese strings:
 translate portuguese sm1cs_my001_94670bab:
 
     # my "Mmmmm, I'll take a glass of the house red."
-    my "Mmmmm, I'll take a glass of the house red."
+    my "Mmmmm, eu quero uma taça do vinho tinto da casa."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:269
 translate portuguese sm1cs_my001_ef92aff5:
 
     # my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
-    my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
+    my "Mas esse impériozinho que ele começou a construir começou a desandar. Problemas na vida amorosa, ideias meia-boca para arrumar dinheiro..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:272
 translate portuguese sm1cs_my001_837a40da:
 
     # my "The models own personal lives becoming entwined with his work and the studio..."
-    my "The models own personal lives becoming entwined with his work and the studio..."
+    my "As vidas pessoais das modelos se misturaram com o trabalho dele e o estúdio..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:299
 translate portuguese sm1cs_my001_27ef328b:
 
     # "Waiter" "Both wonderful choices, sir."
-    "Waiter" "Ótimas escolhas, senhor."
+    "Garçom" "Ótimas escolhas, senhor."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:346
 translate portuguese sm1cs_my001_b4bd7f1c:
