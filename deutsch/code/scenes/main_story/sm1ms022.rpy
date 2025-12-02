@@ -128,7 +128,7 @@ translate deutsch sm1ms022_9c0d6c62:
 translate deutsch sm1ms022_3527addd:
 
     # kv "Old Macdonald had a farm, ee-aye-ee-aye-ohhhhhhh!"
-    kv "Old Macdonald had a farm, ee-aye-ee-aye-ohhhhhhh!"
+    kv "Der alte MacDonald hatte eine Farm, i-a-i-a-ohhhhhhh!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:141
 translate deutsch sm1ms022_ecf61e0e:
@@ -284,7 +284,7 @@ translate deutsch sm1ms022_ee54bb83:
 translate deutsch sm1ms022_4d14f5a6:
 
     # mc "...{w} Fair."
-    mc "...{w} Fair."
+    mc "...{w} Okay."
 
 # game/code/scenes/main_story/sm1ms022.rpy:212
 translate deutsch sm1ms022_84a4ae6e:
@@ -404,7 +404,7 @@ translate deutsch sm1ms022_9c2e2906:
 translate deutsch sm1ms022_8b34867d:
 
     # kv "Cut!"
-    kv "Cut!"
+    kv "Schnitt!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:279
 translate deutsch sm1ms022_834b49f5:
@@ -896,7 +896,7 @@ translate deutsch sm1ms022_9ee38235:
 translate deutsch sm1ms022_de39a93f:
 
     # mc "Ma'am?"
-    mc "Ma'am?"
+    mc "Gnädige Frau?"
 
 # game/code/scenes/main_story/sm1ms022.rpy:565
 translate deutsch sm1ms022_01b4a944:

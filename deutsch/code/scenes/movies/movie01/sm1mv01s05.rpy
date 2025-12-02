@@ -536,7 +536,7 @@ translate deutsch sm1mv01s05_start_shoot_1105e392:
 translate deutsch sm1mv01s05_start_shoot_db974e45:
 
     # "Shink"
-    "Shink"
+    "Klirr"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:417
 translate deutsch sm1mv01s05_start_shoot_988a518f:

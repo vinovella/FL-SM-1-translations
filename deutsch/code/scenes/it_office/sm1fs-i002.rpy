@@ -606,15 +606,15 @@ translate deutsch strings:
 
     # game/code/scenes/it_office/sm1fs-i002.rpy:165
     old "Dating"
-    new "Dating"
+    new "Daten"
 
     # game/code/scenes/it_office/sm1fs-i002.rpy:165
     old "Party"
-    new "Party"
+    new "Feiern"
 
     # game/code/scenes/it_office/sm1fs-i002.rpy:165
     old "Kinky"
-    new "Kinky"
+    new "Versaut"
 
     # game/code/scenes/it_office/sm1fs-i002.rpy:165
     old "I'd rather not say"

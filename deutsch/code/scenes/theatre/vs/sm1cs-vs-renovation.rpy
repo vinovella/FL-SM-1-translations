@@ -696,11 +696,11 @@ translate deutsch strings:
 translate deutsch sm1cs_vs_renovation_50c078bf:
 
     # mc "{i}♪ Come with me, and you'll be- ♪{/i}"
-    mc "{i}♪ Come with me, and you'll be- ♪{/i}"
+    mc "{i}♪ Komm mit mir, und du wirst sein- ♪{/i}"
 
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:178
 translate deutsch sm1cs_vs_renovation_a39ea472:
 
     # mc "{i}♪ In a world of scaffolding and exposed wi-ir-i-ng! ♪{/i}"
-    mc "{i}♪ In a world of scaffolding and exposed wi-ir-i-ng! ♪{/i}"
+    mc "{i}♪ In einer Welt aus Gerüsten und freiliegenden Ka-a-beln! ♪{/i}"
 

@@ -560,7 +560,7 @@ translate deutsch sm1cs_tl004_pool01_70cbaa70:
 translate deutsch sm1cs_tl004_pool01_187f2320:
 
     # mc "Ladies first."
-    mc "Ladies first."
+    mc "Damen zuerst."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:365
 translate deutsch sm1cs_tl004_pool01_ea3a25bb:

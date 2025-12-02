@@ -116,7 +116,7 @@ translate deutsch sm1mv02s06_dab6b7e5:
 translate deutsch sm1mv02s06_dd7d141d:
 
     # sy "Sound?"
-    sy "Sound?"
+    sy "Ton?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:161
 translate deutsch sm1mv02s06_edfcc4f6:

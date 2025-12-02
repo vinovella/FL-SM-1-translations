@@ -1326,29 +1326,29 @@ translate deutsch strings:
 translate deutsch sm1cs_my001_94670bab:
 
     # my "Mmmmm, I'll take a glass of the house red."
-    my "Mmmmm, I'll take a glass of the house red."
+    my "Mmmmm, ich nehme ein Glas vom Hausrotwein."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:269
 translate deutsch sm1cs_my001_ef92aff5:
 
     # my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
-    my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
+    my "Aber dieses kleine Geschäftsimperium, das er aufzubauen begonnen hatte, begann zu zerfallen. Probleme mit seinem Liebesleben, halbgare Ideen zum Geldverdienen..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:272
 translate deutsch sm1cs_my001_837a40da:
 
     # my "The models own personal lives becoming entwined with his work and the studio..."
-    my "The models own personal lives becoming entwined with his work and the studio..."
+    my "Das Privatleben der Models verflocht sich mit seiner Arbeit und dem Studio..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:299
 translate deutsch sm1cs_my001_27ef328b:
 
     # "Waiter" "Both wonderful choices, sir."
-    "Waiter" "Both wonderful choices, sir."
+    "Kellner" "Beides wunderbare Entscheidungen, mein Herr."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:346
 translate deutsch sm1cs_my001_b4bd7f1c:
 
     # my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
-    my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
+    my "Sie löschen die Persönlichkeit aus, damit man sie mit allem füllen kann, was in einen Koffer passt."
 
