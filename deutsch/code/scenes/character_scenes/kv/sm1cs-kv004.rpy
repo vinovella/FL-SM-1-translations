@@ -73,8 +73,8 @@ translate deutsch sm1cs_kv004_2492aa9d:
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:93
 translate deutsch sm1cs_kv004_5dae7152:
 
-    # "BDSM Model" "Uhm, no..."
-    "BDSM Model" "Ähm, nein..."
+    # "BDSM-Modell" "Uhm, no..."
+    "BDSM-Modell" "Ähm, nein..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:96
 translate deutsch sm1cs_kv004_a697c068:
@@ -85,8 +85,8 @@ translate deutsch sm1cs_kv004_a697c068:
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:98
 translate deutsch sm1cs_kv004_afc0b373:
 
-    # "BDSM Model" "I, uhhh..."
-    "BDSM Model" "Ich, ähm..."
+    # "BDSM-Modell" "I, uhhh..."
+    "BDSM-Modell" "Ich, ähm..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:101
 translate deutsch sm1cs_kv004_a1f184e9_1:
@@ -103,8 +103,8 @@ translate deutsch sm1cs_kv004_65553bb9:
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:107
 translate deutsch sm1cs_kv004_c379d321:
 
-    # "BDSM Model" "Well... I've had one or two people say that I'm a freak..."
-    "BDSM Model" "Nun ja... Ein oder zwei Leute haben mir gesagt, dass ich ein Freak bin..."
+    # "BDSM-Modell" "Well... I've had one or two people say that I'm a freak..."
+    "BDSM-Modell" "Nun ja... Ein oder zwei Leute haben mir gesagt, dass ich ein Freak bin..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:109
 translate deutsch sm1cs_kv004_7f618fe0:
@@ -115,8 +115,8 @@ translate deutsch sm1cs_kv004_7f618fe0:
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:112
 translate deutsch sm1cs_kv004_495a38f6:
 
-    # "BDSM Model" "Well, I'm not trying to talk about all that in front of {i}him{/i}!"
-    "BDSM Model" "Nun, ich versuche nicht, vor {i}ihm{/i} darüber zu sprechen!"
+    # "BDSM-Modell" "Well, I'm not trying to talk about all that in front of {i}him{/i}!"
+    "BDSM-Modell" "Nun, ich versuche nicht, vor {i}ihm{/i} darüber zu sprechen!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:114
 translate deutsch sm1cs_kv004_a1f184e9_2:
@@ -169,8 +169,8 @@ translate deutsch sm1cs_kv004_2f7258b2:
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:133
 translate deutsch sm1cs_kv004_b79b3e52:
 
-    # "BDSM Model" "Wait... What's a sex interview?"
-    "BDSM Model" "Moment mal... Was ist ein Sex-Vorstellungsgespräch?"
+    # "BDSM-Modell" "Wait... What's a sex interview?"
+    "BDSM-Modell" "Moment mal... Was ist ein Sex-Vorstellungsgespräch?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:135
 translate deutsch sm1cs_kv004_6d25eca1:
@@ -181,8 +181,8 @@ translate deutsch sm1cs_kv004_6d25eca1:
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:136
 translate deutsch sm1cs_kv004_c591cfb8:
 
-    # "BDSM Model" "Huh..."
-    "BDSM Model" "Hm..."
+    # "BDSM-Modell" "Huh..."
+    "BDSM-Modell" "Hm..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:139
 translate deutsch sm1cs_kv004_a1f184e9_3:
@@ -211,8 +211,8 @@ translate deutsch sm1cs_kv004_c568c804:
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:148
 translate deutsch sm1cs_kv004_34a438a8:
 
-    # "BDSM Model" "Oh, wow..."
-    "BDSM Model" "Oh, wow..."
+    # "BDSM-Modell" "Oh, wow..."
+    "BDSM-Modell" "Oh, wow..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:150
 translate deutsch sm1cs_kv004_4b0457ea:
@@ -253,8 +253,8 @@ translate deutsch sm1cs_kv004_b882791e:
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:166
 translate deutsch sm1cs_kv004_0ecb75b2:
 
-    # "BDSM Model" "So... {size=20}What'd you do next?{/size}"
-    "BDSM Model" "Also... {size=20}Was hast du dann gemacht?{/size}"
+    # "BDSM-Modell" "So... {size=20}What'd you do next?{/size}"
+    "BDSM-Modell" "Also... {size=20}Was hast du dann gemacht?{/size}"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:168
 translate deutsch sm1cs_kv004_e21b6101:
@@ -265,8 +265,8 @@ translate deutsch sm1cs_kv004_e21b6101:
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:171
 translate deutsch sm1cs_kv004_3ee8b4ec:
 
-    # "BDSM Model" "{size=20}Maybe...{/size}"
-    "BDSM Model" "{size=20}Vielleicht...{/size}"
+    # "BDSM-Modell" "{size=20}Maybe...{/size}"
+    "BDSM-Modell" "{size=20}Vielleicht...{/size}"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:173
 translate deutsch sm1cs_kv004_d49ed656:
@@ -283,8 +283,8 @@ translate deutsch sm1cs_kv004_1d181aa4:
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:177
 translate deutsch sm1cs_kv004_39efdb07:
 
-    # "BDSM Model" "Mmmmm..."
-    "BDSM Model" "Mmmmm..."
+    # "BDSM-Modell" "Mmmmm..."
+    "BDSM-Modell" "Mmmmm..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:179
 translate deutsch sm1cs_kv004_a1f184e9_4:
@@ -319,8 +319,8 @@ translate deutsch sm1cs_kv004_0381753f:
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:191
 translate deutsch sm1cs_kv004_02586238:
 
-    # "BDSM Model" "Wow, uhm... Wow..."
-    "BDSM Model" "Wow, ähm... Wow..."
+    # "BDSM-Modell" "Wow, uhm... Wow..."
+    "BDSM-Modell" "Wow, ähm... Wow..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:194
 translate deutsch sm1cs_kv004_784c6428:
@@ -337,8 +337,8 @@ translate deutsch sm1cs_kv004_6e202182:
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:198
 translate deutsch sm1cs_kv004_0a8016a0:
 
-    # "BDSM Model" "God, Kanya..."
-    "BDSM Model" "Gott, Kanya..."
+    # "BDSM-Modell" "God, Kanya..."
+    "BDSM-Modell" "Gott, Kanya..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:200
 translate deutsch sm1cs_kv004_b7d0b520:
@@ -355,14 +355,14 @@ translate deutsch sm1cs_kv004_a4d3f37f:
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:205
 translate deutsch sm1cs_kv004_3fb8a7f4:
 
-    # "BDSM Model" "Sounds good, Kanya. Thanks for another great shoot!"
-    "BDSM Model" "Klingt gut, Kanya. Danke für ein weiteres tolles Shooting!"
+    # "BDSM-Modell" "Sounds good, Kanya. Thanks for another great shoot!"
+    "BDSM-Modell" "Klingt gut, Kanya. Danke für ein weiteres tolles Shooting!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:209
 translate deutsch sm1cs_kv004_92cb771a:
 
-    # "BDSM Model" "{size=20}And stop picking on me in front of [mcname]!{/size}"
-    "BDSM Model" "{size=20}Und hör auf, mich vor [mcname] zu schikanieren!{/size}"
+    # "BDSM-Modell" "{size=20}And stop picking on me in front of [mcname]!{/size}"
+    "BDSM-Modell" "{size=20}Und hör auf, mich vor [mcname] zu schikanieren!{/size}"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:211
 translate deutsch sm1cs_kv004_6fa0d6dd:
@@ -373,8 +373,8 @@ translate deutsch sm1cs_kv004_6fa0d6dd:
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:218
 translate deutsch sm1cs_kv004_bda7dcbc:
 
-    # "BDSM Model" "I'll see you around, [mcname]."
-    "BDSM Model" "Bis bald, [mcname]."
+    # "BDSM-Modell" "I'll see you around, [mcname]."
+    "BDSM-Modell" "Bis bald, [mcname]."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:225
 translate deutsch sm1cs_kv004_3fc9c984:

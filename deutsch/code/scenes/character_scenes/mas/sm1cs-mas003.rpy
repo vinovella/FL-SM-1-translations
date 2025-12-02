@@ -1698,23 +1698,23 @@ translate deutsch sm1cs_mas003_third_delivery_fedc52e9:
 translate deutsch sm1cs_mas003_second_delivery_e42e9cc6:
 
     # mc "\"She could be the Slobber Atractor.\""
-    mc "\"She could be the Slobber Atractor.\""
+    mc "\"Sie könnte die Sabber-Attraktion sein.\""
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:756
 translate deutsch sm1cs_mas003_third_delivery_b52e61ff:
 
     # lg "I've already seen Olivia's and Kennedy's girls."
-    lg "I've already seen Olivia's and Kennedy's girls."
+    lg "Ich habe Olivias und Kennedys Mädels schon gesehen."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:765
 translate deutsch sm1cs_mas003_third_delivery_c1710beb:
 
     # mct "No way Maya goes for this."
-    mct "No way Maya goes for this."
+    mct "Es gibt keine Chance, dass Maya darauf eingeht."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:787
 translate deutsch sm1cs_mas003_third_delivery_a9e1c1c0:
 
     # "Kennedy, Lauren and Olivia" "*cheer wildly*"
-    "Kennedy, Lauren and Olivia" "*cheer wildly*"
+    "Kennedy, Lauren und Olivia" "*jubeln wild*"
 

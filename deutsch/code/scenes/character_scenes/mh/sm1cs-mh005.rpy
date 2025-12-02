@@ -962,5 +962,5 @@ translate deutsch strings:
 translate deutsch sm1cs_mh005_04197275:
 
     # mc "Oh don't you worry. I'm going to bring it."
-    mc "Oh don't you worry. I'm going to bring it."
+    mc "Oh, keine Sorge. Ich werde alles geben."
 

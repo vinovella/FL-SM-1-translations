@@ -2,7 +2,7 @@
 
     # game/code/renpy/screens/sm_website.rpy:20
     old "HOME"
-    new "HOME"
+    new "START"
 
     # game/code/renpy/screens/sm_website.rpy:21
     old "VIDEOS"
@@ -18,7 +18,7 @@
 
     # game/code/renpy/screens/sm_website.rpy:24
     old "COMMUNITY"
-    new "COMMUNITY"
+    new "GEMEINSCHAFT"
 
     # game/code/renpy/screens/sm_website.rpy:25
     old "PHOTOS"
@@ -34,7 +34,7 @@
 
     # game/code/renpy/screens/sm_website.rpy:48
     old "Top"
-    new "Top"
+    new "Beliebt"
 
     # game/code/renpy/screens/sm_website.rpy:49
     old "Library"
@@ -46,7 +46,7 @@
 
     # game/code/renpy/screens/sm_website.rpy:51
     old "Tags"
-    new "Tags"
+    new "Schlagwörter"
 
 translate deutsch strings:
 

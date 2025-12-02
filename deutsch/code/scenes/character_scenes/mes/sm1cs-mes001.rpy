@@ -1034,17 +1034,17 @@ translate deutsch sm1cs_mes001_229c1cea:
 translate deutsch sm1cs_mes001_3e652f66:
 
     # mc "\"Complicated\", that's one way to describe everything that's happened."
-    mc "\"Complicated\", that's one way to describe everything that's happened."
+    mc "\"Kompliziert\" ist eine Art, alles zu beschreiben, was passiert ist."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:247
 translate deutsch sm1cs_mes001_ddb765ab:
 
     # mc "When you're painting and drywalling for the third day straight, it helps to have someone cracking jokes at two in the morning."
-    mc "When you're painting and drywalling for the third day straight, it helps to have someone cracking jokes at two in the morning."
+    mc "Wenn man den dritten Tag in Folge streicht und Trockenbau macht, hilft es, jemanden zu haben, der um zwei Uhr morgens Witze reißt."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:352
 translate deutsch sm1cs_mes001_4c2f9ce1:
 
     # mc "Too bad they didn't consider that stable also means \"happy\", something a forced setup wouldn't necessarily guarantee."
-    mc "Too bad they didn't consider that stable also means \"happy\", something a forced setup wouldn't necessarily guarantee."
+    mc "Schade, dass sie nicht bedacht haben, dass stabil auch \"glücklich\" bedeutet – etwas, das ein erzwungenes Arrangement nicht unbedingt garantieren würde."
 

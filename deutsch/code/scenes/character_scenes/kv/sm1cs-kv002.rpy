@@ -44,7 +44,7 @@ translate deutsch sm1cs_kv002_439f1141:
 translate deutsch sm1cs_kv002_5667f407:
 
     # "Model" "Sure, I totally don't care. Super cool with me. Uh huh."
-    "Model" "Klar, das ist mir völlig egal. Das ist für mich total in Ordnung. Ja, genau."
+    "Modell" "Klar, das ist mir völlig egal. Das ist für mich total in Ordnung. Ja, genau."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:47
 translate deutsch sm1cs_kv002_a1f184e9:
@@ -146,7 +146,7 @@ translate deutsch sm1cs_kv002_406ecb21:
 translate deutsch sm1cs_kv002_4261da0b:
 
     # "Model" "Thanks, Kanya."
-    "Model" "Danke, Kanya."
+    "Modell" "Danke, Kanya."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:91
 translate deutsch sm1cs_kv002_a1f184e9_4:
@@ -206,7 +206,7 @@ translate deutsch sm1cs_kv002_1a015882:
 translate deutsch sm1cs_kv002_3cef9b83:
 
     # "Model" "Didn't think I was going to be helping some new photographer today."
-    "Model" "Ich hätte nicht gedacht, dass ich heute einem neuen Fotografen helfen würde."
+    "Modell" "Ich hätte nicht gedacht, dass ich heute einem neuen Fotografen helfen würde."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:115
 translate deutsch sm1cs_kv002_d8872958:
@@ -218,7 +218,7 @@ translate deutsch sm1cs_kv002_d8872958:
 translate deutsch sm1cs_kv002_c85124d1:
 
     # "Model" "Eh, good point. Sure, why not. It's better than going back to my shitty job."
-    "Model" "Eh, guter Punkt. Klar, warum nicht. Das ist besser, als zu meinem beschissenen Job zurückzukehren."
+    "Modell" "Eh, guter Punkt. Klar, warum nicht. Das ist besser, als zu meinem beschissenen Job zurückzukehren."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:120
 translate deutsch sm1cs_kv002_e7b9b1a8:
@@ -344,7 +344,7 @@ translate deutsch sm1cs_kv002_eed5622b:
 translate deutsch sm1cs_kv002_712ede90:
 
     # "Model" "Great, how do you feel about the photos?"
-    "Model" "Großartig, wie findest du die Fotos?"
+    "Modell" "Großartig, wie findest du die Fotos?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:179
 translate deutsch sm1cs_kv002_92321f6e:
@@ -356,7 +356,7 @@ translate deutsch sm1cs_kv002_92321f6e:
 translate deutsch sm1cs_kv002_3ef07597:
 
     # "Model" "Awesome. I have to get to work now. See ya' around!"
-    "Model" "Super. Ich muss jetzt zur Arbeit. Bis bald!"
+    "Modell" "Super. Ich muss jetzt zur Arbeit. Bis bald!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:186
 translate deutsch sm1cs_kv002_6af1c1b3:

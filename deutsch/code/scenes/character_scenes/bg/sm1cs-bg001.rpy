@@ -8,7 +8,7 @@ translate deutsch sm1cs_bg001_ba263eeb:
 translate deutsch sm1cs_bg001_764cd629:
 
     # "BDSM Model" "Oh, shit - uhm, hey [mcname]. Uhhh, what's... Hi."
-    "BDSM Model" "Oh, Mist – ähm, hey [mcname]. Ähm, was... Hallo."
+    "BDSM-Modell" "Oh, Mist – ähm, hey [mcname]. Ähm, was... Hallo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:30
 translate deutsch sm1cs_bg001_dd35a703:
@@ -20,7 +20,7 @@ translate deutsch sm1cs_bg001_dd35a703:
 translate deutsch sm1cs_bg001_03c6db78:
 
     # "BDSM Model" "Oh yeah?? Why's that?"
-    "BDSM Model" "Ach ja? Warum denn das?"
+    "BDSM-Modell" "Ach ja? Warum denn das?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:37
 translate deutsch sm1cs_bg001_acbd2f1d:
@@ -32,7 +32,7 @@ translate deutsch sm1cs_bg001_acbd2f1d:
 translate deutsch sm1cs_bg001_cbaada12:
 
     # "BDSM Model" "Oh... Really?"
-    "BDSM Model" "Ach... Wirklich?"
+    "BDSM-Modell" "Ach... Wirklich?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:43
 translate deutsch sm1cs_bg001_d86b865f:
@@ -1104,7 +1104,7 @@ translate deutsch strings:
 translate deutsch sm1cs_bg001_01872126:
 
     # "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
-    "BDSM Model" "Oh, das ist... Ein guter Punkt. Ähm, du kannst mich... {w} Amore nennen."
+    "BDSM-Modell" "Oh, das ist... Ein guter Punkt. Ähm, du kannst mich... {w} Amore nennen."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:167
 translate deutsch sm1cs_bg001_f21ffe59:

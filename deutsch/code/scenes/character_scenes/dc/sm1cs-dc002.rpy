@@ -272,7 +272,7 @@ translate deutsch sm1cs_dc002_ccafa12b:
 translate deutsch sm1cs_dc002_fcecd43d:
 
     # "Creep" "You'll never take me alive, coppers!"
-    "Creep" "Ihr werdet mich niemals lebendig kriegen, Bullen!"
+    "Gruseltyp" "Ihr werdet mich niemals lebendig kriegen, Bullen!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:165
 translate deutsch sm1cs_dc002_30396998:

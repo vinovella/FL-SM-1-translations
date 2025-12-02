@@ -1052,5 +1052,5 @@ translate deutsch strings:
 translate deutsch sm1cs_mes004_after_dance_51504a32:
 
     # mes "No. It's... complicated."
-    mes "No. It's... complicated."
+    mes "Nein. Es ist... kompliziert."
 

@@ -254,7 +254,7 @@
 
     # game/code/renpy/screens/screens.rpy:530
     old "Master Volume :"
-    new "Master Volume :"
+    new "Gesamtlautstärke :"
 
     # game/code/renpy/screens/screens.rpy:544
     old "Mute All Channels :"
@@ -270,7 +270,7 @@
 
     # game/code/renpy/screens/screens.rpy:554
     old "Full Voiceover :"
-    new "Full Voiceover :"
+    new "Vollständige Vertonung :"
 
     # game/code/renpy/screens/screens.rpy:564
     old "Music Volume :"
@@ -278,7 +278,7 @@
 
     # game/code/renpy/screens/screens.rpy:573
     old "Sound Volume :"
-    new "Sound Volume :"
+    new "Soundlautstärke :"
 
     # game/code/renpy/screens/screens.rpy:584
     old "Voice Volume :"
@@ -294,7 +294,7 @@
 
     # game/code/renpy/screens/screens.rpy:626
     old "Auto-Forward Time :"
-    new "Auto-Forward Time :"
+    new "Automatische Vorwärtszeit :"
 
     # game/code/renpy/screens/screens.rpy:637
     old "Dialogue Box Opacity :"
@@ -310,7 +310,7 @@
 
     # game/code/renpy/screens/screens.rpy:665
     old "Rollback Side :"
-    new "Rollback Side :"
+    new "Rollback-Seite :"
 
     # game/code/renpy/screens/screens.rpy:668
     old "Left"
@@ -386,11 +386,11 @@
 
     # game/code/renpy/screens/screens.rpy:964
     old "STORY WRITING"
-    new "STORY WRITING"
+    new "GESCHICHTE"
 
     # game/code/renpy/screens/screens.rpy:973
     old "ART & ANIMATION"
-    new "ART & ANIMATION"
+    new "KUNST & ANIMATION"
 
     # game/code/renpy/screens/screens.rpy:982
     old "PROGRAMMING"
@@ -398,7 +398,7 @@
 
     # game/code/renpy/screens/screens.rpy:991
     old "SOUND DESIGN"
-    new "SOUND DESIGN"
+    new "SOUNDDESIGN"
 
     # game/code/renpy/screens/screens.rpy:1002
     old "MUSIC CREDITS"
@@ -430,7 +430,7 @@
 
     # game/code/renpy/screens/screens.rpy:1024
     old "VOICEOVER CREDITS"
-    new "VOICEOVER CREDITS"
+    new "SYNCHRONSPRECHER"
 
     # game/code/renpy/screens/screens.rpy:1038
     old "PORTUGUESE TRANSLATION"
@@ -446,7 +446,7 @@
 
     # game/code/renpy/screens/screens.rpy:1059
     old "GAME ENGINE"
-    new "GAME ENGINE"
+    new "SPIEL-ENGINE"
 
     # game/code/renpy/screens/screens.rpy:1064
     old "PROOFREADING CREDITS"
@@ -458,7 +458,7 @@
 
     # game/code/renpy/screens/screens.rpy:1069
     old "ICON CREDITS"
-    new "ICON CREDITS"
+    new "ICON-CREDITS"
 
     # game/code/renpy/screens/screens.rpy:1070
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
