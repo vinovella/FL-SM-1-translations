@@ -146,7 +146,7 @@ translate portuguese sm1cs_am008_continue_e5387253:
 translate portuguese sm1cs_am008_continue_83329cfa:
 
     # "Waiter" "Very good sir. I shall return to check on your glasses in a moment."
-    "Waiter" "Muito bem, senhor. Já volto pra ver as suas taças."
+    "Garçom" "Muito bem, senhor. Já volto pra ver as suas taças."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:111
 translate portuguese sm1cs_am008_continue_f8c4c766:
@@ -986,7 +986,7 @@ translate portuguese sm1cs_am008_continue_08dcc02a:
 translate portuguese sm1cs_am008_continue_820cd5c4:
 
     # "Waiter" "Of course, madam."
-    "Waiter" "Claro, senhora."
+    "Garçom" "Claro, senhora."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:522
 translate portuguese sm1cs_am008_continue_7ff1764f:
