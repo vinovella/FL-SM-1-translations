@@ -290,7 +290,7 @@ translate turkish sm1cs_arj003_67e123ce:
 translate turkish sm1cs_arj003_a6422911:
 
     # arj "Yes."
-    arj "Yes."
+    arj "Evet."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:134
 translate turkish sm1cs_arj003_d7279e27:

@@ -266,7 +266,7 @@ translate turkish sm1cs_mas004_after_lunch_842355c4:
 translate turkish sm1cs_mas004_after_lunch_5f71acf7:
 
     # mc "*grunting*"
-    mc "*grunting*"
+    mc "*homurtu*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:212
 translate turkish sm1cs_mas004_after_lunch_8d10919c:
@@ -1040,7 +1040,7 @@ translate turkish sm1cs_mas004_after_lunch_ae575a07:
 translate turkish sm1cs_mas004_after_lunch_d8285341:
 
     # ms "*affirmative moan*"
-    ms "*affirmative moan*"
+    ms "*onaylayıcı inleme*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:720
 translate turkish sm1cs_mas004_after_lunch_b3da7de0:
@@ -1124,7 +1124,7 @@ translate turkish sm1cs_mas004_after_lunch_e119df09:
 translate turkish sm1cs_mas004_after_lunch_9594976f:
 
     # ms "*happy hissing*"
-    ms "*happy hissing*"
+    ms "*mutlu tıslama*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:764
 translate turkish sm1cs_mas004_after_lunch_90a8e4b7:
@@ -1250,7 +1250,7 @@ translate turkish sm1cs_mas004_after_lunch_01824681:
 translate turkish sm1cs_mas004_after_lunch_fe802941:
 
     # mc "*groaning*"
-    mc "*groaning*"
+    mc "*inleme*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:810
 translate turkish sm1cs_mas004_after_lunch_10e5d802:
@@ -1316,7 +1316,7 @@ translate turkish sm1cs_mas004_after_lunch_81816cd9:
 translate turkish sm1cs_mas004_after_lunch_61d89e71:
 
     # "*shower running*"
-    "*shower running*"
+    "*duş sesi*"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:858
 translate turkish sm1cs_mas004_after_lunch_b013c1c0:
@@ -1534,7 +1534,7 @@ translate turkish strings:
 translate turkish sm1cs_mas004_after_lunch_f378cc8e:
 
     # ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
-    ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
+    ms "Artık başıma iyi bir şey gelmesini beklemeyi bıraktım. İyi bir şeyin {i}olmasını sağlayacağım{/i}."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:765
 translate turkish sm1cs_mas004_after_lunch_fdf6afe0:

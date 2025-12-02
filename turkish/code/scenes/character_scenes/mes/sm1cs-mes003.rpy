@@ -1726,7 +1726,7 @@ translate turkish strings:
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:731
     old "Facefuck Min"
-    new "Facefuck Min"
+    new "Min'in ağzını sik"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:731
     old "Stretch Min's asshole"
@@ -1736,11 +1736,11 @@ translate turkish strings:
 translate turkish sm1cs_mes003_059006be:
 
     # mc "We can't all live in trust-fund homes."
-    mc "We can't all live in trust-fund homes."
+    mc "Hepimiz vakıf fonlu evlerde yaşayamayız."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:800
 translate turkish sm1cs_mes003_menu_dd5bb37b:
 
     # mes "*happy stuffy moans*"
-    mes "*happy stuffy moans*"
+    mes "*mutlu boğuk inlemeler*"
 

@@ -44,7 +44,7 @@ translate turkish sm1cs_kv002_439f1141:
 translate turkish sm1cs_kv002_5667f407:
 
     # "Model" "Sure, I totally don't care. Super cool with me. Uh huh."
-    "Model" "Elbette, hiç umursamıyorum. Bana karşı çok iyi. Hı hı."
+    "Manken" "Elbette, hiç umursamıyorum. Bana karşı çok iyi. Hı hı."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:47
 translate turkish sm1cs_kv002_a1f184e9:
@@ -146,7 +146,7 @@ translate turkish sm1cs_kv002_406ecb21:
 translate turkish sm1cs_kv002_4261da0b:
 
     # "Model" "Thanks, Kanya."
-    "Model" "Teşekkürler, Kanya."
+    "Manken" "Teşekkürler, Kanya."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:91
 translate turkish sm1cs_kv002_a1f184e9_4:
@@ -206,7 +206,7 @@ translate turkish sm1cs_kv002_1a015882:
 translate turkish sm1cs_kv002_3cef9b83:
 
     # "Model" "Didn't think I was going to be helping some new photographer today."
-    "Model" "Bugün yeni bir fotoğrafçıya yardım edeceğimi düşünmemiştim."
+    "Manken" "Bugün yeni bir fotoğrafçıya yardım edeceğimi düşünmemiştim."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:115
 translate turkish sm1cs_kv002_d8872958:
@@ -218,7 +218,7 @@ translate turkish sm1cs_kv002_d8872958:
 translate turkish sm1cs_kv002_c85124d1:
 
     # "Model" "Eh, good point. Sure, why not. It's better than going back to my shitty job."
-    "Model" "Eh, iyi bir nokta. Elbette, neden olmasın. Boktan işime geri dönmekten daha iyi."
+    "Manken" "Eh, iyi bir nokta. Elbette, neden olmasın. Boktan işime geri dönmekten daha iyi."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:120
 translate turkish sm1cs_kv002_e7b9b1a8:
@@ -344,7 +344,7 @@ translate turkish sm1cs_kv002_eed5622b:
 translate turkish sm1cs_kv002_712ede90:
 
     # "Model" "Great, how do you feel about the photos?"
-    "Model" "Harika, fotoğraflar hakkında ne düşünüyorsun?"
+    "Manken" "Harika, fotoğraflar hakkında ne düşünüyorsun?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:179
 translate turkish sm1cs_kv002_92321f6e:
@@ -356,7 +356,7 @@ translate turkish sm1cs_kv002_92321f6e:
 translate turkish sm1cs_kv002_3ef07597:
 
     # "Model" "Awesome. I have to get to work now. See ya' around!"
-    "Model" "Harika. Şimdi işe koyulmam gerek. Görüşürüz!"
+    "Manken" "Harika. Şimdi işe koyulmam gerek. Görüşürüz!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:186
 translate turkish sm1cs_kv002_6af1c1b3:

@@ -1382,7 +1382,7 @@ translate turkish sm1cs_arj002_53966e78:
 translate turkish sm1cs_arj002_86d97cb3:
 
     # arj "Fuck yes-huaaah!"
-    arj "Fuck yes-huaaah!"
+    arj "Kahretsin evet-huaaah!"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:748
 translate turkish sm1cs_arj002_1dee0ee6:
@@ -1508,13 +1508,13 @@ translate turkish sm1cs_arj002_d5a1c26f:
 translate turkish sm1cs_arj002_950d2154:
 
     # sy "Ohouaah...{w} Deal?"
-    sy "Ohouaah...{w} Deal?"
+    sy "Ohouaah...{w} Anlaştık mı?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:809
 translate turkish sm1cs_arj002_08fb9d8a:
 
     # arj "Fuaaah... Deal!"
-    arj "Fuaaah... Deal!"
+    arj "Fuaaah... Anlaştık!"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:810
 translate turkish sm1cs_arj002_90d7cbcb:
@@ -1544,7 +1544,7 @@ translate turkish sm1cs_arj002_c2e03757:
 translate turkish sm1cs_arj002_97e20b6a:
 
     # mc "My turn..."
-    mc "My turn..."
+    mc "Sıra bende..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:824
 translate turkish sm1cs_arj002_af5cf08d:
@@ -1640,7 +1640,7 @@ translate turkish sm1cs_arj002_b42913a4:
 translate turkish sm1cs_arj002_71d29dbf:
 
     # mc "Shit... AmRose."
-    mc "Shit... AmRose."
+    mc "Kahretsin... AmRose."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:856
 translate turkish sm1cs_arj002_984ef101:
@@ -1664,7 +1664,7 @@ translate turkish sm1cs_arj002_0db35260:
 translate turkish sm1cs_arj002_126bda40:
 
     # sy "What a big load."
-    sy "What a big load."
+    sy "Ne büyük bir yük."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:875
 translate turkish sm1cs_arj002_07730f0b:
@@ -1700,7 +1700,7 @@ translate turkish sm1cs_arj002_7a1c905c:
 translate turkish sm1cs_arj002_f30b92a5:
 
     # sy "Yum yum."
-    sy "Yum yum."
+    sy "Nam nam."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:892
 translate turkish sm1cs_arj002_3b8a9c4e:
@@ -1754,13 +1754,13 @@ translate turkish sm1cs_arj002_d6746b87:
 translate turkish sm1cs_arj002_c6c4d11b:
 
     # mct "This is magnificent."
-    mct "This is magnificent."
+    mct "Bu muhteşem."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:914
 translate turkish sm1cs_arj002_c91b6000:
 
     # mct "Me and {b}my{/b} girls."
-    mct "Me and {b}my{/b} girls."
+    mct "Ben ve {b}benim{/b} kızlarım."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:919
 translate turkish sm1cs_arj002_206a90b7:
@@ -1808,7 +1808,7 @@ translate turkish sm1cs_arj002_7907514c:
 translate turkish sm1cs_arj002_ed8daab7:
 
     # arj "Let's."
-    arj "Let's."
+    arj "Hadi."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:958
 translate turkish sm1cs_arj002_62c42592:

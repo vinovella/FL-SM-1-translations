@@ -392,5 +392,5 @@ translate turkish sm1cs_mh002_4165b5fc:
 translate turkish sm1cs_mh002_3b1b4dd9:
 
     # mh "Excellent. Well, I coudn't be much help today, but I am sure I can deliver in the next couple of days."
-    mh "Excellent. Well, I coudn't be much help today, but I am sure I can deliver in the next couple of days."
+    mh "Mükemmel. Şey, bugün pek yardımcı olamadım, ama önümüzdeki birkaç gün içinde yapabileceğimden eminim."
 

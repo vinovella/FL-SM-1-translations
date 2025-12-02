@@ -3608,47 +3608,47 @@ translate turkish strings:
 translate turkish sm1cs_mes006_6193ab1b:
 
     # mc "I love you, my naughty fuck-minx."
-    mc "I love you, my naughty fuck-minx."
+    mc "Seni seviyorum, benim yaramaz seks cilvekârım."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:432
 translate turkish sm1cs_mes006_e9cbaa26:
 
     # sy "Oh cool. A Medusa."
-    sy "Oh cool. A Medusa."
+    sy "Oh harika. Bir Medusa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:441
 translate turkish sm1cs_mes006_ea3b9fe6:
 
     # sy "I call the Medusa!"
-    sy "I call the Medusa!"
+    sy "Medusa'yı ben seçiyorum!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:447
 translate turkish sm1cs_mes006_b0ac8035:
 
     # sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
-    sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
+    sy "Kurallar, murallar.{w} Medusa seksi ve o yeşil, saçlarım gibi."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:669
 translate turkish sm1cs_mes006_continue_dea9bd6d:
 
     # "[mcname] and Min" "*laughing*"
-    "[mcname] and Min" "*laughing*"
+    "[mcname] ve Min" "*gülüşmeler*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:827
 translate turkish sm1cs_mes006_continue_3e2044ca:
 
     # mes "But then wouldn't I just be trading my parents for you?"
-    mes "But then wouldn't I just be trading my parents for you?"
+    mes "Ama o zaman ailemi seninle takas etmiş olmaz mıydım?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:885
 translate turkish sm1cs_mes006_continue_35dadad0:
 
     # mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
-    mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
+    mc "Ama burada kalmak fikrine karşı olmadığın gibi geliyor. Ben ve Stacy birlikte olsak bile."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1244
 translate turkish sm1cs_mes006_continue_22b1ff20:
 
     # mes "I was hesitant... being around [mcname]."
-    mes "I was hesitant... being around [mcname]."
+    mes "Tereddütlüydüm... [mcname]'in yanında olmak."
 

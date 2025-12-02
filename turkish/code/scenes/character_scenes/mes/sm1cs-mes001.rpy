@@ -1034,17 +1034,17 @@ translate turkish sm1cs_mes001_229c1cea:
 translate turkish sm1cs_mes001_3e652f66:
 
     # mc "\"Complicated\", that's one way to describe everything that's happened."
-    mc "\"Complicated\", that's one way to describe everything that's happened."
+    mc "\"Karmaşık\", olan her şeyi tanımlamanın bir yolu."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:247
 translate turkish sm1cs_mes001_ddb765ab:
 
     # mc "When you're painting and drywalling for the third day straight, it helps to have someone cracking jokes at two in the morning."
-    mc "When you're painting and drywalling for the third day straight, it helps to have someone cracking jokes at two in the morning."
+    mc "Üst üste üçüncü gün boyama ve alçıpan işi yaptığında, sabahın ikisinde espri yapan birinin olması yardımcı oluyor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:352
 translate turkish sm1cs_mes001_4c2f9ce1:
 
     # mc "Too bad they didn't consider that stable also means \"happy\", something a forced setup wouldn't necessarily guarantee."
-    mc "Too bad they didn't consider that stable also means \"happy\", something a forced setup wouldn't necessarily guarantee."
+    mc "İstikrarlının aynı zamanda \"mutlu\" anlamına geldiğini düşünmemiş olmaları kötü, zorla kurulan bir düzen mutlaka bunu garanti etmez."
 
