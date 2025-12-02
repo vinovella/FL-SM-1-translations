@@ -1670,7 +1670,7 @@ translate portuguese strings:
 translate portuguese sm1cs_mas003_third_delivery_7eec6586:
 
     # ms "Never mind."
-    ms "Never mind."
+    ms "Esquece."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:805
 translate portuguese sm1cs_mas003_third_delivery_9ed10f06:
@@ -1698,23 +1698,23 @@ translate portuguese sm1cs_mas003_third_delivery_fedc52e9:
 translate portuguese sm1cs_mas003_second_delivery_e42e9cc6:
 
     # mc "\"She could be the Slobber Atractor.\""
-    mc "\"She could be the Slobber Atractor.\""
+    mc "\"Ela poderia ser a Leva-Baba.\""
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:756
 translate portuguese sm1cs_mas003_third_delivery_b52e61ff:
 
     # lg "I've already seen Olivia's and Kennedy's girls."
-    lg "I've already seen Olivia's and Kennedy's girls."
+    lg "Já vi as garotas da Olivia e da Kennedy."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:765
 translate portuguese sm1cs_mas003_third_delivery_c1710beb:
 
     # mct "No way Maya goes for this."
-    mct "No way Maya goes for this."
+    mct "Duvido que a Maya aceite."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:787
 translate portuguese sm1cs_mas003_third_delivery_a9e1c1c0:
 
     # "Kennedy, Lauren and Olivia" "*cheer wildly*"
-    "Kennedy, Lauren and Olivia" "*cheer wildly*"
+    "Kennedy, Lauren e Olivia" "*vibrando loucamente*"
 
