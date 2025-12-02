@@ -1534,11 +1534,11 @@ translate portuguese strings:
 translate portuguese sm1cs_mas004_after_lunch_f378cc8e:
 
     # ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
-    ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
+    ms "Então cansei de esperar algo legal acontecer comigo. Eu vou {i}fazer{/i} uma coisa boa acontecer."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:765
 translate portuguese sm1cs_mas004_after_lunch_fdf6afe0:
 
     # ms "*raw moaning* Fuck...yes."
-    ms "*raw moaning* Fuck...yes."
+    ms "*gemido puro* Isso... porra."
 
