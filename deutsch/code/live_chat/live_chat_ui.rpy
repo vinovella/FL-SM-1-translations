@@ -82,7 +82,7 @@
 
     # game/code/live_chat/live_chat_ui.rpy:216
     old "This will permanently delete your local chat history and reset the context on our servers. You can’t undo this."
-    new "This will permanently delete your local chat history and reset the context on our servers. You can’t undo this."
+    new "Dies wird deinen lokalen Chatverlauf dauerhaft löschen und den Kontext auf unseren Servern zurücksetzen. Du kannst dies nicht rückgängig machen."
 
     # game/code/live_chat/live_chat_ui.rpy:219
     old "Delete chat"

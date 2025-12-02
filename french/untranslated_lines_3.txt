@@ -1,0 +1,251 @@
+french/code/scenes/character_scenes/my/sm1cs-my005.rpy [171 words]
+
+605: "TV" "Je t’aime depuis la seconde où je t’ai vu !" (Reason: Speaker not translated)
+623: "TV" "Embrasse-moi comme tu ne m’as jamais embrassé." (Reason: Speaker not translated)
+641: "TV" "J'ai besoin de te sentir en moi." (Reason: Speaker not translated)
+653: "TV" "Ce serait avec plaisir." (Reason: Speaker not translated)
+665: "TV" "Prends-moi ! Prends-moi comme ton amante, pour toujours !" (Reason: Speaker not translated)
+755: "TV" "Oh, ta bite me remplit parfaitement ! J'adore comme elle cogne dans ma chatte, bien serrée !" (Reason: Speaker not translated)
+893: "TV" "Oh oui, baise-moi ! Ta bite est incroyable, oh ouiiiiii!" (Reason: Speaker not translated)
+1259: mct "She just walked out the door like nothing happened..."
+1299: mct "What is... is Mom rubbing my dick with her foot?"
+1305: my "I appreciate that, but when you get to be my age, you want a nice, big soft bed, with a down comforter."
+1311: mct "I just made my mom cum from a foot massage, and then flirted with her like it was no big deal..."
+1317: mct "I just made Melony cum from a foot massage, and then flirted with her like it was no big deal..."
+1323: mct "Oh God, what the hell do I do now?"
+1329: my "My days of couch crashing are far behind me."
+
+french/code/scenes/character_scenes/my/sm1cs-my006.rpy [130 words]
+
+2237: sy "Fiiiiiiine."
+2309: mct "Melony's ass is amazing... and her pussy, fucking wow."
+2315: my "It's fine, it's not like you have anyone who's going to miss you in bed."
+2321: my "I will say though, my ranking from best to worst is Episode 5-4-6-3-1-2."
+2327: my "I want to say 'thank you'. Thank you for treating me so well after how I acted when I first came to Crowning."
+2333: my "Leave it to me, [mcname]."
+2339: mct "Holy shit, Mom is sucking my cock!"
+2345: mct "Holy shit, Melony is sucking my cock!"
+2351: mc "Maybe I want to tease you a little bit?"
+2357: my "Mmmhmmm! B-better than okay!"
+2363: my "Fuck, fuck, fuck, faster! Mmmmmm!"
+2369: mc "There's still so much I don't know about you, even though you've been around my whole life."
+2375: mc "-and I just want to take a shower and get a cup of coffee, okay?"
+
+french/code/scenes/character_scenes/sy/sm1cs-sy001.rpy [27 words]
+
+767: sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
+
+french/code/scenes/cross_characters/sm1xc_ns_tl_001i.rpy [2 words]
+
+91: mc "Morning, Taisia."
+
+french/code/scenes/it_office/sm1fs-i001.rpy [40 words]
+
+611: ag "Please have a seat."
+617: ag "Hi, what can I help you with, April?"
+623: mc "Uhhhh, mostly FPS games. Every once in a while I'll pull up-"
+629: ag "If you come tomorrow, [gt.next_day_name!t] at 8:00 am you should be able to meet with her."
+
+french/code/scenes/it_office/sm1fs-i002.rpy [38 words]
+
+635: mc "After I had it for a while I... Realized it could be made better."
+641: cw "After I've made my decision [gt.next_day_name!t] by 8:00 am I'll give you a call."
+647: mc "I look forward to your call at [gt.next_day_name!t] 8:00 am!"
+
+french/code/scenes/it_office/sm1fs-i003.rpy [2 words]
+
+1011: new "Page 247/247"
+
+french/code/scenes/it_office/sm1fs-i004.rpy [1 words]
+
+347: atp "Excellent."
+
+french/code/scenes/it_office/sm1fs-i005.rpy [15 words]
+
+335: "Actor 1" "Ouais, prends ça, salope." (Reason: Speaker not translated)
+383: "Actor 1" "Ouais. Embrasse-le.{w} Suce-moi ces couilles." (Reason: Speaker not translated)
+
+french/code/scenes/it_office/ag/sm1cs-ag001.rpy [25 words]
+
+792: mct "This certainly deserves an Adults Only rating."
+798: mct "Based on this, I think Anna might have been interested in Fetish Locator if it wasn't shut down."
+
+french/code/scenes/it_office/ag/sm1cs-ag002.rpy [8 words]
+
+113: "Bartender" "Vraiment ? Merde..." (Reason: Speaker not translated)
+125: "Bartender" "Désolé pour ça..." (Reason: Speaker not translated)
+383: mc "Business."
+
+french/code/scenes/it_office/am/sm1cs-am004.rpy [8 words]
+
+359: "Crowd" "*acclamations*" (Reason: Speaker not translated)
+371: "Crowd" "*acclamations*" (Reason: Speaker not translated)
+383: "Crowd" "*acclamations*" (Reason: Speaker not translated)
+395: "Crowd" "*acclamations*" (Reason: Speaker not translated)
+
+french/code/scenes/it_office/am/sm1cs-am006.rpy [7 words]
+
+1316: mct "Woah.{w} She's... she's really into this."
+
+french/code/scenes/it_office/am/sm1cs-am008.rpy [19 words]
+
+149: "Waiter" "Très bien, monsieur. Je reviendrai vérifier vos verres dans un instant." (Reason: Speaker not translated)
+989: "Waiter" "Bien sûr, madame." (Reason: Speaker not translated)
+
+french/code/scenes/it_office/cw/sm1cs-cw002.rpy [10 words]
+
+239: mc "Of course. I won't let you down, Ms. Watts."
+
+french/code/scenes/it_office/cw/sm1cs-cw002_2.rpy [15 words]
+
+23: "Man" "Alors voici donc le petit ami en retard." (Reason: Speaker not translated)
+245: "Waiter" "Tout de suite, M. Watts." (Reason: Speaker not translated)
+395: "Both" "Ouais." (Reason: Speaker not translated)
+
+french/code/scenes/it_office/cw/sm1cs-cw004.rpy [2 words]
+
+875: mc "Pull."
+1031: mc "Pull."
+
+french/code/scenes/it_office/cw/sm1cs-cw006.rpy [69 words]
+
+1778: cw "If I didn't need your help in the first place..."
+1784: mc "I can only control my body so much, Claire."
+1790: mc "Of course, Ms. Watts."
+1796: cw "I think a little further analysis would be good.{w} Necessary even."
+1802: cw "And by helping me out, I mean I'd need your help with activities vaguely similar to the ones we {i}completed{/i} on the yacht."
+1808: mc "I wanted to talk to you about that special assignment you mentioned?"
+
+french/code/scenes/it_office/ns/sm1cs-ns001.rpy [32 words]
+
+591: ag "Of course. The office has its own cafeteria."
+597: mct "He shoots."
+603: ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
+
+french/code/scenes/it_office/ns/sm1cs-ns002.rpy [23 words]
+
+818: mc "Let's just take a beat. I'll get you through this. We've all... had urges in strange places."
+824: mct "No one is close. I hope."
+
+french/code/scenes/it_office/ns/sm1cs-ns003.rpy [209 words]
+
+1003: mct "Nari has been usually quiet today."
+1009: mct "Like she's playing a game with me. Only she knows the moves."
+1015: ns "When I got back to my desk, it felt like every minute, I wanted to shrivel up and hide. It would get worse when Anna or Claire got close to me."
+1021: ns "It's a secret. But... well not a total secret. I wanted to get you something for your help."
+1027: mct "She can be so shy, and yet so casual about talking about sexy stuff."
+1033: mct "I never imagined it would take this long."
+1039: mc "I can't even watch more than like twenty minutes of porn at a time, and I love porn."
+1045: mct "I'll have to let Stacy know she was right. Nari could be a great recruit for the studio."
+1051: mct "This is either my best idea or my worst idea yet."
+1057: mc "Just be careful, Nari. This thing has a mind of its own sometimes..."
+1063: mct "No, you are definitely not shy, Nari. Wow."
+1069: mct "She certainly has a perfectly gentle touch. Soft but not so light that you can't feel it."
+1075: mct "For a second there, I thought Nari was going to start sucking me off through the gloryhole."
+1081: mct "Well, that was quite a ride. I almost thought she might want to hang out."
+1087: mct "Maybe next time."
+
+french/code/scenes/it_office/ns/sm1cs-ns004.rpy [31 words]
+
+971: ns "I would consider that outcome as very high risk, low chance."
+977: mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
+
+french/code/scenes/it_office/ns/sm1cs-ns005.rpy [116 words]
+
+251: mc "Nari, attends une minute. Qu’est-ce qui se passe ?"
+1125: mct "I should stop wasting time and ask her out on a date. I'm sure she'd enjoy a nice evening out instead of doing more financial deep diving."
+1131: ns "*giggles* You don't need to bow, too. I was the one who had to leave you hanging when I got a call last time."
+1137: ns "They're Blue Ginseng candy, one of my favorite snacks from back home."
+1143: mc "I... I don't. But I want you to finish me off."
+1149: ns "That was a lot of cum, [mcname]. I trust that means you enjoyed yourself."
+1155: ns "You know I'm very efficient."
+1161: mc "Give me a little time and I'll find a restaurant and text you the details."
+
+french/code/scenes/it_office/ns/sm1cs-ns007.rpy [58 words]
+
+1979: ns "I disagree. I've told you many things I like."
+1985: ns "I feel... comfortable... with you."
+1991: ns "*excited but stifled moaning*"
+1997: ns "*moaning. I love... hearing that... ooouhah...*"
+2003: ns "*whispers* It's just like the hentai."
+2009: ns "Yes. Thank you, [mcname]."
+2015: ns "Hmm... considering the food, conversation, company and the amount of times I came..."
+2021: new "The people close to me are happy about it"
+
+french/code/scenes/it_office/ns/sm1cs-ns009.rpy [5 words]
+
+1366: mc "And... I totally wasn't scared."
+
+french/code/scenes/it_office/ns/sm1cs-ns010.rpy [1 words]
+
+173: ns "Super."
+
+french/code/scenes/it_office/ns/sm1cs-ns011.rpy [9 words]
+
+1155: ns "Sugar Daddies love to play with their Good Girls..."
+
+french/code/scenes/it_office/ns/sm1cs-ns013.rpy [51 words]
+
+1745: "Stacy and Nari" "*halètements*" (Reason: Speaker not translated)
+1793: "Stacy and Nari" "*ricanements*" (Reason: Speaker not translated)
+2412: ns "I am a very bad [nspetlabel]."
+2418: ns "A little. I'm actually still-"
+2424: ns "You're always so kind to me, [nsmcpetlabel]."
+2430: mc "I love how your pussy feels around me. I have such a good [nspetlabel]."
+2436: ns "I can go... Mrrmmm... at just the right speed."
+
+french/code/scenes/it_office/ns/sm1cs-ns014.rpy [6 words]
+
+1235: ns "No fair. You're too sneaky. Stacy..."
+
+french/code/scenes/main_story/sm1ms002.rpy [6 words]
+
+251: mc "I haven't started cutting myself yet."
+
+french/code/scenes/main_story/sm1ms004.rpy [36 words]
+
+589: arj "Never mind. It doesn't matter."
+595: mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
+601: mct "Maybe this isn't completely fucked after all."
+
+french/code/scenes/main_story/sm1ms005.rpy [3 words]
+
+901: new "97 minutes later"
+
+french/code/scenes/main_story/sm1ms011_it.rpy [56 words]
+
+499: sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
+505: mc "This girl Nari Song is pretty cute."
+511: mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
+517: sy "Hmmmph. That's no excuse to be rude to you or the new girl."
+
+french/code/scenes/main_story/sm1ms014.rpy [11 words]
+
+437: "Delivery Guy" "Où voulez-vous que je mette tout ça ?" (Reason: Speaker not translated)
+449: "Delivery Guy" "Okaaaay…" (Reason: Speaker not translated)
+
+french/code/scenes/main_story/sm1ms016.rpy [2 words]
+
+833: mc "Bye Melony."
+
+french/code/scenes/main_story/sm1ms020.rpy [18 words]
+
+263: "Bartender" "Que puis-je vous servir ?" (Reason: Speaker not translated)
+287: "Bartender" "Ça arrive tout de suite." (Reason: Speaker not translated)
+1311: my "Oh! You brought us to Guns and Rosette!"
+
+french/code/scenes/main_story/sm1ms024.rpy [9 words]
+
+841: mc "Come on, you have that look on your face."
+
+french/code/scenes/main_story/sm1ms026i.rpy [4 words]
+
+106: new "Choose Sci-Fi Movie ([message!t])"
+
+french/code/scenes/main_story/sm1ms028.rpy [47 words]
+
+743: "Waitress" "Voilà pour vous." (Reason: Speaker not translated)
+767: "Waitress" "Bien sûr, Dickles. Autre chose ?" (Reason: Speaker not translated)
+999: mc "Never mind, we dont have time to change."
+1005: new "You got $500 as your signup bonus from Porn Cave"
+1011: mc "We will need to watch him very carefully if Lyssa says we can do business together."
