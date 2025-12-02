@@ -831,12 +831,12 @@ translate french strings:
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:42
 translate french sm1cs_mh003_ca55627e:
 
-    # mc "All right, all right! Jeez, I'm texting her right now."
-    mc "All right, all right! Jeez, I'm texting her right now."
+    # mc "D'accord, d'accord ! Bon sang, je lui envoie un message là."
+    mc "D'accord, d'accord ! Bon sang, je lui envoie un message là."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:299
 translate french sm1cs_mh003_romance_99931624:
 
-    # mc "Of course! Yes! Absolutely."
-    mc "Of course! Yes! Absolutely."
+    # mc "Bien sûr ! Oui ! Absolument."
+    mc "Bien sûr ! Oui ! Absolument."
 

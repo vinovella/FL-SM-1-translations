@@ -986,12 +986,12 @@ translate french sm1cs_kv003_51d06342:
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:159
 translate french sm1cs_kv003_222c534c:
 
-    # kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
-    kv "I've been wondering how you're going to convince some of these actresses to star in your porn."
+    # kv "Je me demandais comment tu allais convaincre certaines de ces actrices de jouer dans ton porno."
+    kv "Je me demandais comment tu allais convaincre certaines de ces actrices de jouer dans ton porno."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:478
 translate french sm1cs_kv003_9ac58097:
 
-    # kv "I-I-I- think I'm going to cum!"
-    kv "I-I-I- think I'm going to cum!"
+    # kv "Je-je-je- je crois que je vais jouir !"
+    kv "Je-je-je- je crois que je vais jouir !"
 

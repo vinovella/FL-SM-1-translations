@@ -236,7 +236,7 @@ translate french sm1cs_my001_b7baed86:
 translate french sm1cs_my001_92bc6d9c:
 
     # "Waiter" "Good evening, sir. Table for one?"
-    "Waiter" "Bonsoir monsieur. Une table pour un ?"
+    "Serveur" "Bonsoir monsieur. Une table pour un ?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:140
 translate french sm1cs_my001_bb71598e:
@@ -248,13 +248,13 @@ translate french sm1cs_my001_bb71598e:
 translate french sm1cs_my001_362122cd:
 
     # "Waiter" "Of course, sir. Right this way, then."
-    "Waiter" "Bien sûr, monsieur. Par ici."
+    "Serveur" "Bien sûr, monsieur. Par ici."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:148
 translate french sm1cs_my001_70ee5c25:
 
     # "Waiter" "And here you are, sir."
-    "Waiter" "Et voilà, monsieur."
+    "Serveur" "Et voilà, monsieur."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:152
 translate french sm1cs_my001_bb0eeaf4:
@@ -266,7 +266,7 @@ translate french sm1cs_my001_bb0eeaf4:
 translate french sm1cs_my001_a1d800a1:
 
     # "Waiter" "Of course. I will bring you some menus."
-    "Waiter" "Bien sûr. Je vous apporte les menus."
+    "Serveur" "Bien sûr. Je vous apporte les menus."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:158
 translate french sm1cs_my001_38235a59:
@@ -410,7 +410,7 @@ translate french sm1cs_my001_9352686d:
 translate french sm1cs_my001_d69d248d:
 
     # "Waiter" "Your menus."
-    "Waiter" "Vos menus."
+    "Serveur" "Vos menus."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:231
 translate french sm1cs_my001_9580ec53:
@@ -422,7 +422,7 @@ translate french sm1cs_my001_9580ec53:
 translate french sm1cs_my001_3d8e743d:
 
     # "Waiter" "Can I start you off with anything to drink?"
-    "Waiter" "Puis-je vous proposer quelque chose à boire pour commencer ?"
+    "Serveur" "Puis-je vous proposer quelque chose à boire pour commencer ?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:238
 translate french sm1cs_my001_9947685b:
@@ -434,7 +434,7 @@ translate french sm1cs_my001_9947685b:
 translate french sm1cs_my001_9054603b:
 
     # "Waiter" "Excellent choice. I'll have those right out for you."
-    "Waiter" "Excellent choix. Je vous apporte ça tout de suite."
+    "Serveur" "Excellent choix. Je vous apporte ça tout de suite."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:247
 translate french sm1cs_my001_9869e6bb:
@@ -524,7 +524,7 @@ translate french sm1cs_my001_a80ced04:
 translate french sm1cs_my001_9164576a:
 
     # "Waiter" "Your wine. Would you like to begin tonight with any appetizers? Or straight to the main course."
-    "Waiter" "Votre vin. Désirez-vous commencer avec une entrée ? Ou directement le plat principal ?"
+    "Serveur" "Votre vin. Désirez-vous commencer avec une entrée ? Ou directement le plat principal ?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:289
 translate french sm1cs_my001_63d668f8:
@@ -542,7 +542,7 @@ translate french sm1cs_my001_79c14038:
 translate french sm1cs_my001_10813b9f:
 
     # "Waiter" "We do indeed, sir."
-    "Waiter" "Nous en avons, en effet, monsieur."
+    "Serveur" "Nous en avons, en effet, monsieur."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:297
 translate french sm1cs_my001_a3a9b546:
@@ -758,7 +758,7 @@ translate french sm1cs_my001_6298931c:
 translate french sm1cs_my001_04dbe6ac:
 
     # "Waiter" "Sir, ma'am, your oysters."
-    "Waiter" "Monsieur, madame, vos huîtres."
+    "Serveur" "Monsieur, madame, vos huîtres."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:406
 translate french sm1cs_my001_e9721ff3:
@@ -770,7 +770,7 @@ translate french sm1cs_my001_e9721ff3:
 translate french sm1cs_my001_f581eec3:
 
     # "Waiter" "And your linguini is soon to follow. Enjoy."
-    "Waiter" "Et vos linguini arrivent tout de suite. Bon appétit."
+    "Serveur" "Et vos linguini arrivent tout de suite. Bon appétit."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:412
 translate french sm1cs_my001_840783b0:
@@ -1040,7 +1040,7 @@ translate french sm1cs_my001_c3171379:
 translate french sm1cs_my001_544d05f8:
 
     # "Waiter" "And your main course for the evening, the pasta linguini. Please enjoy."
-    "Waiter" "Et voici votre plat principal pour ce soir : les linguini. Bon appétit."
+    "Serveur" "Et voici votre plat principal pour ce soir : les linguini. Bon appétit."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:532
 translate french sm1cs_my001_651faa76:
@@ -1106,7 +1106,7 @@ translate french sm1cs_my001_3a52c789:
 translate french sm1cs_my001_4040cc16:
 
     # "Waiter" "Sir, would you and your date be interested in a dessert this evening?"
-    "Waiter" "Monsieur, vous et votre compagne désirez un dessert ce soir ?"
+    "Serveur" "Monsieur, vous et votre compagne désirez un dessert ce soir ?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:565
 translate french sm1cs_my001_ac58434a:
@@ -1124,7 +1124,7 @@ translate french sm1cs_my001_ca6fec8c:
 translate french sm1cs_my001_3f5141d8:
 
     # "Waiter" "Of course, ma'am."
-    "Waiter" "Bien sûr, madame."
+    "Serveur" "Bien sûr, madame."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:573
 translate french sm1cs_my001_9c7841d6:
@@ -1166,7 +1166,7 @@ translate french sm1cs_my001_b5c61a4a:
 translate french sm1cs_my001_a34fe746:
 
     # "Waiter" "I hope you both had an excellent evening, and we hope to see you again soon."
-    "Waiter" "J’espère que vous avez passé une excellente soirée, et nous espérons vous revoir bientôt."
+    "Serveur" "J’espère que vous avez passé une excellente soirée, et nous espérons vous revoir bientôt."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:601
 translate french sm1cs_my001_093e45b1:
@@ -1327,30 +1327,30 @@ translate french strings:
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:236
 translate french sm1cs_my001_94670bab:
 
-    # my "Mmmmm, I'll take a glass of the house red."
-    my "Mmmmm, I'll take a glass of the house red."
+    # my "Mmmmm, je vais prendre un verre du rouge de la maison."
+    my "Mmmmm, je vais prendre un verre du rouge de la maison."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:269
 translate french sm1cs_my001_ef92aff5:
 
-    # my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
-    my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
+    # my "Mais ce petit empire commercial qu'il avait commencé à construire a commencé à s'effondrer. Des problèmes avec sa vie amoureuse, des idées à moitié cuites pour gagner de l'argent..."
+    my "Mais ce petit empire commercial qu'il avait commencé à construire a commencé à s'effondrer. Des problèmes avec sa vie amoureuse, des idées à moitié cuites pour gagner de l'argent..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:272
 translate french sm1cs_my001_837a40da:
 
-    # my "The models own personal lives becoming entwined with his work and the studio..."
-    my "The models own personal lives becoming entwined with his work and the studio..."
+    # my "La vie personnelle des mannequins qui s'entremêle avec son travail et le studio..."
+    my "La vie personnelle des mannequins qui s'entremêle avec son travail et le studio..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:299
 translate french sm1cs_my001_27ef328b:
 
     # "Waiter" "Both wonderful choices, sir."
-    "Waiter" "Both wonderful choices, sir."
+    "Serveur" "Deux excellents choix, monsieur."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:346
 translate french sm1cs_my001_b4bd7f1c:
 
-    # my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
-    my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
+    # my "Ils effacent la personnalité pour que tu puisses la remplir avec tout ce qui rentre dans une valise."
+    my "Ils effacent la personnalité pour que tu puisses la remplir avec tout ce qui rentre dans une valise."
 

@@ -1627,18 +1627,18 @@ translate french strings:
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:461
 translate french sm1cs_my003_at_gym_b2b93b59:
 
-    # my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
-    my "Yeah, it's just been a while since I've been able to get to the gym. Working some muscles that are a little frozen up."
+    # my "Ouais, ça fait juste un moment que je n'ai pas pu aller à la salle. Je fais travailler des muscles un peu rouillés."
+    my "Ouais, ça fait juste un moment que je n'ai pas pu aller à la salle. Je fais travailler des muscles un peu rouillés."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:408
 translate french sm1cs_my003_at_gym_63659e95:
 
-    # my "Now that I'm all good and stretched out too, shall we get to the main event?"
-    my "Now that I'm all good and stretched out too, shall we get to the main event?"
+    # my "Maintenant que je suis bien étirée, on passe au plat principal ?"
+    my "Maintenant que je suis bien étirée, on passe au plat principal ?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:687
 translate french sm1cs_my003_continue_c59e5ae1:
 
-    # my "Come on, [mcname]! You'll have to try harder than that!"
-    my "Come on, [mcname]! You'll have to try harder than that!"
+    # my "Allez, [mcname] ! Tu vas devoir faire mieux que ça !"
+    my "Allez, [mcname] ! Tu vas devoir faire mieux que ça !"
 

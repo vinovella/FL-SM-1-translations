@@ -195,6 +195,6 @@ translate french sm1cs_mes002i_5ee8dc16:
 # game/code/scenes/character_scenes/mes/sm1cs-mes002i.rpy:33
 translate french sm1cs_mes002i_f65bd79d:
 
-    # mc "Talking to her, it was like... I'm not sure, but she looked a bit lost."
-    mc "Talking to her, it was like... I'm not sure, but she looked a bit lost."
+    # mc "En lui parlant, c'était comme... Je suis pas sûr, mais elle avait l'air un peu perdue."
+    mc "En lui parlant, c'était comme... Je suis pas sûr, mais elle avait l'air un peu perdue."
 

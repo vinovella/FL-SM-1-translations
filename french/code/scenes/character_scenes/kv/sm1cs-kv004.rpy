@@ -74,7 +74,7 @@ translate french sm1cs_kv004_2492aa9d:
 translate french sm1cs_kv004_5dae7152:
 
     # "BDSM Model" "Uhm, no..."
-    "BDSM Model" "Euh… non…"
+    "Mannequin BDSM" "Euh… non…"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:96
 translate french sm1cs_kv004_a697c068:
@@ -86,7 +86,7 @@ translate french sm1cs_kv004_a697c068:
 translate french sm1cs_kv004_afc0b373:
 
     # "BDSM Model" "I, uhhh..."
-    "BDSM Model" "Moi, euhhh…"
+    "Mannequin BDSM" "Moi, euhhh…"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:101
 translate french sm1cs_kv004_a1f184e9_1:
@@ -104,7 +104,7 @@ translate french sm1cs_kv004_65553bb9:
 translate french sm1cs_kv004_c379d321:
 
     # "BDSM Model" "Well... I've had one or two people say that I'm a freak..."
-    "BDSM Model" "Ben… on m’a déjà dit une ou deux fois que j’étais un peu bizarre…"
+    "Mannequin BDSM" "Ben… on m’a déjà dit une ou deux fois que j’étais un peu bizarre…"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:109
 translate french sm1cs_kv004_7f618fe0:
@@ -116,7 +116,7 @@ translate french sm1cs_kv004_7f618fe0:
 translate french sm1cs_kv004_495a38f6:
 
     # "BDSM Model" "Well, I'm not trying to talk about all that in front of {i}him{/i}!"
-    "BDSM Model" "Ben j’ai pas envie de tout raconter devant {i}lui{/i} !"
+    "Mannequin BDSM" "Ben j’ai pas envie de tout raconter devant {i}lui{/i} !"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:114
 translate french sm1cs_kv004_a1f184e9_2:
@@ -170,7 +170,7 @@ translate french sm1cs_kv004_2f7258b2:
 translate french sm1cs_kv004_b79b3e52:
 
     # "BDSM Model" "Wait... What's a sex interview?"
-    "BDSM Model" "Attends… c’est quoi une interview sexuelle ?"
+    "Mannequin BDSM" "Attends… c’est quoi une interview sexuelle ?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:135
 translate french sm1cs_kv004_6d25eca1:
@@ -182,7 +182,7 @@ translate french sm1cs_kv004_6d25eca1:
 translate french sm1cs_kv004_c591cfb8:
 
     # "BDSM Model" "Huh..."
-    "BDSM Model" "Oh…"
+    "Mannequin BDSM" "Oh…"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:139
 translate french sm1cs_kv004_a1f184e9_3:
@@ -212,7 +212,7 @@ translate french sm1cs_kv004_c568c804:
 translate french sm1cs_kv004_34a438a8:
 
     # "BDSM Model" "Oh, wow..."
-    "BDSM Model" "Oh, putain…"
+    "Mannequin BDSM" "Oh, putain…"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:150
 translate french sm1cs_kv004_4b0457ea:
@@ -254,7 +254,7 @@ translate french sm1cs_kv004_b882791e:
 translate french sm1cs_kv004_0ecb75b2:
 
     # "BDSM Model" "So... {size=20}What'd you do next?{/size}"
-    "BDSM Model" "Alors… {size=20}qu’est-ce que vous avez fait après ?{/size}"
+    "Mannequin BDSM" "Alors… {size=20}qu’est-ce que vous avez fait après ?{/size}"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:168
 translate french sm1cs_kv004_e21b6101:
@@ -266,7 +266,7 @@ translate french sm1cs_kv004_e21b6101:
 translate french sm1cs_kv004_3ee8b4ec:
 
     # "BDSM Model" "{size=20}Maybe...{/size}"
-    "BDSM Model" "{size=20}Peut-être…{/size}"
+    "Mannequin BDSM" "{size=20}Peut-être…{/size}"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:173
 translate french sm1cs_kv004_d49ed656:
@@ -284,7 +284,7 @@ translate french sm1cs_kv004_1d181aa4:
 translate french sm1cs_kv004_39efdb07:
 
     # "BDSM Model" "Mmmmm..."
-    "BDSM Model" "Mmmmm…"
+    "Mannequin BDSM" "Mmmmm…"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:179
 translate french sm1cs_kv004_a1f184e9_4:
@@ -320,7 +320,7 @@ translate french sm1cs_kv004_0381753f:
 translate french sm1cs_kv004_02586238:
 
     # "BDSM Model" "Wow, uhm... Wow..."
-    "BDSM Model" "Wow… euh… wow…"
+    "Mannequin BDSM" "Wow… euh… wow…"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:194
 translate french sm1cs_kv004_784c6428:
@@ -338,7 +338,7 @@ translate french sm1cs_kv004_6e202182:
 translate french sm1cs_kv004_0a8016a0:
 
     # "BDSM Model" "God, Kanya..."
-    "BDSM Model" "Oh bordel, Kanya…"
+    "Mannequin BDSM" "Oh bordel, Kanya…"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:200
 translate french sm1cs_kv004_b7d0b520:
@@ -356,13 +356,13 @@ translate french sm1cs_kv004_a4d3f37f:
 translate french sm1cs_kv004_3fb8a7f4:
 
     # "BDSM Model" "Sounds good, Kanya. Thanks for another great shoot!"
-    "BDSM Model" "Parfait, Kanya. Merci pour ce super shooting encore une fois !"
+    "Mannequin BDSM" "Parfait, Kanya. Merci pour ce super shooting encore une fois !"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:209
 translate french sm1cs_kv004_92cb771a:
 
     # "BDSM Model" "{size=20}And stop picking on me in front of [mcname]!{/size}"
-    "BDSM Model" "{size=20}Et arrête de te foutre de moi devant [mcname] !{/size}"
+    "Mannequin BDSM" "{size=20}Et arrête de te foutre de moi devant [mcname] !{/size}"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:211
 translate french sm1cs_kv004_6fa0d6dd:
@@ -374,7 +374,7 @@ translate french sm1cs_kv004_6fa0d6dd:
 translate french sm1cs_kv004_bda7dcbc:
 
     # "BDSM Model" "I'll see you around, [mcname]."
-    "BDSM Model" "On se revoit, [mcname]."
+    "Mannequin BDSM" "On se revoit, [mcname]."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:225
 translate french sm1cs_kv004_3fc9c984:
@@ -1185,24 +1185,24 @@ translate french strings:
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:240
 translate french sm1cs_kv004_9b3488c6:
 
-    # kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
-    kv "She did. I know it's been a while since she's gotten any action, so I figured something to stir her imagination would be appreciated."
+    # kv "C'est ce qu'elle a fait. Je sais que ça fait un moment qu'elle n'a pas eu d'action, alors j'ai pensé que quelque chose pour stimuler son imagination serait apprécié."
+    kv "C'est ce qu'elle a fait. Je sais que ça fait un moment qu'elle n'a pas eu d'action, alors j'ai pensé que quelque chose pour stimuler son imagination serait apprécié."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:409
 translate french sm1cs_kv004_sex_repeatable_b52d6afd:
 
-    # kv "Let's get rid of these pesky things..."
-    kv "Let's get rid of these pesky things..."
+    # kv "Débarrassons-nous de ces petites choses gênantes..."
+    kv "Débarrassons-nous de ces petites choses gênantes..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:470
 translate french sm1cs_kv004_sex_repeatable_0bda85cc:
 
-    # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
-    mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
+    # mc "Put- Kanya, tu es in-cro-ya-ble avec ta bouche, putain."
+    mc "Put- Kanya, tu es in-cro-ya-ble avec ta bouche, putain."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:624
 translate french sm1cs_kv004_sex_repeatable_925a1079:
 
-    # mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
-    mc "Mmmmnngnng, Kanya you're so tight! Your pussy is like a viccce!"
+    # mc "Mmmmnngnng, Kanya tu es tellement serrée ! Ta chatte est comme un étauuu !"
+    mc "Mmmmnngnng, Kanya tu es tellement serrée ! Ta chatte est comme un étauuu !"
 

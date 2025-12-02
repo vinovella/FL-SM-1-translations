@@ -1691,36 +1691,36 @@ translate french strings:
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:710
 translate french sm1cs_mas003_third_delivery_fedc52e9:
 
-    # ka "*sniff* They're the best."
-    ka "*sniff* They're the best."
+    # ka "*renifle* Ce sont les meilleurs."
+    ka "*renifle* Ce sont les meilleurs."
 
 translate french strings:
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
     old "You got a $[amount] as your cut of the tip"
-    new "You got a $[amount] as your cut of the tip"
+    new "Tu as reçu $[amount] comme ta part du pourboire"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:334
 translate french sm1cs_mas003_second_delivery_e42e9cc6:
 
-    # mc "\"She could be the Slobber Atractor.\""
-    mc "\"She could be the Slobber Atractor.\""
+    # mc "\"Elle pourrait être l'Attrape-Bave.\""
+    mc "\"Elle pourrait être l'Attrape-Bave.\""
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:756
 translate french sm1cs_mas003_third_delivery_b52e61ff:
 
-    # lg "I've already seen Olivia's and Kennedy's girls."
-    lg "I've already seen Olivia's and Kennedy's girls."
+    # lg "J'ai déjà vu les filles d'Olivia et de Kennedy."
+    lg "J'ai déjà vu les filles d'Olivia et de Kennedy."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:765
 translate french sm1cs_mas003_third_delivery_c1710beb:
 
-    # mct "No way Maya goes for this."
-    mct "No way Maya goes for this."
+    # mct "Pas moyen que Maya accepte ça."
+    mct "Pas moyen que Maya accepte ça."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:787
 translate french sm1cs_mas003_third_delivery_a9e1c1c0:
 
-    # "Kennedy, Lauren and Olivia" "*cheer wildly*"
-    "Kennedy, Lauren and Olivia" "*cheer wildly*"
+    # "Kennedy, Lauren et Olivia" "*acclamations enthousiastes*"
+    "Kennedy, Lauren et Olivia" "*acclamations enthousiastes*"
 
