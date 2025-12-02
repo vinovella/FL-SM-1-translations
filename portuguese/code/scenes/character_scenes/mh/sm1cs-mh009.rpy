@@ -1040,7 +1040,7 @@ translate portuguese sm1cs_mh009_8115fc5e:
 translate portuguese sm1cs_mh009_6b1bf756:
 
     # mh "You've got a good point there, [mcname]."
-    mh "Realmente, tem razão."
+    mh "Realmente, [mcname], tem razão."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:576
 translate portuguese sm1cs_mh009_229fe2de:
@@ -2406,23 +2406,23 @@ translate portuguese sm1cs_mh009_e9245de9:
 translate portuguese sm1cs_mh009_b94c53e3:
 
     # mh "I can't help but feel a bit hungry...{w} to know more about how it works..."
-    mh "I can't help but feel a bit hungry...{w} to know more about how it works..."
+    mh "É que me dá essa vontade...{w} de saber como é o processo..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:573
 translate portuguese sm1cs_mh009_0890b5c5:
 
     # mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to perform for the camera."
-    mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to perform for the camera."
+    mc "E não tenho por que mentir. Aqui é um lugar de negócios, e qualquer candidata deve saber se apresentar pra câmera."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:651
 translate portuguese sm1cs_mh009_13748be9:
 
     # mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fucked as well as you suck."
-    mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fucked as well as you suck."
+    mc "Bom, agora que o meu pau tá todo meladinho... adoraria ver se sabe transar tão bem quanto chupa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1082
 translate portuguese sm1cs_mh009_1_02c03f87:
 
     # mc "And I promise that the only people who are ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
-    mc "And I promise that the only people who are ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
+    mc "E prometo que ninguém além de nós dois vai ver isso. Não vou postar nem mostrar pra ninguém, prometo-"
 
