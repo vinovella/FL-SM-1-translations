@@ -56,15 +56,15 @@ translate portuguese sm1cs_am005b_9163e74f:
 translate portuguese sm1cs_am005b_658994d8:
 
     # mc "Never mind."
-    mc "Never mind."
+    mc "Deixa."
 
 translate portuguese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
     old "Try out things with April"
-    new "Try out things with April"
+    new "Ver no que dá com a April"
 
     # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
     old "Never mind"
-    new "Never mind"
+    new "Deixa"
 
