@@ -1,0 +1,250 @@
+italian/common.rpy [7 words]
+
+25: new "viewport"
+417: new "Statement:"
+421: new "Tag:"
+569: new "joystick"
+573: new "joystick..."
+1217: new "Console"
+
+italian/code/data/characters/names.rpy [7 words]
+
+5: new "You"
+
+italian/code/data/chat/chat_am.rpy [1 words]
+
+41: new "Hotel?"
+
+italian/code/data/constants/location_constants.rpy [6 words]
+
+33: new "Photo Dojo"
+49: new "Guns n' Rosette"
+223: new "Bar"
+
+italian/code/data/constants/traits.rpy [3 words]
+
+237: new "Bondage"
+289: new "Squirting"
+
+italian/code/data/gallery/sm_website.rpy [23 words]
+
+9: new "Mr. CEO Man"
+21: new "Officer Johnson"
+33: new "Farmhand Jon"
+37: new "Ms. Jones"
+49: new "Searose"
+53: new "Captain Ramses Hornstar"
+57: new "Lt. Luffie Orion"
+61: new "Lieutenant Kira Solo"
+65: new "Doctor Jalerra"
+73: new "Captain Kimora"
+
+italian/code/data/quick_interactions/IT_office/q-inter-ns.rpy [8 words]
+
+1055: ns "Nari Stardust. Nari Always-Wet."
+
+italian/code/data/quick_interactions/Neutral/q-inter-sy.rpy [1 words]
+
+569: mc "What?"
+
+italian/code/data/quick_interactions/Photo_dojo/q-inter-bg.rpy [2 words]
+
+89: bg "Me too!"
+
+italian/code/data/quick_interactions/Theater/q-inter-dvh.rpy [10 words]
+
+65: dvh "Ik regisseerde echt theater in Nederland. Nu... Ik doe dit."
+
+italian/code/data/quick_interactions/Theater/background_chars/q-inter-ec.rpy [1 words]
+
+77: mc "No...?"
+
+italian/code/live_chat/live_chat.rpy [27 words]
+
+5: new "Please finish login in the browser, then press Check Status."
+9: new "Subscription required. Please check our Patreon page for access."
+13: new "Live Chat reset."
+17: new "Could not reset chat: [error]."
+
+italian/code/live_chat/live_chat_auth.rpy (Entire file untranslated) [93 words]
+
+italian/code/live_chat/live_chat_helpers.rpy [8 words]
+
+5: new "Live Chat state reset."
+9: new "Session expired. Re-authentication required."
+
+italian/code/live_chat/live_chat_storage.rpy [12 words]
+
+5: new "No chat logs to export yet."
+9: new "Export failed: [error]."
+13: new "Chat exported: [path]."
+
+italian/code/live_chat/live_chat_ui.rpy (Entire file untranslated) [104 words]
+
+italian/code/renpy/screens/faction_th.rpy [2 words]
+
+13: new "6 PM"
+
+italian/code/renpy/screens/phone.rpy [1 words]
+
+17: new "Laptop"
+
+italian/code/renpy/screens/screens.rpy [4 words]
+
+93: new "Mouse"
+129: new "Ctrl"
+245: new "Audio"
+253: new "Gameplay"
+
+italian/code/renpy/screens/sm_website.rpy [2 words]
+
+5: new "HOME"
+37: new "Top"
+
+italian/code/scenes/character_scenes/bg/sm1cs-bg001.rpy [37 words]
+
+11: "BDSM Model" "Oh, merda - uhm, ehi [mcname]. Uhhh, cosa... Ciao." (Reason: Speaker not translated)
+23: "BDSM Model" "Oh sì?? Come mai?" (Reason: Speaker not translated)
+35: "BDSM Model" "Oh... Davvero?" (Reason: Speaker not translated)
+269: bg "{i}Leather and Latex.{/i}"
+1107: "BDSM Model" "Oh è... Un buon punto. Uhm, puoi chiamarmi...{w} Amore." (Reason: Speaker not translated)
+
+italian/code/scenes/character_scenes/dc/sm1cs-dc002.rpy [7 words]
+
+275: "Creep" "Non mi prenderete mai vivo, sbirri!" (Reason: Speaker not translated)
+
+italian/code/scenes/character_scenes/dc/sm1cs-dc006.rpy [4 words]
+
+431: "{i}Ring, ring!{/i}"
+755: mc "Wait, Debbie!"
+
+italian/code/scenes/character_scenes/dc/sm1cs-dc008.rpy [3 words]
+
+647: mc "What?"
+
+italian/code/scenes/character_scenes/mas/sm1cs-mas003.rpy [25 words]
+
+767: "[mcname] and Maya" "*ridendo*" (Reason: Speaker not translated)
+881: mc "Uh."
+1701: mc "\"She could be the Slobber Atractor.\""
+1707: lg "I've already seen Olivia's and Kennedy's girls."
+1713: mct "No way Maya goes for this."
+1719: "Kennedy, Lauren and Olivia" "*cheer wildly*" (Reason: Speaker not translated)
+
+italian/code/scenes/character_scenes/mas/sm1cs-mas004.rpy [80 words]
+
+1537: ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
+
+italian/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy [27 words]
+
+1740: mes "I need your piss all over me. Make me your dirty little piss slut."
+1746: mes "I'm glad I came back from Korea. This...us...{w} Being together."
+
+italian/code/scenes/character_scenes/mes/sm1cs-mes001.rpy [50 words]
+
+1037: mc "\"Complicated\", that's one way to describe everything that's happened."
+1043: mc "When you're painting and drywalling for the third day straight, it helps to have someone cracking jokes at two in the morning."
+1049: mc "Too bad they didn't consider that stable also means \"happy\", something a forced setup wouldn't necessarily guarantee."
+
+italian/code/scenes/character_scenes/mes/sm1cs-mes002i.rpy [15 words]
+
+197: mc "Talking to her, it was like... I'm not sure, but she looked a bit lost."
+
+italian/code/scenes/character_scenes/mes/sm1cs-mes003.rpy [10 words]
+
+1739: mc "We can't all live in trust-fund homes."
+1745: mes "*happy stuffy moans*"
+
+italian/code/scenes/character_scenes/mes/sm1cs-mes004.rpy [4 words]
+
+1055: mes "No. It's... complicated."
+
+italian/code/scenes/character_scenes/mes/sm1cs-mes005.rpy [1366 words]
+
+1285: mc "Pay your bill and let's go meet Kanya."
+1291: kv "Alrighty, let's keep things nice and loose."
+
+italian/code/scenes/character_scenes/mes/sm1cs-mes006.rpy [82 words]
+
+995: "Stacy and Min" "*Ridendo*" (Reason: Speaker not translated)
+3047: "Stacy and Min" "*ridacchiando*" (Reason: Speaker not translated)
+3053: "Stacy and Min" "*respirando profondamente*" (Reason: Speaker not translated)
+3609: mc "I love you, my naughty fuck-minx."
+3615: sy "Oh cool. A Medusa."
+3621: sy "I call the Medusa!"
+3627: sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
+3633: "[mcname] and Min" "*laughing*" (Reason: Speaker not translated)
+3639: mes "But then wouldn't I just be trading my parents for you?"
+3645: mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
+3651: mes "I was hesitant... being around [mcname]."
+
+italian/code/scenes/character_scenes/mes/sm1cs-mes007.rpy [92 words]
+
+1127: "[mcname] and Min" "*ridacchiando*" (Reason: Speaker not translated)
+1223: mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
+1229: mes "This is your home, but this is going to be my home within your home."
+1235: mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
+1241: mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
+1247: mes "Imprint the shape of your cock against my womb."
+1253: mes "You're grinding me down!"
+1265: mes "I like your spunky attitude."
+
+italian/code/scenes/character_scenes/mh/sm1cs-mh002.rpy [23 words]
+
+395: mh "Excellent. Well, I coudn't be much help today, but I am sure I can deliver in the next couple of days."
+
+italian/code/scenes/character_scenes/mh/sm1cs-mh003.rpy [14 words]
+
+833: mc "All right, all right! Jeez, I'm texting her right now."
+839: mc "Of course! Yes! Absolutely."
+
+italian/code/scenes/character_scenes/mh/sm1cs-mh005.rpy [9 words]
+
+965: mc "Oh don't you worry. I'm going to bring it."
+
+italian/code/scenes/character_scenes/mh/sm1cs-mh006.rpy [31 words]
+
+1381: mc "That sounds... Exhilarating."
+1387: mh "You're incorrigible. No, it took me years to get my clients. Between consistency, trust, meshing with each other - it wasn't an overnight matter."
+1393: mc "Well, uhm... I guess-"
+
+italian/code/scenes/character_scenes/mh/sm1cs-mh008.rpy [249 words]
+
+425: mh "Hahahaha, oh, [mcname]."
+797: "Carnival Worker" "Avvicinati! Vediamo se hai quello che serve per portare a casa uno di questi adorabili peluche!" (Reason: Speaker not translated)
+809: "Carnival Worker" "È semplice! Hai cinque colpi con il nostro fucile ad aria compressa, e devi solo abbattere tre dei bersagli!" (Reason: Speaker not translated)
+821: "Carnival Worker" "Sì! Niente di difficile! Fammi vedere cosa sai fare!" (Reason: Speaker not translated)
+839: "Carnival Worker" "Beh, sembra che tu abbia mancato tutti e tre i colpi! Vuoi riprovare?" (Reason: Speaker not translated)
+851: "Carnival Worker" "Va bene, provaci!" (Reason: Speaker not translated)
+869: "Carnival Worker" "E altri tre colpi mancati! Wow!{w} E tu, signorina? Vuoi provare?" (Reason: Speaker not translated)
+887: "Carnival Worker" "E spara quandoooo sei pronta!" (Reason: Speaker not translated)
+893: "Clang. Clang. Clang. Clang!"
+899: "Carnival Worker" "Santo cielo... hai colpito tutti e tre i bersagli! {size=*0.5}La direzione aveva detto che era impossibile! Ma che diavolo...{/size}" (Reason: Speaker not translated)
+911: "Carnival Worker" "Oh, uhm... sicuramente sì..." (Reason: Speaker not translated)
+917: "Carnival Worker" "Ecco a te..." (Reason: Speaker not translated)
+1127: mc "Donald. MacDonald."
+1373: sy "[mcname]! Lyssa!"
+1823: sy "...{w} No."
+1877: mc "Donald. MacDonald."
+2225: sy "Woah - Lyssa!"
+2319: mc "Yeah! We wanted to be able to use the studio as, well, a studio."
+2325: mh "As a kid, I just knew that we would come to the circus because we had free tickets, and..."
+2331: mh "Yeah. It's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
+2337: mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+2343: sy "Growing up. Our families never really went to the carvnial."
+2349: mh "Yeah, something like this, [mcname]."
+
+italian/code/scenes/character_scenes/mh/sm1cs-mh009.rpy [96 words]
+
+2409: mh "I can't help but feel a bit hungry...{w} to know more about how it works..."
+2415: mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to perform for the camera."
+2421: mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fucked as well as you suck."
+2427: mc "And I promise that the only people who are ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
+
+italian/code/scenes/character_scenes/my/sm1cs-my001.rpy [68 words]
+
+1329: my "Mmmmm, I'll take a glass of the house red."
+1335: my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
+1341: my "The models own personal lives becoming entwined with his work and the studio..."
+1347: "Waiter" "Both wonderful choices, sir." (Reason: Speaker not translated)
+1353: my "They erase the personality so you can fill it with whatever you can fit into a suitcase."

@@ -158,5 +158,5 @@ translate italian sm1cs_sy002i_first_time_d9d0b6cc:
 translate italian sm1cs_sy002i_first_time_fe6569c6:
 
     # mct "Oh boy... here we go."
-    mc "Oh cavolo... eccoci."
+    mct "Oh cavolo... eccoci."
 
