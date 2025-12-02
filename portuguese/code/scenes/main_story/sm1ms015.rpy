@@ -506,7 +506,7 @@ translate portuguese sm1ms015_2f671e56:
 translate portuguese sm1ms015_81026fd6:
 
     # ns "It's great to meet you, Stacy."
-    ns "É um prazer te conhecer, [mcname]."
+    ns "É um prazer te conhecer, Stacy."
 
 # game/code/scenes/main_story/sm1ms015.rpy:242
 translate portuguese sm1ms015_85730248:
