@@ -1326,29 +1326,29 @@ translate spanish strings:
 translate spanish sm1cs_my001_94670bab:
 
     # my "Mmmmm, I'll take a glass of the house red."
-    my "Mmmmm, I'll take a glass of the house red."
+    my "Mmmmm, tomaré una copa del tinto de la casa."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:269
 translate spanish sm1cs_my001_ef92aff5:
 
     # my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
-    my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
+    my "Pero este pequeño imperio empresarial que había empezado a construir comenzó a desmoronarse. Problemas con su vida amorosa, ideas a medio cocinar para ganar dinero..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:272
 translate spanish sm1cs_my001_837a40da:
 
     # my "The models own personal lives becoming entwined with his work and the studio..."
-    my "The models own personal lives becoming entwined with his work and the studio..."
+    my "Las vidas personales de las modelos entrelazándose con su trabajo y el estudio..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:299
 translate spanish sm1cs_my001_27ef328b:
 
     # "Waiter" "Both wonderful choices, sir."
-    "Waiter" "Both wonderful choices, sir."
+    "Camarero" "Ambas maravillosas elecciones, señor."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:346
 translate spanish sm1cs_my001_b4bd7f1c:
 
     # my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
-    my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
+    my "Borran la personalidad para que puedas llenarla con lo que quepa en una maleta."
 

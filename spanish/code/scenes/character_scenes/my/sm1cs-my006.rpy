@@ -2310,65 +2310,65 @@ translate spanish sm1cs_my006_next_morning_02f10a8a:
 translate spanish sm1cs_my006_hotel_room_48510f06:
 
     # my "I will say though, my ranking from best to worst is Episode 5-4-6-3-1-2."
-    my "I will say though, my ranking from best to worst is Episode 5-4-6-3-1-2."
+    my "Aunque diré que mi clasificación de mejor a peor es Episodio 5-4-6-3-1-2."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:247
 translate spanish sm1cs_my006_hotel_room_e268fe97:
 
     # my "I want to say 'thank you'. Thank you for treating me so well after how I acted when I first came to Crowning."
-    my "I want to say 'thank you'. Thank you for treating me so well after how I acted when I first came to Crowning."
+    my "Quiero decir 'gracias'. Gracias por tratarme tan bien después de cómo actué cuando llegué por primera vez a Crowning."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:303
 translate spanish sm1cs_my006_hotel_room_adc7a6e5:
 
     # my "Leave it to me, [mcname]."
-    my "Leave it to me, [mcname]."
+    my "Déjamelo a mí, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:351
 translate spanish sm1cs_my006_hotel_room_4ad2bb87:
 
     # mct "Holy shit, Mom is sucking my cock!"
-    mct "Holy shit, Mom is sucking my cock!"
+    mct "¡Mierda, mamá me está chupando la polla!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:353
 translate spanish sm1cs_my006_hotel_room_d60b4c35:
 
     # mct "Holy shit, Melony is sucking my cock!"
-    mct "Holy shit, Melony is sucking my cock!"
+    mct "¡Mierda, Melony me está chupando la polla!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:603
 translate spanish sm1cs_my006_hotel_room_e5715d71:
 
     # mc "Maybe I want to tease you a little bit?"
-    mc "Maybe I want to tease you a little bit?"
+    mc "¿Quizás quiero provocarte un poco?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:764
 translate spanish sm1cs_my006_hotel_room_df14ac92:
 
     # my "Mmmhmmm! B-better than okay!"
-    my "Mmmhmmm! B-better than okay!"
+    my "¡Mmmhmmm! ¡M-mejor que bien!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:818
 translate spanish sm1cs_my006_hotel_room_34ef9d5d:
 
     # my "Fuck, fuck, fuck, faster! Mmmmmm!"
-    my "Fuck, fuck, fuck, faster! Mmmmmm!"
+    my "¡Joder, joder, joder, más rápido! ¡Mmmmmm!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:973
 translate spanish sm1cs_my006_hotel_room_f7b2d98b:
 
     # mct "At least I've got plenty of time to get to know her, now..."
-    mct "At least I've got plenty of time to get to know her, now..."
+    mct "Al menos tengo mucho tiempo para conocerla ahora..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:1084
 translate spanish sm1cs_my006_next_morning_da8eab1c:
 
     # mc "There's still so much I don't know about you, even though you've been around my whole life."
-    mc "There's still so much I don't know about you, even though you've been around my whole life."
+    mc "Todavía hay tanto que no sé de ti, aunque has estado presente toda mi vida."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:1200
 translate spanish sm1cs_my006_at_studio_4d0a5dbc:
 
     # mc "-and I just want to take a shower and get a cup of coffee, okay?"
-    mc "-and I just want to take a shower and get a cup of coffee, okay?"
+    mc "-y solo quiero darme una ducha y tomar una taza de café, ¿de acuerdo?"
 

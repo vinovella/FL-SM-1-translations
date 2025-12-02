@@ -524,7 +524,7 @@ translate spanish sm1cs_my002_art_gallery_a87a337b:
 translate spanish sm1cs_my002_art_gallery_688ab86d_1:
 
     # my "I'm impressed."
-    my "I'm impressed."
+    my "Estoy impresionada."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:297
 translate spanish sm1cs_my002_art_gallery_ab56833c:
@@ -1312,17 +1312,17 @@ translate spanish strings:
 translate spanish sm1cs_my002_art_gallery_49542627:
 
     # my "Well, let's hear your critique then, hotshot!"
-    my "Well, let's hear your critique then, hotshot!"
+    my "¡Bueno, entonces escuchemos tu crítica, experto!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:354
 translate spanish sm1cs_my002_art_gallery_b0686e24:
 
     # my "So what do you think of \"Mischief and Repose\", hotshot?"
-    my "So what do you think of \"Mischief and Repose\", hotshot?"
+    my "Entonces, ¿qué opinas de \"Travesura y Reposo\", experto?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:536
 translate spanish sm1cs_my002_art_gallery_2944e37e:
 
     # my "Just because there's a dark background doesn't make it chiaroscuro, hotshot."
-    my "Just because there's a dark background doesn't make it chiaroscuro, hotshot."
+    my "Solo porque haya un fondo oscuro no lo convierte en claroscuro, experto."
 
