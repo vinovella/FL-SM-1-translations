@@ -2,7 +2,7 @@
 translate spanish sm1ms028_449e1cf6:
 
     # "BUZZ BUZZ"
-    "RING RING"
+    "BZZZ BZZZ"
 
 # game/code/scenes/main_story/sm1ms028.rpy:10
 translate spanish sm1ms028_4e85cb4d:
@@ -914,7 +914,7 @@ translate spanish sm1ms028_location_change_77975f23:
 translate spanish sm1ms028_location_change_4f38ddaf:
 
     # sy "*slurp*"
-    sy "*sorbo*"
+    sy "*sluurp*"
 
 # game/code/scenes/main_story/sm1ms028.rpy:398
 translate spanish sm1ms028_location_change_5faf666d:
