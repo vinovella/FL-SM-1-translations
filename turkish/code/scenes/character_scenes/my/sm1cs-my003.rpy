@@ -578,7 +578,7 @@ translate turkish sm1cs_my003_at_gym_fcd90430:
 translate turkish sm1cs_my003_at_gym_5a976ed4:
 
     # my "Mmmmmmm, yesssss."
-    my "Mmmmmmm, yesssss."
+    my "Mmmmmmm, evetttt."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:316
 translate turkish sm1cs_my003_at_gym_55ea4e96:
@@ -770,7 +770,7 @@ translate turkish sm1cs_my003_at_gym_c37550e9:
 translate turkish sm1cs_my003_at_gym_e5684d92:
 
     # my "Oh yessss..."
-    my "Oh yessss..."
+    my "Oh evetttt..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:399
 translate turkish sm1cs_my003_at_gym_b9c3c2a6:
@@ -1632,11 +1632,11 @@ translate turkish sm1cs_my003_at_gym_b2b93b59:
 translate turkish sm1cs_my003_at_gym_63659e95:
 
     # my "Now that I'm all good and stretched out too, shall we get to the main event?"
-    my "Now that I'm all good and stretched out too, shall we get to the main event?"
+    my "Ben de güzelce esneyip gerildiğime göre, ana etkinliğe geçelim mi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:687
 translate turkish sm1cs_my003_continue_c59e5ae1:
 
     # my "Come on, [mcname]! You'll have to try harder than that!"
-    my "Come on, [mcname]! You'll have to try harder than that!"
+    my "Hadi, [mcname]! Bundan daha fazlasını denemelisin!"
 

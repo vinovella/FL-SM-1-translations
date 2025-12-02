@@ -422,7 +422,7 @@ translate turkish sm1mv01s07_2_at_rental_45b908a3:
 translate turkish sm1mv01s07_2_at_rental_894728ea:
 
     # sy "Yup."
-    sy "Yup."
+    sy "Evet."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:263
 translate turkish sm1mv01s07_2_at_rental_b193904c:

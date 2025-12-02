@@ -212,7 +212,7 @@ translate turkish sm1cs_cw006_8a9fc9a4:
 translate turkish sm1cs_cw006_606e2d02:
 
     # mc "Sure."
-    mc "Sure."
+    mc "Tabii."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:158
 translate turkish sm1cs_cw006_0a0d6668:

@@ -86,5 +86,5 @@ translate turkish sm1xc_ns_tl_001_2i_5ebdcd16:
 translate turkish sm1xc_ns_tl_001_1i_7fc68d2e:
 
     # mc "Morning, Taisia."
-    mc "Morning, Taisia."
+    mc "Günaydın, Taisia."
 

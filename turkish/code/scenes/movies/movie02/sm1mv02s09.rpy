@@ -1454,7 +1454,7 @@ translate turkish sm1mv02s09_watersports_3586d95f:
 translate turkish sm1mv02s09_watersports_d5e87f9b:
 
     # mhmes "Fascinating."
-    mhmes "Fascinating."
+    mhmes "Büyüleyici."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1171
 translate turkish sm1mv02s09_watersports_bf9aac13:
@@ -1706,5 +1706,5 @@ translate turkish sm1mv02s09_watersports_0fb44886:
 translate turkish sm1mv02s09_movie_2466e48f:
 
     # mhmes "And she is also quite a spectacle to behold. She really understands how to bring a body to climax."
-    mhmes "And she is also quite a spectacle to behold. She really understands how to bring a body to climax."
+    mhmes "Ve o aynı zamanda seyredilmesi gereken bir manzara. Bir bedeni doruk noktasına nasıl getireceğini gerçekten anlıyor."
 

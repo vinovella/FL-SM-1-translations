@@ -8,7 +8,7 @@ translate turkish sm1mv01s07i_f7c8a722:
 translate turkish sm1mv01s07i_6e637e0c:
 
     # mc "Hey there."
-    mc "Hey there."
+    mc "Selam."
 
 # game/code/scenes/movies/movie01/sm1mv01s07i.rpy:9
 translate turkish sm1mv01s07i_f474a48e:
@@ -20,5 +20,5 @@ translate turkish sm1mv01s07i_f474a48e:
 translate turkish sm1mv01s07i_6651ab87:
 
     # mc "Alright."
-    mc "Alright."
+    mc "Tamam."
 

@@ -86,7 +86,7 @@ translate turkish sm1mv02s01_8ae6dbbb:
 translate turkish sm1mv02s01_6a48e6f5:
 
     # mc "\"Star Voyage VI: Babe-lyon 9\"."
-    mc "\"Star Voyage VI: Babe-lyon 9\"."
+    mc "\"Yıldız Yolculuğu VI: Babe-lyon 9\"."
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:91
 translate turkish sm1mv02s01_f801c251:
@@ -116,7 +116,7 @@ translate turkish sm1mv02s01_845c4c57:
 translate turkish sm1mv02s01_6bfc74d9:
 
     # sy "What?"
-    sy "What?"
+    sy "Ne?"
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:107
 translate turkish sm1mv02s01_0bd37df1:
@@ -128,7 +128,7 @@ translate turkish sm1mv02s01_0bd37df1:
 translate turkish sm1mv02s01_6bfc74d9_1:
 
     # sy "What?"
-    sy "What?"
+    sy "Ne?"
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:117
 translate turkish sm1mv02s01_7bd9a18d:
@@ -368,7 +368,7 @@ translate turkish sm1mv02s01_56fd39a4:
 translate turkish sm1mv02s01_3a41c5e6:
 
     # sy "Yep!"
-    sy "Yep!"
+    sy "Evet!"
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:246
 translate turkish sm1mv02s01_804b28e4:

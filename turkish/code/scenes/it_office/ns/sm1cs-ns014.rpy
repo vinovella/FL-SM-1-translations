@@ -872,7 +872,7 @@ translate turkish sm1cs_ns014_studio_ef1914ae:
 translate turkish sm1cs_ns014_studio_c502812c:
 
     # mc "Hardy har har."
-    mc "Hardy har har."
+    mc "Ha ha ha."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:541
 translate turkish sm1cs_ns014_studio_53e39a6f:
@@ -1052,7 +1052,7 @@ translate turkish sm1cs_ns014_studio_f8556806:
 translate turkish sm1cs_ns014_studio_79de7289_1:
 
     # mc "Come here."
-    mc "Come here."
+    mc "Buraya gel."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:639
 translate turkish sm1cs_ns014_studio_bc0ed831:

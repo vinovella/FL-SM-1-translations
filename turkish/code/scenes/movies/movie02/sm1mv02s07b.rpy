@@ -1478,7 +1478,7 @@ translate turkish sm1mv02s07b_no_watersports_3a04ebe1:
 translate turkish sm1mv02s07b_no_watersports_2b575dc3:
 
     # ns "If you'll excuse me!"
-    ns "If you'll excuse me!"
+    ns "İzninizle!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:761
 translate turkish sm1mv02s07b_end_7b2f27cd:

@@ -680,5 +680,5 @@ translate turkish sm1ms017_869ad7f6:
 translate turkish sm1ms017_f46b669d_1:
 
     # mc "*chuckles*"
-    mc "*chuckles*"
+    mc "*kıkırdar*"
 

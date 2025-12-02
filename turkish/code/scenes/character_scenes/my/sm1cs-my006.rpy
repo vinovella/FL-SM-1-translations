@@ -734,7 +734,7 @@ translate turkish sm1cs_my006_hotel_room_aa263c7d:
 translate turkish sm1cs_my006_hotel_room_5f71acf7:
 
     # mc "*grunting*"
-    mc "*grunting*"
+    mc "*homurdanma*"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:379
 translate turkish sm1cs_my006_hotel_room_8294d61a:
@@ -1100,7 +1100,7 @@ translate turkish sm1cs_my006_hotel_room_29d615ba:
 translate turkish sm1cs_my006_hotel_room_f153ab85:
 
     # my "Fuuuuccckkk! Oh, it feels soooo - ngggh - soooo gooooood!"
-    my "Fuuuuccckkk! Oh, it feels soooo - ngggh - soooo gooooood!"
+    my "Siiiiktiiir! Oh, çok - ngggh - çok iyiiiii!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:505
 translate turkish sm1cs_my006_hotel_room_3117c09f:
@@ -1220,7 +1220,7 @@ translate turkish sm1cs_my006_hotel_room_1a14f5ea:
 translate turkish sm1cs_my006_hotel_room_65d50065:
 
     # my "Oh, God, [mcname]! [mcname]! I'm - I'm-!"
-    my "Oh, God, [mcname]! [mcname]! I'm - I'm-!"
+    my "Oh, Tanrım, [mcname]! [mcname]! Ben - Ben-!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:533
 translate turkish sm1cs_my006_hotel_room_a0c05edb:
@@ -2316,59 +2316,59 @@ translate turkish sm1cs_my006_next_morning_02f10a8a:
 translate turkish sm1cs_my006_hotel_room_48510f06:
 
     # my "I will say though, my ranking from best to worst is Episode 5-4-6-3-1-2."
-    my "I will say though, my ranking from best to worst is Episode 5-4-6-3-1-2."
+    my "Yine de söylemek gerekirse, en iyiden en kötüye sıralamam Bölüm 5-4-6-3-1-2."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:247
 translate turkish sm1cs_my006_hotel_room_e268fe97:
 
     # my "I want to say 'thank you'. Thank you for treating me so well after how I acted when I first came to Crowning."
-    my "I want to say 'thank you'. Thank you for treating me so well after how I acted when I first came to Crowning."
+    my "'Teşekkür ederim' demek istiyorum. Crowning'e ilk geldiğimde nasıl davrandığımdan sonra bana bu kadar iyi davrandığın için teşekkürler."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:303
 translate turkish sm1cs_my006_hotel_room_adc7a6e5:
 
     # my "Leave it to me, [mcname]."
-    my "Leave it to me, [mcname]."
+    my "Bana bırak, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:351
 translate turkish sm1cs_my006_hotel_room_4ad2bb87:
 
     # mct "Holy shit, Mom is sucking my cock!"
-    mct "Holy shit, Mom is sucking my cock!"
+    mct "Lanet olsun, annem sikimi emiyor!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:353
 translate turkish sm1cs_my006_hotel_room_d60b4c35:
 
     # mct "Holy shit, Melony is sucking my cock!"
-    mct "Holy shit, Melony is sucking my cock!"
+    mct "Lanet olsun, Melony sikimi emiyor!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:603
 translate turkish sm1cs_my006_hotel_room_e5715d71:
 
     # mc "Maybe I want to tease you a little bit?"
-    mc "Maybe I want to tease you a little bit?"
+    mc "Belki seni biraz kızdırmak istiyorum?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:764
 translate turkish sm1cs_my006_hotel_room_df14ac92:
 
     # my "Mmmhmmm! B-better than okay!"
-    my "Mmmhmmm! B-better than okay!"
+    my "Mmmhmmm! İ-iyiden daha iyi!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:818
 translate turkish sm1cs_my006_hotel_room_34ef9d5d:
 
     # my "Fuck, fuck, fuck, faster! Mmmmmm!"
-    my "Fuck, fuck, fuck, faster! Mmmmmm!"
+    my "Sik, sik, sik, daha hızlı! Mmmmmm!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:1084
 translate turkish sm1cs_my006_next_morning_da8eab1c:
 
     # mc "There's still so much I don't know about you, even though you've been around my whole life."
-    mc "There's still so much I don't know about you, even though you've been around my whole life."
+    mc "Hala senin hakkında bilmediğim çok şey var, bütün hayatım boyunca burada olsana rağmen."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:1200
 translate turkish sm1cs_my006_at_studio_4d0a5dbc:
 
     # mc "-and I just want to take a shower and get a cup of coffee, okay?"
-    mc "-and I just want to take a shower and get a cup of coffee, okay?"
+    mc "-ve sadece duş alıp bir fincan kahve içmek istiyorum, tamam mı?"
 
