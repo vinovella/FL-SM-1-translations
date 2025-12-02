@@ -392,5 +392,5 @@ translate portuguese sm1cs_mh002_4165b5fc:
 translate portuguese sm1cs_mh002_fe8d9f56:
 
     # mh "Excellent. Well, I couldn't be of much help today, but I am sure I can deliver in the next couple of days."
-    mh "Excellent. Well, I couldn't be of much help today, but I am sure I can deliver in the next couple of days."
+    mh "Excelente. Bem, não fui de muita ajuda hoje, mas acho que consigo entregar nos próximos dias."
 
