@@ -1256,7 +1256,7 @@ translate portuguese sm1cs_vs003_part3_8cf12499:
 translate portuguese sm1cs_vs003_part3_a21d844c_1:
 
     # vs "*suck suck*"
-    vs "*suck suck*"
+    vs "*chupa chupa*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:717
 translate portuguese sm1cs_vs003_part3_a594b662:
@@ -1292,7 +1292,7 @@ translate portuguese sm1cs_vs003_part3_175926a3:
 translate portuguese sm1cs_vs003_part3_d3e1f441:
 
     # vs "*muffled laughing*"
-    vs "*muffled laughing*"
+    vs "*risada contida*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:731
 translate portuguese sm1cs_vs003_part3_c4333e5e:
@@ -1304,7 +1304,7 @@ translate portuguese sm1cs_vs003_part3_c4333e5e:
 translate portuguese sm1cs_vs003_part3_4408dea2:
 
     # mc "*heavy breathing*"
-    mc "*heavy breathing*"
+    mc "*ofegante*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:740
 translate portuguese sm1cs_vs003_part3_fe20055a:
