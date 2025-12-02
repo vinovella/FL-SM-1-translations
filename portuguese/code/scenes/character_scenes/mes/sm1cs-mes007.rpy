@@ -1216,37 +1216,37 @@ translate portuguese sm1cs_mes007_5b463004:
 translate portuguese sm1cs_mes007_5a9df7e5:
 
     # mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
-    mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
+    mes "E você carregando as coisas grandes me poupa o trabalho de criar um sistema elaborado de roldanas e guincho que poderia danificar o estúdio."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:265
 translate portuguese sm1cs_mes007_2c65153e:
 
     # mes "This is your home, but this is going to be my home within your home."
-    mes "This is your home, but this is going to be my home within your home."
+    mes "Essa é a sua casa, mas isso aqui vai ser a minha casa dentro da sua."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:437
 translate portuguese sm1cs_mes007_continue_e174a810:
 
     # mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
-    mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
+    mc "Obrigado, Min. Mas a minha parte favorita das calcinhas é quando eu arranco elas de você."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:529
 translate portuguese sm1cs_mes007_continue_b07f733a:
 
     # mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
-    mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
+    mc "Manda ver. Só não ache estranho se sentir uma pressão contra a sua boceta."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:610
 translate portuguese sm1cs_mes007_continue_7b7099ec:
 
     # mes "Imprint the shape of your cock against my womb."
-    mes "Imprint the shape of your cock against my womb."
+    mes "Grava o formato do seu pau no meu útero."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:656
 translate portuguese sm1cs_mes007_continue_fc117b28:
 
     # mes "You're grinding me down!"
-    mes "You're grinding me down!"
+    mes "Aaih, você tá acabando comigo!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:725
 translate portuguese sm1cs_mes007_continue_a0e12b14:
@@ -1258,5 +1258,5 @@ translate portuguese sm1cs_mes007_continue_a0e12b14:
 translate portuguese sm1cs_mes007_continue_d0c62791:
 
     # mes "I like your spunky attitude."
-    mes "I like your spunky attitude."
+    mes "Gostei da sua atitude animada."
 
