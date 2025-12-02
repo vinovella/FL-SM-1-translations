@@ -944,13 +944,13 @@ translate spanish strings:
 translate spanish sm1cs_tl008_sex_934a8898:
 
     # tl "*hungry sucking*"
-    tl "*hungry sucking*"
+    tl "*chupando con hambre*"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:252
 translate spanish sm1cs_tl008_sex_c9bcfb54:
 
     # mc "I'm close, definitely close!"
-    mc "I'm close, definitely close!"
+    mc "¡Estoy cerca, definitivamente cerca!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:253
 translate spanish sm1cs_tl008_sex_f0654f09:
@@ -962,55 +962,55 @@ translate spanish sm1cs_tl008_sex_f0654f09:
 translate spanish sm1cs_tl008_sex_8ad9a1db:
 
     # tl "Not yet, cowboy. I want a turn on a real dick."
-    tl "Not yet, cowboy. I want a turn on a real dick."
+    tl "Todavía no, vaquero. Quiero un turno con una polla de verdad."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:264
 translate spanish sm1cs_tl008_sex_cb701231:
 
     # mc "Well, I don't mind that at all."
-    mc "Well, I don't mind that at all."
+    mc "Bueno, a mí no me importa en absoluto."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:268
 translate spanish sm1cs_tl008_sex_d0d44b21:
 
     # tl "But I have been having fun being filled at both ends."
-    tl "But I have been having fun being filled at both ends."
+    tl "Pero me he estado divirtiendo siendo llenada por ambos lados."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:271
 translate spanish sm1cs_tl008_sex_14d509d0:
 
     # mc "Well, I'm happy to be filling up one of those ends."
-    mc "Well, I'm happy to be filling up one of those ends."
+    mc "Bueno, estoy feliz de estar llenando uno de esos lados."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:274
 translate spanish sm1cs_tl008_sex_a1c435d2:
 
     # tl "Good, but I have a few filling that I need doing."
-    tl "Good, but I have a few filling that I need doing."
+    tl "Bien, pero tengo unos cuantos rellenos que necesito que me hagan."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:278
 translate spanish sm1cs_tl008_sex_8858e560:
 
     # tl "And I think I know just the thing to do..."
-    tl "And I think I know just the thing to do..."
+    tl "Y creo que sé exactamente qué hacer..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:283
 translate spanish sm1cs_tl008_sex_3c10d71d:
 
     # tl "Mmmm, yeah. That'll work perfect."
-    tl "Mmmm, yeah. That'll work perfect."
+    tl "Mmmm, sí. Eso funcionará perfecto."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:284
 translate spanish sm1cs_tl008_sex_83129961:
 
     # tl "Now, fuck me, [mcname], while I clean my dildo off."
-    tl "Now, fuck me, [mcname], while I clean my dildo off."
+    tl "Ahora, fóllame, [mcname], mientras limpio mi consolador."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:287
 translate spanish sm1cs_tl008_sex_f2cf079d:
 
     # mc "Okie-dokie!"
-    mc "Okie-dokie!"
+    mc "¡Okie-dokie!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:295
 translate spanish sm1cs_tl008_sex_29988449:
@@ -1028,13 +1028,13 @@ translate spanish sm1cs_tl008_sex_c2ea84bb:
 translate spanish sm1cs_tl008_sex_218e6065:
 
     # mc "God, you're so wet, Taisia!"
-    mc "God, you're so wet, Taisia!"
+    mc "¡Dios, estás tan mojada, Taisia!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:300
 translate spanish sm1cs_tl008_sex_e9403dc4:
 
     # mc "Shit, how long have you been masturbating to that video?"
-    mc "Shit, how long have you been masturbating to that video?"
+    mc "Mierda, ¿cuánto tiempo has estado masturbándote con ese video?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:301
 translate spanish sm1cs_tl008_sex_fff4807a:
@@ -1046,13 +1046,13 @@ translate spanish sm1cs_tl008_sex_fff4807a:
 translate spanish sm1cs_tl008_sex_2cdd7b8a:
 
     # mc "God, you are just drenched! Oh fuck!"
-    mc "God, you are just drenched! Oh fuck!"
+    mc "¡Dios, estás empapada! ¡Oh joder!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:305
 translate spanish sm1cs_tl008_sex_eff7f32c:
 
     # mc "This wet... I can really fuck the shit out of you right now!"
-    mc "This wet... I can really fuck the shit out of you right now!"
+    mc "Así de mojada... ¡puedo follarte salvajemente ahora mismo!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:306
 translate spanish sm1cs_tl008_sex_03b0ab74:
@@ -1064,7 +1064,7 @@ translate spanish sm1cs_tl008_sex_03b0ab74:
 translate spanish sm1cs_tl008_sex_5053595c:
 
     # mc "Is that you telling me I should go harder?"
-    mc "Is that you telling me I should go harder?"
+    mc "¿Eso es que me dices que debería ir más fuerte?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:310
 translate spanish sm1cs_tl008_sex_e868ab4b:
@@ -1076,7 +1076,7 @@ translate spanish sm1cs_tl008_sex_e868ab4b:
 translate spanish sm1cs_tl008_sex_0c3e0512:
 
     # mc "*grunting* Good girl!"
-    mc "*grunting* Good girl!"
+    mc "*gruñendo* ¡Buena chica!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:314
 translate spanish sm1cs_tl008_sex_e06cd789:
@@ -1100,7 +1100,7 @@ translate spanish sm1cs_tl008_sex_988771bd:
 translate spanish sm1cs_tl008_sex_4cd2d6dd:
 
     # mc "You like that?"
-    mc "You like that?"
+    mc "¿Te gusta eso?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:321
 translate spanish sm1cs_tl008_sex_4af72180:
@@ -1112,13 +1112,13 @@ translate spanish sm1cs_tl008_sex_4af72180:
 translate spanish sm1cs_tl008_sex_8e958415:
 
     # mc "Fuck!{w} Your pussy feels so good!"
-    mc "Fuck!{w} Your pussy feels so good!"
+    mc "¡Joder!{w} ¡Tu coño se siente tan bien!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:325
 translate spanish sm1cs_tl008_sex_bfd2b23f:
 
     # mc "Fuck, Taisia - how did you get wetter {i}and tighter?{/i}"
-    mc "Fuck, Taisia - how did you get wetter {i}and tighter?{/i}"
+    mc "Joder, Taisia - ¿cómo te pusiste más mojada {i}y más apretada?{/i}"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:326
 translate spanish sm1cs_tl008_sex_4b8a0247:

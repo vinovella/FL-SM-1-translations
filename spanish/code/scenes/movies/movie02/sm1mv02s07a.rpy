@@ -411,7 +411,7 @@ translate spanish sm1mv02s07a_b913fa1b:
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:316
 translate spanish sm1mv02s07a_ad91178c:
     # "Min and [mcname]" "*laughing*"
-    "Min and [mcname]" "*riendo*"
+    "Min y [mcname]" "*riendo*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:319
 translate spanish sm1mv02s07a_a91dafe7:

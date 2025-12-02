@@ -1004,7 +1004,7 @@ translate spanish sm1cs_vs003_part3_6b619f90:
 translate spanish sm1cs_vs003_part3_1f028ee0:
 
     # mc "*lick lick*"
-    mc "*lick lick*"
+    mc "*lame lame*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:608
 translate spanish sm1cs_vs003_part3_481fbe70:
