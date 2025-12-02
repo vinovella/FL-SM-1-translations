@@ -983,9 +983,9 @@ translate chinese sm1mv01s06_movie_start_5f71acf7:
     mc "*咕哝声*"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:628
-translate chinese sm1mv01s06_movie_start_b54fa042:
+translate chinese sm1mv01s06_movie_start_afd31cda:
 
-    # mc "Parlay?"
+    # mc "Parley?"
     mc "休战谈判？"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:631

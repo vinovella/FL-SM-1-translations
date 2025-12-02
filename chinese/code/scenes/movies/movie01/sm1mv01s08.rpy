@@ -856,12 +856,6 @@ translate chinese sm1mv01s08_movie_start_625728d4:
     # mc "Have at thee!"
     mc "看招！"
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:485
-translate chinese sm1mv01s08_movie_start_b2ab66e0:
-
-    # sy "Muraah. Keep going. Proove yourself a worthy seman for my pussy."
-    sy "啊...继续吧。证明你配得上我的小穴。"
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:488
 translate chinese sm1mv01s08_movie_start_848ef23c:
 
@@ -1114,12 +1108,6 @@ translate chinese sm1mv01s08_movie_start_5c2c7bcf:
     # sy "..."
     sy "..."
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:590
-translate chinese sm1mv01s08_movie_start_009c95be:
-
-    # sy "Fine, swob my poopdeck, Dickhart!"
-    sy "好啊，来给我擦屁股吧，硬汉迪克！"
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:597
 translate chinese sm1mv01s08_movie_start_adc9445e:
 
@@ -1156,12 +1144,6 @@ translate chinese sm1mv01s08_movie_start_60bc9723:
     # sy "F-fuhhhh- Dickhart!"
     sy "操--呃啊啊--硬汉迪克！"
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:609
-translate chinese sm1mv01s08_movie_start_16ed036f:
-
-    # mc "Judging by how tightly you're squeeing my cock, I'd say you love it!"
-    mc "看你夹我鸡巴夹得多紧，我敢说你爱死它了！"
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:610
 translate chinese sm1mv01s08_movie_start_edd1f6bf:
 
@@ -1179,12 +1161,6 @@ translate chinese sm1mv01s08_movie_start_2f762a63:
 
     # sy "I - nnngggggg - am no wench!"
     sy "我--嗯嗯嗯--才不是贱货！"
-
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:617
-translate chinese sm1mv01s08_movie_start_72010101:
-
-    # mc "How can I believe you when you're moans keep beggign for my cock to pound your butthole?"
-    mc "你不断浪叫着求我用鸡巴肏你屁眼，让我怎么相信你？"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:618
 translate chinese sm1mv01s08_movie_start_058acab4:
@@ -1797,4 +1773,28 @@ translate chinese sm1mv01s08_movie_end_65593449:
 
     # sy "You're doing great! Seriously, fucking incredible."
     sy "你表现得太棒了！说真的，简直太厉害了。"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:492
+translate chinese sm1mv01s08_movie_start_5c469d8e:
+
+    # sy "Muraah. Keep going. Prove yourself a worthy seaman for my pussy."
+    sy "啊...继续吧。证明你配得上我的小穴。"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:602
+translate chinese sm1mv01s08_movie_start_456168d3:
+
+    # sy "Fine, swab my poopdeck, Dickhart!"
+    sy "好啊，来给我擦屁股吧，硬汉迪克！"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:622
+translate chinese sm1mv01s08_movie_start_a79669f8:
+
+    # mc "Judging by how tightly you're squeezing my cock, I'd say you love it!"
+    mc "看你夹我鸡巴夹得多紧，我敢说你爱死它了！"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:631
+translate chinese sm1mv01s08_movie_start_b186964d:
+
+    # mc "How can I believe you when your moans keep begging for my cock to pound your butthole?"
+    mc "你不断浪叫着求我用鸡巴肏你屁眼，让我怎么相信你？"
 

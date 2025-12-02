@@ -640,10 +640,10 @@ translate chinese sm1fs_t008_later_ed50aa35:
     # dvh "I did tell you when we first started out..."
     dvh "我确实在我们刚开始的时候告诉过你..."
 
-# game/code/scenes/theatre/sm1fs-t008.rpy:329
-translate chinese sm1fs_t008_later_6c3316dd:
+# game/code/scenes/theatre/sm1fs-t008.rpy:366
+translate chinese sm1fs_t008_later_3bd2c81e:
 
-    # dvh "That the theater is not a place for debacherous sex, [mcname]."
+    # dvh "That the theater is not a place for debaucherous sex, [mcname]."
     dvh "剧院不是放纵性爱的地方，[mcname]。"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:332

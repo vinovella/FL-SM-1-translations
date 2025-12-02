@@ -464,8 +464,6 @@
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
     new "Le icone del menu sono derivate da {a=https://feathericons.com/}Feather{/a}, una bellissima raccolta di icone realizzata da @colebemis e rilasciata con licenza {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
 
-translate italian strings:
-
     # game/code/renpy/screens/screens.rpy:444
     old "Saves For Season 2"
     new "Salvataggi Per la Stagione 2"
@@ -477,4 +475,8 @@ translate italian strings:
     # game/code/renpy/screens/screens.rpy:1140
     old "FRENCH TRANSLATION"
     new "TRADUZIONE FRANCESE"
+
+    # game/code/renpy/screens/screens.rpy:218
+    old "Live Chat"
+    new "Live Chat"
 

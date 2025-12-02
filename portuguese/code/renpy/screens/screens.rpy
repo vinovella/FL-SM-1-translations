@@ -484,3 +484,7 @@ translate portuguese strings:
     old "FRENCH TRANSLATION"
     new "TRADUÇÃO FRANCESA"
 
+    # game/code/renpy/screens/screens.rpy:218
+    old "Live Chat"
+    new "Live Chat"
+

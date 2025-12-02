@@ -982,12 +982,6 @@ translate french sm1mv01s06_movie_start_5f71acf7:
     # mc "*grunting*"
     mc "*grogne*"
 
-# game/code/scenes/movies/movie01/sm1mv01s06.rpy:634
-translate french sm1mv01s06_movie_start_b54fa042:
-
-    # mc "Parlay?"
-    mc "Parler ?"
-
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:637
 translate french sm1mv01s06_movie_start_fee6a076:
 
@@ -1645,4 +1639,10 @@ translate french strings:
     new "Sur les hautes mers"
 
 #Translate by BlackViper_
+
+# game/code/scenes/movies/movie01/sm1mv01s06.rpy:628
+translate french sm1mv01s06_movie_start_afd31cda:
+
+    # mc "Parley?"
+    mc "Parler ?"
 

@@ -982,11 +982,6 @@ translate spanish sm1mv01s06_movie_start_5f71acf7:
     # mc "*grunting*"
     mc "*gruñidos*"
 
-# game/code/scenes/movies/movie01/sm1mv01s06.rpy:628
-translate spanish sm1mv01s06_movie_start_b54fa042:
-    # mc "Parlay?"
-    mc "¿Tregua?"
-
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:631
 translate spanish sm1mv01s06_movie_start_fee6a076:
 
@@ -1642,4 +1637,10 @@ translate spanish sm1mv01s06_done_recording_659dcc56:
 
     # kv "I admire your fervor, but let's not forget what we're making."
     kv "Admiro tu fervor, pero no olvidemos lo que estamos haciendo."
+
+# game/code/scenes/movies/movie01/sm1mv01s06.rpy:628
+translate spanish sm1mv01s06_movie_start_afd31cda:
+
+    # mc "Parley?"
+    mc "¿Tregua?"
 

@@ -640,12 +640,6 @@ translate portuguese sm1fs_t008_later_ed50aa35:
     # dvh "I did tell you when we first started out..."
     dvh "Eu te disse, quando começamos..."
 
-# game/code/scenes/theatre/sm1fs-t008.rpy:329
-translate portuguese sm1fs_t008_later_6c3316dd:
-
-    # dvh "That the theater is not a place for debacherous sex, [mcname]."
-    dvh "Que o teatro não é lugar para sexo devasso, [mcname]."
-
 # game/code/scenes/theatre/sm1fs-t008.rpy:332
 translate portuguese sm1fs_t008_later_606276a4:
 
@@ -957,4 +951,10 @@ translate portuguese strings:
     # game/code/scenes/theatre/sm1fs-t008.rpy:333
     old "Truth"
     new "Verdade"
+
+# game/code/scenes/theatre/sm1fs-t008.rpy:366
+translate portuguese sm1fs_t008_later_3bd2c81e:
+
+    # dvh "That the theater is not a place for debaucherous sex, [mcname]."
+    dvh "Que o teatro não é lugar para sexo devasso, [mcname]."
 

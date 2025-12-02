@@ -389,8 +389,8 @@ translate deutsch sm1cs_mh002_4165b5fc:
     mh "Es klingt so, als ob du, sobald du in Fahrt gekommen warst, ziemlich schnell den Schleier des Geheimnisses lüften konntest, um herauszufinden, was Lydia vorhatte."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:195
-translate deutsch sm1cs_mh002_3b1b4dd9:
+translate deutsch sm1cs_mh002_fe8d9f56:
 
-    # mh "Excellent. Well, I coudn't be much help today, but I am sure I can deliver in the next couple of days."
+    # mh "Excellent. Well, I couldn't be of much help today, but I am sure I can deliver in the next couple of days."
     mh "Ausgezeichnet. Nun, ich konnte heute nicht viel helfen, aber ich bin sicher, dass ich in den nächsten Tagen liefern kann."
 

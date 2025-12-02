@@ -640,10 +640,10 @@ translate french sm1fs_t008_later_ed50aa35:
     # dvh "I did tell you when we first started out..."
     dvh "Je t’ai pourtant dit dès le début…"
 
-# game/code/scenes/theatre/sm1fs-t008.rpy:329
-translate french sm1fs_t008_later_6c3316dd:
+# game/code/scenes/theatre/sm1fs-t008.rpy:366
+translate french sm1fs_t008_later_3bd2c81e:
 
-    # dvh "That the theater is not a place for debacherous sex, [mcname]."
+    # dvh "That the theater is not a place for debaucherous sex, [mcname]."
     dvh "Que le théâtre n’est pas un lieu pour des activités sexuelles débauchées, [mcname]."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:332

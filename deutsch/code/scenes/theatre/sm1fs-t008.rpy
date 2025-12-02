@@ -640,10 +640,10 @@ translate deutsch sm1fs_t008_later_ed50aa35:
     # dvh "I did tell you when we first started out..."
     dvh "Ich habe es dir doch gesagt, als wir angefangen haben..."
 
-# game/code/scenes/theatre/sm1fs-t008.rpy:329
-translate deutsch sm1fs_t008_later_6c3316dd:
+# game/code/scenes/theatre/sm1fs-t008.rpy:366
+translate deutsch sm1fs_t008_later_3bd2c81e:
 
-    # dvh "That the theater is not a place for debacherous sex, [mcname]."
+    # dvh "That the theater is not a place for debaucherous sex, [mcname]."
     dvh "Dass das Theater kein Ort für zügellosen Sex ist, [mcname]."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:332

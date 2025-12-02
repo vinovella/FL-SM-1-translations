@@ -478,12 +478,6 @@ translate portuguese sm1mv01s09_movie_start_3bf8fea0:
     # sy "I suppose this still leaves us with one treasure and three of us..."
     sy "Acho que isso ainda deixa a gente com um tesouro e três pessoas..."
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:326
-translate portuguese sm1mv01s09_movie_start_0f241640:
-
-    # sy "How about a parlay?"
-    sy "Que tal um parlamento?"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:328
 translate portuguese sm1mv01s09_movie_start_de3645a9:
 
@@ -561,12 +555,6 @@ translate portuguese sm1mv01s09_movie_start_4b8fdfa6:
 
     # sy "You will regret those words, Searose."
     sy "Você vai se arrepender dessas palavras, Searose."
-
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:365
-translate portuguese sm1mv01s09_movie_start_14180c04:
-
-    # sy "Now, off with those pants, Dickhart. Let us see who is the most debacherous pirate among us."
-    sy "Agora, tira essa calça, Dickhart. Vamos ver quem é o pirata mais devasso daqui."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:369
 translate portuguese sm1mv01s09_movie_start_937bb6d4:
@@ -1498,12 +1486,6 @@ translate portuguese sm1mv01s09_movie_start_2b591029:
     # sy "I - oh fuck! Keep - yessss, like that!"
     sy "Eu— ai porra! Continua— issooo, desse jeito!"
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:785
-translate portuguese sm1mv01s09_movie_start_1281aa14:
-
-    # sy "Keep ramming my porculis, Dickhart!"
-    sy "Continua arrombando meu portcullis, Dickhart!"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:786
 translate portuguese sm1mv01s09_movie_start_44ac1015:
 
@@ -1912,12 +1894,6 @@ translate portuguese sm1mv01s09_movie_start_63570b2c:
     # tl "I like the sound of that."
     tl "Gosto dessa ideia."
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:997
-translate portuguese sm1mv01s09_movie_end_a6354780:
-
-    # sy "You'll pay for this, Dickhart... I sweat it on the devil's black heart!"
-    sy "Você vai pagar por isso, Dickhart... eu juro pelo coração negro do diabo!"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:998
 translate portuguese sm1mv01s09_movie_end_44e4456e:
 
@@ -1953,4 +1929,28 @@ translate portuguese sm1mv01s09_movie_start_d3b0d62d:
 
     # sy "Mmmrrrngnnnnngggg!!!"
     sy "Mmmrrrngnnnnngggg!!!"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:327
+translate portuguese sm1mv01s09_movie_start_c5b71803:
+
+    # sy "How about a parley?"
+    sy "Que tal um parlamento?"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:366
+translate portuguese sm1mv01s09_movie_start_4c8f78ef:
+
+    # sy "Now, off with those pants, Dickhart. Let us see who is the most debaucherous pirate among us."
+    sy "Agora, tira essa calça, Dickhart. Vamos ver quem é o pirata mais devasso daqui."
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:814
+translate portuguese sm1mv01s09_movie_start_81a54ed9:
+
+    # sy "Keep ramming my portcullis, Dickhart!"
+    sy "Continua arrombando meu portcullis, Dickhart!"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:1041
+translate portuguese sm1mv01s09_movie_end_c22650f8:
+
+    # sy "You'll pay for this, Dickhart... I swear it on the devil's black heart!"
+    sy "Você vai pagar por isso, Dickhart... eu juro pelo coração negro do diabo!"
 

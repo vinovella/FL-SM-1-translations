@@ -472,3 +472,7 @@
     old "FRENCH TRANSLATION"
     new "法语翻译"
 
+    # game/code/renpy/screens/screens.rpy:218
+    old "Live Chat"
+    new "实时聊天"
+

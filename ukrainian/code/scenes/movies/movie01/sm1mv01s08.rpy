@@ -857,10 +857,10 @@ translate ukrainian sm1mv01s08_movie_start_625728d4:
     mc "Have at thee!"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:492
-translate ukrainian sm1mv01s08_movie_start_b2ab66e0:
+translate ukrainian sm1mv01s08_movie_start_5c469d8e:
 
-    # sy "Muraah. Keep going. Proove yourself a worthy seman for my pussy."
-    sy "Muraah. Keep going. Proove yourself a worthy seman for my pussy."
+    # sy "Muraah. Keep going. Prove yourself a worthy seaman for my pussy."
+    sy "Muraah. Keep going. Prove yourself a worthy seaman for my pussy."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:495
 translate ukrainian sm1mv01s08_movie_start_848ef23c:
@@ -1115,10 +1115,10 @@ translate ukrainian sm1mv01s08_movie_start_5c2c7bcf:
     sy "..."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:602
-translate ukrainian sm1mv01s08_movie_start_009c95be:
+translate ukrainian sm1mv01s08_movie_start_456168d3:
 
-    # sy "Fine, swob my poopdeck, Dickhart!"
-    sy "Fine, swob my poopdeck, Dickhart!"
+    # sy "Fine, swab my poopdeck, Dickhart!"
+    sy "Fine, swab my poopdeck, Dickhart!"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:610
 translate ukrainian sm1mv01s08_movie_start_adc9445e:
@@ -1157,10 +1157,10 @@ translate ukrainian sm1mv01s08_movie_start_60bc9723:
     sy "F-fuhhhh- Dickhart!"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:622
-translate ukrainian sm1mv01s08_movie_start_16ed036f:
+translate ukrainian sm1mv01s08_movie_start_a79669f8:
 
-    # mc "Judging by how tightly you're squeeing my cock, I'd say you love it!"
-    mc "Judging by how tightly you're squeeing my cock, I'd say you love it!"
+    # mc "Judging by how tightly you're squeezing my cock, I'd say you love it!"
+    mc "Judging by how tightly you're squeezing my cock, I'd say you love it!"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:623
 translate ukrainian sm1mv01s08_movie_start_edd1f6bf:
@@ -1181,10 +1181,10 @@ translate ukrainian sm1mv01s08_movie_start_2f762a63:
     sy "I - nnngggggg - am no wench!"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:631
-translate ukrainian sm1mv01s08_movie_start_72010101:
+translate ukrainian sm1mv01s08_movie_start_b186964d:
 
-    # mc "How can I believe you when you're moans keep beggign for my cock to pound your butthole?"
-    mc "How can I believe you when you're moans keep beggign for my cock to pound your butthole?"
+    # mc "How can I believe you when your moans keep begging for my cock to pound your butthole?"
+    mc "How can I believe you when your moans keep begging for my cock to pound your butthole?"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:632
 translate ukrainian sm1mv01s08_movie_start_058acab4:

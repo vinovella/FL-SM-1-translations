@@ -478,12 +478,6 @@ translate deutsch sm1mv01s09_movie_start_3bf8fea0:
     # sy "I suppose this still leaves us with one treasure and three of us..."
     sy "Ich nehme an, damit bleibt uns noch ein Schatz und wir sind zu dritt..."
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:327
-translate deutsch sm1mv01s09_movie_start_0f241640:
-
-    # sy "How about a parlay?"
-    sy "Wie wäre es mit einer Kombiwette?"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:329
 translate deutsch sm1mv01s09_movie_start_de3645a9:
 
@@ -561,12 +555,6 @@ translate deutsch sm1mv01s09_movie_start_4b8fdfa6:
 
     # sy "You will regret those words, Searose."
     sy "Du wirst diese Worte bereuen, Searose."
-
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:366
-translate deutsch sm1mv01s09_movie_start_14180c04:
-
-    # sy "Now, off with those pants, Dickhart. Let us see who is the most debacherous pirate among us."
-    sy "Nun, Hose runter, Dickhart! Mal sehen, wer von uns der wildeste Pirat ist."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:370
 translate deutsch sm1mv01s09_movie_start_937bb6d4:
@@ -1498,12 +1486,6 @@ translate deutsch sm1mv01s09_movie_start_2b591029:
     # sy "I - oh fuck! Keep - yessss, like that!"
     sy "Ich – oh verdammt! Weiter – jaaa, genau so!"
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:786
-translate deutsch sm1mv01s09_movie_start_1281aa14:
-
-    # sy "Keep ramming my porculis, Dickhart!"
-    sy "Ramm weiter meinen Porculis, Dickhart!"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:787
 translate deutsch sm1mv01s09_movie_start_44ac1015:
 
@@ -1912,12 +1894,6 @@ translate deutsch sm1mv01s09_movie_start_63570b2c:
     # tl "I like the sound of that."
     tl "Das klingt gut."
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:998
-translate deutsch sm1mv01s09_movie_end_a6354780:
-
-    # sy "You'll pay for this, Dickhart... I sweat it on the devil's black heart!"
-    sy "Das wirst du bezahlen, Dickhart... Ich schwöre es beim schwarzen Herzen des Teufels!"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:999
 translate deutsch sm1mv01s09_movie_end_44e4456e:
 
@@ -1947,4 +1923,28 @@ translate deutsch sm1mv01s09_movie_start_e642e4c1:
 
     # mc "Oh shit, your fingers are making her pussy tighten up each time you clench!"
     mc "Oh Scheiße, deine Finger lassen ihre Muschi jedes Mal enger werden, wenn du sie zusammenpresst!"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:327
+translate deutsch sm1mv01s09_movie_start_c5b71803:
+
+    # sy "How about a parley?"
+    sy "Wie wäre es mit einer Kombiwette?"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:366
+translate deutsch sm1mv01s09_movie_start_4c8f78ef:
+
+    # sy "Now, off with those pants, Dickhart. Let us see who is the most debaucherous pirate among us."
+    sy "Nun, Hose runter, Dickhart! Mal sehen, wer von uns der wildeste Pirat ist."
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:814
+translate deutsch sm1mv01s09_movie_start_81a54ed9:
+
+    # sy "Keep ramming my portcullis, Dickhart!"
+    sy "Ramm weiter meinen Porculis, Dickhart!"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:1041
+translate deutsch sm1mv01s09_movie_end_c22650f8:
+
+    # sy "You'll pay for this, Dickhart... I swear it on the devil's black heart!"
+    sy "Das wirst du bezahlen, Dickhart... Ich schwöre es beim schwarzen Herzen des Teufels!"
 

@@ -856,12 +856,6 @@ translate turkish sm1mv01s08_movie_start_625728d4:
     # mc "Have at thee!"
     mc "Al sana!"
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:485
-translate turkish sm1mv01s08_movie_start_b2ab66e0:
-
-    # sy "Muraah. Keep going. Proove yourself a worthy seman for my pussy."
-    sy "Muraah. Devam et. Amım için layık bir denizci olduğunu kanıtla."
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:488
 translate turkish sm1mv01s08_movie_start_848ef23c:
 
@@ -1114,12 +1108,6 @@ translate turkish sm1mv01s08_movie_start_5c2c7bcf:
     # sy "..."
     sy "..."
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:590
-translate turkish sm1mv01s08_movie_start_009c95be:
-
-    # sy "Fine, swob my poopdeck, Dickhart!"
-    sy "Pekala, güvertemi temizle, Dickhart!"
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:597
 translate turkish sm1mv01s08_movie_start_adc9445e:
 
@@ -1156,12 +1144,6 @@ translate turkish sm1mv01s08_movie_start_60bc9723:
     # sy "F-fuhhhh- Dickhart!"
     sy "F-fuhhhh- Dickhart!"
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:609
-translate turkish sm1mv01s08_movie_start_16ed036f:
-
-    # mc "Judging by how tightly you're squeeing my cock, I'd say you love it!"
-    mc "Sikimi ne kadar sıkı sıkıştırdığına bakılırsa, bunu sevdiğini söylerim!"
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:610
 translate turkish sm1mv01s08_movie_start_edd1f6bf:
 
@@ -1179,12 +1161,6 @@ translate turkish sm1mv01s08_movie_start_2f762a63:
 
     # sy "I - nnngggggg - am no wench!"
     sy "Ben - nnngggggg - sürtük değilim!"
-
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:617
-translate turkish sm1mv01s08_movie_start_72010101:
-
-    # mc "How can I believe you when you're moans keep beggign for my cock to pound your butthole?"
-    mc "İniltilerin götünü sikmem için sikimi dilemeye devam ederken sana nasıl inanabilirim?"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:618
 translate turkish sm1mv01s08_movie_start_058acab4:
@@ -1797,4 +1773,28 @@ translate turkish sm1mv01s08_movie_end_65593449:
 
     # sy "You're doing great! Seriously, fucking incredible."
     sy "Harika gidiyorsun! Cidden, inanılmaz derecede."
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:492
+translate turkish sm1mv01s08_movie_start_5c469d8e:
+
+    # sy "Muraah. Keep going. Prove yourself a worthy seaman for my pussy."
+    sy "Muraah. Devam et. Amım için layık bir denizci olduğunu kanıtla."
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:602
+translate turkish sm1mv01s08_movie_start_456168d3:
+
+    # sy "Fine, swab my poopdeck, Dickhart!"
+    sy "Pekala, güvertemi temizle, Dickhart!"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:622
+translate turkish sm1mv01s08_movie_start_a79669f8:
+
+    # mc "Judging by how tightly you're squeezing my cock, I'd say you love it!"
+    mc "Sikimi ne kadar sıkı sıkıştırdığına bakılırsa, bunu sevdiğini söylerim!"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:631
+translate turkish sm1mv01s08_movie_start_b186964d:
+
+    # mc "How can I believe you when your moans keep begging for my cock to pound your butthole?"
+    mc "İniltilerin götünü sikmem için sikimi dilemeye devam ederken sana nasıl inanabilirim?"
 

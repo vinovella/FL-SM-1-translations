@@ -389,8 +389,8 @@ translate chinese sm1cs_mh002_4165b5fc:
     mh "听起来你们一旦开始行动，就很快拨开了神秘的面纱，弄清了莉迪亚在干什么。"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:195
-translate chinese sm1cs_mh002_3b1b4dd9:
+translate chinese sm1cs_mh002_fe8d9f56:
 
-    # mh "Excellent. Well, I coudn't be much help today, but I am sure I can deliver in the next couple of days."
+    # mh "Excellent. Well, I couldn't be of much help today, but I am sure I can deliver in the next couple of days."
     mh "太好了。嗯，今天我帮不了什么忙，但我相信接下来几天我能搞定的。"
 

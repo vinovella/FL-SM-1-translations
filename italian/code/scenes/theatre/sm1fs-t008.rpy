@@ -640,10 +640,10 @@ translate italian sm1fs_t008_later_ed50aa35:
     # dvh "I did tell you when we first started out..."
     dvh "Te l'ho detto quando abbiamo iniziato..."
 
-# game/code/scenes/theatre/sm1fs-t008.rpy:329
-translate italian sm1fs_t008_later_6c3316dd:
+# game/code/scenes/theatre/sm1fs-t008.rpy:366
+translate italian sm1fs_t008_later_3bd2c81e:
 
-    # dvh "That the theater is not a place for debacherous sex, [mcname]."
+    # dvh "That the theater is not a place for debaucherous sex, [mcname]."
     dvh "Che il teatro non è un luogo per sesso dissoluto, [mcname]."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:332

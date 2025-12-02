@@ -391,8 +391,8 @@ translate french sm1cs_mh002_4165b5fc:
 #Translate by BlackViper_
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:195
-translate french sm1cs_mh002_3b1b4dd9:
+translate french sm1cs_mh002_fe8d9f56:
 
-    # mh "Excellent. Eh bien, je n'ai pas pu t'aider beaucoup aujourd'hui, mais je suis sûre de pouvoir livrer dans les prochains jours."
+    # mh "Excellent. Well, I couldn't be of much help today, but I am sure I can deliver in the next couple of days."
     mh "Excellent. Eh bien, je n'ai pas pu t'aider beaucoup aujourd'hui, mais je suis sûre de pouvoir livrer dans les prochains jours."
 

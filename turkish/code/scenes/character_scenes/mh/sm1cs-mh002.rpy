@@ -389,8 +389,8 @@ translate turkish sm1cs_mh002_4165b5fc:
     mh "Görünüşe göre bir kez hız kazandıktan sonra, Lydia'nın ne yaptığını anlamak için gizemli perdeyi oldukça hızlı bir şekilde delebilmişsiniz."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:195
-translate turkish sm1cs_mh002_3b1b4dd9:
+translate turkish sm1cs_mh002_fe8d9f56:
 
-    # mh "Excellent. Well, I coudn't be much help today, but I am sure I can deliver in the next couple of days."
+    # mh "Excellent. Well, I couldn't be of much help today, but I am sure I can deliver in the next couple of days."
     mh "Mükemmel. Şey, bugün pek yardımcı olamadım, ama önümüzdeki birkaç gün içinde yapabileceğimden eminim."
 

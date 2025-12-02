@@ -983,10 +983,10 @@ translate turkish sm1mv01s06_movie_start_5f71acf7:
     mc "*homurdanma*"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:628
-translate turkish sm1mv01s06_movie_start_b54fa042:
+translate turkish sm1mv01s06_movie_start_afd31cda:
 
-    # mc "Parlay?"
-    mc "Parlay?"
+    # mc "Parley?"
+    mc "Barış görüşmesi mi?"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:631
 translate turkish sm1mv01s06_movie_start_fee6a076:

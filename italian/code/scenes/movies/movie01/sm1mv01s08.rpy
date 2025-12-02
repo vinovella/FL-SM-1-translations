@@ -856,12 +856,6 @@ translate italian sm1mv01s08_movie_start_625728d4:
     # mc "Vieni qui!"
     mc "Vieni qui!"
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:486
-translate italian sm1mv01s08_movie_start_b2ab66e0:
-
-    # sy "Muraah. Continua. Dimostra di essere un marinaio degno per la mia figa."
-    sy "Muraah. Continua. Dimostra di essere un marinaio degno per la mia figa."
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:489
 translate italian sm1mv01s08_movie_start_848ef23c:
 
@@ -1114,12 +1108,6 @@ translate italian sm1mv01s08_movie_start_5c2c7bcf:
     # sy "..."
     sy "..."
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:591
-translate italian sm1mv01s08_movie_start_009c95be:
-
-    # sy "Bene, lavami il cassero, Dickhart!"
-    sy "Bene, lavami il cassero, Dickhart!"
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:598
 translate italian sm1mv01s08_movie_start_adc9445e:
 
@@ -1156,12 +1144,6 @@ translate italian sm1mv01s08_movie_start_60bc9723:
     # sy "F-cazzzzo- Dickhart!"
     sy "F-cazzzzo- Dickhart!"
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:610
-translate italian sm1mv01s08_movie_start_16ed036f:
-
-    # mc "A giudicare da quanto strettamente stai spremendo il mio cazzo, direi che lo ami!"
-    mc "A giudicare da quanto strettamente stai spremendo il mio cazzo, direi che lo ami!"
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:611
 translate italian sm1mv01s08_movie_start_edd1f6bf:
 
@@ -1179,12 +1161,6 @@ translate italian sm1mv01s08_movie_start_2f762a63:
 
     # sy "Io - nnngggggg - non sono una sgualdrina!"
     sy "Io - nnngggggg - non sono una sgualdrina!"
-
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:618
-translate italian sm1mv01s08_movie_start_72010101:
-
-    # mc "How can I believe you when you're moans keep beggign for my cock to pound your butthole?"
-    mc "Come posso crederti quando i tuoi gemiti continuano a implorare il mio cazzo di martellare il tuo buco del culo?"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:619
 translate italian sm1mv01s08_movie_start_058acab4:
@@ -1797,4 +1773,28 @@ translate italian strings:
     # game/code/scenes/movies/movie01/sm1mv01s08.rpy:278
     old "Dickhart finds Tempestra"
     new "Dickhart trova Tempestra"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:492
+translate italian sm1mv01s08_movie_start_5c469d8e:
+
+    # sy "Muraah. Keep going. Prove yourself a worthy seaman for my pussy."
+    sy "Muraah. Continua. Dimostra di essere un marinaio degno per la mia figa."
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:602
+translate italian sm1mv01s08_movie_start_456168d3:
+
+    # sy "Fine, swab my poopdeck, Dickhart!"
+    sy "Bene, lavami il cassero, Dickhart!"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:622
+translate italian sm1mv01s08_movie_start_a79669f8:
+
+    # mc "Judging by how tightly you're squeezing my cock, I'd say you love it!"
+    mc "A giudicare da quanto strettamente stai spremendo il mio cazzo, direi che lo ami!"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:631
+translate italian sm1mv01s08_movie_start_b186964d:
+
+    # mc "How can I believe you when your moans keep begging for my cock to pound your butthole?"
+    mc "Come posso crederti quando i tuoi gemiti continuano a implorare il mio cazzo di martellare il tuo buco del culo?"
 

@@ -484,12 +484,6 @@ translate italian sm1mv01s09_movie_start_3bf8fea0:
     # sy "I suppose this still leaves us with one treasure and three of us..."
     sy "Suppongo che ci lasci ancora con un tesoro e in tre..."
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:327
-translate italian sm1mv01s09_movie_start_0f241640:
-
-    # sy "How about a parlay?"
-    sy "Che ne dici di un negoziato?"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:329
 translate italian sm1mv01s09_movie_start_de3645a9:
 
@@ -567,12 +561,6 @@ translate italian sm1mv01s09_movie_start_4b8fdfa6:
 
     # sy "You will regret those words, Searose."
     sy "Ti pentirai di quelle parole, Searose."
-
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:366
-translate italian sm1mv01s09_movie_start_14180c04:
-
-    # sy "Now, off with those pants, Dickhart. Let us see who is the most debacherous pirate among us."
-    sy "Ora, via quei pantaloni, Dickhart. Vediamo chi è il pirata più dissoluto tra noi."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:370
 translate italian sm1mv01s09_movie_start_937bb6d4:
@@ -1516,12 +1504,6 @@ translate italian sm1mv01s09_movie_start_2b591029:
     # sy "I - oh fuck! Keep - yessss, like that!"
     sy "Io - oh cazzo! Continua - sìììì, così!"
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:786
-translate italian sm1mv01s09_movie_start_1281aa14:
-
-    # sy "Keep ramming my porculis, Dickhart!"
-    sy "Continua a sfondare la mia saracinesca, Dickhart!"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:787
 translate italian sm1mv01s09_movie_start_44ac1015:
 
@@ -1930,12 +1912,6 @@ translate italian sm1mv01s09_movie_start_63570b2c:
     # tl "I like the sound of that."
     tl "Mi piace l'idea."
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:999
-translate italian sm1mv01s09_movie_end_a6354780:
-
-    # sy "You'll pay for this, Dickhart... I sweat it on the devil's black heart!"
-    sy "Pagherai per questo, Dickhart... lo giuro sul cuore nero del diavolo!"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:1000
 translate italian sm1mv01s09_movie_end_44e4456e:
 
@@ -1947,4 +1923,28 @@ translate italian strings:
     # game/code/scenes/movies/movie01/sm1mv01s09.rpy:209
     old "Back in the cave"
     new "Di nuovo nella grotta"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:327
+translate italian sm1mv01s09_movie_start_c5b71803:
+
+    # sy "How about a parley?"
+    sy "Che ne dici di un negoziato?"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:366
+translate italian sm1mv01s09_movie_start_4c8f78ef:
+
+    # sy "Now, off with those pants, Dickhart. Let us see who is the most debaucherous pirate among us."
+    sy "Ora, via quei pantaloni, Dickhart. Vediamo chi è il pirata più dissoluto tra noi."
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:814
+translate italian sm1mv01s09_movie_start_81a54ed9:
+
+    # sy "Keep ramming my portcullis, Dickhart!"
+    sy "Continua a sfondare la mia saracinesca, Dickhart!"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:1041
+translate italian sm1mv01s09_movie_end_c22650f8:
+
+    # sy "You'll pay for this, Dickhart... I swear it on the devil's black heart!"
+    sy "Pagherai per questo, Dickhart... lo giuro sul cuore nero del diavolo!"
 

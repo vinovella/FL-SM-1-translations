@@ -472,8 +472,6 @@
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
     new "Menü ikonları @colebemis tarafından yapılan ve {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT Lisansı{/a} altında lisanslanan güzel bir ikon koleksiyonu olan {a=https://feathericons.com/}Feather{/a}'dan türetilmiştir."
 
-translate turkish strings:
-
     # game/code/renpy/screens/screens.rpy:444
     old "Saves For Season 2"
     new "Sezon 2 için Kayıtlar"
@@ -485,4 +483,8 @@ translate turkish strings:
     # game/code/renpy/screens/screens.rpy:1140
     old "FRENCH TRANSLATION"
     new "FRANSIZCA ÇEVİRİ"
+
+    # game/code/renpy/screens/screens.rpy:218
+    old "Live Chat"
+    new "Canlı Sohbet"
 

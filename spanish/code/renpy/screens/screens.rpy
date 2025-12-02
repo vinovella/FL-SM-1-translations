@@ -472,8 +472,6 @@ translate spanish strings:
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
     new "Los íconos del menú provienen de {a=https://feathericons.com/}Feather{/a}, una hermosa colección creada por @colebemis y licenciada bajo {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT{/a}."
 
-translate spanish strings:
-
     # game/code/renpy/screens/screens.rpy:447
     old "Saves For Season 2"
     new "Guardados de la temporada 2"
@@ -489,4 +487,8 @@ translate spanish strings:
     # game/code/renpy/screens/screens.rpy:1194
     old "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
     new "Agradecimientos especiales a nuestro corrector: GrubbJunk (Discord: grubbjunker)"
+
+    # game/code/renpy/screens/screens.rpy:218
+    old "Live Chat"
+    new "Live Chat"
 

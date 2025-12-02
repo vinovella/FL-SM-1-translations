@@ -856,12 +856,6 @@ translate french sm1mv01s08_movie_start_625728d4:
     # mc "Have at thee!"
     mc "En garde !"
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:486
-translate french sm1mv01s08_movie_start_b2ab66e0:
-
-    # sy "Muraah. Keep going. Proove yourself a worthy seaman for my pussy."
-    sy "Muraah... continue. Montre-moi que t’es un vrai marin digne de ma chatte."
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:489
 translate french sm1mv01s08_movie_start_848ef23c:
 
@@ -1114,12 +1108,6 @@ translate french sm1mv01s08_movie_start_5c2c7bcf:
     # sy "..."
     sy "..."
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:591
-translate french sm1mv01s08_movie_start_009c95be:
-
-    # sy "Fine, swob my poopdeck, Dickhart!"
-    sy "Très bien, nettoie mon pont, Dickhart !"
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:598
 translate french sm1mv01s08_movie_start_adc9445e:
 
@@ -1156,12 +1144,6 @@ translate french sm1mv01s08_movie_start_60bc9723:
     # sy "F-fuhhhh- Dickhart!"
     sy "F-Fuhhhhh- Dickhart !"
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:612
-translate french sm1mv01s08_movie_start_16ed036f:
-
-    # mc "Judging by how tightly you're squeeing my cock, I'd say you love it!"
-    mc "À en juger par la force avec laquelle tu serres ma bite, je dirais que tu adores ça !"
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:613
 translate french sm1mv01s08_movie_start_edd1f6bf:
 
@@ -1179,12 +1161,6 @@ translate french sm1mv01s08_movie_start_2f762a63:
 
     # sy "I - nnngggggg - am no wench!"
     sy "I - nnngggggg - je ne suis pas une salope !"
-
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:620
-translate french sm1mv01s08_movie_start_72010101:
-
-    # mc "How can I believe you when you're moans keep beggign for my cock to pound your butthole?"
-    mc "Comment pourrais-je te croire alors que tes gémissements supplient ma bite de te frapper le cul ?"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:621
 translate french sm1mv01s08_movie_start_058acab4:
@@ -1799,4 +1775,28 @@ translate french strings:
     new "Dickhart trouve Tempestra"
 
 #Translate by BlackViper_
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:492
+translate french sm1mv01s08_movie_start_5c469d8e:
+
+    # sy "Muraah. Keep going. Prove yourself a worthy seaman for my pussy."
+    sy "Muraah... continue. Montre-moi que t’es un vrai marin digne de ma chatte."
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:602
+translate french sm1mv01s08_movie_start_456168d3:
+
+    # sy "Fine, swab my poopdeck, Dickhart!"
+    sy "Très bien, nettoie mon pont, Dickhart !"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:622
+translate french sm1mv01s08_movie_start_a79669f8:
+
+    # mc "Judging by how tightly you're squeezing my cock, I'd say you love it!"
+    mc "À en juger par la force avec laquelle tu serres ma bite, je dirais que tu adores ça !"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:631
+translate french sm1mv01s08_movie_start_b186964d:
+
+    # mc "How can I believe you when your moans keep begging for my cock to pound your butthole?"
+    mc "Comment pourrais-je te croire alors que tes gémissements supplient ma bite de te frapper le cul ?"
 

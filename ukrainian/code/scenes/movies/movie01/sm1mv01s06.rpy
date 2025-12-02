@@ -983,10 +983,10 @@ translate ukrainian sm1mv01s06_movie_start_5f71acf7:
     mc "*grunting*"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:628
-translate ukrainian sm1mv01s06_movie_start_b54fa042:
+translate ukrainian sm1mv01s06_movie_start_afd31cda:
 
-    # mc "Parlay?"
-    mc "Parlay?"
+    # mc "Parley?"
+    mc "Parley?"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:631
 translate ukrainian sm1mv01s06_movie_start_fee6a076:

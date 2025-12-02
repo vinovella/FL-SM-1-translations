@@ -389,8 +389,8 @@ translate italian sm1cs_mh002_92b73ecf:
     mh "Ciao."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:195
-translate italian sm1cs_mh002_3b1b4dd9:
+translate italian sm1cs_mh002_fe8d9f56:
 
-    # mh "Excellent. Well, I coudn't be much help today, but I am sure I can deliver in the next couple of days."
+    # mh "Excellent. Well, I couldn't be of much help today, but I am sure I can deliver in the next couple of days."
     mh "Eccellente. Beh, non sono stata di grande aiuto oggi, ma sono sicura di poter fare qualcosa nei prossimi giorni."
 

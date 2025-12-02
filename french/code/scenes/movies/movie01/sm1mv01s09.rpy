@@ -478,12 +478,6 @@ translate french sm1mv01s09_movie_start_3bf8fea0:
     # sy "I suppose this still leaves us with one treasure and three of us..."
     sy "Je suppose qu’il nous reste un trésor... et trois participants..."
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:327
-translate french sm1mv01s09_movie_start_0f241640:
-
-    # sy "How about a parlay?"
-    sy "Et si on faisait un petit pourparler ?"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:329
 translate french sm1mv01s09_movie_start_de3645a9:
 
@@ -561,12 +555,6 @@ translate french sm1mv01s09_movie_start_4b8fdfa6:
 
     # sy "You will regret those words, Searose."
     sy "Tu vas regretter ces mots, Searose."
-
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:366
-translate french sm1mv01s09_movie_start_14180c04:
-
-    # sy "Now, off with those pants, Dickhart. Let us see who is the most debacherous pirate among us."
-    sy "Allez, baisse ce pantalon, Dickhart. Voyons qui est la pirate la plus dépravée parmi nous."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:370
 translate french sm1mv01s09_movie_start_937bb6d4:
@@ -1498,12 +1486,6 @@ translate french sm1mv01s09_movie_start_2b591029:
     # sy "I - oh fuck! Keep - yessss, like that!"
     sy "Je ... oh putain ! Continue ... ouiii, comme ça !"
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:786
-translate french sm1mv01s09_movie_start_1281aa14:
-
-    # sy "Keep ramming my portcullis, Dickhart!"
-    sy "Continue de forcer ma herse, Dickhart !"  # (jeu de mots pirate conservé)
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:787
 translate french sm1mv01s09_movie_start_44ac1015:
 
@@ -1912,12 +1894,6 @@ translate french sm1mv01s09_movie_start_63570b2c:
     # tl "I like the sound of that."
     tl "J’aime bien cette idée."
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:998
-translate french sm1mv01s09_movie_end_a6354780:
-
-    # sy "You'll pay for this, Dickhart... I sweat it on the devil's black heart!"
-    sy "Tu paieras pour ça, Dickhart... Je le jure sur le cœur noir du diable !"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:999
 translate french sm1mv01s09_movie_end_44e4456e:
 
@@ -1949,4 +1925,28 @@ translate french strings:
     new "De retour dans la grotte"
 
 #Translate by BlackViper_
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:327
+translate french sm1mv01s09_movie_start_c5b71803:
+
+    # sy "How about a parley?"
+    sy "Et si on faisait un petit pourparler ?"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:366
+translate french sm1mv01s09_movie_start_4c8f78ef:
+
+    # sy "Now, off with those pants, Dickhart. Let us see who is the most debaucherous pirate among us."
+    sy "Allez, baisse ce pantalon, Dickhart. Voyons qui est la pirate la plus dépravée parmi nous."
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:814
+translate french sm1mv01s09_movie_start_81a54ed9:
+
+    # sy "Keep ramming my portcullis, Dickhart!"
+    sy "Continue de forcer ma herse, Dickhart !"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:1041
+translate french sm1mv01s09_movie_end_c22650f8:
+
+    # sy "You'll pay for this, Dickhart... I swear it on the devil's black heart!"
+    sy "Tu paieras pour ça, Dickhart... Je le jure sur le cœur noir du diable !"
 

@@ -478,12 +478,6 @@ translate chinese sm1mv01s09_movie_start_3bf8fea0:
     # sy "I suppose this still leaves us with one treasure and three of us..."
     sy "现在的情况是，一份宝藏，而我们有三个人..."
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:326
-translate chinese sm1mv01s09_movie_start_0f241640:
-
-    # sy "How about a parlay?"
-    sy "不如我们休战谈判怎么样？"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:328
 translate chinese sm1mv01s09_movie_start_de3645a9:
 
@@ -561,12 +555,6 @@ translate chinese sm1mv01s09_movie_start_4b8fdfa6:
 
     # sy "You will regret those words, Searose."
     sy "你会后悔说那些话的，海萝。"
-
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:365
-translate chinese sm1mv01s09_movie_start_14180c04:
-
-    # sy "Now, off with those pants, Dickhart. Let us see who is the most debacherous pirate among us."
-    sy "现在，脱掉裤子吧，硬汉迪克。来看看我们之中，谁才是最放荡的海盗。"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:369
 translate chinese sm1mv01s09_movie_start_937bb6d4:
@@ -1498,12 +1486,6 @@ translate chinese sm1mv01s09_movie_start_2b591029:
     # sy "I - oh fuck! Keep - yessss, like that!"
     sy "我...啊啊啊操！继续--好爽...就是这样！"
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:785
-translate chinese sm1mv01s09_movie_start_1281aa14:
-
-    # sy "Keep ramming my porculis, Dickhart!"
-    sy "继续猛干我的屁眼，硬汉迪克！"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:786
 translate chinese sm1mv01s09_movie_start_44ac1015:
 
@@ -1912,12 +1894,6 @@ translate chinese sm1mv01s09_movie_start_63570b2c:
     # tl "I like the sound of that."
     tl "我喜欢这个说法。"
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:997
-translate chinese sm1mv01s09_movie_end_a6354780:
-
-    # sy "You'll pay for this, Dickhart... I sweat it on the devil's black heart!"
-    sy "你会为此付出代价的，硬汉迪克...我对着魔鬼的黑心发誓！"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:998
 translate chinese sm1mv01s09_movie_end_44e4456e:
 
@@ -1947,4 +1923,28 @@ translate chinese sm1mv01s09_movie_start_e642e4c1:
 
     # mc "Oh shit, your fingers are making her pussy tighten up each time you clench!"
     mc "靠，你每次捏紧手指，她的屄都会收紧！"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:327
+translate chinese sm1mv01s09_movie_start_c5b71803:
+
+    # sy "How about a parley?"
+    sy "不如我们休战谈判怎么样？"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:366
+translate chinese sm1mv01s09_movie_start_4c8f78ef:
+
+    # sy "Now, off with those pants, Dickhart. Let us see who is the most debaucherous pirate among us."
+    sy "现在，脱掉裤子吧，硬汉迪克。来看看我们之中，谁才是最放荡的海盗。"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:814
+translate chinese sm1mv01s09_movie_start_81a54ed9:
+
+    # sy "Keep ramming my portcullis, Dickhart!"
+    sy "继续猛干我的屁眼，硬汉迪克！"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:1041
+translate chinese sm1mv01s09_movie_end_c22650f8:
+
+    # sy "You'll pay for this, Dickhart... I swear it on the devil's black heart!"
+    sy "你会为此付出代价的，硬汉迪克...我对着魔鬼的黑心发誓！"
 

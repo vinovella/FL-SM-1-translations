@@ -641,10 +641,10 @@ translate ukrainian sm1fs_t008_later_ed50aa35:
     dvh "I did tell you when we first started out..."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:366
-translate ukrainian sm1fs_t008_later_6c3316dd:
+translate ukrainian sm1fs_t008_later_3bd2c81e:
 
-    # dvh "That the theater is not a place for debacherous sex, [mcname]."
-    dvh "That the theater is not a place for debacherous sex, [mcname]."
+    # dvh "That the theater is not a place for debaucherous sex, [mcname]."
+    dvh "That the theater is not a place for debaucherous sex, [mcname]."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:369
 translate ukrainian sm1fs_t008_later_606276a4:

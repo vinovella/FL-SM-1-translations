@@ -329,10 +329,10 @@ translate ukrainian sm1cs_mh002_29c9069c:
     sy "Of course. I can email you over everything we have and get anything missing sent over."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:195
-translate ukrainian sm1cs_mh002_3b1b4dd9:
+translate ukrainian sm1cs_mh002_fe8d9f56:
 
-    # mh "Excellent. Well, I coudn't be much help today, but I am sure I can deliver in the next couple of days."
-    mh "Excellent. Well, I coudn't be much help today, but I am sure I can deliver in the next couple of days."
+    # mh "Excellent. Well, I couldn't be of much help today, but I am sure I can deliver in the next couple of days."
+    mh "Excellent. Well, I couldn't be of much help today, but I am sure I can deliver in the next couple of days."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:198
 translate ukrainian sm1cs_mh002_4191e217:

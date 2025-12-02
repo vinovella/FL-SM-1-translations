@@ -478,12 +478,6 @@ translate turkish sm1mv01s09_movie_start_3bf8fea0:
     # sy "I suppose this still leaves us with one treasure and three of us..."
     sy "Sanırım bu hala bize bir hazine ve üçümüz bırakıyor..."
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:326
-translate turkish sm1mv01s09_movie_start_0f241640:
-
-    # sy "How about a parlay?"
-    sy "Müzakere yapmaya ne dersin?"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:328
 translate turkish sm1mv01s09_movie_start_de3645a9:
 
@@ -561,12 +555,6 @@ translate turkish sm1mv01s09_movie_start_4b8fdfa6:
 
     # sy "You will regret those words, Searose."
     sy "Bu sözlere pişman olacaksın, Searose."
-
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:365
-translate turkish sm1mv01s09_movie_start_14180c04:
-
-    # sy "Now, off with those pants, Dickhart. Let us see who is the most debacherous pirate among us."
-    sy "Şimdi, o pantolonu çıkar, Dickhart. Bakalım aramızda en ahlaksız korsan kim olacak."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:369
 translate turkish sm1mv01s09_movie_start_937bb6d4:
@@ -1498,12 +1486,6 @@ translate turkish sm1mv01s09_movie_start_2b591029:
     # sy "I - oh fuck! Keep - yessss, like that!"
     sy "Ben - oh siktir! Devam et - eveeeet, işte böyle!"
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:785
-translate turkish sm1mv01s09_movie_start_1281aa14:
-
-    # sy "Keep ramming my porculis, Dickhart!"
-    sy "Kapımı delmeye devam et, Dickhart!"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:786
 translate turkish sm1mv01s09_movie_start_44ac1015:
 
@@ -1912,12 +1894,6 @@ translate turkish sm1mv01s09_movie_start_63570b2c:
     # tl "I like the sound of that."
     tl "Bunun sesini beğendim."
 
-# game/code/scenes/movies/movie01/sm1mv01s09.rpy:997
-translate turkish sm1mv01s09_movie_end_a6354780:
-
-    # sy "You'll pay for this, Dickhart... I sweat it on the devil's black heart!"
-    sy "Bunun bedelini ödeyeceksin, Dickhart... Şeytanın kara kalbine yemin ederim!"
-
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:998
 translate turkish sm1mv01s09_movie_end_44e4456e:
 
@@ -1947,4 +1923,28 @@ translate turkish sm1mv01s09_movie_start_e642e4c1:
 
     # mc "Oh shit, your fingers are making her pussy tighten up each time you clench!"
     mc "Kahretsin, parmakların her sıkıştığında onun amını sıkılaştırıyor!"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:327
+translate turkish sm1mv01s09_movie_start_c5b71803:
+
+    # sy "How about a parley?"
+    sy "Müzakere yapmaya ne dersin?"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:366
+translate turkish sm1mv01s09_movie_start_4c8f78ef:
+
+    # sy "Now, off with those pants, Dickhart. Let us see who is the most debaucherous pirate among us."
+    sy "Şimdi, o pantolonu çıkar, Dickhart. Bakalım aramızda en ahlaksız korsan kim olacak."
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:814
+translate turkish sm1mv01s09_movie_start_81a54ed9:
+
+    # sy "Keep ramming my portcullis, Dickhart!"
+    sy "Kapımı delmeye devam et, Dickhart!"
+
+# game/code/scenes/movies/movie01/sm1mv01s09.rpy:1041
+translate turkish sm1mv01s09_movie_end_c22650f8:
+
+    # sy "You'll pay for this, Dickhart... I swear it on the devil's black heart!"
+    sy "Bunun bedelini ödeyeceksin, Dickhart... Şeytanın kara kalbine yemin ederim!"
 

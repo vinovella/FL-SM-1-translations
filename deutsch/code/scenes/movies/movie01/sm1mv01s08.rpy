@@ -856,12 +856,6 @@ translate deutsch sm1mv01s08_movie_start_625728d4:
     # mc "Have at thee!"
     mc "Nimm das!"
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:485
-translate deutsch sm1mv01s08_movie_start_b2ab66e0:
-
-    # sy "Muraah. Keep going. Proove yourself a worthy seman for my pussy."
-    sy "Muraah. Mach weiter. Beweise mir, dass du einen würdigen Samen für meine Muschi hast."
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:488
 translate deutsch sm1mv01s08_movie_start_848ef23c:
 
@@ -1114,12 +1108,6 @@ translate deutsch sm1mv01s08_movie_start_5c2c7bcf:
     # sy "..."
     sy "..."
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:590
-translate deutsch sm1mv01s08_movie_start_009c95be:
-
-    # sy "Fine, swob my poopdeck, Dickhart!"
-    sy "Na gut, dann schrubb mein Achterdeck, Dickhart!"
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:597
 translate deutsch sm1mv01s08_movie_start_adc9445e:
 
@@ -1156,12 +1144,6 @@ translate deutsch sm1mv01s08_movie_start_60bc9723:
     # sy "F-fuhhhh- Dickhart!"
     sy "F-fuhhhh- Dickhart!"
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:611
-translate deutsch sm1mv01s08_movie_start_16ed036f:
-
-    # mc "Judging by how tightly you're squeeing my cock, I'd say you love it!"
-    mc "So wie du meinen Schwanz fest umklammerst, würde ich sagen, dass du ihn liebst!"
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:612
 translate deutsch sm1mv01s08_movie_start_edd1f6bf:
 
@@ -1179,12 +1161,6 @@ translate deutsch sm1mv01s08_movie_start_2f762a63:
 
     # sy "I - nnngggggg - am no wench!"
     sy "Ich – nnngggggg – bin kein Weibsbild!"
-
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:619
-translate deutsch sm1mv01s08_movie_start_72010101:
-
-    # mc "How can I believe you when you're moans keep beggign for my cock to pound your butthole?"
-    mc "Wie soll ich dir glauben, wenn du ständig stöhnst und darum bettelst, dass mein Schwanz dein Arschloch ficken soll?"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:620
 translate deutsch sm1mv01s08_movie_start_058acab4:
@@ -1797,4 +1773,28 @@ translate deutsch sm1mv01s08_movie_end_65593449:
 
     # sy "You're doing great! Seriously, fucking incredible."
     sy "Du machst das großartig! Im Ernst, verdammt unglaublich."
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:492
+translate deutsch sm1mv01s08_movie_start_5c469d8e:
+
+    # sy "Muraah. Keep going. Prove yourself a worthy seaman for my pussy."
+    sy "Muraah. Mach weiter. Beweise mir, dass du einen würdigen Samen für meine Muschi hast."
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:602
+translate deutsch sm1mv01s08_movie_start_456168d3:
+
+    # sy "Fine, swab my poopdeck, Dickhart!"
+    sy "Na gut, dann schrubb mein Achterdeck, Dickhart!"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:622
+translate deutsch sm1mv01s08_movie_start_a79669f8:
+
+    # mc "Judging by how tightly you're squeezing my cock, I'd say you love it!"
+    mc "So wie du meinen Schwanz fest umklammerst, würde ich sagen, dass du ihn liebst!"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:631
+translate deutsch sm1mv01s08_movie_start_b186964d:
+
+    # mc "How can I believe you when your moans keep begging for my cock to pound your butthole?"
+    mc "Wie soll ich dir glauben, wenn du ständig stöhnst und darum bettelst, dass mein Schwanz dein Arschloch ficken soll?"
 
