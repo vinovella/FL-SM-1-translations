@@ -422,7 +422,7 @@
 
     # game/code/hints.rpy:5
     old "Compliment her looks. She enjoys it"
-    new "Görünüşünü ilt. Hoşuna gidiyor"
+    new "Görünüşüne iltifat et. Hoşuna gidiyor"
 
     # game/code/hints.rpy:5
     old "Express hope it's more than a crush. +1 RP with April"
