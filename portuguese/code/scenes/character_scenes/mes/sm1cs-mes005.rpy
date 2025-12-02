@@ -1282,11 +1282,11 @@ translate portuguese sm1cs_mes005_4a089a68:
 translate portuguese sm1cs_mes005_fb570c11:
 
     # mc "Pay your bill and let's go meet Kanya."
-    mc "Pay your bill and let's go meet Kanya."
+    mc "Paga sua conta e vamos lá ver a Kanya."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:450
 translate portuguese sm1cs_mes005_f66d5621:
 
     # kv "Alrighty, let's keep things nice and loose."
-    kv "Alrighty, let's keep things nice and loose."
+    kv "Beleza, vamos manter a descontração."
 
