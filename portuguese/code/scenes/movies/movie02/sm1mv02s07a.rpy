@@ -494,7 +494,7 @@ translate portuguese sm1mv02s07a_b913fa1b:
 translate portuguese sm1mv02s07a_ad91178c:
 
     # "Min and [mcname]" "*laughing*"
-    "Min and [mcname]" "*rindo*"
+    "Min e [mcname]" "*rindo*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:319
 translate portuguese sm1mv02s07a_a91dafe7:
