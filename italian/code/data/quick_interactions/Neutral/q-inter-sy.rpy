@@ -566,7 +566,7 @@ translate italian q_inter_sy_37_17ee276e:
 translate italian q_inter_sy_37_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-sy.rpy:375
 translate italian q_inter_sy_37_3a12d63d:

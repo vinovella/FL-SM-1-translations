@@ -194,5 +194,5 @@ translate italian sm1cs_mes002i_5ee8dc16:
 translate italian sm1cs_mes002i_f65bd79d:
 
     # mc "Talking to her, it was like... I'm not sure, but she looked a bit lost."
-    mc "Talking to her, it was like... I'm not sure, but she looked a bit lost."
+    mc "Parlandole, era come... non sono sicuro, ma sembrava un po' persa."
 

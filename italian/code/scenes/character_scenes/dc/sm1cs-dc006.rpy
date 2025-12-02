@@ -428,7 +428,7 @@ translate italian sm1cs_dc006_4005297e:
 translate italian sm1cs_dc006_c288c13d:
 
     # "{i}Ring, ring!{/i}"
-    "{i}Ring, ring!{/i}"
+    "{i}Drin, drin!{/i}"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:222
 translate italian sm1cs_dc006_6b550915:
@@ -752,7 +752,7 @@ translate italian sm1cs_dc006_at_park_902b991c:
 translate italian sm1cs_dc006_at_park_3de3da24:
 
     # mc "Wait, Debbie!"
-    mc "Wait, Debbie!"
+    mc "Aspetta, Debbie!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:391
 translate italian sm1cs_dc006_at_park_c3b81b15:

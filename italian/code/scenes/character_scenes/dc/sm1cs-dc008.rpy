@@ -644,7 +644,7 @@ translate italian sm1cs_dc008_3d3efbf1:
 translate italian sm1cs_dc008_11455b53_1:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:294
 translate italian sm1cs_dc008_562ae42c:

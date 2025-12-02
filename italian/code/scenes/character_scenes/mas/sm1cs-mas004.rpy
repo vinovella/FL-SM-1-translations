@@ -1534,7 +1534,7 @@ translate italian strings:
 translate italian sm1cs_mas004_after_lunch_f378cc8e:
 
     # ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
-    ms "So I'm done waiting for something good to happen to me. I'm going to {i}make{/i} something good happen."
+    ms "Quindi ho finito di aspettare che mi succeda qualcosa di buono. {i}Farò{/i} succedere qualcosa di buono."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:765
 translate italian sm1cs_mas004_after_lunch_fdf6afe0:

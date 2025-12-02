@@ -1326,29 +1326,29 @@ translate italian strings:
 translate italian sm1cs_my001_94670bab:
 
     # my "Mmmmm, I'll take a glass of the house red."
-    my "Mmmmm, I'll take a glass of the house red."
+    my "Mmmmm, prenderò un bicchiere del rosso della casa."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:269
 translate italian sm1cs_my001_ef92aff5:
 
     # my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
-    my "But this little business empire he had started to build began to unravel. Problems with his love life, half baked ideas for making money..."
+    my "Ma questo piccolo impero commerciale che aveva iniziato a costruire cominciò a sgretolarsi. Problemi con la sua vita amorosa, idee mezze cotte per fare soldi..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:272
 translate italian sm1cs_my001_837a40da:
 
     # my "The models own personal lives becoming entwined with his work and the studio..."
-    my "The models own personal lives becoming entwined with his work and the studio..."
+    my "Le vite personali delle modelle che si intrecciano con il suo lavoro e lo studio..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:299
 translate italian sm1cs_my001_27ef328b:
 
     # "Waiter" "Both wonderful choices, sir."
-    "Waiter" "Both wonderful choices, sir."
+    "Cameriere" "Entrambe scelte meravigliose, signore."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:346
 translate italian sm1cs_my001_b4bd7f1c:
 
     # my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
-    my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
+    my "Cancellano la personalità così puoi riempirla con quello che riesci a far stare in una valigia."
 

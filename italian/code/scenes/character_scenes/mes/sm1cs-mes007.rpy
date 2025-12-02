@@ -1124,7 +1124,7 @@ translate italian sm1cs_mes007_continue_dea7848b:
 translate italian sm1cs_mes007_continue_af082a20:
 
     # "[mcname] and Min" "*chuckling*"
-    "[mcname] and Min" "*ridacchiando*"
+    "[mcname] e Min" "*ridacchiando*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:784
 translate italian sm1cs_mes007_continue_04ff985a:
@@ -1220,37 +1220,37 @@ translate italian strings:
 translate italian sm1cs_mes007_5a9df7e5:
 
     # mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
-    mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
+    mes "E tu che porti le cose pesanti mi risparmia la fatica di costruire un elaborato sistema di carrucole e verricelli che potrebbe danneggiare lo studio."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:265
 translate italian sm1cs_mes007_2c65153e:
 
     # mes "This is your home, but this is going to be my home within your home."
-    mes "This is your home, but this is going to be my home within your home."
+    mes "Questa è casa tua, ma questa sarà la mia casa dentro casa tua."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:437
 translate italian sm1cs_mes007_continue_e174a810:
 
     # mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
-    mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
+    mc "Apprezzo, Min. Ma la mia cosa preferita delle mutandine è quando te le sfilo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:529
 translate italian sm1cs_mes007_continue_b07f733a:
 
     # mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
-    mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
+    mc "Fai pure. Solo non sorprenderti se senti una pressione improvvisa che spinge contro la tua figa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:610
 translate italian sm1cs_mes007_continue_7b7099ec:
 
     # mes "Imprint the shape of your cock against my womb."
-    mes "Imprint the shape of your cock against my womb."
+    mes "Imprimi la forma del tuo cazzo contro il mio utero."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:656
 translate italian sm1cs_mes007_continue_fc117b28:
 
     # mes "You're grinding me down!"
-    mes "You're grinding me down!"
+    mes "Mi stai consumando!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:725
 translate italian sm1cs_mes007_continue_a0e12b14:
@@ -1262,5 +1262,5 @@ translate italian sm1cs_mes007_continue_a0e12b14:
 translate italian sm1cs_mes007_continue_d0c62791:
 
     # mes "I like your spunky attitude."
-    mes "I like your spunky attitude."
+    mes "Mi piace il tuo atteggiamento vivace."
 

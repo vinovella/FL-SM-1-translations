@@ -794,7 +794,7 @@ translate italian sm1cs_mh008_date_c1c53635:
 translate italian sm1ms_mh008_game_0ec5aa4b:
 
     # "Carnival Worker" "Step right up! See if you have what it takes to take home one of these adorable, stuffed animals!"
-    "Carnival Worker" "Avvicinati! Vediamo se hai quello che serve per portare a casa uno di questi adorabili peluche!"
+    "Addetto al Luna Park" "Avvicinati! Vediamo se hai quello che serve per portare a casa uno di questi adorabili peluche!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:454
 translate italian sm1ms_mh008_game_d9246fd0:
@@ -806,7 +806,7 @@ translate italian sm1ms_mh008_game_d9246fd0:
 translate italian sm1ms_mh008_game_782b7512:
 
     # "Carnival Worker" "It's simple! You got five shots with our air rifle, and you just need to knock down three of the targets!"
-    "Carnival Worker" "È semplice! Hai cinque colpi con il nostro fucile ad aria compressa, e devi solo abbattere tre dei bersagli!"
+    "Addetto al Luna Park" "È semplice! Hai cinque colpi con il nostro fucile ad aria compressa, e devi solo abbattere tre dei bersagli!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:460
 translate italian sm1ms_mh008_game_c76ac7c5:
@@ -818,7 +818,7 @@ translate italian sm1ms_mh008_game_c76ac7c5:
 translate italian sm1ms_mh008_game_35c81463:
 
     # "Carnival Worker" "Yeah! Nothing to it! Show me what you got!"
-    "Carnival Worker" "Sì! Niente di difficile! Fammi vedere cosa sai fare!"
+    "Addetto al Luna Park" "Sì! Niente di difficile! Fammi vedere cosa sai fare!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:467
 translate italian sm1ms_mh008_game_c904ccf1:
@@ -836,7 +836,7 @@ translate italian sm1ms_mh008_game_8a88410b:
 translate italian sm1ms_mh008_game_8701f4f1:
 
     # "Carnival Worker" "Well, it seems like you missed all three shots! Would you like to try again?"
-    "Carnival Worker" "Beh, sembra che tu abbia mancato tutti e tre i colpi! Vuoi riprovare?"
+    "Addetto al Luna Park" "Beh, sembra che tu abbia mancato tutti e tre i colpi! Vuoi riprovare?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:481
 translate italian sm1ms_mh008_game_3c0bbbee:
@@ -848,7 +848,7 @@ translate italian sm1ms_mh008_game_3c0bbbee:
 translate italian sm1ms_mh008_game_b0f92f45:
 
     # "Carnival Worker" "All right, have at her!"
-    "Carnival Worker" "Va bene, provaci!"
+    "Addetto al Luna Park" "Va bene, provaci!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:487
 translate italian sm1ms_mh008_game_8a88410b_1:
@@ -866,7 +866,7 @@ translate italian sm1ms_mh008_game_b8b01170:
 translate italian sm1ms_mh008_game_b0674b22:
 
     # "Carnival Worker" "And three more misses! Wow!{w} What about you, miss? Would you like to give it a go?"
-    "Carnival Worker" "E altri tre colpi mancati! Wow!{w} E tu, signorina? Vuoi provare?"
+    "Addetto al Luna Park" "E altri tre colpi mancati! Wow!{w} E tu, signorina? Vuoi provare?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:498
 translate italian sm1ms_mh008_game_fb8892f4:
@@ -884,7 +884,7 @@ translate italian sm1ms_mh008_game_1ad4d7ce:
 translate italian sm1ms_mh008_game_dba3a987:
 
     # "Carnival Worker" "And fire awwaaayyyy when you're ready!"
-    "Carnival Worker" "E spara quandoooo sei pronta!"
+    "Addetto al Luna Park" "E spara quandoooo sei pronta!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:507
 translate italian sm1ms_mh008_game_d8ed4d23:
@@ -896,7 +896,7 @@ translate italian sm1ms_mh008_game_d8ed4d23:
 translate italian sm1ms_mh008_game_5a299d56:
 
     # "Carnival Worker" "Holy guacamole... you hit all three targets! {size=*0.5}Corporate said that it was impossible! What the hell...{/size}"
-    "Carnival Worker" "Santo cielo... hai colpito tutti e tre i bersagli! {size=*0.5}La direzione aveva detto che era impossibile! Ma che diavolo...{/size}"
+    "Addetto al Luna Park" "Santo cielo... hai colpito tutti e tre i bersagli! {size=*0.5}La direzione aveva detto che era impossibile! Ma che diavolo...{/size}"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:520
 translate italian sm1ms_mh008_game_08371f5e:
@@ -908,13 +908,13 @@ translate italian sm1ms_mh008_game_08371f5e:
 translate italian sm1ms_mh008_game_b1582b3e:
 
     # "Carnival Worker" "Oh, uhm... you most definitely are..."
-    "Carnival Worker" "Oh, uhm... sicuramente sì..."
+    "Addetto al Luna Park" "Oh, uhm... sicuramente sì..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:527
 translate italian sm1ms_mh008_game_9d53957e:
 
     # "Carnival Worker" "Here you go..."
-    "Carnival Worker" "Ecco a te..."
+    "Addetto al Luna Park" "Ecco a te..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:530
 translate italian sm1ms_mh008_game_ffc6a815:
@@ -2316,35 +2316,35 @@ translate italian sm1cs_mh008_f927037e:
 translate italian sm1cs_mh008_034e2023:
 
     # mc "Yeah! We wanted to be able to use the studio as, well, a studio."
-    mc "Yeah! We wanted to be able to use the studio as, well, a studio."
+    mc "Sì! Volevamo poter usare lo studio come, beh, uno studio."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:288
 translate italian sm1cs_mh008_carnival_57b30d8d:
 
     # mh "As a kid, I just knew that we would come to the circus because we had free tickets, and..."
-    mh "As a kid, I just knew that we would come to the circus because we had free tickets, and..."
+    mh "Da bambina, sapevo solo che andavamo al circo perché avevamo biglietti gratis, e..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:430
 translate italian sm1cs_mh008_date_28d03d83:
 
     # mh "Yeah. It's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
-    mh "Yeah. It's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
+    mh "Sì. È una storia strana, ma in breve - il signor Roosevelt si rifiutò di sparare a un orso legato, e poi qualcuno ne fece una vignetta politica."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:785
 translate italian sm1cs_mh008_couple_carousel_end_83caa5fe:
 
     # mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
-    mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+    mc "Ehi, quando dici \"fenomenale\" e \"bacio\", devo darti il bacio con il massimo sforzo, giusto?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
 translate italian sm1cs_mh008_throuple_carousel_77fca0f2:
 
     # sy "Growing up. Our families never really went to the carvnial."
-    sy "Growing up. Our families never really went to the carvnial."
+    sy "Crescendo. Le nostre famiglie non andavano mai al luna park."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280
 translate italian sm1cs_mh008_throuple_carousel_end_b4912f4b:
 
     # mh "Yeah, something like this, [mcname]."
-    mh "Yeah, something like this, [mcname]."
+    mh "Sì, qualcosa del genere, [mcname]."
 
