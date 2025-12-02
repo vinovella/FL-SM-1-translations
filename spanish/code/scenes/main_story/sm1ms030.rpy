@@ -746,47 +746,47 @@ translate spanish sm1ms030_99415122:
 translate spanish sm1ms030_0f32b093:
 
     # sbf "Hold your horses, Diamond girl!"
-    sbf "Hold your horses, Diamond girl!"
+    sbf "¡Espera un momento, chica Diamond!"
 
 # game/code/scenes/main_story/sm1ms030.rpy:251
 translate spanish sm1ms030_014f56b5:
 
     # sbf "You're not the only one who wants to join!"
-    sbf "You're not the only one who wants to join!"
+    sbf "¡No eres la única que quiere unirse!"
 
 # game/code/scenes/main_story/sm1ms030.rpy:257
 translate spanish sm1ms030_36bea1d2:
 
     # sbf "Damn straight. This is where the party's at, after all."
-    sbf "Damn straight. This is where the party's at, after all."
+    sbf "Así es. Después de todo, aquí es donde está la fiesta."
 
 # game/code/scenes/main_story/sm1ms030.rpy:260
 translate spanish sm1ms030_502adca5:
 
     # sbf "So you may as well toss in the towel now, Daisy."
-    sbf "So you may as well toss in the towel now, Daisy."
+    sbf "Así que mejor tira la toalla ahora, Daisy."
 
 # game/code/scenes/main_story/sm1ms030.rpy:265
 translate spanish sm1ms030_0075f6b8:
 
     # sbf "We'll see about that."
-    sbf "We'll see about that."
+    sbf "Ya veremos."
 
 # game/code/scenes/main_story/sm1ms030.rpy:314
 translate spanish sm1ms030_e3c64c3e:
 
     # sbf "Yo, Stacy. What can we expect for Season Two of S&M Studio?"
-    sbf "Yo, Stacy. What can we expect for Season Two of S&M Studio?"
+    sbf "Oye, Stacy. ¿Qué podemos esperar para la Temporada Dos de S&M Studio?"
 
 # game/code/scenes/main_story/sm1ms030.rpy:328
 translate spanish sm1ms030_59604893:
 
     # sbf "Bye Zemfira. Love your whole vibe by the way."
-    sbf "Bye Zemfira. Love your whole vibe by the way."
+    sbf "Adiós Zemfira. Me encanta toda tu vibra por cierto."
 
 # game/code/scenes/main_story/sm1ms030.rpy:489
 translate spanish sm1ms030_1bbf4e04:
 
     # sbf "And the Patreon poll!"
-    sbf "And the Patreon poll!"
+    sbf "¡Y la encuesta de Patreon!"
 

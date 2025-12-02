@@ -830,25 +830,25 @@ translate spanish sm1ms026_scifi_6e83cc86:
 translate spanish sm1ms026_end_ce116a80:
 
     # sy "All right! Now the most important thing!"
-    sy "All right! Now the most important thing!"
+    sy "¡Muy bien! ¡Ahora lo más importante!"
 
 # game/code/scenes/main_story/sm1ms026.rpy:409
 translate spanish sm1ms026_end_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "¿Qué?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:410
 translate spanish sm1ms026_end_76bc562e:
 
     # sy "You have to decide on which movie we are making."
-    sy "You have to decide on which movie we are making."
+    sy "Tienes que decidir qué película estamos haciendo."
 
 # game/code/scenes/main_story/sm1ms026.rpy:414
 translate spanish sm1ms026_end_25716dc3:
 
     # mc "Oh right. That is pretty important."
-    mc "Oh right. That is pretty important."
+    mc "Oh, cierto. Eso es bastante importante."
 
 # game/code/scenes/main_story/sm1ms026.rpy:416
 translate spanish sm1ms026_end_cb7a4cfb:
@@ -860,45 +860,45 @@ translate spanish sm1ms026_end_cb7a4cfb:
 translate spanish sm1ms026_end_73ef10e9:
 
     # sy "Once you figure it out, come and talk to me."
-    sy "Once you figure it out, come and talk to me."
+    sy "Una vez que lo descubras, ven y háblame."
 
 # game/code/scenes/main_story/sm1ms026.rpy:419
 translate spanish sm1ms026_end_e18e6fd6:
 
     # mc "What would I do without you, little sister?"
-    mc "What would I do without you, little sister?"
+    mc "¿Qué haría yo sin ti, hermanita?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:421
 translate spanish sm1ms026_end_30780cf5:
 
     # mc "What would I do without you, Stacy?"
-    mc "What would I do without you, Stacy?"
+    mc "¿Qué haría yo sin ti, Stacy?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:425
 translate spanish sm1ms026_end_d05cfa21:
 
     # sy "God only knows..."
-    sy "God only knows..."
+    sy "Solo Dios sabe..."
 
 translate spanish strings:
 
     # game/code/scenes/main_story/sm1ms026.rpy:116
     old "A Pirates Movie"
-    new "A Pirates Movie"
+    new "Una Película de Piratas"
 
     # game/code/scenes/main_story/sm1ms026.rpy:116
     old "A Sci-Fi Movie"
-    new "A Sci-Fi Movie"
+    new "Una Película de Ciencia Ficción"
 
     # game/code/scenes/main_story/sm1ms026.rpy:116
     old "That's all for now"
-    new "That's all for now"
+    new "Eso es todo por ahora"
 
     # game/code/scenes/main_story/sm1ms026.rpy:304
     old "We should do watersports"
-    new "We should do watersports"
+    new "Deberíamos hacer juegos acuáticos"
 
     # game/code/scenes/main_story/sm1ms026.rpy:304
     old "No watersports"
-    new "No watersports"
+    new "Sin juegos acuáticos"
 

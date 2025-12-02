@@ -1874,81 +1874,81 @@ translate spanish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:93
     old "I did, didn't I?"
-    new "I did, didn't I?"
+    new "Sí lo hice, ¿verdad?"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:93
     old "Nah. You would have rescued yourself in due time"
-    new "Nah. You would have rescued yourself in due time"
+    new "Nah. Te habrías rescatado a ti misma a su debido tiempo"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:132
     old "You're very important to me too"
-    new "You're very important to me too"
+    new "Tú también eres muy importante para mí"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:173
     old "Interruptions can be fun"
-    new "Interruptions can be fun"
+    new "Las interrupciones pueden ser divertidas"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:200
     old "Aggressive"
-    new "Aggressive"
+    new "Agresivo"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:200
     old "Relaxed"
-    new "Relaxed"
+    new "Relajado"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:250
     old "Do, don't ask"
-    new "Do, don't ask"
+    new "Hazlo, no preguntes"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:250
     old "Oh that's fucking hot"
-    new "Oh that's fucking hot"
+    new "Oh, eso es jodidamente caliente"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:326
     old "Create a pet label for Nari and you during private sex like this."
-    new "Create a pet label for Nari and you during private sex like this."
+    new "Crea una etiqueta de mascota para Nari y tú durante el sexo privado como este."
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:326
     old "Create pet labels"
-    new "Create pet labels"
+    new "Crear etiquetas de mascota"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:326
     old "I prefer us just being who we are, Nari"
-    new "I prefer us just being who we are, Nari"
+    new "Prefiero que solo seamos quienes somos, Nari"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:329
     old "Do you want to describe Nari in a special way?"
-    new "Do you want to describe Nari in a special way?"
+    new "¿Quieres describir a Nari de una manera especial?"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:335
     old "Please enter pet label for Nari."
-    new "Please enter pet label for Nari."
+    new "Por favor ingresa una etiqueta de mascota para Nari."
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:346
     old "Do you want Nari to describe you in a special way?"
-    new "Do you want Nari to describe you in a special way?"
+    new "¿Quieres que Nari te describa de una manera especial?"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:351
     old "Please enter pet label for you."
-    new "Please enter pet label for you."
+    new "Por favor ingresa una etiqueta de mascota para ti."
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:748
     old "Cum inside Nari"
-    new "Cum inside Nari"
+    new "Acabar dentro de Nari"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:748
     old "Cum on Nari"
-    new "Cum on Nari"
+    new "Acabar sobre Nari"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:917
     old "Cum in Nari's asshole"
-    new "Cum in Nari's asshole"
+    new "Acabar en el culo de Nari"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:917
     old "Cum all over Nari's face"
-    new "Cum all over Nari's face"
+    new "Acabar sobre la cara de Nari"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:917
     old "I want to cum in her mouth"
-    new "I want to cum in her mouth"
+    new "Quiero acabar en su boca"
 

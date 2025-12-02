@@ -1224,11 +1224,11 @@ translate spanish sm1cs_ns014_studio_188f75f7:
 translate spanish sm1cs_ns014_studio_5b1228cf:
 
     # sy "The look on your face."
-    sy "The look on your face."
+    sy "La expresión de tu cara."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:533
 translate spanish sm1cs_ns014_studio_991c2490:
 
     # ns "Hmmm. What cat?"
-    ns "Hmmm. What cat?"
+    ns "Hmmm. ¿Qué gato?"
 

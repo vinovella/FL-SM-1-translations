@@ -4466,7 +4466,7 @@ translate spanish sm1ms029_rival_enters_7d5f301c:
 translate spanish sm1ms029_rival_enters_d8f0561d:
 
     # "Lady" "Hello, Kanya. [mcname] said there was a party tonight."
-    "Lady" "Hola Kanya. [mcname] dijo que había una fiesta esta noche."
+    "Dama" "Hola Kanya. [mcname] dijo que había una fiesta esta noche."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1730
 translate spanish sm1ms029_rival_enters_53878096:
@@ -4496,13 +4496,13 @@ translate spanish sm1ms029_rival_enters_adb7344a:
 translate spanish sm1ms029_rival_enters_a0952905:
 
     # "Man" "Yes..."
-    "Man" "Sí..."
+    "Hombre" "Sí..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1741
 translate spanish sm1ms029_rival_enters_fda5068c:
 
     # "Man" "Lucky me."
-    "Man" "Qué suerte tengo."
+    "Hombre" "Qué suerte tengo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1743
 translate spanish sm1ms029_rival_enters_a1ee8d6f:
@@ -4520,7 +4520,7 @@ translate spanish sm1ms029_rival_enters_755984d1:
 translate spanish sm1ms029_rival_enters_ed66a87e:
 
     # "Man" "Oh goodie. Thank you, Kanya."
-    "Man" "Oh bueno. Gracias, Kanya."
+    "Hombre" "Oh bueno. Gracias, Kanya."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1748
 translate spanish sm1ms029_rival_enters_9bfb7146:
@@ -6816,7 +6816,7 @@ translate spanish sm1ms029_confrontation_3670d210:
 translate spanish sm1ms029_party_mes_d6798e52:
 
     # mes "I see you two were paying attention!"
-    mes "I see you two were paying attention!"
+    mes "¡Veo que ustedes dos estaban prestando atención!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1100
 translate spanish sm1ms029_talk_mes_ns_02795e35:
@@ -6864,23 +6864,23 @@ translate spanish sm1ms029_talk_mes_ns_b89ca410:
 translate spanish sm1ms029_talk_kv_hr_arj_c8a218be:
 
     # mc "She's a worry wort."
-    mc "She's a worry wort."
+    mc "Ella es una preocupona."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2480
 translate spanish sm1ms029_party_sy_ebb69a71:
 
     # mc "Time for a little ground and pound."
-    mc "Time for a little ground and pound."
+    mc "Es hora de un poco de acción intensa."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3203
 translate spanish sm1ms029_party_arj_3d299e51:
 
     # arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
-    arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
+    arj "Seré tu muñeca sexual de uso libre, aliviando tu estrés, y luego protagonizaré una escena justo después."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3527
 translate spanish sm1ms029_confrontation_c8157585:
 
     # et "But I don't think it will be enough."
-    et "But I don't think it will be enough."
+    et "Pero no creo que sea suficiente."
 

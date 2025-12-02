@@ -878,19 +878,19 @@ translate spanish sm1cs_cw006_onramp_1a_08cf969b:
 translate spanish sm1cs_cw006_onramp_1a_93d9b07e:
 
     # mct "She says this now, but what if in two weeks she changes her mind?"
-    mct "Dice esto ahora, but what if in two weeks she changes her mind?"
+    mct "Dice esto ahora, pero ¿y si en dos semanas cambia de opinión?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:463
 translate spanish sm1cs_cw006_onramp_1a_5ac929a8:
 
     # mct "She could get rid of me just like that."
-    mct "She could get rid of me just like that."
+    mct "Podría deshacerse de mí así de fácil."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:464
 translate spanish sm1cs_cw006_onramp_1a_f51db5a5:
 
     # mct "I need to think about this. Seriously."
-    mct "I need to think about this. Seriamente."
+    mct "Necesito pensar en esto. Seriamente."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:469
 translate spanish sm1cs_cw006_onramp_1a_4337f312:
@@ -1807,5 +1807,5 @@ translate spanish sm1cs_cw006_onramp_2_d125b649:
 translate spanish sm1cs_cw006_choice_2_961ba5fd:
 
     # mc "My life is very complicated as it is."
-    mc "My life is very complicated as it is."
+    mc "Mi vida ya es muy complicada de por sí."
 
