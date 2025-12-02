@@ -26,7 +26,7 @@ translate portuguese sm1mv01s03_2_37b166cd:
 translate portuguese sm1mv01s03_2_77eafc9c:
 
     # tl "Oh yeah."
-    tl "Ah, sim."
+    tl "Tudo sim."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:39
 translate portuguese sm1mv01s03_2_bc8974c5:
@@ -1076,7 +1076,7 @@ translate portuguese sm1mv01s03_2_f3bf025f:
 translate portuguese sm1mv01s03_2_56c120f7:
 
     # "Stacy and Kanya" "Cheering."
-    "Stacy and Kanya" "Aplaudindo."
+    "Stacy e Kanya" "*Aplaudindo*"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:580
 translate portuguese sm1mv01s03_2_351584d4:
