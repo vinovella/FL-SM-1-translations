@@ -440,5 +440,5 @@ translate portuguese strings:
 translate portuguese sm1mv01s03_1_14084d05:
 
     # sy "We should make a ninja movie!"
-    sy "We should make a ninja movie!"
+    sy "A gente devia fazer um filme de ninja!"
 
