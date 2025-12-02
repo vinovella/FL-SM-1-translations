@@ -470,7 +470,7 @@ translate spanish sm1cs_my003_at_gym_fc8a5374:
 translate spanish sm1cs_my003_at_gym_febb0419:
 
     # my "Are you okay?"
-    my "Are you okay?"
+    my "¿Estás bien?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:268
 translate spanish sm1cs_my003_at_gym_fc366b7b:
@@ -1436,7 +1436,7 @@ translate spanish sm1cs_my003_continue_7706f5bb:
 translate spanish sm1cs_my003_continue_febb0419:
 
     # my "Are you okay?"
-    my "Are you okay?"
+    my "¿Estás bien?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:730
 translate spanish sm1cs_my003_continue_d53589a3:
@@ -1632,11 +1632,11 @@ translate spanish sm1cs_my003_at_gym_b2b93b59:
 translate spanish sm1cs_my003_at_gym_63659e95:
 
     # my "Now that I'm all good and stretched out too, shall we get to the main event?"
-    my "Now that I'm all good and stretched out too, shall we get to the main event?"
+    my "Ahora que ya estoy bien estirada, ¿pasamos al evento principal?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:687
 translate spanish sm1cs_my003_continue_c59e5ae1:
 
     # my "Come on, [mcname]! You'll have to try harder than that!"
-    my "Come on, [mcname]! You'll have to try harder than that!"
+    my "¡Vamos, [mcname]! ¡Tendrás que esforzarte más que eso!"
 

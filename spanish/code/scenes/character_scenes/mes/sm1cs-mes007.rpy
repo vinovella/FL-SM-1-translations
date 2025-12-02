@@ -1118,7 +1118,7 @@ translate spanish sm1cs_mes007_continue_dea7848b:
 translate spanish sm1cs_mes007_continue_af082a20:
 
     # "[mcname] and Min" "*chuckling*"
-    "[mcname] and Min" "*risitas*"
+    "[mcname] y Min" "*risitas*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:782
 translate spanish sm1cs_mes007_continue_04ff985a:
@@ -1222,43 +1222,43 @@ translate spanish sm1cs_mes007_5b463004:
 translate spanish sm1cs_mes007_5a9df7e5:
 
     # mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
-    mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
+    mes "Y tú cargando las cosas pesadas me ahorra la molestia de construir un elaborado sistema de poleas y cabrestante que podría dañar el estudio."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:265
 translate spanish sm1cs_mes007_2c65153e:
 
     # mes "This is your home, but this is going to be my home within your home."
-    mes "This is your home, but this is going to be my home within your home."
+    mes "Esta es tu casa, pero esto va a ser mi hogar dentro de tu hogar."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:437
 translate spanish sm1cs_mes007_continue_e174a810:
 
     # mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
-    mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
+    mc "Lo aprecio, Min. Pero mi cosa favorita de las bragas es cuando te las quito."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:478
 translate spanish sm1cs_mes007_continue_b99c5ef4:
 
     # mes "We're going to change that today."
-    mes "We're going to change that today."
+    mes "Vamos a cambiar eso hoy."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:529
 translate spanish sm1cs_mes007_continue_b07f733a:
 
     # mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
-    mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
+    mc "Date el gusto. Solo no te sorprendas si sientes una presión repentina empujando contra tu coño."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:610
 translate spanish sm1cs_mes007_continue_7b7099ec:
 
     # mes "Imprint the shape of your cock against my womb."
-    mes "Imprint the shape of your cock against my womb."
+    mes "Imprime la forma de tu polla en mi útero."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:656
 translate spanish sm1cs_mes007_continue_fc117b28:
 
     # mes "You're grinding me down!"
-    mes "You're grinding me down!"
+    mes "¡Me estás desgastando!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:725
 translate spanish sm1cs_mes007_continue_a0e12b14:
@@ -1270,5 +1270,5 @@ translate spanish sm1cs_mes007_continue_a0e12b14:
 translate spanish sm1cs_mes007_continue_d0c62791:
 
     # mes "I like your spunky attitude."
-    mes "I like your spunky attitude."
+    mes "Me gusta tu actitud animosa."
 

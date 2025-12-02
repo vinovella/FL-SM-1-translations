@@ -1378,17 +1378,17 @@ translate spanish strings:
 translate spanish sm1cs_mh006_e6eae1c1:
 
     # mc "That sounds... Exhilarating."
-    mc "That sounds... Exhilarating."
+    mc "Eso suena... Estimulante."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:82
 translate spanish sm1cs_mh006_7a25c7b5:
 
     # mh "You're incorrigible. No, it took me years to get my clients. Between consistency, trust, meshing with each other - it wasn't an overnight matter."
-    mh "You're incorrigible. No, it took me years to get my clients. Between consistency, trust, meshing with each other - it wasn't an overnight matter."
+    mh "Eres incorregible. No, me tomó años conseguir mis clientes. Entre la constancia, la confianza, conectar entre sí - no fue cosa de una noche."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:324
 translate spanish sm1cs_mh006_after_choice_37279168:
 
     # mc "Well, uhm... I guess-"
-    mc "Well, uhm... I guess-"
+    mc "Bueno, uhm... Supongo que-"
 

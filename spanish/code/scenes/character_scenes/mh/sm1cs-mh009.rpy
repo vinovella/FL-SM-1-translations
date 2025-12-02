@@ -2406,23 +2406,23 @@ translate spanish sm1cs_mh009_e9245de9:
 translate spanish sm1cs_mh009_b94c53e3:
 
     # mh "I can't help but feel a bit hungry...{w} to know more about how it works..."
-    mh "I can't help but feel a bit hungry...{w} to know more about how it works..."
+    mh "No puedo evitar sentirme un poco hambrienta...{w} de saber más sobre cómo funciona..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:573
 translate spanish sm1cs_mh009_0890b5c5:
 
     # mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to perform for the camera."
-    mc "And I've got no reason to lie. This is a place of business, and any and every talent should know how to perform for the camera."
+    mc "Y no tengo razón para mentir. Este es un lugar de negocios, y todo talento debería saber cómo actuar frente a la cámara."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:651
 translate spanish sm1cs_mh009_13748be9:
 
     # mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fucked as well as you suck."
-    mc "Well, now that my dick is all nice and lubed up... I'd love to see if you can get fucked as well as you suck."
+    mc "Bueno, ahora que mi polla está bien lubricada... me encantaría ver si te follan tan bien como la chupas."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1082
 translate spanish sm1cs_mh009_1_02c03f87:
 
     # mc "And I promise that the only people who are ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
-    mc "And I promise that the only people who are ever going to see this is me and you. Not posting it, not showing it to anyone, I promise-"
+    mc "Y te prometo que las únicas personas que van a ver esto somos tú y yo. No lo publicaré, no se lo mostraré a nadie, te lo prometo-"
 
