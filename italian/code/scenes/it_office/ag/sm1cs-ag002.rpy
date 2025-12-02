@@ -110,7 +110,7 @@ translate italian sm1cs_ag002_6ccdfd77:
 translate italian sm1cs_ag002_9c29c361:
 
     # "Bartender" "Really? Shit..."
-    "Bartender" "Davvero? Merda..."
+    "Barista" "Davvero? Merda..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:95
 translate italian sm1cs_ag002_e4e461af:
@@ -122,7 +122,7 @@ translate italian sm1cs_ag002_e4e461af:
 translate italian sm1cs_ag002_ba3581dc:
 
     # "Bartender" "Sorry about that..."
-    "Bartender" "Scusa per quello..."
+    "Barista" "Scusa per quello..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:104
 translate italian sm1cs_ag002_69dce492:

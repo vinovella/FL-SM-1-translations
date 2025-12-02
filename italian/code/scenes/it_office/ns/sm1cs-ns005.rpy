@@ -182,7 +182,7 @@ translate italian sm1cs_ns005_792eec12:
 translate italian sm1cs_ns005_41f20396:
 
     # ns "Yes!"
-    ns "Yes!"
+    ns "Sì!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:123
 translate italian sm1cs_ns005_753e15b9:

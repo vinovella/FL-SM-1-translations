@@ -4118,7 +4118,7 @@ translate italian sm1ms029_party_sy_3d65d23d:
 translate italian sm1ms029_party_sy_5e368f36:
 
     # mc "How - mmmrrrgg - do you like that!?"
-    mc "How - mmmrrrgg - do you like that!?"
+    mc "Come - mmmrrrgg - ti piace!?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1637
 translate italian sm1ms029_party_sy_4ec923bf:
@@ -4466,7 +4466,7 @@ translate italian sm1ms029_rival_enters_7d5f301c:
 translate italian sm1ms029_rival_enters_d8f0561d:
 
     # "Lady" "Hello, Kanya. [mcname] said there was a party tonight."
-    "Lady" "Ciao, Kanya. [mcname] ha detto che c'era una festa stasera."
+    "Signora" "Ciao, Kanya. [mcname] ha detto che c'era una festa stasera."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1730
 translate italian sm1ms029_rival_enters_53878096:
@@ -4496,13 +4496,13 @@ translate italian sm1ms029_rival_enters_adb7344a:
 translate italian sm1ms029_rival_enters_a0952905:
 
     # "Man" "Yes..."
-    "Man" "Sì..."
+    "Uomo" "Sì..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1741
 translate italian sm1ms029_rival_enters_fda5068c:
 
     # "Man" "Lucky me."
-    "Man" "Fortunato me."
+    "Uomo" "Fortunato me."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1743
 translate italian sm1ms029_rival_enters_a1ee8d6f:
@@ -4520,7 +4520,7 @@ translate italian sm1ms029_rival_enters_755984d1:
 translate italian sm1ms029_rival_enters_ed66a87e:
 
     # "Man" "Oh goodie. Thank you, Kanya."
-    "Man" "Oh bene. Grazie, Kanya."
+    "Uomo" "Oh bene. Grazie, Kanya."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1748
 translate italian sm1ms029_rival_enters_9bfb7146:
@@ -4532,7 +4532,7 @@ translate italian sm1ms029_rival_enters_9bfb7146:
 translate italian sm1ms029_party_sy_finale_7e134d18:
 
     # mc "Oh, OH! What the - ngggg - the hell are you doing with your throat!?"
-    mc "Oh, OH! What the - ngggg - the hell are you doing with your throat!?"
+    mc "Oh, OH! Cosa - ngggg - che diavolo stai facendo con la tua gola!?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1757
 translate italian sm1ms029_party_sy_finale_6bf6891c:
@@ -4700,67 +4700,67 @@ translate italian sm1ms029_party_sy_finale_ce48cb8c:
 translate italian sm1ms029_party_sy_finale_d3a7b16b:
 
     # "Lady" "He's good."
-    "Lady" "È bravo."
+    "Signora" "È bravo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1805
 translate italian sm1ms029_party_sy_finale_8bf12768:
 
     # "Man" "Hmmph."
-    "Man" "Hmmph."
+    "Uomo" "Hmmph."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1806
 translate italian sm1ms029_party_sy_finale_799ac833:
 
     # "Lady" "He is, the stamina he must have-"
-    "Lady" "Lo è, la resistenza che deve avere-"
+    "Signora" "Lo è, la resistenza che deve avere-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1808
 translate italian sm1ms029_party_sy_finale_fd15032d:
 
     # "Man" "Shut up, I don't want to hear that."
-    "Man" "Zitto, non voglio sentirlo."
+    "Uomo" "Zitto, non voglio sentirlo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1809
 translate italian sm1ms029_party_sy_finale_04ccb60f:
 
     # "Lady" "It's important to know your enemies."
-    "Lady" "È importante conoscere i tuoi nemici."
+    "Signora" "È importante conoscere i tuoi nemici."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1811
 translate italian sm1ms029_party_sy_finale_b9fcfc6e:
 
     # "Man" "He is not even worthy of that label in my mind."
-    "Man" "Non è nemmeno degno di quell'etichetta nella mia mente."
+    "Uomo" "Non è nemmeno degno di quell'etichetta nella mia mente."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1814
 translate italian sm1ms029_party_sy_finale_717987d4:
 
     # "Man" "She has some talent though."
-    "Man" "Lei ha del talento però."
+    "Uomo" "Lei ha del talento però."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1815
 translate italian sm1ms029_party_sy_finale_c95514d6:
 
     # "Lady" "Yes, yes she does..."
-    "Lady" "Sì, sì ce l'ha..."
+    "Signora" "Sì, sì ce l'ha..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1816
 translate italian sm1ms029_party_sy_finale_8bf12768_1:
 
     # "Man" "Hmmph."
-    "Man" "Hmmph."
+    "Uomo" "Hmmph."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1818
 translate italian sm1ms029_party_sy_finale_c54ad9c5:
 
     # "Lady" "Well, if they're not our enemies, what are they?"
-    "Lady" "Beh, se non sono nostri nemici, cosa sono?"
+    "Signora" "Beh, se non sono nostri nemici, cosa sono?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1821
 translate italian sm1ms029_party_sy_finale_c0c223fa:
 
     # "Man" "Bugs."
-    "Man" "Insetti."
+    "Uomo" "Insetti."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1828
 translate italian sm1ms029_party_arj_254336d8:
@@ -6870,17 +6870,17 @@ translate italian sm1ms029_talk_mes_ns_b89ca410:
 translate italian sm1ms029_party_sy_ebb69a71:
 
     # mc "Time for a little ground and pound."
-    mc "Time for a little ground and pound."
+    mc "È ora di un po' di monta e martella."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3203
 translate italian sm1ms029_party_arj_3d299e51:
 
     # arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
-    arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
+    arj "Sarò la tua bambola sessuale a libero uso, alleviando il tuo stress, e poi reciterò in una scena subito dopo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3527
 translate italian sm1ms029_confrontation_c8157585:
 
     # et "But I don't think it will be enough."
-    et "But I don't think it will be enough."
+    et "Ma non credo che sarà sufficiente."
 

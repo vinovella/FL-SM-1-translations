@@ -1632,11 +1632,11 @@ translate italian sm1cs_my003_at_gym_b2b93b59:
 translate italian sm1cs_my003_at_gym_63659e95:
 
     # my "Now that I'm all good and stretched out too, shall we get to the main event?"
-    my "Now that I'm all good and stretched out too, shall we get to the main event?"
+    my "Ora che sono ben allungata anch'io, passiamo all'evento principale?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:687
 translate italian sm1cs_my003_continue_c59e5ae1:
 
     # my "Come on, [mcname]! You'll have to try harder than that!"
-    my "Come on, [mcname]! You'll have to try harder than that!"
+    my "Forza, [mcname]! Dovrai impegnarti di più!"
 

@@ -560,7 +560,7 @@ translate italian sm1cs_am001_after_coding_b31059d4:
 translate italian sm1cs_am001_after_coding_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Sì."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:325
 translate italian sm1cs_am001_after_coding_faad3556:

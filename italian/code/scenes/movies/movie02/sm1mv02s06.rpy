@@ -1022,7 +1022,7 @@ translate italian sm1mv02s06_watersports_c3ec5393:
 translate italian sm1mv02s06_watersports_9c8d8331:
 
     # mhmes "Like... mmmmm..."
-    mhmes "Like... mmmmm..."
+    mhmes "Come... mmmmm..."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:836
 translate italian sm1mv02s06_watersports_b6174385:

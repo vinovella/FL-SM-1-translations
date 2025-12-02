@@ -1318,11 +1318,11 @@ translate italian sm1cs_my005_after_movie_eed91999:
 translate italian sm1cs_my005_half_movie_14afb82a:
 
     # mct "Oh God, what the hell do I do now?"
-    mct "Oh God, what the hell do I do now?"
+    mct "Oh Dio, che diavolo faccio adesso?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:592
 translate italian sm1cs_my005_after_movie_2431015a:
 
     # my "My days of couch crashing are far behind me."
-    my "My days of couch crashing are far behind me."
+    my "I miei giorni passati a dormire sul divano sono ormai lontani."
 

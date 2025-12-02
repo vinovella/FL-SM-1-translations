@@ -302,7 +302,7 @@ translate italian sm1cs_km001_dc61edba:
 translate italian sm1cs_km001_43d18629:
 
     # km "*grunts*"
-    km "*grunts*"
+    km "*grugnisce*"
 
 # game/code/scenes/theatre/km/sm1cs-km001.rpy:217
 translate italian sm1cs_km001_465d6956:

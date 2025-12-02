@@ -596,7 +596,7 @@ translate italian sm1mv01s03_2_8f34b36f:
 translate italian sm1mv01s03_2_553aff27:
 
     # tl "Thanks."
-    tl "Thanks."
+    tl "Grazie."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:329
 translate italian sm1mv01s03_2_823a982d:
@@ -734,7 +734,7 @@ translate italian sm1mv01s03_2_d6109b0d:
 translate italian sm1mv01s03_2_716019b8:
 
     # mc "Right."
-    mc "Right."
+    mc "Giusto."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:397
 translate italian sm1mv01s03_2_8b57ff02:
@@ -782,7 +782,7 @@ translate italian sm1mv01s03_2_2b35b6fe_1:
 translate italian sm1mv01s03_2_21e06285:
 
     # mc "Oh right."
-    mc "Oh right."
+    mc "Oh giusto."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:418
 translate italian sm1mv01s03_2_3293632f:
@@ -1160,7 +1160,7 @@ translate italian sm1mv01s03_2_later_on_4e9e4b94:
 translate italian sm1mv01s03_2_later_on_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Cosa?"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:638
 translate italian sm1mv01s03_2_later_on_69009883:
@@ -1376,7 +1376,7 @@ translate italian sm1mv01s03_2_tl_costume_4338fb9e:
 translate italian sm1mv01s03_2_tl_costume_553aff27:
 
     # tl "Thanks."
-    tl "Thanks."
+    tl "Grazie."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:756
 translate italian sm1mv01s03_2_tl_costume_41c7b947:
@@ -1430,7 +1430,7 @@ translate italian sm1mv01s03_2_tl_costume_babcca26:
 translate italian sm1mv01s03_2_tl_costume_716019b8:
 
     # mc "Right."
-    mc "Right."
+    mc "Giusto."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:784
 translate italian sm1mv01s03_2_tl_costume_c95cb708:

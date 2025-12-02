@@ -728,13 +728,13 @@ translate italian sm1ms030_d053e9bb:
 translate italian sm1ms030_45bfce6c:
 
     # "Everyone" "Thank you!"
-    "Everyone" "Grazie!"
+    "Tutti" "Grazie!"
 
 # game/code/scenes/main_story/sm1ms030.rpy:323
 translate italian sm1ms030_99415122:
 
     # "Everyone" "See you in Season Two!"
-    "Everyone" "Ci vediamo nella Stagione Due!"
+    "Tutti" "Ci vediamo nella Stagione Due!"
 
 # game/code/scenes/main_story/sm1ms030.rpy:248
 translate italian sm1ms030_0f32b093:

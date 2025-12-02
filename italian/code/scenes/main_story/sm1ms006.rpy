@@ -116,7 +116,7 @@ translate italian sm1ms006_0077b075:
 translate italian sm1ms006_09d06ab8:
 
     # "*Click*"
-    "*Click*"
+    "*Clic*"
 
 # game/code/scenes/main_story/sm1ms006.rpy:108
 translate italian sm1ms006_d2d169c4:
@@ -392,7 +392,7 @@ translate italian sm1ms006_62dd07cf:
 translate italian sm1ms006_868ecda0:
 
     # "*DRAWER OPENS*"
-    "*DRAWER OPENS*"
+    "*IL CASSETTO SI APRE*"
 
 # game/code/scenes/main_story/sm1ms006.rpy:272
 translate italian sm1ms006_167bd469:
@@ -422,7 +422,7 @@ translate italian sm1ms006_755c5933:
 translate italian sm1ms006_3c726d8a:
 
     # "*WHACK*"
-    "*WHACK*"
+    "*SCHIAFFO*"
 
 # game/code/scenes/main_story/sm1ms006.rpy:291
 translate italian sm1ms006_04938a33:

@@ -986,7 +986,7 @@ translate italian sm1cs_am006_arcade_f8862bd7:
 translate italian sm1cs_am006_arcade_6651ab87_1:
 
     # mc "Alright."
-    mc "Alright."
+    mc "Va bene."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:614
 translate italian sm1cs_am006_arcade_533f0980:

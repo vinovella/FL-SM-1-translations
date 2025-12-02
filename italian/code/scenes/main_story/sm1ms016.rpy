@@ -584,7 +584,7 @@ translate italian sm1ms016_1ae9a7c2:
 translate italian sm1ms016_f3d1dcea:
 
     # "*Doorbell ringing*"
-    "*Doorbell ringing*"
+    "*Suono del campanello*"
 
 # game/code/scenes/main_story/sm1ms016.rpy:256
 translate italian sm1ms016_f3d1dcea_1:

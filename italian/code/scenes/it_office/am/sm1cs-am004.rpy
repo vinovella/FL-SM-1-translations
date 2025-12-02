@@ -626,25 +626,25 @@ translate italian sm1cs_am004_continue_adc60659:
 translate italian sm1cs_am004_continue_3744bc7a:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* Lost souls with stoney hearts!{w=3.5}{nw}"
-    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* Lost souls with stoney hearts!{w=3.5}{nw}"
+    "{color=#b81c0c}Mitch{/color} e {color=#79c18d}April{/color}" "*cantando* Anime perse con cuori di pietra!{w=3.5}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:434
 translate italian sm1cs_am004_continue_793dc37c:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We'll tear down walls and break society's parts.{w=3.5}{nw}"
-    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We'll tear down walls and break society's parts.{w=3.5}{nw}"
+    "{color=#b81c0c}Mitch{/color} e {color=#79c18d}April{/color}" "*cantando* Abbatteremo i muri e spezzeremo le catene della società.{w=3.5}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:436
 translate italian sm1cs_am004_continue_5fc828ba:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* With fire in our eyes and spells in our veins{w=4.25}{nw}"
-    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* With fire in our eyes and spells in our veins{w=4.25}{nw}"
+    "{color=#b81c0c}Mitch{/color} e {color=#79c18d}April{/color}" "*cantando* Con fuoco negli occhi e magie nelle vene{w=4.25}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:438
 translate italian sm1cs_am004_continue_6762bd11:
 
     # "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We chant our anthems in the pouring rain!{w=2.25}{nw}"
-    "{color=#b81c0c}Mitch{/color} and {color=#79c18d}April{/color}" "*singing* We chant our anthems in the pouring rain!{w=2.25}{nw}"
+    "{color=#b81c0c}Mitch{/color} e {color=#79c18d}April{/color}" "*cantando* Cantiamo i nostri inni sotto la pioggia battente!{w=2.25}{nw}"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:440
 translate italian sm1cs_am004_continue_cfffe58f:
@@ -782,7 +782,7 @@ translate italian sm1cs_am004_music_2_end_4804cbcc:
 translate italian sm1cs_am004_music_2_end_cf4334c9:
 
     # mc "... Okay then."
-    mc "... Okay then."
+    mc "... Va bene allora."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:556
 translate italian sm1cs_am004_music_2_end_f7b1c819:
@@ -1010,7 +1010,7 @@ translate italian sm1cs_am004_sex_1c8acf17:
 translate italian sm1cs_am004_sex_090b4191:
 
     # mc "Like that?"
-    mc "Like that?"
+    mc "Così?"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:732
 translate italian sm1cs_am004_sex_7ffc9f0a:
@@ -1412,7 +1412,7 @@ translate italian sm1cs_am004_after_spank_717dc352:
 translate italian sm1cs_am004_after_spank_090b4191:
 
     # mc "Like that?"
-    mc "Like that?"
+    mc "Così?"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:967
 translate italian sm1cs_am004_after_spank_dbe90879:

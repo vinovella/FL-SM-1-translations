@@ -1070,7 +1070,7 @@ translate italian sm1mv02s09_movie_e2dda1f5:
 translate italian sm1mv02s09_movie_d5e87f9b:
 
     # mhmes "Fascinating."
-    mhmes "Fascinating."
+    mhmes "Affascinante."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:915
 translate italian sm1mv02s09_movie_7a211153:
@@ -1460,7 +1460,7 @@ translate italian sm1mv02s09_watersports_3586d95f:
 translate italian sm1mv02s09_watersports_d5e87f9b:
 
     # mhmes "Fascinating."
-    mhmes "Fascinating."
+    mhmes "Affascinante."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1203
 translate italian sm1mv02s09_watersports_bf9aac13:
@@ -1706,5 +1706,5 @@ translate italian sm1mv02s09_end_ac4f60cc:
 translate italian sm1mv02s09_movie_2466e48f:
 
     # mhmes "And she is also quite a spectacle to behold. She really understands how to bring a body to climax."
-    mhmes "And she is also quite a spectacle to behold. She really understands how to bring a body to climax."
+    mhmes "Ed è anche uno spettacolo da vedere. Capisce davvero come portare un corpo all'orgasmo."
 

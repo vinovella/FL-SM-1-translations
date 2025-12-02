@@ -836,5 +836,5 @@ translate italian sm1ms024_72133c5b:
 translate italian sm1ms024_620a96b9:
 
     # mc "Come on, you have that look on your face."
-    mc "Come on, you have that look on your face."
+    mc "Dai, hai quell'espressione in faccia."
 

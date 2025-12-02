@@ -14,7 +14,7 @@ translate italian sm1cs_am007_8a7c3d13:
 translate italian sm1cs_am007_48d2216f:
 
     # "Buzz. Buzz."
-    "Buzz. Buzz."
+    "Bzzz. Bzzz."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:42
 translate italian sm1cs_am007_f8576f9f:
@@ -566,7 +566,7 @@ translate italian sm1cs_am007_e108767c:
 translate italian sm1cs_am007_5aa180da:
 
     # "Beep beep beep"
-    "Beep beep beep"
+    "Bip bip bip"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:270
 translate italian sm1cs_am007_70b09371:
@@ -1154,7 +1154,7 @@ translate italian sm1cs_am007_20_minutes_later_889020f6:
 translate italian sm1cs_am007_20_minutes_later_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "Certo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:602
 translate italian sm1cs_am007_jogging_continue_51377f0a:

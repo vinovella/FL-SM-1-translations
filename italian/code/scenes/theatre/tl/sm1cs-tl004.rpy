@@ -254,7 +254,7 @@ translate italian sm1cs_tl004_121beac4:
 translate italian sm1cs_tl004_cf88d197:
 
     # tl "Good."
-    tl "Good."
+    tl "Bene."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:160
 translate italian sm1cs_tl004_8e114a47:
@@ -308,7 +308,7 @@ translate italian sm1cs_tl004_ad909a8e:
 translate italian sm1cs_tl004_1b400966:
 
     # tl "What?"
-    tl "What?"
+    tl "Cosa?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:197
 translate italian sm1cs_tl004_525222cd:
@@ -482,7 +482,7 @@ translate italian sm1cs_tl004_2b35b6fe_1:
 translate italian sm1cs_tl004_1b400966_1:
 
     # tl "What?"
-    tl "What?"
+    tl "Cosa?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:302
 translate italian sm1cs_tl004_95eb18d3:
@@ -530,7 +530,7 @@ translate italian sm1cs_tl004_6ae6b5ab:
 translate italian sm1cs_tl004_cf88d197_1:
 
     # tl "Good."
-    tl "Good."
+    tl "Bene."
 
 # game/code/scenes/theatre/tl/sm1cs-tl004.rpy:331
 translate italian sm1cs_tl004_7b7a4fdb:

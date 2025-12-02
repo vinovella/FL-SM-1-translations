@@ -950,7 +950,7 @@ translate italian sm1fs_t002_sex_2613e29d:
 translate italian sm1fs_t002_sex_ca266a41:
 
     # tl "Sure."
-    tl "Sure."
+    tl "Certo."
 
 # game/code/scenes/theatre/sm1fs-t002.rpy:590
 translate italian sm1fs_t002_sex_4ded8e6e:

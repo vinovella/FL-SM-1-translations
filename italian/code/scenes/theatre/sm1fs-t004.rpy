@@ -98,7 +98,7 @@ translate italian sm1fs_t004_42d43146:
 translate italian sm1fs_t004_2876efd9:
 
     # mc "Why?"
-    mc "Why?"
+    mc "Perché?"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:86
 translate italian sm1fs_t004_25d49e08:
@@ -1178,7 +1178,7 @@ translate italian sm1fs_t004_km_trust_fall_5f859842:
 translate italian sm1fs_t004_km_trust_fall_2876efd9:
 
     # mc "Why?"
-    mc "Why?"
+    mc "Perché?"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:773
 translate italian sm1fs_t004_km_trust_fall_c18bb69d:
@@ -1214,7 +1214,7 @@ translate italian sm1fs_t004_km_trust_fall_3d001c3e:
 translate italian sm1fs_t004_km_trust_fall_06f8b886:
 
     # km "What?"
-    km "What?"
+    km "Cosa?"
 
 # game/code/scenes/theatre/sm1fs-t004.rpy:791
 translate italian sm1fs_t004_km_trust_fall_7801acb7:

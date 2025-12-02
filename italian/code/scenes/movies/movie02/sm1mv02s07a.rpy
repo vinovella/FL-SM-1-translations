@@ -8,7 +8,7 @@ translate italian sm1mv02s07a_43b066d8:
 translate italian sm1mv02s07a_217f0f7d:
 
     # "Spa Attendant" "I hope the room is to your liking."
-    "Spa Attendant" "Spero che la stanza sia di suo gradimento."
+    "Addetta alla Spa" "Spero che la stanza sia di suo gradimento."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:69
 translate italian sm1mv02s07a_6a371bf0:
@@ -20,13 +20,13 @@ translate italian sm1mv02s07a_6a371bf0:
 translate italian sm1mv02s07a_770afc0b:
 
     # "Spa Attendant" "Your masseuses will be here shortly."
-    "Spa Attendant" "Le vostre massaggiatrici saranno qui a breve."
+    "Addetta alla Spa" "Le vostre massaggiatrici saranno qui a breve."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:76
 translate italian sm1mv02s07a_1272e27c:
 
     # "Spa Attendant" "Enjoy your spa day."
-    "Spa Attendant" "Godetevi la vostra giornata alla spa."
+    "Addetta alla Spa" "Godetevi la vostra giornata alla spa."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:83
 translate italian sm1mv02s07a_7937f344:
@@ -290,7 +290,7 @@ translate italian sm1mv02s07a_85788dd1:
 translate italian sm1mv02s07a_4d1ccd91:
 
     # mes "*giggles*"
-    mes "*giggles*"
+    mes "*ridacchia*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:231
 translate italian sm1mv02s07a_ce8d676c:
@@ -308,7 +308,7 @@ translate italian sm1mv02s07a_8fbcaeea:
 translate italian sm1mv02s07a_4d1ccd91_1:
 
     # mes "*giggles*"
-    mes "*giggles*"
+    mes "*ridacchia*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:237
 translate italian sm1mv02s07a_53491d1c:

@@ -2316,59 +2316,59 @@ translate italian sm1cs_my006_next_morning_02f10a8a:
 translate italian sm1cs_my006_hotel_room_48510f06:
 
     # my "I will say though, my ranking from best to worst is Episode 5-4-6-3-1-2."
-    my "I will say though, my ranking from best to worst is Episode 5-4-6-3-1-2."
+    my "Devo dire però che la mia classifica dal migliore al peggiore è Episodio 5-4-6-3-1-2."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:247
 translate italian sm1cs_my006_hotel_room_e268fe97:
 
     # my "I want to say 'thank you'. Thank you for treating me so well after how I acted when I first came to Crowning."
-    my "I want to say 'thank you'. Thank you for treating me so well after how I acted when I first came to Crowning."
+    my "Voglio dirti 'grazie'. Grazie per avermi trattato così bene dopo come mi sono comportata quando sono arrivata a Crowning."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:303
 translate italian sm1cs_my006_hotel_room_adc7a6e5:
 
     # my "Leave it to me, [mcname]."
-    my "Leave it to me, [mcname]."
+    my "Lascia fare a me, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:351
 translate italian sm1cs_my006_hotel_room_4ad2bb87:
 
     # mct "Holy shit, Mom is sucking my cock!"
-    mct "Holy shit, Mom is sucking my cock!"
+    mct "Cazzo, mamma mi sta succhiando il cazzo!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:353
 translate italian sm1cs_my006_hotel_room_d60b4c35:
 
     # mct "Holy shit, Melony is sucking my cock!"
-    mct "Holy shit, Melony is sucking my cock!"
+    mct "Cazzo, Melony mi sta succhiando il cazzo!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:603
 translate italian sm1cs_my006_hotel_room_e5715d71:
 
     # mc "Maybe I want to tease you a little bit?"
-    mc "Maybe I want to tease you a little bit?"
+    mc "Forse voglio stuzzicarti un po'?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:764
 translate italian sm1cs_my006_hotel_room_df14ac92:
 
     # my "Mmmhmmm! B-better than okay!"
-    my "Mmmhmmm! B-better than okay!"
+    my "Mmmhmmm! M-meglio che okay!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:818
 translate italian sm1cs_my006_hotel_room_34ef9d5d:
 
     # my "Fuck, fuck, fuck, faster! Mmmmmm!"
-    my "Fuck, fuck, fuck, faster! Mmmmmm!"
+    my "Cazzo, cazzo, cazzo, più veloce! Mmmmmm!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:1084
 translate italian sm1cs_my006_next_morning_da8eab1c:
 
     # mc "There's still so much I don't know about you, even though you've been around my whole life."
-    mc "There's still so much I don't know about you, even though you've been around my whole life."
+    mc "C'è ancora così tanto che non so di te, anche se sei stata presente per tutta la mia vita."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:1200
 translate italian sm1cs_my006_at_studio_4d0a5dbc:
 
     # mc "-and I just want to take a shower and get a cup of coffee, okay?"
-    mc "-and I just want to take a shower and get a cup of coffee, okay?"
+    mc "-e voglio solo farmi una doccia e prendere un caffè, okay?"
 

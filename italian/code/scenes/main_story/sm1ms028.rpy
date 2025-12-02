@@ -1006,5 +1006,5 @@ translate italian strings:
 translate italian sm1ms028_location_change_f85f2d25:
 
     # mc "We will need to watch him very carefully if Lyssa says we can do business together."
-    mc "We will need to watch him very carefully if Lyssa says we can do business together."
+    mc "Dovremo tenerlo d'occhio molto attentamente se Lyssa dice che possiamo fare affari insieme."
 

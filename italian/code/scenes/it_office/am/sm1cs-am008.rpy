@@ -146,7 +146,7 @@ translate italian sm1cs_am008_continue_e5387253:
 translate italian sm1cs_am008_continue_83329cfa:
 
     # "Waiter" "Very good sir. I shall return to check on your glasses in a moment."
-    "Waiter" "Molto bene signore. Tornerò a controllare i vostri bicchieri tra un momento."
+    "Cameriere" "Molto bene signore. Tornerò a controllare i vostri bicchieri tra un momento."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:111
 translate italian sm1cs_am008_continue_f8c4c766:
@@ -986,7 +986,7 @@ translate italian sm1cs_am008_continue_08dcc02a:
 translate italian sm1cs_am008_continue_820cd5c4:
 
     # "Waiter" "Of course, madam."
-    "Waiter" "Certo, signora."
+    "Cameriere" "Certo, signora."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:522
 translate italian sm1cs_am008_continue_7ff1764f:
@@ -1586,7 +1586,7 @@ translate italian sm1cs_am008_sex_d6f44a4e:
 translate italian sm1cs_am008_sex_3e4cdcbc:
 
     # am "Shut-haua... up-oohuaha.."
-    am "Shut-haua... up-oohuaha.."
+    am "Sta-haua... zitto-oohuaha.."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:863
 translate italian sm1cs_am008_sex_f1349421:
@@ -1928,13 +1928,13 @@ translate italian sm1cs_am008_sex_a6907b8f:
 translate italian sm1cs_am008_sex_90cf1131:
 
     # am "I mean... I haven't had a lot of sex before."
-    am "I mean... I haven't had a lot of sex before."
+    am "Voglio dire... non ho fatto molto sesso prima."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1026
 translate italian sm1cs_am008_sex_ff4ae645:
 
     # mc "Than I feel especially honored."
-    mc "Than I feel especially honored."
+    mc "Allora mi sento particolarmente onorato."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1027
 translate italian sm1cs_am008_sex_0025253c:
@@ -2072,7 +2072,7 @@ translate italian sm1cs_am008_sex_fa799b95:
 translate italian sm1cs_am008_sex_1273d7bd:
 
     # am "We'd get in trouble, Master... Hhuaah..."
-    am "We'd get in trouble, Master... Hhuaah..."
+    am "Finiremmo nei guai, Padrone... Hhuaah..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1085
 translate italian sm1cs_am008_sex_06f5cd06:
@@ -2228,7 +2228,7 @@ translate italian sm1cs_am008_sex_22a66f3c:
 translate italian sm1cs_am008_sex_cd77dcbf:
 
     # am "*deep breath* I still got a bit left in me."
-    am "*deep breath* I still got a bit left in me."
+    am "*respiro profondo* Ho ancora un po' di energia."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1154
 translate italian sm1cs_am008_sex_f33ee414:
@@ -2324,7 +2324,7 @@ translate italian sm1cs_am008_sex_e6cb35a8:
 translate italian sm1cs_am008_sex_ce63f366:
 
     # mct "I guess she really is ready for more."
-    mct "I guess she really is ready for more."
+    mct "Immagino che sia davvero pronta per altro."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1199
 translate italian sm1cs_am008_sex_840fa5f7:
@@ -2348,7 +2348,7 @@ translate italian sm1cs_am008_sex_1cccb1a5:
 translate italian sm1cs_am008_sex_88f8dc80:
 
     # mct "I fucking love seeing this side of April."
-    mct "I fucking love seeing this side of April."
+    mct "Adoro vedere questo lato di April."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1209
 translate italian sm1cs_am008_sex_8c511acf:
