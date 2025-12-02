@@ -1698,29 +1698,29 @@ translate spanish strings:
 translate spanish sm1cs_mas003_second_delivery_e42e9cc6:
 
     # mc "\"She could be the Slobber Atractor.\""
-    mc "\"She could be the Slobber Atractor.\""
+    mc "\"Ella podría ser la Atractora de babas.\""
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:756
 translate spanish sm1cs_mas003_third_delivery_b52e61ff:
 
     # lg "I've already seen Olivia's and Kennedy's girls."
-    lg "I've already seen Olivia's and Kennedy's girls."
+    lg "Ya he visto a las chicas de Olivia y Kennedy."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:765
 translate spanish sm1cs_mas003_third_delivery_c1710beb:
 
     # mct "No way Maya goes for this."
-    mct "No way Maya goes for this."
+    mct "No hay manera de que Maya acepte esto."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:787
 translate spanish sm1cs_mas003_third_delivery_a9e1c1c0:
 
     # "Kennedy, Lauren and Olivia" "*cheer wildly*"
-    "Kennedy, Lauren and Olivia" "*cheer wildly*"
+    "Kennedy, Lauren y Olivia" "*vitorean salvajemente*"
 
 translate spanish strings:
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
     old "You got a $[amount] as your cut of the tip"
-    new "You got a $[amount] as your cut of the tip"
+    new "Recibiste $[amount] como tu parte de la propina"
 

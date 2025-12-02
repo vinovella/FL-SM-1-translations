@@ -3608,47 +3608,47 @@ translate spanish strings:
 translate spanish sm1cs_mes006_6193ab1b:
 
     # mc "I love you, my naughty fuck-minx."
-    mc "I love you, my naughty fuck-minx."
+    mc "Te amo, mi traviesa zorrita."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:432
 translate spanish sm1cs_mes006_e9cbaa26:
 
     # sy "Oh cool. A Medusa."
-    sy "Oh cool. A Medusa."
+    sy "Oh genial. Una Medusa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:441
 translate spanish sm1cs_mes006_ea3b9fe6:
 
     # sy "I call the Medusa!"
-    sy "I call the Medusa!"
+    sy "¡Yo pido la Medusa!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:447
 translate spanish sm1cs_mes006_b0ac8035:
 
     # sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
-    sy "Rules, schmules.{w} The Medusa is sexy and she's green, like my hair."
+    sy "Reglas, schmeglas.{w} La Medusa es sexy y es verde, como mi cabello."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:669
 translate spanish sm1cs_mes006_continue_dea9bd6d:
 
     # "[mcname] and Min" "*laughing*"
-    "[mcname] and Min" "*laughing*"
+    "[mcname] y Min" "*riendo*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:827
 translate spanish sm1cs_mes006_continue_3e2044ca:
 
     # mes "But then wouldn't I just be trading my parents for you?"
-    mes "But then wouldn't I just be trading my parents for you?"
+    mes "Pero entonces, ¿no estaría simplemente cambiando a mis padres por ti?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:885
 translate spanish sm1cs_mes006_continue_35dadad0:
 
     # mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
-    mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
+    mc "Pero parece que no te opones a la idea de quedarte aquí. Incluso conmigo y Stacy liándonos."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1244
 translate spanish sm1cs_mes006_continue_22b1ff20:
 
     # mes "I was hesitant... being around [mcname]."
-    mes "I was hesitant... being around [mcname]."
+    mes "Estaba indecisa... estando cerca de [mcname]."
 

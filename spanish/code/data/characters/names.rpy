@@ -70,7 +70,7 @@
 
     # game/code/data/characters/names.rpy:32
     old "Jogger"
-    new "Jogger"
+    new "Corredora"
 
     # game/code/data/characters/names.rpy:33
     old "Olivia"

@@ -476,17 +476,17 @@ translate spanish strings:
 
     # game/code/renpy/screens/screens.rpy:447
     old "Saves For Season 2"
-    new "Saves For Season 2"
+    new "Guardados de la temporada 2"
 
     # game/code/renpy/screens/screens.rpy:1129
     old "MUSIC LISENCES & SOURCES"
-    new "MUSIC LISENCES & SOURCES"
+    new "LICENCIAS Y FUENTES DE MÚSICA"
 
     # game/code/renpy/screens/screens.rpy:1162
     old "FRENCH TRANSLATION"
-    new "FRENCH TRANSLATION"
+    new "TRADUCCIÓN AL FRANCÉS"
 
     # game/code/renpy/screens/screens.rpy:1194
     old "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
-    new "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
+    new "Agradecimientos especiales a nuestro corrector: GrubbJunk (Discord: grubbjunker)"
 

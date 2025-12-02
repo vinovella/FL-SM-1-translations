@@ -1745,11 +1745,11 @@ translate spanish sm1cs_mes_r1_initiator_0e8ab82c:
 translate spanish sm1cs_mes_r1_watersports_3108adbd:
 
     # mes "I need your piss all over me. Make me your dirty little piss slut."
-    mes "I need your piss all over me. Make me your dirty little piss slut."
+    mes "Necesito tu orina sobre mí. Hazme tu pequeña puta sucia de meados."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:1194
 translate spanish sm1cs_mes_r1_end_3c9bdbc5:
 
     # mes "I'm glad I came back from Korea. This...us...{w} Being together."
-    mes "I'm glad I came back from Korea. This...us...{w} Being together."
+    mes "Me alegro de haber vuelto de Corea. Esto... nosotros...{w} Estar juntos."
 

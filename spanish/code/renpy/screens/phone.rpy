@@ -48,9 +48,9 @@ translate spanish strings:
 
     # game/code/renpy/screens/phone.rpy:77
     old "Save for Season 2"
-    new "Save for Season 2"
+    new "Guardar para la temporada 2"
 
     # game/code/renpy/screens/phone.rpy:88
     old "Settings{#phone_button}"
-    new "Settings{#phone_button}"
+    new "Ajustes{#phone_button}"
 
