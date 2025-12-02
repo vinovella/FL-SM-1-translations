@@ -1640,7 +1640,7 @@ translate spanish sm1cs_am007_one_hour_later_dfd6f92e:
 translate spanish sm1cs_am007_one_hour_later_42f745d8:
 
     # am "{i}Good{/i} stuff."
-    am "{i}Good{/i} stuff."
+    am "Cosas {i}buenas{/i}."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:884
 translate spanish sm1cs_am007_one_hour_later_2b35b6fe_3:
@@ -1652,7 +1652,7 @@ translate spanish sm1cs_am007_one_hour_later_2b35b6fe_3:
 translate spanish sm1cs_am007_one_hour_later_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "¿Qué?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:889
 translate spanish sm1cs_am007_one_hour_later_44644e27:
@@ -1664,7 +1664,7 @@ translate spanish sm1cs_am007_one_hour_later_44644e27:
 translate spanish sm1cs_am007_one_hour_later_99f62563:
 
     # am "I want you to play with me in the bathroom, [mcname]."
-    am "I want you to play with me in the bathroom, [mcname]."
+    am "Quiero que juegues conmigo en el baño, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:893
 translate spanish sm1cs_am007_one_hour_later_f2316b97:
@@ -1682,31 +1682,31 @@ translate spanish sm1cs_am007_one_hour_later_844a7c83:
 translate spanish sm1cs_am007_one_hour_later_cde84a9e:
 
     # mc "Why didn't you say so?"
-    mc "Why didn't you say so?"
+    mc "¿Por qué no lo dijiste antes?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:900
 translate spanish sm1cs_am007_one_hour_later_996c9c59:
 
     # am "Lord help me..."
-    am "Lord help me..."
+    am "Señor ayúdame..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:906
 translate spanish sm1cs_am007_one_hour_later_7133b732:
 
     # mc "Ooooooh. I get it."
-    mc "Ooooooh. I get it."
+    mc "Ooooooh. Ya entiendo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:907
 translate spanish sm1cs_am007_one_hour_later_b2def198:
 
     # mc "You want to turn that restroom..."
-    mc "You want to turn that restroom..."
+    mc "Quieres convertir ese baño..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:908
 translate spanish sm1cs_am007_one_hour_later_2f5ffd80:
 
     # mc "Into a sex room..."
-    mc "Into a sex room..."
+    mc "En un cuarto de sexo..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:911
 translate spanish sm1cs_am007_one_hour_later_44644e27_1:
@@ -1718,31 +1718,31 @@ translate spanish sm1cs_am007_one_hour_later_44644e27_1:
 translate spanish sm1cs_am007_one_hour_later_8da34dec:
 
     # am "Forget I said anything."
-    am "Forget I said anything."
+    am "Olvida que dije algo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:915
 translate spanish sm1cs_am007_one_hour_later_f8eeb524:
 
     # mc "Nah-uh. No take-backs."
-    mc "Nah-uh. No take-backs."
+    mc "No no. No se vale retractarse."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:918
 translate spanish sm1cs_am007_one_hour_later_7cf9a676:
 
     # am "Then hurry the fuck up before I change my mind, dummy."
-    am "Then hurry the fuck up before I change my mind, dummy."
+    am "Entonces apúrate carajo antes de que cambie de opinión, tonto."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:931
 translate spanish sm1cs_am007_one_hour_later_bfd26833:
 
     # am "Lock the door."
-    am "Lock the door."
+    am "Cierra la puerta con llave."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:934
 translate spanish sm1cs_am007_one_hour_later_45d4b8ac:
 
     # "Click"
-    "Click"
+    "Clic"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:943
 translate spanish sm1cs_am007_one_hour_later_a06a0ff5:
@@ -1754,13 +1754,13 @@ translate spanish sm1cs_am007_one_hour_later_a06a0ff5:
 translate spanish sm1cs_am007_one_hour_later_4fce0f53:
 
     # am "*moaning*"
-    am "*moaning*"
+    am "*gimiendo*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:946
 translate spanish sm1cs_am007_one_hour_later_a0b304e8:
 
     # mct "All that fucking jogging and sweating has me right on the edge."
-    mct "All that fucking jogging and sweating has me right on the edge."
+    mct "Todo ese maldito trote y sudor me tiene justo al borde."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:948
 translate spanish sm1cs_am007_one_hour_later_dc30ffd1:
@@ -1772,19 +1772,19 @@ translate spanish sm1cs_am007_one_hour_later_dc30ffd1:
 translate spanish sm1cs_am007_one_hour_later_47eec681:
 
     # am "Take off your shirt!"
-    am "Take off your shirt!"
+    am "¡Quítate la camisa!"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:962
 translate spanish sm1cs_am007_one_hour_later_d1f9307a:
 
     # am "*hungry licking*"
-    am "*hungry licking*"
+    am "*lamiendo con hambre*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:965
 translate spanish sm1cs_am007_one_hour_later_30507156:
 
     # mct "April's not wasting any time."
-    mct "April's not wasting any time."
+    mct "April no está perdiendo el tiempo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:968
 translate spanish sm1cs_am007_one_hour_later_1f2e4625:
@@ -1802,13 +1802,13 @@ translate spanish sm1cs_am007_one_hour_later_ce766102:
 translate spanish sm1cs_am007_one_hour_later_3a028a00:
 
     # mc "This is so hot, April."
-    mc "This is so hot, April."
+    mc "Esto es tan caliente, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:977
 translate spanish sm1cs_am007_one_hour_later_4cb837c7:
 
     # mct "When her switch goes off, she's a real wild thang."
-    mct "When her switch goes off, she's a real wild thang."
+    mct "Cuando se activa su interruptor, es una verdadera salvaje."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:983
 translate spanish sm1cs_am007_one_hour_later_64e42b04:
@@ -1820,55 +1820,55 @@ translate spanish sm1cs_am007_one_hour_later_64e42b04:
 translate spanish sm1cs_am007_one_hour_later_79ca4b0a:
 
     # am "You're so smelly right now."
-    am "You're so smelly right now."
+    am "Hueles tanto ahora mismo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:985
 translate spanish sm1cs_am007_one_hour_later_191073cb:
 
     # am "Like an animal..."
-    am "Like an animal..."
+    am "Como un animal..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:988
 translate spanish sm1cs_am007_one_hour_later_69c25b65:
 
     # mc "Yeah..."
-    mc "Yeah..."
+    mc "Sí..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:991
 translate spanish sm1cs_am007_one_hour_later_6cebdd07:
 
     # am "Can I... lick your armpits?"
-    am "Can I... lick your armpits?"
+    am "¿Puedo... lamer tus axilas?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:999
 translate spanish sm1cs_am007_one_hour_later_682a47fe:
 
     # mc "So long as I can do the same to you."
-    mc "So long as I can do the same to you."
+    mc "Siempre y cuando pueda hacer lo mismo contigo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1007
 translate spanish sm1cs_am007_one_hour_later_647f74a2:
 
     # mc "I'd prefer to just lick yours, April."
-    mc "I'd prefer to just lick yours, April."
+    mc "Preferiría solo lamer las tuyas, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1009
 translate spanish sm1cs_am007_one_hour_later_5660918f:
 
     # am "Okay. That's fine."
-    am "Okay. That's fine."
+    am "Está bien. No hay problema."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1017
 translate spanish sm1cs_am007_one_hour_later_013235ea:
 
     # mc "I have other things in mind, April."
-    mc "I have other things in mind, April."
+    mc "Tengo otras cosas en mente, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1020
 translate spanish sm1cs_am007_one_hour_later_14660504:
 
     # am "Okay."
-    am "Okay."
+    am "Está bien."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1026
 translate spanish sm1cs_am007_one_hour_later_e9a4d565:
@@ -1880,7 +1880,7 @@ translate spanish sm1cs_am007_one_hour_later_e9a4d565:
 translate spanish sm1cs_am007_one_hour_later_c0e5d1f3:
 
     # am "*sniffing*"
-    am "*sniffing*"
+    am "*olisqueando*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1028
 translate spanish sm1cs_am007_one_hour_later_16f570b6:
@@ -1892,37 +1892,37 @@ translate spanish sm1cs_am007_one_hour_later_16f570b6:
 translate spanish sm1cs_am007_one_hour_later_97e20b6a:
 
     # mc "My turn..."
-    mc "My turn..."
+    mc "Mi turno..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1038
 translate spanish sm1cs_am007_one_hour_later_9b6fd1b4:
 
     # am "Yes..."
-    am "Yes..."
+    am "Sí..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1039
 translate spanish sm1cs_am007_one_hour_later_3d7c9020:
 
     # am "Oh fuck."
-    am "Oh fuck."
+    am "Oh joder."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1040
 translate spanish sm1cs_am007_one_hour_later_b3745e5a:
 
     # am "Your tongue..."
-    am "Your tongue..."
+    am "Tu lengua..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1041
 translate spanish sm1cs_am007_one_hour_later_9d24ef07:
 
     # am "That's it. I like it so much."
-    am "That's it. I like it so much."
+    am "Así. Me gusta mucho."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1056
 translate spanish sm1cs_am007_one_hour_later_094f44bc:
 
     # am "*heavy breathing*"
-    am "*heavy breathing*"
+    am "*respirando pesadamente*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1061
 translate spanish sm1cs_am007_one_hour_later_e2e529bb:
@@ -1940,67 +1940,67 @@ translate spanish sm1cs_am007_one_hour_later_2295c0df:
 translate spanish sm1cs_am007_one_hour_later_096bcc92:
 
     # mc "Too much?"
-    mc "Too much?"
+    mc "¿Demasiado?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1067
 translate spanish sm1cs_am007_one_hour_later_31538b5f:
 
     # am "*sighing* Just... a little..."
-    am "*sighing* Just... a little..."
+    am "*suspirando* Solo... un poco..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1068
 translate spanish sm1cs_am007_one_hour_later_3088b4dd:
 
     # am "It's starting to feel better now."
-    am "It's starting to feel better now."
+    am "Está empezando a sentirse mejor ahora."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1073
 translate spanish sm1cs_am007_one_hour_later_1f163a4f:
 
     # am "I want to feel your cock..."
-    am "I want to feel your cock..."
+    am "Quiero sentir tu polla..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1074
 translate spanish sm1cs_am007_one_hour_later_af23ca9a:
 
     # am "Between my breasts."
-    am "Between my breasts."
+    am "Entre mis pechos."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1082
 translate spanish sm1cs_am007_one_hour_later_d32126c2:
 
     # am "It's getting so warm."
-    am "It's getting so warm."
+    am "Se está poniendo tan caliente."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1083
 translate spanish sm1cs_am007_one_hour_later_b14fe482:
 
     # am "Stroke your cock with my tits, [mcname]!"
-    am "Stroke your cock with my tits, [mcname]!"
+    am "¡Frota tu polla con mis tetas, [mcname]!"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1086
 translate spanish sm1cs_am007_one_hour_later_c4635acf:
 
     # am "I'm a bad girl. Seeing how hard I make you makes me so fucking wet!"
-    am "I'm a bad girl. Seeing how hard I make you makes me so fucking wet!"
+    am "Soy una chica mala. ¡Ver lo duro que te pongo me pone tan jodidamente mojada!"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1087
 translate spanish sm1cs_am007_one_hour_later_267a40ef:
 
     # mc "Your tits feel great, April."
-    mc "Your tits feel great, April."
+    mc "Tus tetas se sienten genial, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1090
 translate spanish sm1cs_am007_one_hour_later_cdd44701:
 
     # mc "Your whole body looks perfect for this kind of thing."
-    mc "Your whole body looks perfect for this kind of thing."
+    mc "Todo tu cuerpo se ve perfecto para este tipo de cosas."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1091
 translate spanish sm1cs_am007_one_hour_later_efcf743d:
 
     # am "*happy moaning*"
-    am "*happy moaning*"
+    am "*gimiendo feliz*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1097
 translate spanish sm1cs_am007_one_hour_later_8422de45:
@@ -2012,13 +2012,13 @@ translate spanish sm1cs_am007_one_hour_later_8422de45:
 translate spanish sm1cs_am007_one_hour_later_08dfc3d1:
 
     # am "I think I'm ready..."
-    am "I think I'm ready..."
+    am "Creo que estoy lista..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1103
 translate spanish sm1cs_am007_one_hour_later_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "¿Sí?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1104
 translate spanish sm1cs_am007_one_hour_later_a2d98c0a:
@@ -2054,31 +2054,31 @@ translate spanish sm1cs_am007_one_hour_later_eab6139b:
 translate spanish sm1cs_am007_one_hour_later_2ee33b29:
 
     # am "I want to feel it inside."
-    am "I want to feel it inside."
+    am "Quiero sentirlo adentro."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1125
 translate spanish sm1cs_am007_one_hour_later_ac370935:
 
     # mc "I didn't think you wanted our first time to be something crazy like this."
-    mc "I didn't think you wanted our first time to be something crazy like this."
+    mc "No pensé que quisieras que nuestra primera vez fuera algo loco como esto."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1128
 translate spanish sm1cs_am007_one_hour_later_0a4aa5ad:
 
     # am "I'm not allowed to be wrong some times?"
-    am "I'm not allowed to be wrong some times?"
+    am "¿No se me permite estar equivocada a veces?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1130
 translate spanish sm1cs_am007_one_hour_later_5cb4bc0c:
 
     # mc "Of course you are. I just didn't expect it."
-    mc "Of course you are. I just didn't expect it."
+    mc "Claro que sí. Solo no me lo esperaba."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1133
 translate spanish sm1cs_am007_one_hour_later_aac0bd77:
 
     # am "Are you going to fuck me or not?"
-    am "Are you going to fuck me or not?"
+    am "¿Me vas a coger o no?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1134
 translate spanish sm1cs_am007_one_hour_later_2b35b6fe_4:
@@ -2090,37 +2090,37 @@ translate spanish sm1cs_am007_one_hour_later_2b35b6fe_4:
 translate spanish sm1cs_am007_one_hour_later_5cba0b2b:
 
     # am "Seriously?"
-    am "Seriously?"
+    am "¿En serio?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1140
 translate spanish sm1cs_am007_one_hour_later_d11fa7b9:
 
     # mct "Time to activate beast mode."
-    mct "Time to activate beast mode."
+    mct "Es hora de activar el modo bestia."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1142
 translate spanish sm1cs_am007_one_hour_later_476a0226:
 
     # mc "Fuck you. I'm going to fuck you."
-    mc "Fuck you. I'm going to fuck you."
+    mc "A la mierda. Te voy a coger."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1145
 translate spanish sm1cs_am007_one_hour_later_060becd2:
 
     # am "You hesitated!"
-    am "You hesitated!"
+    am "¡Dudaste!"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1149
 translate spanish sm1cs_am007_one_hour_later_8d213f61:
 
     # mc "I was thinking of a funny story."
-    mc "I was thinking of a funny story."
+    mc "Estaba pensando en una historia graciosa."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1152
 translate spanish sm1cs_am007_one_hour_later_bc39512b:
 
     # am "Oh yeah? Tell me-"
-    am "Oh yeah? Tell me-"
+    am "¿Ah sí? Cuéntame-"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1157
 translate spanish sm1cs_am007_one_hour_later_e9a4d565_1:
@@ -2132,13 +2132,13 @@ translate spanish sm1cs_am007_one_hour_later_e9a4d565_1:
 translate spanish sm1cs_am007_one_hour_later_7afa02a8:
 
     # am "Cheater."
-    am "Cheater."
+    am "Tramposo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1163
 translate spanish sm1cs_am007_one_hour_later_96328983:
 
     # mc "Shut up and turn around."
-    mc "Shut up and turn around."
+    mc "Cállate y voltéate."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1165
 translate spanish sm1cs_am007_one_hour_later_8881f328:
@@ -2150,73 +2150,73 @@ translate spanish sm1cs_am007_one_hour_later_8881f328:
 translate spanish sm1cs_am007_one_hour_later_1c877f17:
 
     # mc "You're a bad girl, aren't you."
-    mc "You're a bad girl, aren't you."
+    mc "Eres una chica mala, ¿verdad?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1172
 translate spanish sm1cs_am007_one_hour_later_7e10ce6f:
 
     # am "I try not to be."
-    am "I try not to be."
+    am "Intento no serlo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1175
 translate spanish sm1cs_am007_one_hour_later_22dbd3e7:
 
     # mc "You kind of suck at it."
-    mc "You kind of suck at it."
+    mc "No se te da muy bien."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1179
 translate spanish sm1cs_am007_one_hour_later_f0c20ac5:
 
     # am "*light moaning* The world made me like this."
-    am "*light moaning* The world made me like this."
+    am "*gimiendo suave* El mundo me hizo así."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1181
 translate spanish sm1cs_am007_one_hour_later_7cf65b22:
 
     # mc "Then I have the world to thank."
-    mc "Then I have the world to thank."
+    mc "Entonces tengo que agradecer al mundo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1182
 translate spanish sm1cs_am007_one_hour_later_4fce0f53_1:
 
     # am "*moaning*"
-    am "*moaning*"
+    am "*gimiendo*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1183
 translate spanish sm1cs_am007_one_hour_later_b3a91b79:
 
     # am "Please don't make me wait any more, [mcname]."
-    am "Please don't make me wait any more, [mcname]."
+    am "Por favor no me hagas esperar más, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1190
 translate spanish sm1cs_am007_one_hour_later_ace625cb:
 
     # am "Oh fuck!"
-    am "Oh fuck!"
+    am "¡Oh joder!"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1191
 translate spanish sm1cs_am007_one_hour_later_f1e37513:
 
     # am "It's so big."
-    am "It's so big."
+    am "Es tan grande."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1194
 translate spanish sm1cs_am007_one_hour_later_028fe7d3:
 
     # am "Fuck... Fuck me! Fuck my pussy!"
-    am "Fuck... Fuck me! Fuck my pussy!"
+    am "Joder... ¡Cógeme! ¡Cógete mi coño!"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1195
 translate spanish sm1cs_am007_one_hour_later_907cae99:
 
     # am "I love it."
-    am "I love it."
+    am "Me encanta."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1198
 translate spanish sm1cs_am007_one_hour_later_12577720:
 
     # am "Give me every inch, [mcname]!"
-    am "Give me every inch, [mcname]!"
+    am "¡Dame cada centímetro, [mcname]!"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1199
 translate spanish sm1cs_am007_one_hour_later_3a1d4cf8:
@@ -2234,13 +2234,13 @@ translate spanish sm1cs_am007_one_hour_later_37971945:
 translate spanish sm1cs_am007_one_hour_later_b630bcda:
 
     # am "I'm getting close."
-    am "I'm getting close."
+    am "Me estoy acercando."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1204
 translate spanish sm1cs_am007_one_hour_later_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "Yo también."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1207
 translate spanish sm1cs_am007_one_hour_later_e5bb3850:
@@ -2258,7 +2258,7 @@ translate spanish sm1cs_am007_one_hour_later_dddb4ec5:
 translate spanish sm1cs_am007_one_hour_later_00172338:
 
     # am "I'm cumming."
-    am "I'm cumming."
+    am "Me vengo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1212
 translate spanish sm1cs_am007_one_hour_later_6a72c582:
@@ -2270,19 +2270,19 @@ translate spanish sm1cs_am007_one_hour_later_6a72c582:
 translate spanish sm1cs_am007_one_hour_later_6a6bc5a5:
 
     # mc "April. I'm getting close."
-    mc "April. I'm getting close."
+    mc "April. Me estoy acercando."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1216
 translate spanish sm1cs_am007_one_hour_later_c983c525:
 
     # am "Don't stop-huaah!... *moaning*"
-    am "Don't stop-huaah!... *moaning*"
+    am "No pares-huaah!... *gimiendo*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1219
 translate spanish sm1cs_am007_one_hour_later_728182d4:
 
     # am "I want it!{w} I want to feel your jizz fucking up my hole. *moans* "
-    am "I want it!{w} I want to feel your jizz fucking up my hole. *moans* "
+    am "¡Lo quiero!{w} Quiero sentir tu leche llenando mi agujero. *gime* "
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1225
 translate spanish sm1cs_am007_one_hour_later_6cd61c3f:
@@ -2294,73 +2294,73 @@ translate spanish sm1cs_am007_one_hour_later_6cd61c3f:
 translate spanish sm1cs_am007_one_hour_later_c921a7eb:
 
     # am "Mrraaah... so much cum."
-    am "Mrraaah... so much cum."
+    am "Mrraaah... tanto semen."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1234
 translate spanish sm1cs_am007_one_hour_later_687af46f:
 
     # am "You really creampied me..."
-    am "You really creampied me..."
+    am "De verdad me llenaste..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1237
 translate spanish sm1cs_am007_one_hour_later_018fe15a:
 
     # mc "Yeah. I should have asked earlier."
-    mc "Yeah. I should have asked earlier."
+    mc "Sí. Debí haber preguntado antes."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1238
 translate spanish sm1cs_am007_one_hour_later_fd7a2976:
 
     # mc "I got a little crazy there at the end."
-    mc "I got a little crazy there at the end."
+    mc "Me volví un poco loco ahí al final."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1242
 translate spanish sm1cs_am007_one_hour_later_0f730d67:
 
     # am "It's alright. I wanted to feel you cum inside me."
-    am "It's alright. I wanted to feel you cum inside me."
+    am "Está bien. Quería sentirte venirte adentro de mí."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1245
 translate spanish sm1cs_am007_one_hour_later_5dccacf9:
 
     # am "In the heat of the moment, it felt wasteful to ask you to pull out."
-    am "In the heat of the moment, it felt wasteful to ask you to pull out."
+    am "En el calor del momento, parecía un desperdicio pedirte que te salieras."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1248
 translate spanish sm1cs_am007_one_hour_later_27eb4581:
 
     # mc "So you enjoy a good creampie?"
-    mc "So you enjoy a good creampie?"
+    mc "¿Entonces disfrutas de un buen creampie?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1252
 translate spanish sm1cs_am007_one_hour_later_b10fa58c:
 
     # am "I guess so."
-    am "I guess so."
+    am "Supongo que sí."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1253
 translate spanish sm1cs_am007_one_hour_later_ac7acec1:
 
     # am "There is something so... animalistic about a man spilling his load inside a woman..."
-    am "There is something so... animalistic about a man spilling his load inside a woman..."
+    am "Hay algo tan... animal en un hombre derramando su carga dentro de una mujer..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1254
 translate spanish sm1cs_am007_one_hour_later_7a028b29:
 
     # am "I really wanted to try it."
-    am "I really wanted to try it."
+    am "Realmente quería probarlo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1257
 translate spanish sm1cs_am007_one_hour_later_646a2746:
 
     # mc "Happy to help."
-    mc "Happy to help."
+    mc "Encantado de ayudar."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1258
 translate spanish sm1cs_am007_one_hour_later_89663c6e:
 
     # mc "We should try to clean up a little and get our clothes back on."
-    mc "We should try to clean up a little and get our clothes back on."
+    mc "Deberíamos tratar de limpiarnos un poco y volver a ponernos la ropa."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1263
 translate spanish sm1cs_am007_one_hour_later_a2d98c0a_1:
@@ -2372,151 +2372,151 @@ translate spanish sm1cs_am007_one_hour_later_a2d98c0a_1:
 translate spanish sm1cs_am007_one_hour_later_668ca335:
 
     # am "Thank you for that, [mcname]."
-    am "Thank you for that, [mcname]."
+    am "Gracias por eso, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1277
 translate spanish sm1cs_am007_one_hour_later_f56d580a:
 
     # am "I still have some shit to figure out with my band and work."
-    am "I still have some shit to figure out with my band and work."
+    am "Todavía tengo algunas cosas que resolver con mi banda y el trabajo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1278
 translate spanish sm1cs_am007_one_hour_later_fe91ed4c:
 
     # am "But at least I got an extra {b}load{/b} of endorphins to help keep my head on straight."
-    am "But at least I got an extra {b}load{/b} of endorphins to help keep my head on straight."
+    am "Pero al menos obtuve una {b}carga{/b} extra de endorfinas para ayudarme a mantener la cabeza en su lugar."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1281
 translate spanish sm1cs_am007_one_hour_later_a5faeaa2:
 
     # mc "Yeah but... you know we're doing more than just hooking up, April."
-    mc "Yeah but... you know we're doing more than just hooking up, April."
+    mc "Sí pero... sabes que estamos haciendo más que solo acostarnos, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1284
 translate spanish sm1cs_am007_one_hour_later_a9c0e1eb:
 
     # am "I know. Which makes you a pretty good boyfriend."
-    am "I know. Which makes you a pretty good boyfriend."
+    am "Lo sé. Lo cual te hace un novio bastante bueno."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1285
 translate spanish sm1cs_am007_one_hour_later_2f92365c:
 
     # am "Helping to fuck his girlfriend nice and hard when she's struggling."
-    am "Helping to fuck his girlfriend nice and hard when she's struggling."
+    am "Ayudando a coger a su novia bien y duro cuando está pasándola mal."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1286
 translate spanish sm1cs_am007_one_hour_later_b4a41fd4:
 
     # am "I like...{w} I really like you, [mcname]."
-    am "I like...{w} I really like you, [mcname]."
+    am "Me gustas...{w} De verdad me gustas, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1287
 translate spanish sm1cs_am007_one_hour_later_bafeb2c1:
 
     # am "You understand me, and you know how to put up with my quirks."
-    am "You understand me, and you know how to put up with my quirks."
+    am "Me entiendes, y sabes cómo lidiar con mis rarezas."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1290
 translate spanish sm1cs_am007_one_hour_later_b845c299:
 
     # mc "I like you too, April."
-    mc "I like you too, April."
+    mc "Tú también me gustas, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1291
 translate spanish sm1cs_am007_one_hour_later_34ab3758:
 
     # mc "I never imagined I'd meet someone like you when I came to Orbix."
-    mc "I never imagined I'd meet someone like you when I came to Orbix."
+    mc "Nunca imaginé que conocería a alguien como tú cuando vine a Orbix."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1292
 translate spanish sm1cs_am007_one_hour_later_826d8536:
 
     # mc "I thought I was just going to meet people like I met at the-"
-    mc "I thought I was just going to meet people like I met at the-"
+    mc "Pensé que solo iba a conocer gente como conocí en el-"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1295
 translate spanish sm1cs_am007_one_hour_later_dbc9c5b2:
 
     # mct "Oh shit."
-    mct "Oh shit."
+    mct "Oh mierda."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1296
 translate spanish sm1cs_am007_one_hour_later_5dc869e4:
 
     # mct "This is why I should stop talking after sex."
-    mct "This is why I should stop talking after sex."
+    mct "Por esto debería dejar de hablar después del sexo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1298
 translate spanish sm1cs_am007_one_hour_later_3eb067d9:
 
     # mct "Nothing good ever comes out of pillow talk."
-    mct "Nothing good ever comes out of pillow talk."
+    mct "Nunca sale nada bueno de las charlas de almohada."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1301
 translate spanish sm1cs_am007_one_hour_later_7d6cfb4e:
 
     # am "People you met where?"
-    am "People you met where?"
+    am "¿Gente que conociste dónde?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1304
 translate spanish sm1cs_am007_one_hour_later_09eb76ba:
 
     # mc "Oh like. People I met in computer classes during college."
-    mc "Oh like. People I met in computer classes during college."
+    mc "Oh como. Gente que conocí en clases de computación durante la universidad."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1305
 translate spanish sm1cs_am007_one_hour_later_03e19c14:
 
     # mc "You're unlike any of them. {w} One of a kind."
-    mc "You're unlike any of them. {w} One of a kind."
+    mc "No te pareces a ninguno de ellos. {w} Única en tu clase."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1308
 translate spanish sm1cs_am007_one_hour_later_a0c0da6f:
 
     # am "Well, You don't need to feed my ego too much."
-    am "Well, You don't need to feed my ego too much."
+    am "Bueno, no necesitas alimentar mi ego demasiado."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1309
 translate spanish sm1cs_am007_one_hour_later_007199ad:
 
     # am "I'm still floating on cloud nine after you filled me up."
-    am "I'm still floating on cloud nine after you filled me up."
+    am "Todavía estoy en las nubes después de que me llenaste."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1311
 translate spanish sm1cs_am007_one_hour_later_89e61160:
 
     # am "*giggles*"
-    am "*giggles*"
+    am "*risitas*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1314
 translate spanish sm1cs_am007_one_hour_later_4fc13bf5:
 
     # am "I need to get going."
-    am "I need to get going."
+    am "Necesito irme."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1315
 translate spanish sm1cs_am007_one_hour_later_f6732eb5:
 
     # am "I should make up some of the work I didn't do because of the call with Pepper and Mitch."
-    am "I should make up some of the work I didn't do because of the call with Pepper and Mitch."
+    am "Debería recuperar algo del trabajo que no hice por la llamada con Pepper y Mitch."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1320
 translate spanish sm1cs_am007_one_hour_later_5d8fc6e7:
 
     # mc "Good plan."
-    mc "Good plan."
+    mc "Buen plan."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1325
 translate spanish sm1cs_am007_one_hour_later_bfc6451b:
 
     # am "*happy humming*"
-    am "*happy humming*"
+    am "*tarareando feliz*"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1332
 translate spanish sm1cs_am007_one_hour_later_80ff4ce8:
 
     # am "I'll talk to you later, [mcname]."
-    am "I'll talk to you later, [mcname]."
+    am "Hablamos luego, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1335
 translate spanish sm1cs_am007_one_hour_later_8f353817:
@@ -2528,193 +2528,193 @@ translate spanish sm1cs_am007_one_hour_later_8f353817:
 translate spanish sm1cs_am007_one_hour_later_928b0ded:
 
     # mct "Shit."
-    mct "Shit."
+    mct "Mierda."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1340
 translate spanish sm1cs_am007_one_hour_later_655bb713:
 
     # mct "I shouldn't have lied to April."
-    mct "I shouldn't have lied to April."
+    mct "No debería haberle mentido a April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1344
 translate spanish sm1cs_am007_one_hour_later_0c987c56:
 
     # mct "But this wasn't the right time."
-    mct "But this wasn't the right time."
+    mct "Pero este no era el momento adecuado."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1347
 translate spanish sm1cs_am007_one_hour_later_ead4ac04:
 
     # mct "Yeah. That's it..."
-    mct "Yeah. That's it..."
+    mct "Sí. Eso es..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1348
 translate spanish sm1cs_am007_one_hour_later_2e7e88fb:
 
     # mct "I'll tell her in due time."
-    mct "I'll tell her in due time."
+    mct "Se lo diré a su debido tiempo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1349
 translate spanish sm1cs_am007_one_hour_later_76afc299:
 
     # mct "It will be fine.{w} I {b}know{/b} April will understand..."
-    mct "It will be fine.{w} I {b}know{/b} April will understand..."
+    mct "Estará bien.{w} {b}Sé{/b} que April entenderá..."
 
 translate spanish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:57
     old "Five minutes later"
-    new "Five minutes later"
+    new "Cinco minutos después"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
     old "You'll figure it out"
-    new "You'll figure it out"
+    new "Lo resolverás"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
     old "I have heard of the general concept"
-    new "I have heard of the general concept"
+    new "He oído del concepto general"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
     old "Pretty good. I pretty much walk or jog everywhere"
-    new "Pretty good. I pretty much walk or jog everywhere"
+    new "Bastante bueno. Prácticamente camino o troto a todos lados"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:314
     old "You're sweet"
-    new "You're sweet"
+    new "Eres dulce"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:314
     old "I'm confused"
-    new "I'm confused"
+    new "Estoy confundido"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:314
     old "Maybe just don't eat so much"
-    new "Maybe just don't eat so much"
+    new "Quizás simplemente no comas tanto"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:364
     old "I am so sorry"
-    new "I am so sorry"
+    new "Lo siento mucho"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:364
     old "I regret nothing"
-    new "I regret nothing"
+    new "No me arrepiento de nada"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:516
     old "I need a glass of milk"
-    new "I need a glass of milk"
+    new "Necesito un vaso de leche"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:516
     old "I was born ready"
-    new "I was born ready"
+    new "Nací listo"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:516
     old "Shouldn't you stretch first?"
-    new "Shouldn't you stretch first?"
+    new "¿No deberías estirar primero?"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:516
     old "Why don't you wear more stuff like that?"
-    new "Why don't you wear more stuff like that?"
+    new "¿Por qué no usas más ropa así?"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:583
     old "Too late"
-    new "Too late"
+    new "Demasiado tarde"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:583
     old "Of course"
-    new "Of course"
+    new "Por supuesto"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:628
     old "An hour later"
-    new "An hour later"
+    new "Una hora después"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:711
     old "One hour of torture later"
-    new "One hour of torture later"
+    new "Una hora de tortura después"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:816
     old "You're between a rock and a hard place"
-    new "You're between a rock and a hard place"
+    new "Estás entre la espada y la pared"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:816
     old "I don't know what to say"
-    new "I don't know what to say"
+    new "No sé qué decir"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:869
     old "Do you have some sixth sense?"
-    new "Do you have some sixth sense?"
+    new "¿Tienes algún sexto sentido?"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:869
     old "Oh. I get it"
-    new "Oh. I get it"
+    new "Oh. Ya entiendo"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:992
     old "So long as I can lick yours"
-    new "So long as I can lick yours"
+    new "Siempre y cuando pueda lamer las tuyas"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:992
     old "I'd prefer to just lick yours"
-    new "I'd prefer to just lick yours"
+    new "Preferiría solo lamer las tuyas"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:992
     old "I'd like to do other things to you"
-    new "I'd like to do other things to you"
+    new "Me gustaría hacerte otras cosas"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:46
 translate spanish sm1cs_am007_ed615167:
 
     # mct "I wonder what the call is about.{w} Seemed important."
-    mct "I wonder what the call is about.{w} Seemed important."
+    mct "Me pregunto de qué será la llamada.{w} Parecía importante."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:114
 translate spanish sm1cs_am007_44f8eb4e:
 
     # ps "We should have listened better and we should accept that sometimes you're going to miss practice."
-    ps "We should have listened better and we should accept that sometimes you're going to miss practice."
+    ps "Deberíamos haber escuchado mejor y debemos aceptar que a veces vas a faltar a los ensayos."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:212
 translate spanish sm1cs_am007_c4c994b5:
 
     # am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
-    am "I work in tech.{w} Every day is a shit sandwich for breakfast and an anxiety cocktail for lunch."
+    am "Trabajo en tecnología.{w} Cada día es un sándwich de mierda para el desayuno y un cóctel de ansiedad para el almuerzo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:213
 translate spanish sm1cs_am007_45358e8c:
 
     # am "And this week has been order on the double-shit sandwich."
-    am "And this week has been order on the double-shit sandwich."
+    am "Y esta semana ha sido una orden del sándwich de doble mierda."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:525
 translate spanish sm1cs_am007_20_minutes_later_01c49227:
 
     # mc "I have a sudden thirst for a big glass of milk."
-    mc "I have a sudden thirst for a big glass of milk."
+    mc "De repente tengo sed de un gran vaso de leche."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:528
 translate spanish sm1cs_am007_20_minutes_later_7368538e:
 
     # am "You're here to run.{w} Not ogle my tits."
-    am "You're here to run.{w} Not ogle my tits."
+    am "Estás aquí para correr.{w} No para mirar mis tetas."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1250
 translate spanish sm1cs_am007_one_hour_later_36b9f516:
 
     # mc "Anyone standing near this building might have heard us."
-    mc "Anyone standing near this building might have heard us."
+    mc "Cualquiera que estuviera cerca de este edificio podría habernos escuchado."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1288
 translate spanish sm1cs_am007_one_hour_later_6d10752d:
 
     # mct "I almost said \"at Fetish Locator parties\"."
-    mct "I almost said \"at Fetish Locator parties\"."
+    mct "Casi dije \"en las fiestas de Fetish Locator\"."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1336
 translate spanish sm1cs_am007_one_hour_later_620b174c:
 
     # mct "It's a bit screwed up. I shouldn't get involved with anyone without telling them why I came to Orbix in the first place."
-    mct "It's a bit screwed up. I shouldn't get involved with anyone without telling them why I came to Orbix in the first place."
+    mct "Está un poco jodido. No debería involucrarme con nadie sin decirles por qué vine a Orbix en primer lugar."
 
 translate spanish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
     old "Surprised it's taking you this long"
-    new "Surprised it's taking you this long"
+    new "Me sorprende que te esté tomando tanto tiempo"
 
