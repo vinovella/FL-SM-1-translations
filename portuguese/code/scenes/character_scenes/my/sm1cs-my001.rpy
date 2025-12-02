@@ -1344,11 +1344,11 @@ translate portuguese sm1cs_my001_837a40da:
 translate portuguese sm1cs_my001_27ef328b:
 
     # "Waiter" "Both wonderful choices, sir."
-    "Waiter" "Both wonderful choices, sir."
+    "Waiter" "Ótimas escolhas, senhor."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:346
 translate portuguese sm1cs_my001_b4bd7f1c:
 
     # my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
-    my "They erase the personality so you can fill it with whatever you can fit into a suitcase."
+    my "Eles apagam a personalidade para você preencher com o que couber na sua mala.""
 
