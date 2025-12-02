@@ -103,5 +103,5 @@ translate french strings:
 
     # game/code/scenes/main_story/sm1ms026i.rpy:125
     old "Choose Sci-Fi Movie ([message!t])"
-    new "Choose Sci-Fi Movie ([message!t])"
+    new "Choisir le film de science-fiction ([message!t])"
 

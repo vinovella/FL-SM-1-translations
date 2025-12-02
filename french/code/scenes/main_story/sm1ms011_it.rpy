@@ -496,23 +496,23 @@ translate french strings:
 translate french sm1ms011_it_039d17e4:
 
     # sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
-    sy "Okay, fair enough. Speaking of the company, you haven't told me much about the people there."
+    sy "D'accord, c'est juste. En parlant de l'entreprise, tu ne m'as pas dit grand-chose sur les gens là-bas."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:113
 translate french sm1fs_i011_it_talk_ns_ac838888:
 
     # mc "This girl Nari Song is pretty cute."
-    mc "This girl Nari Song is pretty cute."
+    mc "Cette fille, Nari Song, est plutôt mignonne."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:212
 translate french sm1fs_i011_it_talk_am_09c55492:
 
     # mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
-    mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
+    mc "Peut-être. Si elle a déjà été associée à d'autres personnes et que ça n'a pas marché, peut-être qu'elle en a marre de gérer des débutants."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:215
 translate french sm1fs_i011_it_talk_am_36deca91:
 
     # sy "Hmmmph. That's no excuse to be rude to you or the new girl."
-    sy "Hmmmph. That's no excuse to be rude to you or the new girl."
+    sy "Hmmmph. Ce n'est pas une excuse pour être impolie avec toi ou la nouvelle."
 

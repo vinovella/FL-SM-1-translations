@@ -146,7 +146,7 @@ translate french sm1cs_am008_continue_e5387253:
 translate french sm1cs_am008_continue_83329cfa:
 
     # "Waiter" "Very good sir. I shall return to check on your glasses in a moment."
-    "Waiter" "Très bien, monsieur. Je reviendrai vérifier vos verres dans un instant."
+    "Serveur" "Très bien, monsieur. Je reviendrai vérifier vos verres dans un instant."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:111
 translate french sm1cs_am008_continue_f8c4c766:
@@ -986,7 +986,7 @@ translate french sm1cs_am008_continue_08dcc02a:
 translate french sm1cs_am008_continue_820cd5c4:
 
     # "Waiter" "Of course, madam."
-    "Waiter" "Bien sûr, madame."
+    "Serveur" "Bien sûr, madame."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:522
 translate french sm1cs_am008_continue_7ff1764f:

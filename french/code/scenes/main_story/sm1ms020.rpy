@@ -260,7 +260,7 @@ translate french sm1ms020_9a2324a6:
 translate french sm1ms020_6278d0c6:
 
     # "Bartender" "What can I get you?"
-    "Bartender" "Que puis-je vous servir ?"
+    "Barman" "Que puis-je vous servir ?"
 
 # game/code/scenes/main_story/sm1ms020.rpy:153
 translate french sm1ms020_19780611:
@@ -284,7 +284,7 @@ translate french sm1ms020_deea79cc:
 translate french sm1ms020_95a3bb15:
 
     # "Bartender" "Coming right up."
-    "Bartender" "Ça arrive tout de suite."
+    "Barman" "Ça arrive tout de suite."
 
 # game/code/scenes/main_story/sm1ms020.rpy:166
 translate french sm1ms020_0ca1377f:
@@ -1308,5 +1308,5 @@ translate french strings:
 translate french sm1ms020_ef441d96:
 
     # my "Oh! You brought us to Guns and Rosette!"
-    my "Oh! You brought us to Guns and Rosette!"
+    my "Oh ! Tu nous as emmenés au Guns and Rosette !"
 

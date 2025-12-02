@@ -968,11 +968,11 @@ translate french strings:
 translate french sm1cs_ns004_fc4dfef5:
 
     # ns "I would consider that outcome as very high risk, low chance."
-    ns "I would consider that outcome as very high risk, low chance."
+    ns "Je considérerais ce résultat comme très risqué, avec peu de chances."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:397
 translate french sm1cs_ns004_end_talk_36d68c75:
 
     # mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
-    mc "I'm really glad to hear that. But I'm sure you'll meet more people who are just as good as me."
+    mc "Je suis vraiment content d'entendre ça. Mais je suis sûr que tu rencontreras d'autres personnes aussi bien que moi."
 

@@ -586,17 +586,17 @@ translate french sm1ms004_fcf11b81:
 translate french sm1ms004_6ca11396:
 
     # arj "Never mind. It doesn't matter."
-    arj "Never mind. It doesn't matter."
+    arj "Laisse tomber. Ça n'a pas d'importance."
 
 # game/code/scenes/main_story/sm1ms004.rpy:171
 translate french sm1ms004_b80a46ec:
 
     # mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
-    mc "You probably want to sugarcoat that if you tell Stacy. She's very optimistic about all this and I don't want her to lose that."
+    mc "Tu devrais sans doute édulcorer ça si tu le dis à Stacy. Elle est très optimiste sur tout ça et je ne veux pas qu'elle perde ça."
 
 # game/code/scenes/main_story/sm1ms004.rpy:266
 translate french sm1ms004_738d94cc:
 
     # mct "Maybe this isn't completely fucked after all."
-    mct "Maybe this isn't completely fucked after all."
+    mct "Peut-être que tout n'est pas complètement foutu finalement."
 

@@ -830,7 +830,7 @@ translate french sm1ms016_b66f79f2:
 translate french sm1ms016_a2ebb134:
 
     # mc "Bye Melony."
-    mc "Bye Melony."
+    mc "Salut Melony."
 
 # game/code/scenes/main_story/sm1ms016.rpy:419
 translate french sm1ms016_c261a6d5:

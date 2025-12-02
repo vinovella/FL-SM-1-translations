@@ -248,5 +248,5 @@ translate french strings:
 translate french sm1ms002_4f8bfe43:
 
     # mc "I haven't started cutting myself yet."
-    mc "I haven't started cutting myself yet."
+    mc "Je n'ai pas encore commencé à me scarifier."
 

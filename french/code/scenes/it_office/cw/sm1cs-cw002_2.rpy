@@ -20,7 +20,7 @@ translate french sm1cs_cw002_2_8f44afd7:
 translate french sm1cs_cw002_2_ec794ee8:
 
     # "Man" "So this must be the tardy boyfriend."
-    "Man" "Alors voici donc le petit ami en retard."
+    "Homme" "Alors voici donc le petit ami en retard."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:29
 translate french sm1cs_cw002_2_18f87bdf:
@@ -242,7 +242,7 @@ translate french sm1cs_cw002_2_563bda8e:
 translate french sm1cs_cw002_2_bb4f31ff:
 
     # "Waiter" "Right away, Mr. Watts."
-    "Waiter" "Tout de suite, M. Watts."
+    "Serveur" "Tout de suite, M. Watts."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:145
 translate french sm1cs_cw002_2_710fdda6:
@@ -392,7 +392,7 @@ translate french sm1cs_cw002_2_d5597e07:
 translate french sm1cs_cw002_2_72986c19:
 
     # "Both" "Yup."
-    "Both" "Ouais."
+    "Les deux" "Ouais."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:209
 translate french sm1cs_cw002_2_4d48bfa5:

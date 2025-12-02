@@ -434,7 +434,7 @@ translate french sm1ms014_ff2403ce:
 translate french sm1ms014_20b6bd56:
 
     # "Delivery Guy" "Where do you want this stuff?"
-    "Delivery Guy" "Où voulez-vous que je mette tout ça ?"
+    "Livreur" "Où voulez-vous que je mette tout ça ?"
 
 # game/code/scenes/main_story/sm1ms014.rpy:224
 translate french sm1ms014_f827c469:
@@ -446,7 +446,7 @@ translate french sm1ms014_f827c469:
 translate french sm1ms014_02d8c14f:
 
     # "Delivery Guy" "Okaaaay..."
-    "Delivery Guy" "Okaaaay…"
+    "Livreur" "Okaaaay…"
 
 # game/code/scenes/main_story/sm1ms014.rpy:230
 translate french sm1ms014_565ef331:

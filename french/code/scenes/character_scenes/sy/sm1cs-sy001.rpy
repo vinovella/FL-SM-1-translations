@@ -764,5 +764,5 @@ translate french strings:
 translate french sm1cs_sy001_watersports_962bd759:
 
     # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
-    sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
+    sy "Hmm hmm. T'inquiète pas pour moi, je vais juste rester là à profiter de l'extase post-orgasmique et penser à tous ces trucs cochons pendant un moment."
 

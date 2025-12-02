@@ -1976,47 +1976,47 @@ translate french strings:
 translate french sm1cs_ns007_resturant_0eecd966:
 
     # ns "I disagree. I've told you many things I like."
-    ns "I disagree. I've told you many things I like."
+    ns "Je ne suis pas d'accord. Je t'ai dit plein de choses que j'aime."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:602
 translate french sm1cs_ns007_light_house_eb237d93:
 
     # ns "I feel... comfortable... with you."
-    ns "I feel... comfortable... with you."
+    ns "Je me sens... à l'aise... avec toi."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:706
 translate french sm1cs_ns007_light_house_0c97487e:
 
     # ns "*excited but stifled moaning*"
-    ns "*excited but stifled moaning*"
+    ns "*gémissements excités mais étouffés*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:823
 translate french sm1cs_ns007_light_house_5d826925:
 
     # ns "*moaning. I love... hearing that... ooouhah...*"
-    ns "*moaning. I love... hearing that... ooouhah...*"
+    ns "*gémissements. J'adore... entendre ça... ooouhah...*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:908
 translate french sm1cs_ns007_light_house_81160ea0:
 
     # ns "*whispers* It's just like the hentai."
-    ns "*whispers* It's just like the hentai."
+    ns "*murmure* C'est exactement comme dans les hentai."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:939
 translate french sm1cs_ns007_light_house_4e72d60e:
 
     # ns "Yes. Thank you, [mcname]."
-    ns "Yes. Thank you, [mcname]."
+    ns "Oui. Merci, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1033
 translate french sm1cs_ns007_walkaway_9dae56c9:
 
     # ns "Hmm... considering the food, conversation, company and the amount of times I came..."
-    ns "Hmm... considering the food, conversation, company and the amount of times I came..."
+    ns "Hmm... en considérant la nourriture, la conversation, la compagnie et le nombre de fois que j'ai joui..."
 
 translate french strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:439
     old "The people close to me are happy about it"
-    new "The people close to me are happy about it"
+    new "Les gens proches de moi sont contents"
 

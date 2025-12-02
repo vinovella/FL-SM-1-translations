@@ -332,7 +332,7 @@ translate french sm1fs_i005_0dc59e92:
 translate french sm1fs_i005_ad9576f1:
 
     # "Actor 1" "Yeah take that bitch."
-    "Actor 1" "Ouais, prends ça, salope."
+    "Acteur 1" "Ouais, prends ça, salope."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:201
 translate french sm1fs_i005_bc285175:
@@ -380,7 +380,7 @@ translate french sm1fs_i005_cb4f01ae:
 translate french sm1fs_i005_fd1ebc41:
 
     # "Actor 1" "Yeah. Kiss it.{w} Suck on those balls."
-    "Actor 1" "Ouais. Embrasse-le.{w} Suce-moi ces couilles."
+    "Acteur 1" "Ouais. Embrasse-le.{w} Suce-moi ces couilles."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:225
 translate french sm1fs_i005_27e54841:

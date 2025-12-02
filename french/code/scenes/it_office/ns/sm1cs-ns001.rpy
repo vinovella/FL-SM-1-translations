@@ -588,17 +588,17 @@ translate french strings:
 translate french sm1cs_ns001_1c682e14:
 
     # ag "Of course. The office has its own cafeteria."
-    ag "Of course. The office has its own cafeteria."
+    ag "Bien sûr. Le bureau a sa propre cafétéria."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:194
 translate french sm1cs_ns001_continue_e2b53835:
 
     # mct "He shoots."
-    mct "He shoots."
+    mct "Il tire."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:251
 translate french sm1cs_ns001_continue_aa4b7c7c:
 
     # ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
-    ns "Later on, I realized she must have been really impressed by my work because she asked me if I wanted a Soda."
+    ns "Plus tard, j'ai réalisé qu'elle devait être vraiment impressionnée par mon travail parce qu'elle m'a demandé si je voulais un soda."
 
