@@ -1282,11 +1282,11 @@ translate turkish sm1cs_mes005_4a089a68:
 translate turkish sm1cs_mes005_fb570c11:
 
     # mc "Pay your bill and let's go meet Kanya."
-    mc "Pay your bill and let's go meet Kanya."
+    mc "Hesabını öde ve hadi Kanya ile buluşmaya gidelim."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:450
 translate turkish sm1cs_mes005_f66d5621:
 
     # kv "Alrighty, let's keep things nice and loose."
-    kv "Alrighty, let's keep things nice and loose."
+    kv "Tamam, her şeyi rahat ve gevşek tutalım."
 

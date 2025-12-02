@@ -422,7 +422,7 @@ translate turkish sm1cs_dc009_30602c3d:
 translate turkish sm1cs_dc009_107fecd1:
 
     # dc "*gulp*{w} Wow... it's..."
-    dc "*gulp*{w} Wow... it's..."
+    dc "*yutkunma*{w} Vay... bu..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:161
 translate turkish sm1cs_dc009_5ad8b086:

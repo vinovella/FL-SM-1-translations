@@ -2316,35 +2316,35 @@ translate turkish sm1cs_mh008_f927037e:
 translate turkish sm1cs_mh008_034e2023:
 
     # mc "Yeah! We wanted to be able to use the studio as, well, a studio."
-    mc "Yeah! We wanted to be able to use the studio as, well, a studio."
+    mc "Evet! Stüdyoyu, şey, stüdyo olarak kullanabilmek istedik."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:288
 translate turkish sm1cs_mh008_carnival_57b30d8d:
 
     # mh "As a kid, I just knew that we would come to the circus because we had free tickets, and..."
-    mh "As a kid, I just knew that we would come to the circus because we had free tickets, and..."
+    mh "Çocukken, sadece bedava biletlerimiz olduğu için sirke geleceğimizi biliyordum ve..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:430
 translate turkish sm1cs_mh008_date_28d03d83:
 
     # mh "Yeah. It's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
-    mh "Yeah. It's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
+    mh "Evet. Garip bir hikaye, ama kısaca - Bay Roosevelt bağlı bir ayıyı vurmayı reddetti, sonra biri bunun politik bir karikatürünü yaptı."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:785
 translate turkish sm1cs_mh008_couple_carousel_end_83caa5fe:
 
     # mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
-    mc "Hey, when you say \"phenomenal\" and \"kiss\", I have to give you the maximum effort kiss, right?"
+    mc "Hey, \"olağanüstü\" ve \"öpücük\" dediğinde, sana maksimum çaba öpücüğü vermem gerekiyor, değil mi?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
 translate turkish sm1cs_mh008_throuple_carousel_77fca0f2:
 
     # sy "Growing up. Our families never really went to the carvnial."
-    sy "Growing up. Our families never really went to the carvnial."
+    sy "Büyürken. Ailelerimiz hiç lunaparka gitmedi."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280
 translate turkish sm1cs_mh008_throuple_carousel_end_b4912f4b:
 
     # mh "Yeah, something like this, [mcname]."
-    mh "Yeah, something like this, [mcname]."
+    mh "Evet, böyle bir şey, [mcname]."
 

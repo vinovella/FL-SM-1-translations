@@ -1682,11 +1682,11 @@ translate turkish strings:
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
     old "Wurst Delivery tip"
-    new "Wurst Delivery tip"
+    new "Wurst Teslimatı bahşişi"
 
     # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:987
     old "You got a $[amount] as your cut of the tip"
-    new "You got a $[amount] as your cut of the tip"
+    new "Bahşişten payınız olarak $[amount] aldınız"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:710
 translate turkish sm1cs_mas003_third_delivery_fedc52e9:
@@ -1698,23 +1698,23 @@ translate turkish sm1cs_mas003_third_delivery_fedc52e9:
 translate turkish sm1cs_mas003_second_delivery_e42e9cc6:
 
     # mc "\"She could be the Slobber Atractor.\""
-    mc "\"She could be the Slobber Atractor.\""
+    mc "\"Salya Çekici olabilir.\""
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:756
 translate turkish sm1cs_mas003_third_delivery_b52e61ff:
 
     # lg "I've already seen Olivia's and Kennedy's girls."
-    lg "I've already seen Olivia's and Kennedy's girls."
+    lg "Olivia'nın ve Kennedy'nin kızlarını zaten gördüm."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:765
 translate turkish sm1cs_mas003_third_delivery_c1710beb:
 
     # mct "No way Maya goes for this."
-    mct "No way Maya goes for this."
+    mct "Maya buna asla katılmaz."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:787
 translate turkish sm1cs_mas003_third_delivery_a9e1c1c0:
 
     # "Kennedy, Lauren and Olivia" "*cheer wildly*"
-    "Kennedy, Lauren and Olivia" "*cheer wildly*"
+    "Kennedy, Lauren ve Olivia" "*çılgınca tezahürat*"
 

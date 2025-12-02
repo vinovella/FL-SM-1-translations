@@ -1742,13 +1742,13 @@ translate turkish sm1cs_mes_r1_continue_2_3151895e:
 translate turkish sm1cs_mes_r1_watersports_3108adbd:
 
     # mes "I need your piss all over me. Make me your dirty little piss slut."
-    mes "I need your piss all over me. Make me your dirty little piss slut."
+    mes "Çişinin üzerime akmasına ihtiyacım var. Beni senin pis küçük çiş sürtüğün yap."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:1194
 translate turkish sm1cs_mes_r1_end_3c9bdbc5:
 
     # mes "I'm glad I came back from Korea. This...us...{w} Being together."
-    mes "I'm glad I came back from Korea. This...us...{w} Being together."
+    mes "Kore'den döndüğüme memnunum. Bu...biz...{w} Birlikte olmak."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:102
 translate turkish sm1cs_mes_r1_initiator_0e8ab82c:

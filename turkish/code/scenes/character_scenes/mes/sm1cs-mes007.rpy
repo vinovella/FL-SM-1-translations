@@ -158,7 +158,7 @@ translate turkish sm1cs_mes007_47a5a88e:
 translate turkish sm1cs_mes007_5f71acf7:
 
     # mc "*grunting*"
-    mc "*grunting*"
+    mc "*homurtu*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:139
 translate turkish sm1cs_mes007_d2075594:
@@ -1216,37 +1216,37 @@ translate turkish strings:
 translate turkish sm1cs_mes007_5a9df7e5:
 
     # mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
-    mes "And you lugging the big stuff saves me the trouble of building an elaborate pulley and winch system that might damage the studio."
+    mes "Ve senin büyük şeyleri taşıman, stüdyoya zarar verebilecek karmaşık bir kasnak ve vinç sistemi kurma zahmetinden beni kurtarıyor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:265
 translate turkish sm1cs_mes007_2c65153e:
 
     # mes "This is your home, but this is going to be my home within your home."
-    mes "This is your home, but this is going to be my home within your home."
+    mes "Burası senin evin, ama burası senin evinin içinde benim evim olacak."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:437
 translate turkish sm1cs_mes007_continue_e174a810:
 
     # mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
-    mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
+    mc "Takdir ediyorum, Min. Ama külotlar hakkında en sevdiğim şey onları senden çıkarmak."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:529
 translate turkish sm1cs_mes007_continue_b07f733a:
 
     # mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
-    mc "Knock yourself out. Just don't be surprised to feel a sudden pressure pushing against your pussy."
+    mc "İstediğini yap. Sadece amına doğru ani bir baskı hissettiğinde şaşırma."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:610
 translate turkish sm1cs_mes007_continue_7b7099ec:
 
     # mes "Imprint the shape of your cock against my womb."
-    mes "Imprint the shape of your cock against my womb."
+    mes "Sikinin şeklini rahmime işle."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:656
 translate turkish sm1cs_mes007_continue_fc117b28:
 
     # mes "You're grinding me down!"
-    mes "You're grinding me down!"
+    mes "Beni eziyorsun!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:725
 translate turkish sm1cs_mes007_continue_a0e12b14:
@@ -1258,5 +1258,5 @@ translate turkish sm1cs_mes007_continue_a0e12b14:
 translate turkish sm1cs_mes007_continue_d0c62791:
 
     # mes "I like your spunky attitude."
-    mes "I like your spunky attitude."
+    mes "Ateşli tavrını seviyorum."
 

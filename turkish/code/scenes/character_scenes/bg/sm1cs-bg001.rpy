@@ -1104,7 +1104,7 @@ translate turkish strings:
 translate turkish sm1cs_bg001_01872126:
 
     # "BDSM Model" "Oh that's... A good point. Uhm, you can call me...{w} Amore."
-    "BDSM Model" "Oh bu... İyi bir nokta. Uhm, bana...{w} Amore diyebilirsin."
+    "BDSM Modeli" "Oh bu... İyi bir nokta. Uhm, bana...{w} Amore diyebilirsin."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:167
 translate turkish sm1cs_bg001_f21ffe59:

@@ -56,7 +56,7 @@ translate turkish sm1cs_bg005_590002d9:
 translate turkish sm1cs_bg005_8e9aad0e:
 
     # "*click*"
-    "*click*"
+    "*tık*"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:37
 translate turkish sm1cs_bg005_3fc67c04:
@@ -140,7 +140,7 @@ translate turkish sm1cs_bg005_67055b5f:
 translate turkish sm1cs_bg005_67d3f3b3:
 
     # bg "I don't—"
-    bg "I don't—"
+    bg "Ben—"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:70
 translate turkish sm1cs_bg005_8f510185:
@@ -236,7 +236,7 @@ translate turkish sm1cs_bg005_1433e80b:
 translate turkish sm1cs_bg005_5896d9bc:
 
     # bg "I'm not—"
-    bg "I'm not—"
+    bg "Ben—"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:119
 translate turkish sm1cs_bg005_85d43af4:
