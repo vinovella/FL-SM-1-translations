@@ -8,7 +8,7 @@ translate french sm1cs_tl002_25e8e476:
 translate french sm1cs_tl002_88d10eca:
 
     # "Worker" "We just opened!"
-    "Worker" "On vient juste d’ouvrir !"
+    "Employé" "On vient juste d’ouvrir !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:21
 translate french sm1cs_tl002_f9fc7303:
@@ -20,7 +20,7 @@ translate french sm1cs_tl002_f9fc7303:
 translate french sm1cs_tl002_7963fdb5:
 
     # "Worker" "I'm sorry! I didn't mean to scare you!"
-    "Worker" "Désolé ! J’voulais pas te faire peur !"
+    "Employé" "Désolé ! J’voulais pas te faire peur !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:26
 translate french sm1cs_tl002_833a73e2:
@@ -62,7 +62,7 @@ translate french sm1cs_tl002_4ee6c4bb:
 translate french sm1cs_tl002_ba0cc9b1:
 
     # "Worker" "Let me know if you need anything!"
-    "Worker" "Dites-moi si vous avez besoin de quoi que ce soit !"
+    "Employé" "Dites-moi si vous avez besoin de quoi que ce soit !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:49
 translate french sm1cs_tl002_0910c569:
@@ -452,7 +452,7 @@ translate french sm1cs_tl002_a8067dd9:
 translate french sm1cs_tl002_882d9cf9:
 
     # "Worker" "We do! Would you like to try that outfit on?"
-    "Worker" "Oui, bien sûr ! Vous voulez essayer cette tenue ?"
+    "Employé" "Oui, bien sûr ! Vous voulez essayer cette tenue ?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:207
 translate french sm1cs_tl002_1088cde2:
@@ -464,7 +464,7 @@ translate french sm1cs_tl002_1088cde2:
 translate french sm1cs_tl002_1ed5ccc8:
 
     # "Worker" "Right this way."
-    "Worker" "Par ici, je vous en prie."
+    "Employé" "Par ici, je vous en prie."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:216
 translate french sm1cs_tl002_2fa0d64b:
@@ -638,7 +638,7 @@ translate french sm1cs_tl002_worker_88ebbf02:
 translate french sm1cs_tl002_worker_63882ad0:
 
     # "Worker" "Hey! You can't do that in here! At least, not until you've paid for the outfit!"
-    "Worker" "Hé ! Vous pouvez pas faire ça ici ! Enfin… pas avant d’avoir payé la tenue !"
+    "Employé" "Hé ! Vous pouvez pas faire ça ici ! Enfin… pas avant d’avoir payé la tenue !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:311
 translate french sm1cs_tl002_worker_9d2f0b59:
@@ -662,7 +662,7 @@ translate french sm1cs_tl002_worker_ea29e112:
 translate french sm1cs_tl002_worker_0bb41cea:
 
     # "Worker" "Okay, that's going to be $50."
-    "Worker" "D’accord, ça fera 50 $."
+    "Employé" "D’accord, ça fera 50 $."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:324
 translate french sm1cs_tl002_worker_9c5de379:
@@ -680,7 +680,7 @@ translate french sm1cs_tl002_worker_c3f89c23:
 translate french sm1cs_tl002_worker_b415620e:
 
     # "Worker" "Great! Let me get this wrapped up for you."
-    "Worker" "Super ! Je vous emballe ça tout de suite."
+    "Employé" "Super ! Je vous emballe ça tout de suite."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:337
 translate french sm1cs_tl002_worker_e8e463fe:

@@ -728,13 +728,13 @@ translate french sm1ms030_d053e9bb:
 translate french sm1ms030_45bfce6c:
 
     # "Everyone" "Thank you!"
-    "Everyone" "Merci !"
+    "Tout le monde" "Merci !"
 
 # game/code/scenes/main_story/sm1ms030.rpy:323
 translate french sm1ms030_99415122:
 
     # "Everyone" "See you in Season Two!"
-    "Everyone" "À bientôt dans la Saison 2 !"
+    "Tout le monde" "À bientôt dans la Saison 2 !"
 
 #Translate by BlackViper_
 

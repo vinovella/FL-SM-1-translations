@@ -1094,7 +1094,7 @@ translate french sm1ms029_party_continue_f54e7e3a:
 translate french sm1ms029_party_continue_02321992:
 
     # "Everyone" "Wooo! *claps*"
-    "Everyone" "Wooo ! *applaudissements*"
+    "Tout le monde" "Wooo ! *applaudissements*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:525
 translate french sm1ms029_party_continue_fba86d44:
@@ -2174,7 +2174,7 @@ translate french sm1ms029_party_part_1_9e07a27a:
 translate french sm1ms029_party_part_1_c2178b2c:
 
     # "Everyone" "*claps*"
-    "Everyone" "*applaudit*"
+    "Tout le monde" "*applaudit*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1000
 translate french sm1ms029_party_part_1_dfac5f6c:
@@ -3776,7 +3776,7 @@ translate french sm1ms029_part_1_my_appear_e91e8c0a:
 translate french sm1ms029_part_1_my_appear_c0ff99e1:
 
     # "Everyone" "Woot woot!"
-    "Everyone" "Woot woot !"
+    "Tout le monde" "Woot woot !"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1545
 translate french sm1ms029_part_1_my_appear_5ce30a02:
@@ -4466,7 +4466,7 @@ translate french sm1ms029_rival_enters_7d5f301c:
 translate french sm1ms029_rival_enters_d8f0561d:
 
     # "Lady" "Hello, Kanya. [mcname] said there was a party tonight."
-    "Lady" "Salut, Kanya. [mcname] a dit qu’il y avait une fête ce soir."
+    "Femme" "Salut, Kanya. [mcname] a dit qu’il y avait une fête ce soir."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1730
 translate french sm1ms029_rival_enters_53878096:
@@ -4496,13 +4496,13 @@ translate french sm1ms029_rival_enters_adb7344a:
 translate french sm1ms029_rival_enters_a0952905:
 
     # "Man" "Yes..."
-    "Man" "Oui..."
+    "Homme" "Oui..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1741
 translate french sm1ms029_rival_enters_fda5068c:
 
     # "Man" "Lucky me."
-    "Man" "Quelle chance."
+    "Homme" "Quelle chance."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1743
 translate french sm1ms029_rival_enters_a1ee8d6f:
@@ -4520,7 +4520,7 @@ translate french sm1ms029_rival_enters_755984d1:
 translate french sm1ms029_rival_enters_ed66a87e:
 
     # "Man" "Oh goodie. Thank you, Kanya."
-    "Man" "Oh, chouette. Merci, Kanya."
+    "Homme" "Oh, chouette. Merci, Kanya."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1748
 translate french sm1ms029_rival_enters_9bfb7146:
@@ -4700,67 +4700,67 @@ translate french sm1ms029_party_sy_finale_ce48cb8c:
 translate french sm1ms029_party_sy_finale_d3a7b16b:
 
     # "Lady" "He's good."
-    "Lady" "Il est bon."
+    "Femme" "Il est bon."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1805
 translate french sm1ms029_party_sy_finale_8bf12768:
 
     # "Man" "Hmmph."
-    "Man" "Hmmph."
+    "Homme" "Hmmph."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1806
 translate french sm1ms029_party_sy_finale_799ac833:
 
     # "Lady" "He is, the stamina he must have-"
-    "Lady" "Oui, l'endurance qu’il doit avoir..."
+    "Femme" "Oui, l'endurance qu’il doit avoir..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1808
 translate french sm1ms029_party_sy_finale_fd15032d:
 
     # "Man" "Shut up, I don't want to hear that."
-    "Man" "Tais-toi, j’ai pas envie d’entendre ça."
+    "Homme" "Tais-toi, j’ai pas envie d’entendre ça."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1809
 translate french sm1ms029_party_sy_finale_04ccb60f:
 
     # "Lady" "It's important to know your enemies."
-    "Lady" "C’est important de connaître ses ennemis."
+    "Femme" "C’est important de connaître ses ennemis."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1811
 translate french sm1ms029_party_sy_finale_b9fcfc6e:
 
     # "Man" "He is not even worthy of that label in my mind."
-    "Man" "Il est même pas digne de ce titre, selon moi."
+    "Homme" "Il est même pas digne de ce titre, selon moi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1814
 translate french sm1ms029_party_sy_finale_717987d4:
 
     # "Man" "She has some talent though."
-    "Man" "Mais elle, elle a du talent."
+    "Homme" "Mais elle, elle a du talent."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1815
 translate french sm1ms029_party_sy_finale_c95514d6:
 
     # "Lady" "Yes, yes she does..."
-    "Lady" "Oui, ça c’est sûr..."
+    "Femme" "Oui, ça c’est sûr..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1816
 translate french sm1ms029_party_sy_finale_8bf12768_1:
 
     # "Man" "Hmmph."
-    "Man" "Hmmph."
+    "Homme" "Hmmph."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1818
 translate french sm1ms029_party_sy_finale_c54ad9c5:
 
     # "Lady" "Well, if they're not our enemies, what are they?"
-    "Lady" "Alors, si ce ne sont pas nos ennemis, c’est quoi ?"
+    "Femme" "Alors, si ce ne sont pas nos ennemis, c’est quoi ?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1821
 translate french sm1ms029_party_sy_finale_c0c223fa:
 
     # "Man" "Bugs."
-    "Man" "Des insectes."
+    "Homme" "Des insectes."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1828
 translate french sm1ms029_party_arj_254336d8:
@@ -5474,7 +5474,7 @@ translate french sm1ms029_party_arj_adf45718:
 translate french sm1ms029_party_arj_4568a3c8:
 
     # "Crowd" "*clapping*"
-    "Crowd" "*applaudissements*"
+    "Foule" "*applaudissements*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2040
 translate french sm1ms029_party_arj_ffbb976a:
@@ -6536,7 +6536,7 @@ translate french sm1ms029_party_end_13a8f8fd:
 translate french sm1ms029_party_end_0e7057f6:
 
     # arj "I was actually thinking... or, wondering, if I could take you and [mcname] up on the offer to spend the night here."
-    arj "Je pensais justement… enfin, je me demandais si je pouvais accepter votre offre de passer la nuit ici."
+    arj "Je pensais justement… enfin, je me demandais si je pouvais accepter ton offre à toi et à [mcname] de passer la nuit ici."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2415
 translate french sm1ms029_party_end_be07bbfb:
@@ -6794,37 +6794,37 @@ translate french strings:
 translate french sm1ms029_party_mes_d6798e52:
 
     # mes "I see you two were paying attention!"
-    mes "I see you two were paying attention!"
+    mes "Je vois que vous deux étiez attentifs !"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1420
 translate french sm1ms029_talk_kv_hr_arj_c8a218be:
 
     # mc "She's a worry wort."
-    mc "She's a worry wort."
+    mc "C'est une vraie anxieuse."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2189
 translate french sm1ms029_part_1_my_appear_34bfa67c:
 
     # my "Theater practice?"
-    my "Theater practice?"
+    my "Répétition de théâtre ?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3384
 translate french sm1ms029_confrontation_23ce713c:
 
     # sy "Now I see it. Carmel Blaise.{w} You're the top pornstar of Foxmorr Films."
-    sy "Now I see it. Carmel Blaise.{w} You're the top pornstar of Foxmorr Films."
+    sy "Maintenant je comprends. Carmel Blaise.{w} Tu es la pornstar numéro un de Foxmorr Films."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3645
 translate french sm1ms029_confrontation_2f7e4a34:
 
     # sy "What are we going to do?"
-    sy "What are we going to do?"
+    sy "Qu'est-ce qu'on va faire ?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3680
 translate french sm1ms029_confrontation_3670d210:
 
     # mc "He thinks he can come in and try to scare us?"
-    mc "He thinks he can come in and try to scare us?"
+    mc "Il croit qu'il peut débarquer et essayer de nous faire peur ?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1100
 translate french sm1ms029_talk_mes_ns_02795e35:
@@ -6872,17 +6872,17 @@ translate french sm1ms029_talk_mes_ns_b89ca410:
 translate french sm1ms029_party_sy_ebb69a71:
 
     # mc "Time for a little ground and pound."
-    mc "Time for a little ground and pound."
+    mc "C'est l'heure de passer aux choses sérieuses."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3203
 translate french sm1ms029_party_arj_3d299e51:
 
     # arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
-    arj "I'll be your free use fuckdoll, relieving your stress, and then starring in a scene right after."
+    arj "Je serai ta poupée sexuelle à libre usage, je te libérerai de ton stress, et ensuite je jouerai dans une scène juste après."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3527
 translate french sm1ms029_confrontation_c8157585:
 
     # et "But I don't think it will be enough."
-    et "But I don't think it will be enough."
+    et "Mais je ne pense pas que ce sera suffisant."
 

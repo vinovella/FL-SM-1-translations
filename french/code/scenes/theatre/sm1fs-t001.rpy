@@ -464,7 +464,7 @@ translate french sm1fs_t001_e7a6434d:
 translate french sm1fs_t001_68928212:
 
     # "Scary Clown" "GAAAAAAAHHHHHH!!!!!"
-    "Scary Clown" "GAAAAAAAHHHHHH!!!!!"
+    "Clown Effrayant" "GAAAAAAAHHHHHH!!!!!"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:277
 translate french sm1fs_t001_02b74418:
@@ -482,7 +482,7 @@ translate french sm1fs_t001_85c2ac8a:
 translate french sm1fs_t001_ce78b221:
 
     # "Scary Clown" "FUCKING OWWW!!!"
-    "Scary Clown" "PUTAIN MAIS ÇA FAIT MAL !!!"
+    "Clown Effrayant" "PUTAIN MAIS ÇA FAIT MAL !!!"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:289
 translate french sm1fs_t001_87890278:
@@ -494,7 +494,7 @@ translate french sm1fs_t001_87890278:
 translate french sm1fs_t001_af9a22c5:
 
     # "Scary Clown" "Do it again! I liked it!!!"
-    "Scary Clown" "Refais-le ! J’ai adoré !!!"
+    "Clown Effrayant" "Refais-le ! J’ai adoré !!!"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:298
 translate french sm1fs_t001_5b1ff97e:
@@ -524,7 +524,7 @@ translate french sm1fs_t001_7b766756:
 translate french sm1fs_t001_ebecd94b:
 
     # "Scary Clown" "Fuck me. {w}I've never seen THAT response before."
-    "Scary Clown" "Putain. {w}J’avais jamais vu une réaction comme ÇA."
+    "Clown Effrayant" "Putain. {w}J’avais jamais vu une réaction comme ÇA."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:315
 translate french sm1fs_t001_dd4b9619:
@@ -536,7 +536,7 @@ translate french sm1fs_t001_dd4b9619:
 translate french sm1fs_t001_7c8a16fe:
 
     # "Scary Clown" "I mean, I've made people pee themselves, but that was new."
-    "Scary Clown" "J’veux dire, j’ai déjà fait des gens pisser dans leur froc, mais ça c'était nouveau."
+    "Clown Effrayant" "J’veux dire, j’ai déjà fait des gens pisser dans leur froc, mais ça c'était nouveau."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:321
 translate french sm1fs_t001_6bfc74d9:
@@ -554,7 +554,7 @@ translate french sm1fs_t001_e3755f82:
 translate french sm1fs_t001_fbbd6b3f:
 
     # "Scary Clown" "You got what you paid for. Move along."
-    "Scary Clown" "Vous avez eu ce pour quoi vous avez payé. Circuler."
+    "Clown Effrayant" "Vous avez eu ce pour quoi vous avez payé. Circuler."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:328
 translate french sm1fs_t001_4a944e2a:
@@ -572,7 +572,7 @@ translate french sm1fs_t001_850fcb18:
 translate french sm1fs_t001_f8460994:
 
     # "Scary Clown" "That's it for this room. Move along to the next."
-    "Scary Clown" "C’est fini pour cette salle. Passez à la suivante."
+    "Clown Effrayant" "C’est fini pour cette salle. Passez à la suivante."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:335
 translate french sm1fs_t001_f12757a5:
@@ -590,7 +590,7 @@ translate french sm1fs_t001_d1e4eeaa:
 translate french sm1fs_t001_d0b1cb47:
 
     # "Scary Clown" "Of course I'm real. Would you mind taking your hand off my tit?"
-    "Scary Clown" "Bien sûr que je suis réelle. Tu pourrais enlever ta main de mon sein ?"
+    "Clown Effrayant" "Bien sûr que je suis réelle. Tu pourrais enlever ta main de mon sein ?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:344
 translate french sm1fs_t001_66b18449:
@@ -632,7 +632,7 @@ translate french sm1fs_t001_0e6e8f4a:
 translate french sm1fs_t001_7c2f1e49:
 
     # "Scary Clown" "Don't get me wrong, you two have been the most interesting guests I've had in quite a while."
-    "Scary Clown" "Ne prenez pas ça mal, vous êtes les invités les plus intéressants que j’ai eus depuis longtemps."
+    "Clown Effrayant" "Ne prenez pas ça mal, vous êtes les invités les plus intéressants que j’ai eus depuis longtemps."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:361
 translate french sm1fs_t001_af788747:
@@ -644,7 +644,7 @@ translate french sm1fs_t001_af788747:
 translate french sm1fs_t001_02a3aae3:
 
     # "Scary Clown" "But another group might be along at any time. And you've both been here a while."
-    "Scary Clown" "Mais un autre groupe peut arriver n’importe quand. Et vous êtes ici depuis un bon moment."
+    "Clown Effrayant" "Mais un autre groupe peut arriver n’importe quand. Et vous êtes ici depuis un bon moment."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:366
 translate french sm1fs_t001_1deb6c78:
@@ -656,7 +656,7 @@ translate french sm1fs_t001_1deb6c78:
 translate french sm1fs_t001_7010c7fb:
 
     # "Scary Clown" "Huh?{w} Why?"
-    "Scary Clown" "Hein ?{w} Pourquoi ?"
+    "Clown Effrayant" "Hein ?{w} Pourquoi ?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:371
 translate french sm1fs_t001_82eb8e19:
@@ -674,7 +674,7 @@ translate french sm1fs_t001_7222bac4:
 translate french sm1fs_t001_f0a9927d:
 
     # "Scary Clown" "Interesting...{w} Do you often jerk him off in front of strangers like this?"
-    "Scary Clown" "Intéressant...{w} Tu lui branles souvent la bite devant des inconnus comme ça ?"
+    "Clown Effrayant" "Intéressant...{w} Tu lui branles souvent la bite devant des inconnus comme ça ?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:378
 translate french sm1fs_t001_03ed6f44:

@@ -518,7 +518,7 @@ translate french sm1fs_t008_later_7cd76da7:
 translate french sm1fs_t008_later_ac49ab0c:
 
     # "*clap clap clap*"
-    "*clap clap clap*"
+    "*applaudissements*"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:279
 translate french sm1fs_t008_later_86176f2b:

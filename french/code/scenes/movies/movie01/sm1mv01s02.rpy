@@ -1604,7 +1604,7 @@ translate french sm1mv01s02_later_09003c12:
 translate french sm1mv01s02_later_da1dfe01:
 
     # "Worker" "Excuse me."
-    "Worker" "Excusez-moi."
+    "Employée" "Excusez-moi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:831
 translate french sm1mv01s02_later_4b4789b7:
@@ -1616,19 +1616,19 @@ translate french sm1mv01s02_later_4b4789b7:
 translate french sm1mv01s02_later_ab76bff1:
 
     # "Worker" "I hope you enjoyed that. And the outfits. Because you are definitely purchasing every garment that you went in with."
-    "Worker" "J’espère que ça vous a plu. Et les tenues aussi. Parce que vous allez acheter absolument tous les vêtements que vous avez pris."
+    "Employée" "J’espère que ça vous a plu. Et les tenues aussi. Parce que vous allez acheter absolument tous les vêtements que vous avez pris."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:837
 translate french sm1mv01s02_later_01cd3e26:
 
     # "Worker" "And you'll also be buying anything else affected by your lapse of judgement."
-    "Worker" "Et vous achèterez aussi tout ce qui a été affecté par votre manque de jugement."
+    "Employée" "Et vous achèterez aussi tout ce qui a été affecté par votre manque de jugement."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:838
 translate french sm1mv01s02_later_c8546ee6:
 
     # "Worker" "I expect a little better of you, Kanya."
-    "Worker" "J’attends un peu mieux de toi, Kanya."
+    "Employée" "J’attends un peu mieux de toi, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:841
 translate french sm1mv01s02_later_6581fe71:
@@ -1646,7 +1646,7 @@ translate french sm1mv01s02_later_b44d3c4b:
 translate french sm1mv01s02_later_ef924068:
 
     # "Worker" "Well I suggest you save it for the privacy of your own home."
-    "Worker" "Je te suggère de garder ça pour l’intimité de ton chez-toi."
+    "Employée" "Je te suggère de garder ça pour l’intimité de ton chez-toi."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:848
 translate french sm1mv01s02_later_9ece5b20:
@@ -1664,31 +1664,31 @@ translate french sm1mv01s02_later_bca09261:
 translate french sm1mv01s02_later_bc0c4158:
 
     # "Worker" "I'll be waiting at the counter."
-    "Worker" "J’attendrai au comptoir."
+    "Employée" "J’attendrai au comptoir."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:854
 translate french sm1mv01s02_later_a5f29463:
 
     # "Worker" "And make sure you bring up everything."
-    "Worker" "Et assurez-vous de rapporter tout."
+    "Employée" "Et assurez-vous de rapporter tout."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:858
 translate french sm1mv01s02_later_3471c0ab:
 
     # "Worker" "Kanya was right."
-    "Worker" "Kanya avait raison."
+    "Employée" "Kanya avait raison."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:859
 translate french sm1mv01s02_later_fab98077:
 
     # "Worker" "We do have cameras."
-    "Worker" "Oui, nous avons des caméras."
+    "Employée" "Oui, nous avons des caméras."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:860
 translate french sm1mv01s02_later_764403cd:
 
     # "Worker" "This is a place of business. Not a live-action Fansly shoot."
-    "Worker" "C’est un commerce, pas un tournage Fansly en direct."
+    "Employée" "C’est un commerce, pas un tournage Fansly en direct."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:866
 translate french sm1mv01s02_later_9f7e8476:
@@ -1712,13 +1712,13 @@ translate french sm1mv01s02_later_e3395250:
 translate french sm1mv01s02_later_0a29db9f:
 
     # "Worker" "Good thinking, Kanya."
-    "Worker" "Bien pensé, Kanya."
+    "Employée" "Bien pensé, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:880
 translate french sm1mv01s02_later_b2cbc7b2:
 
     # "Worker" "And here is the total."
-    "Worker" "Et voici le total."
+    "Employée" "Et voici le total."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:883
 translate french sm1mv01s02_later_7765b292:
@@ -1754,13 +1754,13 @@ translate french sm1mv01s02_later_c23b85e7:
 translate french sm1mv01s02_later_c00afa54:
 
     # "Worker" "Thank you for shopping with us."
-    "Worker" "Merci d’avoir fait vos achats chez nous."
+    "Employée" "Merci d’avoir fait vos achats chez nous."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:901
 translate french sm1mv01s02_later_81bb874d:
 
     # "Worker" "Next time, please just try on the clothes at home."
-    "Worker" "La prochaine fois, essayez les vêtements chez vous, s’il vous plaît."
+    "Employée" "La prochaine fois, essayez les vêtements chez vous, s’il vous plaît."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:903
 translate french sm1mv01s02_later_a3480574:

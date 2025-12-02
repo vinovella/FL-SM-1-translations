@@ -182,13 +182,13 @@ translate french sm1cs_tl005_3a1717eb:
 translate french sm1cs_tl005_034153d2:
 
     # "Aggro Dude" "HEY! CLOWN BITCH!"
-    "Aggro Dude" "HÉ, LA CLOWNESSE DE MERDE !"
+    "Type agressif" "HÉ, LA CLOWNESSE DE MERDE !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:133
 translate french sm1cs_tl005_353178c3:
 
     # "Aggro Dude" "I KNOW YOU HEARD ME!"
-    "Aggro Dude" "JE SAIS QUE TU M’AS ENTENDU !"
+    "Type agressif" "JE SAIS QUE TU M’AS ENTENDU !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:136
 translate french sm1cs_tl005_1241a836:
@@ -212,7 +212,7 @@ translate french sm1cs_tl005_b6924f54:
 translate french sm1cs_tl005_5690fea8:
 
     # "Aggro Dude" "Bitch!"
-    "Aggro Dude" "Salope !"
+    "Type agressif" "Salope !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:159
 translate french sm1cs_tl005_ac1b1628:
@@ -230,19 +230,19 @@ translate french sm1cs_tl005_3daceb94:
 translate french sm1cs_tl005_238ba2ae:
 
     # "Aggro Dude" "Hey, get the fuck out of my way!"
-    "Aggro Dude" "Hé, dégage de mon chemin !"
+    "Type agressif" "Hé, dégage de mon chemin !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:165
 translate french sm1cs_tl005_efcf6424:
 
     # "Aggro Dude" "Yo! Move!"
-    "Aggro Dude" "Yo ! Bouge !"
+    "Type agressif" "Yo ! Bouge !"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:166
 translate french sm1cs_tl005_4b1cf4ff:
 
     # "Aggro Dude" "Where the fuck did you go!?!"
-    "Aggro Dude" "Putain, t’es passée où !?!"
+    "Type agressif" "Putain, t’es passée où !?!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:171
 translate french sm1cs_tl005_2bf80b48:

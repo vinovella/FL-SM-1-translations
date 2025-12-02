@@ -368,7 +368,7 @@ translate french sm1mv02s09_movie_a5d6c8a3:
 translate french sm1mv02s09_movie_9da8b7f0:
 
     # "Kasaru Warrior" "Bring it on."
-    "Kasaru Warrior" "Vas-y, je t’attends."
+    "Guerrier Kasaru" "Vas-y, je t’attends."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:435
 translate french sm1mv02s09_movie_137e9508:
@@ -422,7 +422,7 @@ translate french sm1mv02s09_movie_b68a9182:
 translate french sm1mv02s09_movie_1f4a0da7:
 
     # "Kasaru Warrior" "I've got you now, you puny human!"
-    "Kasaru Warrior" "Je te tiens maintenant, misérable humain !"
+    "Guerrier Kasaru" "Je te tiens maintenant, misérable humain !"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:500
 translate french sm1mv02s09_movie_987f7a37:
@@ -458,7 +458,7 @@ translate french sm1mv02s09_movie_cb97af6b:
 translate french sm1mv02s09_movie_3f6c9ec3:
 
     # "Kasaru Warrior" "That's only going to work once! Now what!?"
-    "Kasaru Warrior" "Ça ne marchera qu’une fois ! Et maintenant !?"
+    "Guerrier Kasaru" "Ça ne marchera qu’une fois ! Et maintenant !?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:530
 translate french sm1mv02s09_movie_6fe993c4:
@@ -476,13 +476,13 @@ translate french sm1mv02s09_movie_d9c0aa28:
 translate french sm1mv02s09_movie_447443c4:
 
     # "Kasaru Warrior" "What-!?"
-    "Kasaru Warrior" "Quoi-!?"
+    "Guerrier Kasaru" "Quoi-!?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:542
 translate french sm1mv02s09_movie_8a71592f:
 
     # "Kasaru Warrior" "Ha, what, what do you... oh..."
-    "Kasaru Warrior" "Ha, quoi, qu’est-ce que tu... oh..."
+    "Guerrier Kasaru" "Ha, quoi, qu’est-ce que tu... oh..."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:545
 translate french sm1mv02s09_movie_5cfdbad7:
@@ -494,13 +494,13 @@ translate french sm1mv02s09_movie_5cfdbad7:
 translate french sm1mv02s09_movie_e86cc71c:
 
     # "Kasaru Warrior" "Did I just orgasm!?! OH!"
-    "Kasaru Warrior" "Je viens d’orgasmer !?! OH !"
+    "Guerrier Kasaru" "Je viens d’orgasmer !?! OH !"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:550
 translate french sm1mv02s09_movie_027674b4:
 
     # "Kasaru Warrior" "I'm doing it again!?!"
-    "Kasaru Warrior" "Je recommence !?!"
+    "Guerrier Kasaru" "Je recommence !?!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:558
 translate french sm1mv02s09_movie_a877a75e:
@@ -554,19 +554,19 @@ translate french sm1mv02s09_movie_1d62f4a8:
 translate french sm1mv02s09_movie_e59b2499:
 
     # "Kasaru Warrior" "Hahaha, I can't wait to kill some humans!"
-    "Kasaru Warrior" "Hahaha, j’ai hâte de tuer quelques humains !"
+    "Guerrier Kasaru" "Hahaha, j’ai hâte de tuer quelques humains !"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:594
 translate french sm1mv02s09_movie_ee5b3b67:
 
     # "Kasaru Warrior" "Or even that sexy alien from the- wait, what the-"
-    "Kasaru Warrior" "Ou même cet alien sexy de là-bas... attends, quoi..."
+    "Guerrier Kasaru" "Ou même cet alien sexy de là-bas... attends, quoi..."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:598
 translate french sm1mv02s09_movie_cf520166:
 
     # "Kasaru Warrior" "OH GOD, I JUST CAME SO HARD!"
-    "Kasaru Warrior" "OH BORDEL, JE VIENS DE JOUUUUIR COMME JAMAIS !"
+    "Guerrier Kasaru" "OH BORDEL, JE VIENS DE JOUUUUIR COMME JAMAIS !"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:614
 translate french sm1mv02s09_movie_3874baf3:
@@ -1708,5 +1708,5 @@ translate french sm1mv02s09_end_ac4f60cc:
 translate french sm1mv02s09_movie_2466e48f:
 
     # mhmes "And she is also quite a spectacle to behold. She really understands how to bring a body to climax."
-    mhmes "And she is also quite a spectacle to behold. She really understands how to bring a body to climax."
+    mhmes "Et elle est aussi un vrai spectacle à contempler. Elle sait vraiment comment amener un corps à l'orgasme."
 
