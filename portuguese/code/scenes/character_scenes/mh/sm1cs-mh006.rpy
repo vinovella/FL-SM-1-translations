@@ -1378,17 +1378,17 @@ translate portuguese strings:
 translate portuguese sm1cs_mh006_e6eae1c1:
 
     # mc "That sounds... Exhilarating."
-    mc "That sounds... Exhilarating."
+    mc "Parece... super empolgante."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:82
 translate portuguese sm1cs_mh006_7a25c7b5:
 
     # mh "You're incorrigible. No, it took me years to get my clients. Between consistency, trust, meshing with each other - it wasn't an overnight matter."
-    mh "You're incorrigible. No, it took me years to get my clients. Between consistency, trust, meshing with each other - it wasn't an overnight matter."
+    mh "Você não tem jeito, sabia. Não, demorei anos para conseguir meus clientes. Entre consistência, confiança, juntando tudo - não foi da noite para o dia."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:324
 translate portuguese sm1cs_mh006_after_choice_37279168:
 
     # mc "Well, uhm... I guess-"
-    mc "Well, uhm... I guess-"
+    mc "Bom, ahm... então-"
 
