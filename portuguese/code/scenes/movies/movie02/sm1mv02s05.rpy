@@ -518,7 +518,7 @@ translate portuguese sm1mv02s05_6f39857b:
 translate portuguese sm1mv02s05_257c29d2:
 
     # "[mcname] and Nari" "*chuckle*"
-    "[mcname] and Nari" "*risada*"
+    "[mcname] e Nari" "*risada*"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:330
 translate portuguese sm1mv02s05_25040fe9:
