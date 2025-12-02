@@ -890,7 +890,7 @@ translate turkish sm1ms_mh008_game_dba3a987:
 translate turkish sm1ms_mh008_game_d8ed4d23:
 
     # "Clang. Clang. Clang. Clang!"
-    "Şang. Şang. Şang. Şang!"
+    "Clang. Clang. Clang. Clang!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:517
 translate turkish sm1ms_mh008_game_5a299d56:
