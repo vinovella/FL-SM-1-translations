@@ -836,5 +836,5 @@ translate portuguese sm1ms024_72133c5b:
 translate portuguese sm1ms024_620a96b9:
 
     # mc "Come on, you have that look on your face."
-    mc "Come on, you have that look on your face."
+    mc "Qualé, você tá com aquele seu olhar."
 
