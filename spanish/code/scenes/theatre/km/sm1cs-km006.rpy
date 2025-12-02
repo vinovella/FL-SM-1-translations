@@ -3314,7 +3314,7 @@ translate spanish strings:
 translate spanish sm1cs_km006_after_menu_17db8f1e:
 
     # vs "Uh, let's retire to our dressing room.{w} If Taisia smells liquor, she'll pop out of nowhere and want a bit."
-    vs "Uh, let's retire to our dressing room.{w} If Taisia smells liquor, she'll pop out of nowhere and want a bit."
+    vs "Uh, vamos a retirarnos a nuestro camerino.{w} Si Taisia huele licor, aparecerá de la nada y querrá un poco."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:407
 translate spanish sm1cs_km006_after_menu_75728a01:
@@ -3326,109 +3326,109 @@ translate spanish sm1cs_km006_after_menu_75728a01:
 translate spanish sm1cs_km006_dressing_room_eb676d15:
 
     # vs "Everyone take a seat and get comfortable."
-    vs "Everyone take a seat and get comfortable."
+    vs "Todos tomen asiento y pónganse cómodos."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:430
 translate spanish sm1cs_km006_dressing_room_4a5c9515:
 
     # vs "This is no limit, no judgement, truth or dare."
-    vs "This is no limit, no judgement, truth or dare."
+    vs "Este es verdad o reto sin límites, sin juicios."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:431
 translate spanish sm1cs_km006_dressing_room_aaa87eb5:
 
     # vs "Let's dance."
-    vs "Let's dance."
+    vs "Bailemos."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:434
 translate spanish sm1cs_km006_dressing_room_7d3fa676:
 
     # vs "Here you go, Kellie."
-    vs "Here you go, Kellie."
+    vs "Aquí tienes, Kellie."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:436
 translate spanish sm1cs_km006_dressing_room_7778b18c:
 
     # km "Please go over the rules again"
-    km "Please go over the rules again"
+    km "Por favor, repite las reglas otra vez"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:439
 translate spanish sm1cs_km006_dressing_room_cc43eac4:
 
     # vs "Sure. You get to start us off.{w} You will select someone here and ask them to choose between truth or dare."
-    vs "Sure. You get to start us off.{w} You will select someone here and ask them to choose between truth or dare."
+    vs "Claro. Tú empiezas.{w} Seleccionarás a alguien aquí y le pedirás que elija entre verdad o reto."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:440
 translate spanish sm1cs_km006_dressing_room_080dedb9:
 
     # vs "Once the person chooses their option, you will either ask for a truth, or you dare them to do something."
-    vs "Once the person chooses their option, you will either ask for a truth, or you dare them to do something."
+    vs "Una vez que la persona elija su opción, le pedirás una verdad o la retarás a hacer algo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:443
 translate spanish sm1cs_km006_dressing_room_b660c5cc:
 
     # mc "How does the drinking work?"
-    mc "How does the drinking work?"
+    mc "¿Cómo funciona lo de beber?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:447
 translate spanish sm1cs_km006_dressing_room_6bc61ae4:
 
     # vs "It is kind of your 'get out of jail' card."
-    vs "It is kind of your 'get out of jail' card."
+    vs "Es como tu carta de 'salir de la cárcel'."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:448
 translate spanish sm1cs_km006_dressing_room_c7a72865:
 
     # vs "If you don't want to say the truth, or don't want to do the dare,{w} you just drink and then you move on."
-    vs "If you don't want to say the truth, or don't want to do the dare,{w} you just drink and then you move on."
+    vs "Si no quieres decir la verdad, o no quieres hacer el reto,{w} simplemente bebes y sigues adelante."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:451
 translate spanish sm1cs_km006_dressing_room_dc16ebcd:
 
     # mc "Got it."
-    mc "Got it."
+    mc "Entendido."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:452
 translate spanish sm1cs_km006_dressing_room_4d979fbb:
 
     # mc "Ready, Kellie?"
-    mc "Ready, Kellie?"
+    mc "¿Lista, Kellie?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:454
 translate spanish sm1cs_km006_dressing_room_4f5b6793:
 
     # km "I guess so."
-    km "I guess so."
+    km "Supongo que sí."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:458
 translate spanish sm1cs_km006_dressing_room_b641d15a:
 
     # km "Okay... I pick who goes first, right?"
-    km "Okay... I pick who goes first, right?"
+    km "Bien... Yo elijo quién va primero, ¿verdad?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:460
 translate spanish sm1cs_km006_dressing_room_e07c4b9b:
 
     # mc "Yep. It's all yours."
-    mc "Yep. It's all yours."
+    mc "Sí. Es todo tuyo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:463
 translate spanish sm1cs_km006_dressing_room_9fba4a24:
 
     # km "[mcname]. Truth or dare?"
-    km "[mcname]. Truth or dare?"
+    km "[mcname]. ¿Verdad o reto?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:465
 translate spanish sm1cs_km006_dressing_room_4415dd95:
 
     # mc "Truth."
-    mc "Truth."
+    mc "Verdad."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:468
 translate spanish sm1cs_km006_dressing_room_afa27e03:
 
     # km "What's something you've noticed about me but never said out loud?"
-    km "What's something you've noticed about me but never said out loud?"
+    km "¿Qué es algo que has notado de mí pero nunca has dicho en voz alta?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:471
 translate spanish sm1cs_km006_dressing_room_f609deb3:
@@ -3440,17 +3440,17 @@ translate spanish sm1cs_km006_dressing_room_f609deb3:
 translate spanish sm1cs_km006_dressing_room_532d5691:
 
     # mc "I got it."
-    mc "I got it."
+    mc "Ya lo tengo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:473
 translate spanish sm1cs_km006_dressing_room_5858e391:
 
     # mc "You're all-in, all the time.{w} And it shows. You don't act—{w} you live the part."
-    mc "You're all-in, all the time.{w} And it shows. You don't act—{w} you live the part."
+    mc "Lo das todo, todo el tiempo.{w} Y se nota. No actúas—{w} vives el papel."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:474
 translate spanish sm1cs_km006_dressing_room_e39aefe4:
 
     # mc "And I think that scares some people.{w} But it's why I respect you more than anyone on stage."
-    mc "And I think that scares some people.{w} But it's why I respect you more than anyone on stage."
+    mc "Y creo que eso asusta a algunas personas.{w} Pero es por eso que te respeto más que a nadie en el escenario."
 

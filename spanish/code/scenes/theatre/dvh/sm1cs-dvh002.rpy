@@ -602,7 +602,7 @@ translate spanish sm1cs_dvh002_2b35b6fe:
 translate spanish sm1cs_dvh002_f901039b:
 
     # mc "Okay, I think I'm starting to make some progress here."
-    mc "Okay, I think I'm starting to make some progress here."
+    mc "Bien, creo que estoy empezando a hacer algunos progresos aquí."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:133
 translate spanish sm1cs_dvh002_613fd08e:
@@ -614,49 +614,49 @@ translate spanish sm1cs_dvh002_613fd08e:
 translate spanish sm1cs_dvh002_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "¿Qué?"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:138
 translate spanish sm1cs_dvh002_fdd9fa13:
 
     # dvh "Nothing."
-    dvh "Nothing."
+    dvh "Nada."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:144
 translate spanish sm1cs_dvh002_ecf74a35:
 
     # dvh "Yes, Eileen?"
-    dvh "Yes, Eileen?"
+    dvh "¿Sí, Eileen?"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:156
 translate spanish sm1cs_dvh002_445c1d80:
 
     # mc "See ya', Eileen."
-    mc "See ya', Eileen."
+    mc "Nos vemos, Eileen."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:162
 translate spanish sm1cs_dvh002_7ba3b28d:
 
     # mct "This is progress, even if it means staying late..."
-    mct "This is progress, even if it means staying late..."
+    mct "Esto es progreso, aunque signifique quedarme hasta tarde..."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:165
 translate spanish sm1cs_dvh002_7edab26a:
 
     # dvh "Here is the latest financial reports. Tell me what you see."
-    dvh "Here is the latest financial reports. Tell me what you see."
+    dvh "Aquí están los últimos informes financieros. Dime qué ves."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:168
 translate spanish sm1cs_dvh002_caefca60:
 
     # mc "Alright, let me take a look..."
-    mc "Alright, let me take a look..."
+    mc "Bien, déjame echar un vistazo..."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:178
 translate spanish sm1cs_dvh002_7935ba98:
 
     # mct "Wow, this is a mess... The theater's financial situation must be even worse than I thought."
-    mct "Wow, this is a mess... The theater's financial situation must be even worse than I thought."
+    mct "Vaya, esto es un desastre... La situación financiera del teatro debe ser incluso peor de lo que pensaba."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:181
 translate spanish sm1cs_dvh002_8b8b425d:
@@ -674,19 +674,19 @@ translate spanish sm1cs_dvh002_91d8a70c:
 translate spanish sm1cs_dvh002_ff936c8a:
 
     # mct "Is she..."
-    mct "Is she..."
+    mct "¿Está ella..."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:194
 translate spanish sm1cs_dvh002_9a639892:
 
     # mct "... Getting comfortable.{w} I guess... this is her office after all."
-    mct "... Getting comfortable.{w} I guess... this is her office after all."
+    mct "... Poniéndose cómoda.{w} Supongo... después de todo, esta es su oficina."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:196
 translate spanish sm1cs_dvh002_178d30ae:
 
     # dvh "If it is too much for you, please, feel free to lose your shirt."
-    dvh "If it is too much for you, please, feel free to lose your shirt."
+    dvh "Si es demasiado para ti, por favor, siéntete libre de quitarte la camisa."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:200
 translate spanish sm1cs_dvh002_a840bf7d:

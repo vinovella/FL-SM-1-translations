@@ -422,13 +422,13 @@ translate spanish sm1fs_t007_23a8eeb2:
 translate spanish sm1fs_t007_37a25edc:
 
     # "*gunshot*"
-    "*gunshot*"
+    "*disparo*"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:267
 translate spanish sm1fs_t007_c581a927:
 
     # sj "*death cry*"
-    sj "*death cry*"
+    sj "*grito de muerte*"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:283
 translate spanish sm1fs_t007_7d422a2c:
@@ -998,169 +998,169 @@ translate spanish sm1fs_t007_47fafcd6:
 translate spanish sm1fs_t007_b65ccefc:
 
     # dvh "*via headset* [mcname], you're up. Get Mercutio off stage. Fifteen seconds before lights up."
-    dvh "*via headset* [mcname], you're up. Get Mercutio off stage. Fifteen seconds before lights up."
+    dvh "*por el auricular* [mcname], te toca. Saca a Mercutio del escenario. Quince segundos antes de que enciendan las luces."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:486
 translate spanish sm1fs_t007_end_of_play_cf0df8f7:
 
     # nr "I never thought I'd cry about a story of love and tragedy..."
-    nr "I never thought I'd cry about a story of love and tragedy..."
+    nr "Nunca pensé que lloraría por una historia de amor y tragedia..."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:487
 translate spanish sm1fs_t007_end_of_play_2058214b:
 
     # nr "And pizza and brats."
-    nr "And pizza and brats."
+    nr "Y pizza y salchichas."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:490
 translate spanish sm1fs_t007_end_of_play_7b4ec7bd:
 
     # "*audience clapping*"
-    "*audience clapping*"
+    "*el público aplaudiendo*"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:497
 translate spanish sm1fs_t007_end_of_play_abddac53:
 
     # dvh "Thank you. Thank you all for coming to our opening night."
-    dvh "Thank you. Thank you all for coming to our opening night."
+    dvh "Gracias. Gracias a todos por venir a nuestra noche de estreno."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:498
 translate spanish sm1fs_t007_end_of_play_3db850d2:
 
     # dvh "This production has been a labor of love—and occasionally rage—for all of us."
-    dvh "This production has been a labor of love—and occasionally rage—for all of us."
+    dvh "Esta producción ha sido un trabajo de amor—y ocasionalmente de rabia—para todos nosotros."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:501
 translate spanish sm1fs_t007_end_of_play_2e2d4022:
 
     # dvh "This is our main show for the foreseeable future. So tell your friends,{w} tell your enemies,{w} tell anyone who enjoys Shakespeare, pizza, or bratwurst."
-    dvh "This is our main show for the foreseeable future. So tell your friends,{w} tell your enemies,{w} tell anyone who enjoys Shakespeare, pizza, or bratwurst."
+    dvh "Este es nuestro espectáculo principal en el futuro previsible. Así que díganle a sus amigos,{w} díganle a sus enemigos,{w} díganle a cualquiera que disfrute de Shakespeare, la pizza o las salchichas."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:502
 translate spanish sm1fs_t007_end_of_play_9ee3621f:
 
     # dvh "Good night."
-    dvh "Good night."
+    dvh "Buenas noches."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:517
 translate spanish sm1fs_t007_end_of_play_e4090963:
 
     # nr "[mcname]! There he is. Hell of a production."
-    nr "[mcname]! There he is. Hell of a production."
+    nr "¡[mcname]! Ahí está. Menuda producción."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:518
 translate spanish sm1fs_t007_end_of_play_dc31a85c:
 
     # nr "Really...uh...intense. *coughs*"
-    nr "Really...uh...intense. *coughs*"
+    nr "Realmente...uh...intensa. *tose*"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:521
 translate spanish sm1fs_t007_end_of_play_7fd66ba0:
 
     # mc "Yeah, Denise doesn't halfass anything."
-    mc "Yeah, Denise doesn't halfass anything."
+    mc "Sí, Denise no hace nada a medias."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:524
 translate spanish sm1fs_t007_end_of_play_fdfdad2e:
 
     # nr "*chuckles nervously* I'll say. A lot of death, though."
-    nr "*chuckles nervously* I'll say. A lot of death, though."
+    nr "*ríe nerviosamente* Ya lo creo. Mucha muerte, sin embargo."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:525
 translate spanish sm1fs_t007_end_of_play_25a0d277:
 
     # nr "I mean, I knew it was Romeo and Juliet, but...damn. Everyone died."
-    nr "I mean, I knew it was Romeo and Juliet, but...damn. Everyone died."
+    nr "Quiero decir, sabía que era Romeo y Julieta, pero... maldición. Todos murieron."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:528
 translate spanish sm1fs_t007_end_of_play_66be811b:
 
     # ms "*deadpan* Only violence and sex sell these days, Nelson."
-    ms "*deadpan* Only violence and sex sell these days, Nelson."
+    ms "*seria* Solo la violencia y el sexo venden hoy en día, Nelson."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:529
 translate spanish sm1fs_t007_end_of_play_056738df:
 
     # ms "This had violence. If they'd added a sex scene, people wouldn't shut up about it for a month."
-    ms "This had violence. If they'd added a sex scene, people wouldn't shut up about it for a month."
+    ms "Esto tenía violencia. Si hubieran añadido una escena de sexo, la gente no habría parado de hablar de ello durante un mes."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:532
 translate spanish sm1fs_t007_end_of_play_00719641:
 
     # ms "[mcname] knows a thing or two about what people like to see on screen."
-    ms "[mcname] knows a thing or two about what people like to see on screen."
+    ms "[mcname] sabe una o dos cosas sobre lo que a la gente le gusta ver en pantalla."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:533
 translate spanish sm1fs_t007_end_of_play_3946ee4d:
 
     # ms "And on stage, I bet."
-    ms "And on stage, I bet."
+    ms "Y en el escenario, apuesto."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:536
 translate spanish sm1fs_t007_end_of_play_00695813:
 
     # mct "Is she...hinting at the sorority thing?"
-    mct "Is she...hinting at the sorority thing?"
+    mct "¿Está... insinuando lo de la hermandad?"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:539
 translate spanish sm1fs_t007_end_of_play_299e077a:
 
     # nr "Anyway, pass on my thanks to the director and the team. Great work, kid."
-    nr "Anyway, pass on my thanks to the director and the team. Great work, kid."
+    nr "En fin, pásale mis agradecimientos al director y al equipo. Gran trabajo, chico."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:543
 translate spanish sm1fs_t007_end_of_play_53e479d6:
 
     # ms "*low, teasing* You look good in all black, by the way. Very... mysterious."
-    ms "*low, teasing* You look good in all black, by the way. Very... mysterious."
+    ms "*bajo, burlona* Te ves bien todo de negro, por cierto. Muy... misterioso."
 
 translate spanish strings:
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:59
     old "I'm a little nervous, yeah"
-    new "I'm a little nervous, yeah"
+    new "Estoy un poco nervioso, sí"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:59
     old "I'm terrified"
-    new "I'm terrified"
+    new "Estoy aterrorizado"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:59
     old "You're going to kill it"
-    new "You're going to kill it"
+    new "Lo vas a hacer genial"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:157
     old "After fixing the light"
-    new "After fixing the light"
+    new "Después de arreglar la luz"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:187
     old "Stay professional"
-    new "Stay professional"
+    new "Mantente profesional"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:187
     old "Give her breast a squeeze"
-    new "Give her breast a squeeze"
+    new "Dale un apretón a su pecho"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:470
     old "At the end of the play"
-    new "At the end of the play"
+    new "Al final de la obra"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:578
     old "Take a drink"
-    new "Take a drink"
+    new "Toma un trago"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:578
     old "Politely decline"
-    new "Politely decline"
+    new "Rechazar cortésmente"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:615
     old "You were incredible"
-    new "You were incredible"
+    new "Estuviste increíble"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:615
     old "You looked hot in that outfit"
-    new "You looked hot in that outfit"
+    new "Te veías sexy con ese atuendo"
 
     # game/code/scenes/theatre/sm1fs-t007.rpy:615
     old "It was solid"
-    new "It was solid"
+    new "Estuvo sólido"
 

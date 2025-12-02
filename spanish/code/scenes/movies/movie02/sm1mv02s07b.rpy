@@ -943,25 +943,25 @@ translate spanish sm1mv02s07b_79bbd417:
 translate spanish sm1mv02s07b_6e030d29:
 
     # mh "Oh - mmmmmm - this is even better than before, mmmmmm!"
-    mh "Oh - mmmmmm - this is even better than before, mmmmmm!"
+    mh "Oh - mmmmmm - ¡esto es aún mejor que antes, mmmmmm!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:589
 translate spanish sm1mv02s07b_e8de04a2:
 
     # mc "Fuck, I can feel her pussy sucking me in!"
-    mc "Fuck, I can feel her pussy sucking me in!"
+    mc "¡Joder, puedo sentir su coño succionándome!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:590
 translate spanish sm1mv02s07b_b95e3e8e:
 
     # mh "Mmmmm - her mouth is doing the same!"
-    mh "Mmmmm - her mouth is doing the same!"
+    mh "Mmmmm - ¡su boca está haciendo lo mismo!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:593
 translate spanish sm1mv02s07b_826b5d81:
 
     # mh "Her cock sucking is divine!"
-    mh "Her cock sucking is divine!"
+    mh "¡Su mamada es divina!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:594
 translate spanish sm1mv02s07b_bbe3c8a4:
@@ -973,19 +973,19 @@ translate spanish sm1mv02s07b_bbe3c8a4:
 translate spanish sm1mv02s07b_e6c21f95:
 
     # mc "Nggggg - I don't know how long I'm going to last!"
-    mc "Nggggg - I don't know how long I'm going to last!"
+    mc "Nggggg - ¡no sé cuánto tiempo voy a aguantar!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:598
 translate spanish sm1mv02s07b_cc0ca368:
 
     # mh "I can't tell which is better.{w} Her lips or her pussy."
-    mh "I can't tell which is better.{w} Her lips or her pussy."
+    mh "No puedo decir cuál es mejor.{w} Sus labios o su coño."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:601
 translate spanish sm1mv02s07b_5e9480ea:
 
     # mh "Mmmmmmm - God, just like that..."
-    mh "Mmmmmmm - God, just like that..."
+    mh "Mmmmmmm - Dios, justo así..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:602
 translate spanish sm1mv02s07b_dcc38882:
@@ -1009,19 +1009,19 @@ translate spanish sm1mv02s07b_5d4ad848:
 translate spanish sm1mv02s07b_31de929e:
 
     # mh "Yessss, mmmmmmm!"
-    mh "Yessss, mmmmmmm!"
+    mh "Sííííí, mmmmmmm!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:610
 translate spanish sm1mv02s07b_e1d04b5f:
 
     # mh "*panting*"
-    mh "*panting*"
+    mh "*jadeando*"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:613
 translate spanish sm1mv02s07b_642dfd16:
 
     # mc "Oh fuck, I'm getting close!"
-    mc "Oh fuck, I'm getting close!"
+    mc "¡Oh joder, estoy cerca!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:614
 translate spanish sm1mv02s07b_c4e6fc38:
@@ -1033,7 +1033,7 @@ translate spanish sm1mv02s07b_c4e6fc38:
 translate spanish sm1mv02s07b_68269260:
 
     # mh "Me too!"
-    mh "Me too!"
+    mh "¡Yo también!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:620
 translate spanish sm1mv02s07b_b15a7de1:
@@ -1045,19 +1045,19 @@ translate spanish sm1mv02s07b_b15a7de1:
 translate spanish sm1mv02s07b_fb16887d:
 
     # mh "Nari, I'm about to-"
-    mh "Nari, I'm about to-"
+    mh "Nari, estoy a punto de-"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:639
 translate spanish sm1mv02s07b_watersports_242a1aa1:
 
     # mh "Cuuummmmm!"
-    mh "Cuuummmmm!"
+    mh "¡Corrermeeee!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:648
 translate spanish sm1mv02s07b_watersports_383d7f94:
 
     # mh "Every drop... just like a good girl."
-    mh "Every drop... just like a good girl."
+    mh "Cada gota... como una buena chica."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:649
 translate spanish sm1mv02s07b_watersports_2dbf2dea:
@@ -1069,7 +1069,7 @@ translate spanish sm1mv02s07b_watersports_2dbf2dea:
 translate spanish sm1mv02s07b_watersports_2ebf4383:
 
     # mh "I hate to cum and go, but I just realized I have to use the ladies room."
-    mh "I hate to cum and go, but I just realized I have to use the ladies room."
+    mh "Odio correrme e irme, pero me acabo de dar cuenta de que tengo que ir al baño de damas."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:653
 translate spanish sm1mv02s07b_watersports_79cc9c69:
@@ -1081,43 +1081,43 @@ translate spanish sm1mv02s07b_watersports_79cc9c69:
 translate spanish sm1mv02s07b_watersports_51c72c64:
 
     # ns "Lyssa, if you want... you could... uhm..."
-    ns "Lyssa, if you want... you could... uhm..."
+    ns "Lyssa, si quieres... podrías... uhm..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:658
 translate spanish sm1mv02s07b_watersports_e520d982:
 
     # mh "I could what?"
-    mh "I could what?"
+    mh "¿Podría qué?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:662
 translate spanish sm1mv02s07b_watersports_2b3d8ac8:
 
     # ns "You could relieve yourself on me, Lyssa."
-    ns "You could relieve yourself on me, Lyssa."
+    ns "Podrías aliviarte sobre mí, Lyssa."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:663
 translate spanish sm1mv02s07b_watersports_8a560182:
 
     # ns "I think it would be wonderful if you did."
-    ns "I think it would be wonderful if you did."
+    ns "Creo que sería maravilloso si lo hicieras."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:666
 translate spanish sm1mv02s07b_watersports_d39a631d:
 
     # mh "How can I deny such a good girl a delicious request?"
-    mh "How can I deny such a good girl a delicious request?"
+    mh "¿Cómo puedo negarle a una chica tan buena una petición tan deliciosa?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:673
 translate spanish sm1mv02s07b_watersports_91c4213b:
 
     # mh "Oh Gooood, I didn't realize how bad I needed to go..."
-    mh "Oh Gooood, I didn't realize how bad I needed to go..."
+    mh "Oh Dioooos, no me di cuenta de cuánto lo necesitaba..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:674
 translate spanish sm1mv02s07b_watersports_f4178353:
 
     # ns "Oh, it's so warm, Lyssa! Ohhh!"
-    ns "Oh, it's so warm, Lyssa! Ohhh!"
+    ns "¡Oh, está tan caliente, Lyssa! ¡Ohhh!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:675
 translate spanish sm1mv02s07b_watersports_ddd533de:
@@ -1129,13 +1129,13 @@ translate spanish sm1mv02s07b_watersports_ddd533de:
 translate spanish sm1mv02s07b_watersports_991b61c7:
 
     # ns "Oh, it feels - oh, Lyssa! [mcname]!"
-    ns "Oh, it feels - oh, Lyssa! [mcname]!"
+    ns "Oh, se siente - ¡oh, Lyssa! ¡[mcname]!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:679
 translate spanish sm1mv02s07b_watersports_66a445e9:
 
     # mc "Oh God, I'm so close-!"
-    mc "Oh God, I'm so close-!"
+    mc "¡Oh Dios, estoy tan cerca-!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:680
 translate spanish sm1mv02s07b_watersports_df533afa:
@@ -1147,13 +1147,13 @@ translate spanish sm1mv02s07b_watersports_df533afa:
 translate spanish sm1mv02s07b_watersports_be5a7c1b:
 
     # ns "I can feel - yessss - I'm going to, I'm going to-"
-    ns "I can feel - yessss - I'm going to, I'm going to-"
+    ns "Puedo sentir - sííííí - voy a, voy a-"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:684
 translate spanish sm1mv02s07b_watersports_fc992a00:
 
     # mc "Oh, me too-"
-    mc "Oh, me too-"
+    mc "Oh, yo también-"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:685
 translate spanish sm1mv02s07b_watersports_d90763de:
@@ -1165,13 +1165,13 @@ translate spanish sm1mv02s07b_watersports_d90763de:
 translate spanish sm1mv02s07b_watersports_b5cb9030:
 
     # ns "Oh, oh, oh, oh! I'm cumming! Oh, I'm cumming!"
-    ns "Oh, oh, oh, oh! I'm cumming! Oh, I'm cumming!"
+    ns "¡Oh, oh, oh, oh! ¡Me corro! ¡Oh, me corro!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:689
 translate spanish sm1mv02s07b_watersports_0c26425b:
 
     # mc "Oh shiiiit!"
-    mc "Oh shiiiit!"
+    mc "¡Oh mierdaaa!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:700
 translate spanish sm1mv02s07b_watersports_756cde06:
@@ -1189,55 +1189,55 @@ translate spanish sm1mv02s07b_watersports_b03273ab:
 translate spanish sm1mv02s07b_watersports_4c89d439:
 
     # ns "Oh myyyyyy!"
-    ns "Oh myyyyyy!"
+    ns "¡Oh cielooos!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:714
 translate spanish sm1mv02s07b_watersports_c0dab57e:
 
     # mc "Damn, Nari..."
-    mc "Damn, Nari..."
+    mc "Maldita sea, Nari..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:718
 translate spanish sm1mv02s07b_watersports_489964b7:
 
     # mh "I have the exact same sentiment."
-    mh "I have the exact same sentiment."
+    mh "Tengo exactamente el mismo sentimiento."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:719
 translate spanish sm1mv02s07b_watersports_0c1cc558:
 
     # mh "You're quite the extraordinary woman, Nari. And I am happy to make your acquaintance."
-    mh "You're quite the extraordinary woman, Nari. And I am happy to make your acquaintance."
+    mh "Eres una mujer bastante extraordinaria, Nari. Y estoy feliz de conocerte."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:723
 translate spanish sm1mv02s07b_watersports_3a04ebe1:
 
     # ns "Thank you, Lyssa. But, it seems I've made a mess of myself, and should go and get clean."
-    ns "Thank you, Lyssa. But, it seems I've made a mess of myself, and should go and get clean."
+    ns "Gracias, Lyssa. Pero parece que me he hecho un desastre, y debería ir a limpiarme."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:724
 translate spanish sm1mv02s07b_watersports_bbbc5a5f:
 
     # ns "If you'll excuse me."
-    ns "If you'll excuse me."
+    ns "Si me disculpan."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:741
 translate spanish sm1mv02s07b_no_watersports_242a1aa1:
 
     # mh "Cuuummmmm!"
-    mh "Cuuummmmm!"
+    mh "¡Corrermeeee!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:742
 translate spanish sm1mv02s07b_no_watersports_acc20661:
 
     # mc "Me too!"
-    mc "Me too!"
+    mc "¡Yo también!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:752
 translate spanish sm1mv02s07b_no_watersports_8acc82a2:
 
     # mc "Fuuuuuuuuhhhhck!"
-    mc "Fuuuuuuuuhhhhck!"
+    mc "¡Jooooooooder!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:756
 translate spanish sm1mv02s07b_no_watersports_b03273ab:
@@ -1249,133 +1249,133 @@ translate spanish sm1mv02s07b_no_watersports_b03273ab:
 translate spanish sm1mv02s07b_no_watersports_0dd18a4e:
 
     # ns "Oh, I'm cummmmming!"
-    ns "Oh, I'm cummmmming!"
+    ns "¡Oh, me corrooo!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:762
 translate spanish sm1mv02s07b_no_watersports_5147d88d:
 
     # ns "Oh, my..."
-    ns "Oh, my..."
+    ns "Oh, cielos..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:767
 translate spanish sm1mv02s07b_no_watersports_383d7f94:
 
     # mh "Every drop... just like a good girl."
-    mh "Every drop... just like a good girl."
+    mh "Cada gota... como una buena chica."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:770
 translate spanish sm1mv02s07b_no_watersports_5e770005:
 
     # ns "Thank you, Lyssa."
-    ns "Thank you, Lyssa."
+    ns "Gracias, Lyssa."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:774
 translate spanish sm1mv02s07b_no_watersports_c0dab57e:
 
     # mc "Damn, Nari..."
-    mc "Damn, Nari..."
+    mc "Maldita sea, Nari..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:777
 translate spanish sm1mv02s07b_no_watersports_489964b7:
 
     # mh "I have the exact same sentiment."
-    mh "I have the exact same sentiment."
+    mh "Tengo exactamente el mismo sentimiento."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:778
 translate spanish sm1mv02s07b_no_watersports_0c1cc558:
 
     # mh "You're quite the extraordinary woman, Nari. And I am happy to make your acquaintance."
-    mh "You're quite the extraordinary woman, Nari. And I am happy to make your acquaintance."
+    mh "Eres una mujer bastante extraordinaria, Nari. Y estoy feliz de conocerte."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:782
 translate spanish sm1mv02s07b_no_watersports_3a04ebe1:
 
     # ns "Thank you, Lyssa. But, it seems I've made a mess of myself, and should go and get clean."
-    ns "Thank you, Lyssa. But, it seems I've made a mess of myself, and should go and get clean."
+    ns "Gracias, Lyssa. Pero parece que me he hecho un desastre, y debería ir a limpiarme."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:783
 translate spanish sm1mv02s07b_no_watersports_2b575dc3:
 
     # ns "If you'll excuse me!"
-    ns "If you'll excuse me!"
+    ns "¡Si me disculpan!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:799
 translate spanish sm1mv02s07b_end_7b2f27cd:
 
     # mh "Mmmmm... I really needed this today."
-    mh "Mmmmm... I really needed this today."
+    mh "Mmmmm... Realmente necesitaba esto hoy."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:802
 translate spanish sm1mv02s07b_end_01987d57:
 
     # mc "I could say the same."
-    mc "I could say the same."
+    mc "Podría decir lo mismo."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:803
 translate spanish sm1mv02s07b_end_8d0f7581:
 
     # mc "I would be lying to say I wasn't a little stressed."
-    mc "I would be lying to say I wasn't a little stressed."
+    mc "Estaría mintiendo si dijera que no estaba un poco estresado."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:807
 translate spanish sm1mv02s07b_end_570842f8:
 
     # mh "Same."
-    mh "Same."
+    mh "Igual."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:810
 translate spanish sm1mv02s07b_end_e9bed104:
 
     # ns "Oh, are we cuddling!?!"
-    ns "Oh, are we cuddling!?!"
+    ns "¡¿Oh, estamos acurrucándonos?!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:816
 translate spanish sm1mv02s07b_end_fec80edb:
 
     # ns "I love a good post-coital cuddle!"
-    ns "I love a good post-coital cuddle!"
+    ns "¡Me encanta un buen abrazo postcoital!"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:817
 translate spanish sm1mv02s07b_end_d7593448:
 
     # mct "Post-coital?"
-    mct "Post-coital?"
+    mct "¿Postcoital?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:819
 translate spanish sm1mv02s07b_end_acb8586d:
 
     # mc "I'm not sure this chair is big enough for all of us."
-    mc "I'm not sure this chair is big enough for all of us."
+    mc "No estoy seguro de que esta silla sea lo suficientemente grande para todos nosotros."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:820
 translate spanish sm1mv02s07b_end_a83b463b:
 
     # ns "We'll make it work."
-    ns "We'll make it work."
+    ns "Lo haremos funcionar."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:823
 translate spanish sm1mv02s07b_end_5a9338f8:
 
     # ns "Best boss ever."
-    ns "Best boss ever."
+    ns "El mejor jefe de todos."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:825
 translate spanish sm1mv02s07b_end_8221fbbd:
 
     # mc "I'm not your boss, Nari."
-    mc "I'm not your boss, Nari."
+    mc "No soy tu jefe, Nari."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:827
 translate spanish sm1mv02s07b_end_9bca07f1:
 
     # mh "You are the director, [mcname]. In a way, you are her boss."
-    mh "You are the director, [mcname]. In a way, you are her boss."
+    mh "Eres el director, [mcname]. De alguna manera, eres su jefe."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:828
 translate spanish sm1mv02s07b_end_012fe6ad:
 
     # mh "And also her landlord."
-    mh "And also her landlord."
+    mh "Y también su arrendador."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:833
 translate spanish sm1mv02s07b_end_2b35b6fe:
@@ -1387,11 +1387,11 @@ translate spanish sm1mv02s07b_end_2b35b6fe:
 translate spanish sm1mv02s07b_end_8bc4dbf7:
 
     # mh "Mmhmmm. That's what I thought."
-    mh "Mmhmmm. That's what I thought."
+    mh "Mmhmmm. Eso es lo que pensé."
 
 # game/code/scenes/movies/movie02/sm1mv02s07b.rpy:840
 translate spanish sm1mv02s07b_end_1e824725:
 
     # ns "Best spa day ever!"
-    ns "Best spa day ever!"
+    ns "¡El mejor día de spa de todos!"
 

@@ -1796,5 +1796,5 @@ translate spanish sm1mv01s08_movie_end_65593449:
 translate spanish sm1mv01s08_movie_start_f612a122:
 
     # sy "You rotten scoundrel."
-    sy "You rotten scoundrel."
+    sy "Canalla podrido."
 
