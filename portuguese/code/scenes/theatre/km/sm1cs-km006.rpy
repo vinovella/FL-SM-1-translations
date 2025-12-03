@@ -2000,7 +2000,7 @@ translate portuguese sm1cs_km006_sex_91d38494:
 translate portuguese sm1cs_km006_sex_023f19fd:
 
     # km "*sighs*"
-    km "*sighs*"
+    km "*suspiro*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1058
 translate portuguese sm1cs_km006_sex_667b9815:
@@ -3050,7 +3050,7 @@ translate portuguese sm1cs_km006_after_sex_6d0ee955:
 translate portuguese sm1cs_km006_after_sex_3f0e944d:
 
     # vs "Hehe. *giggles*"
-    vs "Hehe. *giggles*"
+    vs "Hehe. *risadinhas*"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1564
 translate portuguese sm1cs_km006_after_sex_89b16270:
