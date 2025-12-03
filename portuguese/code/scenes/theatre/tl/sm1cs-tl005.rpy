@@ -182,13 +182,13 @@ translate portuguese sm1cs_tl005_3a1717eb:
 translate portuguese sm1cs_tl005_034153d2:
 
     # "Aggro Dude" "HEY! CLOWN BITCH!"
-    "Aggro Dude" "EI! SUA PALHAÇA VADIA!"
+    "Maluco Agressivo" "EI! SUA PALHAÇA VADIA!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:133
 translate portuguese sm1cs_tl005_353178c3:
 
     # "Aggro Dude" "I KNOW YOU HEARD ME!"
-    "Aggro Dude" "EU SEI QUE VOCÊ ME OUVIU!"
+    "Maluco Agressivo" "EU SEI QUE VOCÊ ME OUVIU!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:136
 translate portuguese sm1cs_tl005_1241a836:
@@ -212,7 +212,7 @@ translate portuguese sm1cs_tl005_b6924f54:
 translate portuguese sm1cs_tl005_5690fea8:
 
     # "Aggro Dude" "Bitch!"
-    "Aggro Dude" "VADIA!"
+    "Maluco Agressivo" "VADIA!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:159
 translate portuguese sm1cs_tl005_ac1b1628:
@@ -230,19 +230,19 @@ translate portuguese sm1cs_tl005_3daceb94:
 translate portuguese sm1cs_tl005_238ba2ae:
 
     # "Aggro Dude" "Hey, get the fuck out of my way!"
-    "Aggro Dude" "Ei, sai da porra do meu caminho!"
+    "Maluco Agressivo" "Ei, sai do meu caminho, porra!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:165
 translate portuguese sm1cs_tl005_efcf6424:
 
     # "Aggro Dude" "Yo! Move!"
-    "Aggro Dude" "Ô! Anda logo!"
+    "Maluco Agressivo" "Ô! Anda logo!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:166
 translate portuguese sm1cs_tl005_4b1cf4ff:
 
     # "Aggro Dude" "Where the fuck did you go!?!"
-    "Aggro Dude" "Onde caralho você se meteu!?!"
+    "Maluco Agressivo" "Onde caralho você se meteu!?!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:171
 translate portuguese sm1cs_tl005_2bf80b48:
