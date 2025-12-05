@@ -158,5 +158,5 @@ translate italian sm1cs_sy002i_first_time_fe6569c6:
 translate italian sm1cs_sy002i_first_time_54ee52de:
 
     # sy "You know I love fucking somewhere unexpected."
-    sy "You know I love fucking somewhere unexpected."
+    sy "Sai che adoro scopare in posti inaspettati."
 

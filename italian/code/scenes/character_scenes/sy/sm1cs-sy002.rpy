@@ -1244,11 +1244,11 @@ translate italian sm1cs_sy002_dc_talk_074ea2e5:
 translate italian sm1cs_sy002_2_7cac9fc4:
 
     # mc "Yeah, it is. Hopefully we won't be interrupted this time!"
-    mc "Yeah, it is. Hopefully we won't be interrupted this time!"
+    mc "Sì, lo è. Speriamo di non essere interrotti questa volta!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:324
 translate italian sm1cs_sy002_2_1ff49b1d:
 
     # sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
-    sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
+    sy "Oh sìììì, Agente [mcname]! Oh è cosììì belloo!"
 

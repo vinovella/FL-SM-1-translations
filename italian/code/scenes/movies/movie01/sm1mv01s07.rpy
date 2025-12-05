@@ -236,5 +236,5 @@ translate italian sm1mv01s07_c5fb4c04:
 translate italian sm1mv01s07_37330fe8:
 
     # sy "Yup. What better way to put it behind us than to have a little fun in the sun."
-    sy "Yup. What better way to put it behind us than to have a little fun in the sun."
+    sy "Già. Che modo migliore per lasciarci tutto alle spalle se non divertirci un po' al sole."
 

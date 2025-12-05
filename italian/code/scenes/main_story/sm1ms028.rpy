@@ -982,29 +982,29 @@ translate italian sm1ms028_location_change_f85f2d25:
 translate italian sm1ms028_09ce7b18:
 
     # sy "Fly? You're scaring me."
-    sy "Fly? You're scaring me."
+    sy "Volare? Mi stai spaventando."
 
 # game/code/scenes/main_story/sm1ms028.rpy:132
 translate italian sm1ms028_dress_change_5bb90607:
 
     # mc "Never mind, we don't have time to change."
-    mc "Never mind, we don't have time to change."
+    mc "Non importa, non abbiamo tempo per cambiarci."
 
 # game/code/scenes/main_story/sm1ms028.rpy:220
 translate italian sm1ms028_location_change_655577ab:
 
     # dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
-    dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+    dl "L'ho sempre fatto. Fin dai primi tempi, quando dovevi sapere la password per entrare nella sezione speciale del Blockbuster in centro."
 
 # game/code/scenes/main_story/sm1ms028.rpy:265
 translate italian sm1ms028_location_change_50233dc1:
 
     # sy "I think $1000 is more appropriate."
-    sy "I think $1000 is more appropriate."
+    sy "Penso che $1000 sia più appropriato."
 
 # game/code/scenes/main_story/sm1ms028.rpy:437
 translate italian sm1ms028_location_change_8a80e7f6:
 
     # mc "All that hard work is finally paying off!"
-    mc "All that hard work is finally paying off!"
+    mc "Tutto quel duro lavoro sta finalmente dando i suoi frutti!"
 

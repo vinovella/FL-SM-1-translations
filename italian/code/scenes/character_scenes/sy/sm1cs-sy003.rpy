@@ -494,7 +494,7 @@ translate italian sm1cs_sy003_sex_3b7af9bc:
 translate italian sm1cs_sy003_sex_034d861f:
 
     # sy "*slurp... suck*"
-    sy "*slurp... suck*"
+    sy "*slurp... succhia*"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:378
 translate italian sm1cs_sy003_sex_b4a58eef:
@@ -716,7 +716,7 @@ translate italian sm1cs_sy003_sex_9e3d1643:
 translate italian sm1cs_sy003_sex_080ac2c5:
 
     # sy "Oh fuck! Mmuhaaahhh..."
-    sy "Oh fuck! Mmuhaaahhh..."
+    sy "Oh cazzo! Mmuhaaahhh..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:497
 translate italian sm1cs_sy003_sex_b10ddeb5:
@@ -974,5 +974,5 @@ translate italian sm1cs_sy003_end_e277e827:
 translate italian sm1cs_sy003_sex_45437f42:
 
     # sy "I said. 'While you fuck-oouhwaaah!'"
-    sy "I said. 'While you fuck-oouhwaaah!'"
+    sy "Ho detto. 'Mentre mi scopi-oouhwaaah!'"
 

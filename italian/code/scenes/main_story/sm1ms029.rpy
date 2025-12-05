@@ -2420,7 +2420,7 @@ translate italian sm1ms029_party_part_1_6b838a60:
 translate italian sm1ms029_party_part_1_404301fb:
 
     # sy "I - nggghhhh - I - nnnnngggghhhhh!"
-    sy "I - nggghhhh - I - nnnnngggghhhhh!"
+    sy "Io - nggghhhh - Io - nnnnngggghhhhh!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1091
 translate italian sm1ms029_party_part_1_4eb754e1:
@@ -6786,83 +6786,83 @@ translate italian sm1ms029_confrontation_c8157585:
 translate italian sm1ms029_63adc03a:
 
     # arj "How could I resist the inaugural S&M Studio party?"
-    arj "How could I resist the inaugural S&M Studio party?"
+    arj "Come potevo resistere alla festa inaugurale dello S&M Studio?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1185
 translate italian sm1ms029_talk_mes_ns_03101e46:
 
     # mc "She does need a supervisor."
-    mc "She does need a supervisor."
+    mc "Ha davvero bisogno di un supervisore."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1420
 translate italian sm1ms029_talk_kv_hr_arj_4e02a384:
 
     # mc "She's a worrywart."
-    mc "She's a worrywart."
+    mc "È una che si preoccupa troppo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1523
 translate italian sm1ms029_party_part_1_ece8a1eb:
 
     # sy "Noooo, just a little more!"
-    sy "Noooo, just a little more!"
+    sy "Noooo, ancora un po'!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2090
 translate italian sm1ms029_part_1_my_appear_46a079f3:
 
     # arj "That's right, I know all your fantasies, you little perv."
-    arj "That's right, I know all your fantasies, you little perv."
+    arj "Esatto, conosco tutte le tue fantasie, piccolo pervertito."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2273
 translate italian sm1ms029_part_1_my_appear_7387fd43:
 
     # my "All right. Well, if you see her, tell her to call me, okay?"
-    my "All right. Well, if you see her, tell her to call me, okay?"
+    my "Va bene. Beh, se la vedi, dille di chiamarmi, okay?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2403
 translate italian sm1ms029_party_sy_94f70313:
 
     # sy "Your sister has the best ass in Crowning!"
-    sy "Your sister has the best ass in Crowning!"
+    sy "Tua sorella ha il culo più bello di Crowning!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2994
 translate italian sm1ms029_party_arj_b51ba273:
 
     # arj "*happy slurping noise*"
-    arj "*happy slurping noise*"
+    arj "*rumore felice di slurp*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3510
 translate italian sm1ms029_confrontation_d6d4f3c8:
 
     # et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
-    et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
+    et "Quando ho scoperto che erano solo un fratello e una sorella a gestire le cose senza nessuna formazione aziendale formale, devo ammettere."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3559
 translate italian sm1ms029_confrontation_c26dec61:
 
     # sy "You heard [mcname]. The answer is no, Foxmorr."
-    sy "You heard [mcname]. The answer is no, Foxmorr."
+    sy "Hai sentito [mcname]. La risposta è no, Foxmorr."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3619
 translate italian sm1ms029_confrontation_daf0d17d:
 
     # et "Still... as you said... This place-"
-    et "Still... as you said... This place-"
+    et "Tuttavia... come hai detto... Questo posto-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3651
 translate italian sm1ms029_confrontation_56911771:
 
     # sy "*indiscernible words*"
-    sy "*indiscernible words*"
+    sy "*parole incomprensibili*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3702
 translate italian sm1ms029_confrontation_49405f37:
 
     # sy "I think he's just afraid of a little competition."
-    sy "I think he's just afraid of a little competition."
+    sy "Penso che abbia solo paura di un po' di competizione."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3955
 translate italian sm1ms029_party_end_254d93ee:
 
     # mc "For sleepovers. Come on."
-    mc "For sleepovers. Come on."
+    mc "Per i pigiama party. Andiamo."
 
