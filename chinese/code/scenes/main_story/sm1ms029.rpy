@@ -890,83 +890,83 @@ translate chinese sm1ms029_confrontation_c8157585:
 translate chinese sm1ms029_63adc03a:
 
     # arj "How could I resist the inaugural S&M Studio party?"
-    arj "How could I resist the inaugural S&M Studio party?"
+    arj "S&M工作室的首场派对我怎么可能会错过？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1185
 translate chinese sm1ms029_talk_mes_ns_03101e46:
 
     # mc "She does need a supervisor."
-    mc "She does need a supervisor."
+    mc "她确实需要有人监督。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1420
 translate chinese sm1ms029_talk_kv_hr_arj_4e02a384:
 
     # mc "She's a worrywart."
-    mc "She's a worrywart."
+    mc "她就是爱瞎操心。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1523
 translate chinese sm1ms029_party_part_1_ece8a1eb:
 
     # sy "Noooo, just a little more!"
-    sy "Noooo, just a little more!"
+    sy "不要停啊啊，再多一点！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2090
 translate chinese sm1ms029_part_1_my_appear_46a079f3:
 
     # arj "That's right, I know all your fantasies, you little perv."
-    arj "That's right, I know all your fantasies, you little perv."
+    arj "没错，我知道你所有的幻想，你这个小色鬼。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2273
 translate chinese sm1ms029_part_1_my_appear_7387fd43:
 
     # my "All right. Well, if you see her, tell her to call me, okay?"
-    my "All right. Well, if you see her, tell her to call me, okay?"
+    my "好吧。那如果你见到她，告诉她给我打电话，好吗？"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2403
 translate chinese sm1ms029_party_sy_94f70313:
 
     # sy "Your sister has the best ass in Crowning!"
-    sy "Your sister has the best ass in Crowning!"
+    sy "你姐姐在克劳宁有最棒的屁股！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2994
 translate chinese sm1ms029_party_arj_b51ba273:
 
     # arj "*happy slurping noise*"
-    arj "*happy slurping noise*"
+    arj "*愉快的吸吮声*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3510
 translate chinese sm1ms029_confrontation_d6d4f3c8:
 
     # et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
-    et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
+    et "当我发现这只是一对没有接受过正规商业教育的兄妹在经营时，我不得不承认。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3559
 translate chinese sm1ms029_confrontation_c26dec61:
 
     # sy "You heard [mcname]. The answer is no, Foxmorr."
-    sy "You heard [mcname]. The answer is no, Foxmorr."
+    sy "你听到[mcname]说的了。答案是不行，福克斯莫尔。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3619
 translate chinese sm1ms029_confrontation_daf0d17d:
 
     # et "Still... as you said... This place-"
-    et "Still... as you said... This place-"
+    et "不过...正如你所说...这个地方--"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3651
 translate chinese sm1ms029_confrontation_56911771:
 
     # sy "*indiscernible words*"
-    sy "*indiscernible words*"
+    sy "*含糊不清的话*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3702
 translate chinese sm1ms029_confrontation_49405f37:
 
     # sy "I think he's just afraid of a little competition."
-    sy "I think he's just afraid of a little competition."
+    sy "我觉得他只是害怕一点竞争而已。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3955
 translate chinese sm1ms029_party_end_254d93ee:
 
     # mc "For sleepovers. Come on."
-    mc "For sleepovers. Come on."
+    mc "用来过夜的。别想歪了。"
 

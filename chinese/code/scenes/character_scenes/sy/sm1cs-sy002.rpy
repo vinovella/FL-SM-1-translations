@@ -1244,11 +1244,11 @@ translate chinese sm1cs_sy002_2_221a6943:
 translate chinese sm1cs_sy002_2_7cac9fc4:
 
     # mc "Yeah, it is. Hopefully we won't be interrupted this time!"
-    mc "Yeah, it is. Hopefully we won't be interrupted this time!"
+    mc "是啊。希望这次不会被打断！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:324
 translate chinese sm1cs_sy002_2_1ff49b1d:
 
     # sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
-    sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
+    sy "噢是的啊啊啊，[mcname]特工！噢感觉太--棒--了！"
 

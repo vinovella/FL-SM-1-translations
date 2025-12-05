@@ -158,5 +158,5 @@ translate chinese sm1cs_sy002i_first_time_fe6569c6:
 translate chinese sm1cs_sy002i_first_time_54ee52de:
 
     # sy "You know I love fucking somewhere unexpected."
-    sy "You know I love fucking somewhere unexpected."
+    sy "你知道我喜欢在意想不到的地方做爱。"
 

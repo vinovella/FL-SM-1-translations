@@ -984,29 +984,29 @@ translate chinese sm1ms028_location_change_f85f2d25:
 translate chinese sm1ms028_09ce7b18:
 
     # sy "Fly? You're scaring me."
-    sy "Fly? You're scaring me."
+    sy "体面？你吓到我了。"
 
 # game/code/scenes/main_story/sm1ms028.rpy:132
 translate chinese sm1ms028_dress_change_5bb90607:
 
     # mc "Never mind, we don't have time to change."
-    mc "Never mind, we don't have time to change."
+    mc "算了，我们没时间换衣服了。"
 
 # game/code/scenes/main_story/sm1ms028.rpy:220
 translate chinese sm1ms028_location_change_655577ab:
 
     # dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
-    dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+    dl "一直都是这样。从最早期开始，那时候你得知道密码才能进入市中心百视达的特殊区域。"
 
 # game/code/scenes/main_story/sm1ms028.rpy:265
 translate chinese sm1ms028_location_change_50233dc1:
 
     # sy "I think $1000 is more appropriate."
-    sy "I think $1000 is more appropriate."
+    sy "我觉得1000美元更合适。"
 
 # game/code/scenes/main_story/sm1ms028.rpy:437
 translate chinese sm1ms028_location_change_8a80e7f6:
 
     # mc "All that hard work is finally paying off!"
-    mc "All that hard work is finally paying off!"
+    mc "所有的努力终于有回报了！"
 
