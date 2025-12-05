@@ -1,0 +1,22 @@
+﻿translate magyar strings:
+
+    # game/code/classes/map_location.rpy:55
+    old "[name!t] is unavailable"
+    new "[name!t] is unavailable"
+
+    # game/code/classes/map_location.rpy:64
+    old "Go to [name!t]"
+    new "Go to [name!t]"
+
+    # game/code/classes/map_location.rpy:72
+    old "[name!t] is not open yet"
+    new "[name!t] is not open yet"
+
+    # game/code/classes/map_location.rpy:72
+    old "[name!t] is already closed for the day"
+    new "[name!t] is already closed for the day"
+
+    # game/code/classes/map_location.rpy:72
+    old "[name!t] is closed today"
+    new "[name!t] is closed today"
+
