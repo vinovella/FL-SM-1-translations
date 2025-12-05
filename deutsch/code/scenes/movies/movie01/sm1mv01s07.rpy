@@ -236,5 +236,5 @@ translate deutsch sm1mv01s07_c5fb4c04:
 translate deutsch sm1mv01s07_37330fe8:
 
     # sy "Yup. What better way to put it behind us than to have a little fun in the sun."
-    sy "Yup. What better way to put it behind us than to have a little fun in the sun."
+    sy "Jap. Was gibt es Besseres, um es hinter uns zu lassen, als ein bisschen Spaß in der Sonne zu haben."
 

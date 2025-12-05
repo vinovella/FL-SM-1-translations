@@ -1676,29 +1676,29 @@ translate deutsch sm1ms022_94f3e8f9:
 translate deutsch sm1ms022_b335c61c:
 
     # sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
-    sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
+    sy "Mein enger kleiner Arsch verschlingt diese Gurke einfach! Ooooooo!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:579
 translate deutsch sm1ms022_67e01765:
 
     # sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
-    sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
+    sy "Pack mich an den Haaren, damit du etwas Halt hast, während du mein Arschloch fickst."
 
 # game/code/scenes/main_story/sm1ms022.rpy:619
 translate deutsch sm1ms022_361d8f7f:
 
     # sy "Oh get that dick deep inside my dirty little hoooole."
-    sy "Oh get that dick deep inside my dirty little hoooole."
+    sy "Oh schieb den Schwanz tief in mein dreckiges kleines Looooch."
 
 # game/code/scenes/main_story/sm1ms022.rpy:645
 translate deutsch sm1ms022_b257719d:
 
     # sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
-    sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
+    sy "Ich kooooomme, Farmhand Joooooon! Oh Gott, oh Gott - fuck, ich komme durch meinen Arschhhh!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:862
 translate deutsch sm1ms022_0a2335a3:
 
     # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
-    kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
+    kv "Kurz gesagt, es ist der Raum zwischen der Linse und dem Sensor. Manchmal gerät Schmutz oder so rein."
 
