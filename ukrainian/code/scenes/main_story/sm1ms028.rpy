@@ -203,10 +203,10 @@ translate ukrainian sm1ms028_485f1564:
     mc "I'll tell you on the ride over. For now, we gotta look fly."
 
 # game/code/scenes/main_story/sm1ms028.rpy:98
-translate ukrainian sm1ms028_a587ee6f:
+translate ukrainian sm1ms028_09ce7b18:
 
-    # sy "Fly? You're scarcing me."
-    sy "Fly? You're scarcing me."
+    # sy "Fly? You're scaring me."
+    sy "Fly? You're scaring me."
 
 # game/code/scenes/main_story/sm1ms028.rpy:102
 translate ukrainian sm1ms028_b849f538:
@@ -245,10 +245,10 @@ translate ukrainian sm1ms028_dress_change_f7f142da:
     mc "You do... but."
 
 # game/code/scenes/main_story/sm1ms028.rpy:132
-translate ukrainian sm1ms028_dress_change_d5624f26:
+translate ukrainian sm1ms028_dress_change_5bb90607:
 
-    # mc "Never mind, we dont have time to change."
-    mc "Never mind, we dont have time to change."
+    # mc "Never mind, we don't have time to change."
+    mc "Never mind, we don't have time to change."
 
 # game/code/scenes/main_story/sm1ms028.rpy:135
 translate ukrainian sm1ms028_dress_change_29f52d66:
@@ -425,10 +425,10 @@ translate ukrainian sm1ms028_location_change_82deabde:
     dl "And I mean a lot of porn."
 
 # game/code/scenes/main_story/sm1ms028.rpy:220
-translate ukrainian sm1ms028_location_change_5ba6d842:
+translate ukrainian sm1ms028_location_change_655577ab:
 
-    # dl "Always done it. From even the earliest time, back when you had to know the password to get into the speial section at the downtown Blockbuster."
-    dl "Always done it. From even the earliest time, back when you had to know the password to get into the speial section at the downtown Blockbuster."
+    # dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+    dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
 
 # game/code/scenes/main_story/sm1ms028.rpy:223
 translate ukrainian sm1ms028_location_change_f98cbc50:
@@ -539,10 +539,10 @@ translate ukrainian sm1ms028_location_change_e472835a:
     dl "How much more."
 
 # game/code/scenes/main_story/sm1ms028.rpy:265
-translate ukrainian sm1ms028_location_change_1830bfcb:
+translate ukrainian sm1ms028_location_change_50233dc1:
 
-    # sy "I think $1000 is more approrpirate."
-    sy "I think $1000 is more approrpirate."
+    # sy "I think $1000 is more appropriate."
+    sy "I think $1000 is more appropriate."
 
 # game/code/scenes/main_story/sm1ms028.rpy:268
 translate ukrainian sm1ms028_location_change_47498af5:
@@ -929,10 +929,10 @@ translate ukrainian sm1ms028_location_change_4f38ddaf:
     sy "*slurp*"
 
 # game/code/scenes/main_story/sm1ms028.rpy:437
-translate ukrainian sm1ms028_location_change_5faf666d:
+translate ukrainian sm1ms028_location_change_8a80e7f6:
 
-    # mc "All that hard work is finially paying off!"
-    mc "All that hard work is finially paying off!"
+    # mc "All that hard work is finally paying off!"
+    mc "All that hard work is finally paying off!"
 
 # game/code/scenes/main_story/sm1ms028.rpy:440
 translate ukrainian sm1ms028_location_change_88d903fc:

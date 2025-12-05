@@ -424,12 +424,6 @@ translate italian sm1cs_sy002_2_35acf99c:
     # sy "This place has such a vibe at night. It's really, like, the {i}perfect place{/i} for a little saucy acting."
     sy "Questo posto ha un'atmosfera così particolare di notte. È davvero, tipo, il {i}posto perfetto{/i} per un po' di recitazione piccante."
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:256
-translate italian sm1cs_sy002_2_90462333:
-
-    # mc "Yeah, it is. Hopefully we won't be interepted this time!"
-    mc "Sì, lo è. Speriamo di non essere interrotti questa volta!"
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:257
 translate italian sm1cs_sy002_2_f11720dd:
 
@@ -537,12 +531,6 @@ translate italian sm1cs_sy002_2_aa514fc1:
 
     # mc "Aye, aye!"
     mc "Sissignore!"
-
-# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:318
-translate italian sm1cs_sy002_2_561c9b87:
-
-    # sy "Oh yessss, [mcname]! Oh that feels sooooo goood!"
-    sy "Oh sìììì, [mcname]! Oh è così bellllooo!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:319
 translate italian sm1cs_sy002_2_e3ec9059:
@@ -1251,4 +1239,16 @@ translate italian sm1cs_sy002_dc_talk_074ea2e5:
 
     # mc "Alright, we'll see. But next time, let's plan our park adventure a bit better."
     mc "Va bene, vedremo. Ma la prossima volta, pianifichiamo meglio la nostra avventura nel parco."
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:256
+translate italian sm1cs_sy002_2_7cac9fc4:
+
+    # mc "Yeah, it is. Hopefully we won't be interrupted this time!"
+    mc "Yeah, it is. Hopefully we won't be interrupted this time!"
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:324
+translate italian sm1cs_sy002_2_1ff49b1d:
+
+    # sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
+    sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
 

@@ -208,12 +208,6 @@ translate spanish sm1mv01s07_5f633f99:
     # mc "The last scene was a doozy."
     mc "La última escena fue agotadora."
 
-# game/code/scenes/movies/movie01/sm1mv01s07.rpy:111
-translate spanish sm1mv01s07_01a788c3:
-
-    # sy "Yup. So what better way to put it in the past and have a little fun in the sun."
-    sy "Así es. ¿Qué mejor manera de dejarlo en el pasado que divertirnos un poco bajo el sol?"
-
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:112
 translate spanish sm1mv01s07_bd0c267a:
 
@@ -237,4 +231,10 @@ translate spanish sm1mv01s07_c5fb4c04:
 
     # sy "Great.{w} Road trip!"
     sy "¡Genial.{w} Viaje por carretera!"
+
+# game/code/scenes/movies/movie01/sm1mv01s07.rpy:111
+translate spanish sm1mv01s07_37330fe8:
+
+    # sy "Yup. What better way to put it behind us than to have a little fun in the sun."
+    sy "Yup. What better way to put it behind us than to have a little fun in the sun."
 

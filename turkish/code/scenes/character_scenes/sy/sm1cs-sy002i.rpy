@@ -70,12 +70,6 @@ translate turkish sm1cs_sy002i_first_time_263c64ae:
     # sy "Yeah, there are plenty of places around town we could use as sets. Parks, alleys, rooftops..."
     sy "Evet, şehrin etrafında set olarak kullanabileceğimiz birçok yer var. Parklar, sokaklar, çatı katları..."
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:43
-translate turkish sm1cs_sy002i_first_time_c3f42571:
-
-    # sy "You know I love the fucking somewhere unexpected."
-    sy "Beklenmedik yerlerde sikişmeyi sevdiğimi biliyorsun."
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:45
 translate turkish sm1cs_sy002i_first_time_66335b13:
 
@@ -159,4 +153,10 @@ translate turkish sm1cs_sy002i_first_time_fe6569c6:
 
     # mct "Oh boy... here we go."
     mct "Aman Tanrım... işte başlıyoruz."
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:43
+translate turkish sm1cs_sy002i_first_time_54ee52de:
+
+    # sy "You know I love fucking somewhere unexpected."
+    sy "You know I love fucking somewhere unexpected."
 

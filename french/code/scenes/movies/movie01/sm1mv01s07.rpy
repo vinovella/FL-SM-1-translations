@@ -208,12 +208,6 @@ translate french sm1mv01s07_5f633f99:
     # mc "The last scene was a doozy."
     mc "La dernière scène était costaud."
 
-# game/code/scenes/movies/movie01/sm1mv01s07.rpy:111
-translate french sm1mv01s07_01a788c3:
-
-    # sy "Yup. So what better way to put it in the past and have a little fun in the sun."
-    sy "Ouais. Et quelle meilleure façon de tourner la page qu’un peu de fun au soleil."
-
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:112
 translate french sm1mv01s07_bd0c267a:
 
@@ -239,4 +233,10 @@ translate french sm1mv01s07_c5fb4c04:
     sy "Super.{w} Road trip !"
 
 #Translate by BlackViper_
+
+# game/code/scenes/movies/movie01/sm1mv01s07.rpy:111
+translate french sm1mv01s07_37330fe8:
+
+    # sy "Yup. What better way to put it behind us than to have a little fun in the sun."
+    sy "Yup. What better way to put it behind us than to have a little fun in the sun."
 

@@ -40,12 +40,6 @@ translate chinese sm1ms029_part_1_my_appear_2bc4e327:
     # sy "Mmmmm - mmmmmmm!"
     sy "嗯嗯 - 嗯嗯嗯！"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1428
-translate chinese sm1ms029_part_1_my_appear_674e7749:
-
-    # arj "That's right, I know al your fantasies, you little perv."
-    arj "没错，我知道你所有的幻想，你这个小色鬼。"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1429
 translate chinese sm1ms029_part_1_my_appear_7f748666:
 
@@ -364,12 +358,6 @@ translate chinese sm1ms029_part_1_my_appear_3593afed:
     # mc "I will! Bye, Mom! Love you!"
     mc "我会的！再见，妈妈！爱你！"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1521
-translate chinese sm1ms029_part_1_my_appear_c8ad3713:
-
-    # my "All right, Well, if you see her, tell her to call me, okay?"
-    my "好吧，嗯，如果你看到她，告诉她给我打电话，好吗？"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1522
 translate chinese sm1ms029_part_1_my_appear_20231b23:
 
@@ -573,12 +561,6 @@ translate chinese sm1ms029_party_sy_e4518d78:
 
     # mc "Shit. Your ass is so tight! Even after AmRose fucked it!"
     mc "该死。你的屁股好紧！即使在爱洛丝操过之后！"
-
-# game/code/scenes/main_story/sm1ms029.rpy:1586
-translate chinese sm1ms029_party_sy_35b1c37e:
-
-    # sy "Yor sister has the best ass in Crowning!"
-    sy "你妹妹有克劳宁最好的屁股！"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1588
 translate chinese sm1ms029_party_sy_dddd6b1a:
@@ -1653,12 +1635,6 @@ translate chinese sm1ms029_party_arj_89e2ca21:
 
     # mc "It's not a true party until I have your lips wrapped around my cock!"
     mc "只有你的嘴唇包住我的鸡巴才算真正的派对！"
-
-# game/code/scenes/main_story/sm1ms029.rpy:1900
-translate chinese sm1ms029_party_arj_43a496cc:
-
-    # arj "*happy slupring noise*"
-    arj "*快乐的啜饮声*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1904
 translate chinese sm1ms029_party_arj_db2fafa7:

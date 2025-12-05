@@ -400,12 +400,6 @@ translate turkish sm1ms029_party_arj_6be0145b:
     # arj "Mrrrmmmmm."
     arj "Mrrrmmmmm."
 
-# game/code/scenes/main_story/sm1ms029.rpy:2021
-translate turkish sm1ms029_party_arj_2754e49d:
-
-    # arj "Ohuaa... kissing you... while you're right up against my spot..."
-    arj "Ohuaa... seni öpmek... tam noktama dokunurken..."
-
 # game/code/scenes/main_story/sm1ms029.rpy:2022
 translate turkish sm1ms029_party_arj_101a5723:
 
@@ -862,12 +856,6 @@ translate turkish sm1ms029_confrontation_662ae26b:
     # et "I've been learning about you, seeing how S&M Studio came to be."
     et "Siz hakkında bilgi ediniyordum, S&M Studio'nun nasıl ortaya çıktığını görüyordum."
 
-# game/code/scenes/main_story/sm1ms029.rpy:2185
-translate turkish sm1ms029_confrontation_0020431e:
-
-    # et "When I found out that it was just a brother and sister running things, without any formal business, education, I had to admit."
-    et "Sadece bir erkek ve kız kardeşin, herhangi bir resmi iş eğitimi olmadan işleri yürüttüğünü öğrendiğimde, kabul etmem gerekti."
-
 # game/code/scenes/main_story/sm1ms029.rpy:2187
 translate turkish sm1ms029_confrontation_63896cc6:
 
@@ -969,12 +957,6 @@ translate turkish sm1ms029_confrontation_cb46a1af:
 
     # et "You haven't even heard how much I'm offering."
     et "Ne kadar teklif ettiğimi bile duymadın."
-
-# game/code/scenes/main_story/sm1ms029.rpy:2216
-translate turkish sm1ms029_confrontation_4687687c:
-
-    # sy "You heard, [mcname]. The answer is no, Foxmorr."
-    sy "Duydun, [mcname]. Cevap hayır, Foxmorr."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2221
 translate turkish sm1ms029_confrontation_fabc44e1:
@@ -1108,12 +1090,6 @@ translate turkish sm1ms029_confrontation_4183c98e:
     # et "For you and everyone close to you."
     et "Senin ve sana yakın herkes için."
 
-# game/code/scenes/main_story/sm1ms029.rpy:2262
-translate turkish sm1ms029_confrontation_7e19a826:
-
-    # et "Still... as you said... Thie place-"
-    et "Yine de... dediğin gibi... Bu yer-"
-
 # game/code/scenes/main_story/sm1ms029.rpy:2263
 translate turkish sm1ms029_confrontation_b47761c7:
 
@@ -1161,12 +1137,6 @@ translate turkish sm1ms029_confrontation_928cc905:
 
     # et "Carmel."
     et "Carmel."
-
-# game/code/scenes/main_story/sm1ms029.rpy:2280
-translate turkish sm1ms029_confrontation_2247f06f:
-
-    # sy "*indiscernable words*"
-    sy "*anlaşılmaz sözler*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2282
 translate turkish sm1ms029_confrontation_24b25b0f:
@@ -1257,12 +1227,6 @@ translate turkish sm1ms029_confrontation_abef5622:
 
     # sy "Yeah. Screw him."
     sy "Evet. Siktiret onu."
-
-# game/code/scenes/main_story/sm1ms029.rpy:2321
-translate turkish sm1ms029_confrontation_fcedb6ac:
-
-    # sy "I think he's just afraid of a little competiion."
-    sy "Sanırım sadece biraz rekabetten korkuyor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2324
 translate turkish sm1ms029_confrontation_ffc7e92f:
@@ -1575,12 +1539,6 @@ translate turkish sm1ms029_party_end_4781ee9b:
 
     # arj "Why is it so big?"
     arj "Neden bu kadar büyük?"
-
-# game/code/scenes/main_story/sm1ms029.rpy:2434
-translate turkish sm1ms029_party_end_1574b04d:
-
-    # mc "For sleepovers. Come'on."
-    mc "Pijama partileri için. Hadi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2439
 translate turkish sm1ms029_party_end_6d46208f:

@@ -208,12 +208,6 @@ translate deutsch sm1mv01s07_5f633f99:
     # mc "The last scene was a doozy."
     mc "Die letzte Szene war der Hammer."
 
-# game/code/scenes/movies/movie01/sm1mv01s07.rpy:111
-translate deutsch sm1mv01s07_01a788c3:
-
-    # sy "Yup. So what better way to put it in the past and have a little fun in the sun."
-    sy "Ja. Was gibt es also Besseres, als das hinter sich zu lassen und ein bisschen Spaß in der Sonne zu haben?"
-
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:112
 translate deutsch sm1mv01s07_bd0c267a:
 
@@ -237,4 +231,10 @@ translate deutsch sm1mv01s07_c5fb4c04:
 
     # sy "Great.{w} Road trip!"
     sy "Großartig.{w} Roadtrip!"
+
+# game/code/scenes/movies/movie01/sm1mv01s07.rpy:111
+translate deutsch sm1mv01s07_37330fe8:
+
+    # sy "Yup. What better way to put it behind us than to have a little fun in the sun."
+    sy "Yup. What better way to put it behind us than to have a little fun in the sun."
 

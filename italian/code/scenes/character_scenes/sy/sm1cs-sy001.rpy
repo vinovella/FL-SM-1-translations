@@ -448,12 +448,6 @@ translate italian sm1cs_sy001_shower_sex_9e96fb48:
     # sy "It's been, mmmmmmng, hard work, but -"
     sy "È stato, mmmmmmng, duro lavoro, ma -"
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:300
-translate italian sm1cs_sy001_shower_sex_0365bafe:
-
-    # sy "- All of that hard work has been with it. Because - nnnnng - I can feel your dick so deep in me right now!"
-    sy "- Tutto quel duro lavoro ne è valso la pena. Perché - nnnnng - riesco a sentire il tuo cazzo così profondo dentro di me adesso!"
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:302
 translate italian sm1cs_sy001_shower_sex_e8f4a7bf:
 
@@ -763,4 +757,10 @@ translate italian sm1cs_sy001_watersports_962bd759:
 
     # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
     sy "Uh huh. Non preoccuparti per me, rimarrò semplicemente seduta qui nel bagliore post-orgasmico e penserò a tutte le cose sporche per un po'."
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:316
+translate italian sm1cs_sy001_shower_sex_1512c8ff:
+
+    # sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
+    sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
 

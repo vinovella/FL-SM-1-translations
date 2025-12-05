@@ -22,12 +22,6 @@ translate italian sm1mv01s08_4e4bd63e:
     # mct "Nobody told me you'd have to get up this early to make movies..."
     mct "Nessuno mi ha detto che per girare film bisogna alzarsi così presto..."
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:73
-translate italian sm1mv01s08_ad1a6180:
-
-    # mc "Stacy, come'on."
-    mc "Stacy, dai."
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:74
 translate italian sm1mv01s08_c1f718b8:
 
@@ -1797,4 +1791,10 @@ translate italian sm1mv01s08_movie_start_b186964d:
 
     # mc "How can I believe you when your moans keep begging for my cock to pound your butthole?"
     mc "Come posso crederti quando i tuoi gemiti continuano a implorare il mio cazzo di martellare il tuo buco del culo?"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:73
+translate italian sm1mv01s08_e6d2fca7:
+
+    # mc "Stacy, come on."
+    mc "Stacy, come on."
 

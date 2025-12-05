@@ -1290,12 +1290,6 @@ translate portuguese strings:
     old "To no more manual labor!"
     new "Ao fim do trabalho manual!"
 
-# game/code/scenes/main_story/sm1ms020.rpy:135
-translate portuguese sm1ms020_fd52713d:
-
-    # mc "Well... why did you used to live in Crowning?"
-    mc "Bom... por que você morava em Crowning?"
-
 # game/code/scenes/main_story/sm1ms020.rpy:175
 translate portuguese sm1ms020_0046f9d0:
 
@@ -1307,4 +1301,10 @@ translate portuguese sm1ms020_ef441d96:
 
     # my "Oh! You brought us to Guns and Rosette!"
     my "Ah! Você nos trouxe no Guns n' Rosette!"
+
+# game/code/scenes/main_story/sm1ms020.rpy:135
+translate portuguese sm1ms020_5f7987cf:
+
+    # mc "Well... why did you use to live in Crowning?"
+    mc "Well... why did you use to live in Crowning?"
 

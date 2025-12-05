@@ -364,12 +364,6 @@ translate deutsch sm1ms029_cc6ec84c:
     # sy "AmRose! You made it!"
     sy "AmRose! Du hast es geschafft!"
 
-# game/code/scenes/main_story/sm1ms029.rpy:174
-translate deutsch sm1ms029_b6d5ecfa:
-
-    # arj "How could I resist the inagural S&M Studio party?"
-    arj "Wie hätte ich der ersten S&M Studio-Party widerstehen können?"
-
 # game/code/scenes/main_story/sm1ms029.rpy:177
 translate deutsch sm1ms029_cf242ef8:
 
@@ -1630,12 +1624,6 @@ translate deutsch sm1ms029_talk_mes_ns_d1579dea:
     # mc "Thank you, Min."
     mc "Danke, Min."
 
-# game/code/scenes/main_story/sm1ms029.rpy:768
-translate deutsch sm1ms029_talk_mes_ns_a2d1ea75:
-
-    # mc "She does need a supervisor>"
-    mc "Sie braucht eine Vorgesetzte>"
-
 # game/code/scenes/main_story/sm1ms029.rpy:769
 translate deutsch sm1ms029_talk_mes_ns_4ab9b3f2:
 
@@ -2266,12 +2254,6 @@ translate deutsch sm1ms029_party_part_1_24400e96:
     # mc "All right, Kanya, that's enough."
     mc "Okay, Kanya, das reicht jetzt."
 
-# game/code/scenes/main_story/sm1ms029.rpy:1032
-translate deutsch sm1ms029_party_part_1_d49547aa:
-
-    # sy "Noooo, just as little more!"
-    sy "Nein, nur noch ein bisschen mehr!"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1035
 translate deutsch sm1ms029_party_part_1_c442311a:
 
@@ -2805,18 +2787,6 @@ translate deutsch sm1ms029_party_part_1_c3c5deff:
 
     # sy "Damn right it is."
     sy "Verdammt richtig."
-
-# game/code/scenes/main_story/sm1ms029.rpy:1198
-translate deutsch sm1ms029_party_part_1_6f4346b1:
-
-    # arj "Come on, Stacy. Got to get back on the St. Andrew's Cross."
-    arj "Komm schon, Stacy. Wir müssen zurück zum Andreaskreuz."
-
-# game/code/scenes/main_story/sm1ms029.rpy:1199
-translate deutsch sm1ms029_party_part_1_cda7d8e2:
-
-    # sy "I know, I know."
-    sy "Ich weiß, ich weiß."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1202
 translate deutsch sm1ms029_party_part_1_e53c9a12:
@@ -3376,12 +3346,6 @@ translate deutsch sm1ms029_part_1_my_appear_2bc4e327:
     # sy "Mmmmm - mmmmmmm!"
     sy "Mmmmm - mmmmmmm!"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1428
-translate deutsch sm1ms029_part_1_my_appear_674e7749:
-
-    # arj "That's right, I know al your fantasies, you little perv."
-    arj "Das stimmt, ich kenne alle deine Fantasien, du kleine Perverse."
-
 # game/code/scenes/main_story/sm1ms029.rpy:1429
 translate deutsch sm1ms029_part_1_my_appear_7f748666:
 
@@ -3700,12 +3664,6 @@ translate deutsch sm1ms029_part_1_my_appear_3593afed:
     # mc "I will! Bye, Mom! Love you!"
     mc "Das werde ich! Tschüss, Mama! Ich hab dich lieb!"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1521
-translate deutsch sm1ms029_part_1_my_appear_c8ad3713:
-
-    # my "All right, Well, if you see her, tell her to call me, okay?"
-    my "Okay, wenn du sie siehst, sag ihr, sie soll mich anrufen, okay?"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1522
 translate deutsch sm1ms029_part_1_my_appear_20231b23:
 
@@ -3909,12 +3867,6 @@ translate deutsch sm1ms029_party_sy_e4518d78:
 
     # mc "Shit. Your ass is so tight! Even after AmRose fucked it!"
     mc "Scheiße. Dein Arsch ist so eng! Selbst nachdem AmRose ihn gefickt hat!"
-
-# game/code/scenes/main_story/sm1ms029.rpy:1586
-translate deutsch sm1ms029_party_sy_35b1c37e:
-
-    # sy "Yor sister has the best ass in Crowning!"
-    sy "Deine Schwester hat den besten Arsch in Crowning!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1588
 translate deutsch sm1ms029_party_sy_dddd6b1a:
@@ -4990,12 +4942,6 @@ translate deutsch sm1ms029_party_arj_89e2ca21:
     # mc "It's not a true party until I have your lips wrapped around my cock!"
     mc "Es ist keine richtige Party, bevor deine Lippen nicht meinen Schwanz umschließen!"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1900
-translate deutsch sm1ms029_party_arj_43a496cc:
-
-    # arj "*happy slupring noise*"
-    arj "*zufriedenes Schlürfen*"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1904
 translate deutsch sm1ms029_party_arj_db2fafa7:
 
@@ -5427,12 +5373,6 @@ translate deutsch sm1ms029_party_arj_6be0145b:
 
     # arj "Mrrrmmmmm."
     arj "Mrrrmmmmm."
-
-# game/code/scenes/main_story/sm1ms029.rpy:2021
-translate deutsch sm1ms029_party_arj_2754e49d:
-
-    # arj "Ohuaa... kissing you... while you're right up against my spot..."
-    arj "Ohaa... dich küssen... während du direkt an der richtigen Stelle bist..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2022
 translate deutsch sm1ms029_party_arj_101a5723:
@@ -5890,12 +5830,6 @@ translate deutsch sm1ms029_confrontation_662ae26b:
     # et "I've been learning about you, seeing how S&M Studio came to be."
     et "Ich habe mich über dich informiert und erfahren, wie S&M Studio entstanden ist."
 
-# game/code/scenes/main_story/sm1ms029.rpy:2185
-translate deutsch sm1ms029_confrontation_0020431e:
-
-    # et "When I found out that it was just a brother and sister running things, without any formal business, education, I had to admit."
-    et "Als ich herausfand, dass es nur ein Bruder und eine Schwester waren, die das Geschäft führten, ohne formelle Ausbildung oder Geschäftserfahrung, musste ich zugeben..."
-
 # game/code/scenes/main_story/sm1ms029.rpy:2187
 translate deutsch sm1ms029_confrontation_63896cc6:
 
@@ -5997,12 +5931,6 @@ translate deutsch sm1ms029_confrontation_cb46a1af:
 
     # et "You haven't even heard how much I'm offering."
     et "Du hast noch nicht einmal gehört, wie viel ich biete."
-
-# game/code/scenes/main_story/sm1ms029.rpy:2216
-translate deutsch sm1ms029_confrontation_4687687c:
-
-    # sy "You heard, [mcname]. The answer is no, Foxmorr."
-    sy "Du hast es gehört, [mcname]. Die Antwort lautet nein, Foxmorr."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2221
 translate deutsch sm1ms029_confrontation_fabc44e1:
@@ -6136,12 +6064,6 @@ translate deutsch sm1ms029_confrontation_4183c98e:
     # et "For you and everyone close to you."
     et "Für dich und alle, die dir nahestehen."
 
-# game/code/scenes/main_story/sm1ms029.rpy:2262
-translate deutsch sm1ms029_confrontation_7e19a826:
-
-    # et "Still... as you said... Thie place-"
-    et "Trotzdem... wie du gesagt hast... Es hat-"
-
 # game/code/scenes/main_story/sm1ms029.rpy:2263
 translate deutsch sm1ms029_confrontation_b47761c7:
 
@@ -6189,12 +6111,6 @@ translate deutsch sm1ms029_confrontation_928cc905:
 
     # et "Carmel."
     et "Carmel."
-
-# game/code/scenes/main_story/sm1ms029.rpy:2280
-translate deutsch sm1ms029_confrontation_2247f06f:
-
-    # sy "*indiscernable words*"
-    sy "*unverständliche Wörter*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2282
 translate deutsch sm1ms029_confrontation_24b25b0f:
@@ -6285,12 +6201,6 @@ translate deutsch sm1ms029_confrontation_abef5622:
 
     # sy "Yeah. Screw him."
     sy "Ja. Scheiß auf ihn."
-
-# game/code/scenes/main_story/sm1ms029.rpy:2321
-translate deutsch sm1ms029_confrontation_fcedb6ac:
-
-    # sy "I think he's just afraid of a little competiion."
-    sy "Ich glaube, er hat einfach nur Angst vor ein bisschen Konkurrenz."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2324
 translate deutsch sm1ms029_confrontation_ffc7e92f:
@@ -6604,12 +6514,6 @@ translate deutsch sm1ms029_party_end_4781ee9b:
     # arj "Why is it so big?"
     arj "Warum ist es so groß?"
 
-# game/code/scenes/main_story/sm1ms029.rpy:2434
-translate deutsch sm1ms029_party_end_1574b04d:
-
-    # mc "For sleepovers. Come'on."
-    mc "Für Übernachtungen. Komm schon."
-
 # game/code/scenes/main_story/sm1ms029.rpy:2439
 translate deutsch sm1ms029_party_end_6d46208f:
 
@@ -6818,12 +6722,6 @@ translate deutsch sm1ms029_party_mes_d6798e52:
     # mes "I see you two were paying attention!"
     mes "Ich sehe, ihr beiden habt gut aufgepasst!"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1367
-translate deutsch sm1ms029_talk_kv_hr_arj_c8a218be:
-
-    # mc "She's a worry wort."
-    mc "Sie ist eine richtige Sorgenmaus."
-
 # game/code/scenes/main_story/sm1ms029.rpy:1100
 translate deutsch sm1ms029_talk_mes_ns_02795e35:
 
@@ -6883,4 +6781,88 @@ translate deutsch sm1ms029_confrontation_c8157585:
 
     # et "But I don't think it will be enough."
     et "Aber ich glaube nicht, dass es ausreichen wird."
+
+# game/code/scenes/main_story/sm1ms029.rpy:427
+translate deutsch sm1ms029_63adc03a:
+
+    # arj "How could I resist the inaugural S&M Studio party?"
+    arj "How could I resist the inaugural S&M Studio party?"
+
+# game/code/scenes/main_story/sm1ms029.rpy:1185
+translate deutsch sm1ms029_talk_mes_ns_03101e46:
+
+    # mc "She does need a supervisor."
+    mc "She does need a supervisor."
+
+# game/code/scenes/main_story/sm1ms029.rpy:1420
+translate deutsch sm1ms029_talk_kv_hr_arj_4e02a384:
+
+    # mc "She's a worrywart."
+    mc "She's a worrywart."
+
+# game/code/scenes/main_story/sm1ms029.rpy:1523
+translate deutsch sm1ms029_party_part_1_ece8a1eb:
+
+    # sy "Noooo, just a little more!"
+    sy "Noooo, just a little more!"
+
+# game/code/scenes/main_story/sm1ms029.rpy:2090
+translate deutsch sm1ms029_part_1_my_appear_46a079f3:
+
+    # arj "That's right, I know all your fantasies, you little perv."
+    arj "That's right, I know all your fantasies, you little perv."
+
+# game/code/scenes/main_story/sm1ms029.rpy:2273
+translate deutsch sm1ms029_part_1_my_appear_7387fd43:
+
+    # my "All right. Well, if you see her, tell her to call me, okay?"
+    my "All right. Well, if you see her, tell her to call me, okay?"
+
+# game/code/scenes/main_story/sm1ms029.rpy:2403
+translate deutsch sm1ms029_party_sy_94f70313:
+
+    # sy "Your sister has the best ass in Crowning!"
+    sy "Your sister has the best ass in Crowning!"
+
+# game/code/scenes/main_story/sm1ms029.rpy:2994
+translate deutsch sm1ms029_party_arj_b51ba273:
+
+    # arj "*happy slurping noise*"
+    arj "*happy slurping noise*"
+
+# game/code/scenes/main_story/sm1ms029.rpy:3510
+translate deutsch sm1ms029_confrontation_d6d4f3c8:
+
+    # et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
+    et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
+
+# game/code/scenes/main_story/sm1ms029.rpy:3559
+translate deutsch sm1ms029_confrontation_c26dec61:
+
+    # sy "You heard [mcname]. The answer is no, Foxmorr."
+    sy "You heard [mcname]. The answer is no, Foxmorr."
+
+# game/code/scenes/main_story/sm1ms029.rpy:3619
+translate deutsch sm1ms029_confrontation_daf0d17d:
+
+    # et "Still... as you said... This place-"
+    et "Still... as you said... This place-"
+
+# game/code/scenes/main_story/sm1ms029.rpy:3651
+translate deutsch sm1ms029_confrontation_56911771:
+
+    # sy "*indiscernible words*"
+    sy "*indiscernible words*"
+
+# game/code/scenes/main_story/sm1ms029.rpy:3702
+translate deutsch sm1ms029_confrontation_49405f37:
+
+    # sy "I think he's just afraid of a little competition."
+    sy "I think he's just afraid of a little competition."
+
+# game/code/scenes/main_story/sm1ms029.rpy:3955
+translate deutsch sm1ms029_party_end_254d93ee:
+
+    # mc "For sleepovers. Come on."
+    mc "For sleepovers. Come on."
 

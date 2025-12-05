@@ -233,10 +233,10 @@ translate ukrainian sm1ms020_f6b79e8d:
     my "Well you two never asked me about me before!"
 
 # game/code/scenes/main_story/sm1ms020.rpy:135
-translate ukrainian sm1ms020_fd52713d:
+translate ukrainian sm1ms020_5f7987cf:
 
-    # mc "Well... why did you used to live in Crowning?"
-    mc "Well... why did you used to live in Crowning?"
+    # mc "Well... why did you use to live in Crowning?"
+    mc "Well... why did you use to live in Crowning?"
 
 # game/code/scenes/main_story/sm1ms020.rpy:138
 translate ukrainian sm1ms020_9a2ac44d:

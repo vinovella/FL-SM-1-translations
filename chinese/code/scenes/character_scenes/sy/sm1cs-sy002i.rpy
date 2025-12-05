@@ -70,12 +70,6 @@ translate chinese sm1cs_sy002i_first_time_263c64ae:
     # sy "Yeah, there are plenty of places around town we could use as sets. Parks, alleys, rooftops..."
     sy "城里有好多地方都能当片场。公园、小巷、天台..."
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:43
-translate chinese sm1cs_sy002i_first_time_c3f42571:
-
-    # sy "You know I love the fucking somewhere unexpected."
-    sy "你知道我最爱在意外地点来一发。"
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:45
 translate chinese sm1cs_sy002i_first_time_66335b13:
 
@@ -159,4 +153,10 @@ translate chinese sm1cs_sy002i_first_time_fe6569c6:
 
     # mct "Oh boy... here we go."
     mct "哦老天...又要开始折腾了..."
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:43
+translate chinese sm1cs_sy002i_first_time_54ee52de:
+
+    # sy "You know I love fucking somewhere unexpected."
+    sy "You know I love fucking somewhere unexpected."
 

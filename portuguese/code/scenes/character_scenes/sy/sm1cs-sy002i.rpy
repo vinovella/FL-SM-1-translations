@@ -70,12 +70,6 @@ translate portuguese sm1cs_sy002i_first_time_263c64ae:
     # sy "Yeah, there are plenty of places around town we could use as sets. Parks, alleys, rooftops..."
     sy "Sim, tem muitos lugares na cidade que dava para usar de set. Parques, becos, terraços..."
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:43
-translate portuguese sm1cs_sy002i_first_time_c3f42571:
-
-    # sy "You know I love the fucking somewhere unexpected."
-    sy "Você sabe que eu adoro transar em lugares inesperados."
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:45
 translate portuguese sm1cs_sy002i_first_time_66335b13:
 
@@ -159,4 +153,10 @@ translate portuguese sm1cs_sy002i_first_time_fe6569c6:
 
     # mct "Oh boy... here we go."
     mct "Aiai, lá vamos nós."
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:43
+translate portuguese sm1cs_sy002i_first_time_54ee52de:
+
+    # sy "You know I love fucking somewhere unexpected."
+    sy "You know I love fucking somewhere unexpected."
 

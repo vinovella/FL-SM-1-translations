@@ -1420,12 +1420,6 @@ translate deutsch sm1mv01s02_later_d3ba89d8:
     # sy "Captain. The Pirate Queen needs a moment of your time..."
     sy "Kapitän. Die Piratenkönigin benötigt einen Moment deiner Zeit..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:733
-translate deutsch sm1mv01s02_later_b98f163a:
-
-    # mc "Just as minute?"
-    mc "Nur einen Moment?"
-
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:736
 translate deutsch sm1mv01s02_later_5911a183:
 
@@ -2007,4 +2001,10 @@ translate deutsch sm1mv01s02_later_1e8e7e72:
 
     # mc "I think it's the perfect outfit for a pirate queen."
     mc "Ich finde, das ist das perfekte Outfit für eine Piratenkönigin."
+
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
+translate deutsch sm1mv01s02_later_e9f87a8a:
+
+    # mc "Just a minute?"
+    mc "Just a minute?"
 

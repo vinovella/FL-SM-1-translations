@@ -611,10 +611,10 @@ translate ukrainian sm1cs_sy003_sex_99403aff:
     mc "Sorry... what was that?"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:457
-translate ukrainian sm1cs_sy003_sex_ebd1a428:
+translate ukrainian sm1cs_sy003_sex_45437f42:
 
-    # sy "I said. 'While you fuck-oouhwaaah!''"
-    sy "I said. 'While you fuck-oouhwaaah!''"
+    # sy "I said. 'While you fuck-oouhwaaah!'"
+    sy "I said. 'While you fuck-oouhwaaah!'"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:460
 translate ukrainian sm1cs_sy003_sex_8c2c1b35:

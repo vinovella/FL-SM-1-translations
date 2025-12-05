@@ -610,12 +610,6 @@ translate deutsch sm1cs_sy003_sex_99403aff:
     # mc "Sorry... what was that?"
     mc "Entschuldigung... was war das?"
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:439
-translate deutsch sm1cs_sy003_sex_ebd1a428:
-
-    # sy "I said. 'While you fuck-oouhwaaah!''"
-    sy "Ich sagte: „Während du mich fickst – oouuwaaah!“"
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:442
 translate deutsch sm1cs_sy003_sex_8c2c1b35:
 
@@ -975,4 +969,10 @@ translate deutsch sm1cs_sy003_end_e277e827:
 
     # mc "Goodnight, Stacy."
     mc "Gute Nacht, Stacy."
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:457
+translate deutsch sm1cs_sy003_sex_45437f42:
+
+    # sy "I said. 'While you fuck-oouhwaaah!'"
+    sy "I said. 'While you fuck-oouhwaaah!'"
 

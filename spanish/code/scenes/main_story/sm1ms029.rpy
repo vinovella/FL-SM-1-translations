@@ -364,12 +364,6 @@ translate spanish sm1ms029_cc6ec84c:
     # sy "AmRose! You made it!"
     sy "¡AmRose! ¡Lo lograste!"
 
-# game/code/scenes/main_story/sm1ms029.rpy:174
-translate spanish sm1ms029_b6d5ecfa:
-
-    # arj "How could I resist the inagural S&M Studio party?"
-    arj "¿Cómo podría resistirme a la fiesta inaugural de S&M Studio?"
-
 # game/code/scenes/main_story/sm1ms029.rpy:177
 translate spanish sm1ms029_cf242ef8:
 
@@ -1630,12 +1624,6 @@ translate spanish sm1ms029_talk_mes_ns_d1579dea:
     # mc "Thank you, Min."
     mc "Gracias, min."
 
-# game/code/scenes/main_story/sm1ms029.rpy:768
-translate spanish sm1ms029_talk_mes_ns_a2d1ea75:
-
-    # mc "She does need a supervisor>"
-    mc "Ella necesita una supervisora."
-
 # game/code/scenes/main_story/sm1ms029.rpy:769
 translate spanish sm1ms029_talk_mes_ns_4ab9b3f2:
 
@@ -2266,12 +2254,6 @@ translate spanish sm1ms029_party_part_1_24400e96:
     # mc "All right, Kanya, that's enough."
     mc "Muy bien, Kanya, ya es suficiente."
 
-# game/code/scenes/main_story/sm1ms029.rpy:1032
-translate spanish sm1ms029_party_part_1_d49547aa:
-
-    # sy "Noooo, just as little more!"
-    sy "¡Noooo, solo un poco más!"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1035
 translate spanish sm1ms029_party_part_1_c442311a:
 
@@ -2805,18 +2787,6 @@ translate spanish sm1ms029_party_part_1_c3c5deff:
 
     # sy "Damn right it is."
     sy "Joder, así es."
-
-# game/code/scenes/main_story/sm1ms029.rpy:1198
-translate spanish sm1ms029_party_part_1_6f4346b1:
-
-    # arj "Come on, Stacy. Got to get back on the St. Andrew's Cross."
-    arj "Vamos, Stacy. Tengo que volver a la Cruz de San Andrés."
-
-# game/code/scenes/main_story/sm1ms029.rpy:1199
-translate spanish sm1ms029_party_part_1_cda7d8e2:
-
-    # sy "I know, I know."
-    sy "Lo sé, lo sé."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1202
 translate spanish sm1ms029_party_part_1_e53c9a12:
@@ -3376,12 +3346,6 @@ translate spanish sm1ms029_part_1_my_appear_2bc4e327:
     # sy "Mmmmm - mmmmmmm!"
     sy "Mmmmm - mmmmmmmm!"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1428
-translate spanish sm1ms029_part_1_my_appear_674e7749:
-
-    # arj "That's right, I know al your fantasies, you little perv."
-    arj "Así es, conozco todas tus fantasías, pequeño pervertido."
-
 # game/code/scenes/main_story/sm1ms029.rpy:1429
 translate spanish sm1ms029_part_1_my_appear_7f748666:
 
@@ -3700,12 +3664,6 @@ translate spanish sm1ms029_part_1_my_appear_3593afed:
     # mc "I will! Bye, Mom! Love you!"
     mc "¡Lo haré! ¡Adiós mamá! ¡Te amo!"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1521
-translate spanish sm1ms029_part_1_my_appear_c8ad3713:
-
-    # my "All right, Well, if you see her, tell her to call me, okay?"
-    my "Está bien, bueno, si la ves, dile que me llame, ¿vale?"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1522
 translate spanish sm1ms029_part_1_my_appear_20231b23:
 
@@ -3909,12 +3867,6 @@ translate spanish sm1ms029_party_sy_e4518d78:
 
     # mc "Shit. Your ass is so tight! Even after AmRose fucked it!"
     mc "Mierda. ¡Tu trasero está tan apretado! ¡Incluso después de que AmRose te lo follara!"
-
-# game/code/scenes/main_story/sm1ms029.rpy:1586
-translate spanish sm1ms029_party_sy_35b1c37e:
-
-    # sy "Yor sister has the best ass in Crowning!"
-    sy "¡Tu hermana tiene el mejor culo de Crowning!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1588
 translate spanish sm1ms029_party_sy_dddd6b1a:
@@ -4990,12 +4942,6 @@ translate spanish sm1ms029_party_arj_89e2ca21:
     # mc "It's not a true party until I have your lips wrapped around my cock!"
     mc "¡No es una verdadera fiesta hasta que tengo tus labios alrededor de mi polla!"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1900
-translate spanish sm1ms029_party_arj_43a496cc:
-
-    # arj "*happy slupring noise*"
-    arj "*ruido feliz de sorber*"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1904
 translate spanish sm1ms029_party_arj_db2fafa7:
 
@@ -5427,12 +5373,6 @@ translate spanish sm1ms029_party_arj_6be0145b:
 
     # arj "Mrrrmmmmm."
     arj "Mrrrmmmmm."
-
-# game/code/scenes/main_story/sm1ms029.rpy:2021
-translate spanish sm1ms029_party_arj_2754e49d:
-
-    # arj "Ohuaa... kissing you... while you're right up against my spot..."
-    arj "Ohuaa... besándote... mientras estás justo contra mi lugar..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2022
 translate spanish sm1ms029_party_arj_101a5723:
@@ -5890,12 +5830,6 @@ translate spanish sm1ms029_confrontation_662ae26b:
     # et "I've been learning about you, seeing how S&M Studio came to be."
     et "He estado aprendiendo sobre ti, viendo cómo surgió S&M Studio."
 
-# game/code/scenes/main_story/sm1ms029.rpy:2185
-translate spanish sm1ms029_confrontation_0020431e:
-
-    # et "When I found out that it was just a brother and sister running things, without any formal business, education, I had to admit."
-    et "Cuando descubrí que eran sólo un hermano y una hermana los que dirigían las cosas, sin ningún negocio formal ni educación, tuve que admitirlo."
-
 # game/code/scenes/main_story/sm1ms029.rpy:2187
 translate spanish sm1ms029_confrontation_63896cc6:
 
@@ -5997,12 +5931,6 @@ translate spanish sm1ms029_confrontation_cb46a1af:
 
     # et "You haven't even heard how much I'm offering."
     et "Ni siquiera has oído cuánto te ofrezco."
-
-# game/code/scenes/main_story/sm1ms029.rpy:2216
-translate spanish sm1ms029_confrontation_4687687c:
-
-    # sy "You heard, [mcname]. The answer is no, Foxmorr."
-    sy "Ya escuchaste a [mcname]. La respuesta es no, Foxmorr."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2221
 translate spanish sm1ms029_confrontation_fabc44e1:
@@ -6136,12 +6064,6 @@ translate spanish sm1ms029_confrontation_4183c98e:
     # et "For you and everyone close to you."
     et "Para ti y todas las personas cercanas a ti."
 
-# game/code/scenes/main_story/sm1ms029.rpy:2262
-translate spanish sm1ms029_confrontation_7e19a826:
-
-    # et "Still... as you said... Thie place-"
-    et "Aún así... como dijiste... Este lugar..."
-
 # game/code/scenes/main_story/sm1ms029.rpy:2263
 translate spanish sm1ms029_confrontation_b47761c7:
 
@@ -6189,12 +6111,6 @@ translate spanish sm1ms029_confrontation_928cc905:
 
     # et "Carmel."
     et "Carmel."
-
-# game/code/scenes/main_story/sm1ms029.rpy:2280
-translate spanish sm1ms029_confrontation_2247f06f:
-
-    # sy "*indiscernable words*"
-    sy "*palabras indiscernibles*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2282
 translate spanish sm1ms029_confrontation_24b25b0f:
@@ -6285,12 +6201,6 @@ translate spanish sm1ms029_confrontation_abef5622:
 
     # sy "Yeah. Screw him."
     sy "Sí. A la mierda con él."
-
-# game/code/scenes/main_story/sm1ms029.rpy:2321
-translate spanish sm1ms029_confrontation_fcedb6ac:
-
-    # sy "I think he's just afraid of a little competiion."
-    sy "Creo que simplemente tiene miedo de un poco de competencia."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2324
 translate spanish sm1ms029_confrontation_ffc7e92f:
@@ -6604,12 +6514,6 @@ translate spanish sm1ms029_party_end_4781ee9b:
     # arj "Why is it so big?"
     arj "¿Por qué es tan grande?"
 
-# game/code/scenes/main_story/sm1ms029.rpy:2434
-translate spanish sm1ms029_party_end_1574b04d:
-
-    # mc "For sleepovers. Come'on."
-    mc "Para pijamadas. Vamos."
-
 # game/code/scenes/main_story/sm1ms029.rpy:2439
 translate spanish sm1ms029_party_end_6d46208f:
 
@@ -6860,12 +6764,6 @@ translate spanish sm1ms029_talk_mes_ns_b89ca410:
     # ns "아마도."
     ns "아마도."
 
-# game/code/scenes/main_story/sm1ms029.rpy:1420
-translate spanish sm1ms029_talk_kv_hr_arj_c8a218be:
-
-    # mc "She's a worry wort."
-    mc "Ella es una preocupona."
-
 # game/code/scenes/main_story/sm1ms029.rpy:2480
 translate spanish sm1ms029_party_sy_ebb69a71:
 
@@ -6883,4 +6781,88 @@ translate spanish sm1ms029_confrontation_c8157585:
 
     # et "But I don't think it will be enough."
     et "Pero no creo que sea suficiente."
+
+# game/code/scenes/main_story/sm1ms029.rpy:427
+translate spanish sm1ms029_63adc03a:
+
+    # arj "How could I resist the inaugural S&M Studio party?"
+    arj "How could I resist the inaugural S&M Studio party?"
+
+# game/code/scenes/main_story/sm1ms029.rpy:1185
+translate spanish sm1ms029_talk_mes_ns_03101e46:
+
+    # mc "She does need a supervisor."
+    mc "She does need a supervisor."
+
+# game/code/scenes/main_story/sm1ms029.rpy:1420
+translate spanish sm1ms029_talk_kv_hr_arj_4e02a384:
+
+    # mc "She's a worrywart."
+    mc "She's a worrywart."
+
+# game/code/scenes/main_story/sm1ms029.rpy:1523
+translate spanish sm1ms029_party_part_1_ece8a1eb:
+
+    # sy "Noooo, just a little more!"
+    sy "Noooo, just a little more!"
+
+# game/code/scenes/main_story/sm1ms029.rpy:2090
+translate spanish sm1ms029_part_1_my_appear_46a079f3:
+
+    # arj "That's right, I know all your fantasies, you little perv."
+    arj "That's right, I know all your fantasies, you little perv."
+
+# game/code/scenes/main_story/sm1ms029.rpy:2273
+translate spanish sm1ms029_part_1_my_appear_7387fd43:
+
+    # my "All right. Well, if you see her, tell her to call me, okay?"
+    my "All right. Well, if you see her, tell her to call me, okay?"
+
+# game/code/scenes/main_story/sm1ms029.rpy:2403
+translate spanish sm1ms029_party_sy_94f70313:
+
+    # sy "Your sister has the best ass in Crowning!"
+    sy "Your sister has the best ass in Crowning!"
+
+# game/code/scenes/main_story/sm1ms029.rpy:2994
+translate spanish sm1ms029_party_arj_b51ba273:
+
+    # arj "*happy slurping noise*"
+    arj "*happy slurping noise*"
+
+# game/code/scenes/main_story/sm1ms029.rpy:3510
+translate spanish sm1ms029_confrontation_d6d4f3c8:
+
+    # et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
+    et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
+
+# game/code/scenes/main_story/sm1ms029.rpy:3559
+translate spanish sm1ms029_confrontation_c26dec61:
+
+    # sy "You heard [mcname]. The answer is no, Foxmorr."
+    sy "You heard [mcname]. The answer is no, Foxmorr."
+
+# game/code/scenes/main_story/sm1ms029.rpy:3619
+translate spanish sm1ms029_confrontation_daf0d17d:
+
+    # et "Still... as you said... This place-"
+    et "Still... as you said... This place-"
+
+# game/code/scenes/main_story/sm1ms029.rpy:3651
+translate spanish sm1ms029_confrontation_56911771:
+
+    # sy "*indiscernible words*"
+    sy "*indiscernible words*"
+
+# game/code/scenes/main_story/sm1ms029.rpy:3702
+translate spanish sm1ms029_confrontation_49405f37:
+
+    # sy "I think he's just afraid of a little competition."
+    sy "I think he's just afraid of a little competition."
+
+# game/code/scenes/main_story/sm1ms029.rpy:3955
+translate spanish sm1ms029_party_end_254d93ee:
+
+    # mc "For sleepovers. Come on."
+    mc "For sleepovers. Come on."
 

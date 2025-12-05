@@ -418,12 +418,6 @@ translate chinese sm1cs_sy002_2_35acf99c:
     # sy "This place has such a vibe at night. It's really, like, the {i}perfect place{/i} for a little saucy acting."
     sy "这地方晚上氛围太棒了。简直是{i}完美的{/i}激情戏表演场地。"
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:255
-translate chinese sm1cs_sy002_2_90462333:
-
-    # mc "Yeah, it is. Hopefully we won't be interepted this time!"
-    mc "是啊。希望咱们这次别被打断了！"
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:256
 translate chinese sm1cs_sy002_2_f11720dd:
 
@@ -525,12 +519,6 @@ translate chinese sm1cs_sy002_2_aa514fc1:
 
     # mc "Aye, aye!"
     mc "遵命！"
-
-# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:317
-translate chinese sm1cs_sy002_2_561c9b87:
-
-    # sy "Oh yessss, [mcname]! Oh that feels sooooo goood!"
-    sy "啊没错，[mcname]！啊啊啊就是这种感觉！"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:318
 translate chinese sm1cs_sy002_2_e3ec9059:
@@ -1251,4 +1239,16 @@ translate chinese sm1cs_sy002_2_221a6943:
 
     # sy "But never mind that! Let's get into the acting!"
     sy "不管那些了！开始表演吧！"
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:256
+translate chinese sm1cs_sy002_2_7cac9fc4:
+
+    # mc "Yeah, it is. Hopefully we won't be interrupted this time!"
+    mc "Yeah, it is. Hopefully we won't be interrupted this time!"
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:324
+translate chinese sm1cs_sy002_2_1ff49b1d:
+
+    # sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
+    sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
 

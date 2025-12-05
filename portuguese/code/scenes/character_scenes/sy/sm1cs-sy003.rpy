@@ -610,12 +610,6 @@ translate portuguese sm1cs_sy003_sex_99403aff:
     # mc "Sorry... what was that?"
     mc "Opa... como é que é?"
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:491
-translate portuguese sm1cs_sy003_sex_ebd1a428:
-
-    # sy "I said. 'While you fuck-oouhwaaah!''"
-    sy "Eu disse. 'Enquanto você mete-oouhwaaah!'"
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:495
 translate portuguese sm1cs_sy003_sex_8c2c1b35:
 
@@ -975,4 +969,10 @@ translate portuguese sm1cs_sy003_end_e277e827:
 
     # mc "Goodnight, Stacy."
     mc "Boa noite, Stacy."
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:457
+translate portuguese sm1cs_sy003_sex_45437f42:
+
+    # sy "I said. 'While you fuck-oouhwaaah!'"
+    sy "I said. 'While you fuck-oouhwaaah!'"
 

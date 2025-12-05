@@ -22,12 +22,6 @@ translate italian sm1ms025_efe9b161:
     # sy "Antsy even."
     sy "Addirittura impazienti."
 
-# game/code/scenes/main_story/sm1ms025.rpy:19
-translate italian sm1ms025_c78e879f:
-
-    # sy "They even asked for more fetishes"
-    sy "Hanno persino chiesto altri feticci"
-
 # game/code/scenes/main_story/sm1ms025.rpy:23
 translate italian sm1ms025_7129dea6:
 
@@ -879,4 +873,10 @@ translate italian sm1ms025_827ba594:
 
     # sy "That's the plan, man."
     sy "Questo è il piano, amico."
+
+# game/code/scenes/main_story/sm1ms025.rpy:19
+translate italian sm1ms025_d303d504:
+
+    # sy "They even asked for more fetishes."
+    sy "They even asked for more fetishes."
 

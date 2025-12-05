@@ -22,12 +22,6 @@ translate portuguese sm1ms025_efe9b161:
     # sy "Antsy even."
     sy "Ansiosa até."
 
-# game/code/scenes/main_story/sm1ms025.rpy:19
-translate portuguese sm1ms025_c78e879f:
-
-    # sy "They even asked for more fetishes"
-    sy "Até pediu por mais fetiches dessa vez."
-
 # game/code/scenes/main_story/sm1ms025.rpy:23
 translate portuguese sm1ms025_7129dea6:
 
@@ -879,4 +873,10 @@ translate portuguese sm1ms025_01a929b4:
 
     # sy "She stole my flash drive."
     sy "Ela roubou o meu pendrive."
+
+# game/code/scenes/main_story/sm1ms025.rpy:19
+translate portuguese sm1ms025_d303d504:
+
+    # sy "They even asked for more fetishes."
+    sy "They even asked for more fetishes."
 

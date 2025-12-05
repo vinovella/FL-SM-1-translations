@@ -610,12 +610,6 @@ translate chinese sm1cs_sy003_sex_99403aff:
     # mc "Sorry... what was that?"
     mc "抱歉...你刚才说什么？"
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:491
-translate chinese sm1cs_sy003_sex_ebd1a428:
-
-    # sy "I said. 'While you fuck-oouhwaaah!''"
-    sy "我说，‘你一边抱着我一边干--啊啊啊！'"
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:495
 translate chinese sm1cs_sy003_sex_8c2c1b35:
 
@@ -975,4 +969,10 @@ translate chinese sm1cs_sy003_end_e277e827:
 
     # mc "Goodnight, Stacy."
     mc "晚安，史黛西。"
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:457
+translate chinese sm1cs_sy003_sex_45437f42:
+
+    # sy "I said. 'While you fuck-oouhwaaah!'"
+    sy "I said. 'While you fuck-oouhwaaah!'"
 

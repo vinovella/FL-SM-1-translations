@@ -1414,12 +1414,6 @@ translate spanish sm1mv01s02_later_d3ba89d8:
     # sy "Captain. The Pirate Queen needs a moment of your time..."
     sy "Capitán. La Reina Pirata necesita un momento de tu tiempo..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:730
-translate spanish sm1mv01s02_later_b98f163a:
-
-    # mc "Just as minute?"
-    mc "¿Solo un momento?"
-
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:733
 translate spanish sm1mv01s02_later_5911a183:
 
@@ -2007,4 +2001,10 @@ translate spanish sm1mv01s02_later_7f06eb4b:
 
     # kv "..."
     kv "..."
+
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
+translate spanish sm1mv01s02_later_e9f87a8a:
+
+    # mc "Just a minute?"
+    mc "Just a minute?"
 

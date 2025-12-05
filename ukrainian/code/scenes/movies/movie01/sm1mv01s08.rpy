@@ -23,10 +23,10 @@ translate ukrainian sm1mv01s08_4e4bd63e:
     mct "Nobody told me you'd have to get up this early to make movies..."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:73
-translate ukrainian sm1mv01s08_ad1a6180:
+translate ukrainian sm1mv01s08_e6d2fca7:
 
-    # mc "Stacy, come'on."
-    mc "Stacy, come'on."
+    # mc "Stacy, come on."
+    mc "Stacy, come on."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:74
 translate ukrainian sm1mv01s08_c1f718b8:

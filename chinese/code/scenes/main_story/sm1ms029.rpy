@@ -28,12 +28,6 @@ translate chinese sm1ms029_party_mes_d6798e52:
     # mes "I see you two were paying attention!"
     mes "我看到你们两个都很注意！"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1365
-translate chinese sm1ms029_talk_kv_hr_arj_c8a218be:
-
-    # mc "She's a worry wort."
-    mc "她是个杞人忧天的人。"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1143
 translate chinese sm1ms029_talk_mes_ns_1c408ac7:
 
@@ -646,12 +640,6 @@ translate chinese sm1ms029_party_part_1_24400e96:
     # mc "All right, Kanya, that's enough."
     mc "好了，康雅，够了。"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1464
-translate chinese sm1ms029_party_part_1_d49547aa:
-
-    # sy "Noooo, just as little more!"
-    sy "不要啊，再来一点点！"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1467
 translate chinese sm1ms029_party_part_1_c442311a:
 
@@ -897,4 +885,88 @@ translate chinese sm1ms029_confrontation_c8157585:
 
     # et "But I don't think it will be enough."
     et "但我不认为这会足够。"
+
+# game/code/scenes/main_story/sm1ms029.rpy:427
+translate chinese sm1ms029_63adc03a:
+
+    # arj "How could I resist the inaugural S&M Studio party?"
+    arj "How could I resist the inaugural S&M Studio party?"
+
+# game/code/scenes/main_story/sm1ms029.rpy:1185
+translate chinese sm1ms029_talk_mes_ns_03101e46:
+
+    # mc "She does need a supervisor."
+    mc "She does need a supervisor."
+
+# game/code/scenes/main_story/sm1ms029.rpy:1420
+translate chinese sm1ms029_talk_kv_hr_arj_4e02a384:
+
+    # mc "She's a worrywart."
+    mc "She's a worrywart."
+
+# game/code/scenes/main_story/sm1ms029.rpy:1523
+translate chinese sm1ms029_party_part_1_ece8a1eb:
+
+    # sy "Noooo, just a little more!"
+    sy "Noooo, just a little more!"
+
+# game/code/scenes/main_story/sm1ms029.rpy:2090
+translate chinese sm1ms029_part_1_my_appear_46a079f3:
+
+    # arj "That's right, I know all your fantasies, you little perv."
+    arj "That's right, I know all your fantasies, you little perv."
+
+# game/code/scenes/main_story/sm1ms029.rpy:2273
+translate chinese sm1ms029_part_1_my_appear_7387fd43:
+
+    # my "All right. Well, if you see her, tell her to call me, okay?"
+    my "All right. Well, if you see her, tell her to call me, okay?"
+
+# game/code/scenes/main_story/sm1ms029.rpy:2403
+translate chinese sm1ms029_party_sy_94f70313:
+
+    # sy "Your sister has the best ass in Crowning!"
+    sy "Your sister has the best ass in Crowning!"
+
+# game/code/scenes/main_story/sm1ms029.rpy:2994
+translate chinese sm1ms029_party_arj_b51ba273:
+
+    # arj "*happy slurping noise*"
+    arj "*happy slurping noise*"
+
+# game/code/scenes/main_story/sm1ms029.rpy:3510
+translate chinese sm1ms029_confrontation_d6d4f3c8:
+
+    # et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
+    et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
+
+# game/code/scenes/main_story/sm1ms029.rpy:3559
+translate chinese sm1ms029_confrontation_c26dec61:
+
+    # sy "You heard [mcname]. The answer is no, Foxmorr."
+    sy "You heard [mcname]. The answer is no, Foxmorr."
+
+# game/code/scenes/main_story/sm1ms029.rpy:3619
+translate chinese sm1ms029_confrontation_daf0d17d:
+
+    # et "Still... as you said... This place-"
+    et "Still... as you said... This place-"
+
+# game/code/scenes/main_story/sm1ms029.rpy:3651
+translate chinese sm1ms029_confrontation_56911771:
+
+    # sy "*indiscernible words*"
+    sy "*indiscernible words*"
+
+# game/code/scenes/main_story/sm1ms029.rpy:3702
+translate chinese sm1ms029_confrontation_49405f37:
+
+    # sy "I think he's just afraid of a little competition."
+    sy "I think he's just afraid of a little competition."
+
+# game/code/scenes/main_story/sm1ms029.rpy:3955
+translate chinese sm1ms029_party_end_254d93ee:
+
+    # mc "For sleepovers. Come on."
+    mc "For sleepovers. Come on."
 

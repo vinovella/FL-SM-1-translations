@@ -22,12 +22,6 @@ translate turkish sm1ms029_part_1_my_appear_2bc4e327:
     # sy "Mmmmm - mmmmmmm!"
     sy "Mmmmm - mmmmmmm!"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1428
-translate turkish sm1ms029_part_1_my_appear_674e7749:
-
-    # arj "That's right, I know al your fantasies, you little perv."
-    arj "Doğru, tüm fantezilerini biliyorum, seni küçük sapık."
-
 # game/code/scenes/main_story/sm1ms029.rpy:1429
 translate turkish sm1ms029_part_1_my_appear_7f748666:
 
@@ -346,12 +340,6 @@ translate turkish sm1ms029_part_1_my_appear_3593afed:
     # mc "I will! Bye, Mom! Love you!"
     mc "Yapacağım! Hoşça kal, Anne! Seni seviyorum!"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1521
-translate turkish sm1ms029_part_1_my_appear_c8ad3713:
-
-    # my "All right, Well, if you see her, tell her to call me, okay?"
-    my "Tamam. Peki, onu görürsen, beni aramasını söyle, tamam mı?"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1522
 translate turkish sm1ms029_part_1_my_appear_20231b23:
 
@@ -555,12 +543,6 @@ translate turkish sm1ms029_party_sy_e4518d78:
 
     # mc "Shit. Your ass is so tight! Even after AmRose fucked it!"
     mc "Kahretsin. Kıçın çok dar! AmRose siktiği halde!"
-
-# game/code/scenes/main_story/sm1ms029.rpy:1586
-translate turkish sm1ms029_party_sy_35b1c37e:
-
-    # sy "Yor sister has the best ass in Crowning!"
-    sy "Kız kardeşinin Crowning'deki en iyi kıçı var!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1588
 translate turkish sm1ms029_party_sy_dddd6b1a:
@@ -1635,12 +1617,6 @@ translate turkish sm1ms029_party_arj_89e2ca21:
 
     # mc "It's not a true party until I have your lips wrapped around my cock!"
     mc "Dudaklarını sikime dolayana kadar gerçek bir parti olmaz!"
-
-# game/code/scenes/main_story/sm1ms029.rpy:1900
-translate turkish sm1ms029_party_arj_43a496cc:
-
-    # arj "*happy slupring noise*"
-    arj "*mutlu emme sesi*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1904
 translate turkish sm1ms029_party_arj_db2fafa7:

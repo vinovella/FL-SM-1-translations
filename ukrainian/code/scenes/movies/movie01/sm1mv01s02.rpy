@@ -1427,10 +1427,10 @@ translate ukrainian sm1mv01s02_later_d3ba89d8:
     sy "Captain. The Pirate Queen needs a moment of your time..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
-translate ukrainian sm1mv01s02_later_b98f163a:
+translate ukrainian sm1mv01s02_later_e9f87a8a:
 
-    # mc "Just as minute?"
-    mc "Just as minute?"
+    # mc "Just a minute?"
+    mc "Just a minute?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:752
 translate ukrainian sm1mv01s02_later_5911a183:

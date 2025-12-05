@@ -226,12 +226,6 @@ translate turkish sm1ms020_f6b79e8d:
     # my "Well you two never asked me about me before!"
     my "Siz ikiniz daha önce bana hiç benim hakkımda soru sormadınız!"
 
-# game/code/scenes/main_story/sm1ms020.rpy:135
-translate turkish sm1ms020_fd52713d:
-
-    # mc "Well... why did you used to live in Crowning?"
-    mc "Peki... neden Crowning'de yaşıyordun?"
-
 # game/code/scenes/main_story/sm1ms020.rpy:138
 translate turkish sm1ms020_9a2ac44d:
 
@@ -1307,4 +1301,10 @@ translate turkish sm1ms020_ef441d96:
 
     # my "Oh! You brought us to Guns and Rosette!"
     my "Oh! Bizi Guns and Rosette'e getirdin!"
+
+# game/code/scenes/main_story/sm1ms020.rpy:135
+translate turkish sm1ms020_5f7987cf:
+
+    # mc "Well... why did you use to live in Crowning?"
+    mc "Well... why did you use to live in Crowning?"
 

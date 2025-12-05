@@ -22,12 +22,6 @@ translate french sm1mv01s08_4e4bd63e:
     # mct "Nobody told me you'd have to get up this early to make movies..."
     mct "Personne ne m’avait dit qu’il fallait se lever si tôt pour faire des films..."
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:74
-translate french sm1mv01s08_ad1a6180:
-
-    # mc "Stacy, come'on."
-    mc "Stacy, allez, debout."
-
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:75
 translate french sm1mv01s08_c1f718b8:
 
@@ -1799,4 +1793,10 @@ translate french sm1mv01s08_movie_start_b186964d:
 
     # mc "How can I believe you when your moans keep begging for my cock to pound your butthole?"
     mc "Comment pourrais-je te croire alors que tes gémissements supplient ma bite de te frapper le cul ?"
+
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:73
+translate french sm1mv01s08_e6d2fca7:
+
+    # mc "Stacy, come on."
+    mc "Stacy, come on."
 

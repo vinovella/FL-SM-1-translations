@@ -449,10 +449,10 @@ translate magyar sm1cs_sy001_shower_sex_9e96fb48:
     sy "It's been, mmmmmmng, hard work, but -"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:316
-translate magyar sm1cs_sy001_shower_sex_0365bafe:
+translate magyar sm1cs_sy001_shower_sex_1512c8ff:
 
-    # sy "- All of that hard work has been with it. Because - nnnnng - I can feel your dick so deep in me right now!"
-    sy "- All of that hard work has been with it. Because - nnnnng - I can feel your dick so deep in me right now!"
+    # sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
+    sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:319
 translate magyar sm1cs_sy001_shower_sex_e8f4a7bf:

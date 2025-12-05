@@ -424,12 +424,6 @@ translate chinese sm1ms029_party_arj_6be0145b:
     # arj "Mrrrmmmmm."
     arj "嗯嗯~"
 
-# game/code/scenes/main_story/sm1ms029.rpy:2021
-translate chinese sm1ms029_party_arj_2754e49d:
-
-    # arj "Ohuaa... kissing you... while you're right up against my spot..."
-    arj "Ohuaa...吻你...当你正顶着我的敏感点..."
-
 # game/code/scenes/main_story/sm1ms029.rpy:2022
 translate chinese sm1ms029_party_arj_101a5723:
 
@@ -886,12 +880,6 @@ translate chinese sm1ms029_confrontation_662ae26b:
     # et "I've been learning about you, seeing how S&M Studio came to be."
     et "我一直在了解你们，看S&M工作室是如何诞生的。"
 
-# game/code/scenes/main_story/sm1ms029.rpy:2185
-translate chinese sm1ms029_confrontation_0020431e:
-
-    # et "When I found out that it was just a brother and sister running things, without any formal business, education, I had to admit."
-    et "当我发现只是一对兄妹在经营，没有任何正式的商业教育时，我不得不承认。"
-
 # game/code/scenes/main_story/sm1ms029.rpy:2187
 translate chinese sm1ms029_confrontation_63896cc6:
 
@@ -993,12 +981,6 @@ translate chinese sm1ms029_confrontation_cb46a1af:
 
     # et "You haven't even heard how much I'm offering."
     et "你甚至还没听我出价多少。"
-
-# game/code/scenes/main_story/sm1ms029.rpy:2216
-translate chinese sm1ms029_confrontation_4687687c:
-
-    # sy "You heard, [mcname]. The answer is no, Foxmorr."
-    sy "你听到了，[mcname]。答案是不，福克斯莫。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2221
 translate chinese sm1ms029_confrontation_fabc44e1:
@@ -1132,12 +1114,6 @@ translate chinese sm1ms029_confrontation_4183c98e:
     # et "For you and everyone close to you."
     et "对你和你身边的每个人来说。"
 
-# game/code/scenes/main_story/sm1ms029.rpy:2262
-translate chinese sm1ms029_confrontation_7e19a826:
-
-    # et "Still... as you said... Thie place-"
-    et "不过...正如你所说...这个地方-"
-
 # game/code/scenes/main_story/sm1ms029.rpy:2263
 translate chinese sm1ms029_confrontation_b47761c7:
 
@@ -1185,12 +1161,6 @@ translate chinese sm1ms029_confrontation_928cc905:
 
     # et "Carmel."
     et "卡梅尔。"
-
-# game/code/scenes/main_story/sm1ms029.rpy:2280
-translate chinese sm1ms029_confrontation_2247f06f:
-
-    # sy "*indiscernable words*"
-    sy "*听不清的话*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2282
 translate chinese sm1ms029_confrontation_24b25b0f:
@@ -1281,12 +1251,6 @@ translate chinese sm1ms029_confrontation_abef5622:
 
     # sy "Yeah. Screw him."
     sy "是的。去他的。"
-
-# game/code/scenes/main_story/sm1ms029.rpy:2321
-translate chinese sm1ms029_confrontation_fcedb6ac:
-
-    # sy "I think he's just afraid of a little competiion."
-    sy "我觉得他只是害怕一点竞争。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2324
 translate chinese sm1ms029_confrontation_ffc7e92f:
@@ -1599,12 +1563,6 @@ translate chinese sm1ms029_party_end_4781ee9b:
 
     # arj "Why is it so big?"
     arj "为什么这么大？"
-
-# game/code/scenes/main_story/sm1ms029.rpy:2434
-translate chinese sm1ms029_party_end_1574b04d:
-
-    # mc "For sleepovers. Come'on."
-    mc"为了过夜。来吧。"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2439
 translate chinese sm1ms029_party_end_6d46208f:

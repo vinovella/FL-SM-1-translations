@@ -202,12 +202,6 @@ translate spanish sm1ms028_485f1564:
     # mc "I'll tell you on the ride over. For now, we gotta look fly."
     mc "Te lo cuento camino allá. Por ahora, tenemos que vernos bien."
 
-# game/code/scenes/main_story/sm1ms028.rpy:86
-translate spanish sm1ms028_a587ee6f:
-
-    # sy "Fly? You're scarcing me."
-    sy "¿Bien? Me estás asustando."
-
 # game/code/scenes/main_story/sm1ms028.rpy:89
 translate spanish sm1ms028_b849f538:
 
@@ -418,12 +412,6 @@ translate spanish sm1ms028_location_change_82deabde:
     # dl "And I mean a lot of porn."
     dl "Y me refiero a mucho porno."
 
-# game/code/scenes/main_story/sm1ms028.rpy:195
-translate spanish sm1ms028_location_change_5ba6d842:
-
-    # dl "Always done it. From even the earliest time, back when you had to know the password to get into the speial section at the downtown Blockbuster."
-    dl "Siempre lo he hecho. Desde hace años, cuando había que saber la contraseña para entrar a la sección especial del Blockbuster del centro."
-
 # game/code/scenes/main_story/sm1ms028.rpy:198
 translate spanish sm1ms028_location_change_f98cbc50:
 
@@ -531,12 +519,6 @@ translate spanish sm1ms028_location_change_e472835a:
 
     # dl "How much more."
     dl "¿Cuánto más?"
-
-# game/code/scenes/main_story/sm1ms028.rpy:240
-translate spanish sm1ms028_location_change_1830bfcb:
-
-    # sy "I think $1000 is more approrpirate."
-    sy "Creo que 1000 dólares es más apropiado."
 
 # game/code/scenes/main_story/sm1ms028.rpy:243
 translate spanish sm1ms028_location_change_47498af5:
@@ -916,12 +898,6 @@ translate spanish sm1ms028_location_change_4f38ddaf:
     # sy "*slurp*"
     sy "*sluurp*"
 
-# game/code/scenes/main_story/sm1ms028.rpy:398
-translate spanish sm1ms028_location_change_5faf666d:
-
-    # mc "All that hard work is finially paying off!"
-    mc "Todo ese trabajo duro finalmente está dando frutos."
-
 # game/code/scenes/main_story/sm1ms028.rpy:401
 translate spanish sm1ms028_location_change_88d903fc:
 
@@ -990,12 +966,6 @@ translate spanish strings:
     old "We're going to be rich!"
     new "¡Vamos a volvernos ricos!"
 
-# game/code/scenes/main_story/sm1ms028.rpy:114
-translate spanish sm1ms028_dress_change_d5624f26:
-
-    # mc "Never mind, we dont have time to change."
-    mc "No importa, no tenemos tiempo para cambiarnos."
-
 # game/code/scenes/main_story/sm1ms028.rpy:395
 translate spanish sm1ms028_location_change_f85f2d25:
 
@@ -1007,4 +977,34 @@ translate spanish strings:
     # game/code/scenes/main_story/sm1ms028.rpy:372
     old "You got $500 as your signup bonus from Porn Cave"
     new "Recibiste $500 como bono de inscripción de Porn Cave"
+
+# game/code/scenes/main_story/sm1ms028.rpy:98
+translate spanish sm1ms028_09ce7b18:
+
+    # sy "Fly? You're scaring me."
+    sy "Fly? You're scaring me."
+
+# game/code/scenes/main_story/sm1ms028.rpy:132
+translate spanish sm1ms028_dress_change_5bb90607:
+
+    # mc "Never mind, we don't have time to change."
+    mc "Never mind, we don't have time to change."
+
+# game/code/scenes/main_story/sm1ms028.rpy:220
+translate spanish sm1ms028_location_change_655577ab:
+
+    # dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+    dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+
+# game/code/scenes/main_story/sm1ms028.rpy:265
+translate spanish sm1ms028_location_change_50233dc1:
+
+    # sy "I think $1000 is more appropriate."
+    sy "I think $1000 is more appropriate."
+
+# game/code/scenes/main_story/sm1ms028.rpy:437
+translate spanish sm1ms028_location_change_8a80e7f6:
+
+    # mc "All that hard work is finally paying off!"
+    mc "All that hard work is finally paying off!"
 

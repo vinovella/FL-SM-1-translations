@@ -22,12 +22,6 @@ translate chinese sm1ms025_efe9b161:
     # sy "Antsy even."
     sy "甚至可以说是迫不及待了。"
 
-# game/code/scenes/main_story/sm1ms025.rpy:19
-translate chinese sm1ms025_c78e879f:
-
-    # sy "They even asked for more fetishes"
-    sy "他们还要求加更多性癖进去呢。"
-
 # game/code/scenes/main_story/sm1ms025.rpy:23
 translate chinese sm1ms025_7129dea6:
 
@@ -879,4 +873,10 @@ translate chinese sm1ms025_01a929b4:
 
     # sy "She stole my flash drive."
     sy "她之前偷了我的 U 盘。"
+
+# game/code/scenes/main_story/sm1ms025.rpy:19
+translate chinese sm1ms025_d303d504:
+
+    # sy "They even asked for more fetishes."
+    sy "They even asked for more fetishes."
 

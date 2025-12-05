@@ -448,12 +448,6 @@ translate turkish sm1cs_sy001_shower_sex_9e96fb48:
     # sy "It's been, mmmmmmng, hard work, but -"
     sy "Çok zor bir işti ama -"
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:299
-translate turkish sm1cs_sy001_shower_sex_0365bafe:
-
-    # sy "- All of that hard work has been with it. Because - nnnnng - I can feel your dick so deep in me right now!"
-    sy "- Bütün o sıkı çalışma onunla oldu. Çünkü - nnnnng - Şu an senin pipini içimde çok derinlerde hissedebiliyorum!"
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:301
 translate turkish sm1cs_sy001_shower_sex_e8f4a7bf:
 
@@ -763,4 +757,10 @@ translate turkish sm1cs_sy001_watersports_962bd759:
 
     # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
     sy "Uh huh. Benim için endişelenme, ben sadece burada orgazm sonrası parıltısıyla oturup bir süre tüm kirli şeyleri düşüneceğim."
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:316
+translate turkish sm1cs_sy001_shower_sex_1512c8ff:
+
+    # sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
+    sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
 

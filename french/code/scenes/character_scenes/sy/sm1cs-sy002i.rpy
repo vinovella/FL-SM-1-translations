@@ -70,12 +70,6 @@ translate french sm1cs_sy002i_first_time_263c64ae:
     # sy "Yeah, there are plenty of places around town we could use as sets. Parks, alleys, rooftops..."
     sy "Ouais, il y a plein d'endroits en ville qu'on peut utiliser comme décors. Parcs, ruelles, toits..."
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:43
-translate french sm1cs_sy002i_first_time_c3f42571:
-
-    # sy "You know I love the fucking somewhere unexpected."
-    sy "Tu sais que j'adore baiser dans des endroits inattendus."
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:45
 translate french sm1cs_sy002i_first_time_66335b13:
 
@@ -161,4 +155,10 @@ translate french sm1cs_sy002i_first_time_fe6569c6:
     mct "Oh putain... c'est parti."
 
 #Translate by BlackViper_
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:43
+translate french sm1cs_sy002i_first_time_54ee52de:
+
+    # sy "You know I love fucking somewhere unexpected."
+    sy "You know I love fucking somewhere unexpected."
 

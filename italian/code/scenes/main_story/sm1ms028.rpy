@@ -202,12 +202,6 @@ translate italian sm1ms028_485f1564:
     # mc "I'll tell you on the ride over. For now, we gotta look fly."
     mc "Te lo dirò durante il viaggio. Per ora, dobbiamo essere al top."
 
-# game/code/scenes/main_story/sm1ms028.rpy:86
-translate italian sm1ms028_a587ee6f:
-
-    # sy "Fly? You're scarcing me."
-    sy "Al top? Mi stai spaventando."
-
 # game/code/scenes/main_story/sm1ms028.rpy:89
 translate italian sm1ms028_b849f538:
 
@@ -418,12 +412,6 @@ translate italian sm1ms028_location_change_82deabde:
     # dl "And I mean a lot of porn."
     dl "E intendo proprio un sacco di porno."
 
-# game/code/scenes/main_story/sm1ms028.rpy:195
-translate italian sm1ms028_location_change_5ba6d842:
-
-    # dl "Always done it. From even the earliest time, back when you had to know the password to get into the speial section at the downtown Blockbuster."
-    dl "L'ho sempre fatto. Fin dai primi tempi, quando dovevi conoscere la password per entrare nella sezione speciale del Blockbuster in centro."
-
 # game/code/scenes/main_story/sm1ms028.rpy:198
 translate italian sm1ms028_location_change_f98cbc50:
 
@@ -531,12 +519,6 @@ translate italian sm1ms028_location_change_e472835a:
 
     # dl "How much more."
     dl "Quanto di più?"
-
-# game/code/scenes/main_story/sm1ms028.rpy:240
-translate italian sm1ms028_location_change_1830bfcb:
-
-    # sy "I think $1000 is more approrpirate."
-    sy "Penso che $1000 sia più appropriato."
 
 # game/code/scenes/main_story/sm1ms028.rpy:243
 translate italian sm1ms028_location_change_47498af5:
@@ -916,12 +898,6 @@ translate italian sm1ms028_location_change_4f38ddaf:
     # sy "*slurp*"
     sy "*sorso*"
 
-# game/code/scenes/main_story/sm1ms028.rpy:398
-translate italian sm1ms028_location_change_5faf666d:
-
-    # mc "All that hard work is finially paying off!"
-    mc "Tutto quel duro lavoro sta finalmente dando i suoi frutti!"
-
 # game/code/scenes/main_story/sm1ms028.rpy:401
 translate italian sm1ms028_location_change_88d903fc:
 
@@ -990,12 +966,6 @@ translate italian strings:
     old "We're going to be rich!"
     new "Diventeremo ricchi!"
 
-# game/code/scenes/main_story/sm1ms028.rpy:114
-translate italian sm1ms028_dress_change_d5624f26:
-
-    # mc "Never mind, we dont have time to change."
-    mc "Non importa, non abbiamo tempo per cambiarci."
-
 translate italian strings:
 
     # game/code/scenes/main_story/sm1ms028.rpy:372
@@ -1007,4 +977,34 @@ translate italian sm1ms028_location_change_f85f2d25:
 
     # mc "We will need to watch him very carefully if Lyssa says we can do business together."
     mc "Dovremo tenerlo d'occhio molto attentamente se Lyssa dice che possiamo fare affari insieme."
+
+# game/code/scenes/main_story/sm1ms028.rpy:98
+translate italian sm1ms028_09ce7b18:
+
+    # sy "Fly? You're scaring me."
+    sy "Fly? You're scaring me."
+
+# game/code/scenes/main_story/sm1ms028.rpy:132
+translate italian sm1ms028_dress_change_5bb90607:
+
+    # mc "Never mind, we don't have time to change."
+    mc "Never mind, we don't have time to change."
+
+# game/code/scenes/main_story/sm1ms028.rpy:220
+translate italian sm1ms028_location_change_655577ab:
+
+    # dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+    dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+
+# game/code/scenes/main_story/sm1ms028.rpy:265
+translate italian sm1ms028_location_change_50233dc1:
+
+    # sy "I think $1000 is more appropriate."
+    sy "I think $1000 is more appropriate."
+
+# game/code/scenes/main_story/sm1ms028.rpy:437
+translate italian sm1ms028_location_change_8a80e7f6:
+
+    # mc "All that hard work is finally paying off!"
+    mc "All that hard work is finally paying off!"
 

@@ -346,18 +346,6 @@ translate chinese sm1ms029_party_part_1_c3c5deff:
     # sy "Damn right it is."
     sy "说得太对了。"
 
-# game/code/scenes/main_story/sm1ms029.rpy:1673
-translate chinese sm1ms029_party_part_1_6f4346b1:
-
-    # arj "Come on, Stacy. Got to get back on the St. Andrew's Cross."
-    arj "来吧，史黛西。得回到圣安德鲁十字架上。"
-
-# game/code/scenes/main_story/sm1ms029.rpy:1674
-translate chinese sm1ms029_party_part_1_cda7d8e2:
-
-    # sy "I know, I know."
-    sy "我知道，我知道。"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1677
 translate chinese sm1ms029_party_part_1_e53c9a12:
 

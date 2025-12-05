@@ -676,12 +676,6 @@ translate turkish sm1ms022_37cdb330:
     # sy "Oh God, I loooooooove it!"
     sy "Aman Tanrım, bayılıyorum!"
 
-# game/code/scenes/main_story/sm1ms022.rpy:425
-translate turkish sm1ms022_38d217bc:
-
-    # sy "Might tight little ass is just gobbling up this cucumber! Ooooooo!"
-    sy "Çok sıkı küçük kıç bu salatalığı mideye indiriyor! Ooooooo!"
-
 # game/code/scenes/main_story/sm1ms022.rpy:426
 translate turkish sm1ms022_0bc8e987:
 
@@ -898,12 +892,6 @@ translate turkish sm1ms022_de39a93f:
     # mc "Ma'am?"
     mc "Hanımefendi?"
 
-# game/code/scenes/main_story/sm1ms022.rpy:538
-translate turkish sm1ms022_01b4a944:
-
-    # sy "Grab my hair so you have some of that leverage will your fucking my asshole."
-    sy "Saçımı tut da o nüfuzun bir kısmını sen de elde et, sonra da göt deliğimi sik."
-
 # game/code/scenes/main_story/sm1ms022.rpy:540
 translate turkish sm1ms022_9f38c54c:
 
@@ -982,12 +970,6 @@ translate turkish sm1ms022_6e2b3357:
     # sy "Oh just a keep on plowing my ass!"
     sy "Ah, kıçımı sürmeye devam et!"
 
-# game/code/scenes/main_story/sm1ms022.rpy:575
-translate turkish sm1ms022_4ed11df3:
-
-    # sy "Oh you get the magically dick deep inside my dirty little hoooole."
-    sy "Ah, sihirli bir şekilde o pipiyi pis küçük deliğimin derinliklerine soktun."
-
 # game/code/scenes/main_story/sm1ms022.rpy:576
 translate turkish sm1ms022_f4ced414:
 
@@ -1059,12 +1041,6 @@ translate turkish sm1ms022_0d71e0dd:
 
     # sy "Oh, I'm-"
     sy "Ah, ben-"
-
-# game/code/scenes/main_story/sm1ms022.rpy:598
-translate turkish sm1ms022_0ca5e03f:
-
-    # sy "I'm a cuuummmming, Farmer Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
-    sy "Boşalıyorum, Çiftçi Joooooon! Aman Tanrım, aman Tanrım - siktir, götümden boşalıyorum!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:599
 translate turkish sm1ms022_8d07015c:
@@ -1516,12 +1492,6 @@ translate turkish sm1ms022_23856912:
     # mc "What's a gate?"
     mc "Kapı nedir?"
 
-# game/code/scenes/main_story/sm1ms022.rpy:786
-translate turkish sm1ms022_224c0f0a:
-
-    # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatver gets in there."
-    kv "Kısacası, lens ile sensör arasındaki boşluktur. Bazen oraya kir veya başka bir şey girer."
-
 # game/code/scenes/main_story/sm1ms022.rpy:787
 translate turkish sm1ms022_ba55b433:
 
@@ -1701,4 +1671,34 @@ translate turkish sm1ms022_94f3e8f9:
 
     # mct "I really hope the client likes this next video..."
     mct "Umarım müşteri bu sonraki videoyu beğenir..."
+
+# game/code/scenes/main_story/sm1ms022.rpy:438
+translate turkish sm1ms022_b335c61c:
+
+    # sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
+    sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
+
+# game/code/scenes/main_story/sm1ms022.rpy:579
+translate turkish sm1ms022_67e01765:
+
+    # sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
+    sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
+
+# game/code/scenes/main_story/sm1ms022.rpy:619
+translate turkish sm1ms022_361d8f7f:
+
+    # sy "Oh get that dick deep inside my dirty little hoooole."
+    sy "Oh get that dick deep inside my dirty little hoooole."
+
+# game/code/scenes/main_story/sm1ms022.rpy:645
+translate turkish sm1ms022_b257719d:
+
+    # sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
+    sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
+
+# game/code/scenes/main_story/sm1ms022.rpy:862
+translate turkish sm1ms022_0a2335a3:
+
+    # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
+    kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
 

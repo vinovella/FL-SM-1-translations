@@ -604,12 +604,6 @@ translate turkish sm1ms029_party_part_1_24400e96:
     # mc "All right, Kanya, that's enough."
     mc "Pekala, Kanya, bu kadarı yeter."
 
-# game/code/scenes/main_story/sm1ms029.rpy:1032
-translate turkish sm1ms029_party_part_1_d49547aa:
-
-    # sy "Noooo, just as little more!"
-    sy "Hayıııır, sadece biraz daha!"
-
 # game/code/scenes/main_story/sm1ms029.rpy:1035
 translate turkish sm1ms029_party_part_1_c442311a:
 
@@ -1143,18 +1137,6 @@ translate turkish sm1ms029_party_part_1_c3c5deff:
 
     # sy "Damn right it is."
     sy "Kesinlikle doğru."
-
-# game/code/scenes/main_story/sm1ms029.rpy:1198
-translate turkish sm1ms029_party_part_1_6f4346b1:
-
-    # arj "Come on, Stacy. Got to get back on the St. Andrew's Cross."
-    arj "Hadi, Stacy. St. Andrew'un Haçı'na geri dönmeliyiz."
-
-# game/code/scenes/main_story/sm1ms029.rpy:1199
-translate turkish sm1ms029_party_part_1_cda7d8e2:
-
-    # sy "I know, I know."
-    sy "Biliyorum, biliyorum."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1202
 translate turkish sm1ms029_party_part_1_e53c9a12:

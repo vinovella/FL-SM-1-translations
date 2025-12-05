@@ -676,12 +676,6 @@ translate deutsch sm1ms022_37cdb330:
     # sy "Oh God, I loooooooove it!"
     sy "Oh Gott, ich liebe es so sehr!"
 
-# game/code/scenes/main_story/sm1ms022.rpy:431
-translate deutsch sm1ms022_38d217bc:
-
-    # sy "Might tight little ass is just gobbling up this cucumber! Ooooooo!"
-    sy "Dieser kleine, enge Arsch verschlingt diese Gurke geradezu! Ooooooo!"
-
 # game/code/scenes/main_story/sm1ms022.rpy:432
 translate deutsch sm1ms022_0bc8e987:
 
@@ -898,12 +892,6 @@ translate deutsch sm1ms022_de39a93f:
     # mc "Ma'am?"
     mc "Gnädige Frau?"
 
-# game/code/scenes/main_story/sm1ms022.rpy:565
-translate deutsch sm1ms022_01b4a944:
-
-    # sy "Grab my hair so you have some of that leverage will your fucking my asshole."
-    sy "Pack meine Haare, damit du etwas Halt hast, wenn du mich in den Arsch fickst."
-
 # game/code/scenes/main_story/sm1ms022.rpy:567
 translate deutsch sm1ms022_9f38c54c:
 
@@ -982,12 +970,6 @@ translate deutsch sm1ms022_6e2b3357:
     # sy "Oh just a keep on plowing my ass!"
     sy "Oh, mach einfach weiter und pflüge meinen Arsch!"
 
-# game/code/scenes/main_story/sm1ms022.rpy:603
-translate deutsch sm1ms022_4ed11df3:
-
-    # sy "Oh you get the magically dick deep inside my dirty little hoooole."
-    sy "Oh, du bekommst deinen magischen Schwanz ganzschön tief in mein schmutziges kleines Loch."
-
 # game/code/scenes/main_story/sm1ms022.rpy:604
 translate deutsch sm1ms022_f4ced414:
 
@@ -1059,12 +1041,6 @@ translate deutsch sm1ms022_0d71e0dd:
 
     # sy "Oh, I'm-"
     sy "Oh, ich..."
-
-# game/code/scenes/main_story/sm1ms022.rpy:627
-translate deutsch sm1ms022_0ca5e03f:
-
-    # sy "I'm a cuuummmming, Farmer Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
-    sy "Ich kooooommmmmmeee, Bauer Joooooohn! Oh Gott, verdammt, ich komme aus meinem Arsch!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:628
 translate deutsch sm1ms022_8d07015c:
@@ -1516,12 +1492,6 @@ translate deutsch sm1ms022_23856912:
     # mc "What's a gate?"
     mc "Was ist ein Tor?"
 
-# game/code/scenes/main_story/sm1ms022.rpy:833
-translate deutsch sm1ms022_224c0f0a:
-
-    # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatver gets in there."
-    kv "Kurz gesagt, es handelt sich um den Raum zwischen dem Objektiv und dem Sensor. Manchmal gelangt Schmutz oder etwas anderes dorthin."
-
 # game/code/scenes/main_story/sm1ms022.rpy:834
 translate deutsch sm1ms022_ba55b433:
 
@@ -1701,4 +1671,34 @@ translate deutsch sm1ms022_94f3e8f9:
 
     # mct "I really hope the client likes this next video..."
     mct "Ich hoffe wirklich, dass dem Kunden das nächste Video gefällt..."
+
+# game/code/scenes/main_story/sm1ms022.rpy:438
+translate deutsch sm1ms022_b335c61c:
+
+    # sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
+    sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
+
+# game/code/scenes/main_story/sm1ms022.rpy:579
+translate deutsch sm1ms022_67e01765:
+
+    # sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
+    sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
+
+# game/code/scenes/main_story/sm1ms022.rpy:619
+translate deutsch sm1ms022_361d8f7f:
+
+    # sy "Oh get that dick deep inside my dirty little hoooole."
+    sy "Oh get that dick deep inside my dirty little hoooole."
+
+# game/code/scenes/main_story/sm1ms022.rpy:645
+translate deutsch sm1ms022_b257719d:
+
+    # sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
+    sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
+
+# game/code/scenes/main_story/sm1ms022.rpy:862
+translate deutsch sm1ms022_0a2335a3:
+
+    # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
+    kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
 

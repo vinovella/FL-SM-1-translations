@@ -610,12 +610,6 @@ translate italian sm1cs_sy003_sex_99403aff:
     # mc "Sorry... what was that?"
     mc "Scusa... cos'hai detto?"
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:440
-translate italian sm1cs_sy003_sex_ebd1a428:
-
-    # sy "I said. 'While you fuck-oouhwaaah!''"
-    sy "Ho detto. 'Mentre mi scopi-oouhwaaah!''"
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:443
 translate italian sm1cs_sy003_sex_8c2c1b35:
 
@@ -975,4 +969,10 @@ translate italian sm1cs_sy003_end_e277e827:
 
     # mc "Goodnight, Stacy."
     mc "Buonanotte, Stacy."
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:457
+translate italian sm1cs_sy003_sex_45437f42:
+
+    # sy "I said. 'While you fuck-oouhwaaah!'"
+    sy "I said. 'While you fuck-oouhwaaah!'"
 

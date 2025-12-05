@@ -425,10 +425,10 @@ translate ukrainian sm1cs_sy002_2_35acf99c:
     sy "This place has such a vibe at night. It's really, like, the {i}perfect place{/i} for a little saucy acting."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:256
-translate ukrainian sm1cs_sy002_2_90462333:
+translate ukrainian sm1cs_sy002_2_7cac9fc4:
 
-    # mc "Yeah, it is. Hopefully we won't be interepted this time!"
-    mc "Yeah, it is. Hopefully we won't be interepted this time!"
+    # mc "Yeah, it is. Hopefully we won't be interrupted this time!"
+    mc "Yeah, it is. Hopefully we won't be interrupted this time!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:257
 translate ukrainian sm1cs_sy002_2_f11720dd:
@@ -539,10 +539,10 @@ translate ukrainian sm1cs_sy002_2_aa514fc1:
     mc "Aye, aye!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:324
-translate ukrainian sm1cs_sy002_2_561c9b87:
+translate ukrainian sm1cs_sy002_2_1ff49b1d:
 
-    # sy "Oh yessss, [mcname]! Oh that feels sooooo goood!"
-    sy "Oh yessss, [mcname]! Oh that feels sooooo goood!"
+    # sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
+    sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:325
 translate ukrainian sm1cs_sy002_2_e3ec9059:

@@ -202,12 +202,6 @@ translate chinese sm1ms028_485f1564:
     # mc "I'll tell you on the ride over. For now, we gotta look fly."
     mc "路上再告诉你。现在，我们得穿得体面点。"
 
-# game/code/scenes/main_story/sm1ms028.rpy:86
-translate chinese sm1ms028_a587ee6f:
-
-    # sy "Fly? You're scarcing me."
-    sy "体面？你吓到我了。"
-
 # game/code/scenes/main_story/sm1ms028.rpy:89
 translate chinese sm1ms028_b849f538:
 
@@ -418,12 +412,6 @@ translate chinese sm1ms028_location_change_82deabde:
     # dl "And I mean a lot of porn."
     dl "我是说非常多的色情片。"
 
-# game/code/scenes/main_story/sm1ms028.rpy:195
-translate chinese sm1ms028_location_change_5ba6d842:
-
-    # dl "Always done it. From even the earliest time, back when you had to know the password to get into the speial section at the downtown Blockbuster."
-    dl "一直都在看。从最早的时候开始，那时你还得知道密码才能进入市中心百视达的特别区。"
-
 # game/code/scenes/main_story/sm1ms028.rpy:198
 translate chinese sm1ms028_location_change_f98cbc50:
 
@@ -531,12 +519,6 @@ translate chinese sm1ms028_location_change_e472835a:
 
     # dl "How much more."
     dl "多多少？"
-
-# game/code/scenes/main_story/sm1ms028.rpy:240
-translate chinese sm1ms028_location_change_1830bfcb:
-
-    # sy "I think $1000 is more approrpirate."
-    sy "我认为1000美元更合适。"
 
 # game/code/scenes/main_story/sm1ms028.rpy:243
 translate chinese sm1ms028_location_change_47498af5:
@@ -916,12 +898,6 @@ translate chinese sm1ms028_location_change_4f38ddaf:
     # sy "*slurp*"
     sy "*啧啧*"
 
-# game/code/scenes/main_story/sm1ms028.rpy:398
-translate chinese sm1ms028_location_change_5faf666d:
-
-    # mc "All that hard work is finially paying off!"
-    mc "所有的努力终于有回报了！"
-
 # game/code/scenes/main_story/sm1ms028.rpy:401
 translate chinese sm1ms028_location_change_88d903fc:
 
@@ -976,12 +952,6 @@ translate chinese sm1ms028_location_change_306afde4:
     # sy "I can't wait!"
     sy "我等不及了！"
 
-# game/code/scenes/main_story/sm1ms028.rpy:114
-translate chinese sm1ms028_dress_change_d5624f26:
-
-    # mc "Never mind, we dont have time to change."
-    mc "算了，我们没时间换衣服了。"
-
 translate chinese strings:
 
     # game/code/scenes/main_story/sm1ms028.rpy:348
@@ -1009,4 +979,34 @@ translate chinese sm1ms028_location_change_f85f2d25:
 
     # mc "We will need to watch him very carefully if Lyssa says we can do business together."
     mc "如果丽莎说我们可以合作的话，我们需要非常仔细地观察他。"
+
+# game/code/scenes/main_story/sm1ms028.rpy:98
+translate chinese sm1ms028_09ce7b18:
+
+    # sy "Fly? You're scaring me."
+    sy "Fly? You're scaring me."
+
+# game/code/scenes/main_story/sm1ms028.rpy:132
+translate chinese sm1ms028_dress_change_5bb90607:
+
+    # mc "Never mind, we don't have time to change."
+    mc "Never mind, we don't have time to change."
+
+# game/code/scenes/main_story/sm1ms028.rpy:220
+translate chinese sm1ms028_location_change_655577ab:
+
+    # dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+    dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+
+# game/code/scenes/main_story/sm1ms028.rpy:265
+translate chinese sm1ms028_location_change_50233dc1:
+
+    # sy "I think $1000 is more appropriate."
+    sy "I think $1000 is more appropriate."
+
+# game/code/scenes/main_story/sm1ms028.rpy:437
+translate chinese sm1ms028_location_change_8a80e7f6:
+
+    # mc "All that hard work is finally paying off!"
+    mc "All that hard work is finally paying off!"
 

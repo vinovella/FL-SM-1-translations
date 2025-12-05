@@ -13,16 +13,16 @@
     new "Please finish logging in in the browser window, then press Check Status."
 
     # game/code/live_chat/live_chat_ui.rpy:116
-    old "Live Chat requires authentication!"
-    new "Live Chat requires authentication!"
+    old "Live Chat requires Patreon authentication, please authenticate first to continue."
+    new "Live Chat requires Patreon authentication, please authenticate first to continue."
 
     # game/code/live_chat/live_chat_ui.rpy:120
     old "Open Browser Again"
     new "Open Browser Again"
 
     # game/code/live_chat/live_chat_ui.rpy:120
-    old "Re-Authenticate"
-    new "Re-Authenticate"
+    old "Authenticate"
+    new "Authenticate"
 
     # game/code/live_chat/live_chat_ui.rpy:124
     old "Check Status"
@@ -48,10 +48,6 @@
     old "I Subscribed - Revalidate"
     new "I Subscribed - Revalidate"
 
-    # game/code/live_chat/live_chat_ui.rpy:159
-    old "Browser opened. Finish the process, then press Check Status."
-    new "Browser opened. Finish the process, then press Check Status."
-
     # game/code/live_chat/live_chat_ui.rpy:182
     old "Live Chat Settings"
     new "Live Chat Settings"
@@ -67,16 +63,6 @@
     # game/code/live_chat/live_chat_ui.rpy:202
     old "Hide"
     new "Hide"
-
-translate ukrainian strings:
-
-    # game/code/live_chat/live_chat_ui.rpy:116
-    old "Live Chat requires Patreon authentication, please authenticate first to continue."
-    new "Live Chat requires Patreon authentication, please authenticate first to continue."
-
-    # game/code/live_chat/live_chat_ui.rpy:120
-    old "Authenticate"
-    new "Authenticate"
 
     # game/code/live_chat/live_chat_ui.rpy:215
     old "Delete this conversation?"

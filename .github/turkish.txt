@@ -1,0 +1,75 @@
+============================== Language: turkish =============================="
+
+turkish/code/renpy/screens/music_player.rpy [2 words]
+
+11: new "Artist: [music_artist!t]"
+
+turkish/code/scenes/character_scenes/sy/sm1cs-sy001.rpy [25 words]
+
+765: sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
+
+turkish/code/scenes/character_scenes/sy/sm1cs-sy002.rpy [20 words]
+
+1247: mc "Yeah, it is. Hopefully we won't be interrupted this time!"
+1253: sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
+
+turkish/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy [7 words]
+
+161: sy "You know I love fucking somewhere unexpected."
+
+turkish/code/scenes/character_scenes/sy/sm1cs-sy003.rpy [5 words]
+
+977: sy "I said. 'While you fuck-oouhwaaah!'"
+
+turkish/code/scenes/main_story/sm1ms020.rpy [9 words]
+
+1309: mc "Well... why did you use to live in Crowning?"
+
+turkish/code/scenes/main_story/sm1ms022.rpy [70 words]
+
+1679: sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
+1685: sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
+1691: sy "Oh get that dick deep inside my dirty little hoooole."
+1697: sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
+1703: kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
+
+turkish/code/scenes/main_story/sm1ms025.rpy [14 words]
+
+881: sy "They even asked for more fetishes."
+
+turkish/code/scenes/main_story/sm1ms028.rpy [58 words]
+
+985: sy "Fly? You're scaring me."
+991: mc "Never mind, we don't have time to change."
+997: dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+1003: sy "I think $1000 is more appropriate."
+1009: mc "All that hard work is finally paying off!"
+
+turkish/code/scenes/main_story/sm1ms029.rpy [108 words]
+
+95: arj "How could I resist the inaugural S&M Studio party?"
+101: mc "She does need a supervisor."
+107: mc "She's a worrywart."
+113: sy "Noooo, just a little more!"
+119: arj "That's right, I know all your fantasies, you little perv."
+125: my "All right. Well, if you see her, tell her to call me, okay?"
+131: sy "Your sister has the best ass in Crowning!"
+137: arj "*happy slurping noise*"
+143: et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
+149: sy "You heard [mcname]. The answer is no, Foxmorr."
+155: et "Still... as you said... This place-"
+161: sy "*indiscernible words*"
+167: sy "I think he's just afraid of a little competition."
+173: mc "For sleepovers. Come on."
+
+turkish/code/scenes/main_story/sm1ms029_2.rpy [7 words]
+
+773: sy "I - nggghhhh - I - nnnnngggghhhhh!"
+
+turkish/code/scenes/movies/movie01/sm1mv01s02.rpy [5 words]
+
+2009: mc "Just a minute?"
+
+turkish/code/scenes/movies/movie01/sm1mv01s08.rpy [7 words]
+
+1799: mc "Stacy, come on."

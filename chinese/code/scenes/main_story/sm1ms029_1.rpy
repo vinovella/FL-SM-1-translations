@@ -364,12 +364,6 @@ translate chinese sm1ms029_cc6ec84c:
     # sy "AmRose! You made it!"
     sy "爱洛丝！你来了！"
 
-# game/code/scenes/main_story/sm1ms029.rpy:174
-translate chinese sm1ms029_b6d5ecfa:
-
-    # arj "How could I resist the inagural S&M Studio party?"
-    arj "我怎么能拒绝S&M工作室的首场派对呢？"
-
 # game/code/scenes/main_story/sm1ms029.rpy:177
 translate chinese sm1ms029_cf242ef8:
 
@@ -1629,12 +1623,6 @@ translate chinese sm1ms029_talk_mes_ns_d1579dea:
 
     # mc "Thank you, Min."
     mc "谢谢你，明。"
-
-# game/code/scenes/main_story/sm1ms029.rpy:768
-translate chinese sm1ms029_talk_mes_ns_a2d1ea75:
-
-    # mc "She does need a supervisor>"
-    mc "她确实需要一个监督人>"
 
 # game/code/scenes/main_story/sm1ms029.rpy:769
 translate chinese sm1ms029_talk_mes_ns_4ab9b3f2:

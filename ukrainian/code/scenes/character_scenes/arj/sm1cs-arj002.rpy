@@ -1762,6 +1762,12 @@ translate ukrainian sm1cs_arj002_c91b6000:
     # mct "Me and {b}my{/b} girls."
     mct "Me and {b}my{/b} girls."
 
+# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:963
+translate ukrainian sm1cs_arj002_f4e62c7c:
+
+    # mct "♪ Reunited and it feels so good. ♪"
+    mct "♪ Reunited and it feels so good. ♪"
+
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:965
 translate ukrainian sm1cs_arj002_206a90b7:
 
@@ -2029,16 +2035,6 @@ translate ukrainian strings:
     new "My name"
 
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:485
-    old "Tease her"
-    new "Tease her"
-
-    # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:485
     old "The jig is up, my sweet red flower"
     new "The jig is up, my sweet red flower"
-
-# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:963
-translate ukrainian sm1cs_arj002_f4e62c7c:
-
-    # mct "♪ Reunited and it feels so good. ♪"
-    mct "♪ Reunited and it feels so good. ♪"
 

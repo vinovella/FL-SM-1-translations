@@ -610,12 +610,6 @@ translate french sm1cs_sy003_sex_99403aff:
     # mc "Sorry... what was that?"
     mc "Pardon... t’as dit quoi ?"
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:439
-translate french sm1cs_sy003_sex_ebd1a428:
-
-    # sy "I said. 'While you fuck-oouhwaaah!''"
-    sy "J’ai dit... ‘Pendant que tu me baises...oouhwaaah !’"
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:442
 translate french sm1cs_sy003_sex_8c2c1b35:
 
@@ -977,4 +971,10 @@ translate french sm1cs_sy003_end_e277e827:
     mc "Bonne nuit, Stacy."
 
 #Translate by BlackViper_
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:457
+translate french sm1cs_sy003_sex_45437f42:
+
+    # sy "I said. 'While you fuck-oouhwaaah!'"
+    sy "I said. 'While you fuck-oouhwaaah!'"
 

@@ -70,12 +70,6 @@ translate spanish sm1cs_sy002i_first_time_263c64ae:
     # sy "Yeah, there are plenty of places around town we could use as sets. Parks, alleys, rooftops..."
     sy "Sí, hay muchos lugares en la ciudad que podríamos usar como escenarios. Parques, callejones, tejados..."
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:43
-translate spanish sm1cs_sy002i_first_time_c3f42571:
-
-    # sy "You know I love the fucking somewhere unexpected."
-    sy "Sabes que me encantan los malditos lugares inesperados."
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:45
 translate spanish sm1cs_sy002i_first_time_66335b13:
 
@@ -159,4 +153,10 @@ translate spanish sm1cs_sy002i_first_time_fe6569c6:
 
     # mct "Oh boy... here we go."
     mct "Oh chico... aquí vamos."
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:43
+translate spanish sm1cs_sy002i_first_time_54ee52de:
+
+    # sy "You know I love fucking somewhere unexpected."
+    sy "You know I love fucking somewhere unexpected."
 

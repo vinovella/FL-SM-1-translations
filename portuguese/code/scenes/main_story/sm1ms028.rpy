@@ -202,12 +202,6 @@ translate portuguese sm1ms028_485f1564:
     # mc "I'll tell you on the ride over. For now, we gotta look fly."
     mc "Te falo no caminho. Mas vamos ter que ficar bonitos agora."
 
-# game/code/scenes/main_story/sm1ms028.rpy:86
-translate portuguese sm1ms028_a587ee6f:
-
-    # sy "Fly? You're scarcing me."
-    sy "Bonitos? Tá me assustando."
-
 # game/code/scenes/main_story/sm1ms028.rpy:89
 translate portuguese sm1ms028_b849f538:
 
@@ -418,12 +412,6 @@ translate portuguese sm1ms028_location_change_82deabde:
     # dl "And I mean a lot of porn."
     dl "E quero dizer muito pornô."
 
-# game/code/scenes/main_story/sm1ms028.rpy:195
-translate portuguese sm1ms028_location_change_5ba6d842:
-
-    # dl "Always done it. From even the earliest time, back when you had to know the password to get into the speial section at the downtown Blockbuster."
-    dl "Sempre fiz isso. Desde antigamente quando se tinha que saber a senha de uma seção especial da locadora do centro."
-
 # game/code/scenes/main_story/sm1ms028.rpy:198
 translate portuguese sm1ms028_location_change_f98cbc50:
 
@@ -531,12 +519,6 @@ translate portuguese sm1ms028_location_change_e472835a:
 
     # dl "How much more."
     dl "Quanto mais?"
-
-# game/code/scenes/main_story/sm1ms028.rpy:240
-translate portuguese sm1ms028_location_change_1830bfcb:
-
-    # sy "I think $1000 is more approrpirate."
-    sy "Acho que $1000 estaria mais em conta."
 
 # game/code/scenes/main_story/sm1ms028.rpy:243
 translate portuguese sm1ms028_location_change_47498af5:
@@ -916,12 +898,6 @@ translate portuguese sm1ms028_location_change_4f38ddaf:
     # sy "*slurp*"
     sy "*slurp*"
 
-# game/code/scenes/main_story/sm1ms028.rpy:398
-translate portuguese sm1ms028_location_change_5faf666d:
-
-    # mc "All that hard work is finially paying off!"
-    mc "Todo o trabalho duro finalmente tá dando resultado!"
-
 # game/code/scenes/main_story/sm1ms028.rpy:401
 translate portuguese sm1ms028_location_change_88d903fc:
 
@@ -990,12 +966,6 @@ translate portuguese strings:
     old "We're going to be rich!"
     new "Vamos ficar ricos"
 
-# game/code/scenes/main_story/sm1ms028.rpy:114
-translate portuguese sm1ms028_dress_change_d5624f26:
-
-    # mc "Never mind, we dont have time to change."
-    mc "Deixa, não dá tempo de se trocar."
-
 translate portuguese strings:
 
     # game/code/scenes/main_story/sm1ms028.rpy:372
@@ -1007,4 +977,34 @@ translate portuguese sm1ms028_location_change_f85f2d25:
 
     # mc "We will need to watch him very carefully if Lyssa says we can do business together."
     mc "Vamos ter que ficar bem de olho nele se a Lyssa falar a gente pode fazer parceria."
+
+# game/code/scenes/main_story/sm1ms028.rpy:98
+translate portuguese sm1ms028_09ce7b18:
+
+    # sy "Fly? You're scaring me."
+    sy "Fly? You're scaring me."
+
+# game/code/scenes/main_story/sm1ms028.rpy:132
+translate portuguese sm1ms028_dress_change_5bb90607:
+
+    # mc "Never mind, we don't have time to change."
+    mc "Never mind, we don't have time to change."
+
+# game/code/scenes/main_story/sm1ms028.rpy:220
+translate portuguese sm1ms028_location_change_655577ab:
+
+    # dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+    dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+
+# game/code/scenes/main_story/sm1ms028.rpy:265
+translate portuguese sm1ms028_location_change_50233dc1:
+
+    # sy "I think $1000 is more appropriate."
+    sy "I think $1000 is more appropriate."
+
+# game/code/scenes/main_story/sm1ms028.rpy:437
+translate portuguese sm1ms028_location_change_8a80e7f6:
+
+    # mc "All that hard work is finally paying off!"
+    mc "All that hard work is finally paying off!"
 

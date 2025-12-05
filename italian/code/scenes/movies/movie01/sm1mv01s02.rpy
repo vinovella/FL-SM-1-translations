@@ -1426,12 +1426,6 @@ translate italian sm1mv01s02_later_d3ba89d8:
     # sy "Captain. The Pirate Queen needs a moment of your time..."
     sy "Capitano. La Regina Pirata ha bisogno di un momento del tuo tempo..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:731
-translate italian sm1mv01s02_later_b98f163a:
-
-    # mc "Just as minute?"
-    mc "Solo un minuto?"
-
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:734
 translate italian sm1mv01s02_later_5911a183:
 
@@ -2007,4 +2001,10 @@ translate italian strings:
     # game/code/scenes/movies/movie01/sm1mv01s02.rpy:491
     old "Focused"
     new "Concentrato"
+
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
+translate italian sm1mv01s02_later_e9f87a8a:
+
+    # mc "Just a minute?"
+    mc "Just a minute?"
 

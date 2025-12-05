@@ -25,6 +25,10 @@
     new "Direct approach. +1 RP with Amore"
 
     # game/code/hints.rpy:5
+    old "Tease her"
+    new "Tease her"
+
+    # game/code/hints.rpy:5
     old "Disarm with humor; give space. +2 RP with Amore"
     new "Disarm with humor; give space. +2 RP with Amore"
 

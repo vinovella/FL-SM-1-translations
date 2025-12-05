@@ -364,12 +364,6 @@ translate turkish sm1ms029_cc6ec84c:
     # sy "AmRose! You made it!"
     sy "AmRose! Geldin!"
 
-# game/code/scenes/main_story/sm1ms029.rpy:174
-translate turkish sm1ms029_b6d5ecfa:
-
-    # arj "How could I resist the inagural S&M Studio party?"
-    arj "İlk S&M Studio partisine nasıl direnebilirdim ki?"
-
 # game/code/scenes/main_story/sm1ms029.rpy:177
 translate turkish sm1ms029_cf242ef8:
 
@@ -1629,12 +1623,6 @@ translate turkish sm1ms029_talk_mes_ns_d1579dea:
 
     # mc "Thank you, Min."
     mc "Teşekkürler, Min."
-
-# game/code/scenes/main_story/sm1ms029.rpy:768
-translate turkish sm1ms029_talk_mes_ns_a2d1ea75:
-
-    # mc "She does need a supervisor>"
-    mc "Bir gözetmene ihtiyacı var>"
 
 # game/code/scenes/main_story/sm1ms029.rpy:769
 translate turkish sm1ms029_talk_mes_ns_4ab9b3f2:

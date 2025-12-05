@@ -677,10 +677,10 @@ translate ukrainian sm1ms022_37cdb330:
     sy "Oh God, I loooooooove it!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:438
-translate ukrainian sm1ms022_38d217bc:
+translate ukrainian sm1ms022_b335c61c:
 
-    # sy "Might tight little ass is just gobbling up this cucumber! Ooooooo!"
-    sy "Might tight little ass is just gobbling up this cucumber! Ooooooo!"
+    # sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
+    sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:439
 translate ukrainian sm1ms022_0bc8e987:
@@ -899,10 +899,10 @@ translate ukrainian sm1ms022_de39a93f:
     mc "Ma'am?"
 
 # game/code/scenes/main_story/sm1ms022.rpy:579
-translate ukrainian sm1ms022_01b4a944:
+translate ukrainian sm1ms022_67e01765:
 
-    # sy "Grab my hair so you have some of that leverage will your fucking my asshole."
-    sy "Grab my hair so you have some of that leverage will your fucking my asshole."
+    # sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
+    sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
 
 # game/code/scenes/main_story/sm1ms022.rpy:581
 translate ukrainian sm1ms022_9f38c54c:
@@ -983,10 +983,10 @@ translate ukrainian sm1ms022_6e2b3357:
     sy "Oh just a keep on plowing my ass!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:619
-translate ukrainian sm1ms022_4ed11df3:
+translate ukrainian sm1ms022_361d8f7f:
 
-    # sy "Oh you get the magically dick deep inside my dirty little hoooole."
-    sy "Oh you get the magically dick deep inside my dirty little hoooole."
+    # sy "Oh get that dick deep inside my dirty little hoooole."
+    sy "Oh get that dick deep inside my dirty little hoooole."
 
 # game/code/scenes/main_story/sm1ms022.rpy:620
 translate ukrainian sm1ms022_f4ced414:
@@ -1061,10 +1061,10 @@ translate ukrainian sm1ms022_0d71e0dd:
     sy "Oh, I'm-"
 
 # game/code/scenes/main_story/sm1ms022.rpy:645
-translate ukrainian sm1ms022_0ca5e03f:
+translate ukrainian sm1ms022_b257719d:
 
-    # sy "I'm a cuuummmming, Farmer Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
-    sy "I'm a cuuummmming, Farmer Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
+    # sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
+    sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:646
 translate ukrainian sm1ms022_8d07015c:
@@ -1517,10 +1517,10 @@ translate ukrainian sm1ms022_23856912:
     mc "What's a gate?"
 
 # game/code/scenes/main_story/sm1ms022.rpy:862
-translate ukrainian sm1ms022_224c0f0a:
+translate ukrainian sm1ms022_0a2335a3:
 
-    # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatver gets in there."
-    kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatver gets in there."
+    # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
+    kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
 
 # game/code/scenes/main_story/sm1ms022.rpy:863
 translate ukrainian sm1ms022_ba55b433:

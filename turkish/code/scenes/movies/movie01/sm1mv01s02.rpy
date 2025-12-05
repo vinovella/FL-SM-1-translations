@@ -1420,12 +1420,6 @@ translate turkish sm1mv01s02_later_d3ba89d8:
     # sy "Captain. The Pirate Queen needs a moment of your time..."
     sy "Kaptan. Korsan Kraliçe'nin biraz vaktine ihtiyacı var..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:730
-translate turkish sm1mv01s02_later_b98f163a:
-
-    # mc "Just as minute?"
-    mc "Sadece bir dakika mı?"
-
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:733
 translate turkish sm1mv01s02_later_5911a183:
 
@@ -2007,4 +2001,10 @@ translate turkish sm1mv01s02_later_1e8e7e72:
 
     # mc "I think it's the perfect outfit for a pirate queen."
     mc "Bence bir korsan kraliçe için mükemmel bir kıyafet."
+
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
+translate turkish sm1mv01s02_later_e9f87a8a:
+
+    # mc "Just a minute?"
+    mc "Just a minute?"
 

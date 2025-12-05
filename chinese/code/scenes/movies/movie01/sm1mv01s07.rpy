@@ -208,12 +208,6 @@ translate chinese sm1mv01s07_5f633f99:
     # mc "The last scene was a doozy."
     mc "上一个场景拍得太累人了。"
 
-# game/code/scenes/movies/movie01/sm1mv01s07.rpy:111
-translate chinese sm1mv01s07_01a788c3:
-
-    # sy "Yup. So what better way to put it in the past and have a little fun in the sun."
-    sy "对呀。所以还有什么比离开这儿、把疲惫抛在脑后，去阳光下找点乐子更好的呢。"
-
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:112
 translate chinese sm1mv01s07_bd0c267a:
 
@@ -237,4 +231,10 @@ translate chinese sm1mv01s07_c5fb4c04:
 
     # sy "Great.{w} Road trip!"
     sy "太好了{w}。公路旅行走起！"
+
+# game/code/scenes/movies/movie01/sm1mv01s07.rpy:111
+translate chinese sm1mv01s07_37330fe8:
+
+    # sy "Yup. What better way to put it behind us than to have a little fun in the sun."
+    sy "Yup. What better way to put it behind us than to have a little fun in the sun."
 

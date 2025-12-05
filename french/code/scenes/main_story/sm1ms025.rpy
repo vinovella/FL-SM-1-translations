@@ -22,12 +22,6 @@ translate french sm1ms025_efe9b161:
     # sy "Antsy even."
     sy "Même impatients."
 
-# game/code/scenes/main_story/sm1ms025.rpy:19
-translate french sm1ms025_c78e879f:
-
-    # sy "They even asked for more fetishes"
-    sy "Ils ont même demandé plus de fétiches."
-
 # game/code/scenes/main_story/sm1ms025.rpy:23
 translate french sm1ms025_7129dea6:
 
@@ -881,4 +875,10 @@ translate french sm1ms025_01a929b4:
     sy "Elle a volé ma clé USB."
 
 #Translate by BlackViper_
+
+# game/code/scenes/main_story/sm1ms025.rpy:19
+translate french sm1ms025_d303d504:
+
+    # sy "They even asked for more fetishes."
+    sy "They even asked for more fetishes."
 

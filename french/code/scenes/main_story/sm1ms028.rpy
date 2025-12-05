@@ -202,12 +202,6 @@ translate french sm1ms028_485f1564:
     # mc "I'll tell you on the ride over. For now, we gotta look fly."
     mc "Je t’explique en route. Pour l’instant, faut qu’on soit stylés."
 
-# game/code/scenes/main_story/sm1ms028.rpy:86
-translate french sm1ms028_a587ee6f:
-
-    # sy "Fly? You're scarcing me."
-    sy "Stylés ? Tu me fais peur."
-
 # game/code/scenes/main_story/sm1ms028.rpy:89
 translate french sm1ms028_b849f538:
 
@@ -418,12 +412,6 @@ translate french sm1ms028_location_change_82deabde:
     # dl "And I mean a lot of porn."
     dl "Et quand je dis beaucoup, c’est vraiment beaucoup."
 
-# game/code/scenes/main_story/sm1ms028.rpy:195
-translate french sm1ms028_location_change_5ba6d842:
-
-    # dl "Always done it. From even the earliest time, back when you had to know the password to get into the speial section at the downtown Blockbuster."
-    dl "Depuis très longtemps. À l’époque où il fallait connaître le mot de passe pour entrer dans la section spéciale du vidéoclub en centre-ville."
-
 # game/code/scenes/main_story/sm1ms028.rpy:198
 translate french sm1ms028_location_change_f98cbc50:
 
@@ -531,12 +519,6 @@ translate french sm1ms028_location_change_e472835a:
 
     # dl "How much more."
     dl "Combien de plus ?"
-
-# game/code/scenes/main_story/sm1ms028.rpy:240
-translate french sm1ms028_location_change_1830bfcb:
-
-    # sy "I think $1000 is more approrpirate."
-    sy "Je pense que 1000 $ serait plus approprié."
 
 # game/code/scenes/main_story/sm1ms028.rpy:243
 translate french sm1ms028_location_change_47498af5:
@@ -916,12 +898,6 @@ translate french sm1ms028_location_change_4f38ddaf:
     # sy "*slurp*"
     sy "*slurp*"
 
-# game/code/scenes/main_story/sm1ms028.rpy:398
-translate french sm1ms028_location_change_5faf666d:
-
-    # mc "All that hard work is finially paying off!"
-    mc "Tout ce travail acharné finit par payer !"
-
 # game/code/scenes/main_story/sm1ms028.rpy:401
 translate french sm1ms028_location_change_88d903fc:
 
@@ -992,12 +968,6 @@ translate french strings:
 
 #Translate by BlackViper_
 
-# game/code/scenes/main_story/sm1ms028.rpy:132
-translate french sm1ms028_dress_change_d5624f26:
-
-    # mc "Never mind, we dont have time to change."
-    mc "Laisse tomber, on n'a pas le temps de se changer."
-
 translate french strings:
 
     # game/code/scenes/main_story/sm1ms028.rpy:372
@@ -1009,4 +979,34 @@ translate french sm1ms028_location_change_f85f2d25:
 
     # mc "We will need to watch him very carefully if Lyssa says we can do business together."
     mc "On devra le surveiller de très près si Lyssa dit qu'on peut faire affaire ensemble."
+
+# game/code/scenes/main_story/sm1ms028.rpy:98
+translate french sm1ms028_09ce7b18:
+
+    # sy "Fly? You're scaring me."
+    sy "Fly? You're scaring me."
+
+# game/code/scenes/main_story/sm1ms028.rpy:132
+translate french sm1ms028_dress_change_5bb90607:
+
+    # mc "Never mind, we don't have time to change."
+    mc "Never mind, we don't have time to change."
+
+# game/code/scenes/main_story/sm1ms028.rpy:220
+translate french sm1ms028_location_change_655577ab:
+
+    # dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+    dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+
+# game/code/scenes/main_story/sm1ms028.rpy:265
+translate french sm1ms028_location_change_50233dc1:
+
+    # sy "I think $1000 is more appropriate."
+    sy "I think $1000 is more appropriate."
+
+# game/code/scenes/main_story/sm1ms028.rpy:437
+translate french sm1ms028_location_change_8a80e7f6:
+
+    # mc "All that hard work is finally paying off!"
+    mc "All that hard work is finally paying off!"
 

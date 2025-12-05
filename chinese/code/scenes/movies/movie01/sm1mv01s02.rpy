@@ -1420,12 +1420,6 @@ translate chinese sm1mv01s02_later_d3ba89d8:
     # sy "Captain. The Pirate Queen needs a moment of your time..."
     sy "船长。海盗女王需要你抽出点时间关照一下..."
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:730
-translate chinese sm1mv01s02_later_b98f163a:
-
-    # mc "Just as minute?"
-    mc "就一分钟？"
-
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:733
 translate chinese sm1mv01s02_later_5911a183:
 
@@ -2007,4 +2001,10 @@ translate chinese sm1mv01s02_later_1e8e7e72:
 
     # mc "I think it's the perfect outfit for a pirate queen."
     mc "我觉得这身就是为海盗女王量身打造的完美行头。"
+
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
+translate chinese sm1mv01s02_later_e9f87a8a:
+
+    # mc "Just a minute?"
+    mc "Just a minute?"
 

@@ -22,12 +22,6 @@ translate turkish sm1ms025_efe9b161:
     # sy "Antsy even."
     sy "Hatta sabırsızlar bile."
 
-# game/code/scenes/main_story/sm1ms025.rpy:19
-translate turkish sm1ms025_c78e879f:
-
-    # sy "They even asked for more fetishes"
-    sy "Hatta daha fazla fetiş istediler"
-
 # game/code/scenes/main_story/sm1ms025.rpy:23
 translate turkish sm1ms025_7129dea6:
 
@@ -879,4 +873,10 @@ translate turkish sm1ms025_01a929b4:
 
     # sy "She stole my flash drive."
     sy "Flash belleğimi çaldı."
+
+# game/code/scenes/main_story/sm1ms025.rpy:19
+translate turkish sm1ms025_d303d504:
+
+    # sy "They even asked for more fetishes."
+    sy "They even asked for more fetishes."
 

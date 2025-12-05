@@ -448,12 +448,6 @@ translate french sm1cs_sy001_shower_sex_9e96fb48:
     # sy "It's been, mmmmmmng, hard work, but -"
     sy "Ça a été, mmmmmmng, du boulot, mais..."
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:299
-translate french sm1cs_sy001_shower_sex_0365bafe:
-
-    # sy "- All of that hard work has been with it. Because - nnnnng - I can feel your dick so deep in me right now!"
-    sy "- Tout ce boulot en valait la peine. Parce que - nnnnng - je sens ta bite si profond en moi là tout de suite !"
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:301
 translate french sm1cs_sy001_shower_sex_e8f4a7bf:
 
@@ -765,4 +759,10 @@ translate french sm1cs_sy001_watersports_962bd759:
 
     # sy "Uh huh. Don't worry about me, I'm just going to sit here in the post orgasm glow and think about all the dirty things for a while."
     sy "Hmm hmm. T'inquiète pas pour moi, je vais juste rester là à profiter de l'extase post-orgasmique et penser à tous ces trucs cochons pendant un moment."
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:316
+translate french sm1cs_sy001_shower_sex_1512c8ff:
+
+    # sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
+    sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
 

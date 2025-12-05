@@ -1420,12 +1420,6 @@ translate french sm1mv01s02_later_d3ba89d8:
     # sy "Captain. The Pirate Queen needs a moment of your time..."
     sy "Capitaine… La reine des pirates a besoin d’un instant de votre temps…"
 
-# game/code/scenes/movies/movie01/sm1mv01s02.rpy:733
-translate french sm1mv01s02_later_b98f163a:
-
-    # mc "Just as minute?"
-    mc "Juste un instant ?"
-
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:736
 translate french sm1mv01s02_later_5911a183:
 
@@ -2009,4 +2003,10 @@ translate french strings:
     new "Concentré"
 
 #Translate by BlackViper_
+
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
+translate french sm1mv01s02_later_e9f87a8a:
+
+    # mc "Just a minute?"
+    mc "Just a minute?"
 

@@ -676,12 +676,6 @@ translate french sm1ms022_37cdb330:
     # sy "Oh God, I loooooooove it!"
     sy "Oh putain, j’adoooooore ça !"
 
-# game/code/scenes/main_story/sm1ms022.rpy:431
-translate french sm1ms022_38d217bc:
-
-    # sy "Might tight little ass is just gobbling up this cucumber! Ooooooo!"
-    sy "Mon petit cul serré avale complètement ce concombre ! Ooooooooh !"
-
 # game/code/scenes/main_story/sm1ms022.rpy:432
 translate french sm1ms022_0bc8e987:
 
@@ -898,12 +892,6 @@ translate french sm1ms022_de39a93f:
     # mc "Ma'am?"
     mc "Madame ?"
 
-# game/code/scenes/main_story/sm1ms022.rpy:565
-translate french sm1ms022_01b4a944:
-
-    # sy "Grab my hair so you have some of that leverage will your fucking my asshole."
-    sy "Tire mes cheveux, que t’aies un peu de prise pendant que tu me baises le cul."
-
 # game/code/scenes/main_story/sm1ms022.rpy:567
 translate french sm1ms022_9f38c54c:
 
@@ -982,12 +970,6 @@ translate french sm1ms022_6e2b3357:
     # sy "Oh just a keep on plowing my ass!"
     sy "Oh ouiiii, continue de labourer mon cul !"
 
-# game/code/scenes/main_story/sm1ms022.rpy:603
-translate french sm1ms022_4ed11df3:
-
-    # sy "Oh you get the magically dick deep inside my dirty little hoooole."
-    sy "Oh ta bite magique rentre si profond dans mon sale petit trouuuuu !"
-
 # game/code/scenes/main_story/sm1ms022.rpy:604
 translate french sm1ms022_f4ced414:
 
@@ -1059,12 +1041,6 @@ translate french sm1ms022_0d71e0dd:
 
     # sy "Oh, I'm-"
     sy "Oh, je..."
-
-# game/code/scenes/main_story/sm1ms022.rpy:627
-translate french sm1ms022_0ca5e03f:
-
-    # sy "I'm a cuuummmming, Farmer Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
-    sy "Je jouuuuuuis, Fermier Jooooon ! Oh putain, je jouis du cul ! Oh ouiiiiiii !"
 
 # game/code/scenes/main_story/sm1ms022.rpy:628
 translate french sm1ms022_8d07015c:
@@ -1516,12 +1492,6 @@ translate french sm1ms022_23856912:
     # mc "What's a gate?"
     mc "C’est quoi une “gate” ?"
 
-# game/code/scenes/main_story/sm1ms022.rpy:833
-translate french sm1ms022_224c0f0a:
-
-    # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
-    kv "En gros, c’est l’espace entre l’objectif et le capteur. Parfois, de la poussière ou autre s’y glisse."
-
 # game/code/scenes/main_story/sm1ms022.rpy:834
 translate french sm1ms022_ba55b433:
 
@@ -1703,4 +1673,34 @@ translate french sm1ms022_94f3e8f9:
     mct "J’espère vraiment que le client va kiffer cette prochaine vidéo…"
 
 #Translate by BlackViper_
+
+# game/code/scenes/main_story/sm1ms022.rpy:438
+translate french sm1ms022_b335c61c:
+
+    # sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
+    sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
+
+# game/code/scenes/main_story/sm1ms022.rpy:579
+translate french sm1ms022_67e01765:
+
+    # sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
+    sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
+
+# game/code/scenes/main_story/sm1ms022.rpy:619
+translate french sm1ms022_361d8f7f:
+
+    # sy "Oh get that dick deep inside my dirty little hoooole."
+    sy "Oh get that dick deep inside my dirty little hoooole."
+
+# game/code/scenes/main_story/sm1ms022.rpy:645
+translate french sm1ms022_b257719d:
+
+    # sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
+    sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
+
+# game/code/scenes/main_story/sm1ms022.rpy:862
+translate french sm1ms022_0a2335a3:
+
+    # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
+    kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
 

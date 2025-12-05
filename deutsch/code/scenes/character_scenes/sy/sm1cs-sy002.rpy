@@ -418,12 +418,6 @@ translate deutsch sm1cs_sy002_2_35acf99c:
     # sy "This place has such a vibe at night. It's really, like, the {i}perfect place{/i} for a little saucy acting."
     sy "Dieser Ort hat nachts so eine tolle Atmosphäre. Es ist wirklich der {i}perfekte Ort{/i} für ein bisschen freches Verhalten."
 
-# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:255
-translate deutsch sm1cs_sy002_2_90462333:
-
-    # mc "Yeah, it is. Hopefully we won't be interepted this time!"
-    mc "Ja, das ist es. Hoffentlich werden wir dieses Mal nicht unterbrochen!"
-
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:256
 translate deutsch sm1cs_sy002_2_f11720dd:
 
@@ -525,12 +519,6 @@ translate deutsch sm1cs_sy002_2_aa514fc1:
 
     # mc "Aye, aye!"
     mc "Aye, aye!"
-
-# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:317
-translate deutsch sm1cs_sy002_2_561c9b87:
-
-    # sy "Oh yessss, [mcname]! Oh that feels sooooo goood!"
-    sy "Oh jaaaa, [mcname]! Oh, das fühlt sich sooooo gut an!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:318
 translate deutsch sm1cs_sy002_2_e3ec9059:
@@ -1251,4 +1239,16 @@ translate deutsch sm1cs_sy002_dc_talk_4558d886:
 
     # mc "{size=*0.7}She looks like the park cop.{/size}"
     mc "{size=*0.7}Sie sieht aus wie die Parkpolizistin.{/size}"
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:256
+translate deutsch sm1cs_sy002_2_7cac9fc4:
+
+    # mc "Yeah, it is. Hopefully we won't be interrupted this time!"
+    mc "Yeah, it is. Hopefully we won't be interrupted this time!"
+
+# game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:324
+translate deutsch sm1cs_sy002_2_1ff49b1d:
+
+    # sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
+    sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
 
