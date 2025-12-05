@@ -974,5 +974,5 @@ translate chinese sm1cs_sy003_end_e277e827:
 translate chinese sm1cs_sy003_sex_45437f42:
 
     # sy "I said. 'While you fuck-oouhwaaah!'"
-    sy "I said. 'While you fuck-oouhwaaah!'"
+    sy "我说，你一边抱着我一边干--啊啊啊！"
 

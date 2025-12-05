@@ -878,5 +878,5 @@ translate chinese sm1ms025_01a929b4:
 translate chinese sm1ms025_d303d504:
 
     # sy "They even asked for more fetishes."
-    sy "They even asked for more fetishes."
+    sy "他们还要求加更多性癖进去呢。"
 

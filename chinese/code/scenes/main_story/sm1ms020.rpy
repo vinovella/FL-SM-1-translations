@@ -1306,5 +1306,5 @@ translate chinese sm1ms020_ef441d96:
 translate chinese sm1ms020_5f7987cf:
 
     # mc "Well... why did you use to live in Crowning?"
-    mc "Well... why did you use to live in Crowning?"
+    mc "那...你以前为什么会住在皇冠镇啊？"
 

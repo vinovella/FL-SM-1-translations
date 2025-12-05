@@ -1796,5 +1796,5 @@ translate chinese sm1mv01s08_movie_start_b186964d:
 translate chinese sm1mv01s08_e6d2fca7:
 
     # mc "Stacy, come on."
-    mc "Stacy, come on."
+    mc "史黛西，快点起来。"
 

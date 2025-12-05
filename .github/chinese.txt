@@ -1,13 +1,5 @@
 ============================== Language: chinese ==============================
 
-chinese/code/renpy/screens/music_player.rpy [2 words]
-
-11: new "Artist: [music_artist!t]"
-
-chinese/code/scenes/character_scenes/sy/sm1cs-sy001.rpy [25 words]
-
-765: sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
-
 chinese/code/scenes/character_scenes/sy/sm1cs-sy002.rpy [19 words]
 
 1247: mc "Yeah, it is. Hopefully we won't be interrupted this time!"
@@ -17,14 +9,6 @@ chinese/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy [7 words]
 
 161: sy "You know I love fucking somewhere unexpected."
 
-chinese/code/scenes/character_scenes/sy/sm1cs-sy003.rpy [5 words]
-
-977: sy "I said. 'While you fuck-oouhwaaah!'"
-
-chinese/code/scenes/main_story/sm1ms020.rpy [9 words]
-
-1309: mc "Well... why did you use to live in Crowning?"
-
 chinese/code/scenes/main_story/sm1ms022.rpy [70 words]
 
 1679: sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
@@ -32,10 +16,6 @@ chinese/code/scenes/main_story/sm1ms022.rpy [70 words]
 1691: sy "Oh get that dick deep inside my dirty little hoooole."
 1697: sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
 1703: kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
-
-chinese/code/scenes/main_story/sm1ms025.rpy [6 words]
-
-881: sy "They even asked for more fetishes."
 
 chinese/code/scenes/main_story/sm1ms028.rpy [52 words]
 
@@ -62,15 +42,7 @@ chinese/code/scenes/main_story/sm1ms029.rpy [108 words]
 965: sy "I think he's just afraid of a little competition."
 971: mc "For sleepovers. Come on."
 
-chinese/code/scenes/movies/movie01/sm1mv01s02.rpy [3 words]
-
-2009: mc "Just a minute?"
-
 chinese/code/scenes/movies/movie01/sm1mv01s07.rpy [18 words]
 
 239: sy "Yup. What better way to put it behind us than to have a little fun in the sun."
-
-chinese/code/scenes/movies/movie01/sm1mv01s08.rpy [3 words]
-
-1799: mc "Stacy, come on."
 
