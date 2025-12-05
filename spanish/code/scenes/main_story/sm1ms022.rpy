@@ -1676,29 +1676,29 @@ translate spanish sm1ms022_94f3e8f9:
 translate spanish sm1ms022_b335c61c:
 
     # sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
-    sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
+    sy "¡Mi culito apretado se está tragando este pepino! ¡Ooooooo!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:579
 translate spanish sm1ms022_67e01765:
 
     # sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
-    sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
+    sy "Agarra mi pelo para que tengas algo de palanca mientras me follas el culo."
 
 # game/code/scenes/main_story/sm1ms022.rpy:619
 translate spanish sm1ms022_361d8f7f:
 
     # sy "Oh get that dick deep inside my dirty little hoooole."
-    sy "Oh get that dick deep inside my dirty little hoooole."
+    sy "Oh, mete esa polla bien adentro de mi sucio agujeritoooo."
 
 # game/code/scenes/main_story/sm1ms022.rpy:645
 translate spanish sm1ms022_b257719d:
 
     # sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
-    sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
+    sy "¡Me estoy corrieeeendo, Peón Jooooohn! Oh cielos, vaya, cielos - ¡joder, me estoy corriendo por el culooo!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:862
 translate spanish sm1ms022_0a2335a3:
 
     # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
-    kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
+    kv "En pocas palabras, es el espacio entre el lente y el sensor. A veces entra suciedad o lo que sea."
 
