@@ -260,7 +260,7 @@ translate french sm1mv01s03_2_b281eb24:
 translate french sm1mv01s03_2_81477cc8:
 
     # "Juggsy and Bently" "Laughing and hooting."
-    "Juggsy and Bently" "Riant et hurlant."
+    "Juggsy et Bently" "Riant et hurlant."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:154
 translate french sm1mv01s03_2_c9d18f96:
@@ -1076,7 +1076,7 @@ translate french sm1mv01s03_2_f3bf025f:
 translate french sm1mv01s03_2_56c120f7:
 
     # "Stacy and Kanya" "Cheering."
-    "Stacy and Kanya" "Applaudissent."
+    "Stacy et Kanya" "Applaudissent."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:581
 translate french sm1mv01s03_2_351584d4:

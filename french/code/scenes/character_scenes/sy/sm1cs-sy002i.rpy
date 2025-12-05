@@ -160,5 +160,5 @@ translate french sm1cs_sy002i_first_time_fe6569c6:
 translate french sm1cs_sy002i_first_time_54ee52de:
 
     # sy "You know I love fucking somewhere unexpected."
-    sy "You know I love fucking somewhere unexpected."
+    sy "Tu sais que j'adore baiser dans un endroit inattendu."
 
