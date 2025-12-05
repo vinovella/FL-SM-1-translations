@@ -8,5 +8,5 @@ translate portuguese strings:
 
     # game/code/renpy/screens/music_player.rpy:28
     old "Artist: [music_artist!t]"
-    new "Artist: [music_artist!t]"
+    new "Artista: [music_artist!t]"
 
