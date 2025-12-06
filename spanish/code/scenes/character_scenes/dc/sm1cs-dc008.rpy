@@ -1,4 +1,4 @@
-﻿# game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:14
+# game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:14
 translate spanish sm1cs_dc008_6e54e9df:
 
     # mct "Man... this date has been a long time coming. I'm pretty excited that this is {b}finally{/b} happening."
@@ -542,7 +542,7 @@ translate spanish sm1cs_dc008_33971cb0:
 translate spanish sm1cs_dc008_e4edc378:
 
     # mc "Yeah. Why wouldn't I?"
-    mc "Sí. ¿Por qué no lo haría?"
+    mc "Sí. ¿Y por qué no?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:260
 translate spanish sm1cs_dc008_7f251949:
@@ -674,7 +674,7 @@ translate spanish sm1cs_dc008_eb00143d:
 translate spanish sm1cs_dc008_f9310f41:
 
     # dc "And so... my favorite food is a hot dog with all the fixings."
-    dc "Y por eso... mi comida favorita es un hot dog con todos los acompañamientos."
+    dc "Y por eso... mi comida favorita es un perro caliente con todos los acompañamientos."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:302
 translate spanish sm1cs_dc008_ce4d1620:
@@ -686,7 +686,7 @@ translate spanish sm1cs_dc008_ce4d1620:
 translate spanish sm1cs_dc008_f7a15a70:
 
     # mc "That is totally fine! I like hot dogs, too. I get it."
-    mc "¡Está totalmente bien! A mí también me gustan los hot dogs. Lo entiendo."
+    mc "¡Está totalmente bien! A mí también me gustan los perros calientes. Lo entiendo."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:305
 translate spanish sm1cs_dc008_848fe899:
