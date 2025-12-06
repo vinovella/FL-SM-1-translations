@@ -2,87 +2,87 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Brunette"
-    new "Brunette"
+    new "Barna"
 
     # game/code/data/constants/traits.rpy:82
     old "Blonde"
-    new "Blonde"
+    new "Szőke"
 
     # game/code/data/constants/traits.rpy:82
     old "Redhead"
-    new "Redhead"
+    new "Vörös"
 
     # game/code/data/constants/traits.rpy:82
     old "Dyed Hair"
-    new "Dyed Hair"
+    new "Festett haj"
 
     # game/code/data/constants/traits.rpy:82
     old "Multiple Color Hair"
-    new "Multiple Color Hair"
+    new "Többszínű haj"
 
     # game/code/data/constants/traits.rpy:82
     old "Blue Hair"
-    new "Blue Hair"
+    new "Kék haj"
 
     # game/code/data/constants/traits.rpy:82
     old "Green Hair"
-    new "Green Hair"
+    new "Zöld haj"
 
     # game/code/data/constants/traits.rpy:82
     old "Platinum Hair"
-    new "Platinum Hair"
+    new "Platinum haj"
 
     # game/code/data/constants/traits.rpy:82
     old "Grey Hair"
-    new "Grey Hair"
+    new "Szürke haj"
 
     # game/code/data/constants/traits.rpy:82
     old "Bald"
-    new "Bald"
+    new "Kopasz"
 
     # game/code/data/constants/traits.rpy:82
     old "Long Hair"
-    new "Long Hair"
+    new "Hosszú haj"
 
     # game/code/data/constants/traits.rpy:82
     old "Short Hair"
-    new "Short Hair"
+    new "Rövid haj"
 
     # game/code/data/constants/traits.rpy:82
     old "Braces"
-    new "Braces"
+    new "Fogszabályozó"
 
     # game/code/data/constants/traits.rpy:82
     old "Black Hair"
-    new "Black Hair"
+    new "Fekete haj"
 
     # game/code/data/constants/traits.rpy:82
     old "Braids"
-    new "Braids"
+    new "Fonatok"
 
     # game/code/data/constants/traits.rpy:82
     old "Dreads"
-    new "Dreads"
+    new "Félelmetes"
 
     # game/code/data/constants/traits.rpy:82
     old "Afro Hair"
-    new "Afro Hair"
+    new "Afro haj"
 
     # game/code/data/constants/traits.rpy:82
     old "Curly Hair"
-    new "Curly Hair"
+    new "Göndör haj"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Boobs"
-    new "Big Boobs"
+    new "Nagy melletk"
 
     # game/code/data/constants/traits.rpy:82
     old "Small Boobs"
-    new "Small Boobs"
+    new "Kicsi mellek"
 
     # game/code/data/constants/traits.rpy:82
     old "Huge Boobs"
-    new "Huge Boobs"
+    new "Hatalmas mellek"
 
     # game/code/data/constants/traits.rpy:82
     old "MILF"
@@ -90,15 +90,15 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Big Ass"
-    new "Big Ass"
+    new "Nagy fenék"
 
     # game/code/data/constants/traits.rpy:82
     old "Skinny"
-    new "Skinny"
+    new "Vékony"
 
     # game/code/data/constants/traits.rpy:82
     old "Curvy"
-    new "Curvy"
+    new "Telt"
 
     # game/code/data/constants/traits.rpy:82
     old "BBW"
@@ -106,155 +106,155 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Muscular"
-    new "Muscular"
+    new "Izmos"
 
     # game/code/data/constants/traits.rpy:82
     old "Short"
-    new "Short"
+    new "Alacsony"
 
     # game/code/data/constants/traits.rpy:82
     old "Tall"
-    new "Tall"
+    new "Magas"
 
     # game/code/data/constants/traits.rpy:82
     old "Amputee"
-    new "Amputee"
+    new "Amputált"
 
     # game/code/data/constants/traits.rpy:82
     old "Facial Piercing"
-    new "Facial Piercing"
+    new "Arcpiercing"
 
     # game/code/data/constants/traits.rpy:82
     old "Nipple Piercings"
-    new "Nipple Piercings"
+    new "Mellbimbó piercing"
 
     # game/code/data/constants/traits.rpy:82
     old "Genital Piercing"
-    new "Genital Piercing"
+    new "Intim piercingje"
 
     # game/code/data/constants/traits.rpy:82
     old "Tattoo"
-    new "Tattoo"
+    new "Tetoválás"
 
     # game/code/data/constants/traits.rpy:82
     old "Freckles"
-    new "Freckles"
+    new "Szeplők"
 
     # game/code/data/constants/traits.rpy:82
     old "Tan lines"
-    new "Tan lines"
+    new "Bikini vonal"
 
     # game/code/data/constants/traits.rpy:82
     old "Hairy"
-    new "Hairy"
+    new "Szőrös"
 
     # game/code/data/constants/traits.rpy:82
     old "Trimmed"
-    new "Trimmed"
+    new "Borotvált"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Lips"
-    new "Big Lips"
+    new "Nagy ajkak"
 
     # game/code/data/constants/traits.rpy:82
     old "Big Nipples"
-    new "Big Nipples"
+    new "Nagy mellbimból"
 
     # game/code/data/constants/traits.rpy:82
     old "Pregnant"
-    new "Pregnant"
+    new "Terhes"
 
     # game/code/data/constants/traits.rpy:82
     old "Pale"
-    new "Pale"
+    new "Sápadt"
 
     # game/code/data/constants/traits.rpy:82
     old "Innocent"
-    new "Innocent"
+    new "Ártatlan"
 
     # game/code/data/constants/traits.rpy:82
     old "Trans"
-    new "Trans"
+    new "Transz"
 
     # game/code/data/constants/traits.rpy:82
     old "Smoking"
-    new "Smoking"
+    new "Füstös"
 
     # game/code/data/constants/traits.rpy:82
     old "Anal"
-    new "Anal"
+    new "Anál"
 
     # game/code/data/constants/traits.rpy:82
     old "Watersports"
-    new "Watersports"
+    new "Vízisportok"
 
     # game/code/data/constants/traits.rpy:82
     old "Creampie"
-    new "Creampie"
+    new "Bele élvezés"
 
     # game/code/data/constants/traits.rpy:82
     old "Facial"
-    new "Facial"
+    new "Arc"
 
     # game/code/data/constants/traits.rpy:82
     old "Group sex"
-    new "Group sex"
+    new "Csoport szex"
 
     # game/code/data/constants/traits.rpy:82
     old "Sex with women"
-    new "Sex with women"
+    new "Szex nővel"
 
     # game/code/data/constants/traits.rpy:82
     old "Deep Throat"
-    new "Deep Throat"
+    new "Mélytorok"
 
     # game/code/data/constants/traits.rpy:82
     old "Fisting"
-    new "Fisting"
+    new "Öklözés"
 
     # game/code/data/constants/traits.rpy:82
     old "Foot Fetish"
-    new "Foot Fetish"
+    new "Láb fétish"
 
     # game/code/data/constants/traits.rpy:82
     old "Masochism"
-    new "Masochism"
+    new "Mazoista"
 
     # game/code/data/constants/traits.rpy:82
     old "Humiliation"
-    new "Humiliation"
+    new "Megaláztatás"
 
     # game/code/data/constants/traits.rpy:82
     old "Submission"
-    new "Submission"
+    new "Benyújtás"
 
     # game/code/data/constants/traits.rpy:82
     old "Domination"
-    new "Domination"
+    new "Dominancia"
 
     # game/code/data/constants/traits.rpy:82
     old "Bondage"
-    new "Bondage"
+    new "Kötözés"
 
     # game/code/data/constants/traits.rpy:82
     old "Spanking"
-    new "Spanking"
+    new "Pofozás"
 
     # game/code/data/constants/traits.rpy:82
     old "Enema"
-    new "Enema"
+    new "Beöntés"
 
     # game/code/data/constants/traits.rpy:82
     old "Pet Play"
-    new "Pet Play"
+    new "Állatjáték"
 
     # game/code/data/constants/traits.rpy:82
     old "Exhibitionism"
-    new "Exhibitionism"
+    new "Exhibicionizmus"
 
     # game/code/data/constants/traits.rpy:82
     old "Cum Swallow"
-    new "Cum Swallow"
+    new "Ondó lenyelés"
 
     # game/code/data/constants/traits.rpy:82
     old "Pegging"
@@ -262,11 +262,11 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Toys"
-    new "Toys"
+    new "Játékok"
 
     # game/code/data/constants/traits.rpy:82
     old "Food Play"
-    new "Food Play"
+    new "Étel játék"
 
     # game/code/data/constants/traits.rpy:82
     old "Gangbang"
@@ -274,33 +274,33 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Rough Sex"
-    new "Rough Sex"
+    new "Durva szex"
 
     # game/code/data/constants/traits.rpy:82
     old "Rimming"
-    new "Rimming"
+    new "Segg nyalád"
 
     # game/code/data/constants/traits.rpy:82
     old "Felching"
-    new "Felching"
+    new "Testnedvek"
 
     # game/code/data/constants/traits.rpy:82
     old "Squirting"
-    new "Squirting"
+    new "Spriccelés"
 
     # game/code/data/constants/traits.rpy:82
     old "Double Penetration"
-    new "Double Penetration"
+    new "Dupla behatolás"
 
     # game/code/data/constants/traits.rpy:82
     old "Ass to Mouth"
-    new "Ass to Mouth"
+    new "Seggből szájba"
 
     # game/code/data/constants/traits.rpy:82
     old "Choking"
-    new "Choking"
+    new "Fulladás"
 
     # game/code/data/constants/traits.rpy:82
     old "Extreme"
-    new "Extreme"
+    new "Extrém"
 
