@@ -158,5 +158,5 @@ translate turkish sm1cs_sy002i_first_time_fe6569c6:
 translate turkish sm1cs_sy002i_first_time_54ee52de:
 
     # sy "You know I love fucking somewhere unexpected."
-    sy "You know I love fucking somewhere unexpected."
+    sy "Beklenmedik bir yerde sevişmeyi ne kadar sevdiğimi biliyorsun."
 

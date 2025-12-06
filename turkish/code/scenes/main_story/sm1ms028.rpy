@@ -982,29 +982,29 @@ translate turkish sm1ms028_location_change_f85f2d25:
 translate turkish sm1ms028_09ce7b18:
 
     # sy "Fly? You're scaring me."
-    sy "Fly? You're scaring me."
+    sy "Uçmak mı? Beni korkutuyorsun."
 
 # game/code/scenes/main_story/sm1ms028.rpy:132
 translate turkish sm1ms028_dress_change_5bb90607:
 
     # mc "Never mind, we don't have time to change."
-    mc "Never mind, we don't have time to change."
+    mc "Boşver, üstümüzü değiştirecek vaktimiz yok."
 
 # game/code/scenes/main_story/sm1ms028.rpy:220
 translate turkish sm1ms028_location_change_655577ab:
 
     # dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
-    dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+    dl "Her zaman yaptım. En eski zamanlardan beri, şehir merkezindeki Blockbuster'ın özel bölümüne girmek için şifreyi bilmen gereken zamanlardan beri."
 
 # game/code/scenes/main_story/sm1ms028.rpy:265
 translate turkish sm1ms028_location_change_50233dc1:
 
     # sy "I think $1000 is more appropriate."
-    sy "I think $1000 is more appropriate."
+    sy "Bence 1000 dolar daha uygun."
 
 # game/code/scenes/main_story/sm1ms028.rpy:437
 translate turkish sm1ms028_location_change_8a80e7f6:
 
     # mc "All that hard work is finally paying off!"
-    mc "All that hard work is finally paying off!"
+    mc "Tüm o sıkı çalışmanın sonunda karşılığını alıyoruz!"
 

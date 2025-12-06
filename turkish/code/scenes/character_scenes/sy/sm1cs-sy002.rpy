@@ -1244,11 +1244,11 @@ translate turkish sm1cs_sy002_dc_talk_4558d886:
 translate turkish sm1cs_sy002_2_7cac9fc4:
 
     # mc "Yeah, it is. Hopefully we won't be interrupted this time!"
-    mc "Yeah, it is. Hopefully we won't be interrupted this time!"
+    mc "Evet, öyle. Umarım bu sefer bölünmeyiz!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:324
 translate turkish sm1cs_sy002_2_1ff49b1d:
 
     # sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
-    sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
+    sy "Oh evettttt, Ajan [mcname]! Oh bu çoooook iyiiii hissettiriyor!"
 

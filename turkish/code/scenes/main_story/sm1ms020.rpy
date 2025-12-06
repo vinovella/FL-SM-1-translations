@@ -1306,5 +1306,5 @@ translate turkish sm1ms020_ef441d96:
 translate turkish sm1ms020_5f7987cf:
 
     # mc "Well... why did you use to live in Crowning?"
-    mc "Well... why did you use to live in Crowning?"
+    mc "Peki... neden Crowning'de yaşıyordun?"
 

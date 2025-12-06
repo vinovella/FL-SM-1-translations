@@ -770,7 +770,7 @@ translate turkish sm1ms029_party_part_1_6b838a60:
 translate turkish sm1ms029_party_part_1_404301fb:
 
     # sy "I - nggghhhh - I - nnnnngggghhhhh!"
-    sy "I - nggghhhh - I - nnnnngggghhhhh!"
+    sy "Ben - nggghhhh - Ben - nnnnngggghhhhh!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1091
 translate turkish sm1ms029_party_part_1_4eb754e1:
