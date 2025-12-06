@@ -8,7 +8,7 @@ translate portuguese sm1cs_sy002i_adb292dd:
 translate portuguese sm1cs_sy002i_26cce84a:
 
     # mc "Yeah, I enjoyed practicing our \"acting skills\"."
-    mc "É, adorei a praticar as nossas \"técnicas de atuação\". "
+    mc "É, adorei a praticar as nossas \"técnicas de atuação\"."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:16
 translate portuguese sm1cs_sy002i_0f0ff8c2:
@@ -74,7 +74,7 @@ translate portuguese sm1cs_sy002i_first_time_263c64ae:
 translate portuguese sm1cs_sy002i_first_time_66335b13:
 
     # mc "I do love some light exhibitionism... okay, why don't we try the park?"
-    mc "Eu gosto de um exibicionismozinho... tá, porque não tentamos o parque?"
+    mc "Eu gosto de um exibicionismozinho... beleza, porque não tentamos no parque?"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:46
 translate portuguese sm1cs_sy002i_first_time_77cd3355:
@@ -158,5 +158,5 @@ translate portuguese sm1cs_sy002i_first_time_fe6569c6:
 translate portuguese sm1cs_sy002i_first_time_54ee52de:
 
     # sy "You know I love fucking somewhere unexpected."
-    sy "Você sabe que eu adoro transar em lugares inesperados."
+    sy "Você sabe que eu adoro transar em lugar inesperado."
 
