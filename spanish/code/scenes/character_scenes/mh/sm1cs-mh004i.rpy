@@ -68,7 +68,7 @@ translate spanish sm1cs_mh004i_62c48c08:
 translate spanish sm1cs_mh004i_658796a4:
 
     # sy "You better! Lyssa is an absolute catch, [mcname]. Don't fumble her. Got it?"
-    sy "¡Más te vale! Lyssa es un buen partido, [mcname]. No la dejes escapar. ¿Lo entitndes?"
+    sy "¡Más te vale! Lyssa es un buen partido, [mcname]. No la dejes escapar. ¿Lo entiendes?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004i.rpy:36
 translate spanish sm1cs_mh004i_db0d0c4c:
