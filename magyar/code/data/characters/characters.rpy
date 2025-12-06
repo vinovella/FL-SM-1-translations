@@ -246,11 +246,11 @@
 
     # game/code/data/characters/characters.rpy:3
     old "Guy"
-    new "Guy"
+    new "Fickó"
 
     # game/code/data/characters/characters.rpy:3
     old "Dog"
-    new "Dog"
+    new "Kutya"
 
     # game/code/data/characters/characters.rpy:3
     old "Walker"
@@ -262,5 +262,5 @@
 
     # game/code/data/characters/characters.rpy:3
     old "Driver"
-    new "Driver"
+    new "Sofőr"
 
