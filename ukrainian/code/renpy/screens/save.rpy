@@ -33,12 +33,12 @@
     new "Skip"
 
     # game/code/renpy/screens/save.rpy:188
-    old "Saves For Season [season]"
-    new "Saves For Season [season]"
+    old "Saves for season [season]"
+    new "Saves for season [season]"
 
     # game/code/renpy/screens/save.rpy:188
-    old "Saves From Season [season]"
-    new "Saves From Season [season]"
+    old "Saves from season [season]"
+    new "Saves from season [season]"
 
     # game/code/renpy/screens/save.rpy:220
     old "No saves found!"

@@ -24,13 +24,13 @@
     old "Skip"
     new "Atla"
 
-    # game/code/renpy/screens/save.rpy:184
-    old "Saves For Season [season]"
-    new "Bölüm [season] için Kayıtlar"
+    # game/code/renpy/screens/save.rpy:188
+    old "Saves for season [season]"
+    new "Bölüm [season] için kayıtlar"
 
-    # game/code/renpy/screens/save.rpy:184
-    old "Saves From Season [season]"
-    new "Bölüm [season]'dan Kayıtlar"
+    # game/code/renpy/screens/save.rpy:188
+    old "Saves from season [season]"
+    new "Bölüm [season]'dan kayıtlar"
 
     # game/code/renpy/screens/save.rpy:113
     old "You completed 100% of the game!"

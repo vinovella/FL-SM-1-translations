@@ -24,12 +24,12 @@
     old "Skip"
     new "Salta"
 
-    # game/code/renpy/screens/save.rpy:184
-    old "Saves For Season [season]"
+    # game/code/renpy/screens/save.rpy:188
+    old "Saves for season [season]"
     new "Salvataggi Per la Stagione [season]"
 
-    # game/code/renpy/screens/save.rpy:184
-    old "Saves From Season [season]"
+    # game/code/renpy/screens/save.rpy:188
+    old "Saves from season [season]"
     new "Salvataggi Dalla Stagione [season]"
 
     # game/code/renpy/screens/save.rpy:113

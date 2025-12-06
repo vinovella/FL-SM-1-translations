@@ -536,8 +536,8 @@
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
     new "Les icônes du menu proviennent de {a=https://feathericons.com/}Feather{/a}, une superbe collection créée par @colebemis et sous licence {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT{/a}."
 
-    # game/code/renpy/screens/screens.rpy:447
-    old "Saves For Season 2"
+    # game/code/renpy/screens/screens.rpy:453
+    old "Saves for season 2"
     new "Sauvegardes pour la Saison 2"
 
     # game/code/renpy/screens/screens.rpy:1129

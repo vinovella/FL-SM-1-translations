@@ -69,8 +69,8 @@
     new "Disabled"
 
     # game/code/renpy/screens/screens.rpy:453
-    old "Saves For Season 2"
-    new "Saves For Season 2"
+    old "Saves for season 2"
+    new "Saves for season 2"
 
     # game/code/renpy/screens/screens.rpy:473
     old "{#file_time}%b %d %Y, %H:%M"

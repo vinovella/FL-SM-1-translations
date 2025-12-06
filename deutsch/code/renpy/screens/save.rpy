@@ -20,13 +20,13 @@
     old "Save your progress for S&M Studio Season 2!"
     new "Speicher deinen Fortschritt für S&M Studio Season 2!"
 
-    # game/code/renpy/screens/save.rpy:131
-    old "Skip"
-    new "Überspringen"
+    # game/code/renpy/screens/save.rpy:188
+    old "Saves for season [season]"
+    new "Speicherstände season [season]"
 
-    # game/code/renpy/screens/save.rpy:184
-    old "Saves For Season [season]"
-    new "Speicherstände Season [season]"
+    # game/code/renpy/screens/save.rpy:188
+    old "Saves from season [season]"
+    new "Speicherstände season [season]"
 
     # game/code/renpy/screens/save.rpy:184
     old "Saves From Season [season]"

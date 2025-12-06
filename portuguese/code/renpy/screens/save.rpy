@@ -24,13 +24,13 @@ translate portuguese strings:
     old "Skip"
     new "Pular"
 
-    # game/code/renpy/screens/save.rpy:184
-    old "Saves For Season [season]"
-    new "Saves Para Temmporada [season]"
+    # game/code/renpy/screens/save.rpy:188
+    old "Saves for season [season]"
+    new "Saves para temporada [season]"
 
-    # game/code/renpy/screens/save.rpy:184
-    old "Saves From Season [season]"
-    new "Saves Da Temporada [season]"
+    # game/code/renpy/screens/save.rpy:188
+    old "Saves from season [season]"
+    new "Saves da temporada [season]"
 
     # game/code/renpy/screens/save.rpy:113
     old "You completed 100% of the game!"

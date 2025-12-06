@@ -16,8 +16,6 @@ translate spanish strings:
     old "Open phone"
     new "Teléfono"
 
-translate spanish strings:
-
     # game/code/renpy/screens/game_menus.rpy:155
     old "HIST"
     new "HIST"
@@ -36,11 +34,11 @@ translate spanish strings:
 
     # game/code/renpy/screens/game_menus.rpy:165
     old "Q.SAVE"
-    new "GUARDADO RÁPIDO"
+    new "GUARD.RÁP"
 
     # game/code/renpy/screens/game_menus.rpy:167
     old "Q.LOAD"
-    new "CARGADO RÁPIDO"
+    new "CARG.RÁP"
 
     # game/code/renpy/screens/game_menus.rpy:169
     old "SETTINGS"

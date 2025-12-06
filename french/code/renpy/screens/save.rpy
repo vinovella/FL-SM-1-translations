@@ -33,10 +33,10 @@
     new "Vous pouvez continuer à jouer au jeu et sauvegarder plus tard depuis votre téléphone également."
 
     # game/code/renpy/screens/save.rpy:188
-    old "Saves For Season [season]"
+    old "Saves for season [season]"
     new "Sauvegardes pour la Saison [season]"
 
     # game/code/renpy/screens/save.rpy:188
-    old "Saves From Season [season]"
+    old "Saves from season [season]"
     new "Sauvegardes du Saison [season]"
 

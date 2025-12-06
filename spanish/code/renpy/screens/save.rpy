@@ -8,18 +8,6 @@
     old "No saves found!"
     new "¡No se encontraron guardados!"
 
-translate spanish strings:
-
-    # game/code/renpy/screens/save.rpy:51
-    old "Saves For Chapter [chapter]"
-    new "Guardados del Capítulo [chapter]"
-
-    # game/code/renpy/screens/save.rpy:51
-    old "Saves From Chapter [chapter]"
-    new "Guardados desde el Capítulo [chapter]"
-
-translate spanish strings:
-
     # game/code/renpy/screens/save.rpy:20
     old "Congratulations! You completed all storylines!"
     new "¡Felicidades! ¡Completaste todas las historias!"
@@ -53,10 +41,10 @@ translate spanish strings:
     new "Saltar"
 
     # game/code/renpy/screens/save.rpy:188
-    old "Saves For Season [season]"
-    new "Guardados de la temporada [season]"
+    old "Saves for season [season]"
+    new "Guardados temporada [season]"
 
     # game/code/renpy/screens/save.rpy:188
-    old "Saves From Season [season]"
-    new "Guardados desde la temporada [season]"
+    old "Saves from season [season]"
+    new "Guardados temporada [season]"
 

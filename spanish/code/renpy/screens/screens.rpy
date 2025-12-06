@@ -2,7 +2,7 @@ translate spanish strings:
 
     # game/code/renpy/screens/screens.rpy:34
     old "End Replay"
-    new "Terminar repetición"
+    new "Fin de repetición"
 
     # game/code/renpy/screens/screens.rpy:37
     old "Main Menu"
@@ -22,7 +22,7 @@ translate spanish strings:
 
     # game/code/renpy/screens/screens.rpy:338
     old "Naming save file:"
-    new "Asignar nombre al archivo de guardado:"
+    new "Nombre del guardado:"
 
     # game/code/renpy/screens/screens.rpy:339
     old "Enabled"
@@ -34,7 +34,7 @@ translate spanish strings:
 
     # game/code/renpy/screens/screens.rpy:344
     old "Ren'Py Save Sync"
-    new "Sincronización de guardados de Ren'Py"
+    new "Sincronizar guardados"
 
     # game/code/renpy/screens/screens.rpy:371
     old "{#file_time}%b %d %Y, %H:%M"
@@ -246,7 +246,7 @@ translate spanish strings:
 
     # game/code/renpy/screens/screens.rpy:149
     old "Music Player"
-    new "Reproductor de música"
+    new "Música"
 
     # game/code/renpy/screens/screens.rpy:498
     old "Audio"
@@ -473,7 +473,7 @@ translate spanish strings:
     new "Los íconos del menú provienen de {a=https://feathericons.com/}Feather{/a}, una hermosa colección creada por @colebemis y licenciada bajo {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT{/a}."
 
     # game/code/renpy/screens/screens.rpy:447
-    old "Saves For Season 2"
+    old "Saves for season 2"
     new "Guardados de la temporada 2"
 
     # game/code/renpy/screens/screens.rpy:1129

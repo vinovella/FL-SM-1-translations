@@ -24,12 +24,12 @@
     old "Skip"
     new "跳过"
 
-    # game/code/renpy/screens/save.rpy:178
-    old "Saves For Season [season]"
+    # game/code/renpy/screens/save.rpy:188
+    old "Saves for season [season]"
     new "第[season]季的存档"
 
-    # game/code/renpy/screens/save.rpy:178
-    old "Saves From Season [season]"
+    # game/code/renpy/screens/save.rpy:188
+    old "Saves from season [season]"
     new "第[season]季的存档"
 
     # game/code/renpy/screens/save.rpy:123

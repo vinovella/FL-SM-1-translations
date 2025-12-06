@@ -460,8 +460,8 @@
     old "Minigames :"
     new "迷你游戏 :"
 
-    # game/code/renpy/screens/screens.rpy:445
-    old "Saves For Season 2"
+    # game/code/renpy/screens/screens.rpy:453
+    old "Saves for season 2"
     new "第二季的存档"
 
     # game/code/renpy/screens/screens.rpy:1108
