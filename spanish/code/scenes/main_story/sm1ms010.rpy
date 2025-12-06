@@ -20,7 +20,7 @@ translate spanish sm1ms010_3b932df8:
 translate spanish sm1ms010_0419d335:
 
     # mc "Later."
-    mc "Más tarde."
+    mc "Nos vemos más tarde."
 
 # game/code/scenes/main_story/sm1ms010.rpy:59
 translate spanish sm1ms010_7f7a1bf9:
@@ -752,7 +752,7 @@ translate spanish sm1ms010_arj_footfetish_d0a1cfdc:
 translate spanish sm1ms010_arj_footfetish_9ea884df:
 
     # mc "When it's you, AmRose, I always love it."
-    mc "Cuando eres tú, AmRose, siempre me encanta."
+    mc "Cuando eres tú, AmRose, siempre me gusta."
 
 # game/code/scenes/main_story/sm1ms010.rpy:512
 translate spanish sm1ms010_arj_footfetish_01412395:
@@ -908,7 +908,7 @@ translate spanish sm1ms010_after_footfetish_a21a4b45:
 translate spanish sm1ms010_after_footfetish_9b1d731a:
 
     # mct "Oh fuck me. She always knows just how to get me racing for the hills."
-    mct "Oh, joder. Ella siempre sabe cómo hacerme correr hacia las colinas."
+    mct "Oh, joder. Ella siempre sabe cómo hacerme salir corriendo."
 
 # game/code/scenes/main_story/sm1ms010.rpy:626
 translate spanish sm1ms010_after_footfetish_7830cce5:
@@ -1094,7 +1094,7 @@ translate spanish sm1ms010_arj_searching_86bcc222:
 translate spanish sm1ms010_arj_searching_8b0411c9:
 
     # arj "Sure. I mean. No problem. I... I need to go."
-    arj "Seguro. Quiero decir. Ningún problema. Yo... necesito irme."
+    arj "Seguro. Quiero decir. No hay problema. Yo... necesito irme."
 
 # game/code/scenes/main_story/sm1ms010.rpy:759
 translate spanish sm1ms010_arj_searching_b3dc77bc:
@@ -1199,4 +1199,5 @@ translate spanish strings:
     # game/code/scenes/main_story/sm1ms010.rpy:338
     old "Stop things from going further"
     new "Detener las cosas antes de que vayan más lejos"
+
 
