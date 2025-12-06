@@ -6,13 +6,13 @@ translate spanish strings:
 
     # game/code/renpy/screens/money_statement.rpy:72
     old "NEXT"
-    new "SIGUIENTE"
+    new "SIG."
 
     # game/code/renpy/screens/money_statement.rpy:72
     old "HIDE"
-    new "ESCONDER"
+    new "OCULTAR"
 
     # game/code/renpy/screens/money_statement.rpy:78
     old "SKIP ALL"
-    new "OMITIR TODO"
+    new "OMITIR"
 

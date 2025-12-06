@@ -26,7 +26,7 @@
 
     # game/code/renpy/screens/sm_website.rpy:42
     old "NEW HOT VIDEOS"
-    new "NUEVOS VIDEOS CALIENTES"
+    new "NUEVOS VIDEOS"
 
     # game/code/renpy/screens/sm_website.rpy:47
     old "New"

@@ -24,8 +24,6 @@ translate spanish strings:
     old "How do you want to name your save?"
     new "¿Cómo quieres que se llame tu archivo de guardado?"
 
-translate spanish strings:
-
     # game/code/renpy/screens/others.rpy:13
     old "Sync your saves using Ren'Py Sync Server"
     new "Sincroniza tus partidas usando el servidor Ren'Py Sync"
@@ -38,8 +36,6 @@ translate spanish strings:
     old "Please enter your HTTP Port number:"
     new "Por favor, introduce tu número de puerto HTTP:"
 
-translate spanish strings:
-
     # game/code/renpy/screens/others.rpy:7
     old "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
     new "Recopilamos solo datos anonimizados para comprender mejor qué rutas, personajes, escenas y fetiches son más populares, y para identificar las áreas de mejora."
@@ -51,8 +47,6 @@ translate spanish strings:
     # game/code/renpy/screens/others.rpy:9
     old "Would you like to enable this data collection?"
     new "¿Te gustaría activar esta recopilación de datos?"
-
-translate spanish strings:
 
     # game/code/renpy/screens/others.rpy:173
     old "How do you want to name your Season 2 save?"

@@ -70,7 +70,7 @@ translate spanish strings:
 
     # game/code/renpy/screens/screens.rpy:479
     old "Fullscreen"
-    new "Pantalla completa"
+    new "Pantalla"
 
     # game/code/renpy/screens/screens.rpy:488
     old "Unseen Text"

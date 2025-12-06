@@ -6,13 +6,13 @@
 
     # game/code/renpy/screens/pirates_movie.rpy:172
     old "Editing Work"
-    new "Trabajo de edición"
+    new "Edición"
 
     # game/code/renpy/screens/pirates_movie.rpy:91
     old "Add $[amount]"
-    new "Agregar $[amount]"
+    new "Añadir $[amount]"
 
     # game/code/renpy/screens/pirates_movie.rpy:138
     old "Add [amount]E"
-    new "Agregar [amount]E"
+    new "Añadir [amount]E"
 

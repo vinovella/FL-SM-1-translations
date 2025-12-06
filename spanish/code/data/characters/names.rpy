@@ -90,7 +90,7 @@
 
     # game/code/data/characters/names.rpy:40
     old "April"
-    new "Abril"
+    new "April"
 
     # game/code/data/characters/names.rpy:41
     old "Claire"

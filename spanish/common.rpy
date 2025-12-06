@@ -318,11 +318,11 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:675
     old "Automatic saves"
-    new "Guardados automáticos"
+    new "Automático"
 
     # renpy/common/00action_file.rpy:675
     old "Quick saves"
-    new "Guardados rápidos"
+    new "Rápido"
 
     # renpy/common/00action_file.rpy:816
     old "Next file page."

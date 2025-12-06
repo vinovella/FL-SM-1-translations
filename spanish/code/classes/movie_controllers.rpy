@@ -30,47 +30,47 @@ translate spanish strings:
 
     # game/code/classes/movie_controllers.rpy:211
     old "Sci-Fi Movie"
-    new "Película de ciencia ficción"
+    new "Película de Sci-Fi"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Costume Budget"
-    new "Presupuesto de vestuario"
+    new "Vestuario"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Actress Budget"
-    new "Presupuesto de actrices"
+    new "Actrices"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Props Budget"
-    new "Presupuesto de utilería"
+    new "Utilería"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Props Design"
-    new "Diseño de utilería"
+    new "Diseño utilería"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Travel Budget"
-    new "Presupuesto de viaje"
+    new "Viaje"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Movie Editing"
-    new "Edición de la película"
+    new "Edición"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Set Budget"
-    new "Presupuesto del set"
+    new "Set"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Set Design"
-    new "Diseño del set"
+    new "Diseño set"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Outfit Design"
-    new "Diseño de vestuario"
+    new "Diseño vestuario"
 
     # game/code/classes/movie_controllers.rpy:45
     old "CGI Budget"
-    new "Presupuesto de CGI"
+    new "CGI"
 
     # game/code/classes/movie_controllers.rpy:40
     old "[movie!t] release"

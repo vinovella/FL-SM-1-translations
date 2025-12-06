@@ -28,27 +28,21 @@ translate spanish strings:
     old "Settings"
     new "Ajustes"
 
-translate spanish strings:
-
     # game/code/renpy/screens/phone.rpy:69
     old "Laptop"
     new "Portátil"
 
     # game/code/renpy/screens/phone.rpy:75
     old "Studio Laptop"
-    new "Portátil del estudio"
-
-translate spanish strings:
+    new "Portátil"
 
     # game/code/renpy/screens/phone.rpy:115
     old "Day: [gt.get_day_number()]"
     new "Día: [gt.get_day_number()]"
 
-translate spanish strings:
-
     # game/code/renpy/screens/phone.rpy:77
     old "Save for Season 2"
-    new "Guardar para la temporada 2"
+    new "Guardar S2"
 
     # game/code/renpy/screens/phone.rpy:88
     old "Settings{#phone_button}"

@@ -1,7 +1,7 @@
 ﻿translate french strings:
 
     # game/code/renpy/screens/scifi_movie.rpy:196
-    old "SCIFI MOVIE"
+    old "SCI-FI MOVIE"
     new "FILM DE SCIENCE-FICTION"
 
 #Translate by BlackViper_
