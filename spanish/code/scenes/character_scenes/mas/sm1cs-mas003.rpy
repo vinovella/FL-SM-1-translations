@@ -404,7 +404,7 @@ translate spanish sm1cs_mas003_second_delivery_78b310c1:
 translate spanish sm1cs_mas003_second_delivery_eacfa1b7:
 
     # mct "Uh oh."
-    mct "Uh oh."
+    mct "¡Uy!"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:298
 translate spanish sm1cs_mas003_second_delivery_1a33efeb:

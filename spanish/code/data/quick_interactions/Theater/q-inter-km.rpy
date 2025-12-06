@@ -20,7 +20,7 @@ translate spanish q_inter_km_2_81e0c58e:
 translate spanish q_inter_km_2_1c804af2:
 
     # mc "Uh no."
-    mc "Uh no."
+    mc "Eh no."
 
 # game/code/data/quick_interactions/Theater/q-inter-km.rpy:41
 translate spanish q_inter_km_2_2dc2c127:

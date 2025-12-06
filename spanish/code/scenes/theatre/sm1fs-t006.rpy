@@ -182,7 +182,7 @@ translate spanish sm1fs_t006_e0a59bf5:
 translate spanish sm1fs_t006_763bfa21:
 
     # nr "Just keep swiping on Ember or playing your 'Majik: the Collecting' game."
-    nr "Tú sigue deslizando en Ember o jugando tu ‘Majik: the Collecting’."
+    nr "Tú sigue deslizando en Ember o jugando tu juego de cartas Majik."
 
 # game/code/scenes/theatre/sm1fs-t006.rpy:89
 translate spanish sm1fs_t006_1ee0b36c:

@@ -440,7 +440,7 @@ translate spanish q_inter_ms_30_866f4b07:
 translate spanish q_inter_ms_30_427bd0d5:
 
     # ms "Oh, uhm, heyyyy."
-    ms "Oh, uhm, heyyyy."
+    ms "Oh, eh, heyyyy."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-ms.rpy:325
 translate spanish q_inter_ms_30_29d0ef6a:

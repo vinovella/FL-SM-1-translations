@@ -2,7 +2,7 @@
 translate spanish sm1cs_dvh002_c12d4cf8:
 
     # mc "Hey Denise. Eileen."
-    mc "Hey, Denise. Eileen."
+    mc "Oye, Denise. Eileen."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:9
 translate spanish sm1cs_dvh002_f4e1a271:

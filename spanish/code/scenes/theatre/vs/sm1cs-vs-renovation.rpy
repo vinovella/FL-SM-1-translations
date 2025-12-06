@@ -458,7 +458,7 @@ translate spanish sm1cs_vs_renovation_bc98b097:
 translate spanish sm1cs_vs_renovation_0fc5eb3c:
 
     # vs "Woop woop woop woop!"
-    vs "¡Woop woop woop woop!"
+    vs "¡Woop, woop, woop, woop!"
 
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:245
 translate spanish sm1cs_vs_renovation_a66f6153:

@@ -109,7 +109,7 @@ translate spanish sm1mv01s05_d02ece29:
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:143
 translate spanish sm1mv01s05_587fa9fd:
 
-    # tl "Ya me conoces, Stacy."
+    # tl "You know me, Stacy."
     tl "Ya me conoces, Stacy."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:144
@@ -325,7 +325,7 @@ translate spanish sm1mv01s05_start_shoot_442ca062:
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:289
 translate spanish sm1mv01s05_start_shoot_054c5ee0:
 
-    # mc "Ya veo."
+    # mc "I see."
     mc "Ya veo."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:293
@@ -889,7 +889,7 @@ translate spanish sm1mv01s05_start_shoot_ac99a20c:
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:635
 translate spanish sm1mv01s05_start_shoot_de18c441:
 
-    # tl "¿Impresionado?"
+    # tl "Impressed?"
     tl "¿Impresionado?"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:638

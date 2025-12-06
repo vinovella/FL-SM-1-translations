@@ -1514,7 +1514,7 @@ translate spanish sm1cs_dc010_dc_hj_16b05ad9_1:
 translate spanish sm1cs_dc010_dc_hj_3c4cf258:
 
     # dc "Mhmm?"
-    dc "Mhmm?"
+    dc "¿Mhmm?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:647
 translate spanish sm1cs_dc010_dc_hj_b37827eb:
@@ -2436,7 +2436,7 @@ translate spanish sm1cs_dc010_later_9de368a5:
 translate spanish sm1cs_dc010_later_0f8ee3ae:
 
     # dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
-    dc "Sllrrrpppppp! Sllrrpp, sllrrrppp!"
+    dc "¡Sllrrrpppppp! Sllrrpp, sllrrrppp!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:658
 translate spanish sm1cs_dc010_dc_hj_0d04a1d3:

@@ -1263,7 +1263,7 @@ translate spanish sm1cs_mes_r1_watersports_691cc3e1:
 translate spanish sm1cs_mes_r1_watersports_8c654411:
 
     # mes "Oh. Oh no."
-    mes "Oh. Oh no."
+    mes "¡Ay! ¡Oh, no!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:534
 translate spanish sm1cs_mes_r1_watersports_f3b3d28f:

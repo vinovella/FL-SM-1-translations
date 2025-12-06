@@ -380,7 +380,7 @@ translate spanish sm1cs_mh004_flashback_3011b4bc:
 translate spanish sm1cs_mh004_flashback_8852e77f:
 
     # mc "Uh huh."
-    mc "Uh huh."
+    mc "Ajá."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:310
 translate spanish sm1cs_mh004_flashback_6607fb08:

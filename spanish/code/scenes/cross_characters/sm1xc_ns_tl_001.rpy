@@ -674,5 +674,5 @@ translate spanish sm1xc_ns_tl_001_73b4fefc:
 translate spanish sm1xc_ns_tl_001_4da1f062:
 
     # "[mcname] and Taisia" "Hahaha."
-    "[mcname] and Taisia" "Hahaha."
+    "[mcname] y Taisia" "Hahaha."
 

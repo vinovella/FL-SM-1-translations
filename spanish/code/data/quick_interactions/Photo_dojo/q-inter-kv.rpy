@@ -26,7 +26,7 @@ translate spanish q_inter_kv_2_dc93e3f2:
 translate spanish q_inter_kv_2_4e45163e:
 
     # mc "OH. Uhm... No."
-    mc "OH. Uhm... No."
+    mc "OH. Eh... No."
 
 # game/code/data/quick_interactions/Photo_dojo/q-inter-kv.rpy:36
 translate spanish q_inter_kv_3_52eb6b84:

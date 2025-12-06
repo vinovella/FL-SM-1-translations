@@ -884,7 +884,7 @@ translate spanish sm1cs_cw006_onramp_1a_93d9b07e:
 translate spanish sm1cs_cw006_onramp_1a_5ac929a8:
 
     # mct "She could get rid of me just like that."
-    mct "Podría deshacerse de mí así de fácil."
+    mct "Podría deshacerse de mí así, sin más."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:464
 translate spanish sm1cs_cw006_onramp_1a_f51db5a5:

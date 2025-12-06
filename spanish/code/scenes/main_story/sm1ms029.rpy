@@ -2816,7 +2816,7 @@ translate spanish sm1ms029_ns_nipple_clamps_bd61acfa:
 translate spanish sm1ms029_ns_nipple_clamps_d05aaf9c:
 
     # mc "You're the next contestant on \"Kinks with Stacy\"!"
-    mc "¡Eres el próximo concursante de \"Kinks with Stacy\"!"
+    mc "¡Eres el próximo concursante de \"Perversiones con Stacy\"!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1227
 translate spanish sm1ms029_ns_nipple_clamps_70687305:
@@ -3290,7 +3290,7 @@ translate spanish sm1ms029_part_1_my_appear_c6498bc1:
 translate spanish sm1ms029_part_1_my_appear_8c3faf33:
 
     # sy "Mmmppphhh!"
-    sy "Mmmppphhh!"
+    sy "¡Mmmppphhh!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1416
 translate spanish sm1ms029_part_1_my_appear_59bcf8c9:
@@ -3932,7 +3932,7 @@ translate spanish sm1ms029_party_sy_fa0f1938:
 translate spanish sm1ms029_party_sy_3a373b5b:
 
     # mc "Mrrrggg-!"
-    mc "Mrrrggg-!"
+    mc "¡Mrrrggg-!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1603
 translate spanish sm1ms029_party_sy_a974410e:

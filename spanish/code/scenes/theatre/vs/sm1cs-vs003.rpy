@@ -632,7 +632,7 @@ translate spanish sm1cs_vs003_part2_fff8baf7:
 translate spanish sm1cs_vs003_part2_8f4e8181:
 
     # tl "Mwaah mwaah mwaaah."
-    tl "Mwaah mwaah mwaaah."
+    tl "Mwaaah mwaah mwaaah."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:433
 translate spanish sm1cs_vs003_part2_5bd724e0:
@@ -1004,7 +1004,7 @@ translate spanish sm1cs_vs003_part3_6b619f90:
 translate spanish sm1cs_vs003_part3_1f028ee0:
 
     # mc "*lick lick*"
-    mc "*lame lame*"
+    mc "*lamer lamer*"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:608
 translate spanish sm1cs_vs003_part3_481fbe70:
@@ -1370,7 +1370,7 @@ translate spanish sm1cs_vs003_part3_fd49feb9:
 translate spanish sm1cs_vs003_part3_3db874c7:
 
     # vs "Iffff...funnnn."
-    vs "Iffff... funnnn."
+    vs "Ifffff... funnnn."
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:777
 translate spanish sm1cs_vs003_part3_7d91f41a:
@@ -1400,7 +1400,7 @@ translate spanish sm1cs_vs003_part3_dd10dd17:
 translate spanish sm1cs_vs003_part3_01b006bd:
 
     # vs "Mrrrffah... rrrffaah-huaaah!"
-    vs "¡Mrrrffah... rrrffaah-huaaah!"
+    vs "¡Mrrrrffah... rrrrffaah-huaaah!"
 
 # game/code/scenes/theatre/vs/sm1cs-vs003.rpy:789
 translate spanish sm1cs_vs003_part3_a141a3d8:

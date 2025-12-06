@@ -326,7 +326,7 @@ translate spanish sm1cs_cw001_ns_convo_083cfbb3:
 translate spanish sm1cs_cw001_ns_convo_273f8f7c:
 
     # cw "Excitable."
-    cw "Excitables."
+    cw "Excitable."
 
 # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:211
 translate spanish sm1cs_cw001_ns_convo_44e8b41f:

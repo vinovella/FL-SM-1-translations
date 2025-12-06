@@ -104,7 +104,7 @@ translate spanish q_inter_cs_5_894bd0f0:
 translate spanish q_inter_cs_6_404fb38d:
 
     # cs "Mmmeeerrrmmmguguuuurg."
-    cs "Mmeeerrrmmmguguuuurg."
+    cs "Mmmeeerrrmmmguguuuurg."
 
 # game/code/data/quick_interactions/Starducks/q-inter-cs.rpy:70
 translate spanish q_inter_cs_6_92fbc4e7:

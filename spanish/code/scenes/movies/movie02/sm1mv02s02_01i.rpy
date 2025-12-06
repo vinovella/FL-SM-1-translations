@@ -2,13 +2,13 @@
 translate spanish sm1mv02s02_01i_ae933a96:
 
     # mc "Hey, Min."
-    mc "Hey, Min."
+    mc "Hola, Min."
 
 # game/code/scenes/movies/movie02/sm1mv02s02_01i.rpy:8
 translate spanish sm1mv02s02_01i_b74e3805:
 
     # mes "Hey there. What's new, [mcname]?"
-    mes "Hey. ¿Qué hay de nuevo, [mcname]?"
+    mes "Hola. ¿Qué hay de nuevo, [mcname]?"
 
 # game/code/scenes/movies/movie02/sm1mv02s02_01i.rpy:10
 translate spanish sm1mv02s02_01i_8e7f6eec:

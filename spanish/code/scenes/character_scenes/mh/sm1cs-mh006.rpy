@@ -938,7 +938,7 @@ translate spanish sm1cs_mh006_sex_528f798e:
 translate spanish sm1cs_mh006_sex_74c4e690:
 
     # mh "Glck, glck, glck!"
-    mh "Glck, glck, glck!"
+    mh "¡Glck, glck, glck!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:503
 translate spanish sm1cs_mh006_sex_509ac89a:

@@ -812,5 +812,5 @@ translate spanish sm1cs_ag003_353fb300:
 translate spanish sm1cs_ag003_e50bff0e:
 
     # ag "Thanks! I've been... needing to use the ladies room for a while, but I hate leaving my stuff unattended. I'll be right back!"
-    ag "¡Gracias! He estado... necesitando usar el baño de damas por un rato, pero odio dejar mis cosas desatendidas. ¡Ya vuelvo!"
+    ag "¡Gracias! Tenía que ir al baño desde hace un rato, pero detesto dejar mis cosas sin atender. ¡Vuelvo enseguida!"
 

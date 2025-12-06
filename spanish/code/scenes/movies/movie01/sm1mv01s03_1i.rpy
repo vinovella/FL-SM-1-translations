@@ -19,7 +19,7 @@ translate spanish sm1mv01s03_1i_4630e6ea:
 # game/code/scenes/movies/movie01/sm1mv01s03_1i.rpy:13
 translate spanish sm1mv01s03_1i_34696373:
 
-    # sy "Totalmente libre.{w} Mírate, manteniéndonos a tiempo."
+    # sy "Totally free.{w} Look at you, keeping us on time."
     sy "Totalmente libre.{w} Mírate, manteniéndonos a tiempo."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_1i.rpy:15
@@ -37,7 +37,7 @@ translate spanish sm1mv01s03_1i_faa03e1a:
 # game/code/scenes/movies/movie01/sm1mv01s03_1i.rpy:19
 translate spanish sm1mv01s03_1i_46e31386:
 
-    # sy "Me encanta un hombre que toma el control."
+    # sy "I love a take-charge man."
     sy "Me encanta un hombre que toma el control."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_1i.rpy:21

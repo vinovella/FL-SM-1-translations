@@ -548,7 +548,7 @@ translate spanish sm1cs_vs004_after_choice_e0dda50a:
 translate spanish sm1cs_vs004_after_choice_33fd35a9:
 
     # mc "No uh..."
-    mc "No uh..."
+    mc "No eh..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:276
 translate spanish sm1cs_vs004_after_choice_d780e101:

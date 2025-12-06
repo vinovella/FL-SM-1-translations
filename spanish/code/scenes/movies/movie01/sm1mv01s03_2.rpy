@@ -43,73 +43,73 @@ translate spanish sm1mv01s03_2_c360de12:
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:45
 translate spanish sm1mv01s03_2_f01ee205:
 
-    # jg "Y estamos celebrando la muerte de nuestro querido camarada de zapatos grandes."
+    # jg "And we're celebrating the death of our beloved comrade in big shoes."
     jg "Y estamos celebrando la muerte de nuestro querido camarada de zapatos grandes."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:46
 translate spanish sm1mv01s03_2_238f4c7d:
 
-    # jg "Klusty el Payaso."
+    # jg "Klusty the Clown."
     jg "Klusty el Payaso."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:48
 translate spanish sm1mv01s03_2_8adda3c4:
 
-    # tl "Ah, cierto. [mcname], él es Juggsy."
+    # tl "Oh right. [mcname], this is Juggsy."
     tl "Ah, cierto. [mcname], él es Juggsy."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:51
 translate spanish sm1mv01s03_2_34db7c72:
 
-    # tl "Y él es Bently."
+    # tl "And this is Bently."
     tl "Y él es Bently."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:52
 translate spanish sm1mv01s03_2_a126bc82:
 
-    # tl "Amigos míos de la pandilla de payasos del carnaval."
+    # tl "Pals of mine in the carnival clown posse."
     tl "Amigos míos de la pandilla de payasos del carnaval."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:57
 translate spanish sm1mv01s03_2_9652e9c8:
 
-    # mc "Klusty murió durante una actuación?"
+    # mc "Did Klusty die during a performance?"
     mc "¿Klusty murió durante una actuación?"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:60
 translate spanish sm1mv01s03_2_421eaaf0:
 
-    # tl "Sí, intentó hacer la extravagancia del triciclo."
+    # tl "Yes, he tried to do the tricycle extravaganza."
     tl "Sí, intentó hacer la extravagancia del triciclo."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:63
 translate spanish sm1mv01s03_2_3c45e3b9:
 
-    # be "Estuvo cerca de lograrlo. {w}Pero luego se ahogó con el triciclo."
+    # be "He got close to pulling it off. {w}But then he choked on the tricycle."
     be "Estuvo cerca de lograrlo. {w}Pero luego se ahogó con el triciclo."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:76
 translate spanish sm1mv01s03_2_c96e3286:
 
-    # mc "Entonces, por Klusty el payaso."
+    # mc "To Klusty the clown then."
     mc "Entonces, por Klusty el payaso."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:78
 translate spanish sm1mv01s03_2_2d798215:
 
-    # tl "Sí. ¡Por Klusty!"
+    # tl "Yeah. To Klusty!"
     tl "Sí. ¡Por Klusty!"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:81
 translate spanish sm1mv01s03_2_edaf3293:
 
-    # jg "¡Por Klusty!"
+    # jg "To Klusty!"
     jg "¡Por Klusty!"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:84
 translate spanish sm1mv01s03_2_07623f6a:
 
-    # be "Cuenta la leyenda que a veces puedes escuchar su fantasma en el carnaval."
+    # be "Legend has it sometimes you can hear his ghost at the carnival."
     be "Cuenta la leyenda que a veces puedes escuchar su fantasma en el carnaval."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:85
@@ -133,73 +133,73 @@ translate spanish sm1mv01s03_2_0ef0bd7e:
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:101
 translate spanish sm1mv01s03_2_aae05388:
 
-    # mc "Genial. Me alegra que estés bien."
+    # mc "Cool cool. Just glad you're doing okay."
     mc "Genial. Me alegra que estés bien."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:104
 translate spanish sm1mv01s03_2_c9d9ad33:
 
-    # tl "Claro que lo estoy, grandulón sensible."
+    # tl "Of course I am, you big softie."
     tl "Claro que lo estoy, grandulón sensible."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:105
 translate spanish sm1mv01s03_2_92d36aca:
 
-    # tl "No hay mucha gente por ahí que quiera meterse con un payaso, y mucho menos con tres."
+    # tl "Not many people out there like to mess with a clown, let alone three."
     tl "No hay mucha gente por ahí que quiera meterse con un payaso, y mucho menos con tres."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:108
 translate spanish sm1mv01s03_2_a1f05336:
 
-    # jg "A no ser que quieran un sándwich de nudillos y papas fritas."
+    # jg "Not unless they want a knuckle sandwich and fries."
     jg "A no ser que quieran un sándwich de nudillos y papas fritas."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:111
 translate spanish sm1mv01s03_2_ff25bd5d:
 
-    # be "Mmm. Sándwich de nudillos."
+    # be "Mmm. Knuckle sandwich."
     be "Mmm. Sándwich de nudillos."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:112
 translate spanish sm1mv01s03_2_8db350d4:
 
-    # be "Sirven comida aquí?"
+    # be "Do they serve food here?"
     be "¿Sirven comida aquí?"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:116
 translate spanish sm1mv01s03_2_deed251f:
 
-    # tl "Y bien, ¿qué pasa, [mcname]?"
+    # tl "So what's up, [mcname]?"
     tl "Y bien, ¿qué pasa, [mcname]?"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:117
 translate spanish sm1mv01s03_2_b7213aad:
 
-    # tl "No creo que vinieras buscando payasos tristes."
+    # tl "I don't think you came here looking for sad clowns."
     tl "No creo que vinieras buscando payasos tristes."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:120
 translate spanish sm1mv01s03_2_88f41e49:
 
-    # jg "No somos payasos tristes."
+    # jg "We're not sad clowns."
     jg "No somos payasos tristes."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:121
 translate spanish sm1mv01s03_2_c0fced4c:
 
-    # jg "Estamos cerca de convertirnos en payasos borrachos."
+    # jg "We are getting close to becoming drunk clowns."
     jg "Estamos cerca de convertirnos en payasos borrachos."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:124
 translate spanish sm1mv01s03_2_9cd01b56:
 
-    # be "Una vez trabajé con un payaso borracho."
+    # be "I worked with a drunk clown once."
     be "Una vez trabajé con un payaso borracho."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:125
 translate spanish sm1mv01s03_2_408feb47:
 
-    # be "Era divertido, pero nunca podíamos trabajar en un segundo piso."
+    # be "He was fun, but we could never work a job on the second floor."
     be "Era divertido, pero nunca podíamos trabajar en un segundo piso."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:128
@@ -211,7 +211,7 @@ translate spanish sm1mv01s03_2_56c3991c:
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:131
 translate spanish sm1mv01s03_2_010e58a1:
 
-    # be "Odiaba subir escaleras."
+    # be "He hated going up stairs."
     be "Odiaba subir escaleras."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:133
@@ -223,7 +223,7 @@ translate spanish sm1mv01s03_2_cdc7cc15:
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:136
 translate spanish sm1mv01s03_2_f3ac4491:
 
-    # be "Le temía a los Doce Pasos."
+    # be "He was afraid of the twelve steps."
     be "Le temía a los Doce Pasos."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:138
@@ -247,13 +247,13 @@ translate spanish sm1mv01s03_2_2876efd9:
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:145
 translate spanish sm1mv01s03_2_f0dbb0ab:
 
-    # tl "¡No! ¡No los animes!"
+    # tl "No! Don't get them started!"
     tl "¡No! ¡No los animes!"
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:148
 translate spanish sm1mv01s03_2_b281eb24:
 
-    # jg "Estaba buscando espíritus."
+    # jg "She was looking for spirits."
     jg "Estaba buscando espíritus."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:152
@@ -265,31 +265,31 @@ translate spanish sm1mv01s03_2_81477cc8:
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:154
 translate spanish sm1mv01s03_2_c9d18f96:
 
-    # tl "Ustedes dos son lo peor."
+    # tl "You two are the worst."
     tl "Ustedes dos son lo peor."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:155
 translate spanish sm1mv01s03_2_7ecaaa8d:
 
-    # tl "Son todo lo malo de los payasos modernos."
+    # tl "You're everything wrong with modern clowns."
     tl "Son todo lo malo de los payasos modernos."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:158
 translate spanish sm1mv01s03_2_9addb2ea:
 
-    # be "Ahooo-hah. Hah. Te veo sonriendo, Taisia."
+    # be "Ahooo-hah. Hah. I see you smiling, Taisia."
     be "Ahooo-jah. Ja. Te veo sonriendo, Taisia."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:160
 translate spanish sm1mv01s03_2_b378be7a:
 
-    # tl "Yo no sonrío."
+    # tl "I don't smile."
     tl "Yo no sonrío."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:163
 translate spanish sm1mv01s03_2_d75c6f89:
 
-    # mc "Cierto. Taisia, recordé la razón por la que te estaba buscando."
+    # mc "Right. Taisia, I remembered the reason I was looking for you."
     mc "Cierto. Taisia, recordé la razón por la que te estaba buscando."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:166

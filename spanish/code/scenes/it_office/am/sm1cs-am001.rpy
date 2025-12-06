@@ -766,13 +766,13 @@ translate spanish strings:
 translate spanish sm1cs_am001_471546dd:
 
     # mct "Someone sent me a text."
-    mct "Alguien me envió un mensaje."
+    mct "Alguien me envió un mensaje de texto."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:165
 translate spanish sm1cs_am001_ce911891:
 
     # ag "So Megan, I want you to set up our usual 'make a ticket' framework. Once April sets up the foundation, we'll plug it right in."
-    ag "Entonces Megan, quiero que configures nuestro marco habitual de 'crear un ticket'. Una vez que April establezca la base, lo conectaremos directamente."
+    ag "Así que, Megan, quiero que prepares nuestro marco habitual de 'crear una solicitud'. Una vez que Abril establezca la base, lo conectaremos de inmediato."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:225
 translate spanish sm1cs_am001_a06ef68b:
@@ -784,31 +784,31 @@ translate spanish sm1cs_am001_a06ef68b:
 translate spanish sm1cs_am001_0dc444c9:
 
     # mct "Crap. What is my work? I can't ask Anna. I definitely can't ask April. Data. Data something."
-    mct "Mierda. ¿Cuál es mi trabajo? No puedo preguntarle a Anna. Definitivamente no puedo preguntarle a April. Datos. Datos algo."
+    mct "Maldición. ¿Cuál es mi trabajo? No puedo preguntarle a Anna. Definitivamente no puedo preguntarle a Abril."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:317
 translate spanish sm1cs_am001_after_coding_874a62e0:
 
     # am "Yes, there is a problem!{w} Some Business 101 dropout just fucked my night."
-    am "¡Sí, hay un problema!{w} Un desertor de Negocios 101 acaba de arruinar mi noche."
+    am "¡Sí, hay un problema!{w} Algún desertor de Negocios 101 acaba de arruinarme la noche."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:330
 translate spanish sm1cs_am001_after_coding_4cb4f376:
 
     # mc "Oh. Really. I must have gotten 'em mixed up.{w} Sorry. I'm sure that kind of thing happens all the time."
-    mc "Oh. En serio. Debo haberlos confundido.{w} Lo siento. Estoy seguro de que ese tipo de cosas pasa todo el tiempo."
+    mc "Oh. En serio. Debo haberlos mezclado.{w} Lo siento. Estoy seguro de que ese tipo de cosas pasan todo el tiempo."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:333
 translate spanish sm1cs_am001_after_coding_8c11687d:
 
     # am "You dense motherfucker.{w} This is Orbix, one of the premier tech companies in the country. {w}Not the state,{w} not the city."
-    am "Maldito idiota.{w} Esta es Orbix, una de las principales empresas tecnológicas del país. {w}No del estado,{w} no de la ciudad."
+    am "Maldito imbécil.{w} Esto es Orbix, una de las principales compañías de tecnología del país. {w}No del estado,{w} ni de la ciudad."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:336
 translate spanish sm1cs_am001_after_coding_1486cb7f:
 
     # am "The country...{w} We don't make simple mistakes here. But we do pay for them."
-    am "Del país...{w} Aquí no cometemos errores simples. Pero sí los pagamos."
+    am "Del país...{w} Aquí no cometemos errores simples. Pero sí pagamos por ellos."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:353
 translate spanish sm1cs_am001_after_coding_bfce7c00:
@@ -820,37 +820,37 @@ translate spanish sm1cs_am001_after_coding_bfce7c00:
 translate spanish sm1cs_am001_after_coding_b04d1e1f:
 
     # am "Maybe go play in traffic. That {b}might{/b} work."
-    am "Quizás ve a jugar en el tráfico. Eso {b}podría{/b} funcionar."
+    am "Tal vez vete a molestar a otra parte. Eso {b}podría{/b} funcionar."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:365
 translate spanish sm1cs_am001_after_coding_0b58a2bb:
 
     # am "You're right.{w} You'd probably screw that up too."
-    am "Tienes razón.{w} Probablemente también arruinarías eso."
+    am "Tienes razón.{w} Probablemente también lo arruinarías."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:374
 translate spanish sm1cs_am001_after_coding_1caa3f0b:
 
     # am "I fix your fuckup.{w} You're lucky I'm nearly done with my own workload."
-    am "Yo arreglo tu cagada.{w} Tienes suerte de que casi termino con mi propia carga de trabajo."
+    am "Yo arreglo tu error.{w} Tienes suerte de que casi haya terminado con mi propia carga de trabajo."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:384
 translate spanish sm1cs_am001_after_coding_b93d5a6a:
 
     # mc "Right. Desk. Going."
-    mc "Correcto. Escritorio. Voy."
+    mc "De acuerdo. Escritorio. Me voy."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:416
 translate spanish sm1cs_am001_later_781093dd:
 
     # am "Smooth..."
-    am "Suave..."
+    am "Sutil..."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:442
 translate spanish sm1cs_am001_later_4ad6c608:
 
     # am "Huh?{w} Now where did the idiot go?"
-    am "¿Eh?{w} ¿Ahora a dónde se fue el idiota?"
+    am "¿Eh?{w} ¿Y ahora adónde se fue el idiota?"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:481
 translate spanish sm1cs_am001_later_1308190d:
@@ -862,7 +862,7 @@ translate spanish sm1cs_am001_later_1308190d:
 translate spanish sm1cs_am001_later_3f313c84:
 
     # am "I was too busy to fink on you.{w} Maybe next time."
-    am "Estaba demasiado ocupada para delatarte.{w} Quizás la próxima vez."
+    am "Estaba demasiado ocupada para delatarte.{w} Tal vez la próxima vez."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:488
 translate spanish sm1cs_am001_later_8efd7670:
@@ -880,25 +880,25 @@ translate spanish sm1cs_am001_later_157c0fbe:
 translate spanish sm1cs_am001_later_31e538bb:
 
     # am "This isn't a class you can blow off.{w} Sometimes it's long hours, and sometimes it just plain sucks."
-    am "Esto no es una clase que puedes saltarte.{w} A veces son largas horas, y a veces simplemente apesta."
+    am "Esta no es una clase que te puedas saltar.{w} A veces son largas horas, y a veces es simplemente terrible."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:498
 translate spanish sm1cs_am001_later_4ef8886f:
 
     # am "But if you're here, and especially if you're working with {b}me{/b}, I need your A game."
-    am "Pero si estás aquí, y especialmente si trabajas {b}conmigo{/b}, necesito que des lo mejor de ti."
+    am "Pero si estás aquí, y especialmente si estás trabajando {b}conmigo{/b}, necesito tu mejor rendimiento."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:499
 translate spanish sm1cs_am001_later_f6001afc:
 
     # am "Got it?!"
-    am "¿¡Entendido!?"
+    am "¡¿Entendido?!"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:512
 translate spanish sm1cs_am001_later_152d31ed:
 
     # am "I just texted Anna the good news.{w} Had to rub it in her face that we did it all in one night."
-    am "Le acabo de enviar un mensaje a Anna con las buenas noticias.{w} Tenía que restregárselo en la cara que lo hicimos todo en una noche."
+    am "Acabo de enviarle un mensaje a Anna con las buenas noticias.{w} Tenía que restregarle en la cara que lo hicimos todo en una sola noche."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:524
 translate spanish sm1cs_am001_later_e045fc78:
@@ -910,11 +910,11 @@ translate spanish sm1cs_am001_later_e045fc78:
 translate spanish sm1cs_am001_later_11997838:
 
     # mc "Night, April."
-    mc "Buenas noches, April."
+    mc "Buenas noches, Abril."
 
 translate spanish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am001.rpy:280
     old "No, I just thought you could use a break"
-    new "No, solo pensé que podrías necesitar un descanso"
+    new "No, solo pensé que podrías tomar un descanso"
 

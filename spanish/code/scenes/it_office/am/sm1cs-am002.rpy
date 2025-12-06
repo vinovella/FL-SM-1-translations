@@ -506,43 +506,43 @@ translate spanish strings:
 translate spanish sm1cs_am002_e86d99ac:
 
     # mc "Uh... Earth to April."
-    mc "Eh... Tierra llamando a April."
+    mc "Ehh... ¡Tierra llamando a Abril!"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:78
 translate spanish sm1cs_am002_39bb3e71:
 
     # mc "Totally fine.{w} Gave my heart a workout."
-    mc "Totalmente bien.{w} Le di un entrenamiento a mi corazón."
+    mc "Completamente bien.{w} Le dio un buen ejercicio a mi corazón."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:81
 translate spanish sm1cs_am002_9222011b:
 
     # ag "Did she say anything?{w} Did you hear her talking on her phone?"
-    ag "¿Dijo algo?{w} ¿La escuchaste hablando por teléfono?"
+    ag "¿Dijo algo?{w} ¿La oíste hablando por teléfono?"
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:96
 translate spanish sm1cs_am002_72c66862:
 
     # ag "Oh no. Just um...{w} I want to make sure April is not hiding in the bathroom making personal calls on company time."
-    ag "Oh no. Solo que...{w} Quiero asegurarme de que April no se esté escondiendo en el baño haciendo llamadas personales en horario de trabajo."
+    ag "Oh, no. Solo eh...{w} Quiero asegurarme de que Abril no se esté escondiendo en el baño para hacer llamadas personales en horario laboral."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:99
 translate spanish sm1cs_am002_d06f9e7a:
 
     # mc "Okay... Maybe she was getting texts?{w} She seemed super into her phone."
-    mc "Bueno... ¿Quizás estaba recibiendo mensajes?{w} Parecía muy concentrada en su teléfono."
+    mc "De acuerdo... ¿Tal vez estaba recibiendo mensajes?{w} Parecía muy concentrada en su teléfono."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:106
 translate spanish sm1cs_am002_e2dd0671:
 
     # mc "Oh really good. And after many attempts, I think I've figured out the best way to ask for help without her yelling at me."
-    mc "Oh muy bien. Y después de muchos intentos, creo que descubrí la mejor manera de pedir ayuda sin que me grite."
+    mc "Oh, muy bien. Y después de muchos intentos, creo que he descubierto la mejor manera de pedirle ayuda sin que me grite."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:167
 translate spanish sm1cs_am002_9bab7d01:
 
     # ag "Tomorrow?{w} No. You were supposed to have those changes to the middleware done today."
-    ag "¿Mañana?{w} No. Se suponía que tenías que tener esos cambios en el middleware listos hoy."
+    ag "¿Mañana?{w} No. Se suponía que esos cambios en el *middleware* debían estar listos hoy."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:185
 translate spanish sm1cs_am002_38cb486e:
@@ -554,25 +554,25 @@ translate spanish sm1cs_am002_38cb486e:
 translate spanish sm1cs_am002_f059d2ec:
 
     # ag "*sighs* April, please just talk to me.{w} This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
-    ag "*suspira* April, por favor solo habla conmigo.{w} Esto no es propio de ti. Quiero decir, es propio de ti, pero... incluso con todos tus insultos y pullas mezquinas, nunca te atrasas tanto."
+    ag "*suspira* Abril, por favor, solo habla conmigo.{w} Esto no es propio de ti. Es decir, sí es propio de ti, pero... incluso con todos tus insultos y comentarios mezquinos, nunca te atrasas tanto."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:201
 translate spanish sm1cs_am002_371de864:
 
     # am "You know how fickle middleware can be.{w} And all this squawking from you throws me off my game and sets me back even further."
-    am "Ya sabes lo caprichoso que puede ser el middleware.{w} Y todo este parloteo tuyo me desconcentra y me atrasa aún más."
+    am "Sabes lo inestable que puede ser el *middleware*.{w} Y todo este parloteo tuyo me distrae y me atrasa aún más."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:311
 translate spanish sm1cs_am002_cb355b8b:
 
     # ag "Hahaha, never.{w} She said it was the fastest way to get his attention and didn't think it would knock him out."
-    ag "Jajaja, nunca.{w} Ella dijo que era la forma más rápida de llamar su atención y no pensó que lo dejaría inconsciente."
+    ag "Jajaja, nunca.{w} Dijo que era la forma más rápida de llamar su atención y no pensó que lo dejaría inconsciente."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:312
 translate spanish sm1cs_am002_a8caa986:
 
     # ag "That was quite the day..."
-    ag "Ese fue todo un día..."
+    ag "Vaya día aquel..."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:323
 translate spanish sm1cs_am002_cff053f3:

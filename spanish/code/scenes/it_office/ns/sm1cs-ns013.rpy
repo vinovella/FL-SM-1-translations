@@ -1802,7 +1802,7 @@ translate spanish ns013_labels_section_2454c390:
 translate spanish ns013_labels_section_b3eebab8:
 
     # ns "Oh no, [nsmcpetlabel]."
-    ns "Oh, no, [nsmcpetlabel]."
+    ns "Oh no, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:938
 translate spanish ns013_labels_section_fae7e98c:

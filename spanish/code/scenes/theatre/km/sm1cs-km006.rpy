@@ -2834,7 +2834,7 @@ translate spanish sm1cs_km006_sex_a3ef5b48:
 translate spanish sm1cs_km006_sex_583ab7b7:
 
     # vs "Fhuaa-ckaaaiaah!"
-    vs "¡Fhuaa-ckaaaiaah!"
+    vs "¡Fhuaa-ckaaaiaaah!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1413
 translate spanish sm1cs_km006_sex_3c06e9ee:

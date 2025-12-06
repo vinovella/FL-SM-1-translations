@@ -139,7 +139,7 @@ translate spanish sm1cs_dc008_4c590f8e:
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:81
 translate spanish sm1cs_dc008_b4e8d2fe:
 
-    # dc "¡Definitivamente es agradable!"
+    # dc "It's definitely nice!"
     dc "¡Definitivamente es agradable!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:85
@@ -151,7 +151,7 @@ translate spanish sm1cs_dc008_012c7ed7:
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:88
 translate spanish sm1cs_dc008_5ced8d29:
 
-    # dc "¡No, no! ¡No es nada de eso!"
+    # dc "No, no! It's nothing like that!"
     dc "¡No, no! ¡No es nada de eso!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:95
@@ -223,31 +223,31 @@ translate spanish sm1cs_dc008_1ed93cee:
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:121
 translate spanish sm1cs_dc008_7ac7deee:
 
-    # dc "¡No, no! ¡Esa no es, esa no es mi intención en absoluto!"
+    # dc "No, no! That's not - that's not what I want at all!"
     dc "¡No, no! ¡Esa no es, esa no es mi intención en absoluto!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:124
 translate spanish sm1cs_dc008_f4309871:
 
-    # mc "¡De acuerdo, de acuerdo! Solo tenía que comprobarlo."
+    # mc "Okay, okay! I just had to check."
     mc "¡De acuerdo, de acuerdo! Solo tenía que comprobarlo."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:126
 translate spanish sm1cs_dc008_653f936a:
 
-    # dc "Es solo que, ehm..."
+    # dc "It's just, erm..."
     dc "Es solo que, ehm..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:130
 translate spanish sm1cs_dc008_b80b7e5f:
 
-    # "Waiter" "Su vino."
+    # "Waiter" "Your wine."
     "Mesero" "Su vino."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:132
 translate spanish sm1cs_dc008_0531688b:
 
-    # dc "¡Gracias!"
+    # dc "Thank you!"
     dc "¡Gracias!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:136

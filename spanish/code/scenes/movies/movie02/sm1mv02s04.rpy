@@ -889,7 +889,7 @@ translate spanish sm1mv02s04_later_b552ba6c:
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:501
 translate spanish sm1mv02s04_later_6c11b34d:
 
-    # mh "¡Entendido, Capitana Stacy."
+    # mh "Aye aye, Captain Stacy."
     mh "¡Entendido, Capitana Stacy."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:505
@@ -901,43 +901,43 @@ translate spanish sm1mv02s04_later_d91d57e6:
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:506
 translate spanish sm1mv02s04_later_a884c6d5:
 
-    # sy "Muy bien. Escena Cuatro. Interior del Puente del {i}Intrepid{/i}."
+    # sy "Alright. Scene Four. Interior {i}Intrepid{/i} Bridge."
     sy "Muy bien. Escena Cuatro. Interior del Puente del {i}Intrepid{/i}."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:509
 translate spanish sm1mv02s04_later_f090024c:
 
-    # mc "Informe de estado Número Uno."
+    # mc "Status report Number One."
     mc "Informe de estado Número Uno."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:511
 translate spanish sm1mv02s04_later_968164cd:
 
-    # sy "La nave sigue en órbita sobre el planeta Vemtyral."
+    # sy "The ship is still in orbit over Planet Vemtyral."
     sy "La nave sigue en órbita sobre el planeta Vemtyral."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:512
 translate spanish sm1mv02s04_later_3623d932:
 
-    # sy "La tormenta iónica se está acercando, pero debería pasarnos sin complicaciones."
+    # sy "The ion storm is getting closer, but should pass us without complication."
     sy "La tormenta iónica se está acercando, pero debería pasarnos sin complicaciones."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:513
 translate spanish sm1mv02s04_later_c22c9be8:
 
-    # mc "Bien, Comandante Orion."
+    # mc "Good, Commander Orion."
     mc "Bien, Comandante Orion."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:517
 translate spanish sm1mv02s04_later_ade3e0c2:
 
-    # mc "Teniente Spectre, ¿cómo va esa cura?"
+    # mc "Lieutenant Spectre, how's that cure coming along?"
     mc "Teniente Spectre, ¿cómo va esa cura?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:521
 translate spanish sm1mv02s04_later_647d5c1b:
 
-    # mes "Estamos progresando bien, Capitán."
+    # mes "We are making good progress, Captain."
     mes "Estamos progresando bien, Capitán."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:522
@@ -949,7 +949,7 @@ translate spanish sm1mv02s04_later_299c0183:
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:526
 translate spanish sm1mv02s04_later_1ceb054d:
 
-    # mh "Estamos progresando bien, Capitán."
+    # mh "We are making good progress, Captain."
     mh "Estamos progresando bien, Capitán."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:527
@@ -961,43 +961,43 @@ translate spanish sm1mv02s04_later_92d7da3e:
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:530
 translate spanish sm1mv02s04_later_224b6085:
 
-    # mc "Es bueno tenerla con nosotros, Doctora."
+    # mc "Good to have you with us, Doctor."
     mc "Es bueno tenerla con nosotros, Doctora."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:532
 translate spanish sm1mv02s04_later_12aac470:
 
-    # ns "Es un placer, Capitán."
+    # ns "You are welcome, Captain."
     ns "Es un placer, Capitán."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:533
 translate spanish sm1mv02s04_later_b15148ae:
 
-    # ns "Por cierto, su nave y su tripulación son asombrosas. Creo que trabajando juntos, podremos salvar a mi gente."
+    # ns "Your ship and its crew are amazing by the way. I believe that working together, we will be able to save my people."
     ns "Por cierto, su nave y su tripulación son asombrosas. Creo que trabajando juntos, podremos salvar a mi gente."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:534
 translate spanish sm1mv02s04_later_bce8692b:
 
-    # mc "Por supuesto. Pero hasta entonces, considérese una invitada a bordo del {i}Intrepid{/i}."
+    # mc "Of course. But until then, consider yourself a guest aboard the {i}Intrepid{/i}."
     mc "Por supuesto. Pero hasta entonces, considérese una invitada a bordo del {i}Intrepid{/i}."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:545
 translate spanish sm1mv02s04_later_ef7a8a56:
 
-    # sy "Y corten.{w} O al menos eso es lo que diría si estuviéramos filmando."
+    # sy "And cut.{w} Or at least that is what I'd be saying if we were filming."
     sy "Y corten.{w} O al menos eso es lo que diría si estuviéramos filmando."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:548
 translate spanish sm1mv02s04_later_236b3fc8:
 
-    # ns "Jeje. ¿Así es como funciona para ustedes?"
+    # ns "Hehe. So this is how it goes for you guys?"
     ns "Jeje. ¿Así es como funciona para ustedes?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:549
 translate spanish sm1mv02s04_later_ce23ea33:
 
-    # ns "Es solo fingir, pero ¿como fingir en serio?"
+    # ns "It is just pretend, but like, serious pretending?"
     ns "Es solo fingir, pero ¿como fingir en serio?"
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:553

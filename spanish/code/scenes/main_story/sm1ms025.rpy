@@ -728,7 +728,7 @@ translate spanish sm1ms025_bc551d1b:
 translate spanish sm1ms025_4893c190:
 
     # mc "Quiet Decks, Last Space, Killbot, Strange New Planets."
-    mc "Quiet Decks, Last Space, Killbot, Strange New Planets."
+    mc "Cubiertas tranquilas, Último Espacio, Robot Asesino, Extraños Planetas Nuevos."
 
 # game/code/scenes/main_story/sm1ms025.rpy:302
 translate spanish sm1ms025_cf77054b:

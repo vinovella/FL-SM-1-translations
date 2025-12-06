@@ -2,7 +2,7 @@
 translate spanish sm1ms028_449e1cf6:
 
     # "BUZZ BUZZ"
-    "BZZZ BZZZ"
+    "BUZZ BUZZ"
 
 # game/code/scenes/main_story/sm1ms028.rpy:10
 translate spanish sm1ms028_4e85cb4d:

@@ -998,7 +998,7 @@ translate spanish sm1mv02s09_movie_4aac9000:
 translate spanish sm1mv02s09_movie_ef025953:
 
     # kv "Slrrrp, slllllrrrpppp, sllrrp!"
-    kv "Slrrrp, slllllrrrpppp, sllrrp!"
+    kv "¡Slrrrp, slllllrrrpppp, sllrrp!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:853
 translate spanish sm1mv02s09_movie_0642252e:

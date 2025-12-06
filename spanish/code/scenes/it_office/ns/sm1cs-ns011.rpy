@@ -362,7 +362,7 @@ translate spanish sm1cs_ns011_ffb19415:
 translate spanish sm1cs_ns011_sy_interruption_d909e242:
 
     # sy "Tock tock."
-    sy "Tock tock."
+    sy "Toc toc."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:240
 translate spanish sm1cs_ns011_sy_interruption_fe49cd01:

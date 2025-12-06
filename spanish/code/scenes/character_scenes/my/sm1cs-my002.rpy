@@ -518,7 +518,7 @@ translate spanish sm1cs_my002_art_gallery_21758090:
 translate spanish sm1cs_my002_art_gallery_a87a337b:
 
     # mc "Yep."
-    mc "Yep."
+    mc "Si."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:290
 translate spanish sm1cs_my002_art_gallery_688ab86d_1:

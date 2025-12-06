@@ -98,13 +98,13 @@ translate spanish q_inter_my_5_b6c49741:
 translate spanish q_inter_my_5_f2050c60:
 
     # mc "Uhm, Mom?"
-    mc "Uhm, ¿Mamá?"
+    mc "Ehh, ¿Mamá?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:82
 translate spanish q_inter_my_5_c7a899b1:
 
     # mc "Uhm, Melony?"
-    mc "Uhm, ¿Melony?"
+    mc "Ehh, ¿Melony?"
 
 # game/code/data/quick_interactions/Neutral/q-inter-my.rpy:86
 translate spanish q_inter_my_5_27c58339:

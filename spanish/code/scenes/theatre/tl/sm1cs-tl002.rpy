@@ -458,7 +458,7 @@ translate spanish sm1cs_tl002_882d9cf9:
 translate spanish sm1cs_tl002_1088cde2:
 
     # tl "Uh huh."
-    tl "Uh huh."
+    tl "Ajá."
 
 # game/code/scenes/theatre/tl/sm1cs-tl002.rpy:208
 translate spanish sm1cs_tl002_1ed5ccc8:

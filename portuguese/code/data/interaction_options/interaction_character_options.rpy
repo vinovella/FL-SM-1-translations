@@ -465,6 +465,7 @@ translate portuguese strings:
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask about the play"
     new "Perguntar sobre a peça"
+
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Purchase Photography-101 for $60"
     new "Comprar Introdução à Fotografia por $60"

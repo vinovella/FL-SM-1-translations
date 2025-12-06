@@ -690,7 +690,7 @@ translate spanish strings:
 translate spanish sm1cs_am_renovation_later_e7545316:
 
     # am "Fucking charley horse. Nrraaah."
-    am "Maldito calambre. Nrraaah."
+    am "¡Maldito calambre! ¡Nrraaah!"
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:283
 translate spanish sm1cs_am_renovation_later_796e7fbc:
@@ -702,15 +702,15 @@ translate spanish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:65
     old "I didn't think to ask"
-    new "No pensé en preguntar"
+    new "No se me ocurrió preguntar"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
     old "Ask April what she did"
-    new "Preguntarle a April qué hizo"
+    new "Preguntar a Abril qué hizo"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:296
     old "Complain to April"
-    new "Quejarse con April"
+    new "Quejarse con Abril"
 
     # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:350
     old "Promise the answer one day"

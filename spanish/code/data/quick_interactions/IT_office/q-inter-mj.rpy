@@ -74,7 +74,7 @@ translate spanish q_inter_mj_4_4d660f7c:
 translate spanish q_inter_mj_4_c058dab2:
 
     # mc "Uhm... No."
-    mc "Uhm... No."
+    mc "Ehh... No."
 
 # game/code/data/quick_interactions/IT_office/q-inter-mj.rpy:55
 translate spanish q_inter_mj_4_fe961654:

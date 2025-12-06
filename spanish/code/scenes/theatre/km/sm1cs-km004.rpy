@@ -446,7 +446,7 @@ translate spanish sm1cs_km004_8f39b57a:
 translate spanish sm1cs_km004_d39a9b5d:
 
     # km "Uh oh."
-    km "Uh oh."
+    km "Eh oh."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:297
 translate spanish sm1cs_km004_72134c5c:
@@ -1304,7 +1304,7 @@ translate spanish sm1cs_km004_later_f627bce6:
 translate spanish sm1cs_km004_later_6ac56210:
 
     # km "Mmwaah... Nuraahhh..."
-    km "Mmwaah... nuraahhh..."
+    km "Mmwaah... Nuraahhh..."
 
 # game/code/scenes/theatre/km/sm1cs-km004.rpy:843
 translate spanish sm1cs_km004_later_92ca7a0c:

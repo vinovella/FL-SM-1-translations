@@ -482,7 +482,7 @@ translate spanish sm1cs_tl003_in_street_533792e8:
 translate spanish sm1cs_tl003_in_street_8852e77f:
 
     # mc "Uh huh."
-    mc "Uh huh."
+    mc "Ajá."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:275
 translate spanish sm1cs_tl003_in_street_9198da0f:
@@ -1256,7 +1256,7 @@ translate spanish sm1cs_tl003_sex_end_bc0c622e:
 translate spanish sm1cs_tl003_sex_end_33e80014:
 
     # tl "Uh huh..."
-    tl "Uh huh..."
+    tl "Ajá..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:628
 translate spanish sm1cs_tl003_sex_end_e744f0f3:

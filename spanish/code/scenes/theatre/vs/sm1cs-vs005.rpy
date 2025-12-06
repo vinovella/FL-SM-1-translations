@@ -578,7 +578,7 @@ translate spanish sm1cs_vs005_ba2427a3:
 translate spanish sm1cs_vs005_b29c1afd:
 
     # vs "Rhu-ahuaa-Ahuhaah!"
-    vs "¡Rhu-ahuaa-Ahuhaah!"
+    vs "¡Rhu-ahuaa-Ahuhaaah!"
 
 # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:321
 translate spanish sm1cs_vs005_4001ab22:
@@ -1370,7 +1370,7 @@ translate spanish sm1cs_vs005_replay_anims_dea7f0d4:
 translate spanish sm1cs_vs005_replay_anims_47930143:
 
     # vs "Fhuaah... ahuaah..."
-    vs "Fhuaah... ahuaah..."
+    vs "Fhuaah... ahuaaah..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:712
 translate spanish sm1cs_vs005_replay_anims_5a458bef:
@@ -1484,7 +1484,7 @@ translate spanish sm1cs_vs005_continue_02729397:
 translate spanish sm1cs_vs005_continue_363a3770:
 
     # vs "Hhuaah... muraah... ohuaah..."
-    vs "Hhuaah... muraah... ohuaah..."
+    vs "Hhhhuaah... muraah... ohuaah..."
 
 # game/code/scenes/theatre/vs/sm1cs-vs005.rpy:773
 translate spanish sm1cs_vs005_continue_18cf9f1d:

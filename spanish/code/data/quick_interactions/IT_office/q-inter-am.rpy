@@ -656,7 +656,7 @@ translate spanish q_inter_am_24_ab0c40ea:
 translate spanish q_inter_am_25_35d8ea17:
 
     # am "Hey [mcname]."
-    am "Hey [mcname]."
+    am "Oye [mcname]."
 
 # game/code/data/quick_interactions/IT_office/q-inter-am.rpy:371
 translate spanish q_inter_am_25_8b6c5e3d:

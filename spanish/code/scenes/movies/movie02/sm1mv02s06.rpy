@@ -566,7 +566,7 @@ translate spanish sm1mv02s06_scene_fc27d354:
 translate spanish sm1mv02s06_scene_a9a5be1d:
 
     # mhmes "Mmmmmmm, mmmmmm!"
-    mhmes "Mmmmmmm, mmmmmm!"
+    mhmes "¡Mmmmmmm, mmmmmm!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:496
 translate spanish sm1mv02s06_scene_4c096511:
@@ -578,7 +578,7 @@ translate spanish sm1mv02s06_scene_4c096511:
 translate spanish sm1mv02s06_scene_666aa329:
 
     # mhmes "Shlllrrrrp, mmmmmmmm!"
-    mhmes "Shlllrrrrp, mmmmmmmm!"
+    mhmes "¡Shlllrrrrp, mmmmmmmm!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:504
 translate spanish sm1mv02s06_scene_0a4d5a69:

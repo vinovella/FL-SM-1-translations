@@ -1958,7 +1958,7 @@ translate spanish sm1ms009_bonus_dc76094a:
 translate spanish sm1ms009_bonus_ce1f70b0:
 
     # sy "Mmmhmmmmmm!"
-    sy "Mmmhmmmmmm!"
+    sy "¡Mmmhmmmmmm!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1024
 translate spanish sm1ms009_bonus_5bc1f5b4:

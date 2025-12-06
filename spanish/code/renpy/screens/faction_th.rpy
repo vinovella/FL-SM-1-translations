@@ -10,7 +10,7 @@ translate spanish strings:
 
     # game/code/renpy/screens/faction_th.rpy:45
     old "6 PM"
-    new "6 PM"
+    new "18:00"
 
     # game/code/renpy/screens/faction_th.rpy:67
     old "Extra pay for successful show:"

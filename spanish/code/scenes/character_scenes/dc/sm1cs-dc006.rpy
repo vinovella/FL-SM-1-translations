@@ -428,7 +428,7 @@ translate spanish sm1cs_dc006_4005297e:
 translate spanish sm1cs_dc006_c288c13d:
 
     # "{i}Ring, ring!{/i}"
-    "{i}¡Ring, ring!{/i}"
+    "{i}¡Rin, rin!{/i}"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:222
 translate spanish sm1cs_dc006_6b550915:

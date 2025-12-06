@@ -32,5 +32,5 @@ translate spanish sm1cs_ag003i_7c72ad33:
 translate spanish sm1cs_ag003i_a83a3eae:
 
     # cw "Uh huh."
-    cw "Uh huh."
+    cw "Ajá."
 

@@ -44,7 +44,7 @@ translate spanish q_inter_rd_3_4e25571e:
 translate spanish q_inter_rd_3_df07d66e:
 
     # rd "Sup, [mcname]."
-    rd "Sup, [mcname]."
+    rd "¿Qué hay, [mcname]?"
 
 # game/code/data/quick_interactions/GR_Bar/q-inter-rd.rpy:48
 translate spanish q_inter_rd_4_cbb1b367:

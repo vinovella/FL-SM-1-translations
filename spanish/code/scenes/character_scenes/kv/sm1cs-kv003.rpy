@@ -908,7 +908,7 @@ translate spanish sm1cs_kv003_954510a3:
 translate spanish sm1cs_kv003_bf1c7fbe:
 
     # sy "Uh huh."
-    sy "Uh huh."
+    sy "Ajá."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:558
 translate spanish sm1cs_kv003_a067b4ce:

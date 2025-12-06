@@ -140,7 +140,7 @@ translate spanish sm1fs_i003_3cff9a32:
 translate spanish sm1fs_i003_713aa894:
 
     # cw "I see you two have already met. Mr. [mcname] Young, Ms. Nari Song."
-    cw "Veo que ustedes dos ya se conocen. Sr. [mcname] Young, la Srta. Nari Song."
+    cw "Veo que ustedes dos ya se conocen. Sr. Young, la Srta. Nari Song."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:128
 translate spanish sm1fs_i003_2792d5cd:

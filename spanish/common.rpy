@@ -782,7 +782,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:705
     old "Self-voicing enabled. "
-    new "Voz automática activada. "
+    new "Voz automática activada."
 
     # renpy/common/00speechbubble.rpy:416
     old "Speech Bubble Editor"

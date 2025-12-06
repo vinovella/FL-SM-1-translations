@@ -212,7 +212,7 @@ translate spanish sm1cs_mes007_c1b31333:
 translate spanish sm1cs_mes007_a5ce6d2e:
 
     # mes "Tut tut tut."
-    mes "Tut tut tut."
+    mes "Tsk tsk tsk."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:180
 translate spanish sm1cs_mes007_4b129476:
