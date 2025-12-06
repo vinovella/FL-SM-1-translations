@@ -762,5 +762,5 @@ translate portuguese sm1cs_sy001_watersports_962bd759:
 translate portuguese sm1cs_sy001_shower_sex_1512c8ff:
 
     # sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
-    sy "- Todo o esforço valeu a pena. Porque - nnnnng - dá pra sentir o seu pau tão fundo!"
+    sy "- Todo o esforço valeu a pena. Porque - nnnnng - agora dá pra sentir o seu pau tão fundo!"
 
