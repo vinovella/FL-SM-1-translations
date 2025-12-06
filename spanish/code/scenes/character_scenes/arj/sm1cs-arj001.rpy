@@ -2,7 +2,7 @@
 translate spanish sm1cs_arj001_5d6702d2:
 
     # mct "Man... I hope AmRose is a little less... spicy this time. She seemed upset the last time I saw her."
-    mct "Uf... Ojalá AmRose esté un poco menos... picante esta vez. Parecía molesta la última vez que la vi."
+    mct "Uf... Ojalá AmRose esté un poco menos... irritable esta vez. Parecía molesta la última vez que la vi."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:19
 translate spanish sm1cs_arj001_2b834db9:
@@ -116,7 +116,7 @@ translate spanish sm1cs_arj001_5befd326:
 translate spanish sm1cs_arj001_e9f9de9e:
 
     # cs "Hi, I saw you come in, and wanted to make sure you didn't want to order or anything."
-    cs "Hola, te he visto entrar y quería asegurarme de que no querías pedir ni nada."
+    cs "Hola, te vi entrar y quería asegurarme de que no querías pedir ni nada."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:71
 translate spanish sm1cs_arj001_60bbba93:
@@ -302,7 +302,7 @@ translate spanish sm1cs_arj001_2f03b6fe:
 translate spanish sm1cs_arj001_cd7c17de:
 
     # arj "Huh... well yeah, I did."
-    arj "Huh... bueno, sí, lo hice."
+    arj "Huh... bueno, sí, los tenía."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:158
 translate spanish sm1cs_arj001_74cdc2b0:
@@ -344,7 +344,7 @@ translate spanish sm1cs_arj001_8396c474:
 translate spanish sm1cs_arj001_6e49e088:
 
     # mc "No, AmRose. It wasn't whatever. I hurt you. And I can't tell you how bad I feel about it."
-    mc "No, AmRose. No era lo que fuera. Te lastimé. Y no puedo decirte lo mal que me siento por ello."
+    mc "No, AmRose. No es lo que fuera. Te lastimé. Y no puedo decirte lo mal que me siento por ello."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:175
 translate spanish sm1cs_arj001_76ab3ef9:
@@ -368,7 +368,7 @@ translate spanish sm1cs_arj001_328d496a:
 translate spanish sm1cs_arj001_e5ed41e8:
 
     # arj "Something like that. I figured I was about halfway done, I might as well finish."
-    arj "Algo así. Pensé que estaba a mitad de camino, bien podría terminar."
+    arj "Algo así. Pensé que como ya iba por la mitad, sería mejor terminarla."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:185
 translate spanish sm1cs_arj001_185a2474:
@@ -464,7 +464,7 @@ translate spanish sm1cs_arj001_416e0623:
 translate spanish sm1cs_arj001_3a284ac8:
 
     # mc "It will eventually go away, but for the time being, I'm just famous, I guess... or infamous, really."
-    mc "Eventualmente desaparecerá, pero por el momento, soy famoso, supongo... o infame, realmente."
+    mc "Eventualmente desaparecerá, pero por el momento, solo soy famoso, supongo... o, en realidad, infame."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:230
 translate spanish sm1cs_arj001_10a611f1:
@@ -524,7 +524,7 @@ translate spanish sm1cs_arj001_6133386f:
 translate spanish sm1cs_arj001_6e8fee7a:
 
     # arj "That I do..."
-    arj "Que hago..."
+    arj "Vaya que lo sé..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:259
 translate spanish sm1cs_arj001_40b02401:
@@ -536,7 +536,7 @@ translate spanish sm1cs_arj001_40b02401:
 translate spanish sm1cs_arj001_726e3898:
 
     # arj "I don't want it anyway. All this thing is going to do is bring trouble. So take it."
-    arj "No lo quiero de todos modos. Todo lo que esta cosa va a hacer es traer problemas. Así que tómalo."
+    arj "No la quiero de todos modos. Todo lo que esta cosa va a hacer es traer problemas. Así que tómala."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:269
 translate spanish sm1cs_arj001_be4ecc29:
@@ -548,7 +548,7 @@ translate spanish sm1cs_arj001_be4ecc29:
 translate spanish sm1cs_arj001_cd34c76a:
 
     # mc "Thank you, AmRose. I know Stacy will be glad to have it back."
-    mc "Gracias, Amrose. Sé que Stacy se alegrará de recuperarlo."
+    mc "Gracias, Amrose. Sé que Stacy se alegrará de recuperarla."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:274
 translate spanish sm1cs_arj001_7a3943c8:
@@ -680,5 +680,5 @@ translate spanish sm1cs_arj001_92b04d3a:
 translate spanish sm1cs_arj001_5c2dddcf:
 
     # arj "So what if I do? {i}No one{/i} should have the flash drive."
-    arj "¿Y qué si la tengo? {i}Nadie{/i} debería tener la unidad USB."
+    arj "¿Y qué si la tengo? {i}Nadie{/i} debería tener la memoria USB."
 
