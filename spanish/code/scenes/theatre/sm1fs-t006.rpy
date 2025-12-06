@@ -1,8 +1,8 @@
-﻿# game/code/scenes/theatre/sm1fs-t006.rpy:15
+# game/code/scenes/theatre/sm1fs-t006.rpy:15
 translate spanish sm1fs_t006_a5f4ed89:
 
     # nr "Hey, [mcname]. Looking to make some deliveries?"
-    nr "Hey, [mcname]. ¿Buscas hacer unas entregas?"
+    nr "Oye, [mcname]. ¿Buscas hacer unas entregas?"
 
 # game/code/scenes/theatre/sm1fs-t006.rpy:19
 translate spanish sm1fs_t006_15d0716f:
@@ -80,7 +80,7 @@ translate spanish sm1fs_t006_9941400c:
 translate spanish sm1fs_t006_255bcdf6:
 
     # ms "Where is it, [mcname]?!"
-    ms "¿Dónde está, [mcname]?!"
+    ms "¡¿Dónde está, [mcname]?!"
 
 # game/code/scenes/theatre/sm1fs-t006.rpy:52
 translate spanish sm1fs_t006_a5c93ad3:
@@ -248,13 +248,13 @@ translate spanish sm1fs_t006_db6da2bf:
 translate spanish sm1fs_t006_6f884797:
 
     # nr "Maybe it's time for a little virus marketing."
-    nr "Quizás es hora de un poco de ‘virus marketing’."
+    nr "Quizás es hora de un poco del virus marketing."
 
 # game/code/scenes/theatre/sm1fs-t006.rpy:116
 translate spanish sm1fs_t006_b26e1f42:
 
     # mc "I think you mean viral marketing. But I'm very happy you might be open to discussing things."
-    mc "Creo que quieres decir ‘marketing viral’. Pero me alegra que estés dispuesto a hablar del tema."
+    mc "Creo que quieres decir marketing viral. Pero me alegra que estés dispuesto a hablar del tema."
 
 # game/code/scenes/theatre/sm1fs-t006.rpy:119
 translate spanish sm1fs_t006_8c452a7e:
@@ -404,7 +404,7 @@ translate spanish sm1fs_t006_716019b8:
 translate spanish sm1fs_t006_41c555c9:
 
     # mc "Strange just how involved you got when you smelled money, Maya."
-    mc "Qué curioso lo mucho que te involucraste cuando oliste dinero, Maya."
+    mc "Es curioso lo mucho que te involucraste cuando oliste dinero, Maya."
 
 # game/code/scenes/theatre/sm1fs-t006.rpy:186
 translate spanish sm1fs_t006_87633129:
