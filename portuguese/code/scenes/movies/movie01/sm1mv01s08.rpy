@@ -1784,17 +1784,17 @@ translate portuguese sm1mv01s08_movie_start_456168d3:
 translate portuguese sm1mv01s08_movie_start_a79669f8:
 
     # mc "Judging by how tightly you're squeezing my cock, I'd say you love it!"
-    mc "Pelo jeito que você tá apertando meu pau, eu diria que você tá amando!"
+    mc "Pelo jeito que você tá apertando meu pau, eu diria que tá amando!"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:631
 translate portuguese sm1mv01s08_movie_start_b186964d:
 
     # mc "How can I believe you when your moans keep begging for my cock to pound your butthole?"
-    mc "Como vou acreditar se seus gemidos tão pedindo meu pau socando seu cu?"
+    mc "Como vou acreditar se seus gemidos tão implorando pro meu pau detonar o seu cu?"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:73
 translate portuguese sm1mv01s08_e6d2fca7:
 
     # mc "Stacy, come on."
-    mc "Stacy, vamos lá."
+    mc "Anda, Stacy."
 
