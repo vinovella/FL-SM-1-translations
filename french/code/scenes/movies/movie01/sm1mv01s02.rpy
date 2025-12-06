@@ -2008,5 +2008,5 @@ translate french strings:
 translate french sm1mv01s02_later_e9f87a8a:
 
     # mc "Just a minute?"
-    mc "Just a minute?"
+    mc "Juste une minute ?"
 

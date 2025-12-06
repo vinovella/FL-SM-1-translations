@@ -764,5 +764,5 @@ translate french sm1cs_sy001_watersports_962bd759:
 translate french sm1cs_sy001_shower_sex_1512c8ff:
 
     # sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
-    sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
+    sy "- Tout ce dur travail en valait la peine. Parce que - nnnnng - je sens ta bite tellement profond en moi là !"
 

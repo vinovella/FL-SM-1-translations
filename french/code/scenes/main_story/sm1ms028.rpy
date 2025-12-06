@@ -984,29 +984,29 @@ translate french sm1ms028_location_change_f85f2d25:
 translate french sm1ms028_09ce7b18:
 
     # sy "Fly? You're scaring me."
-    sy "Fly? You're scaring me."
+    sy "Partir ? Tu me fais peur."
 
 # game/code/scenes/main_story/sm1ms028.rpy:132
 translate french sm1ms028_dress_change_5bb90607:
 
     # mc "Never mind, we don't have time to change."
-    mc "Never mind, we don't have time to change."
+    mc "Laisse tomber, on n'a pas le temps de se changer."
 
 # game/code/scenes/main_story/sm1ms028.rpy:220
 translate french sm1ms028_location_change_655577ab:
 
     # dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
-    dl "Always done it. From even the earliest time, back when you had to know the password to get into the special section at the downtown Blockbuster."
+    dl "J'ai toujours fait ça. Depuis le tout début, à l'époque où il fallait connaître le mot de passe pour entrer dans la section spéciale du Blockbuster du centre-ville."
 
 # game/code/scenes/main_story/sm1ms028.rpy:265
 translate french sm1ms028_location_change_50233dc1:
 
     # sy "I think $1000 is more appropriate."
-    sy "I think $1000 is more appropriate."
+    sy "Je pense que 1000 $ serait plus approprié."
 
 # game/code/scenes/main_story/sm1ms028.rpy:437
 translate french sm1ms028_location_change_8a80e7f6:
 
     # mc "All that hard work is finally paying off!"
-    mc "All that hard work is finally paying off!"
+    mc "Tout ce dur travail porte enfin ses fruits !"
 

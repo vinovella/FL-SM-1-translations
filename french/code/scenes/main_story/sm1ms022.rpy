@@ -1678,29 +1678,29 @@ translate french sm1ms022_94f3e8f9:
 translate french sm1ms022_b335c61c:
 
     # sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
-    sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
+    sy "Mon petit cul serré avale ce concombre ! Ooooooo !"
 
 # game/code/scenes/main_story/sm1ms022.rpy:579
 translate french sm1ms022_67e01765:
 
     # sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
-    sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
+    sy "Attrape mes cheveux pour avoir un peu de prise pendant que tu me baises le cul."
 
 # game/code/scenes/main_story/sm1ms022.rpy:619
 translate french sm1ms022_361d8f7f:
 
     # sy "Oh get that dick deep inside my dirty little hoooole."
-    sy "Oh get that dick deep inside my dirty little hoooole."
+    sy "Oh enfonce cette bite au fond de mon petit trou cochoooon."
 
 # game/code/scenes/main_story/sm1ms022.rpy:645
 translate french sm1ms022_b257719d:
 
     # sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
-    sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
+    sy "Je jouuuuiiiiis, garçon de ferme Jooooon ! Oh mon Dieu, putain - je jouis par le cuuuul !"
 
 # game/code/scenes/main_story/sm1ms022.rpy:862
 translate french sm1ms022_0a2335a3:
 
     # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
-    kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
+    kv "En gros, c'est l'espace entre l'objectif et le capteur. Parfois de la poussière ou autre chose s'y glisse."
 

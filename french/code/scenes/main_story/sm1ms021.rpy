@@ -206,7 +206,7 @@ translate french sm1ms021_99674341_1:
 translate french sm1ms021_d3826ca3:
 
     # sy "Score."
-    sy "Score."
+    sy "Jackpot."
 
 # game/code/scenes/main_story/sm1ms021.rpy:133
 translate french sm1ms021_24bfc387:

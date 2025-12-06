@@ -976,5 +976,5 @@ translate french sm1cs_sy003_end_e277e827:
 translate french sm1cs_sy003_sex_45437f42:
 
     # sy "I said. 'While you fuck-oouhwaaah!'"
-    sy "I said. 'While you fuck-oouhwaaah!'"
+    sy "J'ai dit. 'Pendant que tu me bais-oouhwaaah !'"
 
