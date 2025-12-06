@@ -92,83 +92,83 @@ translate turkish sm1ms029_confrontation_c8157585:
 translate turkish sm1ms029_63adc03a:
 
     # arj "How could I resist the inaugural S&M Studio party?"
-    arj "How could I resist the inaugural S&M Studio party?"
+    arj "S&M Stüdyosu'nun açılış partisine nasıl hayır diyebilirdim?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1185
 translate turkish sm1ms029_talk_mes_ns_03101e46:
 
     # mc "She does need a supervisor."
-    mc "She does need a supervisor."
+    mc "Ona bir gözetmen lazım."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1420
 translate turkish sm1ms029_talk_kv_hr_arj_4e02a384:
 
     # mc "She's a worrywart."
-    mc "She's a worrywart."
+    mc "O bir panikçi."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1523
 translate turkish sm1ms029_party_part_1_ece8a1eb:
 
     # sy "Noooo, just a little more!"
-    sy "Noooo, just a little more!"
+    sy "Hayıııır, sadece biraz daha!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2090
 translate turkish sm1ms029_part_1_my_appear_46a079f3:
 
     # arj "That's right, I know all your fantasies, you little perv."
-    arj "That's right, I know all your fantasies, you little perv."
+    arj "Aynen öyle, tüm fantezilerini biliyorum, seni küçük sapık."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2273
 translate turkish sm1ms029_part_1_my_appear_7387fd43:
 
     # my "All right. Well, if you see her, tell her to call me, okay?"
-    my "All right. Well, if you see her, tell her to call me, okay?"
+    my "Tamam. Peki, onu görürsen beni aramasını söyle, olur mu?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2403
 translate turkish sm1ms029_party_sy_94f70313:
 
     # sy "Your sister has the best ass in Crowning!"
-    sy "Your sister has the best ass in Crowning!"
+    sy "Kız kardeşinin Crowning'deki en güzel kalçası var!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2994
 translate turkish sm1ms029_party_arj_b51ba273:
 
     # arj "*happy slurping noise*"
-    arj "*happy slurping noise*"
+    arj "*mutlu höpürdeme sesi*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3510
 translate turkish sm1ms029_confrontation_d6d4f3c8:
 
     # et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
-    et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
+    et "İşleri herhangi bir resmi iş eğitimi olmadan yürüten sadece bir erkek ve kız kardeş olduğunu öğrendiğimde, itiraf etmeliyim."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3559
 translate turkish sm1ms029_confrontation_c26dec61:
 
     # sy "You heard [mcname]. The answer is no, Foxmorr."
-    sy "You heard [mcname]. The answer is no, Foxmorr."
+    sy "[mcname]'i duydun. Cevap hayır, Foxmorr."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3619
 translate turkish sm1ms029_confrontation_daf0d17d:
 
     # et "Still... as you said... This place-"
-    et "Still... as you said... This place-"
+    et "Yine de... dediğiniz gibi... Burası-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3651
 translate turkish sm1ms029_confrontation_56911771:
 
     # sy "*indiscernible words*"
-    sy "*indiscernible words*"
+    sy "*anlaşılmaz sözler*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3702
 translate turkish sm1ms029_confrontation_49405f37:
 
     # sy "I think he's just afraid of a little competition."
-    sy "I think he's just afraid of a little competition."
+    sy "Bence sadece biraz rekabetten korkuyor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3955
 translate turkish sm1ms029_party_end_254d93ee:
 
     # mc "For sleepovers. Come on."
-    mc "For sleepovers. Come on."
+    mc "Pijama partileri için. Hadi ama."
 
