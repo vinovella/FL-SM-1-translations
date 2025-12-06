@@ -2,7 +2,7 @@
 translate portuguese sm1ms025_dce1a447:
 
     # sy "We got a new order from the client."
-    sy "Acabamos de receber um pedido de cliente."
+    sy "Acabamos de receber um pedido do cliente."
 
 # game/code/scenes/main_story/sm1ms025.rpy:14
 translate portuguese sm1ms025_2d71f122:
@@ -14,13 +14,13 @@ translate portuguese sm1ms025_2d71f122:
 translate portuguese sm1ms025_8c7e9cfa:
 
     # sy "Yeah. They seem a little excited."
-    sy "Sim. Parece um pouco empolgada."
+    sy "Sim. Parece um pouco empolgado."
 
 # game/code/scenes/main_story/sm1ms025.rpy:18
 translate portuguese sm1ms025_efe9b161:
 
     # sy "Antsy even."
-    sy "Ansiosa até."
+    sy "Ansioso, até."
 
 # game/code/scenes/main_story/sm1ms025.rpy:23
 translate portuguese sm1ms025_7129dea6:
@@ -56,7 +56,7 @@ translate portuguese sm1ms025_08947137:
 translate portuguese sm1ms025_7a17595f:
 
     # mct "One of the requests stands out. It's an anal sex activity, but one that is kind of rare."
-    mct "Um dos pedidos parece interessante. é uma atividade de sexo anal, mas essa é meio rara."
+    mct "Um dos pedidos parece interessante. É uma atividade de sexo anal, mas essa é meio rara."
 
 # game/code/scenes/main_story/sm1ms025.rpy:38
 translate portuguese sm1ms025_9170b71d:
@@ -122,7 +122,7 @@ translate portuguese sm1ms025_3acc652e:
 translate portuguese sm1ms025_568ac4c9:
 
     # sy "Nope. I wanted to be straight-up. They're our first client after all."
-    sy "Não. Eu quis ser direta. É a nossa primeira cliente, né."
+    sy "Não. Eu quis ser direta. É o nosso primeiro cliente, né."
 
 # game/code/scenes/main_story/sm1ms025.rpy:68
 translate portuguese sm1ms025_5f42a3d4:
@@ -152,7 +152,7 @@ translate portuguese sm1ms025_a2ec46d4:
 translate portuguese sm1ms025_94851a1d:
 
     # sy "I had to look it up. It's when you shove a bottle of alcohol up your asshole to consume it for sexual pleasure."
-    sy "Tive que pesquisar. é quando enfia uma garrafa de álcool pelo cu pra consumir ou prazer sexual."
+    sy "Tive que pesquisar. É quando enfia uma garrafa de álcool pelo cu pra consumir ou prazer sexual."
 
 # game/code/scenes/main_story/sm1ms025.rpy:80
 translate portuguese sm1ms025_80c6e216:
@@ -878,5 +878,5 @@ translate portuguese sm1ms025_01a929b4:
 translate portuguese sm1ms025_d303d504:
 
     # sy "They even asked for more fetishes."
-    sy "Eles até pediram mais fetiches."
+    sy "Até pediu mais fetiches."
 
