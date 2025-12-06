@@ -1676,29 +1676,29 @@ translate italian sm1ms022_94f3e8f9:
 translate italian sm1ms022_b335c61c:
 
     # sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
-    sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
+    sy "Il mio stretto culetto sta divorando questo cetriolo! Ooooooo!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:579
 translate italian sm1ms022_67e01765:
 
     # sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
-    sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
+    sy "Afferrami i capelli così hai un po' di leva mentre mi scopi il culo."
 
 # game/code/scenes/main_story/sm1ms022.rpy:619
 translate italian sm1ms022_361d8f7f:
 
     # sy "Oh get that dick deep inside my dirty little hoooole."
-    sy "Oh get that dick deep inside my dirty little hoooole."
+    sy "Oh ficca quel cazzo nel mio sporco buchettoooo."
 
 # game/code/scenes/main_story/sm1ms022.rpy:645
 translate italian sm1ms022_b257719d:
 
     # sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
-    sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
+    sy "Sto venendoooo, Bracciante Joooooon! Oh cielo, cavolo, cielo - cazzo, sto venendo dal culooo!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:862
 translate italian sm1ms022_0a2335a3:
 
     # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
-    kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
+    kv "In breve, è lo spazio tra l'obiettivo e il sensore. A volte ci finisce dentro polvere o altro."
 

@@ -2,7 +2,7 @@
 translate italian sm1mv01s07_2_ec4b218e:
 
     # mc "*sniffs*"
-    mc "*sniffs*"
+    mc "*annusa*"
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:22
 translate italian sm1mv01s07_2_393fb688:

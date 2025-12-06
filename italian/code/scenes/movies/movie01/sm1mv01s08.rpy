@@ -1796,5 +1796,5 @@ translate italian sm1mv01s08_movie_start_b186964d:
 translate italian sm1mv01s08_e6d2fca7:
 
     # mc "Stacy, come on."
-    mc "Stacy, come on."
+    mc "Stacy, andiamo."
 

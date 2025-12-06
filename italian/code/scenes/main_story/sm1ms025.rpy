@@ -878,5 +878,5 @@ translate italian sm1ms025_827ba594:
 translate italian sm1ms025_d303d504:
 
     # sy "They even asked for more fetishes."
-    sy "They even asked for more fetishes."
+    sy "Hanno persino chiesto altri fetish."
 
