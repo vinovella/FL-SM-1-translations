@@ -206,7 +206,7 @@ translate spanish sm1ms008_db07abac:
 translate spanish sm1ms008_d3d71759:
 
     # sy "Thank you, [mcname]. It sounds like the client is into a little rough stuff. They want some spanking and maybe a little choking, little man-handling."
-    sy "Gracias, [mcname]. Parece que al cliente le gustan las cosas un poco rudas. Quieren algunos azotes y tal vez un poco de asfixia, un poco de manoseo."
+    sy "Gracias, [mcname]. Parece que al cliente le gustan las cosas un poco rudas. Quiere algunos azotes, tal vez un poco de asfixia y algo de manejo brusco."
 
 # game/code/scenes/main_story/sm1ms008.rpy:136
 translate spanish sm1ms008_77082a31:
@@ -452,7 +452,7 @@ translate spanish sm1ms008_special_e531cbb2:
 translate spanish sm1ms008_special_2ca0ae0b:
 
     # mc "Couldn't hurt. Like Kanya said, we don't want to wait till we start and see a problem."
-    mc "No estaría de más. Como dijo Kanya, no queremos esperar hasta empezar y ver un problema."
+    mc "No estaría de más. Como dijo Kanya, no queremos esperar hasta empezar y encontrar un problema."
 
 # game/code/scenes/main_story/sm1ms008.rpy:262
 translate spanish sm1ms008_special_fb49e021:
@@ -554,7 +554,7 @@ translate spanish sm1ms008_special_c5b44713:
 translate spanish sm1ms008_special_aced0db5:
 
     # mc "Wow. Very sexy and fiery. You might have to stick with red hair for a bit."
-    mc "Guau. Muy sexy y ardiente. Puede que tengas que quedarte con el cabello rojo por un tiempo."
+    mc "Guau. Muy sexy y ardiente. Puede que tengas que quedarte con el pelo rojo por un tiempo."
 
 # game/code/scenes/main_story/sm1ms008.rpy:332
 translate spanish sm1ms008_special_d5a7a478:
@@ -584,7 +584,7 @@ translate spanish sm1ms008_special_bad7c00a:
 translate spanish sm1ms008_special_2bd452b0:
 
     # sy "Good. But that's it? Just for the scene?"
-    sy "Muy bien. ¿Pero eso es todo? ¿Sólo para la escena?"
+    sy "Muy bien. ¿Pero eso es todo? ¿Solo para la escena?"
 
 # game/code/scenes/main_story/sm1ms008.rpy:351
 translate spanish sm1ms008_special_afd74152:
@@ -710,7 +710,7 @@ translate spanish sm1ms008_after_choice_e0645ef0:
 translate spanish sm1ms008_after_choice_01166e1c:
 
     # kv "Plus they use the E mounts, which are what all my lenses are, so we can use what I've already got."
-    kv "Además usan las monturas E, que son las que tienen todos mis objetivos, así que podemos usar los que ya tengo."
+    kv "Además usan las monturas E, que son las que tienen todos mis objetivos, así que podemos usar las que ya tengo."
 
 # game/code/scenes/main_story/sm1ms008.rpy:440
 translate spanish sm1ms008_after_choice_aedee058:
@@ -722,7 +722,7 @@ translate spanish sm1ms008_after_choice_aedee058:
 translate spanish sm1ms008_after_choice_5334a07f:
 
     # sy "What about using my phone? It has a good camera, right?"
-    sy "¿Qué hay de usar mi teléfono? Tiene una buena cámara, ¿verdad?"
+    sy "¿Y si usamos mi teléfono? Tiene una buena cámara, ¿verdad?"
 
 # game/code/scenes/main_story/sm1ms008.rpy:447
 translate spanish sm1ms008_after_choice_5542aa89:
@@ -866,7 +866,7 @@ translate spanish sm1ms008_after_choice_f25eba41:
 translate spanish sm1ms008_after_choice_fcbd7d08:
 
     # sy "Yeah, you too. We'll be in touch as soon as we get the camera."
-    sy "Sí, tú también. Nos pondremos en contacto tan pronto como consigamos la cámara."
+    sy "Sí, igualmente. Nos pondremos en contacto tan pronto como consigamos la cámara."
 
 # game/code/scenes/main_story/sm1ms008.rpy:140
 translate spanish sm1ms008_4b4bda9d:

@@ -58,7 +58,7 @@
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Answer booty call"
-    new Válaszolj a szexhívásra"
+    new "Válaszolj a szexhívásra"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Start renovation!"

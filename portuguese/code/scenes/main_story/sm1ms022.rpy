@@ -1700,5 +1700,5 @@ translate portuguese sm1ms022_b257719d:
 translate portuguese sm1ms022_0a2335a3:
 
     # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
-    kv ""Resumindo, é o espaço entre a lente e o sensor. Às vezes pode entrar poeira lá e tal."
+    kv "Resumindo, é o espaço entre a lente e o sensor. Às vezes pode entrar poeira lá e tal."
 

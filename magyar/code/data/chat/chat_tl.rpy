@@ -38,7 +38,7 @@
 
     # game/code/data/chat/chat_tl.rpy:54
     old "I was thinking about you"
-    new "Rád gondoltam
+    new "Rád gondoltam"
 
     # game/code/data/chat/chat_tl.rpy:54
     old "ngl playing pool with you was fun the other night"

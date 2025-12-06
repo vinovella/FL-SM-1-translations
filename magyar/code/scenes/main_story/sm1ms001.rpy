@@ -152,7 +152,7 @@ translate magyar name_done_0e7041bf:
 translate magyar name_done_11715779:
 
     # mc "Who am I living with and spending 99%% of my time with these days?"
-    mc "Kivel élek együtt és kivel töltöm az időm 99%-át manapság?"
+    mc "Kivel élek együtt és kivel töltöm az időm 99%%-át manapság?"
 
 # game/code/scenes/main_story/sm1ms001.rpy:143
 translate magyar name_done_59232249:
