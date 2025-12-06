@@ -530,7 +530,7 @@ translate spanish sm1fs_t005_295422d0:
 translate spanish sm1fs_t005_bc9e8fb5:
 
     # tl "A pizzeria versus a hotdog place. It's pretty fresh."
-    tl "Una pizzería versus un lugar de hot dog. Es bastante fresco."
+    tl "Una pizzería versus un lugar de perro caliente. Es bastante fresco."
 
 # game/code/scenes/theatre/sm1fs-t005.rpy:286
 translate spanish sm1fs_t005_8ff90dc6:
