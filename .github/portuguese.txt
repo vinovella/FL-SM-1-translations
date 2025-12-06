@@ -1,31 +1,38 @@
-============================== Language: spanish ==============================
+============================== Language: portuguese ==============================
 
-spanish/code/renpy/screens/music_player.rpy [2 words]
+portuguese/code/renpy/screens/music_player.rpy [2 words]
 
 11: new "Artist: [music_artist!t]"
 
-spanish/code/scenes/character_scenes/sy/sm1cs-sy001.rpy [25 words]
+portuguese/code/scenes/character_scenes/sy/sm1cs-sy001.rpy [25 words]
 
 765: sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
 
-spanish/code/scenes/character_scenes/sy/sm1cs-sy002.rpy [19 words]
+portuguese/code/scenes/character_scenes/sy/sm1cs-sy002.rpy [19 words]
 
 1247: mc "Yeah, it is. Hopefully we won't be interrupted this time!"
 1253: sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
 
-spanish/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy [7 words]
+portuguese/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy [7 words]
 
 161: sy "You know I love fucking somewhere unexpected."
 
-spanish/code/scenes/character_scenes/sy/sm1cs-sy003.rpy [5 words]
+portuguese/code/scenes/character_scenes/sy/sm1cs-sy003.rpy [5 words]
 
 977: sy "I said. 'While you fuck-oouhwaaah!'"
 
-spanish/code/scenes/main_story/sm1ms020.rpy [21 words]
+portuguese/code/scenes/it_office/ag/sm1cs-ag002.rpy [7 words]
 
+113: "Bartender" "Sério? Bosta..." (Reason: Speaker not translated)
+125: "Bartender" "Foi mal..." (Reason: Speaker not translated)
+
+portuguese/code/scenes/main_story/sm1ms020.rpy [19 words]
+
+257: "Bartender" "O que gostariam?" (Reason: Speaker not translated)
+281: "Bartender" "É pra já." (Reason: Speaker not translated)
 1309: mc "Well... why did you use to live in Crowning?"
 
-spanish/code/scenes/main_story/sm1ms022.rpy [70 words]
+portuguese/code/scenes/main_story/sm1ms022.rpy [70 words]
 
 1679: sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
 1685: sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
@@ -33,11 +40,11 @@ spanish/code/scenes/main_story/sm1ms022.rpy [70 words]
 1697: sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
 1703: kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
 
-spanish/code/scenes/main_story/sm1ms025.rpy [14 words]
+portuguese/code/scenes/main_story/sm1ms025.rpy [14 words]
 
 881: sy "They even asked for more fetishes."
 
-spanish/code/scenes/main_story/sm1ms028.rpy [52 words]
+portuguese/code/scenes/main_story/sm1ms028.rpy [60 words]
 
 985: sy "Fly? You're scaring me."
 991: mc "Never mind, we don't have time to change."
@@ -45,8 +52,9 @@ spanish/code/scenes/main_story/sm1ms028.rpy [52 words]
 1003: sy "I think $1000 is more appropriate."
 1009: mc "All that hard work is finally paying off!"
 
-spanish/code/scenes/main_story/sm1ms029.rpy [108 words]
+portuguese/code/scenes/main_story/sm1ms029.rpy [130 words]
 
+6449: arj "Na verdade... eu estava pensando se poderia aceitar a oferta de vocês e passar a noite aqui." (Reason: ['[mcname]'] removed in translation)
 6789: arj "How could I resist the inaugural S&M Studio party?"
 6795: mc "She does need a supervisor."
 6801: mc "She's a worrywart."
@@ -62,15 +70,14 @@ spanish/code/scenes/main_story/sm1ms029.rpy [108 words]
 6861: sy "I think he's just afraid of a little competition."
 6867: mc "For sleepovers. Come on."
 
-spanish/code/scenes/movies/movie01/sm1mv01s02.rpy [4 words]
+portuguese/code/scenes/movies/movie01/sm1mv01s02.rpy [4 words]
 
-689: "CRASH"
 2009: mc "Just a minute?"
 
-spanish/code/scenes/movies/movie01/sm1mv01s07.rpy [18 words]
+portuguese/code/scenes/movies/movie01/sm1mv01s07.rpy [18 words]
 
 239: sy "Yup. What better way to put it behind us than to have a little fun in the sun."
 
-spanish/code/scenes/movies/movie01/sm1mv01s08.rpy [3 words]
+portuguese/code/scenes/movies/movie01/sm1mv01s08.rpy [7 words]
 
 1799: mc "Stacy, come on."
