@@ -86,7 +86,7 @@ translate spanish sm1ms009_6002320a:
 translate spanish sm1ms009_2b285705:
 
     # mc "Who wouldn't be when they have such a hot co-star?"
-    mc "¿Quién no lo estaría cuando tiene una coprotagonista tan sexy?"
+    mc "¿Quién no lo estaría cuando se tiene una coprotagonista tan sexy?"
 
 # game/code/scenes/main_story/sm1ms009.rpy:155
 translate spanish sm1ms009_0847afce:
@@ -98,7 +98,7 @@ translate spanish sm1ms009_0847afce:
 translate spanish sm1ms009_75e76b58:
 
     # mc "Getting into 'wardrobe'."
-    mc "Entrar en 'armario'."
+    mc "Pasando a 'vestuario'."
 
 # game/code/scenes/main_story/sm1ms009.rpy:160
 translate spanish sm1ms009_164a2e25:
@@ -134,7 +134,7 @@ translate spanish sm1ms009_def0ad19:
 translate spanish sm1ms009_b71bce81:
 
     # kv "Oh, this baby is a low end BLUE. They're renting them cheap because Neye-con just bought them out."
-    kv "Oh, este bebé es un azul de extremo bajo. Los alquilan baratos porque Neye-Con los compró."
+    kv "Oh, este bebé es un BLUE de gama baja. Los alquilan baratos porque Neye-Con los compró."
 
 # game/code/scenes/main_story/sm1ms009.rpy:172
 translate spanish sm1ms009_a5b13176:
@@ -146,7 +146,7 @@ translate spanish sm1ms009_a5b13176:
 translate spanish sm1ms009_e2ce1ac1:
 
     # kv "Sorry, I'm just rambling specs. I'm a bit of a gearhead."
-    kv "Lo siento, sólo estoy divagando especificaciones. Soy un poco cabeza de chorlito."
+    kv "Lo siento, solo estoy soltando especificaciones. Soy una fanática de los equipos."
 
 # game/code/scenes/main_story/sm1ms009.rpy:177
 translate spanish sm1ms009_a64663d6:
@@ -224,7 +224,7 @@ translate spanish sm1ms009_38646ae8:
 translate spanish sm1ms009_0f42acda:
 
     # sy "Erm... Whatever the {i}hot bachelor{/i} wants."
-    sy "Eh... Lo que quiera el {i}soltero sexy»{/i}."
+    sy "Eh... Lo que quiera el {i}soltero sexy{/i}."
 
 # game/code/scenes/main_story/sm1ms009.rpy:219
 translate spanish sm1ms009_1c29c1cd:
@@ -284,7 +284,7 @@ translate spanish sm1ms009_88560e2a:
 translate spanish sm1ms009_c86b71b3:
 
     # kv "But see, this is much better. I can get between you two, see your tits - in summary, I got options here."
-    kv "Pero mira, esto es mucho mejor. Puedo meterme entre ustedes dos, ver sus tetas... en resumen, tengo opciones aquí."
+    kv "Pero mira, esto es mucho mejor. Puedo meterme entre ustedes dos, ver tus tetas... en resumen, tengo opciones aquí."
 
 # game/code/scenes/main_story/sm1ms009.rpy:243
 translate spanish sm1ms009_adfa798c:
@@ -392,7 +392,7 @@ translate spanish sm1ms009_78a6f49c:
 translate spanish sm1ms009_985fe4b5:
 
     # sy "Uhm, hello, sir-"
-    sy "Uhm, hola, señor"
+    sy "Uhm, hola, señor..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:298
 translate spanish sm1ms009_41e1744b:
@@ -590,7 +590,7 @@ translate spanish sm1ms009_5e5d0fa3:
 translate spanish sm1ms009_2cdf5fd1:
 
     # kv "Good! You're both loosening up, which is great."
-    kv "¡Qué bien! Los dos se están soltando, lo que es genial."
+    kv "¡Bien! Los dos se están soltando, lo que es genial."
 
 # game/code/scenes/main_story/sm1ms009.rpy:387
 translate spanish sm1ms009_a7a599e3:
@@ -620,7 +620,7 @@ translate spanish sm1ms009_b2e0feed:
 translate spanish sm1ms009_eb0ad4ac:
 
     # sy "Sweet!"
-    sy "¡Dulce!"
+    sy "¡Genial!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:400
 translate spanish sm1ms009_39cd7202:
@@ -644,7 +644,7 @@ translate spanish sm1ms009_fa66b902:
 translate spanish sm1ms009_b5964194:
 
     # sy "And the barrel is the lens?"
-    sy "¿Y el lente es la lente?"
+    sy "¿Y el cuerpo es el objetivo?"
 
 # game/code/scenes/main_story/sm1ms009.rpy:408
 translate spanish sm1ms009_be28800f:
@@ -806,7 +806,7 @@ translate spanish sm1ms009_cf3e6d95:
 translate spanish sm1ms009_1b199792_1:
 
     # mc "Okay?"
-    mc "¿Bueno?"
+    mc "¿Está bien?"
 
 # game/code/scenes/main_story/sm1ms009.rpy:480
 translate spanish sm1ms009_08c38a50:
@@ -818,7 +818,7 @@ translate spanish sm1ms009_08c38a50:
 translate spanish sm1ms009_53111809:
 
     # sy "Okay!"
-    sy "¡Bueno!"
+    sy "¡Está bien!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:486
 translate spanish sm1ms009_acf482fa:
@@ -830,7 +830,7 @@ translate spanish sm1ms009_acf482fa:
 translate spanish sm1ms009_420bbb42:
 
     # kv "All right, let me get set up."
-    kv "Muy bien, déjame prepararme."
+    kv "Muy bien, deja que me prepare."
 
 # game/code/scenes/main_story/sm1ms009.rpy:492
 translate spanish sm1ms009_11dc4a89:
@@ -932,7 +932,7 @@ translate spanish sm1ms099_recording_45e6026f:
 translate spanish sm1ms099_recording_53111809:
 
     # sy "Okay!"
-    sy "¡Bueno!"
+    sy "¡Está bien!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:543
 translate spanish sm1ms099_recording_1def9e27:
@@ -1040,7 +1040,7 @@ translate spanish sm1ms099_recording_608a3fc1:
 translate spanish sm1ms099_recording_a7dad1df:
 
     # sy "Mmmm, it's so... {i}dirty{/i}... I'll have to make sure I work extra hard to {i}polish{/i} this for you..."
-    sy "Mmmm, está tan... {i}sucio{/i}... Tendré que asegurarme de trabajar más duro para {i} pulir {/i} esto para usted..."
+    sy "Mmmm, está tan... {i}sucio{/i}... Tendré que asegurarme de trabajar más duro para {i}pulir{/i} esto para usted..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:588
 translate spanish sm1ms099_recording_69c9cb99:
@@ -1088,7 +1088,7 @@ translate spanish sm1ms099_recording_3543c307:
 translate spanish sm1ms099_recording_43c53814:
 
     # mc "Mmmm, I thought you were here to clean... but it seems you're just as dirty as the apartment."
-    mc "Mmmm, pensé que estabas aquí para limpiar... pero parece que estás tan sucia como el departamento."
+    mc "Mmmm, pensé que estabas aquí para limpiar... pero parece que eres tan sucia como el departamento."
 
 # game/code/scenes/main_story/sm1ms009.rpy:615
 translate spanish sm1ms099_recording_98d4adbb:
@@ -1112,7 +1112,7 @@ translate spanish sm1ms099_recording_131d087f:
 translate spanish sm1ms099_recording_d70e29ba:
 
     # mc "Mmmm, you looked so damn good on your knees, clea-{w} washing the floors."
-    mc "Mmmm, te veías tan bien de rodillas, limpiandos...{w} los pisos."
+    mc "Mmmm, te veías tan bien de rodillas, limpiando...{w} los pisos."
 
 # game/code/scenes/main_story/sm1ms009.rpy:624
 translate spanish sm1ms099_recording_61acdfa9:
@@ -1130,7 +1130,7 @@ translate spanish sm1ms099_recording_3e12c4ea:
 translate spanish sm1ms099_recording_ccfa7162:
 
     # mct "Okay, come on [mcname], you got this!"
-    mct "Bien, vamos [mcname], ¡tienes esto!"
+    mct "Bien, vamos [mcname], ¡puedes hacerlo!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:630
 translate spanish sm1ms099_recording_35490b4d:
@@ -1184,7 +1184,7 @@ translate spanish sm1ms099_recording_2b35b6fe_1:
 translate spanish sm1ms099_recording_b27e8d1c:
 
     # mct "I like this, waaaaaay more."
-    mct "Me gusta esto, más."
+    mct "Me gusta esto, muchísimo más."
 
 # game/code/scenes/main_story/sm1ms009.rpy:648
 translate spanish sm1ms099_recording_2b35b6fe_2:
@@ -1238,7 +1238,7 @@ translate spanish sm1ms099_recording_ebe9c647:
 translate spanish sm1ms099_recording_b2df6dbd:
 
     # kv "All right rolling, and...{w} whenever you're ready."
-    kv "Muy bien rodando, y...{w} siempre que estén listo."
+    kv "Muy bien rodando, y...{w} siempre que estén listos."
 
 # game/code/scenes/main_story/sm1ms009.rpy:680
 translate spanish sm1ms099_recording_5e4b47f0:
@@ -1310,7 +1310,7 @@ translate spanish sm1ms099_recording_ec1af654:
 translate spanish sm1ms099_recording_9b17b0bf:
 
     # kv "{size=*0.8}*whisper* Sweet, and give me a little bit of silence so we can get the fucking noises, and we have some clean footage of this angle.{/size}"
-    kv "{size=*0.8}*susurro* Dulce, y dame un poco de silencio para que podamos tener los malditos ruidos, y tengamos algunas imágenes limpias de este ángulo.{/size}"
+    kv "{size=*0.8}*susurro* Genial, y dame un poco de silencio para que podamos tener los malditos ruidos, y tengamos algunas imágenes limpias de este ángulo.{/size}"
 
 # game/code/scenes/main_story/sm1ms009.rpy:721
 translate spanish sm1ms099_recording_5c2c7bcf_1:
@@ -1346,7 +1346,7 @@ translate spanish sm1ms099_recording_512a2047:
 translate spanish sm1ms099_recording_e3b3080c:
 
     # kv "So same thing, feel free to mix up your lines a bit. But I want to get another angle to cut with what we just shot."
-    kv "Así que lo mismo, siéntete libre de mezclar tus líneas un poco. Pero quiero conseguir otro ángulo para cortar con lo que acabamos de rodar."
+    kv "Así que lo mismo, siéntete libre de cambiar un poco tus líneas. Pero quiero conseguir otro ángulo para poder intercalar con lo que acabamos de rodar."
 
 # game/code/scenes/main_story/sm1ms009.rpy:749
 translate spanish sm1ms099_recording_ef0ed5b4:
@@ -1442,7 +1442,7 @@ translate spanish sm1ms099_recording_951e878a:
 translate spanish sm1ms099_recording_ee26eb2d:
 
     # mc "Yesss, just like that."
-    mc "Sí, así de simple."
+    mc "Sí, sigue así."
 
 # game/code/scenes/main_story/sm1ms009.rpy:790
 translate spanish sm1ms099_recording_5194dea6:
@@ -1514,7 +1514,7 @@ translate spanish sm1ms099_recording_703fad5b:
 translate spanish sm1ms099_recording_2b95aab2:
 
     # sy "Cum! Cum for me, sir!"
-    sy "¡Semen! Córrase para mí, señor!"
+    sy "¡Córrase! ¡Córrase para mí, señor!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:816
 translate spanish sm1ms099_recording_9c1e7bc2:
@@ -1604,7 +1604,7 @@ translate spanish sm1ms099_recording_c5813f51:
 translate spanish sm1ms099_recording_bbede208:
 
     # sy "I can go wash up, and then we can work on getting [mcname] hard again?"
-    sy "Puedo ir a lavarme, y luego podemos trabajar en conseguir que [mcname] se ponga duro otra vez?"
+    sy "¿Puedo ir a lavarme, y luego podemos trabajar en conseguir que [mcname] se ponga duro otra vez?"
 
 # game/code/scenes/main_story/sm1ms009.rpy:859
 translate spanish sm1ms099_recording_13c4c42f:
@@ -1850,7 +1850,7 @@ translate spanish sm1ms009_bonus_7a413542:
 translate spanish sm1ms009_bonus_9cd43ee0:
 
     # sy "Mmmmm... I'm going to remember that. But it's not about us right now."
-    sy "Mmmmm... Voy a recordar eso. Pero no se trata de nosotros en este momento."
+    sy "Mmmmm... Voy a recordar eso. Pero no se trata de nosotras en este momento."
 
 # game/code/scenes/main_story/sm1ms009.rpy:974
 translate spanish sm1ms009_bonus_26bf88e2:
@@ -1940,7 +1940,7 @@ translate spanish sm1ms009_bonus_18fd84c1:
 translate spanish sm1ms009_bonus_72bde7c3:
 
     # mc "Oh yeah, fucking - oh, yes!"
-    mc "Oh sí, jodidamente, ¡oh, sí!"
+    mc "Oh sí, mierda, ¡oh, sí!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1013
 translate spanish sm1ms009_bonus_1e114e7c:
@@ -2012,7 +2012,7 @@ translate spanish sm1ms009_part_2_1e276716:
 translate spanish sm1ms009_part_2_53111809:
 
     # sy "Okay!"
-    sy "¡Bueno!"
+    sy "¡Bien!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1057
 translate spanish sm1ms009_part_2_9c0d6da6:
@@ -2048,7 +2048,7 @@ translate spanish sm1ms009_part_2_c77282dd:
 translate spanish sm1ms009_part_2_2b43d3ba:
 
     # sy "And I completely forgot about your balls... I imagine they're just as dirty as the rest of you."
-    sy "Y me olvidé por completo de sus bolas... Me imagino que están tan sucios como el resto de usted."
+    sy "Y me olvidé por completo de sus bolas... Me imagino que están tan sucias como el resto de usted."
 
 # game/code/scenes/main_story/sm1ms009.rpy:1074
 translate spanish sm1ms009_part_2_ab5121a6:
@@ -2084,7 +2084,7 @@ translate spanish sm1ms009_part_2_2671f229:
 translate spanish sm1ms009_part_2_1a46eb8c:
 
     # mct "I got this!"
-    mct "¡Tengo esto!"
+    mct "¡Puedo hacerlo!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1092
 translate spanish sm1ms009_part_2_67caa425:
@@ -2108,7 +2108,7 @@ translate spanish sm1ms009_part_2_247aeed7:
 translate spanish sm1ms009_part_2_c94b8ff2:
 
     # mc "I don't know how I ever lived without a maid!"
-    mc "¡No sé cómo viví sin una criada!"
+    mc "¡No sé cómo viví sin una sirvienta!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1105
 translate spanish sm1ms009_part_2_ca98aff7:
@@ -2180,7 +2180,7 @@ translate spanish sm1ms009_part_2_3e7e7948:
 translate spanish sm1ms009_part_2_f02e0fc8:
 
     # mc "Sounds perfect!"
-    mc "Suena perfecto!"
+    mc "¡Suena perfecto!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1143
 translate spanish sm1ms009_part_2_9db47fdf:
@@ -2258,7 +2258,7 @@ translate spanish sm1ms009_part_2_24bb7098:
 translate spanish sm1ms009_part_2_a5c3d1b9:
 
     # mc "I - fuuuh - agree!"
-    mc "Yo - fuuuh - ¡de acuerdo!"
+    mc "Yo - fuuuh - ¡estoy de acuerdo!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1182
 translate spanish sm1ms009_part_2_e4ceaece:
@@ -2342,13 +2342,13 @@ translate spanish sm1ms009_part_2_4e9a626c:
 translate spanish sm1ms009_part_2_7220861e:
 
     # mc "{size=*0.8}*whisper* Kanya, I'm getting close!{/size}"
-    mc "{size=*0.8}*susurro* kanya, me estoy acercando!{/size}"
+    mc "{size=*0.8}*susurro* ¡kanya, me estoy acercando!{/size}"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1220
 translate spanish sm1ms009_part_2_86e58c40:
 
     # kv "{size=*0.8}*whisper* Oh shit! Quick give me some dirty talk like you're about to cum - and make sure you cum on her face!{/size}"
-    kv "{size=*0.8}*susurro* ¡Oh, mierda! ¡Rápido, dame unas palabras sucias como si estuvieras a punto de correrte, y asegúrate de que te corras en su rostro!{/size}"
+    kv "{size=*0.8}*susurro* ¡Oh, mierda! ¡Rápido, dame unas palabras sucias como si estuvieras a punto de correrte, y asegúrate de correrte en su rostro!{/size}"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1223
 translate spanish sm1ms009_part_2_71323190:
@@ -2450,7 +2450,7 @@ translate spanish sm1ms009_part_2_4b430ed9:
 translate spanish sm1ms009_part_2_9448c396:
 
     # sy "Egads! I can't believe you!"
-    sy "¡Egads! ¡No puedo creerte!"
+    sy "¡Caramba! ¡No puedo creerte!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1268
 translate spanish sm1ms009_part_2_9da999f1:
@@ -2624,7 +2624,7 @@ translate spanish sm1ms009_part_2_a63e82b5:
 translate spanish sm1ms009_part_2_4512a76d:
 
     # sy "Awesome! See you in a bit!"
-    sy "¡Impresionante! ¡Nos vemos luego!"
+    sy "¡Increíble! ¡Nos vemos luego!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1345
 translate spanish sm1ms009_part_2_26c0e2ac:
@@ -2744,7 +2744,7 @@ translate spanish sm1ms009_part_2_d115e056:
 translate spanish sm1ms009_part_2_630aee50:
 
     # mc "Wait, what's a wrap party?"
-    mc "Espera, ¿qué es una fiesta de envoltura?"
+    mc "Espera, ¿qué es una fiesta de fin de rodaje?"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1407
 translate spanish sm1ms009_part_2_4f6d7e37:
@@ -2815,4 +2815,5 @@ translate spanish sm1ms009_part_2_0561dc8d:
 
     # sy "Just wait until you see how I clean up your mess!"
     sy "Espera a ver cómo arreglo tu desastre."
+
 
