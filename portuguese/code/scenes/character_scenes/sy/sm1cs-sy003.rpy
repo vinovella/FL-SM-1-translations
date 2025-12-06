@@ -572,7 +572,7 @@ translate portuguese sm1cs_sy003_sex_39685004:
 translate portuguese sm1cs_sy003_sex_8cbe53af:
 
     # sy "Well...{w} You better give it your best shot."
-    sy "Bem...{w} Então se esforça."
+    sy "Bem...{w} Então se esforça ao máximo."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:462
 translate portuguese sm1cs_sy003_sex_36da3417:
@@ -974,5 +974,5 @@ translate portuguese sm1cs_sy003_end_e277e827:
 translate portuguese sm1cs_sy003_sex_45437f42:
 
     # sy "I said. 'While you fuck-oouhwaaah!'"
-    sy "Eu disse. 'Enquanto você me fod-aaahhhh!'"
+    sy "Eu disse. 'Enquanto você met-eeeeh!'"
 
