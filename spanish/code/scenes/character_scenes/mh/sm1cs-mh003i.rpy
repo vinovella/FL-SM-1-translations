@@ -8,7 +8,7 @@ translate spanish sm1cs_mh003i_3ca27941:
 translate spanish sm1cs_mh003i_fd6331d1:
 
     # sy "No. I figured she'd text you first."
-    sy "No. Pensé que te enviaría un mensaje de texto primero."
+    sy "No. Pensé que primero te enviaría un mensaje de texto."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003i.rpy:12
 translate spanish sm1cs_mh003i_ccb5d9b1:
