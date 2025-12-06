@@ -1676,29 +1676,29 @@ translate portuguese sm1ms022_94f3e8f9:
 translate portuguese sm1ms022_b335c61c:
 
     # sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
-    sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
+    sy "Minha bundinha apertada está engolindo esse pepino! Ooooooo!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:579
 translate portuguese sm1ms022_67e01765:
 
     # sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
-    sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
+    sy "Puxa meu cabelo pra ter mais apoio enquanto você come meu cuzinho."
 
 # game/code/scenes/main_story/sm1ms022.rpy:619
 translate portuguese sm1ms022_361d8f7f:
 
     # sy "Oh get that dick deep inside my dirty little hoooole."
-    sy "Oh get that dick deep inside my dirty little hoooole."
+    sy "Ah, enfia esse pau bem fundo no meu buraquinhoooo."
 
 # game/code/scenes/main_story/sm1ms022.rpy:645
 translate portuguese sm1ms022_b257719d:
 
     # sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
-    sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
+    sy "Tô gozandoooo, Ajudante Jooooohn! Ai meu Deus, caramba - porra, tô gozando pelo cuzinhooo!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:862
 translate portuguese sm1ms022_0a2335a3:
 
     # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
-    kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
+    kv "Resumindo, é o espaço entre a lente e o sensor. Às vezes entra sujeira ou qualquer coisa lá."
 

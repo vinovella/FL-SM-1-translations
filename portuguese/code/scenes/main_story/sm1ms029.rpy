@@ -6446,7 +6446,7 @@ translate portuguese sm1ms029_party_end_13a8f8fd:
 translate portuguese sm1ms029_party_end_0e7057f6:
 
     # arj "I was actually thinking... or, wondering, if I could take you and [mcname] up on the offer to spend the night here."
-    arj "Na verdade... eu estava pensando se poderia aceitar a oferta de vocês e passar a noite aqui."
+    arj "Na verdade... eu estava pensando se poderia aceitar a oferta de vocês, você e [mcname], e passar a noite aqui."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2415
 translate portuguese sm1ms029_party_end_be07bbfb:
@@ -6786,83 +6786,83 @@ translate portuguese sm1ms029_confrontation_c8157585:
 translate portuguese sm1ms029_63adc03a:
 
     # arj "How could I resist the inaugural S&M Studio party?"
-    arj "How could I resist the inaugural S&M Studio party?"
+    arj "Como eu poderia resistir à festa inaugural do S&M Studio?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1185
 translate portuguese sm1ms029_talk_mes_ns_03101e46:
 
     # mc "She does need a supervisor."
-    mc "She does need a supervisor."
+    mc "Ela realmente precisa de um supervisor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1420
 translate portuguese sm1ms029_talk_kv_hr_arj_4e02a384:
 
     # mc "She's a worrywart."
-    mc "She's a worrywart."
+    mc "Ela se preocupa demais."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1523
 translate portuguese sm1ms029_party_part_1_ece8a1eb:
 
     # sy "Noooo, just a little more!"
-    sy "Noooo, just a little more!"
+    sy "Nãooo, só mais um pouquinho!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2090
 translate portuguese sm1ms029_part_1_my_appear_46a079f3:
 
     # arj "That's right, I know all your fantasies, you little perv."
-    arj "That's right, I know all your fantasies, you little perv."
+    arj "É isso mesmo, eu sei todas as suas fantasias, seu pervertidinho."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2273
 translate portuguese sm1ms029_part_1_my_appear_7387fd43:
 
     # my "All right. Well, if you see her, tell her to call me, okay?"
-    my "All right. Well, if you see her, tell her to call me, okay?"
+    my "Tudo bem. Bom, se você a vir, diz pra ela me ligar, tá?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2403
 translate portuguese sm1ms029_party_sy_94f70313:
 
     # sy "Your sister has the best ass in Crowning!"
-    sy "Your sister has the best ass in Crowning!"
+    sy "Sua irmã tem a melhor bunda de Crowning!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2994
 translate portuguese sm1ms029_party_arj_b51ba273:
 
     # arj "*happy slurping noise*"
-    arj "*happy slurping noise*"
+    arj "*barulho de sucção feliz*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3510
 translate portuguese sm1ms029_confrontation_d6d4f3c8:
 
     # et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
-    et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
+    et "Quando descobri que eram apenas um irmão e uma irmã tocando as coisas sem nenhuma educação formal em negócios, eu tive que admitir."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3559
 translate portuguese sm1ms029_confrontation_c26dec61:
 
     # sy "You heard [mcname]. The answer is no, Foxmorr."
-    sy "You heard [mcname]. The answer is no, Foxmorr."
+    sy "Você ouviu o [mcname]. A resposta é não, Foxmorr."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3619
 translate portuguese sm1ms029_confrontation_daf0d17d:
 
     # et "Still... as you said... This place-"
-    et "Still... as you said... This place-"
+    et "Ainda assim... como você disse... Este lugar-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3651
 translate portuguese sm1ms029_confrontation_56911771:
 
     # sy "*indiscernible words*"
-    sy "*indiscernible words*"
+    sy "*palavras indiscerníveis*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3702
 translate portuguese sm1ms029_confrontation_49405f37:
 
     # sy "I think he's just afraid of a little competition."
-    sy "I think he's just afraid of a little competition."
+    sy "Acho que ele só tem medo de um pouco de competição."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3955
 translate portuguese sm1ms029_party_end_254d93ee:
 
     # mc "For sleepovers. Come on."
-    mc "For sleepovers. Come on."
+    mc "Para noitadas. Vamos lá."
 

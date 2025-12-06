@@ -158,5 +158,5 @@ translate portuguese sm1cs_sy002i_first_time_fe6569c6:
 translate portuguese sm1cs_sy002i_first_time_54ee52de:
 
     # sy "You know I love fucking somewhere unexpected."
-    sy "You know I love fucking somewhere unexpected."
+    sy "Você sabe que eu adoro transar em lugares inesperados."
 
