@@ -2,7 +2,7 @@
 
     # game/code/data/characters/names.rpy:6
     old "You"
-    new "You"
+    new "Te"
 
     # game/code/data/characters/names.rpy:21
     old "Angela"
@@ -14,11 +14,11 @@
 
     # game/code/data/characters/names.rpy:23
     old "Creepy Guy"
-    new "Creepy Guy"
+    new "Ijesztő fickó"
 
     # game/code/data/characters/names.rpy:25
     old "Dog Walker"
-    new "Dog Walker"
+    new "Kutya sétáltató"
 
     # game/code/data/characters/names.rpy:26
     old "Elizabeth"
@@ -102,9 +102,9 @@
 
     # game/code/data/characters/names.rpy:87
     old "Jerk Cop"
-    new "Jerk Cop"
+    new "Idióta zsaru"
 
     # game/code/data/characters/names.rpy:88
     old "Douche Cop"
-    new "Douche Cop"
+    new "Tahó rendőr"
 
