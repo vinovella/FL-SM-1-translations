@@ -122,7 +122,7 @@ translate spanish sm1ms012_256fbb90:
 translate spanish sm1ms012_21396c9c:
 
     # sy "Uh huh!"
-    sy "¡Uh huh!"
+    sy "¡Ajá!"
 
 # game/code/scenes/main_story/sm1ms012.rpy:63
 translate spanish sm1ms012_e26be9cc:
@@ -200,7 +200,7 @@ translate spanish sm1ms012_3c403bdc:
 translate spanish sm1ms012_1f28064d:
 
     # sy "But this time they want me to be a farmer. Overalls and everything."
-    sy "Pero esta vez quieren que sea un granjero. Con overol y todo lo demás."
+    sy "Pero esta vez quieren que sea una granjera. Con overol y todo lo demás."
 
 # game/code/scenes/main_story/sm1ms012.rpy:94
 translate spanish sm1ms012_84f16542:
@@ -290,7 +290,7 @@ translate spanish sm1ms012_ebce743a:
 translate spanish sm1ms012_b3e4e9e0:
 
     # mc "Like?"
-    mc "¿Como?"
+    mc "¿Cómo?"
 
 # game/code/scenes/main_story/sm1ms012.rpy:132
 translate spanish sm1ms012_e8addbef:
@@ -416,7 +416,7 @@ translate spanish sm1ms012_e4aae5a1:
 translate spanish sm1ms012_7559942c:
 
     # sy "Uh huh! Exactly what I mean."
-    sy "¡Uh huh! Exactamente a lo que quiero decir."
+    sy "¡Ajá! Exactamente a lo que quiero decir."
 
 # game/code/scenes/main_story/sm1ms012.rpy:180
 translate spanish sm1ms012_1fb2708c:
@@ -440,7 +440,7 @@ translate spanish sm1ms012_309ab961:
 translate spanish sm1ms012_f91ae6fb:
 
     # mc "Speaking of soccer moms..."
-    mc "Hablando de mamás de fútbol..."
+    mc "Hablando de mamás de futbolistas..."
 
 # game/code/scenes/main_story/sm1ms012.rpy:189
 translate spanish sm1ms012_9ef5bcdd:
@@ -470,7 +470,7 @@ translate spanish sm1ms012_1652f8f8:
 translate spanish sm1ms012_f83ed7ce:
 
     # sy "Melony, like, family friend Melony?"
-    sy "¿Melony, como la amiga de la familia Melony?"
+    sy "¿Melony, como la amiga de la familia?"
 
 # game/code/scenes/main_story/sm1ms012.rpy:198
 translate spanish sm1ms012_cf1adef2:
@@ -584,7 +584,7 @@ translate spanish sm1ms012_5161baf0:
 translate spanish sm1ms012_ad1a7c14:
 
     # sy "That sounds good to me!"
-    sy "¡Eso me suena bien!"
+    sy "¡Eso me parece bien!"
 
 # game/code/scenes/main_story/sm1ms012.rpy:252
 translate spanish sm1ms012_c0123387:
@@ -620,7 +620,7 @@ translate spanish sm1ms012_87024dfe:
 translate spanish sm1ms012_9b38631c:
 
     # mc "What do you mean, \"good\"?"
-    mc "¿A qué te refieres, \"bien\"?"
+    mc "¿A qué te refieres con \"bien\"?"
 
 # game/code/scenes/main_story/sm1ms012.rpy:262
 translate spanish sm1ms012_08644055:
@@ -674,13 +674,13 @@ translate spanish sm1ms012_cb5ef835:
 translate spanish sm1ms012_2b94ace5:
 
     # sy "Probably as soon as possible. They seemed... excited? Mostly?"
-    sy "Probablemente lo antes posible. Parecían... ¿emocionados? ¿Principalmente?"
+    sy "Probablemente lo antes posible. Parecían... ¿emocionados? ¿Sobre todo?"
 
 # game/code/scenes/main_story/sm1ms012.rpy:282
 translate spanish sm1ms012_d76566d1:
 
     # mc "Mostly?"
-    mc "¿Principalmente?"
+    mc "¿Sobre todo?"
 
 # game/code/scenes/main_story/sm1ms012.rpy:284
 translate spanish sm1ms012_df8505ee:
@@ -728,7 +728,7 @@ translate spanish sm1ms012_5efbd0b4:
 translate spanish sm1ms012_1b14a467:
 
     # mc "Sounds good! I'll go make us that hard earned cash."
-    mc "¡Suena bien! Iré a hacernos con ese dinero ganado con tanto esfuerzo."
+    mc "¡Suena bien! Iré a conseguir el dinero que tanto nos costó ganar."
 
 # game/code/scenes/main_story/sm1ms012.rpy:304
 translate spanish sm1ms012_3dd4b3d3:
