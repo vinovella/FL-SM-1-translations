@@ -2,13 +2,13 @@
 translate magyar sm1fs_t001_fe5aabdc:
 
     # mc "I gotta admit - I've been wondering why you were so certain she would be at the theater."
-    mc "I gotta admit - I've been wondering why you were so certain she would be at the theater."
+    mc "Be kell vallanom, hogy azon tűnődtem, miért voltál olyan biztos benne, hogy a színházban lesz."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:25
 translate magyar sm1fs_t001_c082fd5d:
 
     # sy "I told you she was distinct, right?"
-    sy "I told you she was distinct, right?"
+    sy "Mondtam, hogy különleges, nem?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:27
 translate magyar sm1fs_t001_8852e77f:
@@ -20,367 +20,367 @@ translate magyar sm1fs_t001_8852e77f:
 translate magyar sm1fs_t001_30efd38f:
 
     # sy "Well, that video of her was uploaded 37 times with different usernames - all from a local community theater's IP address."
-    sy "Well, that video of her was uploaded 37 times with different usernames - all from a local community theater's IP address."
+    sy "Nos, azt a videót róla 37 alkalommal töltötték fel különböző felhasználónevekkel. - mindegyik egy helyi közösségi színház IP-címéről."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:33
 translate magyar sm1fs_t001_3f7f0502:
 
     # mc "Seriously? Must have been pretty desperate for a Fetish Locator account."
-    mc "Seriously? Must have been pretty desperate for a Fetish Locator account."
+    mc "Komolyan? Biztosan nagyon kétségbeesett lehetett, hogy Fetish Locator fiókot nyitott."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:37
 translate magyar sm1fs_t001_a23f7aad:
 
     # sy "Which makes her the perfect candidate for the porn studio!"
-    sy "Which makes her the perfect candidate for the porn studio!"
+    sy "Ez pedig tökéletes jelölté teszi őt a pornóstúdió számára!"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:39
 translate magyar sm1fs_t001_c449d34c:
 
     # mc "Stacy... I'm still upset with you."
-    mc "Stacy... I'm still upset with you."
+    mc "Stacy... Még mindig csalódott vagyok."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:41
 translate magyar sm1fs_t001_790a620e:
 
     # sy "I know, but..."
-    sy "I know, but..."
+    sy "Tudom, de..."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:44
 translate magyar sm1fs_t001_c4790106:
 
     # sy "It's going to help us out with finding actresses. Or at least {i}was{/i} going to help us."
-    sy "It's going to help us out with finding actresses. Or at least {i}was{/i} going to help us."
+    sy "Ez segíteni fog, hogy találunk egy híres színészt. Vagy legalábbis {i}sokat{/i} segítene rajtunk."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:46
 translate magyar sm1fs_t001_acc26762:
 
     # mc "I guess..."
-    mc "I guess..."
+    mc "Azt hiszem..."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:49
 translate magyar sm1fs_t001_4681ade3:
 
     # mc "Didn't you tell me that you separated all the data and got rid of any personally identifiable information?"
-    mc "Didn't you tell me that you separated all the data and got rid of any personally identifiable information?"
+    mc "Nem azt mondtad, hogy elkülönítetted az összes adatot, és eltávolítottad az összes személyes azonosításra alkalmas információt?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:52
 translate magyar sm1fs_t001_32027c7e:
 
     # sy "I did! It's just-"
-    sy "I did! It's just-"
+    sy "Igen! Én csak-"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:54
 translate magyar sm1fs_t001_7c847d41:
 
     # mc "It's just what?"
-    mc "It's just what?"
+    mc "Csak mi?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:56
 translate magyar sm1fs_t001_d0482da0:
 
     # sy "I disconnected all the data, but..."
-    sy "I disconnected all the data, but..."
+    sy "Eltávolítottam minden adatot de..."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:57
 translate magyar sm1fs_t001_d01a1e1c:
 
     # sy "Look, there were 37 uploads of this video and 37 attempts to create a Fetish Locator account submitting a video."
-    sy "Look, there were 37 uploads of this video and 37 attempts to create a Fetish Locator account submitting a video."
+    sy "Nézd, 37 feltöltés volt ebből a videóból, és 37 kísérlet történt Fetish Locator-fiók létrehozására videó beküldésével."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:60
 translate magyar sm1fs_t001_d42fefa9:
 
     # sy "It doesn't take a genius to put the pieces together."
-    sy "It doesn't take a genius to put the pieces together."
+    sy "Nem kell zseninek lenni ahhoz, hogy összerakjuk a darabkákat."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:62
 translate magyar sm1fs_t001_acc26762_1:
 
     # mc "I guess..."
-    mc "I guess..."
+    mc "Azt hiszem..."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:67
 translate magyar sm1fs_t001_240bc4f5:
 
     # mc "Oh, hold up a second."
-    mc "Oh, hold up a second."
+    mc "Oh, várj egy másodőercet."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:69
 translate magyar sm1fs_t001_2634197c:
 
     # sy "What's up?"
-    sy "What's up?"
+    sy "Mi az?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:71
 translate magyar sm1fs_t001_4d253d65:
 
     # mc "That."
-    mc "That."
+    mc "Az."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:78
 translate magyar sm1fs_t001_942b1950:
 
     # sy "Oh. {w}Was that supposed to be scary?"
-    sy "Oh. {w}Was that supposed to be scary?"
+    sy "Oh. {w}Ezt ijesztőnek szánták?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:80
 translate magyar sm1fs_t001_a57cf06f:
 
     # mc "It was the first time. For me, at least."
-    mc "It was the first time. For me, at least."
+    mc "Ezt volt az eldő alkalom. Legalábbis most."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:83
 translate magyar sm1fs_t001_52275809:
 
     # sy "Oh, well, thanks for the warning."
-    sy "Oh, well, thanks for the warning."
+    sy "Óh, nos, köszönöm a figyelmeztetést."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:85
 translate magyar sm1fs_t001_9116c20b:
 
     # mc "So, you were saying? About her video."
-    mc "So, you were saying? About her video."
+    mc "Szóval, mit mondtál? A videójáról."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:88
 translate magyar sm1fs_t001_df4f15ba:
 
     # sy "Oh, her video is in full body make-up. How was I supposed to know that anyone would be able to identify her?"
-    sy "Oh, her video is in full body make-up. How was I supposed to know that anyone would be able to identify her?"
+    sy "Óh, a fideója teljes test sminkes. Honnan tudhattam volna, hogy bárki is fel fogja ismerni?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:90
 translate magyar sm1fs_t001_c8b26fdb:
 
     # mc "I guess it is only recognizable if you've seen her."
-    mc "I guess it is only recognizable if you've seen her."
+    mc "Azt hiszem, csak akkor lehet felismerni, ha láttad őt.."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:92
 translate magyar sm1fs_t001_adfd630d:
 
     # sy "So, yeah. I followed reasonable protocols to preserve privacy... but this was an outlier."
-    sy "So, yeah. I followed reasonable protocols to preserve privacy... but this was an outlier."
+    sy "Szóval igen. A magánélet védelme érdekében ésszerű protokollokat követtem.... de ez egy kivétel volt."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:109
 translate magyar sm1fs_t001_4aa6b365:
 
     # sy "Huh. Another jumpscare incoming?"
-    sy "Huh. Another jumpscare incoming?"
+    sy "Huh. Egy másik ijesztő szar jön?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:112
 translate magyar sm1fs_t001_a5482a82:
 
     # mc "I don't think so. Last time I really thought the power had gone out."
-    mc "I don't think so. Last time I really thought the power had gone out."
+    mc "Nem hiszem. Legutóbb elment az áram."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:113
 translate magyar sm1fs_t001_acd7999f:
 
     # mc "Anyway, it's just through that door up there."
-    mc "Anyway, it's just through that door up there."
+    mc "Mindenesetre, csak azon az ajtón bemenni átmenni ott."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:116
 translate magyar sm1fs_t001_9fae46c8:
 
     # mc "What about AmRose's data? She was very concerned about that."
-    mc "What about AmRose's data? She was very concerned about that."
+    mc "Mi van AmRose adataival? Nagyon aggódott emiatt.."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:118
 translate magyar sm1fs_t001_c63a9536:
 
     # sy "I deleted everything related to AmRose's account before I even started splitting the data up."
-    sy "I deleted everything related to AmRose's account before I even started splitting the data up."
+    sy "Még mielőtt elkezdtem volna az adatok felosztását, töröltem mindent, ami AmRose fiókjához kapcsolódott."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:119
 translate magyar sm1fs_t001_724cd2a3:
 
     # mc "So, did you see what AmRose posted?"
-    mc "So, did you see what AmRose posted?"
+    mc "Láttad, mit írt AmRose?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:128
 translate magyar sm1fs_t001_4a293ff7:
 
     # sy "Oh wow, there she is."
-    sy "Oh wow, there she is."
+    sy "Ó, hát itt van."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:130
 translate magyar sm1fs_t001_1e76a2ae:
 
     # mc "I told you."
-    mc "I told you."
+    mc "Mondtam"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:138
 translate magyar sm1fs_t001_518cb8c8:
 
     # sy "*whisper* Don't say anything about the video or Fetish Locator."
-    sy "*whisper* Don't say anything about the video or Fetish Locator."
+    sy "*Suttog* Ne mondj semmit a videóról vagy a Fetish Locato-ról."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:140
 translate magyar sm1fs_t001_4be8d141:
 
     # mc "*whisper* Why not?"
-    mc "*whisper* Why not?"
+    mc "*suttog* Miért ne?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:143
 translate magyar sm1fs_t001_f8fb39a5:
 
     # sy "*whisper* We don't want her to know we're connected to that. Duh."
-    sy "*whisper* We don't want her to know we're connected to that. Duh."
+    sy "*suttog* Nem akarjuk, hogy megtudja, hogy mi is kapcsolatban állunk azzal. Na ne mondd."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:145
 translate magyar sm1fs_t001_101dde34:
 
     # mc "*whisper* Uh, okay. Do you think she can hear us whispering?"
-    mc "*whisper* Uh, okay. Do you think she can hear us whispering?"
+    mc "*suttog* Uh, oké. Gondolod, hogy hallja, ahogy suttogunk?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:146
 translate magyar sm1fs_t001_d71d96ff:
 
     # sy "*whisper* Just follow my lead."
-    sy "*whisper* Just follow my lead."
+    sy "*suttog* Csak kövess."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:151
 translate magyar sm1fs_t001_c6ab1596:
 
     # sy "Why are you whispering?"
-    sy "Why are you whispering?"
+    sy "Miért suttogsz?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:153
 translate magyar sm1fs_t001_7b348033:
 
     # mc "I don't know. Didn't you start it?"
-    mc "I don't know. Didn't you start it?"
+    mc "Nem tudom. Nem te kezdted?
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:156
 translate magyar sm1fs_t001_68cdbf14:
 
     # sy "I mean, if you want to fuck that clown over there, her mouth is open."
-    sy "I mean, if you want to fuck that clown over there, her mouth is open."
+    sy "Úgy értem, ha azt a bohócot akarod megdugni ott, a szája nyitva van.."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:161
 translate magyar sm1fs_t001_92d17d9e:
 
     # mc "What?! I didn't say-"
-    mc "What?! I didn't say-"
+    mc "Mi!? Nem mondtam-"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:163
 translate magyar sm1fs_t001_6a17d919:
 
     # sy "But she looks like a mannequin or something, so I doubt she has any other holes you can use."
-    sy "But she looks like a mannequin or something, so I doubt she has any other holes you can use."
+    sy "De úgy néz ki, mint egy bábú vagy valami hasonló, szóval kétlem, hogy lenne más lyuka, amit használni lehetne."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:166
 translate magyar sm1fs_t001_f98c10cd:
 
     # mc "Very funny. Ten bucks, I bet you she's an actress."
-    mc "Very funny. Ten bucks, I bet you she's an actress."
+    mc "Nagyon vicces. Tíz dollárba fogadok, hogy színésznő."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:169
 translate magyar sm1fs_t001_5b8afc73:
 
     # sy "You just want to believe that for your dirty thoughts."
-    sy "You just want to believe that for your dirty thoughts."
+    sy "Csak azt akarod elhinni, hogy a mocskos gondolataid miatt."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:171
 translate magyar sm1fs_t001_7b907867:
 
     # mc "Are you serious? Look at her!"
-    mc "Are you serious? Look at her!"
+    mc "Komolyan? Nézz csak rá!"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:174
 translate magyar sm1fs_t001_e84a6374:
 
     # sy "I am looking at her. Her skin looks plastic."
-    sy "I am looking at her. Her skin looks plastic."
+    sy "Nézem. A bőre műanyag."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:176
 translate magyar sm1fs_t001_acdcc223:
 
     # mc "I'm sure that's just the makeup. Latex or something."
-    mc "I'm sure that's just the makeup. Latex or something."
+    mc "Biztos vagyok benne, hogy smink. Latex vagy valani."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:179
 translate magyar sm1fs_t001_f926ec36:
 
     # sy "She's not sweating."
-    sy "She's not sweating."
+    sy "Nem izzad."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:181
 translate magyar sm1fs_t001_b6468399:
 
     # mc "It's chilly enough in here."
-    mc "It's chilly enough in here."
+    mc "Elég hideg van itt."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:184
 translate magyar sm1fs_t001_df68b9fc:
 
     # sy "She doesn't even seem to be breathing."
-    sy "She doesn't even seem to be breathing."
+    sy "Nem látszik, hogy lélegezne."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:186
 translate magyar sm1fs_t001_a8b779a2:
 
     # mc "Look, let's just ask her."
-    mc "Look, let's just ask her."
+    mc "Nézd, csak kérdezd meg."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:189
 translate magyar sm1fs_t001_21f7d5a1:
 
     # sy "Hey, Miss Clown Lady. If you are a real person, blink once. If you are a plastic doll, blink twice."
-    sy "Hey, Miss Clown Lady. If you are a real person, blink once. If you are a plastic doll, blink twice."
+    sy "Hé, Miss bohóc hölgy.  Ha valódi ember vagy csak pislogj. Ha műanyag bábú vagy pislogj kétszer."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:191
 translate magyar sm1fs_t001_c5460b51:
 
     # mc "Did you really think that would work?"
-    mc "Did you really think that would work?"
+    mc "Gondolod, hogy ez működik?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:193
 translate magyar sm1fs_t001_25c3cca0:
 
     # sy "Her eyes didn't even twitch. I'm telling you this is a wax model or something."
-    sy "Her eyes didn't even twitch. I'm telling you this is a wax model or something."
+    sy "A szeme meg sem rezzent. Mondom, hogy ez egy viaszmodell vagy valami hasonló."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:195
 translate magyar sm1fs_t001_a087150f:
 
     # mc "So, she's a good actress."
-    mc "So, she's a good actress."
+    mc "Szóval, jó színész"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:198
 translate magyar sm1fs_t001_aa70f37e:
 
     # sy "I'll prove it to you. See her eyes?"
-    sy "I'll prove it to you. See her eyes?"
+    sy "Bebizonyítom neked. Látod a szemét?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:200
 translate magyar sm1fs_t001_bdae6313:
 
     # mc "Yeah, so."
-    mc "Yeah, so."
+    mc "Igen, szóval."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:202
 translate magyar sm1fs_t001_78df6184:
 
     # sy "Pull out your cock. If she's human her eyes will react somehow."
-    sy "Pull out your cock. If she's human her eyes will react somehow."
+    sy "Vedd elő a farkad. Ha ő ember, a szemei valamilyen módon reagálni fognak."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:204
 translate magyar sm1fs_t001_630e8e65:
 
     # mc "You must be kidding."
-    mc "You must be kidding."
+    mc "Csak viccelsz."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:215
 translate magyar sm1fs_t001_dd9f1f38:
 
     # sy "Fine, I'll do it for you."
-    sy "Fine, I'll do it for you."
+    sy "Rendben, megteszem neked."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:217
 translate magyar sm1fs_t001_3c8309b9:
 
     # sy "Mmmm. Nice and hard."
-    sy "Mmmm. Nice and hard."
+    sy "Mmmm. Szép és kemény."
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:219
 translate magyar sm1fs_t001_147afc8b:
