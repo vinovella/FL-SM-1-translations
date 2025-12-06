@@ -254,7 +254,7 @@
 
     # game/code/data/characters/characters.rpy:3
     old "Walker"
-    new "Walker"
+    new "Sétáló"
 
     # game/code/data/characters/characters.rpy:3
     old "Ridley"
