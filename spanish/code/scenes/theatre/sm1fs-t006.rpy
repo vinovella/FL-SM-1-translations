@@ -460,7 +460,6 @@ translate spanish sm1fs_t006_20bbcbd2:
     # mc "Come on, Maya. You're too cool to go sniffing around for gratitude."
     mc "Vamos, Maya. Eres demasiado genial para andar buscando agradecimientos."
 
-
 translate spanish strings:
 
     # game/code/scenes/theatre/sm1fs-t006.rpy:165
