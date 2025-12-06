@@ -50,7 +50,7 @@ translate spanish sm1cs_km005_164ac464:
 translate spanish sm1cs_km005_0fc1a486:
 
     # mc "Her?"
-    mc "¿A ella?"
+    mc "¿Evitarla?"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:59
 translate spanish sm1cs_km005_534ef34d:
@@ -68,7 +68,7 @@ translate spanish sm1cs_km005_e341676f:
 translate spanish sm1cs_km005_e4c79593:
 
     # mc "Denise asked me to tell you that she wants you and Veronica to put together a workshop for the crew to do."
-    mc "Denise me pidió que te dijera que quiere que tú y Verónica organicen un taller para la tropa."
+    mc "Denise me pidió que te dijera que quiere que tú y Verónica organicen un taller para el equipo."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:70
 translate spanish sm1cs_km005_a0d7542b:
@@ -302,7 +302,7 @@ translate spanish sm1cs_km005_af8e22ff:
 translate spanish sm1cs_km005_667f267e:
 
     # km "*nervously* Why would I ever like Veronica's photos? She's just an airhead who keeps stealing the lead roles and looks really good in jeans and a low cut-"
-    km "*nerviosamente* ¿Por qué me gustarían las fotos de Verónica? No es más que una cabeza hueca que no para de robarse los papeles protagónicos y a la que le quedan muy bien los vaqueros y el escote..."
+    km "*nerviosamente* ¿Por qué me gustarían las fotos de Verónica? No es más que una cabeza hueca que no para de robarse los papeles protagónicos y a la que le quedan muy bien los pantalones de mezclilla y el escote..."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:174
 translate spanish sm1cs_km005_97ffde2c:
@@ -374,7 +374,7 @@ translate spanish sm1cs_km005_8ceac919:
 translate spanish sm1cs_km005_a764f681:
 
     # mc "Kellie...{w} Are you into Veronica?"
-    mc "Kellie ...{w} ¿Te gusta Verónica?"
+    mc "Kellie...{w} ¿Te gusta Verónica?"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:235
 translate spanish sm1cs_km005_3da10ed3:
@@ -512,7 +512,7 @@ translate spanish sm1cs_km005_a75d9d78:
 translate spanish sm1cs_km005_85704060:
 
     # km "Besides, I know you're a manslut. Veronica already told me how you hooked up."
-    km "Además, sé que eres mujeriego. Verónica ya me contó cómo se enrollaron."
+    km "Además, sé que eres mujeriego. Verónica ya me contó cómo tuvieron relaciones."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:295
 translate spanish sm1cs_km005_794c197c:
@@ -596,7 +596,7 @@ translate spanish sm1cs_km005_126b184d:
 translate spanish sm1cs_km005_c98eebd9:
 
     # mct "Oh wow. She's going really rough at it."
-    mct "Oh, vaya. Ella va realmente dura en ello."
+    mct "Oh, vaya. Lo está haciendo con mucha fuerza."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:335
 translate spanish sm1cs_km005_dbd4fdbc:
@@ -800,7 +800,7 @@ translate spanish sm1cs_km005_215a3d88:
 translate spanish sm1cs_km005_c9401de7:
 
     # mc "*chuckles* Well it is {i}pretty{/i} hard."
-    mc "*risas* Bueno, es {i}bastante{/i} duro."
+    mc "*risas* Bueno, está {i}bastante{/i} duro."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:406
 translate spanish sm1cs_km005_580b7198:
@@ -998,13 +998,13 @@ translate spanish sm1cs_km005_f7fbdf47:
 translate spanish sm1cs_km005_bfb4b22a:
 
     # mc "Uhmmm. We haven't done one."
-    mc "Uhmmm. No hemos hecho uno."
+    mc "Uhmmm. Aún no hemos hecho eso."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:504
 translate spanish sm1cs_km005_43ed5197:
 
     # mc "To tell you the truth, I think you get the gold medal for this between you two."
-    mc "A decir verdad, creo que te llevas la medalla de oro por esto entre ustedes dos."
+    mc "A decir verdad, entre ustedes dos, creo que te llevas la medalla de oro por esto."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:507
 translate spanish sm1cs_km005_183fc4a0:
@@ -1310,7 +1310,7 @@ translate spanish sm1cs_km005_e3b8507e:
 translate spanish sm1cs_km005_88c4e3f7:
 
     # mct "Well, I certainly didn't think Kellie would change her mind about Veronica in this direction."
-    mct "Bueno, ciertamente no pensé que Kellie cambiaría de opinión sobre Verónica en esta dirección."
+    mct "Bueno, ciertamente no pensé que Kellie cambiaría de opinión sobre Verónica de esta manera."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:658
 translate spanish sm1cs_km005_156b5666:
