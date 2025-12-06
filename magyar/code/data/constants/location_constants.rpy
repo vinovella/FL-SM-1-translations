@@ -2,91 +2,91 @@
 
     # game/code/data/constants/location_constants.rpy:5
     old "Overview"
-    new "Overview"
+    new "Áttekintés"
 
     # game/code/data/constants/location_constants.rpy:6
     old "Kitchen"
-    new "Kitchen"
+    new "Konyha"
 
     # game/code/data/constants/location_constants.rpy:7
     old "Upstairs"
-    new "Upstairs"
+    new "Emelet"
 
     # game/code/data/constants/location_constants.rpy:8
     old "Outside"
-    new "Outside"
+    new "Kint"
 
     # game/code/data/constants/location_constants.rpy:9
     old "Bathroom"
-    new "Bathroom"
+    new "Fürdőszoba"
 
     # game/code/data/constants/location_constants.rpy:10
     old "Entrance"
-    new "Entrance"
+    new "Bejárat"
 
     # game/code/data/constants/location_constants.rpy:11
     old "Corridor"
-    new "Corridor"
+    new "Folyosó"
 
     # game/code/data/constants/location_constants.rpy:12
     old "Couch Area"
-    new "Couch Area"
+    new "Kanapé Terület"
 
     # game/code/data/constants/location_constants.rpy:13
     old "Counter"
-    new "Counter"
+    new "Pult"
 
     # game/code/data/constants/location_constants.rpy:17
     old "S&M Studio"
-    new "S&M Studio"
+    new "S&M Stúdió"
 
     # game/code/data/constants/location_constants.rpy:21
     old "Mattress Area"
-    new "Mattress Area"
+    new "Matrac Terület"
 
     # game/code/data/constants/location_constants.rpy:22
     old "Corner Couch"
-    new "Corner Couch"
+    new "Sarokkanapé"
 
     # game/code/data/constants/location_constants.rpy:24
     old "Bathroom Door"
-    new "Bathroom Door"
+    new "Fürdőszoba ajtó"
 
     # game/code/data/constants/location_constants.rpy:26
     old "TV Area"
-    new "TV Area"
+    new "TV Terület"
 
     # game/code/data/constants/location_constants.rpy:28
     old "Stairs"
-    new "Stairs"
+    new "Lépcső"
 
     # game/code/data/constants/location_constants.rpy:35
     old "Above Kitchen"
-    new "Above Kitchen"
+    new "A konyha felett"
 
     # game/code/data/constants/location_constants.rpy:36
     old "Upstairs Bed"
-    new "Upstairs Bed"
+    new "Emelti ágy"
 
     # game/code/data/constants/location_constants.rpy:41
     old "Nari's Room"
-    new "Nari's Room"
+    new "Nari Szobája"
 
     # game/code/data/constants/location_constants.rpy:43
     old "Taisia's Room"
-    new "Taisia's Room"
+    new "Taisia Szobája"
 
     # game/code/data/constants/location_constants.rpy:45
     old "Min's Room"
-    new "Min's Room"
+    new "Min Szobája"
 
     # game/code/data/constants/location_constants.rpy:49
     old "Wurst Delivery"
-    new "Wurst Delivery"
+    new "Wurst kiszállítás"
 
     # game/code/data/constants/location_constants.rpy:54
     old "Waiting Area"
-    new "Waiting Area"
+    new "Várakozóterem Terület"
 
     # game/code/data/constants/location_constants.rpy:60
     old "Orbix"
@@ -94,23 +94,23 @@
 
     # game/code/data/constants/location_constants.rpy:68
     old "Claire's desk"
-    new "Claire's desk"
+    new "Claire asztala"
 
     # game/code/data/constants/location_constants.rpy:70
     old "Work Desks"
-    new "Work Desks"
+    new "Munka asztalok"
 
     # game/code/data/constants/location_constants.rpy:72
     old "Your desk"
-    new "Your desk"
+    new "Az asztalod"
 
     # game/code/data/constants/location_constants.rpy:74
     old "Beanbag Area"
-    new "Beanbag Area"
+    new "Babzsák Terület"
 
     # game/code/data/constants/location_constants.rpy:77
     old "Meeting room"
-    new "Meeting room"
+    new "Tárgyaló"
 
     # game/code/data/constants/location_constants.rpy:87
     old "Theomalt Park"
@@ -118,35 +118,35 @@
 
     # game/code/data/constants/location_constants.rpy:90
     old "Fountain Area"
-    new "Fountain Area"
+    new "Szökőkúti Terület"
 
     # game/code/data/constants/location_constants.rpy:92
     old "Hotdog stall"
-    new "Hotdog stall"
+    new "Hotdog stand"
 
     # game/code/data/constants/location_constants.rpy:94
     old "Park Center"
-    new "Park Center"
+    new "Park Központ"
 
     # game/code/data/constants/location_constants.rpy:96
     old "Park Fork"
-    new "Park Fork"
+    new "Park Villa"
 
     # game/code/data/constants/location_constants.rpy:98
     old "Toilets"
-    new "Toilets"
+    new "Mosdók"
 
     # game/code/data/constants/location_constants.rpy:100
     old "Park Exit"
-    new "Park Exit"
+    new "Park Kijárat"
 
     # game/code/data/constants/location_constants.rpy:104
     old "71 Store"
-    new "71 Store"
+    new "71 Bolt"
 
     # game/code/data/constants/location_constants.rpy:107
     old "Fridges"
-    new "Fridges"
+    new "Hűtőszekrények"
 
     # game/code/data/constants/location_constants.rpy:112
     old "Photo Dojo"
@@ -154,51 +154,51 @@
 
     # game/code/data/constants/location_constants.rpy:117
     old "Shooting Area"
-    new "Shooting Area"
+    new "Fotózási Terület"
 
     # game/code/data/constants/location_constants.rpy:123
     old "Theater"
-    new "Theater"
+    new "Színház"
 
     # game/code/data/constants/location_constants.rpy:139
     old "Backstage"
-    new "Backstage"
+    new "Hátsó színpad"
 
     # game/code/data/constants/location_constants.rpy:143
     old "Stage Entrance"
-    new "Stage Entrance"
+    new "Színpad Bejárat"
 
     # game/code/data/constants/location_constants.rpy:145
     old "Stage Front"
-    new "Stage Front"
+    new "Színpad"
 
     # game/code/data/constants/location_constants.rpy:147
     old "Stage Seats"
-    new "Stage Seats"
+    new "Szípad székek"
 
     # game/code/data/constants/location_constants.rpy:149
     old "Dressing Room 1"
-    new "Dressing Room 1"
+    new "Öltöző 1"
 
     # game/code/data/constants/location_constants.rpy:151
     old "Dressing Room 2"
-    new "Dressing Room 2"
+    new "Öltöző 2"
 
     # game/code/data/constants/location_constants.rpy:153
     old "Director's Office"
-    new "Director's Office"
+    new "Rendező Iroda"
 
     # game/code/data/constants/location_constants.rpy:155
     old "Storage Room"
-    new "Storage Room"
+    new "Raktát"
 
     # game/code/data/constants/location_constants.rpy:161
     old "Showers"
-    new "Showers"
+    new "Zuhanyzó"
 
     # game/code/data/constants/location_constants.rpy:165
     old "Locker Room"
-    new "Locker Room"
+    new "Öltöző"
 
     # game/code/data/constants/location_constants.rpy:169
     old "Starducks Café"
@@ -206,15 +206,15 @@
 
     # game/code/data/constants/location_constants.rpy:173
     old "Seating Area"
-    new "Seating Area"
+    new "Vendég Terület"
 
     # game/code/data/constants/location_constants.rpy:176
     old "Toilet"
-    new "Toilet"
+    new "Mosdó"
 
     # game/code/data/constants/location_constants.rpy:180
     old "Lyssa's House"
-    new "Lyssa's House"
+    new "Lyssa Háza"
 
     # game/code/data/constants/location_constants.rpy:188
     old "Guns n' Rosette"
@@ -222,13 +222,13 @@
 
     # game/code/data/constants/location_constants.rpy:192
     old "Billiard Area"
-    new "Billiard Area"
+    new "Billiárd Terület"
 
     # game/code/data/constants/location_constants.rpy:195
     old "Bar"
-    new "Bar"
+    new "Bár"
 
     # game/code/data/constants/location_constants.rpy:197
     old "Stage Area"
-    new "Stage Area"
+    new "Színpad Terület"
 
