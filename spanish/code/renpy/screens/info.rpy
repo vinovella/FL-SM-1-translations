@@ -1,4 +1,4 @@
-﻿translate spanish strings:
+translate spanish strings:
 
     # game/code/renpy/screens/info.rpy:87
     old "[days] Days"
@@ -20,6 +20,7 @@
     old "[minutes] Minutes"
     new "[minutes] Minutos"
 
+
 translate spanish strings:
 
     # game/code/renpy/screens/info.rpy:215
@@ -32,7 +33,7 @@ translate spanish strings:
 
     # game/code/renpy/screens/info.rpy:218
     old "All characters portrayed are 18 years or older. No exceptions."
-    new "Todos los personajes representados tienen 18 años o más. Sin excepciones."
+    new "Todos los personajes representados son mayores de edad. Sin excepciones."
 
     # game/code/renpy/screens/info.rpy:219
     old "Any resemblance to real persons, living or dead, is purely coincidental."
@@ -49,4 +50,3 @@ translate spanish strings:
     # game/code/renpy/screens/info.rpy:223
     old "Enjoy!"
     new "¡Disfruta!"
-
