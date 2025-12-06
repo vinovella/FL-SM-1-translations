@@ -64,6 +64,12 @@ translate spanish sm1cs_mh003_d50e4a60:
     # sy "What are you waiting for! Tell her to come over!"
     sy "¿Qué estás esperando? ¡Dile que venga!"
 
+# game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:42
+translate spanish sm1cs_mh003_0c01668c:
+
+    # mc "All right, all right! Jees, I'm texting her right now."
+    mc "¡Está bien, está bien! Caray, le estoy enviando un mensaje en este momento."
+
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:49
 translate spanish sm1cs_mh003_152d6612:
 
@@ -104,13 +110,13 @@ translate spanish sm1cs_mh003_fa8c1842:
 translate spanish sm1cs_mh003_963c7d6f:
 
     # mc "Hey, Lyssa."
-    mc "Oye, Lyssa."
+    mc "Hola, Lyssa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:74
 translate spanish sm1cs_mh003_0bbe05d3:
 
     # mh "Hey, [mcname]."
-    mh "Oye, [mcname]."
+    mh "Hola, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:77
 translate spanish sm1cs_mh003_73f094cf:
@@ -164,7 +170,7 @@ translate spanish sm1cs_mh003_abb3e189:
 translate spanish sm1cs_mh003_f84ce8b5:
 
     # mh "Hey, Stacy. I'm doing well, and you?"
-    mh "Oye, Stacy. Estoy bien, ¿y tú?"
+    mh "Hola, Stacy. Estoy bien, ¿y tú?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:109
 translate spanish sm1cs_mh003_8282e0d8:
@@ -218,7 +224,7 @@ translate spanish sm1cs_mh003_0d6384e0:
 translate spanish sm1cs_mh003_dd57bdd7:
 
     # mh "You'll also need certified STD test results confirming everyone is clean."
-    mh "También necesitarás los resultados certificados de las pruebas de enfermedades de transmisión sexual que confirmen que todos están limpios."
+    mh "También necesitarás los resultados oficiales de las pruebas de enfermedades de transmisión sexual que confirmen que todos están limpios."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:131
 translate spanish sm1cs_mh003_9446e9f7:
@@ -296,7 +302,7 @@ translate spanish sm1cs_mh003_0d638439:
 translate spanish sm1cs_mh003_b540d7ae:
 
     # mh "This is where you and Stacy live, yes?"
-    mh "Aquí es donde viven Stacy y tú, ¿sí?"
+    mh "Aquí es donde viven Stacy y tú, ¿verdad?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:164
 translate spanish sm1cs_mh003_a87a337b:
@@ -350,7 +356,7 @@ translate spanish sm1cs_mh003_fb92232b:
 translate spanish sm1cs_mh003_2f0a17bc:
 
     # mh "If I'm totally honest, this was a fun little side project for me."
-    mh "Si soy totalmente honesto, este fue un pequeño proyecto paralelo divertido para mí."
+    mh "Si soy totalmente honesta, este fue un pequeño proyecto paralelo divertido para mí."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:188
 translate spanish sm1cs_mh003_513b2c85:
@@ -500,7 +506,7 @@ translate spanish sm1cs_mh003_romance_0b3a1cf1:
 translate spanish sm1cs_mh003_romance_765b7da4:
 
     # mh "A little bit more blunt than I'd put it, but yes."
-    mh "Un poco más contundente de lo que lo pondría, pero sí."
+    mh "Un poco más directo de lo que yo diría, pero sí."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:268
 translate spanish sm1cs_mh003_romance_92ef6a2b:
@@ -573,6 +579,12 @@ translate spanish sm1cs_mh003_romance_b8117695:
 
     # mh "I want you to show me that you mean it. That you {i}want{/i} a relationship with me."
     mh "Quiero que me muestres que lo dices en serio. Que {i}quieres{/i} una relación conmigo."
+
+# game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:299
+translate spanish sm1cs_mh003_romance_8a39a9ac:
+
+    # mc "Of course! Yes! Absolutely"
+    mc "¡Por supuesto! ¡Sí! Absolutamente."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:302
 translate spanish sm1cs_mh003_romance_01d609a0:
@@ -722,7 +734,7 @@ translate spanish sm1cs_mh003_stacy_2fc1ab8c:
 translate spanish sm1cs_mh003_stacy_ab461c95:
 
     # sy "Shut up!"
-    sy "¡Cállate la boca!"
+    sy "¡Cállate!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:389
 translate spanish sm1cs_mh003_stacy_5317bf79:
