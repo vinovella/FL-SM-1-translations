@@ -92,7 +92,7 @@ translate spanish q_inter_nr_12_dbc9ee1a:
 translate spanish q_inter_nr_12_774affbe:
 
     # mc "I think most people say that about coffee, not hot dogs."
-    mc "Creo que la mayoría de la gente dice eso sobre el café, no con las salchichas."
+    mc "Creo que la mayoría de la gente dice eso sobre el café, no sobre los perros calientes."
 
 # game/code/data/quick_interactions/wurst_delivery/q-inter-nr.rpy:108
 translate spanish q_inter_nr_12_6457fe28:
@@ -195,4 +195,5 @@ translate spanish q_inter_nr_10_6f8406ed:
 
     # nr "Let it rip, kid! Get out there and show those wieners who's boss."
     nr "¡Dale con todo, chico! Sal ahí fuera y muéstrales a esas salchichas quién manda."
+
 
