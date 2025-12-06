@@ -80,7 +80,7 @@ translate spanish sm1cs_dc007_d699aafb:
 translate spanish sm1cs_dc007_16846e23:
 
     # mc "Of course, Debbie."
-    mc "Por supuesto, Debbie."
+    mc "De nada, Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:88
 translate spanish sm1cs_dc007_cb9d40fc:
@@ -110,7 +110,7 @@ translate spanish sm1cs_dc007_cabfe659:
 translate spanish sm1cs_dc007_8a3b0178:
 
     # dc "At this point, I should be giving you a badge for how much you've helped me out."
-    dc "A estas alturas, debería darte una insignia por lo mucho que me has ayudado."
+    dc "A esta altura, debería darte una insignia por lo mucho que me has ayudado."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:103
 translate spanish sm1cs_dc007_2ac88952:
@@ -152,7 +152,7 @@ translate spanish sm1cs_dc007_1eb21d63:
 translate spanish sm1cs_dc007_a6a53692:
 
     # dc "Seriously, that was amazing."
-    dc "En serio, eso fue increíble."
+    dc "En serio, eso fue asombroso."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:119
 translate spanish sm1cs_dc007_da6651f4:
@@ -242,7 +242,7 @@ translate spanish sm1cs_dc007_1e03e2fb:
 translate spanish sm1cs_dc007_f95ca4b4:
 
     # mc "So, Officer Callahan, was that your creeper in the park?"
-    mc "Así que, Oficial Callahan, ¿era ese su bicho raro en el parque?"
+    mc "Entonces, Oficial Callahan, ¿era ese su bicho raro en el parque?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:193
 translate spanish sm1cs_dc007_bb79a49b:
@@ -344,7 +344,7 @@ translate spanish sm1cs_dc007_continue_707f72e3:
 translate spanish sm1cs_dc007_continue_9a1f2614:
 
     # mc "Oh, you know, saving the world, one accidental hero moment at a time."
-    mc "Oh, ya sabes, salvar al mundo, un momento de héroe accidental a la vez."
+    mc "Oh, ya sabes, salvando el mundo, un acto heroico accidental tras otro."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:254
 translate spanish sm1cs_dc007_continue_d94acaa8:
@@ -356,7 +356,7 @@ translate spanish sm1cs_dc007_continue_d94acaa8:
 translate spanish sm1cs_dc007_continue_6e3c10b6:
 
     # mc "Okay.{w} Erm, I'm working on starting a film studio with a friend of mine."
-    mc "De acuerdo.{w} Erm, estoy trabajando en comenzar un estudio de cine con una amiga mía."
+    mc "Está bien.{w} Erm, estoy trabajando en comenzar un estudio de cine con una amiga mía."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:258
 translate spanish sm1cs_dc007_continue_d423cdd3:
@@ -494,7 +494,7 @@ translate spanish sm1cs_dc007_continue_84fde73a:
 translate spanish sm1cs_dc007_continue_6cc4a5b8:
 
     # mc "Some of them, but we work with a lot of \"non-professional\" actors. You know, regular people like you!"
-    mc "Algunos de ellos, pero trabajamos con muchos actores \"no profesionales\". ¡Sabes, gente normal como tú!"
+    mc "Algunos de ellos son del teatro, pero trabajamos con muchos actores \"no profesionales\". ¡Sabes, gente normal como tú!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:329
 translate spanish sm1cs_dc007_continue_848fe899:
@@ -758,7 +758,7 @@ translate spanish sm1cs_dc007_continue_065ab54d:
 translate spanish sm1cs_dc007_continue_442fe68d:
 
     # mc "And I promise you, the next time we talk, we're going to go on a {i}real{/i} date."
-    mc "Y te prometo, la próxima vez que hablemos, vamos a ir a una cita {i}de verdad{/i}."
+    mc "Y te lo prometo, la próxima vez que hablemos, vamos a ir a una cita {i}de verdad{/i}."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:447
 translate spanish sm1cs_dc007_continue_aa453b58:
@@ -788,7 +788,7 @@ translate spanish strings:
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:217
     old "Plus, you're pretty hot"
-    new "Además, estás bastante sexy"
+    new "Además, eres bastante sexy"
 
     # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:217
     old "Plus, I think you're pretty cute"
