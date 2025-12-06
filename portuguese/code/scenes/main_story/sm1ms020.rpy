@@ -254,7 +254,7 @@ translate portuguese sm1ms020_9a2324a6:
 translate portuguese sm1ms020_6278d0c6:
 
     # "Bartender" "What can I get you?"
-    "Barman" "O que gostariam?"
+    "Bartender" "O que gostariam?"
 
 # game/code/scenes/main_story/sm1ms020.rpy:153
 translate portuguese sm1ms020_19780611:
@@ -278,7 +278,7 @@ translate portuguese sm1ms020_deea79cc:
 translate portuguese sm1ms020_95a3bb15:
 
     # "Bartender" "Coming right up."
-    "Barman" "É pra já."
+    "Bartender" "É pra já."
 
 # game/code/scenes/main_story/sm1ms020.rpy:166
 translate portuguese sm1ms020_0ca1377f:
@@ -1306,5 +1306,5 @@ translate portuguese sm1ms020_ef441d96:
 translate portuguese sm1ms020_5f7987cf:
 
     # mc "Well... why did you use to live in Crowning?"
-    mc "Bem... por que você morava em Crowning?"
+    mc "Bom... por que você morava em Crowning?"
 
