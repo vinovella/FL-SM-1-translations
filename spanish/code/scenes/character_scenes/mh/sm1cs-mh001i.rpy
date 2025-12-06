@@ -26,7 +26,7 @@ translate spanish sm1cs_mh001i_d33ae266:
 translate spanish sm1cs_mh001i_fb49e021:
 
     # sy "Right."
-    sy "Bien."
+    sy "Cierto."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh001i.rpy:16
 translate spanish sm1cs_mh001i_d00d4ba2:
