@@ -1,4 +1,4 @@
-﻿# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:7
+# game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:7
 translate spanish sm1cs_dc009_84160d7c:
 
     # mct "I wonder if Debbie caught that bike thief..."
@@ -356,7 +356,7 @@ translate spanish sm1cs_dc009_a6fa27dc:
 translate spanish sm1cs_dc009_5a2d1bce:
 
     # mc "I knew where to get the best hot dog in all of Crowning?"
-    mc "Que sabía dónde conseguir el mejor hot dog de todo Crowning?"
+    mc "Que sabía dónde conseguir el mejor perro caliente de todo Crowning?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:135
 translate spanish sm1cs_dc009_29a55d85:
@@ -374,19 +374,19 @@ translate spanish sm1cs_dc009_981295b1:
 translate spanish sm1cs_dc009_69d642f4:
 
     # dc "I'm just busting your chops, [mcname]! A hot dog sounds lovely!"
-    dc "¡Solo estoy bromeando, [mcname]! ¡Un hot dog suena encantador!"
+    dc "¡Solo estoy bromeando, [mcname]! ¡Un perro caliente suena encantador!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:142
 translate spanish sm1cs_dc009_8aa3e427:
 
     # mc "Then two hot dogs, coming right up!"
-    mc "¡Entonces dos hot dogs, saliendo ahora mismo!"
+    mc "¡Entonces dos perros calientes, saliendo ahora mismo!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:145
 translate spanish sm1cs_dc009_65cb469b:
 
     # dc "I've walked past this cart so many times, and I've always wondered what their hot dogs were like."
-    dc "He pasado caminando junto a este carrito tantas veces, y siempre me pregunté cómo serían sus hot dogs."
+    dc "He pasado caminando junto a este carrito tantas veces, y siempre me pregunté cómo serían sus perros calientes."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:147
 translate spanish sm1cs_dc009_8637c0f1:
@@ -458,7 +458,7 @@ translate spanish sm1cs_dc009_6d852f50:
 translate spanish sm1cs_dc009_00afdad0:
 
     # mct "Man, the way Debbie can handle that hot dog..."
-    mct "Vaya, la forma en que Debbie maneja ese hot dog..."
+    mct "Vaya, la forma en que Debbie maneja ese perro caliente..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:176
 translate spanish sm1cs_dc009_52ff6b16:
@@ -494,7 +494,7 @@ translate spanish sm1cs_dc009_610aac26:
 translate spanish sm1cs_dc009_b519d715:
 
     # mc "When I was planning this date, I only ever got as far as getting hot dogs."
-    mc "Cuando estaba planeando esta cita, solo llegué hasta la parte de conseguir los hot dogs."
+    mc "Cuando estaba planeando esta cita, solo llegué hasta la parte de conseguir los perros calientes."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:191
 translate spanish sm1cs_dc009_bcdc6231:
