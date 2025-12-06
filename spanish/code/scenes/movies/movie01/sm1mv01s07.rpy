@@ -236,5 +236,5 @@ translate spanish sm1mv01s07_c5fb4c04:
 translate spanish sm1mv01s07_37330fe8:
 
     # sy "Yup. What better way to put it behind us than to have a little fun in the sun."
-    sy "Yup. What better way to put it behind us than to have a little fun in the sun."
+    sy "Sip. Qué mejor manera de dejarlo atrás que divertirnos un poco bajo el sol."
 

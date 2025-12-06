@@ -2006,5 +2006,5 @@ translate spanish sm1mv01s02_later_7f06eb4b:
 translate spanish sm1mv01s02_later_e9f87a8a:
 
     # mc "Just a minute?"
-    mc "Just a minute?"
+    mc "¿Solo un minuto?"
 

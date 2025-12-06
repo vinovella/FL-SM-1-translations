@@ -974,5 +974,5 @@ translate spanish sm1cs_sy003_end_e277e827:
 translate spanish sm1cs_sy003_sex_45437f42:
 
     # sy "I said. 'While you fuck-oouhwaaah!'"
-    sy "I said. 'While you fuck-oouhwaaah!'"
+    sy "Dije. '¡Mientras me foll-oouhwaaah!'"
 

@@ -878,5 +878,5 @@ translate spanish sm1ms025_01a929b4:
 translate spanish sm1ms025_d303d504:
 
     # sy "They even asked for more fetishes."
-    sy "They even asked for more fetishes."
+    sy "Incluso pidieron más fetiches."
 
