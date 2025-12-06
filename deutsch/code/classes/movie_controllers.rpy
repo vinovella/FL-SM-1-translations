@@ -50,7 +50,7 @@
 
     # game/code/classes/movie_controllers.rpy:45
     old "Set Budget"
-    new "Budget festlegen"
+    new "Budget fest."
 
     # game/code/classes/movie_controllers.rpy:45
     old "Set Design"

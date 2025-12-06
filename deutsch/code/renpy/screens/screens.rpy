@@ -466,7 +466,7 @@
 
     # game/code/renpy/screens/screens.rpy:444
     old "Saves For Season 2"
-    new "Speicherstände für Season 2"
+    new "Speicherstände Season 2"
 
     # game/code/renpy/screens/screens.rpy:1107
     old "MUSIC LISENCES & SOURCES"

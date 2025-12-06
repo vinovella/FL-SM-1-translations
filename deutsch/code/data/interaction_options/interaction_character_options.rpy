@@ -190,7 +190,7 @@
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask Debbie out again"
-    new "Frage Debbie noch einmal, ob sie mit dir ausgehen möchte"
+    new "Frag Debbie nochmal, ob sie mit dir ausgehen will"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about Min"
@@ -352,8 +352,6 @@
     old "I finished editing!"
     new "Ich bin mit der Bearbeitung fertig!"
 
-translate deutsch strings:
-
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Choose the movie you want to film"
     new "Wähle den Film aus, den du drehen möchtest"
@@ -426,19 +424,13 @@ translate deutsch strings:
     old "Done editing the Sci-Fi Movie"
     new "Bearbeitung des Science-Fiction-Films abgeschlossen"
 
-translate deutsch strings:
-
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk with Stacy about her job search"
     new "Sprich mit Stacy über ihre Jobsuche"
 
-translate deutsch strings:
-
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Let's go to the Amusement Park"
     new "Lass uns in den Vergnügungspark gehen"
-
-translate deutsch strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Prepare for the party"
@@ -478,7 +470,7 @@ translate deutsch strings:
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Ask Debbie to the movies"
-    new "Frage Debbie, ob sie mit dir ins Kino gehen möchte"
+    new "Frag Debbie, ob sie mit dir ins Kino will"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Have some fun in the toilet"

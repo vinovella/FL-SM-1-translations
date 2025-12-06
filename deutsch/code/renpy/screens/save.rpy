@@ -6,7 +6,7 @@
 
     # game/code/renpy/screens/save.rpy:20
     old "Congratulations! You completed all storylines!"
-    new "Glückwunsch! Du hast alle Handlungsstränge abgeschlossen!"
+    new "Glückwunsch! Alle Handlungsstränge abgeschlossen!"
 
     # game/code/renpy/screens/save.rpy:22
     old "Here is your progress so far!"
@@ -14,7 +14,7 @@
 
     # game/code/renpy/screens/save.rpy:24
     old "Congratulations! You completed the main story!"
-    new "Glückwunsch! Du hast die Hauptgeschichte abgeschlossen!"
+    new "Glückwunsch! Die Hauptgeschichte abgeschlossen!"
 
     # game/code/renpy/screens/save.rpy:122
     old "Save your progress for S&M Studio Season 2!"
@@ -26,11 +26,11 @@
 
     # game/code/renpy/screens/save.rpy:184
     old "Saves For Season [season]"
-    new "Speicherstände für Season [season]"
+    new "Speicherstände Season [season]"
 
     # game/code/renpy/screens/save.rpy:184
     old "Saves From Season [season]"
-    new "Speicherstände von Season [season]"
+    new "Speicherstände Season [season]"
 
     # game/code/renpy/screens/save.rpy:113
     old "You completed 100% of the game!"

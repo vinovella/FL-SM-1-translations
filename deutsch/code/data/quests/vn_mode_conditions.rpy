@@ -4,8 +4,6 @@
     old "Progress Main Story first"
     new "Fortschritt bei Hauptgeschichte zuerst"
 
-translate deutsch strings:
-
     # game/code/data/quests/vn_mode_conditions.rpy:12
     old "Progress Nari and Min or Lyssa's storyline first"
     new "Fortschritt bei Nari und Min oder Lyssa's Handlung zuerst"

@@ -10,9 +10,9 @@
 
     # game/code/renpy/screens/movie_progress.rpy:66
     old "Actress Budget"
-    new "Budget für Schauspielerinnen"
+    new "Schausp.-Budget"
 
     # game/code/renpy/screens/movie_progress.rpy:103
     old "Editing Work"
-    new "Bearbeitungsarbeit"
+    new "Schnitt"
 

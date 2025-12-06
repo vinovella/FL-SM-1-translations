@@ -608,8 +608,6 @@
     old "Renovation help from Debbie"
     new "Renovierungshilfe von Debbie"
 
-translate deutsch strings:
-
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about the movie options"
     new "Über die Filmoptionen sprechen"
@@ -698,8 +696,6 @@ translate deutsch strings:
     old "Watch the final cut"
     new "Den endgültigen Schnitt ansehen"
 
-translate deutsch strings:
-
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Meet an old friend"
     new "Einen alten Freund treffen"
@@ -707,8 +703,6 @@ translate deutsch strings:
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Surprise Nari at night"
     new "Überrasche Nari nachts"
-
-translate deutsch strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Progress Denise's, Kellie's, and Veronica's storylines"
@@ -730,8 +724,6 @@ translate deutsch strings:
     old "Progress Denise's, Kellie's, Taisia's, and Veronica's storylines"
     new "Fortschritt bei den Handlungssträngen von Denise, Kellie, Taisia und Veronica"
 
-translate deutsch strings:
-
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk big business"
     new "Sprich über große Geschäfte"
@@ -750,7 +742,7 @@ translate deutsch strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Text AmRose for a meetup"
-    new "Schreib AmRose eine Nachricht, um ein Treffen zu vereinbaren"
+    new "Schreibe AmRose wegen Treffen"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Answer AmRose's message"

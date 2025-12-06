@@ -10,7 +10,7 @@
 
     # game/code/renpy/screens/money_statement.rpy:72
     old "HIDE"
-    new "VERSTECKEN"
+    new "VERST."
 
     # game/code/renpy/screens/money_statement.rpy:78
     old "SKIP ALL"
