@@ -1,4 +1,4 @@
-﻿# game/code/scenes/movies/movie01/sm1mv01s02.rpy:46
+# game/code/scenes/movies/movie01/sm1mv01s02.rpy:46
 translate spanish sm1mv01s02_bea959ae:
 
     # sy "They have to have pirate clothes somewhere."
@@ -500,7 +500,7 @@ translate spanish sm1mv01s02_c38e581b:
 translate spanish sm1mv01s02_ec4c9d50:
 
     # mc "I'm been slinging hot dogs and brats for plenty of nights."
-    mc "He estado vendiendo hot dogs y salchichas durante muchas noches."
+    mc "He estado vendiendo perros calientes y salchichas durante muchas noches."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:266
 translate spanish sm1mv01s02_2bd512c1:
