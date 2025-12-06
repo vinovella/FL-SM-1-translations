@@ -686,7 +686,7 @@ translate deutsch sm1mv01s02_later_0f5095cc:
 translate deutsch sm1mv01s02_later_3c65f722:
 
     # "CRASH"
-    "CRASH"
+    "KRACH"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:379
 translate deutsch sm1mv01s02_later_2d61b5a8:
@@ -2006,5 +2006,5 @@ translate deutsch sm1mv01s02_later_1e8e7e72:
 translate deutsch sm1mv01s02_later_e9f87a8a:
 
     # mc "Just a minute?"
-    mc "Just a minute?"
+    mc "Nur eine Minute?"
 

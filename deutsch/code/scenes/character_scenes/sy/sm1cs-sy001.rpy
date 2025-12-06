@@ -762,5 +762,5 @@ translate deutsch sm1cs_sy001_watersports_962bd759:
 translate deutsch sm1cs_sy001_shower_sex_1512c8ff:
 
     # sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
-    sy "- All of that hard work has been worth it. Because - nnnnng - I can feel your dick so deep in me right now!"
+    sy "- Die ganze harte Arbeit hat sich gelohnt. Denn - nnnnng - ich kann deinen Schwanz gerade so tief in mir spüren!"
 

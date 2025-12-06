@@ -4712,7 +4712,7 @@ translate deutsch sm1ms029_party_sy_finale_c54ad9c5:
 translate deutsch sm1ms029_party_sy_finale_c0c223fa:
 
     # "Man" "Bugs."
-    "Mann" "Bugs."
+    "Mann" "Käfer."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1828
 translate deutsch sm1ms029_party_arj_254336d8:
@@ -6786,83 +6786,83 @@ translate deutsch sm1ms029_confrontation_c8157585:
 translate deutsch sm1ms029_63adc03a:
 
     # arj "How could I resist the inaugural S&M Studio party?"
-    arj "How could I resist the inaugural S&M Studio party?"
+    arj "Wie hätte ich der Eröffnungsparty des S&M Studios widerstehen können?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1185
 translate deutsch sm1ms029_talk_mes_ns_03101e46:
 
     # mc "She does need a supervisor."
-    mc "She does need a supervisor."
+    mc "Sie braucht wirklich eine Aufsicht."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1420
 translate deutsch sm1ms029_talk_kv_hr_arj_4e02a384:
 
     # mc "She's a worrywart."
-    mc "She's a worrywart."
+    mc "Sie ist ein Angsthase."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1523
 translate deutsch sm1ms029_party_part_1_ece8a1eb:
 
     # sy "Noooo, just a little more!"
-    sy "Noooo, just a little more!"
+    sy "Neeeein, nur noch ein bisschen!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2090
 translate deutsch sm1ms029_part_1_my_appear_46a079f3:
 
     # arj "That's right, I know all your fantasies, you little perv."
-    arj "That's right, I know all your fantasies, you little perv."
+    arj "Genau, ich kenne all deine Fantasien, du kleiner Perversling."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2273
 translate deutsch sm1ms029_part_1_my_appear_7387fd43:
 
     # my "All right. Well, if you see her, tell her to call me, okay?"
-    my "All right. Well, if you see her, tell her to call me, okay?"
+    my "In Ordnung. Nun, wenn du sie siehst, sag ihr, sie soll mich anrufen, okay?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2403
 translate deutsch sm1ms029_party_sy_94f70313:
 
     # sy "Your sister has the best ass in Crowning!"
-    sy "Your sister has the best ass in Crowning!"
+    sy "Deine Schwester hat den besten Arsch in Crowning!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2994
 translate deutsch sm1ms029_party_arj_b51ba273:
 
     # arj "*happy slurping noise*"
-    arj "*happy slurping noise*"
+    arj "*fröhliches Schlürfgeräusch*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3510
 translate deutsch sm1ms029_confrontation_d6d4f3c8:
 
     # et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
-    et "When I found out that it was just a brother and sister running things without any formal business education, I had to admit."
+    et "Als ich erfuhr, dass nur ein Bruder und eine Schwester den Laden ohne formale betriebswirtschaftliche Ausbildung führen, musste ich zugeben."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3559
 translate deutsch sm1ms029_confrontation_c26dec61:
 
     # sy "You heard [mcname]. The answer is no, Foxmorr."
-    sy "You heard [mcname]. The answer is no, Foxmorr."
+    sy "Du hast [mcname] gehört. Die Antwort ist nein, Foxmorr."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3619
 translate deutsch sm1ms029_confrontation_daf0d17d:
 
     # et "Still... as you said... This place-"
-    et "Still... as you said... This place-"
+    et "Trotzdem... wie du gesagt hast... Dieser Ort-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3651
 translate deutsch sm1ms029_confrontation_56911771:
 
     # sy "*indiscernible words*"
-    sy "*indiscernible words*"
+    sy "*unverständliche Worte*"
 
 # game/code/scenes/main_story/sm1ms029.rpy:3702
 translate deutsch sm1ms029_confrontation_49405f37:
 
     # sy "I think he's just afraid of a little competition."
-    sy "I think he's just afraid of a little competition."
+    sy "Ich glaube, er hat nur Angst vor ein bisschen Konkurrenz."
 
 # game/code/scenes/main_story/sm1ms029.rpy:3955
 translate deutsch sm1ms029_party_end_254d93ee:
 
     # mc "For sleepovers. Come on."
-    mc "For sleepovers. Come on."
+    mc "Für Übernachtungen. Komm schon."
 

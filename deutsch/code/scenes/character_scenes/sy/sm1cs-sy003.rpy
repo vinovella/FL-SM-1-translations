@@ -974,5 +974,5 @@ translate deutsch sm1cs_sy003_end_e277e827:
 translate deutsch sm1cs_sy003_sex_45437f42:
 
     # sy "I said. 'While you fuck-oouhwaaah!'"
-    sy "I said. 'While you fuck-oouhwaaah!'"
+    sy "Ich sagte. 'Während du fick-oouhwaaah!'"
 

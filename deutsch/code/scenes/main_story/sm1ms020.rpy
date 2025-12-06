@@ -1306,5 +1306,5 @@ translate deutsch sm1ms020_ef441d96:
 translate deutsch sm1ms020_5f7987cf:
 
     # mc "Well... why did you use to live in Crowning?"
-    mc "Well... why did you use to live in Crowning?"
+    mc "Nun... warum hast du früher in Crowning gelebt?"
 
