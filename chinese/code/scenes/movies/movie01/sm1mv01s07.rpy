@@ -236,5 +236,5 @@ translate chinese sm1mv01s07_c5fb4c04:
 translate chinese sm1mv01s07_37330fe8:
 
     # sy "Yup. What better way to put it behind us than to have a little fun in the sun."
-    sy "Yup. What better way to put it behind us than to have a little fun in the sun."
+    sy "是啊。有什么比在阳光下玩乐更能让我们把烦恼抛在脑后呢。"
 

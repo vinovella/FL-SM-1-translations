@@ -1676,29 +1676,29 @@ translate chinese sm1ms022_94f3e8f9:
 translate chinese sm1ms022_b335c61c:
 
     # sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
-    sy "My tight little ass is just gobbling up this cucumber! Ooooooo!"
+    sy "我紧致的小屁眼正在吞噬这根黄瓜！噢噢噢噢噢！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:579
 translate chinese sm1ms022_67e01765:
 
     # sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
-    sy "Grab my hair so you have some of that leverage while you're fucking my asshole."
+    sy "抓住我的头发，这样你干我屁眼的时候能使上劲。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:619
 translate chinese sm1ms022_361d8f7f:
 
     # sy "Oh get that dick deep inside my dirty little hoooole."
-    sy "Oh get that dick deep inside my dirty little hoooole."
+    sy "哦把那根鸡巴插进我脏兮兮的小洞深处啊啊啊。"
 
 # game/code/scenes/main_story/sm1ms022.rpy:645
 translate chinese sm1ms022_b257719d:
 
     # sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
-    sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
+    sy "我要--去--了--，农场工乔恩啊啊啊！哦天哪天哪天哪--操，我从屁股高潮了啊啊啊！"
 
 # game/code/scenes/main_story/sm1ms022.rpy:862
 translate chinese sm1ms022_0a2335a3:
 
     # kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
-    kv "Short version, it's the space between the lens and the sensor. Sometimes dirt or whatever gets in there."
+    kv "简单来说，就是镜头和传感器之间的空隙。有时候灰尘什么的会跑进去。"
 
