@@ -1226,7 +1226,7 @@ translate portuguese sm1cs_sy002_dc_talk_074ea2e5:
 translate portuguese sm1cs_sy002_77589fcc:
 
     # mc "It sounds like you've been planning this idea out for a while, Stacy."
-    mc "Parece que você já tem bolado essa ideia faz um tempo, Stacy."
+    mc "Parece que você já tem pensado nessa ideia faz um tempo, Stacy."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:267
 translate portuguese sm1cs_sy002_2_221a6943:
@@ -1244,11 +1244,11 @@ translate portuguese sm1cs_sy002_dc_talk_4558d886:
 translate portuguese sm1cs_sy002_2_7cac9fc4:
 
     # mc "Yeah, it is. Hopefully we won't be interrupted this time!"
-    mc "Sim, é. Espero que não sejamos interrompidos dessa vez!"
+    mc "É mesmo. Espero que não atrapalhem a gente dessa vez!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:324
 translate portuguese sm1cs_sy002_2_1ff49b1d:
 
     # sy "Oh yessss, Agent [mcname]! Oh that feels sooooo goood!"
-    sy "Oh siiiim, Agente [mcname]! Ah, isso é tãooo gostoooso!"
+    sy "Aaih, isso, Agente [mcname]! Hmm, que gostoooso!"
 
