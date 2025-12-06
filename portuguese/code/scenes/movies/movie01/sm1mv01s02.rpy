@@ -2006,5 +2006,5 @@ translate portuguese sm1mv01s02_later_1e8e7e72:
 translate portuguese sm1mv01s02_later_e9f87a8a:
 
     # mc "Just a minute?"
-    mc "Só um minutinho?"
+    mc "Só um momento?"
 
