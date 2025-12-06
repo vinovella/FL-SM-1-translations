@@ -20,9 +20,6 @@ translate spanish strings:
     old "[minutes] Minutes"
     new "[minutes] Minutos"
 
-
-translate spanish strings:
-
     # game/code/renpy/screens/info.rpy:215
     old "Content Advisory!"
     new "¡Aviso de contenido!"
@@ -50,3 +47,4 @@ translate spanish strings:
     # game/code/renpy/screens/info.rpy:223
     old "Enjoy!"
     new "¡Disfruta!"
+
