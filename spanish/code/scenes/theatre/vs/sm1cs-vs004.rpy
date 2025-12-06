@@ -2,7 +2,7 @@
 translate spanish sm1cs_vs004_1d016970:
 
     # vs "Hey, hot stuff."
-    vs "Hola, cosa caliente."
+    vs "Hola, cosa sexy."
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:18
 translate spanish sm1cs_vs004_798bf993:
@@ -206,7 +206,7 @@ translate spanish sm1cs_vs004_5501de18:
 translate spanish sm1cs_vs004_2b68a61b:
 
     # vs "Well, yeah. Duh-doy."
-    vs "Bueno, sí. Duh-doy."
+    vs "Bueno, sí. Pues claro."
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:123
 translate spanish sm1cs_vs004_b79e2f14:
@@ -278,7 +278,7 @@ translate spanish sm1cs_vs004_second_choice_dac4a48a:
 translate spanish sm1cs_vs004_second_choice_27a2e603:
 
     # mc "Either way, I don't think Kellie is all worked up about you and me doing naked twister."
-    mc "De cualquier forma, no creo que Kellie esté tan molesta porque tú y yo hagamos twister desnudos."
+    mc "De cualquier forma, no creo que Kellie esté tan molesta porque tú y yo juguemos al twister desnudos."
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:172
 translate spanish sm1cs_vs004_after_choice_e87c7ce1:
@@ -596,7 +596,7 @@ translate spanish sm1cs_vs004_after_choice_6e5eebc0:
 translate spanish sm1cs_vs004_after_choice_78e7708e:
 
     # vs "Good thinking, [mcname]. You really are sharp."
-    vs "Bien pensado, [mcname]. Realmente eres agudo."
+    vs "Bien pensado, [mcname]. Realmente eres inteligente."
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:298
 translate spanish sm1cs_vs004_after_choice_d0ee9e95:
@@ -656,7 +656,7 @@ translate spanish sm1cs_vs004_after_choice_ff6fd84a:
 translate spanish sm1cs_vs004_after_choice_c14c4f68:
 
     # vs "You're a great guy, [mcname]."
-    vs "Eres un gran tipo, [mcname]."
+    vs "Eres un gran chico, [mcname]."
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:332
 translate spanish sm1cs_vs004_after_choice_46d9270f:
@@ -680,7 +680,7 @@ translate spanish sm1cs_vs004_after_choice_ebafc16b:
 translate spanish sm1cs_vs004_after_choice_7fee8ef0:
 
     # vs "When my phone does go off, I'll figure out something really special for us to do."
-    vs "Cuando mi teléfono se apague, pensaré algo muy especial para que hagamos."
+    vs "Cuando mi teléfono suene, pensaré algo muy especial para que hagamos."
 
 # game/code/scenes/theatre/vs/sm1cs-vs004.rpy:346
 translate spanish sm1cs_vs004_after_choice_91ac882a:
