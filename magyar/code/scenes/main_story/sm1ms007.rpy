@@ -2,7 +2,7 @@
 translate magyar sm1ms007_20a87680:
 
     # sy "Isn't this the life?"
-    sy "Isn't this the life?"
+    sy "Hát nem ilyen az élet?"
 
 # game/code/scenes/main_story/sm1ms007.rpy:24
 translate magyar sm1ms007_05500ff6:
@@ -14,301 +14,301 @@ translate magyar sm1ms007_05500ff6:
 translate magyar sm1ms007_12b9a5d9:
 
     # sy "We're doing something we love, and it gives us the freedom just to run out and have lunch whenever we want."
-    sy "We're doing something we love, and it gives us the freedom just to run out and have lunch whenever we want."
+    sy "Azt csináljuk, amit szeretünk, és ez azt a szabadságot adja nekünk, hogy bármikor kimehetünk ebédelni, amikor csak akarunk."
 
 # game/code/scenes/main_story/sm1ms007.rpy:28
 translate magyar sm1ms007_ffd709a6:
 
     # mc "*chuckles* You're right. A lot of other people don't have it so easy."
-    mc "*chuckles* You're right. A lot of other people don't have it so easy."
+    mc "*kuncog* Igazad van. Sok más embernek nem ilyen könnyű."
 
 # game/code/scenes/main_story/sm1ms007.rpy:32
 translate magyar sm1ms007_aa80d863:
 
     # sy "We don't have it easy either, bro."
-    sy "We don't have it easy either, bro."
+    sy "Nekünk sem könnyű, haver."
 
 # game/code/scenes/main_story/sm1ms007.rpy:33
 translate magyar sm1ms007_9a52b6a4:
 
     # sy "We've been working our butts off since we started this.."
-    sy "We've been working our butts off since we started this.."
+    sy "A kezdetek óta keményen dolgozunk..."
 
 # game/code/scenes/main_story/sm1ms007.rpy:35
 translate magyar sm1ms007_3062a819:
 
     # sy "We don't have it easy either, [mcname]."
-    sy "We don't have it easy either, [mcname]."
+    sy "Nekünk sem könnyű, [mcname]."
 
 # game/code/scenes/main_story/sm1ms007.rpy:36
 translate magyar sm1ms007_c8aaf61f:
 
     # sy "As your best friend, I can say that we have both been working our butts off since we started this."
-    sy "As your best friend, I can say that we have both been working our butts off since we started this."
+    sy "Mint a legjobb barátod, elmondhatom, hogy mindketten keményen dolgoztunk, mióta elkezdtük ezt."
 
 # game/code/scenes/main_story/sm1ms007.rpy:42
 translate magyar sm1ms007_2abcf3a5:
 
     # mc "You're right. And all that hard work deserves a nice lunch."
-    mc "You're right. And all that hard work deserves a nice lunch."
+    mc "Igazad van. És ez a kemény munka megérdemel egy finom ebédet."
 
 # game/code/scenes/main_story/sm1ms007.rpy:45
 translate magyar sm1ms007_6d8543de:
 
     # sy "Yes, it does!"
-    sy "Yes, it does!"
+    sy "Igen, valóban!"
 
 # game/code/scenes/main_story/sm1ms007.rpy:50
 translate magyar sm1ms007_433170a1:
 
     # mc "We've been blessed, Stacy. You have to see that."
-    mc "We've been blessed, Stacy. You have to see that."
+    mc "Szerencsések vagyunk, Stacy. Ezt be kell látnod."
 
 # game/code/scenes/main_story/sm1ms007.rpy:51
 translate magyar sm1ms007_24f285e3:
 
     # mc "I've talked to some people in the city, and they would kill to be in our shoes."
-    mc "I've talked to some people in the city, and they would kill to be in our shoes."
+    mc "Beszéltem pár emberrel a városban, és megölnének, hogy a mi helyünkben lehessenek."
 
 # game/code/scenes/main_story/sm1ms007.rpy:54
 translate magyar sm1ms007_d3ef9bb0:
 
     # sy "No one better even look at my shoes."
-    sy "No one better even look at my shoes."
+    sy "Senki ne merjen csak ránézni a cipőmre."
 
 # game/code/scenes/main_story/sm1ms007.rpy:57
 translate magyar sm1ms007_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Mi?"
 
 # game/code/scenes/main_story/sm1ms007.rpy:61
 translate magyar sm1ms007_e9d3a509:
 
     # sy "Just yanking your chain, bro."
-    sy "Just yanking your chain, bro."
+    sy "Csak ugratlak, haver."
 
 # game/code/scenes/main_story/sm1ms007.rpy:63
 translate magyar sm1ms007_2390fbe2:
 
     # sy "Just yanking your chain, [mcname]."
-    sy "Just yanking your chain, [mcname]."
+    sy "Csak ugratlak, haver, [mcname]."
 
 # game/code/scenes/main_story/sm1ms007.rpy:64
 translate magyar sm1ms007_f108e8d4:
 
     # sy "I'm just saying that it's not like we've had an easy time getting the studio going."
-    sy "I'm just saying that it's not like we've had an easy time getting the studio going."
+    sy "Csak azt mondom, hogy nem volt könnyű felállítani a stúdiót."
 
 # game/code/scenes/main_story/sm1ms007.rpy:65
 translate magyar sm1ms007_17af55c0:
 
     # sy "And we still have a long and hard road to go."
-    sy "And we still have a long and hard road to go."
+    sy "És még hosszú és kemény út van előttünk."
 
 # game/code/scenes/main_story/sm1ms007.rpy:70
 translate magyar sm1ms007_30485320:
 
     # sy "What's with you?"
-    sy "What's with you?"
+    sy "Mi van veled?"
 
 # game/code/scenes/main_story/sm1ms007.rpy:72
 translate magyar sm1ms007_7a36e9b9:
 
     # mc "You said long and hard. Heheh."
-    mc "You said long and hard. Heheh."
+    mc "Te mondtad nagy és kemény. Heheh."
 
 # game/code/scenes/main_story/sm1ms007.rpy:75
 translate magyar sm1ms007_ce08bf1c:
 
     # sy "You are so lame."
-    sy "You are so lame."
+    sy "Annyira béna vagy."
 
 # game/code/scenes/main_story/sm1ms007.rpy:76
 translate magyar sm1ms007_6ca317c3:
 
     # sy "Oh, I almost forgot."
-    sy "Oh, I almost forgot."
+    sy "Oh, majdnem elfelejtettem."
 
 # game/code/scenes/main_story/sm1ms007.rpy:84
 translate magyar sm1ms007_after_choice_0c013255:
 
     # sy "All our hard work is starting to pay off, [mcname]."
-    sy "All our hard work is starting to pay off, [mcname]."
+    sy "Kemény munkánk kezd meghozni gyümölcsét, [mcname]."
 
 # game/code/scenes/main_story/sm1ms007.rpy:87
 translate magyar sm1ms007_after_choice_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "Hogy érted"
 
 # game/code/scenes/main_story/sm1ms007.rpy:90
 translate magyar sm1ms007_after_choice_8a1aec45:
 
     # sy "This morning, we got our first job request. We're in business, [mcname]!"
-    sy "This morning, we got our first job request. We're in business, [mcname]!"
+    sy "Ma reggel, megjött az első felkérésünk. Beindult a bolt, [mcname]!"
 
 # game/code/scenes/main_story/sm1ms007.rpy:93
 translate magyar sm1ms007_after_choice_80151829:
 
     # mc "That's awesome. What are the details."
-    mc "That's awesome. What are the details."
+    mc "Ez nagyszerű. Mond a részleteket."
 
 # game/code/scenes/main_story/sm1ms007.rpy:96
 translate magyar sm1ms007_after_choice_f7490364:
 
     # sy "It's pretty straightforward, just some good guy-on-girl banging."
-    sy "It's pretty straightforward, just some good guy-on-girl banging."
+    sy "Elég egyszerű, csak egy kis jó fiú-lány dugás."
 
 # game/code/scenes/main_story/sm1ms007.rpy:97
 translate magyar sm1ms007_after_choice_6da629fc:
 
     # sy "The client is open to things getting a little rough, but no like master-pet situation."
-    sy "The client is open to things getting a little rough, but no like master-pet situation."
+    sy "A kliens nyitott, hogy egy kicsit keményebb legyen, de nem olyan rabszolga és mester szituációs."
 
 # game/code/scenes/main_story/sm1ms007.rpy:98
 translate magyar sm1ms007_after_choice_66aa9d87:
 
     # sy "Oh, and they specifically requested some spanking, which should be very easy for us to do."
-    sy "Oh, and they specifically requested some spanking, which should be very easy for us to do."
+    sy "Ó, és kifejezetten kérték, hogy verjük el őket, ami nekünk nagyon könnyű lesz."
 
 # game/code/scenes/main_story/sm1ms007.rpy:101
 translate magyar sm1ms007_after_choice_08d42b34:
 
     # mc "Us? You don't want me to ask one of the candidates to do it?"
-    mc "Us? You don't want me to ask one of the candidates to do it?"
+    mc "Mi? Nem akarod, hogy megkérjek valamelyik jelöltet, hogy csinálja meg?"
 
 # game/code/scenes/main_story/sm1ms007.rpy:104
 translate magyar sm1ms007_after_choice_790de301:
 
     # sy "No way."
-    sy "No way."
+    sy "Nem lehet."
 
 # game/code/scenes/main_story/sm1ms007.rpy:105
 translate magyar sm1ms007_after_choice_bafdb902:
 
     # sy "This is our first job, [mcname]! Our maiden voyage. Our first step into a larger world."
-    sy "This is our first job, [mcname]! Our maiden voyage. Our first step into a larger world."
+    sy "Ez az első munkánk, [mcname]! Első utunk. Az első lépésünk egy nagy világban."
 
 # game/code/scenes/main_story/sm1ms007.rpy:106
 translate magyar sm1ms007_after_choice_1634f94f:
 
     # sy "I want to put our best foot forward, so I'll be your co-star for this one."
-    sy "I want to put our best foot forward, so I'll be your co-star for this one."
+    sy "A legjobb formánkat akarom hozni, ezért ebben a filmben a partnered leszek."
 
 # game/code/scenes/main_story/sm1ms007.rpy:110
 translate magyar sm1ms007_after_choice_b4905938:
 
     # mc "Well, that sounds perfect to me. Not like we haven't gotten a little kinky in front of a camera lens."
-    mc "Well, that sounds perfect to me. Not like we haven't gotten a little kinky in front of a camera lens."
+    mc "Nos, ez jól hangzik nekem. Nem mintha mi nem lennénk kicsit perverzek a kamera előtt."
 
 # game/code/scenes/main_story/sm1ms007.rpy:113
 translate magyar sm1ms007_after_choice_f64e9b7f:
 
     # sy "Exactly."
-    sy "Exactly."
+    sy "Pontosan."
 
 # game/code/scenes/main_story/sm1ms007.rpy:114
 translate magyar sm1ms007_after_choice_e183b4ac:
 
     # sy "There is one extra detail. The client is super into redhead porn and they want the girl in the scene to be a redhead."
-    sy "There is one extra detail. The client is super into redhead porn and they want the girl in the scene to be a redhead."
+    sy "Van még egy extra részlet. Az ügyfél nagyon szereti a vörös hajú pornót, és azt szeretné, ha a jelenetben szereplő lány vörös hajú lenne."
 
 # game/code/scenes/main_story/sm1ms007.rpy:117
 translate magyar sm1ms007_after_choice_7633cf17:
 
     # mc "Okay, so we'll need some kind of red wig for you to wear."
-    mc "Okay, so we'll need some kind of red wig for you to wear."
+    mc "Oké, szóval kell egy vörös paróka, amit viselhetsz."
 
 # game/code/scenes/main_story/sm1ms007.rpy:118
 translate magyar sm1ms007_after_choice_03b13d12:
 
     # mc "I guess I can check out the shop. They have a lot of stuff there, so maybe we'll get lucky."
-    mc "I guess I can check out the shop. They have a lot of stuff there, so maybe we'll get lucky."
+    mc "Azt hiszem, megnézhetem a boltot. Ott rengeteg cucc van, szóval talán szerencsénk lesz."
 
 # game/code/scenes/main_story/sm1ms007.rpy:121
 translate magyar sm1ms007_after_choice_c76f53b9:
 
     # sy "That's okay, [mcname]. I actually already found a decent-looking one online. It will just cost us $50."
-    sy "That's okay, [mcname]. I actually already found a decent-looking one online. It will just cost us $50."
+    sy "Rendben van, [mcname]. Valójában már találtam egy egész jónak tűnőt az interneten. Csak 50$ dollárba fog kerülni."
 
 # game/code/scenes/main_story/sm1ms007.rpy:123
 translate magyar sm1ms007_after_choice_ef15f6d5:
 
     # mc "Nice. Is there anything else we need?"
-    mc "Nice. Is there anything else we need?"
+    mc "Szép. Kell még valami?"
 
 # game/code/scenes/main_story/sm1ms007.rpy:126
 translate magyar sm1ms007_after_choice_668cb28e:
 
     # sy "Yes, we probably should get some money together."
-    sy "Yes, we probably should get some money together."
+    sy "Igen, valószínűleg össze kéne szednünk egy kis pénzt.."
 
 # game/code/scenes/main_story/sm1ms007.rpy:127
 translate magyar sm1ms007_after_choice_1373341c:
 
     # sy "This will be Kanya's first time as our camera girl, and we don't want to just offer a smile and some dick for her services."
-    sy "This will be Kanya's first time as our camera girl, and we don't want to just offer a smile and some dick for her services."
+    sy "Kanya először lesz a kamerás lányunk, és nem csak egy mosolyt és egy faszt akarunk adni neki a szolgáltatásaiért cserébe."
 
 # game/code/scenes/main_story/sm1ms007.rpy:129
 translate magyar sm1ms007_after_choice_8b34b0db:
 
     # mc "Totally agree, although I'm always up for a trade like that."
-    mc "Totally agree, although I'm always up for a trade like that."
+    mc "Teljesen egyetértek, bár én mindig benne vagyok egy ilyen cserében.."
 
 # game/code/scenes/main_story/sm1ms007.rpy:131
 translate magyar sm1ms007_after_choice_2297a218:
 
     # sy "Haha. I bet you are."
-    sy "Haha. I bet you are."
+    sy "Haha. Lefogadom."
 
 # game/code/scenes/main_story/sm1ms007.rpy:134
 translate magyar sm1ms007_after_choice_8087f2e4:
 
     # mc "So how much money are we talking?"
-    mc "So how much money are we talking?"
+    mc "Szóval mennyiről beszélünk?"
 
 # game/code/scenes/main_story/sm1ms007.rpy:137
 translate magyar sm1ms007_after_choice_82bda4a7:
 
     # sy "I figure $100 should cover us. If she needs a little more, we'll figure it out when we reach that point."
-    sy "I figure $100 should cover us. If she needs a little more, we'll figure it out when we reach that point."
+    sy "Az gondolom 100$ fedezne minket. Ha kicsit több kell neki, akkor majd kitaláljuk, amikor eljutunk oda."
 
 # game/code/scenes/main_story/sm1ms007.rpy:139
 translate magyar sm1ms007_after_choice_dc16ebcd:
 
     # mc "Got it."
-    mc "Got it."
+    mc "Vettem."
 
 # game/code/scenes/main_story/sm1ms007.rpy:142
 translate magyar sm1ms007_after_choice_5bb45181:
 
     # mc "This is really great, Stacy. Our first gig. I can't believe it."
-    mc "This is really great, Stacy. Our first gig. I can't believe it."
+    mc "Ez nagyon jó, Stacy. Az első fellépésünk. Nem hiszem el."
 
 # game/code/scenes/main_story/sm1ms007.rpy:145
 translate magyar sm1ms007_after_choice_3dcd9b45:
 
     # sy "We gotta celebrate."
-    sy "We gotta celebrate."
+    sy "Ünnepelünk kell."
 
 # game/code/scenes/main_story/sm1ms007.rpy:147
 translate magyar sm1ms007_after_choice_26429cba:
 
     # mc "Way ahead of you."
-    mc "Way ahead of you."
+    mc "Csak előre."
 
 # game/code/scenes/main_story/sm1ms007.rpy:151
 translate magyar sm1ms007_after_choice_9538fb3b:
 
     # mc "A bottle of your most expensive wine, my good man."
-    mc "A bottle of your most expensive wine, my good man."
+    mc "Egy üveg a legdrágább bórból, jó emberem."
 
 # game/code/scenes/main_story/sm1ms007.rpy:153
 translate magyar sm1ms007_after_choice_c20154b5:
 
     # "Waiter" "The deux loups fantaisie cabernet sauvignon is five hundred dollars a bottle."
-    "Waiter" "The deux loups fantaisie cabernet sauvignon is five hundred dollars a bottle."
+    "Felszolgáló" "A Deux Loups Fantaisie Cabernet Sauvignon 500 dollár egy üveg."
 
 # game/code/scenes/main_story/sm1ms007.rpy:157
 translate magyar sm1ms007_after_choice_2b35b6fe:
@@ -320,145 +320,145 @@ translate magyar sm1ms007_after_choice_2b35b6fe:
 translate magyar sm1ms007_after_choice_56b0c5a6:
 
     # mc "One bottle of your twenty dollar-ist bottle of wine, please."
-    mc "One bottle of your twenty dollar-ist bottle of wine, please."
+    mc "Egy üveg 20 dolláros bort kérek."
 
 # game/code/scenes/main_story/sm1ms007.rpy:160
 translate magyar sm1ms007_after_choice_4290e358:
 
     # "Waiter" "Of course, sir."
-    "Waiter" "Of course, sir."
+    "Waiter" "Természetesen, uram."
 
 # game/code/scenes/main_story/sm1ms007.rpy:165
 translate magyar sm1ms007_after_choice_3456f39c:
 
     # sy "Hahaha. That was rich. Next, you're going to ask if the bread is free."
-    sy "Hahaha. That was rich. Next, you're going to ask if the bread is free."
+    sy "Hahaha. Ez gazadg volt. Ezután megkérdezed, hogy a kenyér ingyenes-e."
 
 # game/code/scenes/main_story/sm1ms007.rpy:168
 translate magyar sm1ms007_after_choice_4f2073a8:
 
     # mc "Yeah, yeah. Just figure out what you want to order, gorgeous."
-    mc "Yeah, yeah. Just figure out what you want to order, gorgeous."
+    mc "Igen, csak. Csak gondold át, mit szeretnél rendelni, szépségem."
 
 # game/code/scenes/main_story/sm1ms007.rpy:174
 translate magyar sm1ms007_after_choice_33b278c7:
 
     # mc "To our wonderful studio. May it never crash and burn."
-    mc "To our wonderful studio. May it never crash and burn."
+    mc "Csodálatos stúdiónkat. Reméljük, soha nem fog összeomlani és leégni."
 
 # game/code/scenes/main_story/sm1ms007.rpy:177
 translate magyar sm1ms007_after_choice_280fc719:
 
     # sy "And even if it does, let it be a hell of a ride, bro."
-    sy "And even if it does, let it be a hell of a ride, bro."
+    sy "És ha mégis, akkor legyen egy pokoli utazás, haver."
 
 # game/code/scenes/main_story/sm1ms007.rpy:181
 translate magyar sm1ms007_after_choice_d10902a1:
 
     # mc "Hear hear."
-    mc "Hear hear."
+    mc "Igen, igen."
 
 # game/code/scenes/main_story/sm1ms007.rpy:190
 translate magyar sm1ms007_after_choice_728f9be9:
 
     # sy "You're really doing good, [mcname]."
-    sy "You're really doing good, [mcname]."
+    sy "Jól csinálod, [mcname]."
 
 # game/code/scenes/main_story/sm1ms007.rpy:193
 translate magyar sm1ms007_after_choice_d3b11660:
 
     # mc "We're both doing good."
-    mc "We're both doing good."
+    mc "Mind ketten jól csináljuk."
 
 # game/code/scenes/main_story/sm1ms007.rpy:196
 translate magyar sm1ms007_after_choice_28762e66:
 
     # sy "Sure, but you're putting in some extra miles for our dream."
-    sy "Sure, but you're putting in some extra miles for our dream."
+    sy "Persze, de te még többet teszel az álmunkért."
 
 # game/code/scenes/main_story/sm1ms007.rpy:197
 translate magyar sm1ms007_after_choice_f77ccdba:
 
     # sy "Getting all the website and video editing stuff prepared is a lot to handle sure, but you've been keeping your nose to the grindstone."
-    sy "Getting all the website and video editing stuff prepared is a lot to handle sure, but you've been keeping your nose to the grindstone."
+    sy "A weboldal és a videószerkesztés előkészítése bizonyára sok munkával jár, de te keményen dolgoztál rajta."
 
 # game/code/scenes/main_story/sm1ms007.rpy:198
 translate magyar sm1ms007_after_choice_884cd645:
 
     # sy "{b}You{/b} are the one really making this all work so smoothly."
-    sy "{b}You{/b} are the one really making this all work so smoothly."
+    sy "{b}Te{/b} vagy az, aki megkönnyíti a dolgokat."
 
 # game/code/scenes/main_story/sm1ms007.rpy:201
 translate magyar sm1ms007_after_choice_d9520e2d:
 
     # mc "Stacy, you're ruining my plan."
-    mc "Stacy, you're ruining my plan."
+    mc "Stacy, tönkreteszed a tervemet."
 
 # game/code/scenes/main_story/sm1ms007.rpy:204
 translate magyar sm1ms007_after_choice_4b4eb5f3:
 
     # sy "Your plan?"
-    sy "Your plan?"
+    sy "Milyen tervet?"
 
 # game/code/scenes/main_story/sm1ms007.rpy:207
 translate magyar sm1ms007_after_choice_6b15ca45:
 
     # mc "Yes. I wanted to take you out for a special lunch date to show you how much I appreciate all the work {b}you've{/b} been doing for the studio."
-    mc "Yes. I wanted to take you out for a special lunch date to show you how much I appreciate all the work {b}you've{/b} been doing for the studio."
+    mc "Igen. Szerettelek volna elvinni téged egy különleges ebédre, hogy megmutassam, mennyire {b}értékelem{/b} az eddigi munkádat a stúdióban."
 
 # game/code/scenes/main_story/sm1ms007.rpy:210
 translate magyar sm1ms007_after_choice_4fe4d74b:
 
     # sy "Really?"
-    sy "Really?"
+    sy "Komolyan?"
 
 # game/code/scenes/main_story/sm1ms007.rpy:212
 translate magyar sm1ms007_after_choice_ee4f7721:
 
     # mc "It feels like I've been so busy talking to the girls at my jobs that I don't get to be there and show you just how important you are to me."
-    mc "It feels like I've been so busy talking to the girls at my jobs that I don't get to be there and show you just how important you are to me."
+    mc "Úgy érzem, annyira el vagyok foglalva a munkámban a lányokkal való beszélgetéssel, hogy nem tudok ott lenni veled, és megmutatni neked, mennyire fontos vagy nekem."
 
 # game/code/scenes/main_story/sm1ms007.rpy:216
 translate magyar sm1ms007_after_choice_b514daaa:
 
     # mc "And your help at the studio is invaluable."
-    mc "And your help at the studio is invaluable."
+    mc "És a segítséged a stúdióban felbecsülhetetlen."
 
 # game/code/scenes/main_story/sm1ms007.rpy:219
 translate magyar sm1ms007_after_choice_cf8410b0:
 
     # sy "Come here."
-    sy "Come here."
+    sy "Gyere ide."
 
 # game/code/scenes/main_story/sm1ms007.rpy:225
 translate magyar sm1ms007_after_choice_768365c5:
 
     # mc "Yeouch!"
-    mc "Yeouch!"
+    mc "Jaj!!"
 
 # game/code/scenes/main_story/sm1ms007.rpy:227
 translate magyar sm1ms007_after_choice_b764fa60:
 
     # sy "That's for making me think I did something bad, you dork."
-    sy "That's for making me think I did something bad, you dork."
+    sy "Ezért, mert elhitetted velem, hogy valami rosszat tettem, te barom."
 
 # game/code/scenes/main_story/sm1ms007.rpy:230
 translate magyar sm1ms007_after_choice_392991a2:
 
     # mc "Sorry. Sorry."
-    mc "Sorry. Sorry."
+    mc "Bocsi. Bocsi."
 
 # game/code/scenes/main_story/sm1ms007.rpy:235
 translate magyar sm1ms007_after_choice_6769f183:
 
     # sy "And this is for being the best brother a girl could ask for."
-    sy "And this is for being the best brother a girl could ask for."
+    sy "És ez azért, mert te vagy a legjobb báty, akit egy lány csak kívánhat magának."
 
 # game/code/scenes/main_story/sm1ms007.rpy:237
 translate magyar sm1ms007_after_choice_9074138b:
 
     # sy "And this is for being the best friend a girl like me could ask for."
-    sy "And this is for being the best friend a girl like me could ask for."
+    sy "És ez azért, mert te vagy a legjobb barát, akit egy olyan lány, mint én, csak kívánhat magának."
 
 # game/code/scenes/main_story/sm1ms007.rpy:247
 translate magyar sm1ms007_after_choice_39685004:
@@ -470,73 +470,73 @@ translate magyar sm1ms007_after_choice_39685004:
 translate magyar sm1ms007_after_choice_16a36be3:
 
     # sy "Almost better than a morning spanking.{w} Almost."
-    sy "Almost better than a morning spanking.{w} Almost."
+    sy "Majdnem jobb, mint egy reggeli fenekelés.{w} Majdnem.."
 
 # game/code/scenes/main_story/sm1ms007.rpy:253
 translate magyar sm1ms007_after_choice_455b4817:
 
     # mc "Never change, Stacy. You're perfect."
-    mc "Never change, Stacy. You're perfect."
+    mc "Ne változz meg, Stacy. Tökéletes vagy."
 
 # game/code/scenes/main_story/sm1ms007.rpy:257
 translate magyar sm1ms007_after_choice_9232cdae:
 
     # sy "I know."
-    sy "I know."
+    sy "Tudom."
 
 # game/code/scenes/main_story/sm1ms007.rpy:258
 translate magyar sm1ms007_after_choice_904cb0f1:
 
     # sy "And if the waiter weren't coming round with our food, I'd show you just how much I appreciate {b}you{/b}, [mcname]."
-    sy "And if the waiter weren't coming round with our food, I'd show you just how much I appreciate {b}you{/b}, [mcname]."
+    sy "És ha a pincér nem hozná az ételünket, megmutatnám neked, mennyire értékelem {b}téged{/b}, [mcname]."
 
 # game/code/scenes/main_story/sm1ms007.rpy:260
 translate magyar sm1ms007_after_choice_f630e951:
 
     # mct "Stupid cock-blocking waiter."
-    mct "Stupid cock-blocking waiter."
+    mct "Hülye, koktélkeverő pincér."
 
 # game/code/scenes/main_story/sm1ms007.rpy:274
 translate magyar sm1ms007_after_choice_8f1990c6:
 
     # sy "So, what's the damage?"
-    sy "So, what's the damage?"
+    sy "Szóval, mekkora a kár?"
 
 # game/code/scenes/main_story/sm1ms007.rpy:278
 translate magyar sm1ms007_after_choice_e567fc8b:
 
     # mc "Let's just say I'm very glad that we're splitting the bill for this."
-    mc "Let's just say I'm very glad that we're splitting the bill for this."
+    mc "Mondjuk úgy, hogy nagyon örülök, hogy megosztjuk a számlát."
 
 # game/code/scenes/main_story/sm1ms007.rpy:281
 translate magyar sm1ms007_after_choice_74fc9fab:
 
     # sy "I don't think so, buster. First and foremost, {b}this{/b} was a date with your beautiful girlfriend."
-    sy "I don't think so, buster. First and foremost, {b}this{/b} was a date with your beautiful girlfriend."
+    sy "Nem hiszem, haver. Először is, {b}ez{/b} egy randi volt a gyönyörű barátnőddel."
 
 # game/code/scenes/main_story/sm1ms007.rpy:282
 translate magyar sm1ms007_after_choice_3f4bc0a8:
 
     # sy "We only talked a little bit about work, so it's your treat."
-    sy "We only talked a little bit about work, so it's your treat."
+    sy "Csak egy kicsit beszéltünk a munkáról, úgyhogy te fizetsz."
 
 # game/code/scenes/main_story/sm1ms007.rpy:285
 translate magyar sm1ms007_after_choice_5f9078b7:
 
     # mc "You've got me there."
-    mc "You've got me there."
+    mc "Ebben igazad van."
 
 # game/code/scenes/main_story/sm1ms007.rpy:292
 translate magyar sm1ms007_after_choice_b746aeed:
 
     # sy "This was very nice, [mcname]."
-    sy "This was very nice, [mcname]."
+    sy "Ez jó volt [mcname]."
 
 # game/code/scenes/main_story/sm1ms007.rpy:293
 translate magyar sm1ms007_after_choice_8e88f5e1:
 
     # sy "I'm the luckiest girlfriend in the world."
-    sy "I'm the luckiest girlfriend in the world."
+    sy "Én vagyok a világ legszerencsésebb barátnője."
 
 # game/code/scenes/main_story/sm1ms007.rpy:299
 translate magyar sm1ms007_after_choice_d2b46ebd:
@@ -548,53 +548,53 @@ translate magyar sm1ms007_after_choice_d2b46ebd:
 translate magyar sm1ms007_after_choice_58c04641:
 
     # sy "So, you coming back home? Or heading out into the city?"
-    sy "So, you coming back home? Or heading out into the city?"
+    sy "Szóval, hazajössz? Vagy bemész a városba?"
 
 # game/code/scenes/main_story/sm1ms007.rpy:318
 translate magyar sm1ms007_after_choice_91dbfe55:
 
     # mc "I'll come home with you."
-    mc "I'll come home with you."
+    mc "Veled megyek."
 
 # game/code/scenes/main_story/sm1ms007.rpy:319
 translate magyar sm1ms007_after_choice_a9508985:
 
     # mc "I feel like chilling a bit after that meal."
-    mc "I feel like chilling a bit after that meal."
+    mc "Az étkezés után szeretnék egy kicsit pihenni."
 
 # game/code/scenes/main_story/sm1ms007.rpy:322
 translate magyar sm1ms007_after_choice_e40b6926:
 
     # sy "Perfect."
-    sy "Perfect."
+    sy "Tökéletes."
 
 # game/code/scenes/main_story/sm1ms007.rpy:327
 translate magyar sm1ms007_after_choice_681ee1d2:
 
     # mc "I'm going to check out the city. I need to earn some extra money."
-    mc "I'm going to check out the city. I need to earn some extra money."
+    mc "Benézek a városba. Kell egy kis plusz pénz."
 
 # game/code/scenes/main_story/sm1ms007.rpy:330
 translate magyar sm1ms007_after_choice_c6b797ac:
 
     # sy "Great. See you at home, handsome."
-    sy "Great. See you at home, handsome."
+    sy "Remek. Akkor otthon találkozunk, jóképű."
 
 translate magyar strings:
 
     # game/code/scenes/main_story/sm1ms007.rpy:37
     old "Agree with Stacy"
-    new "Agree with Stacy"
+    new "Egyetértek Stacy-vel"
 
     # game/code/scenes/main_story/sm1ms007.rpy:37
     old "Disagree with Stacy"
-    new "Disagree with Stacy"
+    new "Nem értek egyet Stacy-vel"
 
     # game/code/scenes/main_story/sm1ms007.rpy:313
     old "I'll come home with you"
-    new "I'll come home with you"
+    new "Veled megyek haza."
 
     # game/code/scenes/main_story/sm1ms007.rpy:313
     old "I'm going to check out the city"
-    new "I'm going to check out the city"
+    new "Megnézem a várost."
 
