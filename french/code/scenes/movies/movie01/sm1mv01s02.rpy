@@ -2005,8 +2005,8 @@ translate french strings:
 #Translate by BlackViper_
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
-translate french sm1mv01s02_later_e9f87a8a:
+translate french sm1mv01s02_later_5aedf717:
 
-    # mc "Just a minute?"
-    mc "Juste une minute ?"
+    # mc "Just a moment?"
+    mc "Juste un instant ?"
 

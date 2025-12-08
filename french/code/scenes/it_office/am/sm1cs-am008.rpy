@@ -754,10 +754,10 @@ translate french sm1cs_am008_continue_30dd5df2:
     # am "Being {b}bad{/b}."
     am "D’être {b}mauvaise{/b}."
 
-# game/code/scenes/it_office/am/sm1cs-am008.rpy:412
-translate french sm1cs_am008_continue_9e1f867c:
+# game/code/scenes/it_office/am/sm1cs-am008.rpy:417
+translate french sm1cs_am008_continue_e21362f8:
 
-    # am "Luckily, Pepper saw what I was turning into me. She's known me the longest and accepted me when I started becoming a coder."
+    # am "Luckily, Pepper saw what I was turning into. She's known me the longest and accepted me when I started becoming a coder."
     am "Heureusement, Pepper a vu ce que j’étais en train de devenir. Elle me connaît depuis le plus longtemps, et elle m’a acceptée quand j’ai commencé à coder."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:413
@@ -2883,47 +2883,47 @@ translate french strings:
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:19
     old "She looks jaw-droppingly gorgeous"
     new "Elle est incroyablement belle"
-    
+
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:19
     old "She's been replaced by a pod person"
     new "Elle a été remplacée par une personne clonée"
-    
+
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:60
     old "I'm sorry"
     new "Je suis désolé(e)"
-    
+
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:60
     old "Nice isn't your natural state"
     new "Être gentil(le) n'est pas ton état naturel"
-    
+
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:230
     old "Nothing wrong with that"
     new "Il n’y a rien de mal à ça"
-    
+
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:230
     old "That is oddly specific"
     new "C’est curieusement précis"
-    
+
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:230
     old "Parents think they know best"
     new "Les parents pensent qu’ils savent ce qui est mieux"
-    
+
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:332
     old "Like what?"
     new "Comme quoi ?"
-    
+
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:332
     old "I can't help it"
     new "Je n’y peux rien"
-    
+
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:461
     old "Something like that?"
     new "Un truc comme ça ?"
-    
+
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:461
     old "You had a choice. I didn't"
     new "Tu avais le choix. Moi, pas"
-    
+
     # game/code/scenes/it_office/am/sm1cs-am008.rpy:732
     old "Yes to 'pet play' with April"
     new "Oui au 'jeu de rôle animal' avec April"
@@ -2940,5 +2940,4 @@ translate french strings:
     old "You are my Sex Puppy"
     new "Tu es mon chiot sexuel"
 
-#Translate by BlackViper_
 

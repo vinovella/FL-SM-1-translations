@@ -44,3 +44,7 @@
     old "You can continue to play the game and save later from your phone as well."
     new "Du kannst das Spiel weiterhin spielen und später auch von deinem Handy aus speichern."
 
+    # game/code/renpy/screens/save.rpy:132
+    old "Skip"
+    new "Springen"
+

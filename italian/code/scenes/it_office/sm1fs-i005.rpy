@@ -953,9 +953,9 @@ translate italian sm1fs_i005_15d8ccd6:
     en "Oh. Madre di Dio!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:532
-translate italian sm1fs_i005_b49fcd84:
+translate italian sm1fs_i005_7420c147:
 
-    # en "What is oblivion is that?!"
+    # en "What in oblivion is that?!"
     en "Che oblio è quello?!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:535

@@ -2003,8 +2003,8 @@ translate deutsch sm1mv01s02_later_1e8e7e72:
     mc "Ich finde, das ist das perfekte Outfit für eine Piratenkönigin."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
-translate deutsch sm1mv01s02_later_e9f87a8a:
+translate deutsch sm1mv01s02_later_5aedf717:
 
-    # mc "Just a minute?"
+    # mc "Just a moment?"
     mc "Nur eine Minute?"
 

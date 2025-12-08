@@ -52,3 +52,23 @@
     old "How do you want to name your Season 2 save?"
     new "Wie willst du den Speicherstand für Season 2 nennen?"
 
+    # game/code/renpy/screens/others.rpy:12
+    old "If the recent minigames/puzzles feel a bit tricky, that's totally okay."
+    new "Wenn die kürzlich eingeführten Minispiele/Rätsel etwas knifflig erscheinen, ist das völlig in Ordnung."
+
+    # game/code/renpy/screens/others.rpy:13
+    old "You can disable minigames/puzzles for this playthrough and continue the story without them."
+    new "Du kannst Minispiele/Rätsel für diesen Durchgang deaktivieren und die Geschichte ohne sie fortsetzen."
+
+    # game/code/renpy/screens/others.rpy:14
+    old "Once disabled, minigames can't be turned back on for this playthrough, and minigame achievements won't be earned."
+    new "Sobald sie deaktiviert sind, können Minispiele für diesen Durchgang nicht wieder aktiviert werden, und Minispiel-Erfolge werden nicht erzielt."
+
+    # game/code/renpy/screens/others.rpy:16
+    old "Disable Minigames"
+    new "Minispiele deaktivieren"
+
+    # game/code/renpy/screens/others.rpy:20
+    old "Keep Minigames On"
+    new "Minispiele aktivieren"
+

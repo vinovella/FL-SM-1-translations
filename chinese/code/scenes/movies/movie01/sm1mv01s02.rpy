@@ -2003,8 +2003,8 @@ translate chinese sm1mv01s02_later_1e8e7e72:
     mc "我觉得这身就是为海盗女王量身打造的完美行头。"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
-translate chinese sm1mv01s02_later_e9f87a8a:
+translate chinese sm1mv01s02_later_5aedf717:
 
-    # mc "Just a minute?"
-    mc "等一下？"
+    # mc "Just a moment?"
+    mc "稍等一下？"
 

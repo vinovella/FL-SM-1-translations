@@ -24,8 +24,6 @@ translate portuguese strings:
     old "How do you want to name your save?"
     new "Como quer chamar seu save?"
 
-translate portuguese strings:
-
     # game/code/renpy/screens/others.rpy:13
     old "Sync your saves using Ren'Py Sync Server"
     new "Sincronize seus saves usando Ren'Py Sync Server"
@@ -37,8 +35,6 @@ translate portuguese strings:
     # game/code/renpy/screens/others.rpy:142
     old "Please enter your HTTP Port number:"
     new "Por favor insira sua porta HTTP:"
-
-translate portuguese strings:
 
     # game/code/renpy/screens/others.rpy:7
     old "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
@@ -52,9 +48,27 @@ translate portuguese strings:
     old "Would you like to enable this data collection?"
     new "Gostaria de habilitar essa coleta de dados?"
 
-translate portuguese strings:
-
     # game/code/renpy/screens/others.rpy:165
     old "How do you want to name your Season 2 save?"
     new "Como deseja chamar seu save da Segunda Temporada?"
+
+    # game/code/renpy/screens/others.rpy:12
+    old "If the recent minigames/puzzles feel a bit tricky, that's totally okay."
+    new "Se os minijogos/puzzles recentes parecerem um pouco complicados, tudo bem."
+
+    # game/code/renpy/screens/others.rpy:13
+    old "You can disable minigames/puzzles for this playthrough and continue the story without them."
+    new "Você pode desativar os minijogos/puzzles para esta jogada e continuar a história sem eles."
+
+    # game/code/renpy/screens/others.rpy:14
+    old "Once disabled, minigames can't be turned back on for this playthrough, and minigame achievements won't be earned."
+    new "Uma vez desativados, os minijogos não podem ser reativados para esta jogada, e as conquistas dos minijogos não serão desbloqueadas."
+
+    # game/code/renpy/screens/others.rpy:16
+    old "Disable Minigames"
+    new "Desativar Minigames"
+
+    # game/code/renpy/screens/others.rpy:20
+    old "Keep Minigames On"
+    new "Manter Minigames Ativados"
 

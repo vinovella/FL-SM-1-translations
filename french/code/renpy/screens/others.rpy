@@ -56,3 +56,23 @@
     old "How do you want to name your Season 2 save?"
     new "Comment voulez-vous nommer votre sauvegarde de la Saison 2 ?"
 
+    # game/code/renpy/screens/others.rpy:12
+    old "If the recent minigames/puzzles feel a bit tricky, that's totally okay."
+    new "Si les récents mini-jeux/casse-têtes semblent un peu difficiles, c'est tout à fait normal."
+
+    # game/code/renpy/screens/others.rpy:13
+    old "You can disable minigames/puzzles for this playthrough and continue the story without them."
+    new "Vous pouvez désactiver les mini-jeux/casse-têtes pour cette partie et continuer l'histoire sans eux."
+
+    # game/code/renpy/screens/others.rpy:14
+    old "Once disabled, minigames can't be turned back on for this playthrough, and minigame achievements won't be earned."
+    new "Une fois désactivés, les mini-jeux ne peuvent pas être réactivés pour cette partie, et les succès des mini-jeux ne seront pas obtenus."
+
+    # game/code/renpy/screens/others.rpy:16
+    old "Disable Minigames"
+    new "Désactiver les mini-jeux"
+
+    # game/code/renpy/screens/others.rpy:20
+    old "Keep Minigames On"
+    new "Garder les mini-jeux activés"
+

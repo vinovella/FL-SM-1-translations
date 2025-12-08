@@ -754,10 +754,10 @@ translate italian sm1cs_am008_continue_30dd5df2:
     # am "Being {b}bad{/b}."
     am "Essere {b}cattiva{/b}."
 
-# game/code/scenes/it_office/am/sm1cs-am008.rpy:412
-translate italian sm1cs_am008_continue_9e1f867c:
+# game/code/scenes/it_office/am/sm1cs-am008.rpy:417
+translate italian sm1cs_am008_continue_e21362f8:
 
-    # am "Luckily, Pepper saw what I was turning into me. She's known me the longest and accepted me when I started becoming a coder."
+    # am "Luckily, Pepper saw what I was turning into. She's known me the longest and accepted me when I started becoming a coder."
     am "Per fortuna, Pepper ha visto in cosa mi stavo trasformando. Mi conosce da più tempo e mi ha accettata quando ho iniziato a diventare una programmatrice."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:413

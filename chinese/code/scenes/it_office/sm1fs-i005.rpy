@@ -935,10 +935,10 @@ translate chinese sm1fs_i005_15d8ccd6:
     en "哦。我的天哪！"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:532
-translate chinese sm1fs_i005_b49fcd84:
+translate chinese sm1fs_i005_7420c147:
 
-    # en "What is oblivion is that?!"
-    en "那到底是什么鬼东西?!"
+    # en "What in oblivion is that?!"
+    en "那到底是什么？！"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:535
 translate chinese sm1fs_i005_1dfc4293:

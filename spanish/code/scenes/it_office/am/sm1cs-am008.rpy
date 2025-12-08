@@ -754,10 +754,10 @@ translate spanish sm1cs_am008_continue_30dd5df2:
     # am "To be {b}bad{/b}."
     am "Ser {b}mala{/b}."
 
-# game/code/scenes/it_office/am/sm1cs-am008.rpy:412
-translate spanish sm1cs_am008_continue_9e1f867c:
+# game/code/scenes/it_office/am/sm1cs-am008.rpy:417
+translate spanish sm1cs_am008_continue_e21362f8:
 
-    # am "Luckily, Pepper saw what I was becoming. She's known me for the longest and accepted me when I first started coding."
+    # am "Luckily, Pepper saw what I was turning into. She's known me the longest and accepted me when I started becoming a coder."
     am "Afortunadamente, Pepper vio en lo que me estaba convirtiendo. Me conoce desde hace más tiempo y me aceptó cuando empecé a ser programadora."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:413

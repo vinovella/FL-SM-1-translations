@@ -2003,8 +2003,8 @@ translate portuguese sm1mv01s02_later_1e8e7e72:
     mc "Acho que é a roupa perfeita pra uma rainha pirata."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
-translate portuguese sm1mv01s02_later_e9f87a8a:
+translate portuguese sm1mv01s02_later_5aedf717:
 
-    # mc "Just a minute?"
+    # mc "Just a moment?"
     mc "Só um momento?"
 

@@ -953,10 +953,10 @@ translate magyar sm1fs_i005_15d8ccd6:
     en "Oh. Mother of god!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:532
-translate magyar sm1fs_i005_b49fcd84:
+translate magyar sm1fs_i005_7420c147:
 
-    # en "What is oblivion is that?!"
-    en "What is oblivion is that?!"
+    # en "What in oblivion is that?!"
+    en "What in oblivion is that?!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:535
 translate magyar sm1fs_i005_1dfc4293:

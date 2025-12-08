@@ -2003,8 +2003,8 @@ translate italian strings:
     new "Concentrato"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
-translate italian sm1mv01s02_later_e9f87a8a:
+translate italian sm1mv01s02_later_5aedf717:
 
-    # mc "Just a minute?"
-    mc "Solo un minuto?"
+    # mc "Just a moment?"
+    mc "Solo un momento?"
 

@@ -2003,8 +2003,8 @@ translate turkish sm1mv01s02_later_1e8e7e72:
     mc "Bence bir korsan kraliçe için mükemmel bir kıyafet."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
-translate turkish sm1mv01s02_later_e9f87a8a:
+translate turkish sm1mv01s02_later_5aedf717:
 
-    # mc "Just a minute?"
-    mc "Sadece bir dakika mı?"
+    # mc "Just a moment?"
+    mc "Bir dakika mı?"
 

@@ -935,9 +935,9 @@ translate portuguese sm1fs_i005_15d8ccd6:
     en "Ah. Santa Mãe de deus!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:532
-translate portuguese sm1fs_i005_b49fcd84:
+translate portuguese sm1fs_i005_7420c147:
 
-    # en "What is oblivion is that?!"
+    # en "What in oblivion is that?!"
     en "Mas que diabos é isso?!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:535

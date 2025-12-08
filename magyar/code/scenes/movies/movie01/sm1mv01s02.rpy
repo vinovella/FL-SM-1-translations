@@ -1427,10 +1427,10 @@ translate magyar sm1mv01s02_later_d3ba89d8:
     sy "Captain. The Pirate Queen needs a moment of your time..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
-translate magyar sm1mv01s02_later_e9f87a8a:
+translate magyar sm1mv01s02_later_5aedf717:
 
-    # mc "Just a minute?"
-    mc "Just a minute?"
+    # mc "Just a moment?"
+    mc "Just a moment?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:752
 translate magyar sm1mv01s02_later_5911a183:

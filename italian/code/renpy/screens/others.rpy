@@ -24,8 +24,6 @@
     old "How do you want to name your save?"
     new "Come vuoi nominare il tuo salvataggio?"
 
-translate italian strings:
-
     # game/code/renpy/screens/others.rpy:13
     old "Sync your saves using Ren'Py Sync Server"
     new "Sincronizza i tuoi salvataggi usando Ren'Py Sync Server"
@@ -37,8 +35,6 @@ translate italian strings:
     # game/code/renpy/screens/others.rpy:142
     old "Please enter your HTTP Port number:"
     new "Per favore, inserisci il numero della porta HTTP:"
-
-translate italian strings:
 
     # game/code/renpy/screens/others.rpy:7
     old "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
@@ -52,9 +48,27 @@ translate italian strings:
     old "Would you like to enable this data collection?"
     new "Vuoi abilitare questa raccolta dati?"
 
-translate italian strings:
-
     # game/code/renpy/screens/others.rpy:165
     old "How do you want to name your Season 2 save?"
     new "Come vuoi nominare il tuo salvataggio della Stagione 2?"
+
+    # game/code/renpy/screens/others.rpy:12
+    old "If the recent minigames/puzzles feel a bit tricky, that's totally okay."
+    new "Se i recenti minigiochi/rompicapi ti sembrano un po' complicati, va benissimo."
+
+    # game/code/renpy/screens/others.rpy:13
+    old "You can disable minigames/puzzles for this playthrough and continue the story without them."
+    new "Puoi disabilitare i minigiochi/rompicapi per questo playthrough e continuare la storia senza di essi."
+
+    # game/code/renpy/screens/others.rpy:14
+    old "Once disabled, minigames can't be turned back on for this playthrough, and minigame achievements won't be earned."
+    new "Una volta disabilitati, i minigiochi non possono essere riattivati per questo playthrough e i trofei dei minigiochi non saranno guadagnati."
+
+    # game/code/renpy/screens/others.rpy:16
+    old "Disable Minigames"
+    new "Disabilita Minigiochi"
+
+    # game/code/renpy/screens/others.rpy:20
+    old "Keep Minigames On"
+    new "Mantieni Minigiochi Attivi"
 

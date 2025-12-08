@@ -52,3 +52,23 @@ translate spanish strings:
     old "How do you want to name your Season 2 save?"
     new "¿Cómo quieres nombrar tu guardado de la temporada 2?"
 
+    # game/code/renpy/screens/others.rpy:12
+    old "If the recent minigames/puzzles feel a bit tricky, that's totally okay."
+    new "Si los recientes minijuegos/puzzles se sienten un poco complicados, está totalmente bien."
+
+    # game/code/renpy/screens/others.rpy:13
+    old "You can disable minigames/puzzles for this playthrough and continue the story without them."
+    new "Puedes desactivar los minijuegos/puzzles para esta partida y continuar la historia sin ellos."
+
+    # game/code/renpy/screens/others.rpy:14
+    old "Once disabled, minigames can't be turned back on for this playthrough, and minigame achievements won't be earned."
+    new "Una vez desactivados, los minijuegos no se pueden volver a activar para esta partida, y no se obtendrán logros de minijuegos."
+
+    # game/code/renpy/screens/others.rpy:16
+    old "Disable Minigames"
+    new "Desactivar Minijuegos"
+
+    # game/code/renpy/screens/others.rpy:20
+    old "Keep Minigames On"
+    new "Mantener Minijuegos Activados"
+

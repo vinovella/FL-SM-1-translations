@@ -934,10 +934,10 @@ translate french sm1fs_i005_15d8ccd6:
     # en "Oh. Mother of god!"
     en "Oh… Sainte Mère de Dieu !"
 
-# game/code/scenes/it_office/sm1fs-i005.rpy:533
-translate french sm1fs_i005_b49fcd84:
+# game/code/scenes/it_office/sm1fs-i005.rpy:532
+translate french sm1fs_i005_7420c147:
 
-    # en "What is oblivion is that?!"
+    # en "What in oblivion is that?!"
     en "Mais bordel… c’est quoi ça ?!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:536

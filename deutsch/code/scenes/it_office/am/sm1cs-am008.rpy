@@ -754,10 +754,10 @@ translate deutsch sm1cs_am008_continue_30dd5df2:
     # am "Being {b}bad{/b}."
     am "{b}Böse{/b} sein."
 
-# game/code/scenes/it_office/am/sm1cs-am008.rpy:412
-translate deutsch sm1cs_am008_continue_9e1f867c:
+# game/code/scenes/it_office/am/sm1cs-am008.rpy:417
+translate deutsch sm1cs_am008_continue_e21362f8:
 
-    # am "Luckily, Pepper saw what I was turning into me. She's known me the longest and accepted me when I started becoming a coder."
+    # am "Luckily, Pepper saw what I was turning into. She's known me the longest and accepted me when I started becoming a coder."
     am "Zum Glück hat Pepper erkannt, was aus mir geworden ist. Sie kennt mich am längsten und hat mich akzeptiert, als ich anfing, Programmierer zu werden."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:413

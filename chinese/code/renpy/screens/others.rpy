@@ -52,3 +52,23 @@
     old "How do you want to name your Season 2 save?"
     new "您想如何命名您的第二季存档？"
 
+    # game/code/renpy/screens/others.rpy:12
+    old "If the recent minigames/puzzles feel a bit tricky, that's totally okay."
+    new "如果最近的迷你游戏/难题感觉有点棘手，那完全没问题。"
+
+    # game/code/renpy/screens/others.rpy:13
+    old "You can disable minigames/puzzles for this playthrough and continue the story without them."
+    new "您可以在此游戏过程中禁用迷你游戏/难题，并继续故事。"
+
+    # game/code/renpy/screens/others.rpy:14
+    old "Once disabled, minigames can't be turned back on for this playthrough, and minigame achievements won't be earned."
+    new "一旦禁用，迷你游戏将无法在此游戏过程中重新启用，并且将无法获得迷你游戏成就。"
+
+    # game/code/renpy/screens/others.rpy:16
+    old "Disable Minigames"
+    new "禁用迷你游戏"
+
+    # game/code/renpy/screens/others.rpy:20
+    old "Keep Minigames On"
+    new "保持迷你游戏开启"
+

@@ -2003,8 +2003,8 @@ translate spanish sm1mv01s02_later_7f06eb4b:
     kv "..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:749
-translate spanish sm1mv01s02_later_e9f87a8a:
+translate spanish sm1mv01s02_later_5aedf717:
 
-    # mc "Just a minute?"
+    # mc "Just a moment?"
     mc "¿Solo un minuto?"
 

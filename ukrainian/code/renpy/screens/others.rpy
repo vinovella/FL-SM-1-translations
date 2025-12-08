@@ -40,3 +40,23 @@
     old "Save"
     new "Save"
 
+    # game/code/renpy/screens/others.rpy:12
+    old "If the recent minigames/puzzles feel a bit tricky, that's totally okay."
+    new "If the recent minigames/puzzles feel a bit tricky, that's totally okay."
+
+    # game/code/renpy/screens/others.rpy:13
+    old "You can disable minigames/puzzles for this playthrough and continue the story without them."
+    new "You can disable minigames/puzzles for this playthrough and continue the story without them."
+
+    # game/code/renpy/screens/others.rpy:14
+    old "Once disabled, minigames can't be turned back on for this playthrough, and minigame achievements won't be earned."
+    new "Once disabled, minigames can't be turned back on for this playthrough, and minigame achievements won't be earned."
+
+    # game/code/renpy/screens/others.rpy:16
+    old "Disable Minigames"
+    new "Disable Minigames"
+
+    # game/code/renpy/screens/others.rpy:20
+    old "Keep Minigames On"
+    new "Keep Minigames On"
+
