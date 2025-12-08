@@ -1,4 +1,4 @@
-﻿# game/code/scenes/main_story/sm1ms030.rpy:17
+# game/code/scenes/main_story/sm1ms030.rpy:17
 translate spanish sm1ms030_db9ca27a:
 
     # sy "Pirate ship?"
