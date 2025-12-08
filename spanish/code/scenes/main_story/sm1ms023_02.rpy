@@ -1,4 +1,4 @@
-﻿# game/code/scenes/main_story/sm1ms023_02.rpy:14
+# game/code/scenes/main_story/sm1ms023_02.rpy:14
 translate spanish sm1ms023_02_64956fcf:
 
     # mc "Did something go wrong?"
@@ -387,4 +387,3 @@ translate spanish sm1ms023_02_06e815d3:
 
     # mc "See you, Stacy."
     mc "Nos vemos, Stacy."
-
