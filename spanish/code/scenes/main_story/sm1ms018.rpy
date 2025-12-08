@@ -680,5 +680,5 @@ translate spanish sm1ms018_backstage_9930ed4b:
 translate spanish sm1ms018_backstage_c9a5ec06:
 
     # mc "I'll walk us out."
-    mc "Nos acompaño a la salida."
+    mc "Las acompaño a la salida."
 
