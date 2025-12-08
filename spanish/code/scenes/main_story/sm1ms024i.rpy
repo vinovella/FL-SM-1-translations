@@ -1,4 +1,4 @@
-﻿# game/code/scenes/main_story/sm1ms024i.rpy:6
+# game/code/scenes/main_story/sm1ms024i.rpy:6
 translate spanish sm1ms024i_bc0b952a:
 
     # sy "[mcname]! It's done!"
@@ -27,4 +27,3 @@ translate spanish sm1ms024i_2604facd:
 
     # sy "Yep! Come here!"
     sy "¡Sip! ¡Ven aquí!"
-
