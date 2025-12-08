@@ -1,4 +1,4 @@
-﻿# game/code/scenes/main_story/sm1ms027.rpy:13
+# game/code/scenes/main_story/sm1ms027.rpy:13
 translate spanish sm1ms027_5d79a831:
 
     # sy "[mcname]!{w} Wakeup!"
@@ -375,4 +375,3 @@ translate spanish sm1ms027_82b68733:
 
     # sy "People really liked the design of Nari as an alien. And they thought the sets and costume ruled!"
     sy "A la gente realmente le gustó el diseño de Nari como alienígena. ¡Y pensaron que los decorados y el vestuario eran geniales!"
-
