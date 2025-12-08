@@ -54,15 +54,15 @@ translate portuguese strings:
 
     # game/code/renpy/screens/others.rpy:12
     old "If the recent minigames/puzzles feel a bit tricky, that's totally okay."
-    new "Se os minijogos/puzzles recentes parecerem um pouco complicados, tudo bem."
+    new "Se os minigames/puzzles recentes parecerem um pouco complicados, não tem problema."
 
     # game/code/renpy/screens/others.rpy:13
     old "You can disable minigames/puzzles for this playthrough and continue the story without them."
-    new "Você pode desativar os minijogos/puzzles para esta jogada e continuar a história sem eles."
+    new "Você pode desativar os minigames/puzzles nesta jogada e continuar a história sem eles."
 
     # game/code/renpy/screens/others.rpy:14
     old "Once disabled, minigames can't be turned back on for this playthrough, and minigame achievements won't be earned."
-    new "Uma vez desativados, os minijogos não podem ser reativados para esta jogada, e as conquistas dos minijogos não serão desbloqueadas."
+    new "Uma vez desativados, os minigames não podem ser reativados nesta jogada, e não poderá desbloquear as conquistas dos mingames."
 
     # game/code/renpy/screens/others.rpy:16
     old "Disable Minigames"
@@ -70,5 +70,5 @@ translate portuguese strings:
 
     # game/code/renpy/screens/others.rpy:20
     old "Keep Minigames On"
-    new "Manter Minigames Ativados"
+    new "Manter Minigames"
 
