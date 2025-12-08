@@ -1,4 +1,4 @@
-﻿# game/code/scenes/main_story/sm1ms023_02i.rpy:5
+# game/code/scenes/main_story/sm1ms023_02i.rpy:5
 translate spanish sm1ms023_02i_d580653f:
 
     # mc "How's the edit coming?"
@@ -33,4 +33,3 @@ translate spanish sm1ms023_02i_d9d0b6cc:
 
     # sy "Let me show you."
     sy "Déjame mostrarte."
-
