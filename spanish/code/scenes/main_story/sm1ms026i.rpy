@@ -1,4 +1,4 @@
-﻿# game/code/scenes/main_story/sm1ms026i.rpy:6
+# game/code/scenes/main_story/sm1ms026i.rpy:6
 translate spanish sm1ms026i_2faef0f8:
 
     # sy "Yes?"
@@ -101,4 +101,3 @@ translate spanish strings:
     # game/code/scenes/main_story/sm1ms026i.rpy:125
     old "Choose Sci-Fi Movie ([message!t])"
     new "Elegir la película de ciencia ficción ([message!t])"
-
