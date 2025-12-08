@@ -1,4 +1,4 @@
-﻿# game/code/scenes/main_story/sm1ms025.rpy:11
+# game/code/scenes/main_story/sm1ms025.rpy:11
 translate spanish sm1ms025_dce1a447:
 
     # sy "We got a new order from the client."
