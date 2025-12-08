@@ -165,7 +165,7 @@
     new "Maestro dei minigiochi"
 
     # game/code/data/gallery/achievements.rpy:1
-    old "Finish 100% of the game with Minigames"
+    old "Finish 100% of the game with minigames"
     new "Completa il 100% del gioco con i minigiochi"
 
     # game/code/data/gallery/achievements.rpy:1

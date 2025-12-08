@@ -165,7 +165,7 @@
     new "小游戏大师"
 
     # game/code/data/gallery/achievements.rpy:1
-    old "Finish 100% of the game with Minigames"
+    old "Finish 100% of the game with minigames"
     new "100%完成带有小游戏的游戏"
 
     # game/code/data/gallery/achievements.rpy:1

@@ -165,8 +165,8 @@
     new "Mini Oyunların Ustası"
 
     # game/code/data/gallery/achievements.rpy:1
-    old "Finish 100% of the game with Minigames"
-    new "Oyunun %100'ünü Mini Oyunlarla bitir"
+    old "Finish 100% of the game with minigames"
+    new "Oyunun %100'ünü mini Oyunlarla bitir"
 
     # game/code/data/gallery/achievements.rpy:1
     old "Kinky Treasure"

@@ -248,7 +248,7 @@ translate magyar sm1fs_t001_c6ab1596:
 translate magyar sm1fs_t001_7b348033:
 
     # mc "I don't know. Didn't you start it?"
-    mc "Nem tudom. Nem te kezdted?
+    mc "Nem tudom. Nem te kezdted?"
 
 # game/code/scenes/theatre/sm1fs-t001.rpy:156
 translate magyar sm1fs_t001_68cdbf14:

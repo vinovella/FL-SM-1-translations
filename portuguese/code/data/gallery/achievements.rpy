@@ -158,15 +158,15 @@ translate portuguese strings:
 
     # game/code/data/gallery/achievements.rpy:1
     old "Finish main story with minigames"
-    new "Termine a história principal com mini games"
+    new "Termine a história principal com minigames"
 
     # game/code/data/gallery/achievements.rpy:1
     old "Master of the Mini Games"
     new "Mestre dos Mini Games"
 
     # game/code/data/gallery/achievements.rpy:1
-    old "Finish 100% of the game with Minigames"
-    new "Termine 100% do jogo com Minigames"
+    old "Finish 100% of the game with minigames"
+    new "Termine 100% do jogo com minigames"
 
     # game/code/data/gallery/achievements.rpy:1
     old "Kinky Treasure"

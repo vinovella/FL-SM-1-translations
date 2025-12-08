@@ -205,8 +205,8 @@
     new "Master of the Mini Games"
 
     # game/code/data/gallery/achievements.rpy:1
-    old "Finish 100% of the game with Minigames"
-    new "Finish 100% of the game with Minigames"
+    old "Finish 100% of the game with minigames"
+    new "Finish 100% of the game with minigames"
 
     # game/code/data/gallery/achievements.rpy:1
     old "Kinky Treasure"

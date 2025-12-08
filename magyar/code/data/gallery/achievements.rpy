@@ -205,7 +205,7 @@
     new "A mini játékok mestere"
 
     # game/code/data/gallery/achievements.rpy:1
-    old "Finish 100% of the game with Minigames"
+    old "Finish 100% of the game with minigames"
     new "Teljesítsd a játékot 100%-ra minijátékokkal"
 
     # game/code/data/gallery/achievements.rpy:1
