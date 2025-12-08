@@ -1,4 +1,4 @@
-﻿# game/code/scenes/main_story/sm1ms029i.rpy:7
+# game/code/scenes/main_story/sm1ms029i.rpy:7
 translate spanish sm1ms029i_5d8269d4:
 
     # sy "Is it time!?"
