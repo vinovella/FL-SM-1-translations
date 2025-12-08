@@ -1,4 +1,4 @@
-﻿# game/code/scenes/main_story/sm1ms025i.rpy:6
+# game/code/scenes/main_story/sm1ms025i.rpy:6
 translate spanish sm1ms025i_3e248f0f:
 
     # mc "Hey, Stacy."
