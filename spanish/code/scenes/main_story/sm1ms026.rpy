@@ -1,4 +1,4 @@
-﻿# game/code/scenes/main_story/sm1ms026.rpy:16
+# game/code/scenes/main_story/sm1ms026.rpy:16
 translate spanish sm1ms026_055c0d28:
 
     # sy "Okay, so I've been thinking a lot about this-"
