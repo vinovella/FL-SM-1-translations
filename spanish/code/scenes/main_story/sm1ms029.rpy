@@ -1,4 +1,4 @@
-﻿# game/code/scenes/main_story/sm1ms029.rpy:16
+# game/code/scenes/main_story/sm1ms029.rpy:16
 translate spanish sm1ms029_79f99e06:
 
     # mc "Whatcha' thinking, Stacy?"
@@ -1526,7 +1526,7 @@ translate spanish sm1ms029_talk_mes_ns_fea01c58:
 translate spanish sm1ms029_talk_mes_ns_ffa63963:
 
     # ns "Oh, oh, like a good Korean hot dog!"
-    ns "¡Oh, oh, como un buen perro caliente coreano!"
+    ns "¡Oh, oh, como un buen hot dog coreano!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:738
 translate spanish sm1ms029_talk_mes_ns_277797c1:
