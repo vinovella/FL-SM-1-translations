@@ -1,4 +1,4 @@
-﻿# game/code/scenes/main_story/sm1ms029i.rpy:7
+# game/code/scenes/main_story/sm1ms029i.rpy:7
 translate spanish sm1ms029i_5d8269d4:
 
     # sy "Is it time!?"
@@ -33,4 +33,3 @@ translate spanish sm1ms029i_e7deafa1:
 
     # sy "Make sure you grab your mask, [mcname]!"
     sy "¡Asegúrate de tomar tu máscara, [mcname]!"
-
