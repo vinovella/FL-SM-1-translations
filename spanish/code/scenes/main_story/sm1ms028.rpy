@@ -1,4 +1,4 @@
-﻿# game/code/scenes/main_story/sm1ms028.rpy:7
+# game/code/scenes/main_story/sm1ms028.rpy:7
 translate spanish sm1ms028_449e1cf6:
 
     # "BUZZ BUZZ"
