@@ -2,13 +2,13 @@
 
     # game/code/renpy/screens/money_statement.rpy:78
     old "NEXT"
-    new "NEXT"
+    new "KÖVETKEZŐ"
 
     # game/code/renpy/screens/money_statement.rpy:78
     old "HIDE"
-    new "HIDE"
+    new "ELRJETÉS"
 
     # game/code/renpy/screens/money_statement.rpy:86
     old "SKIP ALL"
-    new "SKIP ALL"
+    new "MINDENT KIHAGY"
 
