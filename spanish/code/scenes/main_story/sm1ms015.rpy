@@ -80,7 +80,7 @@ translate spanish sm1ms015_b8ea19d4:
 translate spanish sm1ms015_6b34436a:
 
     # my "But there is no way this is a fake workplace."
-    my "Pero no hay manera de que este sea un lugar de trabajo falso."
+    my "Pero no es posible que esto sea un lugar de trabajo falso."
 
 # game/code/scenes/main_story/sm1ms015.rpy:61
 translate spanish sm1ms015_376ec9a4:
@@ -110,7 +110,7 @@ translate spanish sm1ms015_7984778f:
 translate spanish sm1ms015_87221ca9:
 
     # my "It's just that sometimes my son has been known to exaggerate."
-    my "Es solo que a veces se sabe que mi hijo exagera."
+    my "Es solo que a veces mi hijo tiene fama de ser un poco exagerado."
 
 # game/code/scenes/main_story/sm1ms015.rpy:73
 translate spanish sm1ms015_6f96220a:
@@ -206,7 +206,7 @@ translate spanish sm1ms015_6f82bd28:
 translate spanish sm1ms015_4aa2fe77:
 
     # sy "Sorry, we can get a little protective."
-    sy "Lo siento, podemos ponernos un poco protectores."
+    sy "Lo siento, podemos ponernos un poco protectoras."
 
 # game/code/scenes/main_story/sm1ms015.rpy:107
 translate spanish sm1ms015_9df72dd2:
@@ -266,7 +266,7 @@ translate spanish sm1ms015_2432f0fe:
 translate spanish sm1ms015_b01b4358:
 
     # cw "That you've been what?"
-    cw "¿Que has sido qué?"
+    cw "¿Que has estado qué?"
 
 # game/code/scenes/main_story/sm1ms015.rpy:133
 translate spanish sm1ms015_e03a4483:
@@ -284,7 +284,7 @@ translate spanish sm1ms015_ef3e2977:
 translate spanish sm1ms015_3734e8bc:
 
     # cw "Hmmm. Well, I can say he's been more than adequate at his job here so far."
-    cw "Mmm. Bueno, puedo decir que ha sido más que adecuado en su trabajo aquí hasta ahora."
+    cw "Mmm. Bueno, puedo decir que, hasta ahora, ha sido más que adecuado en su trabajo aquí."
 
 # game/code/scenes/main_story/sm1ms015.rpy:138
 translate spanish sm1ms015_2eb479a0:
@@ -320,13 +320,13 @@ translate spanish sm1ms015_73793747:
 translate spanish sm1ms015_c978a465:
 
     # cw "It's Miss."
-    cw "Es Señorita."
+    cw "Es señorita."
 
 # game/code/scenes/main_story/sm1ms015.rpy:159
 translate spanish sm1ms015_05ee9ede:
 
     # mc "Thank you, Miss Watts."
-    mc "Gracias, Señorita Watts."
+    mc "Gracias, señorita Watts."
 
 # game/code/scenes/main_story/sm1ms015.rpy:163
 translate spanish sm1ms015_07c3d6f6:
@@ -338,7 +338,7 @@ translate spanish sm1ms015_07c3d6f6:
 translate spanish sm1ms015_6c76ce87:
 
     # my "Very serious woman. I like her."
-    my "Mujer muy seria. Me gusta."
+    my "Una mujer muy seria. Me gusta."
 
 # game/code/scenes/main_story/sm1ms015.rpy:168
 translate spanish sm1ms015_9a5772c2:
@@ -452,7 +452,7 @@ translate spanish sm1ms015_3cc1b549:
 translate spanish sm1ms015_cd8c9f13:
 
     # mc "Oh right. My mistake."
-    mc "Oh, claro. Mi error."
+    mc "Oh, verdad. Mi error."
 
 # game/code/scenes/main_story/sm1ms015.rpy:222
 translate spanish sm1ms015_4e6ca198:
@@ -518,7 +518,7 @@ translate spanish sm1ms015_85730248:
 translate spanish sm1ms015_9b705389:
 
     # ns "[mcname] did not mention he had such a beautiful mother before."
-    ns "[mcname] no mencionó que tenía una madre tan hermosa antes."
+    ns "[mcname] no mencionó que tenía una madre tan hermosa."
 
 # game/code/scenes/main_story/sm1ms015.rpy:251
 translate spanish sm1ms015_d91d57e6:
@@ -554,7 +554,7 @@ translate spanish sm1ms015_09f48b49:
 translate spanish sm1ms015_8f3a9605:
 
     # am "Good for you."
-    am "Bien por usted."
+    am "Bien por ti."
 
 # game/code/scenes/main_story/sm1ms015.rpy:277
 translate spanish sm1ms015_e63adbd8:
@@ -578,13 +578,13 @@ translate spanish sm1ms015_02532d8f:
 translate spanish sm1ms015_447efb1c:
 
     # ns "Can I ask what brought you in today?"
-    ns "¿Puedo preguntarle qué le ha hecho venir hoy?"
+    ns "Disculpe, ¿puedo preguntarle el motivo de su visita hoy?"
 
 # game/code/scenes/main_story/sm1ms015.rpy:291
 translate spanish sm1ms015_0096f8ff:
 
     # my "Well..."
-    my "Bien..."
+    my "Bueno..."
 
 # game/code/scenes/main_story/sm1ms015.rpy:294
 translate spanish sm1ms015_d7095774:
@@ -626,13 +626,13 @@ translate spanish sm1ms015_b736cb46:
 translate spanish sm1ms015_dde969e9:
 
     # my "Really? That's very nice. So you're work buddies."
-    my "¿De verdad? Eso es muy agradable. Entonces son amigos de trabajo."
+    my "¿En serio? Qué bien. Entonces, son compañeros de trabajo."
 
 # game/code/scenes/main_story/sm1ms015.rpy:310
 translate spanish sm1ms015_d4b42fbd:
 
     # ns "Yes. I've been doing my best to teach [mcname] a little bit of what I know to help him do even better than he already was."
-    ns "Sí. He hecho todo lo posible por enseñarle a [mcname] un poco de lo que sé para ayudarle a hacerlo aún mejor de lo que ya lo era."
+    ns "Sí. Me he esforzado por enseñarle a [mcname] un poco de lo que sé, para ayudarlo a desempeñarse incluso mejor de lo que ya lo hace."
 
 # game/code/scenes/main_story/sm1ms015.rpy:314
 translate spanish sm1ms015_fb1581eb:
@@ -812,7 +812,7 @@ translate spanish sm1ms015_39d2ff60:
 translate spanish sm1ms015_b22c66b0:
 
     # my "More structure for you."
-    my "Más estructura para ti."
+    my "Más estructurado para ti."
 
 # game/code/scenes/main_story/sm1ms015.rpy:402
 translate spanish sm1ms015_e1a5e200:
@@ -896,7 +896,7 @@ translate spanish sm1ms015_d989617b:
 translate spanish sm1ms015_fdab53eb:
 
     # ns "And I'm delighted to meet you too, Ms. Melony."
-    ns "Y yo también encantada de conocerla, señora Melony."
+    ns "Y yo también estoy encantada de conocerla, señora Melony."
 
 # game/code/scenes/main_story/sm1ms015.rpy:381
 translate spanish sm1ms015_23fb47ba:
