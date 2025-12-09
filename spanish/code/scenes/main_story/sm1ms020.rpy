@@ -1307,3 +1307,4 @@ translate spanish sm1ms020_5f7987cf:
 
     # mc "Well... why did you use to live in Crowning?"
     mc "Bueno... ¿por qué solías vivir en Crowning?"
+
