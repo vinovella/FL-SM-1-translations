@@ -8,5 +8,5 @@ translate magyar buzz_4377a2f7:
 translate magyar knock_40511e6c:
 
     # "*knock knock*"
-    "*knock knock*"
+    "*kop kop*"
 
