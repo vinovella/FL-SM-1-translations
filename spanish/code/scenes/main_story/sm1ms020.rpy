@@ -26,13 +26,13 @@ translate spanish sm1ms020_bb4320c3:
 translate spanish sm1ms020_50089a45:
 
     # mct "Oh, Mom must be done with her call."
-    mct "Oh, mamá debe terminar con su llamada."
+    mct "Oh, mamá debió terminar su llamada."
 
 # game/code/scenes/main_story/sm1ms020.rpy:30
 translate spanish sm1ms020_b730f98c:
 
     # mct "Oh, Melony must be done with her call."
-    mct "Oh, Melony debe terminar con su llamada."
+    mct "Oh, Melony debió terminar su llamada."
 
 # game/code/scenes/main_story/sm1ms020.rpy:34
 translate spanish sm1ms020_eeb4e2c9:
@@ -184,6 +184,12 @@ translate spanish sm1ms020_ff81abaf:
     # mct "Wow, when Stacy said dive... I didn't think it would be this much of a dive."
     mct "Wow, cuando Stacy dijo sumergirse... No pensé que sería una inmersión tan grande."
 
+# game/code/scenes/main_story/sm1ms020.rpy:110
+translate spanish sm1ms020_4ee9b4b6:
+
+    # my "Oh! You brought us to Guns and Rosette's!"
+    my "¡Oh! ¡Nos trajiste a Guns y Rosette's!"
+
 # game/code/scenes/main_story/sm1ms020.rpy:113
 translate spanish sm1ms020_7ea9d06a:
 
@@ -218,13 +224,19 @@ translate spanish sm1ms020_34429340:
 translate spanish sm1ms020_cba02b08:
 
     # sy "Apparently. We've learned a lot about you since we started the renovation. You have nudes, you used to live in Crowning..."
-    sy "Aparentemente. Hemos aprendido mucho sobre ti desde que comenzamos la renovación. Tienes desnudos, solías vivir en Crowning..."
+    sy "Al parecer, sí. Hemos aprendido mucho sobre ti desde que empezamos la renovación. Tienes fotos de desnudos, solías vivir en Crowning..."
 
 # game/code/scenes/main_story/sm1ms020.rpy:132
 translate spanish sm1ms020_f6b79e8d:
 
     # my "Well you two never asked me about me before!"
     my "¡Bueno, nunca antes me habían preguntado por mí!"
+
+# game/code/scenes/main_story/sm1ms020.rpy:135
+translate spanish sm1ms020_fd52713d:
+
+    # mc "Well... why did you used to live in Crowning?"
+    mc "Bueno... ¿por qué solías vivir en Crowning?"
 
 # game/code/scenes/main_story/sm1ms020.rpy:138
 translate spanish sm1ms020_9a2ac44d:
@@ -272,7 +284,7 @@ translate spanish sm1ms020_27576ae2:
 translate spanish sm1ms020_deea79cc:
 
     # mc "And I'll have a beer."
-    mc "Y tomaré una cerveza."
+    mc "Y yo tomaré una cerveza."
 
 # game/code/scenes/main_story/sm1ms020.rpy:163
 translate spanish sm1ms020_95a3bb15:
@@ -404,7 +416,7 @@ translate spanish sm1ms020_cb3b63e1:
 translate spanish sm1ms020_6222e502:
 
     # sy "Oh my God! [mcname], you dog!"
-    sy "¡Ay dios mío! ¡[mcname], perro!"
+    sy "¡Ay Dios mío! ¡[mcname], bribón!"
 
 # game/code/scenes/main_story/sm1ms020.rpy:229
 translate spanish sm1ms020_0c8e4995:
@@ -470,13 +482,13 @@ translate spanish sm1ms020_e04cd815:
 translate spanish sm1ms020_ae9bce07:
 
     # sy "You should totally hit on Mom. She was hitting on you."
-    sy "Deberías golpear totalmente a mamá. Ella te estaba golpeando."
+    sy "Definitivamente deberías coquetear con Mamá. Ella te estaba coqueteando a ti."
 
 # game/code/scenes/main_story/sm1ms020.rpy:259
 translate spanish sm1ms020_9b714007:
 
     # sy "You should totally hit on Melony. She was hitting on you."
-    sy "Deberías golpear totalmente a Melony. Ella te estaba golpeando."
+    sy "Definitivamente deberías coquetear con Melony. Ella te estaba coqueteando a ti."
 
 # game/code/scenes/main_story/sm1ms020.rpy:262
 translate spanish sm1ms020_5cc18c62:
@@ -512,7 +524,7 @@ translate spanish sm1ms020_4c1aee4b:
 translate spanish sm1ms020_e946b619:
 
     # sy "Come on, you know she's hot."
-    sy "Vamos, sabes que está sexy."
+    sy "Vamos, sabes que ella es sexy."
 
 # game/code/scenes/main_story/sm1ms020.rpy:278
 translate spanish sm1ms020_80e86122:
@@ -626,7 +638,7 @@ translate spanish sm1ms020_ab47e0bc:
 translate spanish sm1ms020_2ab2b410:
 
     # sy "This is so hot... [mcname] hitting on our oldest, family friend."
-    sy "Esto es tan caliente... [mcname] golpeando a nuestra más antigua amiga de la familia."
+    sy "Esto es tan excitante... [mcname] coqueteando con nuestra amiga más antigua de la familia."
 
 # game/code/scenes/main_story/sm1ms020.rpy:326
 translate spanish sm1ms020_794508bc:
@@ -686,7 +698,7 @@ translate spanish sm1ms020_77cf2a4b:
 translate spanish sm1ms020_7b73fb33:
 
     # sy "Fine.{w} Party pooper."
-    sy "Bien.{w} Party Pooper."
+    sy "Bien.{w} Aguafiestas."
 
 # game/code/scenes/main_story/sm1ms020.rpy:358
 translate spanish sm1ms020_489484fe:
@@ -734,7 +746,7 @@ translate spanish sm1ms020_flirting_9927fb89:
 translate spanish sm1ms020_flirting_03d68c6e:
 
     # sy "Uh huh! I think we can tell her, don't you, [mcname]?"
-    sy "¡Uh huh! Creo que podemos decírselo, ¿no, [mcname]?"
+    sy "¡Ajá! Creo que podemos decírselo, ¿no, [mcname]?"
 
 # game/code/scenes/main_story/sm1ms020.rpy:394
 translate spanish sm1ms020_flirting_d6bdcf9a:
@@ -800,13 +812,13 @@ translate spanish sm1ms020_flirting_1db5c071:
 translate spanish sm1ms020_flirting_e226312b:
 
     # my "Uh huh."
-    my "Uh huh."
+    my "Ajá."
 
 # game/code/scenes/main_story/sm1ms020.rpy:426
 translate spanish sm1ms020_flirting_1d3146e7:
 
     # mc "What! We do one thing, and it helps to have promotional shots that show off the models!"
-    mc "Qué! Hacemos una cosa, y ayuda tener fotos promocionales que muestren a las modelos!"
+    mc "¡Qué! Hacemos una cosa, y ayuda tener fotos promocionales que muestren a las modelos."
 
 # game/code/scenes/main_story/sm1ms020.rpy:429
 translate spanish sm1ms020_flirting_62ba0ad8:
@@ -956,7 +968,7 @@ translate spanish sm1ms020_flirting_9f11d82b:
 translate spanish sm1ms020_flirting_20231c89:
 
     # sy "Now it's my turn to ask - what'd I miss?"
-    sy "Ahora me toca a mí preguntar: ¿qué me perdí?"
+    sy "Ahora me toca a mí preguntar... ¿qué me perdí?"
 
 # game/code/scenes/main_story/sm1ms020.rpy:498
 translate spanish sm1ms020_flirting_9eaf368a:
@@ -1106,7 +1118,7 @@ translate spanish sm1ms020_cheers_47374f01:
 translate spanish sm1ms020_cheers_068311d3:
 
     # my "So a toast, to you two wonderful humans."
-    my "Entonces un brindis, por los dos humanos maravillosos que son ustedes."
+    my "Entonces, un brindis por ustedes, dos seres humanos maravillosos."
 
 # game/code/scenes/main_story/sm1ms020.rpy:582
 translate spanish sm1ms020_cheers_1e2e7bd4:
@@ -1214,7 +1226,7 @@ translate spanish sm1ms020_cheers_5e2b3f7d:
 translate spanish sm1ms020_cheers_5d94067c:
 
     # sy "But, here's to us! And to finally being able to start filming again!"
-    sy "Pero, ¡aquí está para nosotros! ¡Y finalmente poder comenzar a filmar de nuevo!"
+    sy "Pero, ¡por nosotros! ¡Y por poder finalmente empezar a filmar de nuevo!"
 
 # game/code/scenes/main_story/sm1ms020.rpy:639
 translate spanish sm1ms020_cheers_de21ee0c:
@@ -1295,16 +1307,4 @@ translate spanish sm1ms020_0046f9d0:
 
     # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
     my "Me encargo de gestionar las relaciones entre los inversionistas y la galería, y de buscar nuevos artistas para exponer..."
-
-# game/code/scenes/main_story/sm1ms020.rpy:110
-translate spanish sm1ms020_ef441d96:
-
-    # my "Oh! You brought us to Guns and Rosette!"
-    my "¡Oh! ¡Nos trajiste a Guns and Rosette!"
-
-# game/code/scenes/main_story/sm1ms020.rpy:135
-translate spanish sm1ms020_5f7987cf:
-
-    # mc "Well... why did you use to live in Crowning?"
-    mc "Bueno... ¿por qué solías vivir en Crowning?"
 
