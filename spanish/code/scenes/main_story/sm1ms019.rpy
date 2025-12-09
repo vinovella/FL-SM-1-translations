@@ -32,7 +32,7 @@ translate spanish sm1ms019_784315de:
 translate spanish sm1ms019_5223baf4:
 
     # mc "Yeah! I think we're just putting the finishing touches on the studio now!"
-    mc "¡Sí! ¡Creo que ahora solo estamos dando los toques finales en el estudio!"
+    mc "¡Sí! ¡Creo que ahora solo estamos dando los toques finales al estudio!"
 
 # game/code/scenes/main_story/sm1ms019.rpy:52
 translate spanish sm1ms019_e8d2eeb4:
@@ -206,7 +206,7 @@ translate spanish sm1ms019_827e7ab4:
 translate spanish sm1ms019_100f7be8:
 
     # my "When you two are together, you manage to keep each other... well, you manage to help each other out of trouble."
-    my "Cuando los dos están juntos, se las arreglan para mantenerse el uno al otro... bueno, se las arreglan para ayudarse mutuamente a salir de los problemas."
+    my "Cuando ustedes dos están juntos, logran mantenerse... bueno, se las arreglan para ayudarse a salir de los problemas."
 
 # game/code/scenes/main_story/sm1ms019.rpy:159
 translate spanish sm1ms019_98c46765:
@@ -224,7 +224,7 @@ translate spanish sm1ms019_74f85333:
 translate spanish sm1ms019_17a146e8:
 
     # mc "Uhm, yeah! Let's see - so you've seen the painting..."
-    mc "¡Uhm, sí! Veamos, así que has visto la pintura..."
+    mc "¡Ejem, sí! Veamos, así que ya has visto la pintura..."
 
 # game/code/scenes/main_story/sm1ms019.rpy:166
 translate spanish sm1ms019_8cc04dca:
@@ -248,7 +248,7 @@ translate spanish sm1ms019_e66a7f2d:
 translate spanish sm1ms019_3f82086b:
 
     # my "Smart, you'll need that. It's always better to expect models to come in half ready and need to hurry to finish putting themselves together."
-    my "¡Inteligente, eso lo necesitarás! Siempre es mejor esperar que los modelos lleguen a medio hacer y que haya que apurarse para terminar de prepararse."
+    my "Inteligente, eso es necesario. Siempre es mejor esperar que los modelos lleguen a medio arreglar y que haya que apurarse para terminar de alistarlos."
 
 # game/code/scenes/main_story/sm1ms019.rpy:183
 translate spanish sm1ms019_6ae9b218:
@@ -278,7 +278,7 @@ translate spanish sm1ms019_9ed85745:
 translate spanish sm1ms019_6d164eb3:
 
     # my "It looks like the kitchen is about the same?"
-    my "¿Parece que la cocina es casi la misma?"
+    my "¿Parece que la cocina es casi lo mismo?"
 
 # game/code/scenes/main_story/sm1ms019.rpy:195
 translate spanish sm1ms019_80206133:
@@ -392,13 +392,13 @@ translate spanish sm1ms019_2c52881c:
 translate spanish sm1ms019_2b6fc3df:
 
     # mc "She's, erm, being dramatic. It's mostly just for sleeping and living and whatnot."
-    mc "Ella es... erm, siendo dramática. Es principalmente solo para dormir y vivir y todo eso."
+    mc "Ella está... erm, siendo dramática. Es principalmente solo para dormir y vivir y todo eso."
 
 # game/code/scenes/main_story/sm1ms019.rpy:257
 translate spanish sm1ms019_0730c9cf:
 
     # my "Uh huh. And all of these posters of sex toys on the wall are just for the ambiance, right?"
-    my "Uh huh. Y todos estos carteles de juguetes sexuales en la pared son solo para el ambiente, ¿verdad?"
+    my "Ajá. Y todos estos carteles de juguetes sexuales en la pared son solo para el ambiente, ¿verdad?"
 
 # game/code/scenes/main_story/sm1ms019.rpy:260
 translate spanish sm1ms019_0972c153:
@@ -416,7 +416,7 @@ translate spanish sm1ms019_5c3df96d:
 translate spanish sm1ms019_89e9e766:
 
     # my "But I am excited to see what the upstairs looks like!"
-    my "¡Pero estoy emocionado de ver cómo se ven las escaleras!"
+    my "¡Pero estoy emocionada de ver cómo se ven las escaleras!"
 
 # game/code/scenes/main_story/sm1ms019.rpy:268
 translate spanish sm1ms019_e13a1190:
@@ -428,7 +428,7 @@ translate spanish sm1ms019_e13a1190:
 translate spanish sm1ms019_4722855d:
 
     # my "Oh wow, is this your bed, [mcname]?"
-    my "Oh guau, ¿es esta tu cama, [mcname]?"
+    my "Guau, ¿es esta tu cama, [mcname]?"
 
 # game/code/scenes/main_story/sm1ms019.rpy:275
 translate spanish sm1ms019_e9a28e46:
@@ -566,7 +566,7 @@ translate spanish sm1ms019_51968e8a:
 translate spanish sm1ms019_a31d8f7e:
 
     # mc "Maybe. But I know a few of them are already in tight spots with where they're currently living."
-    mc "Tal vez. Pero sé que algunos de ellos ya están en una situación difícil con el lugar donde viven actualmente."
+    mc "Tal vez. Pero sé que algunas de ellas ya están en una situación difícil con el lugar donde viven actualmente."
 
 # game/code/scenes/main_story/sm1ms019.rpy:348
 translate spanish sm1ms019_7b54bd0c:
@@ -590,7 +590,7 @@ translate spanish sm1ms019_ab2645ca:
 translate spanish sm1ms019_59e1c35c:
 
     # mc "But in all seriousness, some of them just need a better place to live. And there are a lot of rooms here that are just sitting empty."
-    mc "Pero en serio, algunos necesitan un lugar mejor para vivir. Y aquí hay muchas habitaciones vacías."
+    mc "Pero en serio, algunas necesitan un lugar mejor para vivir. Y aquí hay muchas habitaciones vacías."
 
 # game/code/scenes/main_story/sm1ms019.rpy:360
 translate spanish sm1ms019_1ea3ecf5:
@@ -614,7 +614,7 @@ translate spanish sm1ms019_de588ce3:
 translate spanish sm1ms019_00dc868c:
 
     # mc "Well, I'm doing what I can at least."
-    mc "Bueno, estoy haciendo lo que puedo al menos."
+    mc "Bueno, al menos estoy haciendo lo que puedo."
 
 # game/code/scenes/main_story/sm1ms019.rpy:374
 translate spanish sm1ms019_6c99853c:
@@ -686,7 +686,7 @@ translate spanish sm1ms019_ed68a73f:
 translate spanish sm1ms019_168d63b8:
 
     # mc "Wow... Thanks, Melony."
-    mc "Wow... gracias, Melony."
+    mc "Guau... gracias, Melony."
 
 # game/code/scenes/main_story/sm1ms019.rpy:404
 translate spanish sm1ms019_5fbb2284:
@@ -734,7 +734,7 @@ translate spanish sm1ms019_e003fe18:
 translate spanish sm1ms019_9cdf1473:
 
     # sy "What, have you got a hot date or something?"
-    sy "¿Qué, tienes una cita sexy o algo así?"
+    sy "¿Qué, tienes una cita importante o algo así?"
 
 # game/code/scenes/main_story/sm1ms019.rpy:433
 translate spanish sm1ms019_99647569:
@@ -782,7 +782,7 @@ translate spanish sm1ms019_2e3c72cb:
 translate spanish sm1ms019_e9029942:
 
     # my "Uh huh..."
-    my "Uh huh..."
+    my "Ajá..."
 
 # game/code/scenes/main_story/sm1ms019.rpy:458
 translate spanish sm1ms019_efc8adfc:
@@ -842,7 +842,7 @@ translate spanish sm1ms019_8458adf6:
 translate spanish sm1ms019_a0268571:
 
     # mc "Wow... I can't believe we're really done with the renovation."
-    mc "Wow... no puedo creer que realmente hayamos terminado con la renovación."
+    mc "Vaya... no puedo creer que realmente hayamos terminado con la renovación."
 
 # game/code/scenes/main_story/sm1ms019.rpy:485
 translate spanish sm1ms019_c786e90b:
@@ -866,7 +866,7 @@ translate spanish sm1ms019_7b736ce2:
 translate spanish sm1ms019_ad34cfda:
 
     # sy "Man... Melony was feeling a little spicy today."
-    sy "Uf... Mamá estaba un poco picante hoy."
+    sy "Uf... Melony estaba un poco picante hoy."
 
 # game/code/scenes/main_story/sm1ms019.rpy:501
 translate spanish sm1ms019_7e02bf55:
@@ -1058,7 +1058,7 @@ translate spanish sm1ms019_9bc847f1:
 translate spanish sm1ms019_4483922b:
 
     # sy "We're going out tonight to celebrate!"
-    sy "¡Saldremos esta noche para celebrar!"
+    sy "¡Saldremos esta noche a celebrar!"
 
 # game/code/scenes/main_story/sm1ms019.rpy:588
 translate spanish sm1ms019_9e623cfe:
@@ -1094,7 +1094,7 @@ translate spanish sm1ms019_8a7582b4:
 translate spanish sm1ms019_2fd33d86:
 
     # mct "There's no way... Stacy is just imagining things."
-    mct "No hay manera... Stacy sólo está imaginando cosas."
+    mct "No puede ser... Stacy solo está imaginando cosas."
 
 # game/code/scenes/main_story/sm1ms019.rpy:597
 translate spanish sm1ms019_09613f74:
@@ -1130,7 +1130,7 @@ translate spanish sm1ms019_68366664:
 translate spanish sm1ms019_192ae982:
 
     # mct "Nah, she's just being crazy and horny. There's no way..."
-    mct "No, ella solo está loca y caliente. No hay manera..."
+    mct "No, ella solo está loca y excitada. No hay manera..."
 
 # game/code/scenes/main_story/sm1ms019.rpy:608
 translate spanish sm1ms019_a0cfca12:
