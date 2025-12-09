@@ -1,7 +1,7 @@
 ﻿translate magyar strings:
 
     # game/code/renpy/screens/others.rpy:34
-    old "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to .identify areas for improvement."
+    old "We collect only anonymized data to better understand which paths, characters, scenes, and fetishes are most popular and to identify areas for improvement."
     new "Csak névtelen adatokat gyűjtünk, hogy jobban megértsük, mely útvonalak, karakterek, jelenetek és fétisek a legnépszerűbbek, és hogy azonosítsuk a fejlesztésre szoruló területeket."
 
     # game/code/renpy/screens/others.rpy:35
