@@ -2,11 +2,11 @@
 translate magyar wurst_delivery_done_a9f58c90:
 
     # nr "Good job. Here is your money."
-    nr "Good job. Here is your money."
+    nr "Szép munka. Itt a pénzed."
 
 # game/code/minigames/wurst_delivery/wurst_delivery_labels.rpy:55
 translate magyar wurst_delivery_only_story_a9f58c90:
 
     # nr "Good job. Here is your money."
-    nr "Good job. Here is your money."
+    nr "Szép munka. Itt a pénzed."
 
