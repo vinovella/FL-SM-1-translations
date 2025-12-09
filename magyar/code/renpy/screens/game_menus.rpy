@@ -2,15 +2,15 @@
 
     # game/code/renpy/screens/game_menus.rpy:154
     old "BACK"
-    new "BACK"
+    new "VISSZA"
 
     # game/code/renpy/screens/game_menus.rpy:156
     old "HIST"
-    new "HIST"
+    new "TIPPEK"
 
     # game/code/renpy/screens/game_menus.rpy:158
     old "SKIP"
-    new "SKIP"
+    new "KIHAGY"
 
     # game/code/renpy/screens/game_menus.rpy:160
     old "AUTO"
@@ -18,25 +18,25 @@
 
     # game/code/renpy/screens/game_menus.rpy:162
     old "SAVE"
-    new "SAVE"
+    new "MENTÉS"
 
     # game/code/renpy/screens/game_menus.rpy:164
     old "LOAD"
-    new "LOAD"
+    new "BETÖLTÉS"
 
     # game/code/renpy/screens/game_menus.rpy:166
     old "Q.SAVE"
-    new "Q.SAVE"
+    new "GY.MENTÉS"
 
     # game/code/renpy/screens/game_menus.rpy:168
     old "Q.LOAD"
-    new "Q.LOAD"
+    new "GY.BETÖLTÉS"
 
     # game/code/renpy/screens/game_menus.rpy:170
     old "SETTINGS"
-    new "SETTINGS"
+    new "BEÁLLÍTÁSOK"
 
     # game/code/renpy/screens/game_menus.rpy:173
     old "Open phone"
-    new "Open phone"
+    new "Nyitott telefon"
 
