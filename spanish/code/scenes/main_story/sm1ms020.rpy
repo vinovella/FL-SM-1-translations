@@ -1308,3 +1308,14 @@ translate spanish sm1ms020_0046f9d0:
     # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
     my "Me encargo de gestionar las relaciones entre los inversionistas y la galería, y de buscar nuevos artistas para exponer..."
 
+# game/code/scenes/main_story/sm1ms020.rpy:110
+translate spanish sm1ms020_ef441d96:
+
+    # my "Oh! You brought us to Guns and Rosette!"
+    my "¡Oh! ¡Nos trajiste a Guns and Rosette!"
+
+# game/code/scenes/main_story/sm1ms020.rpy:135
+translate spanish sm1ms020_5f7987cf:
+
+    # mc "Well... why did you use to live in Crowning?"
+    mc "Bueno... ¿por qué solías vivir en Crowning?"
