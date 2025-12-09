@@ -50,7 +50,7 @@ translate spanish sm1cs_dc_renovation_9f993911:
 translate spanish sm1cs_dc_renovation_8ed9c4f4:
 
     # dc "What, did you think the only outfit I had was my work uniform?"
-    dc "¿Qué pensaste que el único atuendo que tenía era mi uniforme de trabajo?"
+    dc "¿Pensaste que el único atuendo que tenía era mi uniforme de trabajo?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:50
 translate spanish sm1cs_dc_renovation_7136c946:
@@ -68,7 +68,7 @@ translate spanish sm1cs_dc_renovation_ce2cf84c:
 translate spanish sm1cs_dc_renovation_29ead0f5:
 
     # dc "Wow, this is a great place you've got here, [mcname]."
-    dc "Vaya, este es un gran lugar que tienes aquí, [mcname]."
+    dc "Vaya, este lugar que tienes es estupendo, [mcname]."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:61
 translate spanish sm1cs_dc_renovation_da374159:
@@ -80,13 +80,13 @@ translate spanish sm1cs_dc_renovation_da374159:
 translate spanish sm1cs_dc_renovation_b630e691:
 
     # dc "I'll have to get their number if I ever decide to move. The guy who rented me my apartment was..."
-    dc "Tendré que obtener su número si alguna vez decido mudarme. El tipo que me arrendó mi departamento fue..."
+    dc "Tendré que conseguir su número si alguna vez decido mudarme. El tipo que me arrendó mi departamento fue..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:67
 translate spanish sm1cs_dc_renovation_c521a2d5:
 
     # dc "Well, let's just say that if I had any other option for a place to live, I would've taken it."
-    dc "Bueno, digamos que si tuviera alguna otra opción para un lugar para vivir, lo habría tomado."
+    dc "Bueno, digamos que si tuviera alguna otra opción de un lugar para vivir, lo habría tomado."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:68
 translate spanish sm1cs_dc_renovation_825fb96f:
@@ -110,13 +110,13 @@ translate spanish sm1cs_dc_renovation_99a6d8ec:
 translate spanish sm1cs_dc_renovation_3d449cfe:
 
     # mc "And there's been this weird problem with the lights I can't fix today."
-    mc "Y ha habido este extraño problema con las luces que no puedo solucionar hoy."
+    mc "Y hay un problema extraño con las luces que no puedo arreglar hoy."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:76
 translate spanish sm1cs_dc_renovation_e30086de:
 
     # dc "Well why don't I get a hammer and I can start with the walls?"
-    dc "Bueno, ¿por qué no tengo un martillo y puedo comenzar con las paredes?"
+    dc "Bueno, ¿por qué no me das un martillo y empiezo por las paredes?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:79
 translate spanish sm1cs_dc_renovation_4954dfd6:
@@ -242,7 +242,7 @@ translate spanish sm1cs_dc_renovation_7ee3ace8:
 translate spanish sm1cs_dc_renovation_41f5cc63:
 
     # dc "Oh, it was a silly problem."
-    dc "Oh, fue un problema tonto."
+    dc "Oh, era un problema tonto."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:185
 translate spanish sm1cs_dc_renovation_f7c21acd:
@@ -380,7 +380,7 @@ translate spanish sm1cs_dc_renovation_e1fba0dc:
 translate spanish sm1cs_dc_renovation_85d475fe:
 
     # mc "Of course!"
-    mc "¡Por supuesto!"
+    mc "¡De nada!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:263
 translate spanish sm1cs_dc_renovation_59c08bc6:
@@ -572,13 +572,13 @@ translate spanish sm1cs_dc_renovation_2e4ea0e6:
 translate spanish sm1cs_dc_renovation_4b5b2052:
 
     # mc "Well, Officer Callahan, we'll have to find a way to make us even!"
-    mc "Bueno, Oficial Callahan, ¡tendremos que encontrar una manera de emparejarnos!"
+    mc "Bueno, Oficial Callahan, ¡tendremos que encontrar una manera de quedar a mano!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:354
 translate spanish sm1cs_dc_renovation_a25cfcd0:
 
     # dc "Mmmmm, I guess we will!"
-    dc "Mmmmm, supongo que lo haremos!"
+    dc "Mmmmm, supongo que lo haremos."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:359
 translate spanish sm1cs_dc_renovation_fce227f8:
@@ -596,7 +596,7 @@ translate spanish sm1cs_dc_renovation_1763033c:
 translate spanish sm1cs_dc_renovation_e5818002:
 
     # dc "And you, yours, [mcname]!"
-    dc "¡Y tú, la tuya, [mcname]!"
+    dc "¡Y tú, de la tuya, [mcname]!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:220
 translate spanish sm1cs_dc_renovation_1b6ec0ce:
