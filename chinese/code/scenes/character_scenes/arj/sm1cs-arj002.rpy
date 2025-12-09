@@ -700,11 +700,11 @@ translate chinese sm1cs_arj002_95547680:
     # arj "Ooouha... You know I love it when you tie me up."
     arj "哦哈...你知道我喜欢你把我绑起来。"
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:405
-translate chinese sm1cs_arj002_5bc6de89:
+# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:444
+translate chinese sm1cs_arj002_3e43c9a7:
 
-    # mc "Is that why you keep causing me trouble."
-    mc "这就是你一直给我惹麻烦的原因吗。"
+    # mc "Is that why you keep causing me trouble?"
+    mc "这就是你一直给我惹麻烦的原因吗？"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:408
 translate chinese sm1cs_arj002_a5469a53:
@@ -1420,11 +1420,11 @@ translate chinese sm1cs_arj002_0eeb8fc1:
     # arj "I've missed your big cock pounding into my pussy so much!"
     arj "我太想念你的大鸡巴狂插我的小穴了！"
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:763
-translate chinese sm1cs_arj002_05f71e16:
+# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:783
+translate chinese sm1cs_arj002_070a9f77:
 
-    # sy "Mind if I cut in."
-    sy "介意我插一脚吗。"
+    # sy "Mind if I cut in?"
+    sy "介意我插一脚吗？"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:770
 translate chinese sm1cs_arj002_f7e673c3:

@@ -700,11 +700,11 @@ translate turkish sm1cs_arj002_95547680:
     # arj "Ooouha... You know I love it when you tie me up."
     arj "Ooouha... Beni bağladığında sevdiğimi biliyorsun."
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:405
-translate turkish sm1cs_arj002_5bc6de89:
+# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:444
+translate turkish sm1cs_arj002_3e43c9a7:
 
-    # mc "Is that why you keep causing me trouble."
-    mc "Bu yüzden mi bana sürekli sorun çıkarıyorsun."
+    # mc "Is that why you keep causing me trouble?"
+    mc "Bu yüzden mi bana sürekli sorun çıkarıyorsun?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:408
 translate turkish sm1cs_arj002_a5469a53:
@@ -1420,10 +1420,10 @@ translate turkish sm1cs_arj002_0eeb8fc1:
     # arj "I've missed your big cock pounding into my pussy so much!"
     arj "Büyük sikinin amıma girmesini çok özledim!"
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:763
-translate turkish sm1cs_arj002_05f71e16:
+# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:783
+translate turkish sm1cs_arj002_070a9f77:
 
-    # sy "Mind if I cut in."
+    # sy "Mind if I cut in?"
     sy "Araya girsem olur mu?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:770

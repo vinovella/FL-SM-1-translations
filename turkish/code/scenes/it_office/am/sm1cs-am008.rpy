@@ -562,11 +562,11 @@ translate turkish sm1cs_am008_continue_2b15152e:
     # am "*chuckles*"
     am "*kıkırdar*"
 
-# game/code/scenes/it_office/am/sm1cs-am008.rpy:316
-translate turkish sm1cs_am008_continue_87cd6b8b:
+# game/code/scenes/it_office/am/sm1cs-am008.rpy:337
+translate turkish sm1cs_am008_continue_30c6ebfc:
 
-    # mc "What about your music."
-    mc "Peki ya müziğin."
+    # mc "What about your music?"
+    mc "Peki ya müziğin?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:320
 translate turkish sm1cs_am008_continue_75acdd71:

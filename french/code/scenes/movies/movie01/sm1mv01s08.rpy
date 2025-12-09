@@ -256,10 +256,10 @@ translate french sm1mv01s08_4ad6faab:
     # mc "Haha. I do believe this position will be great for a moneyshot."
     mc "Haha. Je crois que cette position sera parfaite pour un plan final."
 
-# game/code/scenes/movies/movie01/sm1mv01s08.rpy:183
-translate french sm1mv01s08_a3d03639:
+# game/code/scenes/movies/movie01/sm1mv01s08.rpy:182
+translate french sm1mv01s08_ccdfec7b:
 
-    # kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ides."
+    # kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ideas."
     kv "Génial. Je ne veux pas trop pousser les détails, je parie que Stacy a aussi quelques idées."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:184

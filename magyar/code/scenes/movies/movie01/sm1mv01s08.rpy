@@ -263,10 +263,10 @@ translate magyar sm1mv01s08_4ad6faab:
     mc "Haha. I do believe this position will be great for a moneyshot."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:182
-translate magyar sm1mv01s08_a3d03639:
+translate magyar sm1mv01s08_ccdfec7b:
 
-    # kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ides."
-    kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ides."
+    # kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ideas."
+    kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ideas."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:183
 translate magyar sm1mv01s08_b35f30a3:

@@ -257,9 +257,9 @@ translate chinese sm1mv01s08_4ad6faab:
     mc "哈哈。我觉得这个姿势拍特写镜头肯定很棒。"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:182
-translate chinese sm1mv01s08_a3d03639:
+translate chinese sm1mv01s08_ccdfec7b:
 
-    # kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ides."
+    # kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ideas."
     kv "太好了。我不想把细节定得太死，因为我猜史黛西肯定也有她的想法。"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:183

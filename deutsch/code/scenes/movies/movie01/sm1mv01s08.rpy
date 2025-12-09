@@ -257,9 +257,9 @@ translate deutsch sm1mv01s08_4ad6faab:
     mc "Haha. Ich glaube, diese Position eignet sich hervorragend für einen Moneyshot."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:182
-translate deutsch sm1mv01s08_a3d03639:
+translate deutsch sm1mv01s08_ccdfec7b:
 
-    # kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ides."
+    # kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ideas."
     kv "Großartig. Ich möchte mich nicht zu sehr damit beschäftigen, denn ich wette, Stacy hat auch einige Ideen."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:183

@@ -46,11 +46,11 @@ translate portuguese sm1ms028_f41d326d:
     # mct "Porn Cave! That is like the biggest porn site out there."
     mct "Porn Cave! Isso é tipo o maior site de pornô que existe."
 
-# game/code/scenes/main_story/sm1ms028.rpy:28
-translate portuguese sm1ms028_c580ee60:
+# game/code/scenes/main_story/sm1ms028.rpy:37
+translate portuguese sm1ms028_66278e48:
 
-    # mc "Oh yeah. I've perused. What's on your mind, Mr. Dickles."
-    mc "Ah sim. Dei uma olhadinha. O que deseja, Sr. Dickles."
+    # mc "Oh yeah. I've perused. What's on your mind, Mr. Dickles?"
+    mc "Ah sim. Dei uma olhadinha. O que deseja, Sr. Dickles?"
 
 # game/code/scenes/main_story/sm1ms028.rpy:30
 translate portuguese sm1ms028_a9d4c108:
@@ -514,10 +514,10 @@ translate portuguese sm1ms028_location_change_21f06de3:
     # sy "Dickles.{w} If we're going to put our premium content on your site, we'll need a little bit more."
     sy "Dickles.{w} Se vamos colocar nosso conteúdo premium no seu site, vamos precisar de um pouquinho mais."
 
-# game/code/scenes/main_story/sm1ms028.rpy:237
-translate portuguese sm1ms028_location_change_e472835a:
+# game/code/scenes/main_story/sm1ms028.rpy:262
+translate portuguese sm1ms028_location_change_32aa417a:
 
-    # dl "How much more."
+    # dl "How much more?"
     dl "Quanto mais?"
 
 # game/code/scenes/main_story/sm1ms028.rpy:243

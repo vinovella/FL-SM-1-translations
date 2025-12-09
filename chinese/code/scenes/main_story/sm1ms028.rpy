@@ -46,10 +46,10 @@ translate chinese sm1ms028_f41d326d:
     # mct "Porn Cave! That is like the biggest porn site out there."
     mct "色情洞穴！那可是最大的色情网站。"
 
-# game/code/scenes/main_story/sm1ms028.rpy:28
-translate chinese sm1ms028_c580ee60:
+# game/code/scenes/main_story/sm1ms028.rpy:37
+translate chinese sm1ms028_66278e48:
 
-    # mc "Oh yeah. I've perused. What's on your mind, Mr. Dickles."
+    # mc "Oh yeah. I've perused. What's on your mind, Mr. Dickles?"
     mc "哦，是的。我看过。迪克斯先生，有什么事吗？"
 
 # game/code/scenes/main_story/sm1ms028.rpy:30
@@ -514,10 +514,10 @@ translate chinese sm1ms028_location_change_21f06de3:
     # sy "Dickles.{w} If we're going to put our premium content on your site, we'll need a little bit more."
     sy "迪克斯。{w}如果我们要把优质内容放到你的网站上，我们需要更多一点。"
 
-# game/code/scenes/main_story/sm1ms028.rpy:237
-translate chinese sm1ms028_location_change_e472835a:
+# game/code/scenes/main_story/sm1ms028.rpy:262
+translate chinese sm1ms028_location_change_32aa417a:
 
-    # dl "How much more."
+    # dl "How much more?"
     dl "多多少？"
 
 # game/code/scenes/main_story/sm1ms028.rpy:243

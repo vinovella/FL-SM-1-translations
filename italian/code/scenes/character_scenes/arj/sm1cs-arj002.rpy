@@ -700,11 +700,11 @@ translate italian sm1cs_arj002_95547680:
     # arj "Ooouha... You know I love it when you tie me up."
     arj "Ooouha... Sai che adoro quando mi leghi."
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:405
-translate italian sm1cs_arj002_5bc6de89:
+# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:444
+translate italian sm1cs_arj002_3e43c9a7:
 
-    # mc "Is that why you keep causing me trouble."
-    mc "È per questo che continui a crearmi problemi."
+    # mc "Is that why you keep causing me trouble?"
+    mc "È per questo che continui a crearmi problemi?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:408
 translate italian sm1cs_arj002_a5469a53:
@@ -1420,11 +1420,11 @@ translate italian sm1cs_arj002_0eeb8fc1:
     # arj "I've missed your big cock pounding into my pussy so much!"
     arj "Mi è mancato così tanto il tuo grande cazzo che martella nella mia figa!"
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:763
-translate italian sm1cs_arj002_05f71e16:
+# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:783
+translate italian sm1cs_arj002_070a9f77:
 
-    # sy "Mind if I cut in."
-    sy "Ti dispiace se mi intrometto."
+    # sy "Mind if I cut in?"
+    sy "Ti dispiace se mi intrometto?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:770
 translate italian sm1cs_arj002_f7e673c3:

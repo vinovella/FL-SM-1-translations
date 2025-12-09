@@ -563,10 +563,10 @@ translate ukrainian sm1cs_am008_continue_2b15152e:
     am "*chuckles*"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:337
-translate ukrainian sm1cs_am008_continue_87cd6b8b:
+translate ukrainian sm1cs_am008_continue_30c6ebfc:
 
-    # mc "What about your music."
-    mc "What about your music."
+    # mc "What about your music?"
+    mc "What about your music?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:340
 translate ukrainian sm1cs_am008_continue_75acdd71:

@@ -562,10 +562,10 @@ translate spanish sm1cs_am008_continue_2b15152e:
     # am "*chuckles*"
     am "*risas*"
 
-# game/code/scenes/it_office/am/sm1cs-am008.rpy:316
-translate spanish sm1cs_am008_continue_87cd6b8b:
+# game/code/scenes/it_office/am/sm1cs-am008.rpy:337
+translate spanish sm1cs_am008_continue_30c6ebfc:
 
-    # mc "What about your music."
+    # mc "What about your music?"
     mc "¿Qué hay de tu música?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:320

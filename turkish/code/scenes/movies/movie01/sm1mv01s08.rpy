@@ -257,9 +257,9 @@ translate turkish sm1mv01s08_4ad6faab:
     mc "Haha. Bu pozisyonun para sahnesi için harika olacağına inanıyorum."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:182
-translate turkish sm1mv01s08_a3d03639:
+translate turkish sm1mv01s08_ccdfec7b:
 
-    # kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ides."
+    # kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ideas."
     kv "Harika. Çok fazla düşünmek istemiyorum, çünkü bahse girerim Stacy'nin de bazı fikirleri vardır."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:183

@@ -1,4 +1,3 @@
-
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:14
 translate spanish sm1cs_mes_r1_initiator_dbaa5dfb:
 

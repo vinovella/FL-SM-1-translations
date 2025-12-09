@@ -700,10 +700,10 @@ translate french sm1cs_arj002_95547680:
     # arj "Ooouha... You know I love it when you tie me up."
     arj "Ooouha... Tu sais que j'adore quand tu m'attaches."
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:405
-translate french sm1cs_arj002_5bc6de89:
+# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:444
+translate french sm1cs_arj002_3e43c9a7:
 
-    # mc "Is that why you keep causing me trouble."
+    # mc "Is that why you keep causing me trouble?"
     mc "C'est pour ça que tu continues à me causer des ennuis ?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:408
@@ -1420,10 +1420,10 @@ translate french sm1cs_arj002_0eeb8fc1:
     # arj "I've missed your big cock pounding into my pussy so much!"
     arj "Ta grosse bite qui défonce ma chatte m’a tellement manqué !"
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:763
-translate french sm1cs_arj002_05f71e16:
+# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:783
+translate french sm1cs_arj002_070a9f77:
 
-    # sy "Mind if I cut in."
+    # sy "Mind if I cut in?"
     sy "Ça te dérange si je prends la place ?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:770
@@ -1995,31 +1995,31 @@ translate french strings:
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:103
     old "I really enjoyed how it felt being with you when we got together"
     new "J'ai vraiment aimé ce que ça faisait d'être avec toi quand on était ensemble"
-    
+
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:103
     old "I know I couldn't make time for you earlier, but now I can"
     new "Je sais que je ne pouvais pas te consacrer de temps avant, mais maintenant je peux"
-    
+
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:190
     old "I'll beg her"
     new "Je vais la supplier"
-    
+
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:190
     old "I'm not begging her"
     new "Je ne vais pas la supplier"
-    
+
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:316
     old "What do you want AmRose to call you during sex scenes?"
     new "Comment veux-tu qu'AmRose t'appelle pendant les scènes de sexe ?"
-    
+
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:316
     old "Daddy"
     new "Papa"
-    
+
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:316
     old "My name"
     new "Mon nom"
-    
+
     # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:459
     old "The jig is up, my sweet red flower"
     new "Le jeu est terminé, ma douce fleur rouge"

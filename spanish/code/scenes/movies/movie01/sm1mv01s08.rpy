@@ -257,9 +257,9 @@ translate spanish sm1mv01s08_4ad6faab:
     mc "Jaja. Creo que esta posición será genial para un clímax."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:182
-translate spanish sm1mv01s08_a3d03639:
+translate spanish sm1mv01s08_ccdfec7b:
 
-    # kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ides."
+    # kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ideas."
     kv "Impresionante. No quiero ir demasiado lejos tratando de resolverlo, porque apuesto a que Stacy también tiene algunas ideas."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:183

@@ -196,4 +196,3 @@ translate spanish q_inter_nr_10_6f8406ed:
     # nr "Let it rip, kid! Get out there and show those wieners who's boss."
     nr "¡Dale con todo, chico! Sal ahí fuera y muéstrales a esas salchichas quién manda."
 
-

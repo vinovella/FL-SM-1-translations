@@ -2816,4 +2816,3 @@ translate spanish sm1ms009_part_2_0561dc8d:
     # sy "Just wait until you see how I clean up your mess!"
     sy "Espera a ver cómo arreglo tu desastre."
 
-

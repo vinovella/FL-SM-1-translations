@@ -700,10 +700,10 @@ translate deutsch sm1cs_arj002_95547680:
     # arj "Ooouha... You know I love it when you tie me up."
     arj "Ooouha... Du weißt, ich liebe es, wenn du mich fesselst."
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:405
-translate deutsch sm1cs_arj002_5bc6de89:
+# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:444
+translate deutsch sm1cs_arj002_3e43c9a7:
 
-    # mc "Is that why you keep causing me trouble."
+    # mc "Is that why you keep causing me trouble?"
     mc "Ist das der Grund, warum du mir ständig Ärger machst?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:408
@@ -1420,10 +1420,10 @@ translate deutsch sm1cs_arj002_0eeb8fc1:
     # arj "I've missed your big cock pounding into my pussy so much!"
     arj "Ich habe es so sehr vermisst, wie dein großer Schwanz in meine Muschi eindringt!"
 
-# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:763
-translate deutsch sm1cs_arj002_05f71e16:
+# game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:783
+translate deutsch sm1cs_arj002_070a9f77:
 
-    # sy "Mind if I cut in."
+    # sy "Mind if I cut in?"
     sy "Darf ich mich einmischen?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:770

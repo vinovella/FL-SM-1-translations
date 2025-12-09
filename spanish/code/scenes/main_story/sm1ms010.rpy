@@ -1200,4 +1200,3 @@ translate spanish strings:
     old "Stop things from going further"
     new "Detener las cosas antes de que vayan más lejos"
 
-

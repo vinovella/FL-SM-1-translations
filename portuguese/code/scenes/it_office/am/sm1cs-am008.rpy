@@ -562,10 +562,10 @@ translate portuguese sm1cs_am008_continue_2b15152e:
     # am "*chuckles*"
     am "*risos*"
 
-# game/code/scenes/it_office/am/sm1cs-am008.rpy:316
-translate portuguese sm1cs_am008_continue_87cd6b8b:
+# game/code/scenes/it_office/am/sm1cs-am008.rpy:337
+translate portuguese sm1cs_am008_continue_30c6ebfc:
 
-    # mc "What about your music."
+    # mc "What about your music?"
     mc "E a sua música?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:320

@@ -46,11 +46,11 @@ translate turkish sm1ms028_f41d326d:
     # mct "Porn Cave! That is like the biggest porn site out there."
     mct "Porn Cave! Bu en büyük porno sitesi gibi bir şey."
 
-# game/code/scenes/main_story/sm1ms028.rpy:28
-translate turkish sm1ms028_c580ee60:
+# game/code/scenes/main_story/sm1ms028.rpy:37
+translate turkish sm1ms028_66278e48:
 
-    # mc "Oh yeah. I've perused. What's on your mind, Mr. Dickles."
-    mc "Ah evet. Göz gezdirdim. Aklınızda ne var, Bay Dickles."
+    # mc "Oh yeah. I've perused. What's on your mind, Mr. Dickles?"
+    mc "Ah evet. Göz gezdirdim. Aklınızda ne var, Bay Dickles?"
 
 # game/code/scenes/main_story/sm1ms028.rpy:30
 translate turkish sm1ms028_a9d4c108:
@@ -514,11 +514,11 @@ translate turkish sm1ms028_location_change_21f06de3:
     # sy "Dickles.{w} If we're going to put our premium content on your site, we'll need a little bit more."
     sy "Dickles.{w} Premium içeriğimizi sitenize koyacaksak, biraz daha fazlasına ihtiyacımız olacak."
 
-# game/code/scenes/main_story/sm1ms028.rpy:237
-translate turkish sm1ms028_location_change_e472835a:
+# game/code/scenes/main_story/sm1ms028.rpy:262
+translate turkish sm1ms028_location_change_32aa417a:
 
-    # dl "How much more."
-    dl "Ne kadar daha fazla."
+    # dl "How much more?"
+    dl "Ne kadar daha fazla?"
 
 # game/code/scenes/main_story/sm1ms028.rpy:243
 translate turkish sm1ms028_location_change_47498af5:

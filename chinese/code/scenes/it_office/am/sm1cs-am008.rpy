@@ -562,11 +562,11 @@ translate chinese sm1cs_am008_continue_2b15152e:
     # am "*chuckles*"
     am "*轻笑*"
 
-#game/code/scenes/it_office/am/sm1cs-am008.rpy:316
-translate chinese sm1cs_am008_continue_87cd6b8b:
+# game/code/scenes/it_office/am/sm1cs-am008.rpy:337
+translate chinese sm1cs_am008_continue_30c6ebfc:
 
-    # mc "What about your music."
-    mc "你的音乐呢。"
+    # mc "What about your music?"
+    mc "你的音乐呢？"
 
 #game/code/scenes/it_office/am/sm1cs-am008.rpy:320
 translate chinese sm1cs_am008_continue_75acdd71:

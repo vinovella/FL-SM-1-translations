@@ -257,9 +257,9 @@ translate italian sm1mv01s08_4ad6faab:
     mc "Haha. Credo che questa posizione sarà perfetta per la scena finale."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:182
-translate italian sm1mv01s08_a3d03639:
+translate italian sm1mv01s08_ccdfec7b:
 
-    # kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ides."
+    # kv "Awesome. I don't want to get too far into figuring it out, because I bet Stacy also has some ideas."
     kv "Fantastico. Non voglio andare troppo avanti nel pianificarlo, perché scommetto che anche Stacy ha delle idee."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:183
