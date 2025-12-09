@@ -14,7 +14,7 @@
 
     # game/code/renpy/screens/faction_it.rpy:40
     old "[it_days_worked] Days"
-    new "[it_days_worked] NAp"
+    new "[it_days_worked] Nap"
 
     # game/code/renpy/screens/faction_it.rpy:43
     old "Pay per day:"
