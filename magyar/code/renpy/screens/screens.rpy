@@ -2,75 +2,75 @@
 
     # game/code/renpy/screens/screens.rpy:12
     old "New Game"
-    new "New Game"
+    new "Új játék"
 
     # game/code/renpy/screens/screens.rpy:18
     old "Main Menu"
-    new "Main Menu"
+    new "Főmenü"
 
     # game/code/renpy/screens/screens.rpy:23
     old "History"
-    new "History"
+    new "Történet"
 
     # game/code/renpy/screens/screens.rpy:35
     old "Load"
-    new "Load"
+    new "Betöltés"
 
     # game/code/renpy/screens/screens.rpy:40
     old "Settings"
-    new "Settings"
+    new "Beállítások"
 
     # game/code/renpy/screens/screens.rpy:46
     old "Join Patreon"
-    new "Join Patreon"
+    new "Csatlakozz a Patreon-hoz"
 
     # game/code/renpy/screens/screens.rpy:51
     old "Join Discord"
-    new "Join Discord"
+    new "Csatlakozz a Discord-hoz"
 
     # game/code/renpy/screens/screens.rpy:62
     old "End Replay"
-    new "End Replay"
+    new "Visszajátszás vége"
 
     # game/code/renpy/screens/screens.rpy:73
     old "Help"
-    new "Help"
+    new "Segítség"
 
     # game/code/renpy/screens/screens.rpy:78
     old "About"
-    new "About"
+    new "Rólunk"
 
     # game/code/renpy/screens/screens.rpy:83
     old "Quit"
-    new "Quit"
+    new "Kilépés"
 
     # game/code/renpy/screens/screens.rpy:212
     old "Language"
-    new "Language"
+    new "Nyelv"
 
     # game/code/renpy/screens/screens.rpy:218
     old "Live Chat"
-    new "Live Chat"
+    new "Élő Chat"
 
     # game/code/renpy/screens/screens.rpy:245
     old "Music Player"
-    new "Music Player"
+    new "Zenelejátszó"
 
     # game/code/renpy/screens/screens.rpy:447
     old "Naming save file:"
-    new "Naming save file:"
+    new "Mentési fájl elnevezése:"
 
     # game/code/renpy/screens/screens.rpy:448
     old "Enabled"
-    new "Enabled"
+    new "Engedélyezve"
 
     # game/code/renpy/screens/screens.rpy:450
     old "Disabled"
-    new "Disabled"
+    new "Letítva"
 
     # game/code/renpy/screens/screens.rpy:453
     old "Saves for season 2"
-    new "Saves for season 2"
+    new "Ments a 2 évadra"
 
     # game/code/renpy/screens/screens.rpy:473
     old "{#file_time}%b %d %Y, %H:%M"
@@ -78,11 +78,11 @@
 
     # game/code/renpy/screens/screens.rpy:473
     old "Empty Slot"
-    new "Empty Slot"
+    new "Üres hely"
 
     # game/code/renpy/screens/screens.rpy:491
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Ren'Py Mentés szinkronizáslás"
 
     # game/code/renpy/screens/screens.rpy:498
     old "«"
@@ -102,135 +102,135 @@
 
     # game/code/renpy/screens/screens.rpy:616
     old "Audio"
-    new "Audio"
+    new "Audió"
 
     # game/code/renpy/screens/screens.rpy:620
     old "Dialogue"
-    new "Dialogue"
+    new "Dialógus"
 
     # game/code/renpy/screens/screens.rpy:624
     old "Gameplay"
-    new "Gameplay"
+    new "Játékmenet"
 
     # game/code/renpy/screens/screens.rpy:653
     old "Master Volume :"
-    new "Master Volume :"
+    new "Fő hangerő :"
 
     # game/code/renpy/screens/screens.rpy:667
     old "Mute All Channels :"
-    new "Mute All Channels :"
+    new "Mindent lenémít :"
 
     # game/code/renpy/screens/screens.rpy:669
     old "Unmuted"
-    new "Unmuted"
+    new "Nincs némítva"
 
     # game/code/renpy/screens/screens.rpy:670
     old "Muted"
-    new "Muted"
+    new "Némítva"
 
     # game/code/renpy/screens/screens.rpy:677
     old "Full Voiceover :"
-    new "Full Voiceover :"
+    new "Teljes hang alámondás :"
 
     # game/code/renpy/screens/screens.rpy:687
     old "Music Volume :"
-    new "Music Volume :"
+    new "Zene hangereje :"
 
     # game/code/renpy/screens/screens.rpy:696
     old "Sound Volume :"
-    new "Sound Volume :"
+    new "Hangok hangereje :"
 
     # game/code/renpy/screens/screens.rpy:707
     old "Voice Volume :"
-    new "Voice Volume :"
+    new "Beszéd hangereje :"
 
     # game/code/renpy/screens/screens.rpy:716
     old "Sex Voice Volume :"
-    new "Sex Voice Volume :"
+    new "Szex hangjainak hangereje :"
 
     # game/code/renpy/screens/screens.rpy:738
     old "Text Speed :"
-    new "Text Speed :"
+    new "Szöveg Sebessége :"
 
     # game/code/renpy/screens/screens.rpy:749
     old "Auto-Forward Time :"
-    new "Auto-Forward Time :"
+    new "Autó-lapozás Ideje :"
 
     # game/code/renpy/screens/screens.rpy:760
     old "Dialogue Box Opacity :"
-    new "Dialogue Box Opacity :"
+    new "Párbeszédpanel átlátszósága :"
 
     # game/code/renpy/screens/screens.rpy:771
     old "Skip :"
-    new "Skip :"
+    new "Kihagy :"
 
     # game/code/renpy/screens/screens.rpy:773
     old "Unseen Text"
-    new "Unseen Text"
+    new "Láthatatlan szöveg"
 
     # game/code/renpy/screens/screens.rpy:774
     old "After Choices"
-    new "After Choices"
+    new "A döntések után"
 
     # game/code/renpy/screens/screens.rpy:775
     old "Transitions"
-    new "Transitions"
+    new "Átmenetek"
 
     # game/code/renpy/screens/screens.rpy:780
     old "Fast Skip Confirm :"
-    new "Fast Skip Confirm :"
+    new "Gyors kihagyás megerősítése :"
 
     # game/code/renpy/screens/screens.rpy:788
     old "Rollback Side :"
-    new "Rollback Side :"
+    new "Visszagörgetés oldal :"
 
     # game/code/renpy/screens/screens.rpy:791
     old "Left"
-    new "Left"
+    new "Balra"
 
     # game/code/renpy/screens/screens.rpy:792
     old "Right"
-    new "Right"
+    new "Jobb"
 
     # game/code/renpy/screens/screens.rpy:804
     old "Window Size :"
-    new "Window Size :"
+    new "Ablak mérete :"
 
     # game/code/renpy/screens/screens.rpy:806
     old "Fullscreen"
-    new "Fullscreen"
+    new "Teljes képernyő"
 
     # game/code/renpy/screens/screens.rpy:817
     old "Weekly Statement :"
-    new "Weekly Statement :"
+    new "Heti kimutatás :"
 
     # game/code/renpy/screens/screens.rpy:825
     old "Navigation Highlights :"
-    new "Navigation Highlights :"
+    new "Navigációs kiemelt elemek :"
 
     # game/code/renpy/screens/screens.rpy:836
     old "Taboo Mode :"
-    new "Taboo Mode :"
+    new "Tabu mód :"
 
     # game/code/renpy/screens/screens.rpy:844
     old "Minigames :"
-    new "Minigames :"
+    new "Minijátékok :"
 
     # game/code/renpy/screens/screens.rpy:863
     old "Quick Menu :"
-    new "Quick Menu :"
+    new "Gyorsmenü :"
 
     # game/code/renpy/screens/screens.rpy:866
     old "On Hover"
-    new "On Hover"
+    new "Egérmutatóval"
 
     # game/code/renpy/screens/screens.rpy:875
     old "Analytics :"
-    new "Analytics :"
+    new "Elemzés :"
 
     # game/code/renpy/screens/screens.rpy:884
     old "Quick Menu Buttons :"
-    new "Quick Menu Buttons :"
+    new "Gyorsmenü gombok :"
 
     # game/code/renpy/screens/screens.rpy:1037
     old "S&M Studio{#about_button}"
@@ -238,127 +238,127 @@
 
     # game/code/renpy/screens/screens.rpy:1041
     old "Dev Team"
-    new "Dev Team"
+    new "Fejlesztői csapat"
 
     # game/code/renpy/screens/screens.rpy:1049
     old "Translation"
-    new "Translation"
+    new "Fordítás"
 
     # game/code/renpy/screens/screens.rpy:1053
     old "Others"
-    new "Others"
+    new "Egyéb"
 
     # game/code/renpy/screens/screens.rpy:1064
     old "VERSION : [config.version!t]"
-    new "VERSION : [config.version!t]"
+    new "VERZIÓ : [config.version!t]"
 
     # game/code/renpy/screens/screens.rpy:1066
     old "DEVELOPED BY :"
-    new "DEVELOPED BY :"
+    new "FEJLESZTETTE :"
 
     # game/code/renpy/screens/screens.rpy:1081
     old "STORY WRITING"
-    new "STORY WRITING"
+    new "TÖRTÉNETÍRÁS"
 
     # game/code/renpy/screens/screens.rpy:1090
     old "ART & ANIMATION"
-    new "ART & ANIMATION"
+    new "MŰVÉSZET ÉS ANIMÁCIÓ"
 
     # game/code/renpy/screens/screens.rpy:1099
     old "PROGRAMMING"
-    new "PROGRAMMING"
+    new "PROGRAMOZÁS"
 
     # game/code/renpy/screens/screens.rpy:1108
     old "SOUND DESIGN"
-    new "SOUND DESIGN"
+    new "HANGTERVEZÉS"
 
     # game/code/renpy/screens/screens.rpy:1119
     old "MUSIC CREDITS"
-    new "MUSIC CREDITS"
+    new "ZENEI JOGOK"
 
     # game/code/renpy/screens/screens.rpy:1127
     old "VOICEOVER CREDITS"
-    new "VOICEOVER CREDITS"
+    new "HANG JEGYZETEK"
 
     # game/code/renpy/screens/screens.rpy:1135
     old "MUSIC LISENCES & SOURCES"
-    new "MUSIC LISENCES & SOURCES"
+    new "ZENEI LICENC ÉS FORRÁSOK"
 
     # game/code/renpy/screens/screens.rpy:1138
     old "This work is licensed under the {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 International License{/a}."
-    new "This work is licensed under the {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 International License{/a}."
+    new "Ez a mű a {a=https://creativecommons.org/licenses/by-sa/4.0/}Attribution-ShareAlike 4.0 International License{/a}."
 
     # game/code/renpy/screens/screens.rpy:1141
     old "This work is licensed under the {a=http://creativecommons.org/licenses/by/3.0/}Attribution License{/a}."
-    new "This work is licensed under the {a=http://creativecommons.org/licenses/by/3.0/}Attribution License{/a}."
+    new "Ez a mű a {a=http://creativecommons.org/licenses/by/3.0/}Attribution License{/a}."
 
     # game/code/renpy/screens/screens.rpy:1144
     old "Licensed under a {a=https://creativecommons.org/licenses/by/4.0/}Attribution 4.0 International License{/a}."
-    new "Licensed under a {a=https://creativecommons.org/licenses/by/4.0/}Attribution 4.0 International License{/a}."
+    new "Licencelve a  {a=https://creativecommons.org/licenses/by/4.0/}Attribution 4.0 International License{/a}."
 
     # game/code/renpy/screens/screens.rpy:1145
     old "Changes: quacking sounds added"
-    new "Changes: quacking sounds added"
+    new "Változások: kacagó hangok hozzáadva"
 
     # game/code/renpy/screens/screens.rpy:1148
     old "This work is licensed under the {a=https://creativecommons.org/licenses/by/3.0/}Attribution 3.0 Unported License{/a}."
-    new "This work is licensed under the {a=https://creativecommons.org/licenses/by/3.0/}Attribution 3.0 Unported License{/a}."
+    new "Ez a mű a {a=https://creativecommons.org/licenses/by/3.0/}Attribution 3.0 Unported License{/a}."
 
     # game/code/renpy/screens/screens.rpy:1151
     old "Licensed under Simplified {a=https://filmmusic.io/standard-license}Filmmusic.io Standard License{/a}"
-    new "Licensed under Simplified {a=https://filmmusic.io/standard-license}Filmmusic.io Standard License{/a}"
+    new "Egyszerűsített licenc alapján {a=https://filmmusic.io/standard-license}Filmmusic.io Standard License{/a}"
 
     # game/code/renpy/screens/screens.rpy:1163
     old "DEUTSCH TRANSLATION"
-    new "DEUTSCH TRANSLATION"
+    new "NÉMET FORDÍTÁS"
 
     # game/code/renpy/screens/screens.rpy:1168
     old "FRENCH TRANSLATION"
-    new "FRENCH TRANSLATION"
+    new "FRANCIA FORDÍTÁS"
 
     # game/code/renpy/screens/screens.rpy:1173
     old "PORTUGUESE TRANSLATION"
-    new "PORTUGUESE TRANSLATION"
+    new "PORTUGÁLIAI FORDÍTÁS"
 
     # game/code/renpy/screens/screens.rpy:1178
     old "SPANISH TRANSLATION"
-    new "SPANISH TRANSLATION"
+    new "SPANYOL FORDÍTÁS"
 
     # game/code/renpy/screens/screens.rpy:1189
     old "GAME ENGINE"
-    new "GAME ENGINE"
+    new "JÁTÉK MOTOR"
 
     # game/code/renpy/screens/screens.rpy:1190
     old "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
-    new "Made with : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
+    new "Készült : {a=https://www.renpy.org/}Ren'Py [renpy.version_only[:5]]{/a}\n[renpy.license!t]"
 
     # game/code/renpy/screens/screens.rpy:1194
     old "ICON CREDITS"
-    new "ICON CREDITS"
+    new "IKON JOGOSULTSÁGOK"
 
     # game/code/renpy/screens/screens.rpy:1195
     old "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
-    new "Menu icons are derived from {a=https://feathericons.com/}Feather{/a}, a beautiful collection of icons made by @colebemis and licensed under the {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
+    new "A menü ikonok a következő forrásból származnak {a=https://feathericons.com/}Feather{/a}, egy gyönyörű ikongyűjtemény, amelyet @colebemis készített és a {a=https://raw.githubusercontent.com/feathericons/feather/master/LICENSE}MIT License{/a}."
 
     # game/code/renpy/screens/screens.rpy:1199
     old "PROOFREADING CREDITS"
-    new "PROOFREADING CREDITS"
+    new "KORREKTÚRA KREDITEK"
 
     # game/code/renpy/screens/screens.rpy:1200
     old "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
-    new "Special thanks to our proofreader : GrubbJunk (Discord: grubbjunker)"
+    new "Külön köszönet a lektorunknak : GrubbJunk (Discord: grubbjunker)"
 
     # game/code/renpy/screens/screens.rpy:1262
     old "The dialogue history is empty."
-    new "The dialogue history is empty."
+    new "A párbeszéd előzményei üresek."
 
     # game/code/renpy/screens/screens.rpy:1307
     old "Keyboard"
-    new "Keyboard"
+    new "Billentyűzet"
 
     # game/code/renpy/screens/screens.rpy:1311
     old "Mouse"
-    new "Mouse"
+    new "Egér"
 
     # game/code/renpy/screens/screens.rpy:1316
     old "Gamepad"
@@ -366,7 +366,7 @@
 
     # game/code/renpy/screens/screens.rpy:1327
     old "Advances dialogue and activates the interface."
-    new "Advances dialogue and activates the interface."
+    new "Előrehalad a párbeszéd és aktiválja az interfészt."
 
     # game/code/renpy/screens/screens.rpy:1330
     old "Space"
@@ -374,15 +374,15 @@
 
     # game/code/renpy/screens/screens.rpy:1331
     old "Advances dialogue without selecting choices."
-    new "Advances dialogue without selecting choices."
+    new "A párbeszédet választás nélkül folytatja."
 
     # game/code/renpy/screens/screens.rpy:1334
     old "Arrow Keys"
-    new "Arrow Keys"
+    new "Nyílgombok"
 
     # game/code/renpy/screens/screens.rpy:1335
     old "Navigate the interface."
-    new "Navigate the interface."
+    new "Navigálás a felületen"
 
     # game/code/renpy/screens/screens.rpy:1338
     old "Escape"
@@ -390,7 +390,7 @@
 
     # game/code/renpy/screens/screens.rpy:1339
     old "Accesses the game menu."
-    new "Accesses the game menu."
+    new "A játék menüjéhez való hozzáférés."
 
     # game/code/renpy/screens/screens.rpy:1342
     old "Ctrl"
@@ -398,7 +398,7 @@
 
     # game/code/renpy/screens/screens.rpy:1343
     old "Skips dialogue while held down."
-    new "Skips dialogue while held down."
+    new "A gomb lenyomva tartása közben kihagyja a párbeszédet."
 
     # game/code/renpy/screens/screens.rpy:1346
     old "Tab"
@@ -406,7 +406,7 @@
 
     # game/code/renpy/screens/screens.rpy:1347
     old "Toggles dialogue skipping."
-    new "Toggles dialogue skipping."
+    new "Párbeszéd átugrás kapcsoló."
 
     # game/code/renpy/screens/screens.rpy:1350
     old "Page Up"
@@ -414,7 +414,7 @@
 
     # game/code/renpy/screens/screens.rpy:1351
     old "Rolls back to earlier dialogue."
-    new "Rolls back to earlier dialogue."
+    new "Visszatér a korábbi párbeszédhez."
 
     # game/code/renpy/screens/screens.rpy:1354
     old "Page Down"
@@ -422,55 +422,55 @@
 
     # game/code/renpy/screens/screens.rpy:1355
     old "Rolls forward to later dialogue."
-    new "Rolls forward to later dialogue."
+    new "Továbbhalad a későbbi párbeszédhez."
 
     # game/code/renpy/screens/screens.rpy:1359
     old "Hides the user interface."
-    new "Hides the user interface."
+    new "Elrejti a felhasználói felületet."
 
     # game/code/renpy/screens/screens.rpy:1363
     old "Takes a screenshot."
-    new "Takes a screenshot."
+    new "Képernyőképet készít."
 
     # game/code/renpy/screens/screens.rpy:1367
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "Segítő funkciók {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
     # game/code/renpy/screens/screens.rpy:1371
     old "Opens the accessibility menu."
-    new "Opens the accessibility menu."
+    new "Megnyitja a hozzáférhetőségi menüt."
 
     # game/code/renpy/screens/screens.rpy:1379
     old "Left Click"
-    new "Left Click"
+    new "Bal egérgomb"
 
     # game/code/renpy/screens/screens.rpy:1383
     old "Middle Click"
-    new "Middle Click"
+    new "Középső egérgomb"
 
     # game/code/renpy/screens/screens.rpy:1387
     old "Right Click"
-    new "Right Click"
+    new "Jobb egérgomb"
 
     # game/code/renpy/screens/screens.rpy:1391
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Mouse Wheel Up\nClick Rollback Side"
+    new "Egér görgő felfelé\nKattintás Visszagörgetés Oldal"
 
     # game/code/renpy/screens/screens.rpy:1395
     old "Mouse Wheel Down"
-    new "Mouse Wheel Down"
+    new "Egér görgő lefelé"
 
     # game/code/renpy/screens/screens.rpy:1404
     old "Right Trigger\nA/Bottom Button"
-    new "Right Trigger\nA/Bottom Button"
+    new "Jobb oldali gomb\nA/Alsó gomb"
 
     # game/code/renpy/screens/screens.rpy:1408
     old "Left Trigger\nLeft Shoulder"
-    new "Left Trigger\nLeft Shoulder"
+    new "Bal oldali gomb\nBal kar"
 
     # game/code/renpy/screens/screens.rpy:1412
     old "Right Shoulder"
-    new "Right Shoulder"
+    new "Jobb kar"
 
     # game/code/renpy/screens/screens.rpy:1416
     old "D-Pad, Sticks"
@@ -478,17 +478,17 @@
 
     # game/code/renpy/screens/screens.rpy:1420
     old "Start, Guide"
-    new "Start, Guide"
+    new "Indítás, Útmutató"
 
     # game/code/renpy/screens/screens.rpy:1424
     old "Y/Top Button"
-    new "Y/Top Button"
+    new "Y/Felső gomb"
 
     # game/code/renpy/screens/screens.rpy:1430
     old "Calibrate"
-    new "Calibrate"
+    new "Kalibrálás"
 
     # game/code/renpy/screens/screens.rpy:1470
     old "Skipping"
-    new "Skipping"
+    new "Kihagyás"
 
