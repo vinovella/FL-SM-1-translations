@@ -1,4 +1,4 @@
-﻿# game/code/scenes/theatre/dvh/sm1cs-dvh003.rpy:9
+# game/code/scenes/theatre/dvh/sm1cs-dvh003.rpy:9
 translate spanish sm1cs_dvh003_a46f97cf:
 
     # dvh "Ugh. The pannekoek. Yes, little Bram? What are you here for?"
@@ -32,7 +32,7 @@ translate spanish sm1cs_dvh003_a5c98a37:
 translate spanish sm1cs_dvh003_af335bb7:
 
     # mct "Well, I was going to do that soliloquy from Orpheus Descending... but I think I have something better, now."
-    mct "Bueno, iba a hacer ese soliloquio de La bajada de Orfeo... pero creo que ahora tengo algo mejor."
+    mct "Bueno, iba a hacer ese soliloquio de El Descenso de Orfeo... pero creo que ahora tengo algo mejor."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh003.rpy:30
 translate spanish sm1cs_dvh003_395daade:
@@ -80,7 +80,7 @@ translate spanish sm1cs_dvh003_fdba5a42:
 translate spanish sm1cs_dvh003_dcc2b4af:
 
     # mc "I was originally planning on Orpheus Descends, but your \"Little Bram\" remark inspired me, and I really like that show."
-    mc "Pensaba hacer *Orpheus Descends*, pero tu comentario de «pequeño Bram» me inspiró... y además me gusta mucho esa serie."
+    mc "Pensaba hacer El Descenso de Orfeo, pero tu comentario de \"pequeño Bram\" me inspiró... y además me gusta mucho esa serie."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh003.rpy:61
 translate spanish sm1cs_dvh003_e08652a8:
@@ -109,7 +109,7 @@ translate spanish sm1cs_dvh003_0f32020b:
 # game/code/scenes/theatre/dvh/sm1cs-dvh003.rpy:72
 translate spanish sm1cs_dvh003_7ee42105:
 
-    # mc "No, no voy a huir. Quiero mejorar y elevar las actuaciones del grupo."
+    # mc "No, I'm not going to run away. I want to improve and elevate the group's performances."
     mc "No, no voy a huir. Quiero mejorar y elevar las actuaciones del grupo."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh003.rpy:74
@@ -248,7 +248,7 @@ translate spanish sm1cs_dvh003_752d37bf:
 translate spanish sm1cs_dvh003_f924fa7f:
 
     # dvh "You must! You must satisfy yourself with this paltry gift, for I am sworn to marry another."
-    dvh "¡Debe! Debe conformarse con este mísero obsequio, porque he jurado casarme con otro."
+    dvh "¡Debe! Debe contentarse con este ínfimo regalo, pues he jurado casarme con otro."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh003.rpy:148
 translate spanish sm1cs_dvh003_c0489409:
@@ -370,13 +370,10 @@ translate spanish sm1cs_dvh003_64dba11a:
     # dvh "{i}Oprotten{/i}. I have work to do."
     dvh "{i}Oprotten{/i}. Tengo trabajo que hacer."
 
-translate spanish strings:
+# game/code/scenes/theatre/dvh/sm1cs-dvh003.rpy:89
+old "Flirt with her"
+new "Coquetear con ella"
 
-    # game/code/scenes/theatre/dvh/sm1cs-dvh003.rpy:89
-    old "Flirt with her"
-    new "Coquetear con ella"
-
-    # game/code/scenes/theatre/dvh/sm1cs-dvh003.rpy:89
-    old "Keep your mouth shut"
-    new "Mantener la boca cerrada"
-
+# game/code/scenes/theatre/dvh/sm1cs-dvh003.rpy:89
+old "Keep your mouth shut"
+new "Mantener la boca cerrada"
