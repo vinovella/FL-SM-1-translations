@@ -2390,7 +2390,7 @@ translate spanish sm1mv02s05_movie_start_a16145c5:
 translate spanish sm1mv02s05_movie_start_d43915e7:
 
     # sy "Yeah, ignore all that and the potential of Karasu raiders hiding in wait to kill us, it's the perfect vacation planet."
-    sy "Sí, ignora todo eso y el potencial de que asaltantes Karasu estén escondidos para matarnos; es el planeta vacacional perfecto."
+    sy "Sí, ignora todo eso y el potencial de que asaltantes Karasu estén escondidos para matarnos, es el planeta vacacional perfecto."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:685
 translate spanish sm1mv02s05_movie_start_f1a7c292:
