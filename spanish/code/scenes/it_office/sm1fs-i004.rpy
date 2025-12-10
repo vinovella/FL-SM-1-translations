@@ -248,7 +248,7 @@ translate spanish sm1fs_i004_629db91f:
 translate spanish sm1fs_i004_b32c8de0:
 
     # cw "I won't bore you with the details; an expansion of your servers to host more video content, updating your mobile site, and a 'face lift' for your desktop presence."
-    cw "No te aburriré con los detalles; Una expansión de sus servidores para alojar más contenido de video, actualizar su sitio móvil y un 'estiramiento facial' para ordenadores de sobremesa."
+    cw "No te aburriré con los detalles, Una expansión de sus servidores para alojar más contenido de video, actualizar su sitio móvil y un 'estiramiento facial' para ordenadores de sobremesa."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:166
 translate spanish sm1fs_i004_347609b2:
