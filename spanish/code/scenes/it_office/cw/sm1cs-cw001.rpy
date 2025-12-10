@@ -482,7 +482,7 @@ translate spanish sm1cs_cw001_end_convo_ed1fe56f:
 translate spanish sm1cs_cw001_end_convo_a793e4c1:
 
     # cw "Hah. You think that I was involved in some kind of scandal?"
-    cw "Hah. ¿Crees que estuve involucrada en algún tipo de escándalo?"
+    cw "Ja. ¿Crees que estuve involucrada en algún tipo de escándalo?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:304
 translate spanish sm1cs_cw001_end_convo_b99b13f8:
@@ -560,7 +560,7 @@ translate spanish sm1cs_cw001_end_convo_845c4c57:
 translate spanish sm1cs_cw001_end_convo_179f2355:
 
     # cw "Oh just reporting the situation straight to Maureen at HR."
-    cw "Oh, solo informa la situación directamente a Maureen en Recursos Humanos."
+    cw "Oh, solo informar la situación directamente a Maureen en Recursos Humanos."
 
 # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:341
 translate spanish sm1cs_cw001_end_convo_6183ade6:
