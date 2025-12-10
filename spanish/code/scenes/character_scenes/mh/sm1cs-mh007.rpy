@@ -152,7 +152,7 @@ translate spanish sm1cs_mh007_90b1c5bb:
 translate spanish sm1cs_mh007_ebb63535:
 
     # mh "Mmmmm, I think I might have {i}some{/i} idea."
-    mh "Mmmmm, creo que podría tener {i} alguna idea {/i}."
+    mh "Mmmmm, creo que podría tener {i}alguna{/i} idea."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:144
 translate spanish sm1cs_mh007_a68cdb8e:
@@ -188,7 +188,7 @@ translate spanish sm1cs_mh007_b0619788:
 translate spanish sm1cs_mh007_e5361fa3:
 
     # mc "Oh sweet Jeeeeezuuuus, Lyssa!"
-    mc "¡Oh dulce Jesús, lyssa!"
+    mc "¡Oh dulce Jesús, Lyssa!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:156
 translate spanish sm1cs_mh007_91f3af09:
@@ -380,7 +380,7 @@ translate spanish sm1cs_mh007_e07b28f1:
 translate spanish sm1cs_mh007_40a4baa0:
 
     # mh "Prodigious! Sublime! Maestoso!"
-    mh "¡Prodigioso! ¡Sublime! ¡Maestoso!"
+    mh "¡Prodigioso! ¡Sublime! ¡Majestuoso!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:230
 translate spanish sm1cs_mh007_a1bcbe8b:
@@ -416,7 +416,7 @@ translate spanish sm1cs_mh007_6af4acb5:
 translate spanish sm1cs_mh007_8ec0cf4b:
 
     # mct "This insanely hot woman is riding my dick harder than a cowgirl on a mechanical bull."
-    mct "Esta mujer increíblemente caliente está montando mi polla más fuerte que una vaquera en un toro mecánico."
+    mct "Esta mujer increíblemente sexy está montando mi polla más fuerte que una vaquera en un toro mecánico."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:242
 translate spanish sm1cs_mh007_e05b5a17:
@@ -812,7 +812,7 @@ translate spanish sm1cs_mh007_e30ca83f:
 translate spanish sm1cs_mh007_5090465c:
 
     # mc "Look, you don't have to talk to me about it. And believe me, if this is how you want to relieve work stress in the future, I am {i}so{/i} for it."
-    mc "Mira, no tienes que hablarme de ello. Y créeme, si así es como quieres aliviar el estrés laboral en el futuro, estoy {i}tan{/i} a favor."
+    mc "Mira, no tienes que hablarme de ello. Y créeme, si así es como quieres aliviar el estrés laboral en el futuro, estoy {i}a{/i} favor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:419
 translate spanish sm1cs_mh007_cfb38661:
@@ -920,13 +920,13 @@ translate spanish sm1cs_mh007_da08ed44:
 translate spanish sm1cs_mh007_c560a146:
 
     # mh "*sigh*... Okay."
-    mh "*suspiro*... está bien."
+    mh "*suspiro*... Está bien."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:462
 translate spanish sm1cs_mh007_f6e806c4:
 
     # mh "Lately I've just... not liked my job."
-    mh "Últimamente me he gustado... no me ha gustado mi trabajo."
+    mh "Últimamente, simplemente... no me ha gustado mi trabajo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:465
 translate spanish sm1cs_mh007_77f1a8c9:
@@ -974,7 +974,7 @@ translate spanish sm1cs_mh007_0bb62de8:
 translate spanish sm1cs_mh007_581a31c7:
 
     # mh "Yes... yes it does."
-    mh "Sí... sí, lo hace."
+    mh "Sí... sí, apesta."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:491
 translate spanish sm1cs_mh007_fbdfc6c0:
@@ -1242,7 +1242,7 @@ translate spanish sm1cs_mh007_368efa07:
 translate spanish sm1cs_mh007_a12e6db3:
 
     # mh "I'll give you a second to adjust."
-    mh "Te daré un segundo para que te adaptes."
+    mh "Te daré un segundo para que te acostumbres."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:309
 translate spanish sm1cs_mh007_d2efecf2:
@@ -1332,13 +1332,13 @@ translate spanish sm1cs_mh007_fc477c8d:
 translate spanish sm1cs_mh007_a1ba1026:
 
     # mc "It feels - mmmm- kind of, {i}really{/i}, good!"
-    mc "Se siente... mmmm... ¡bastante, {i}muy{/i}, bien!"
+    mc "Se siente... mmmm... de alguna forma, ¡{i}realmente{/i} bien!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:329
 translate spanish sm1cs_mh007_3ce13710:
 
     # mh "Mmmmm, yes, yes it does!"
-    mh "Mmmmm, ¡sí, sí que se siente!"
+    mh "Mmmmm, ¡sí, sí, se siente bien!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:331
 translate spanish sm1cs_mh007_f56613ea:
