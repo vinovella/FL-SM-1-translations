@@ -236,7 +236,7 @@ translate spanish sm1cs_dc002_410fae19:
 translate spanish sm1cs_dc002_062da632:
 
     # mc "Hey, I've been meaning to ask; why is this guy creeping around the park?"
-    mc "Oye, he estado queriendo preguntar; ¿por qué este tipo se arrastra por el parque?"
+    mc "Oye, he estado queriendo preguntar, ¿por qué este tipo se arrastra por el parque?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc002.rpy:138
 translate spanish sm1cs_dc002_9d2a400c:
