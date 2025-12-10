@@ -266,7 +266,7 @@ translate spanish sm1cs_km006_after_menu_da5e22e3:
 translate spanish sm1cs_km006_after_menu_f1fd8a4e:
 
     # km "I mean we've already had three incidents, two people killed inside of a week."
-    km "Ya hemos tenido tres incidentes; dos personas muertas en menos de una semana."
+    km "Ya hemos tenido tres incidentes, dos personas muertas en menos de una semana."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:246
 translate spanish sm1cs_km006_after_menu_8d5f6b80:
@@ -278,7 +278,7 @@ translate spanish sm1cs_km006_after_menu_8d5f6b80:
 translate spanish sm1cs_km006_after_menu_ef43d336:
 
     # km "It was Ben Gardner's boat; it was all chewed up."
-    km "Era el bote de Ben Gardner; estaba todo destrozado."
+    km "Era el bote de Ben Gardner, estaba todo destrozado."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:250
 translate spanish sm1cs_km006_after_menu_9fc16b4d:
@@ -470,7 +470,7 @@ translate spanish sm1cs_km006_after_menu_c22f6a54:
 translate spanish sm1cs_km006_after_menu_f1fd8a4e:
 
     # km "I mean we've already had three incidents, two people killed inside of a week."
-    km "Ya hemos tenido tres incidentes; dos personas muertas en menos de una semana."
+    km "Ya hemos tenido tres incidentes, dos personas muertas en menos de una semana."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:246
 translate spanish sm1cs_km006_after_menu_8d5f6b80:
@@ -482,7 +482,7 @@ translate spanish sm1cs_km006_after_menu_8d5f6b80:
 translate spanish sm1cs_km006_after_menu_ef43d336:
 
     # km "It was Ben Gardner's boat; it was all chewed up."
-    km "Era el bote de Ben Gardner; estaba todo destrozado."
+    km "Era el bote de Ben Gardner, estaba todo destrozado."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:250
 translate spanish sm1cs_km006_after_menu_9fc16b4d:
