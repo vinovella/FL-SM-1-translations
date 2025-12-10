@@ -1472,7 +1472,7 @@ translate spanish sm1cs_dc009_3678e355:
 translate spanish sm1cs_dc009_45e07afe:
 
     # mc "Well, I wish it had been under better circumstances, bu-"
-    mc "Bueno, desearía que hubiera sido bajo mejores circunstancias, pe..."
+    mc "Bueno, desearía que hubiera sido bajo mejores circunstancias, pe-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:606
 translate spanish sm1cs_dc009_266d8b36:
@@ -1490,7 +1490,7 @@ translate spanish sm1cs_dc009_0ab37444:
 translate spanish sm1cs_dc009_63d14ce2:
 
     # mc "Yes, yes you do, Debbie."
-    mc "Sí, sí lo tienes, Debbie."
+    mc "Sí, sí lo estás, Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:611
 translate spanish sm1cs_dc009_903eabeb:
@@ -1670,7 +1670,7 @@ translate spanish sm1cs_dc009_9fae04d3:
 translate spanish sm1cs_dc009_3524c2c1:
 
     # doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
-    doc "¡Puedo verlo ahora! ¡Maldita sea, corriendo y luego \"oh no, mi teta me golpeó en la cara! ¡Noooo!\"."
+    doc "¡Puedo verlo ahora! ¡Maldita sea, corriendo y luego \"¡oh no, mi teta me golpeó en la cara! ¡Noooo!\"."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:439
 translate spanish sm1cs_dc009_a03bd0eb:
