@@ -1,4 +1,4 @@
-﻿# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:20
+# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:20
 translate spanish sm1cs_ns011_140b4a85:
 
     # mc "This is you."
@@ -164,7 +164,7 @@ translate spanish sm1cs_ns011_257976d6:
 translate spanish sm1cs_ns011_a06378f3:
 
     # mc "Sugar Daddy?"
-    mc "¿Papi de azúcar?"
+    mc "¿Sugar Daddy?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:111
 translate spanish sm1cs_ns011_3fe289ec:
@@ -386,7 +386,7 @@ translate spanish sm1cs_ns011_sy_interruption_a58e5981:
 translate spanish sm1cs_ns011_sy_interruption_cb0d1878:
 
     # sy "Haha. This is gonna be your place too, Nari."
-    sy "Jaja. Este también será tu lugar, Nari."
+    sy "Jaja. Esta también será tu casa, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:251
 translate spanish sm1cs_ns011_sy_interruption_8b7f2ebf:
@@ -416,7 +416,7 @@ translate spanish sm1cs_ns011_sy_interruption_4fcfed8c:
 translate spanish sm1cs_ns011_sy_interruption_9e587159:
 
     # ns "My panties are pretty moist right now too."
-    ns "Mis bragas también están considerablemente húmedas en este momento."
+    ns "Mi ropa interior también está considerablemente húmeda en este momento."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:266
 translate spanish sm1cs_ns011_sy_interruption_d91d57e6:
@@ -602,7 +602,7 @@ translate spanish sm1cs_ns011_sy_interruption_f263023a:
 translate spanish sm1cs_ns011_sy_interruption_fafbd0b2:
 
     # mc "Are you sure that doesn't bother you, Nari?"
-    mc "¿Estás seguro de que eso no te molesta, Nari?"
+    mc "¿Estás segura de que eso no te molesta, Nari?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:402
 translate spanish sm1cs_ns011_sy_interruption_95963c36:
@@ -806,7 +806,7 @@ translate spanish sm1cs_ns011_sy_interruption_adae0b8f:
 translate spanish sm1cs_ns011_sy_interruption_6222d92e:
 
     # mc "Yes, we are."
-    mc "Sí lo estamos."
+    mc "Sí, lo estamos."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:492
 translate spanish sm1cs_ns011_sy_interruption_94ee869a:
@@ -844,6 +844,60 @@ translate spanish sm1cs_ns011_sy_interruption_68294485:
     # ns "And hentai, now that I think about it."
     ns "Y hentai, si lo pienso."
 
+# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:506
+translate spanish sm1cs_ns011_d4978ed6:
+
+    # mc "No, no. You don't have to compete."
+    mc "No, no. No tienes que competir."
+
+# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:507
+translate spanish sm1cs_ns011_1ce17e33:
+
+    # mc "Stacy has never minded me being with other girls while I'm with her."
+    mc "A Stacy nunca le ha importado si estoy con otras chicas mientras estoy con ella."
+
+# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:508
+translate spanish sm1cs_ns011_daadae9a:
+
+    # mc "It actually turns her on a lot."
+    mc "De hecho, eso le excita mucho."
+
+# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:511
+translate spanish sm1cs_ns011_04b26e96:
+
+    # mc "I guess the question I should have asked you sooner is..."
+    mc "Supongo que la pregunta que debí haberte hecho antes es..."
+
+# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:514
+translate spanish sm1cs_ns011_c328f7ed:
+
+    # ns "If I too think I could **share you**."
+    ns "Si yo también creo que podría compartirte."
+
+# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:517
+translate spanish sm1cs_ns011_cf1adef2:
+
+    # mc "Yes."
+    mc "Sí."
+
+# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:520
+translate spanish sm1cs_ns011_1c408ac7:
+
+    # ns "..."
+    ns "..."
+
+# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:523
+translate spanish sm1cs_ns011_6d796813:
+
+    # ns "Mmmph."
+    ns "Mmmph."
+
+# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:526
+translate spanish sm1cs_ns011_bb89f2a8:
+
+    # mct "—Was that a good sound or a bad sound?"
+    mct "¿Fue un sonido bueno o malo?"
+
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:530
 translate spanish sm1cs_ns011_sy_interruption_8522c77b:
 
@@ -878,7 +932,7 @@ translate spanish sm1cs_ns011_sy_interruption_76ab85e1:
 translate spanish sm1cs_ns011_sy_interruption_c6af969d:
 
     # ns "-Everything we do together."
-    ns "-Todo lo que hacemos juntos."
+    ns "Todo lo que hacemos juntos."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:547
 translate spanish sm1cs_ns011_sy_interruption_b843b001:
@@ -956,7 +1010,7 @@ translate spanish sm1cs_ns011_sy_interruption_208d593d:
 translate spanish sm1cs_ns011_sy_interruption_2bfebd46:
 
     # ns "*sniffs* I was a little worried there."
-    ns "*olfatea* Estaba un poco preocupada."
+    ns "*Resopla* Estaba un poco preocupada."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:575
 translate spanish sm1cs_ns011_sy_interruption_41d9fcc0:
@@ -1097,58 +1151,4 @@ translate spanish sm1cs_ns011_a266d0ee:
 
     # ns "Sugar Daddies love to play with their Good Girls..."
     ns "Los Sugar Daddies adoran jugar con sus Chicas Buenas..."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:506
-translate spanish sm1cs_ns011_sy_interruption_d4978ed6:
-
-    # mc "No no. You don't have to compete."
-    mc "No, no. No tienes que competir."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:507
-translate spanish sm1cs_ns011_sy_interruption_1ce17e33:
-
-    # mc "Stacy has never minded if I am with other girls while I am with her."
-    mc "A Stacy nunca le ha importado si estoy con otras chicas mientras estoy con ella."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:508
-translate spanish sm1cs_ns011_sy_interruption_daadae9a:
-
-    # mc "It actually turns her on a lot."
-    mc "De hecho, la excita mucho."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:511
-translate spanish sm1cs_ns011_sy_interruption_04b26e96:
-
-    # mc "I guess the question I should have asked you earlier is..."
-    mc "Supongo que la pregunta que debería haberte hecho antes es..."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:514
-translate spanish sm1cs_ns011_sy_interruption_c328f7ed:
-
-    # ns "If I also believe that I could {b}share{/b} you."
-    ns "Si yo también creo que podría {b}compartirte{/b}."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:517
-translate spanish sm1cs_ns011_sy_interruption_cf1adef2:
-
-    # mc "Yeah."
-    mc "Sí."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:520
-translate spanish sm1cs_ns011_sy_interruption_1c408ac7:
-
-    # ns "..."
-    ns "..."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:523
-translate spanish sm1cs_ns011_sy_interruption_6d796813:
-
-    # ns "Hmmph."
-    ns "Hmmph."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:526
-translate spanish sm1cs_ns011_sy_interruption_bb89f2a8:
-
-    # mct "Was that a good noise or a bad noise?"
-    mct "¿Fue eso un ruido bueno o un ruido malo?"
 
