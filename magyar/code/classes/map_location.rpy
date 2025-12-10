@@ -6,7 +6,7 @@
 
     # game/code/classes/map_location.rpy:64
     old "Go to [name!t]"
-    new "Menj el hozzá [name!t]"
+    new "Menj ide [name!t]"
 
     # game/code/classes/map_location.rpy:72
     old "[name!t] is not open yet"
