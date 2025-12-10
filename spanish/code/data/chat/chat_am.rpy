@@ -42,7 +42,7 @@
 
     # game/code/data/chat/chat_am.rpy:3
     old "Yes. So. Dinner?"
-    new "Sí. Entonces… ¿cena?"
+    new "Sí. Entonces... ¿cena?"
 
     # game/code/data/chat/chat_am.rpy:3
     old "I don't know yet, but I'll let you know."
