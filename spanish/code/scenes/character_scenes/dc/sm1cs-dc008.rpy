@@ -80,7 +80,7 @@ translate spanish sm1cs_dc008_ece20c4d:
 translate spanish sm1cs_dc008_81593a9f:
 
     # mc "But I was wrong - you look incredible, Debbie."
-    mc "Pero me equivoqué; te ves increíble, Debbie."
+    mc "Pero me equivoqué, te ves increíble, Debbie."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc008.rpy:53
 translate spanish sm1cs_dc008_c4ab66d2:
