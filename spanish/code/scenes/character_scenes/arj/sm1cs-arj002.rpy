@@ -62,7 +62,7 @@ translate spanish sm1cs_arj002_e72b73b3:
 translate spanish sm1cs_arj002_e6bcd48d:
 
     # mc "We're glad you had the time. AmRose. It's a shame you're not living here; the thing could have already been fixed by now."
-    mc "Nos alegra que tuvieras tiempo, AmRose. Es una pena que no vivas aquí; ya habrías arreglado esto."
+    mc "Nos alegra que tuvieras tiempo, AmRose. Es una pena que no vivas aquí, ya habrías arreglado esto."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:49
 translate spanish sm1cs_arj002_38469e30:
