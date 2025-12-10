@@ -536,7 +536,7 @@ translate spanish sm1cs_dvh002_13103cf1:
 translate spanish sm1cs_dvh002_5426f402:
 
     # dvh "And I would be lying if I said that it was... unpleasant. Either working with you, or the view."
-    dvh "Y mentiría si dijera que fue... desagradable. Tanto trabajar contigo, como la vista."
+    dvh "Y mentiría si dijera que fue... desagradable. Ni trabajar contigo, ni la vista."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:372
 translate spanish sm1cs_dvh002_2c501af6:
@@ -662,25 +662,25 @@ translate spanish sm1cs_dvh002_7935ba98:
 translate spanish sm1cs_dvh002_8b8b425d:
 
     # dvh "Jesus..."
-    dvh "Jesus..."
+    dvh "Jesús..."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:184
 translate spanish sm1cs_dvh002_91d8a70c:
 
     # mc "You okay?"
-    mc "You okay?"
+    mc "¿Estás bien?"
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:190
 translate spanish sm1cs_dvh002_ff936c8a:
 
     # mct "Is she..."
-    mct "¿Está ella..."
+    mct "Está ella..."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:194
 translate spanish sm1cs_dvh002_9a639892:
 
     # mct "... Getting comfortable.{w} I guess... this is her office after all."
-    mct "... Poniéndose cómoda.{w} Supongo... después de todo, esta es su oficina."
+    mct "...Poniéndose cómoda.{w} Supongo... después de todo, esta es su oficina."
 
 # game/code/scenes/theatre/dvh/sm1cs-dvh002.rpy:196
 translate spanish sm1cs_dvh002_178d30ae:
@@ -692,5 +692,5 @@ translate spanish sm1cs_dvh002_178d30ae:
 translate spanish sm1cs_dvh002_a840bf7d:
 
     # mc "Woah, Denise-"
-    mc "Woah, Denise-"
+    mc "Vaya, Denise-"
 
