@@ -930,7 +930,7 @@ translate spanish strings:
 
     # renpy/common/00updater.rpy:1391
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "El archivo de actualización no tiene el resumen correcto; puede haberse dañado."
+    new "El archivo de actualización no tiene el resumen correcto, puede haberse dañado."
 
     # renpy/common/00updater.rpy:1541
     old "While unpacking {}, unknown type {}."
