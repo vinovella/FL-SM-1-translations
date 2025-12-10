@@ -66,7 +66,7 @@
 
     # game/code/renpy/screens/screens.rpy:450
     old "Disabled"
-    new "Letítva"
+    new "Letitva"
 
     # game/code/renpy/screens/screens.rpy:453
     old "Saves for season 2"
