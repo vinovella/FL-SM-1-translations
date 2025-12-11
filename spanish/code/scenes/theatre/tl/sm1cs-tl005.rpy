@@ -74,7 +74,7 @@ translate spanish sm1cs_tl005_54eb03a8:
 translate spanish sm1cs_tl005_8dce0e62:
 
     # mc "Goddammit, Taisia. You can't sneak up on a guy like that."
-    mc "¡Maldita sea, Taisia! No puedes tomar por sorpresa a un tipo de esa forma."
+    mc "¡Maldita sea, Taisia! No puedes tomarme por sorpresa de esa manera."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:57
 translate spanish sm1cs_tl005_a44163a1:
@@ -92,7 +92,7 @@ translate spanish sm1cs_tl005_46dbdd82:
 translate spanish sm1cs_tl005_81208e93:
 
     # mc "Oh shit... I am so sorry, Taisia. I didn't mean to-"
-    mc "Oh mierda... lo siento mucho, Taisia. No quise decir..."
+    mc "Oh mierda... lo siento mucho, Taisia. No quise hacerlo..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:75
 translate spanish sm1cs_tl005_00a055be:
@@ -446,7 +446,7 @@ translate spanish sm1cs_tl005_fountain_a1c65cb8:
 translate spanish sm1cs_tl005_fountain_7bbab449:
 
     # mc "Fair point."
-    mc "Punto justo."
+    mc "Me parece justo."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:285
 translate spanish sm1cs_tl005_fountain_c8109153:
@@ -524,7 +524,7 @@ translate spanish sm1cs_tl005_fountain_f37097e9:
 translate spanish sm1cs_tl005_fountain_68645620:
 
     # mct "I didn't realize Taisia had it so rough right now..."
-    mct "No sabía que Taisia lo tenía tan difícil ahora..."
+    mct "No me di cuenta de que Taisia ahora lo tiene tan difícil."
 
 # game/code/scenes/theatre/tl/sm1cs-tl005.rpy:321
 translate spanish sm1cs_tl005_fountain_3738eecc:
