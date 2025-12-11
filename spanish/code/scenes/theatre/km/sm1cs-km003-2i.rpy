@@ -276,7 +276,7 @@ translate spanish strings:
 
     # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:55
     old "I've been doing alright. But I could use help"
-    new "Lo he estado haciendo bien… pero me vendría bien algo de ayuda."
+    new "Lo he estado haciendo bien... pero me vendría bien algo de ayuda."
 
     # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:99
     old "Alright, let's do another lesson"
