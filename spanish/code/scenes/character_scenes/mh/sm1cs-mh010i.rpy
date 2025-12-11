@@ -8,7 +8,7 @@ translate spanish sm1cs_mh010i_b68aeb51:
 translate spanish sm1cs_mh010i_ac84fd6a:
 
     # mc "Can I borrow your laptop?"
-    mc "¿Puedo usar tu laptop?"
+    mc "¿Puedo usar tu portátil?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010i.rpy:12
 translate spanish sm1cs_mh010i_1ecc9279:
@@ -68,7 +68,7 @@ translate spanish sm1cs_mh010i_df2f4018:
 translate spanish sm1cs_mh010i_473c57e5:
 
     # mc "So... can I borrow your laptop?"
-    mc "Entonces... ¿puedo usar tu laptop?"
+    mc "Entonces... ¿puedo usar tu portátil?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010i.rpy:34
 translate spanish sm1cs_mh010i_bde8478d:
@@ -86,7 +86,7 @@ translate spanish sm1cs_mh010i_6d04953c:
 translate spanish sm1cs_mh010i_b5fc51fc:
 
     # mc "Here's your laptop back!"
-    mc "¡Aquí tienes tu laptop!"
+    mc "¡Aquí tienes tu portátil!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010i.rpy:48
 translate spanish sm1cs_mh010i_116e2762:
@@ -98,7 +98,7 @@ translate spanish sm1cs_mh010i_116e2762:
 translate spanish sm1cs_mh010i_8f3a6ef2:
 
     # mc "I'll ask Lyssa what she's comfortable with, okay?"
-    mc "Voy a preguntarle a Lyssa con qué se siente cómoda, ¿ok?"
+    mc "Le preguntaré a Lyssa si está de acuerdo con que veas el video, ¿de acuerdo?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010i.rpy:55
 translate spanish sm1cs_mh010i_50568358:
@@ -116,7 +116,7 @@ translate spanish sm1cs_mh010i_2f0881e2:
 translate spanish sm1cs_mh010i_4c6dabbc:
 
     # mc "Thanks for letting me borrow your laptop!"
-    mc "¡Gracias por dejarme usar tu laptop!"
+    mc "¡Gracias por dejarme usar tu portátil!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010i.rpy:61
 translate spanish sm1cs_mh010i_567faf98:
