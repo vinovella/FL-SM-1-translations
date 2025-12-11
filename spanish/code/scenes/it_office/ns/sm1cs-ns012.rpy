@@ -1190,7 +1190,7 @@ translate spanish sm1cs_ns012_part_2_2ab7b4ee:
 translate spanish sm1cs_ns012_part_2_4a7d4675:
 
     # mc "The moment you said free-use, I nearly lost it."
-    mc "cuando dijiste que podía usarte libremente, casi pierdo la cabeza."
+    mc "Cuando dijiste que podía usarte libremente, casi pierdo la cabeza."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:703
 translate spanish sm1cs_ns012_part_2_f82d6e5d:
