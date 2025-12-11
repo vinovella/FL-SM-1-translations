@@ -182,7 +182,7 @@ translate spanish sm1cs_tl008_sex_f2623d58:
 translate spanish sm1cs_tl008_sex_9f05acda:
 
     # mc "All right, pants off - now what?"
-    mc "Muy bien, pantalones fuera… ¿y ahora qué?"
+    mc "Muy bien, pantalones fuera... ¿y ahora qué?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:180
 translate spanish sm1cs_tl008_sex_fbd5ffdd:
@@ -230,7 +230,7 @@ translate spanish sm1cs_tl008_sex_56765433:
 translate spanish sm1cs_tl008_sex_3adca529:
 
     # mc "Oh, you're wasting no time - Gooodddamn!"
-    mc "Oh, no pierdes el tiempo… ¡Mierdaa!"
+    mc "Oh, no pierdes el tiempo... ¡Mierdaa!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:206
 translate spanish sm1cs_tl008_sex_5fc60ee5:
