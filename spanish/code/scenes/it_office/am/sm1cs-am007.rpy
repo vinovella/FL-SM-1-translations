@@ -1,4 +1,4 @@
-﻿# game/code/scenes/it_office/am/sm1cs-am007.rpy:36
+# game/code/scenes/it_office/am/sm1cs-am007.rpy:36
 translate spanish sm1cs_am007_14c95358:
 
     # am "Hey, [mcname]."
@@ -362,7 +362,7 @@ translate spanish sm1cs_am007_74bf8ae9:
 translate spanish sm1cs_am007_b042200c:
 
     # ps "Oh, the stud?{w} Has he asked you to play your guitar yet?"
-    ps "Oh, ¿el semental?{w} ¿Ya te ha pedido tocar tu guitarra?"
+    ps "Oh, ¿el semental?{w} ¿Ya te ha pedido tocar su guitarra?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:185
 translate spanish sm1cs_am007_a53b24bd:
@@ -680,7 +680,7 @@ translate spanish sm1cs_am007_8c79c0d1:
 translate spanish sm1cs_am007_7fe76b4d:
 
     # mc "Maybe I'm into sour candy."
-    mc "Tal vez me gusten los caramelos ácidos."
+    mc "Tal vez me gusten los dulces ácidos."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:341
 translate spanish sm1cs_am007_ffa2f81f:
@@ -962,7 +962,7 @@ translate spanish sm1cs_am007_20_minutes_later_94e6f76e:
 translate spanish sm1cs_am007_20_minutes_later_835d177f:
 
     # mct "Gah. I probably shouldn't be jogging this close to a groin injury."
-    mct "Gah. Probablemente no debería estar corriendo tan cerca de una lesión en la ingle."
+    mct "Uf. Probablemente no debería estar corriendo tan cerca de una lesión en la ingle."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:497
 translate spanish sm1cs_am007_20_minutes_later_498c2424:
@@ -992,7 +992,7 @@ translate spanish sm1cs_am007_20_minutes_later_2b684309:
 translate spanish sm1cs_am007_20_minutes_later_69a1b761:
 
     # mc "Hot."
-    mc "Qué ardiente."
+    mc "Qué sexy."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:515
 translate spanish sm1cs_am007_20_minutes_later_02f4de52:
@@ -1370,7 +1370,7 @@ translate spanish sm1cs_am007_one_hour_later_95064507:
 translate spanish sm1cs_am007_one_hour_later_84d141b5:
 
     # mc "April?"
-    mc "Abril?"
+    mc "¿Abril?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:770
 translate spanish sm1cs_am007_one_hour_later_82792784:
@@ -2402,7 +2402,7 @@ translate spanish sm1cs_am007_one_hour_later_a9c0e1eb:
 translate spanish sm1cs_am007_one_hour_later_2f92365c:
 
     # am "Helping to fuck his girlfriend nice and hard when she's struggling."
-    am "Ayudando a follar a su novia bien y duro cuando está batallando con sus problemas."
+    am "Ayudando a follar a su novia bien rico y duro cuando está pasando por un mal momento."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1286
 translate spanish sm1cs_am007_one_hour_later_b4a41fd4:
@@ -2648,11 +2648,11 @@ translate spanish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:992
     old "So long as I can lick yours"
-    new "Siempre y cuando yo pueda lamer el tuyo"
+    new "Siempre y cuando yo pueda lamer las tuyas"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:992
     old "I'd prefer to just lick yours"
-    new "Preferiría lamer solo el tuyo"
+    new "Preferiría lamer solo las tuyas"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:992
     old "I'd like to do other things to you"
@@ -2717,4 +2717,5 @@ translate spanish strings:
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:220
     old "Surprised it's taking you this long"
     new "Me sorprende que te haya tomado tanto tiempo"
+
 
