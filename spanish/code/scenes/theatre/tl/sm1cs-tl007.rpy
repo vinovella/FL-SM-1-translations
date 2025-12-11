@@ -428,7 +428,7 @@ translate spanish sm1cs_tl007_ccdc0143:
 translate spanish sm1cs_tl007_cb474934:
 
     # sy "Ooooo, that sounds like hard work. I'm going to... hang out here!"
-    sy "Oooooh, suena a mucho trabajo. Yo… me quedaré aquí."
+    sy "Oooooh, suena a mucho trabajo. Yo... me quedaré aquí."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:268
 translate spanish sm1cs_tl007_3d6dbf72:
