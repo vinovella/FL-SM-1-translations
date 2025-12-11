@@ -662,7 +662,7 @@ translate spanish sm1cs_ag003_bdfb0fcb:
 translate spanish sm1cs_ag003_602b2806:
 
     # mct "Woah. That's... that's a pretty detailed description of Magnolia's pussy..."
-    mct "Woah. Eso es... esa es una descripción bastante detallada del coño de Magnolia..."
+    mct "Guau. Eso es... esa es una descripción bastante detallada del coño de Magnolia..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:340
 translate spanish sm1cs_ag003_a24738a2:
@@ -686,7 +686,7 @@ translate spanish sm1cs_ag003_b076b8cf:
 translate spanish sm1cs_ag003_587a2d48:
 
     # ag "I didn't mean to bump into you, my apologies!"
-    ag "¡No quise toparme contigo, mis disculpas!"
+    ag "¡No quise chocar contigo, disculpa!"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:351
 translate spanish sm1cs_ag003_fd577c7b:
@@ -806,7 +806,7 @@ translate spanish sm1cs_ag003_28e77d45:
 translate spanish sm1cs_ag003_353fb300:
 
     # mct "In the meantime... I wonder what the hot recluse is going to do now that he's seen Magnolia fingering herself..."
-    mct "Mientras tanto... me pregunto qué va a hacer el recluso caliente ahora que ha visto a Magnolia tocándose..."
+    mct "Mientras tanto... me pregunto qué va a hacer el recluso sexy ahora que ha visto a Magnolia tocándose..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:252
 translate spanish sm1cs_ag003_e50bff0e:
