@@ -30,7 +30,7 @@ translate spanish strings:
 
     # game/code/data/chat/chat_tl.rpy:31
     old "ngl playing pool with you was fun the other night"
-    new "no voy a mentir, jugar billar contigo fue divertido la otra noche"
+    new "no voy a mentir, jugar billar la otra noche contigo fue divertido"
 
     # game/code/data/chat/chat_tl.rpy:31
     old "even if you cheated"
