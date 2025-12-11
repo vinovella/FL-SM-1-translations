@@ -14,5 +14,5 @@ translate spanish sm1cs_tl007i_2_80cc65ef:
 translate spanish sm1cs_tl007i_2_ef7457da:
 
     # mc "Oh shit - sorry, Stacy just texted me. I have to run!"
-    mc "Oh, mierda… perdona, Stacy acaba de escribirme. ¡Tengo que correr!"
+    mc "Oh, mierda... perdona, Stacy acaba de escribirme. ¡Tengo que correr!"
 
