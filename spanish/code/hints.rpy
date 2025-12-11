@@ -544,4 +544,3 @@ translate spanish strings:
     old "Nari and Taisia bond over anal. +1 RP with both"
     new "Nari y Taisia crean un vínculo por el sexo anal. +1 RP con ambas"
 
-
