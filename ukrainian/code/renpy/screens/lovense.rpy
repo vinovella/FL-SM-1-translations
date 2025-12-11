@@ -55,3 +55,4 @@
     # game/code/renpy/screens/lovense.rpy:139
     old "Connection failed!"
     new "Помилка підключення!"
+
