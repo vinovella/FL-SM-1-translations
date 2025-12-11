@@ -254,7 +254,7 @@ translate spanish sm1ms021_0cf622cf:
 translate spanish sm1ms021_85a9a2d1:
 
     # mc "Customer feedback. Why does it taste so sweet?"
-    mc "Comentarios de los clientes. ¿Por qué sabe tan dulce?"
+    mc "Comentarios de los clientes. ¿Por qué es tan bueno?"
 
 # game/code/scenes/main_story/sm1ms021.rpy:154
 translate spanish sm1ms021_f605bc63:
@@ -422,7 +422,7 @@ translate spanish sm1ms021_4b920476:
 translate spanish sm1ms021_1464866a:
 
     # mc "Right. The eternal obstacle. How much are we talking for this one?"
-    mc "Cierto. El obstáculo eterno. ¿De cuánto estamos hablando para este?"
+    mc "Cierto. El obstáculo eterno. ¿De cuánto estamos hablando para esto?"
 
 # game/code/scenes/main_story/sm1ms021.rpy:238
 translate spanish sm1ms021_86f0629c:
@@ -542,13 +542,13 @@ translate spanish sm1ms021_850240ef:
 translate spanish sm1ms021_98539ea6:
 
     # sy "This time, you're tagging in, buster."
-    sy "Esta vez, te toca a ti, grandullón."
+    sy "Esta vez, te toca a ti, grandulón."
 
 # game/code/scenes/main_story/sm1ms021.rpy:298
 translate spanish sm1ms021_0c5ba758:
 
     # mc "Doh!"
-    mc "¡Doh!"
+    mc "¡Vaya!"
 
 # game/code/scenes/main_story/sm1ms021.rpy:301
 translate spanish sm1ms021_f83d94ed:
