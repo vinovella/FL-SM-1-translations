@@ -130,35 +130,35 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "April dislikes this. -1 RP with April"
-    new "A Abril no le gusta esto. -1 RP con Abril"
+    new "A April no le gusta esto. -1 RP con April"
 
     # game/code/hints.rpy:5
     old "April asks you to stay. +1 RP with April"
-    new "Abril te pide que te quedes. +1 RP con Abril"
+    new "April te pide que te quedes. +1 RP con April"
 
     # game/code/hints.rpy:5
     old "April likes this a lot. +2 RP with April"
-    new "A Abril le gusta mucho esto. +2 RP con Abril"
+    new "A April le gusta mucho esto. +2 RP con April"
 
     # game/code/hints.rpy:5
     old "April appreciates getting to the action quicker. +1 RP with April"
-    new "Abril aprecia ir a la acción más rápido. +1 RP con Abril"
+    new "April aprecia ir a la acción más rápido. +1 RP con April"
 
     # game/code/hints.rpy:5
     old "Breakup with April"
-    new "Romper con Abril"
+    new "Romper con April"
 
     # game/code/hints.rpy:5
     old "+1 RP with April"
-    new "+1 RP con Abril"
+    new "+1 RP con April"
 
     # game/code/hints.rpy:5
     old "-2 RP with April"
-    new "-2 RP con Abril"
+    new "-2 RP con April"
 
     # game/code/hints.rpy:5
     old "-2 RP with April. She's fine showing her girly side but dislikes it pointed out"
-    new "-2 RP con Abril. A ella no le molesta mostrar su lado femenino, pero le disgusta que se lo señalen"
+    new "-2 RP con April. A ella no le molesta mostrar su lado femenino, pero le disgusta que se lo señalen"
 
     # game/code/hints.rpy:5
     old "Enable mutual armpit licking"
@@ -166,7 +166,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Disable April licking your armpits. You may lick hers"
-    new "Deshabilitar que Abril lama tus axilas. Puedes lamer las suyas"
+    new "Deshabilitar que April lama tus axilas. Puedes lamer las suyas"
 
     # game/code/hints.rpy:5
     old "Disable armpit licking for both"
@@ -418,7 +418,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Acknowledge April is messing around. +2 RP with April"
-    new "Reconocer que Abril está bromeando. +2 RP con Abril"
+    new "Reconocer que April está bromeando. +2 RP con April"
 
     # game/code/hints.rpy:5
     old "Compliment her looks. She enjoys it"
@@ -426,31 +426,31 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Express hope it's more than a crush. +1 RP with April"
-    new "Expresar la esperanza de que sea más que un enamoramiento. +1 RP con Abril"
+    new "Expresar la esperanza de que sea más que un enamoramiento. +1 RP con April"
 
     # game/code/hints.rpy:5
     old "Give an even better kiss. +2 RP with April"
-    new "Dar un beso aún mejor. +2 RP con Abril"
+    new "Dar un beso aún mejor. +2 RP con April"
 
     # game/code/hints.rpy:5
     old "+2 RP with April"
-    new "+2 RP con Abril"
+    new "+2 RP con April"
 
     # game/code/hints.rpy:5
     old "-1 RP with April"
-    new "-1 RP con Abril"
+    new "-1 RP con April"
 
     # game/code/hints.rpy:5
     old "April likes this. +1 RP with April"
-    new "A Abril le gusta esto. +1 RP con Abril"
+    new "A April le gusta esto. +1 RP con April"
 
     # game/code/hints.rpy:5
     old "Risk displeasing April if she learns you lied"
-    new "Arriesgarse a disgustar a Abril si descubre que mentiste"
+    new "Arriesgarse a disgustar a April si descubre que mentiste"
 
     # game/code/hints.rpy:5
     old "Improve relationship with April later"
-    new "Mejorar la relación con Abril más tarde"
+    new "Mejorar la relación con April más tarde"
 
     # game/code/hints.rpy:5
     old "Claire appreciates this a lot. +2 RP with Claire"
