@@ -370,6 +370,8 @@ translate spanish sm1cs_dvh003_64dba11a:
     # dvh "{i}Oprotten{/i}. I have work to do."
     dvh "{i}Oprotten{/i}. Tengo trabajo que hacer."
 
+translate spanish strings:
+
     # game/code/scenes/theatre/dvh/sm1cs-dvh003.rpy:89
     old "Flirt with her"
     new "Coquetear con ella"
@@ -377,3 +379,4 @@ translate spanish sm1cs_dvh003_64dba11a:
     # game/code/scenes/theatre/dvh/sm1cs-dvh003.rpy:89
     old "Keep your mouth shut"
     new "Mantener la boca cerrada"
+
