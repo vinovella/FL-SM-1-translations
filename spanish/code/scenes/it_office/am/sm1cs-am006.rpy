@@ -1015,274 +1015,274 @@ translate spanish strings:
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:54
 translate spanish sm1cs_am006_58ee8e36:
 
-     # mc "Isn't the customer always right?"
-     mc "¿No tiene el cliente siempre la razón?"
+    # mc "Isn't the customer always right?"
+    mc "¿No tiene el cliente siempre la razón?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:227
 translate spanish sm1cs_am006_arcade_6c8b6bb5:
 
-     # am "I {b}know{/b} I can be a lot.{w} That's what you're thinking, right?"
-     am "Yo {b}sé{/b} que puedo ser excesiva.{w} Eso es lo que estás pensando, ¿verdad?"
+    # am "I {b}know{/b} I can be a lot.{w} That's what you're thinking, right?"
+    am "Yo {b}sé{/b} que puedo ser excesiva.{w} Eso es lo que estás pensando, ¿verdad?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:238
 translate spanish sm1cs_am006_arcade_e0313ce3:
 
-     # mc "So you're going to try lowering your shields?"
-     mc "¿Así que vas a intentar bajar tus escudos?"
+    # mc "So you're going to try lowering your shields?"
+    mc "¿Así que vas a intentar bajar tus escudos?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:250
 translate spanish sm1cs_am006_arcade_073a951f:
 
-     # am "I'm not {b}that{/b} easy, [mcname]."
-     am "No soy {b}tan{/b} fácil, [mcname]."
+    # am "I'm not {b}that{/b} easy, [mcname]."
+    am "No soy {b}tan{/b} fácil, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:253
 translate spanish sm1cs_am006_arcade_3b107314:
 
-     # mc "The last time we were out, you asked me to fuck you in your car..."
-     mc "La última vez que salimos, me pediste que tuviera sexo contigo en tu auto..."
+    # mc "The last time we were out, you asked me to fuck you in your car..."
+    mc "La última vez que salimos, me pediste que tuviera sexo contigo en tu auto..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:290
 translate spanish sm1cs_am006_arcade_521a9133:
 
-     # mct "I remember this machine.{w} It's easier to throw into the big rings but you get the most points by throwing the ball into the smaller rings."
-     mct "Recuerdo esta máquina.{w} Es más fácil lanzar a los aros grandes, pero obtienes más puntos lanzando la pelota a los aros más pequeños."
+    # mct "I remember this machine.{w} It's easier to throw into the big rings but you get the most points by throwing the ball into the smaller rings."
+    mct "Recuerdo esta máquina.{w} Es más fácil lanzar a los aros grandes, pero obtienes más puntos lanzando la pelota a los aros más pequeños."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:318
 translate spanish sm1cs_am006_arcade_134ebe15:
 
-     # am "I'm a little rusty..."
-     am "Estoy un poco oxidada..."
+    # am "I'm a little rusty..."
+    am "Estoy un poco oxidada..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:324
 translate spanish sm1cs_am006_arcade_ebdf84e1:
 
-     # am "And you know you're never going to see my smaller {b}hole{/b} acting like that."
-     am "Y sabes que nunca vas a ver mi {b}agujero{/b} más pequeño actuando de esa manera."
+    # am "And you know you're never going to see my smaller {b}hole{/b} acting like that."
+    am "Y sabes que nunca vas a ver mi {b}agujero{/b} más pequeño actuando de esa manera."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:352
 translate spanish sm1cs_am006_arcade_cbdde717:
 
-     # am "It's gotta be you.{w} When I do this alone, I always score way higher."
-     am "Tiene que ser por ti.{w} Cuando hago esto sola, siempre obtengo una puntuación mucho más alta."
+    # am "It's gotta be you.{w} When I do this alone, I always score way higher."
+    am "Tiene que ser por ti.{w} Cuando hago esto sola, siempre obtengo una puntuación mucho más alta."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:355
 translate spanish sm1cs_am006_arcade_ee626115:
 
-     # mc "That might be it.{w} Or it's because you're not really letting yourself relax."
-     mc "Podría ser eso.{w} O es porque realmente no te estás dejando relajar."
+    # mc "That might be it.{w} Or it's because you're not really letting yourself relax."
+    mc "Podría ser eso.{w} O es porque realmente no te estás dejando relajar."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:364
 translate spanish sm1cs_am006_arcade_52b129bf:
 
-     # mc "I studied your movements, April.{w} Your body was so stiff and tense."
-     mc "Estudié tus movimientos, Abril.{w} Tu cuerpo estaba muy rígido y tenso."
+    # mc "I studied your movements, April.{w} Your body was so stiff and tense."
+    mc "Estudié tus movimientos, Abril.{w} Tu cuerpo estaba muy rígido y tenso."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:371
 translate spanish sm1cs_am006_arcade_f9779a86:
 
-     # mc "Yeah, sounds like you're {b}totally{/b} relaxed."
-     mc "Sí, suena a que estás {b}totalmente{/b} relajada."
+    # mc "Yeah, sounds like you're {b}totally{/b} relaxed."
+    mc "Sí, suena a que estás {b}totalmente{/b} relajada."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:380
 translate spanish sm1cs_am006_arcade_cfd32586:
 
-     # mc "Once is lucky.{w} Twice is just plain {b}good{/b}."
-     mc "Una vez es suerte.{w} Dos veces es simplemente {b}bueno{/b}."
+    # mc "Once is lucky.{w} Twice is just plain {b}good{/b}."
+    mc "Una vez es suerte.{w} Dos veces es simplemente {b}bueno{/b}."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:402
 translate spanish sm1cs_am006_arcade_999e1d2f:
 
-     # am "No way.{w} Best two out of three."
-     am "De ninguna manera.{w} El mejor de tres."
+    # am "No way.{w} Best two out of three."
+    am "De ninguna manera.{w} El mejor de tres."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:439
 translate spanish sm1cs_am006_arcade_585579e4:
 
-     # am "Yes!{w} Wooh. She shoots, she scores!"
-     am "¡Sí!{w} ¡Wooh! ¡Ella lanza, ella anota!"
+    # am "Yes!{w} Wooh. She shoots, she scores!"
+    am "¡Sí!{w} ¡Wooh! ¡Ella lanza, ella anota!"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:448
 translate spanish sm1cs_am006_arcade_39c7e4cc:
 
-     # am "In your face!{w} In your stupid handsome face!"
-     am "¡En tu cara!{w} ¡En tu estúpida y hermosa cara!"
+    # am "In your face!{w} In your stupid handsome face!"
+    am "¡En tu cara!{w} ¡En tu estúpida y hermosa cara!"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:457
 translate spanish sm1cs_am006_arcade_97275737:
 
-     # am "Oh yeah.{w} Forget I said anything."
-     am "Oh sí.{w} Olvida que dije algo."
+    # am "Oh yeah.{w} Forget I said anything."
+    am "Oh sí.{w} Olvida que dije algo."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:491
 translate spanish sm1cs_am006_arcade_140a6992:
 
-     # mc "So spill it.{w} When was the last time you let your shields down?"
-     mc "Dímelo.{w} ¿Cuándo fue la última vez que bajaste tus escudos?"
+    # mc "So spill it.{w} When was the last time you let your shields down?"
+    mc "Dímelo.{w} ¿Cuándo fue la última vez que bajaste tus escudos?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:511
 translate spanish sm1cs_am006_arcade_288b6525:
 
-     # mc "Okay, liar."
-     mc "De acuerdo, mentirosa."
+    # mc "Okay, liar."
+    mc "De acuerdo, mentirosa."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:514
 translate spanish sm1cs_am006_arcade_e0d555f5:
 
-     # am "I'm not lying.{w} I... I really mean it, [mcname]."
-     am "No estoy mintiendo.{w} Yo... Lo digo en serio, [mcname]."
+    # am "I'm not lying.{w} I... I really mean it, [mcname]."
+    am "No estoy mintiendo.{w} Yo... Lo digo en serio, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:515
 translate spanish sm1cs_am006_arcade_14e32ccd:
 
-     # am "It's probably been years..."
-     am "Probablemente han pasado años..."
+    # am "It's probably been years..."
+    am "Probablemente han pasado años..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:518
 translate spanish sm1cs_am006_arcade_b70189dd:
 
-     # am "Around middle school is when I realized how good I was with computers..."
-     am "Fue alrededor de la escuela secundaria cuando me di cuenta de lo buena que era con las computadoras..."
+    # am "Around middle school is when I realized how good I was with computers..."
+    am "Fue alrededor de la escuela secundaria cuando me di cuenta de lo buena que era con las computadoras..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:519
 translate spanish sm1cs_am006_arcade_49acd481:
 
-     # am "When I started getting really good, a lot of guys {i}changed{/i} how they acted toward me."
-     am "Cuando empecé a ser realmente buena, muchos chicos {i}cambiaron{/i} la forma en que actuaban conmigo."
+    # am "When I started getting really good, a lot of guys {i}changed{/i} how they acted toward me."
+    am "Cuando empecé a ser realmente buena, muchos chicos {i}cambiaron{/i} la forma en que actuaban conmigo."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:520
 translate spanish sm1cs_am006_arcade_d1126a46:
 
-     # am "Sometimes it was small changes.{w} Other times..."
-     am "A veces eran pequeños cambios.{w} Otras veces..."
+    # am "Sometimes it was small changes.{w} Other times..."
+    am "A veces eran pequeños cambios.{w} Otras veces..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:521
 translate spanish sm1cs_am006_arcade_ffa0b403:
 
-     # am "I lost friends.{w} People I knew for years turned into super assholes."
-     am "Perdí amigos.{w} Personas que conocía desde hacía años se convirtieron en unos verdaderos idiotas."
+    # am "I lost friends.{w} People I knew for years turned into super assholes."
+    am "Perdí amigos.{w} Personas que conocía desde hacía años se convirtieron en unos verdaderos idiotas."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:524
 translate spanish sm1cs_am006_arcade_53a463b4:
 
-     # mct "I can't imagine that was easy."
-     mct "No puedo imaginar que eso haya sido fácil."
+    # mct "I can't imagine that was easy."
+    mct "No puedo imaginar que eso haya sido fácil."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:542
 translate spanish sm1cs_am006_arcade_2be93e70:
 
-     # am "I had to break them with my words.{w} Or at least get them to leave me the hell alone."
-     am "Tuve que destrozarlos con mis palabras.{w} O al menos conseguir que me dejaran en paz de una vez."
+    # am "I had to break them with my words.{w} Or at least get them to leave me the hell alone."
+    am "Tuve que destrozarlos con mis palabras.{w} O al menos conseguir que me dejaran en paz de una vez."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:545
 translate spanish sm1cs_am006_arcade_1579fa81:
 
-     # mc "Is that why you treat Anna like you do?{w} Because she got the promotion and is now above you?"
-     mc "¿Es por eso que tratas a Anna como lo haces?{w} Porque ella consiguió el ascenso y ahora está por encima de ti?"
+    # mc "Is that why you treat Anna like you do?{w} Because she got the promotion and is now above you?"
+    mc "¿Es por eso que tratas a Anna como lo haces?{w} Porque ella consiguió el ascenso y ahora está por encima de ti?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:558
 translate spanish sm1cs_am006_arcade_1106ff6e:
 
-     # mc "Maybe because I'm the first non-asshole who saw the {i}real{/i} you?{w} Underneath the barbs."
-     mc "¿Tal vez porque soy el primer hombre que no es un imbécil que vio a la {i}verdadera{/i} tú?{w} Debajo de los ataques."
+    # mc "Maybe because I'm the first non-asshole who saw the {i}real{/i} you?{w} Underneath the barbs."
+    mc "¿Tal vez porque soy el primer hombre que no es un imbécil que vio a la {i}verdadera{/i} tú?{w} Debajo de los ataques."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:562
 translate spanish sm1cs_am006_arcade_d4cb5c7b:
 
-     # am "Hmmph.{w} Maybe you're onto something."
-     am "Mmmf.{w} Tal vez has descubierto algo."
+    # am "Hmmph.{w} Maybe you're onto something."
+    am "Mmmf.{w} Tal vez has descubierto algo."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:563
 translate spanish sm1cs_am006_arcade_33057f39:
 
-     # am "But more realistically, it's probably because I have a crush on you."
-     am "Pero siendo más realista, probablemente es porque estoy enamorada de ti."
+    # am "But more realistically, it's probably because I have a crush on you."
+    am "Pero siendo más realista, probablemente es porque estoy enamorada de ti."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:564
 translate spanish sm1cs_am006_arcade_ed63b19c:
 
-     # am "And one day, it will wear off."
-     am "Y un día, se me pasará."
+    # am "And one day, it will wear off."
+    am "Y un día, se me pasará."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:576
 translate spanish sm1cs_am006_arcade_536b2a6a:
 
-     # mc "I do.{w} Maybe we can test things out again."
-     mc "Sí.{w} Quizás podamos volver a poner las cosas a prueba."
+    # mc "I do.{w} Maybe we can test things out again."
+    mc "Sí.{w} Quizás podamos volver a poner las cosas a prueba."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:588
 translate spanish sm1cs_am006_arcade_db3fe2b0:
 
-     # mc "*softly* The basics."
-     mc "*suavemente* Lo básico."
+    # mc "*softly* The basics."
+    mc "*suavemente* Lo básico."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:623
 translate spanish sm1cs_am006_arcade_811460c5:
 
-     # mc "Okay, okay.{w} We don't have to-"
-     mc "De acuerdo, de acuerdo.{w} No tenemos que..."
+    # mc "Okay, okay.{w} We don't have to-"
+    mc "De acuerdo, de acuerdo.{w} No tenemos que..."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:646
 translate spanish sm1cs_am006_arcade_8441b9e9:
 
-     # mct "Woah.{w} She's... she's really into this."
-     mct "Vaya.{w} Ella... ella está realmente metida en esto."
+    # mct "Woah.{w} She's... she's really into this."
+    mct "Vaya.{w} Ella... ella está realmente metida en esto."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:665
 translate spanish sm1cs_am006_arcade_07a645a2:
 
-     # am "What?{w} No. Of course I didn't.{w} Shut up!"
-     am "¿Qué?{w} No. Por supuesto que no.{w} ¡Cállate!"
+    # am "What?{w} No. Of course I didn't.{w} Shut up!"
+    am "¿Qué?{w} No. Por supuesto que no.{w} ¡Cállate!"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:675
 translate spanish sm1cs_am006_arcade_9eebb2e3:
 
-     # am "I know.{w} I don't know what's gotten into me."
-     am "Lo sé.{w} No sé qué me ha pasado."
+    # am "I know.{w} I don't know what's gotten into me."
+    am "Lo sé.{w} No sé qué me ha pasado."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:679
 translate spanish sm1cs_am006_arcade_5446535a:
 
-     # am "I {b}hate{/b} that thought more."
-     am "Ese pensamiento lo {b}odio{/b} más."
+    # am "I {b}hate{/b} that thought more."
+    am "Ese pensamiento lo {b}odio{/b} más."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:683
 translate spanish sm1cs_am006_arcade_157700e7:
 
-     # mc "So what happens now?"
-     mc "¿Y qué pasa ahora?"
+    # mc "So what happens now?"
+    mc "¿Y qué pasa ahora?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:688
 translate spanish sm1cs_am006_arcade_f98c4280:
 
-     # am "You {i}were{/i} right, this was a good idea."
-     am "Tenías {i}razón{/i}, esta fue una buena idea."
+    # am "You {i}were{/i} right, this was a good idea."
+    am "Tenías {i}razón{/i}, esta fue una buena idea."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:689
 translate spanish sm1cs_am006_arcade_bb8e3797:
 
-     # am "I just.{w} For now, I still need time."
-     am "Es solo que.{w} Por ahora, todavía necesito tiempo."
+    # am "I just.{w} For now, I still need time."
+    am "Es solo que.{w} Por ahora, todavía necesito tiempo."
 
 translate spanish strings:
 
-     # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
-     old "That really sucks"
-     new "Eso es terrible"
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
+    old "That really sucks"
+    new "Eso es terrible"
 
-     # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
-     old "You look great"
-     new "Te ves genial"
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
+    old "You look great"
+    new "Te ves genial"
 
-     # game/code/scenes/it_office/am/sm1cs-am006.rpy:565
-     old "I hope it doesn't"
-     new "Espero que no"
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:565
+    old "I hope it doesn't"
+    new "Espero que no"
 
-     # game/code/scenes/it_office/am/sm1cs-am006.rpy:700
-     old "Kiss April again"
-     new "Besar a Abril de nuevo"
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:700
+    old "Kiss April again"
+    new "Besar a Abril de nuevo"
 
-     # game/code/scenes/it_office/am/sm1cs-am006.rpy:700
-     old "Don't kiss April"
-     new "No besar a Abril"
+    # game/code/scenes/it_office/am/sm1cs-am006.rpy:700
+    old "Don't kiss April"
+    new "No besar a Abril"
 
