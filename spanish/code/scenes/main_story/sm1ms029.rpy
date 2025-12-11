@@ -6338,7 +6338,7 @@ translate spanish sm1ms029_party_end_16392459:
 translate spanish sm1ms029_party_end_6f70614c:
 
     # hr "After Fetish Locator, and learning that AmRose wasn't here... I had to make sure."
-    hr "Después del asunto del Localizador de Fetiches, y al enterarme de que AmRose no estaba aquí… tenía que asegurarme."
+    hr "Después del asunto del Localizador de Fetiches, y al enterarme de que AmRose no estaba aquí... tenía que asegurarme."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2380
 translate spanish sm1ms029_party_end_cc1dbc0b:
