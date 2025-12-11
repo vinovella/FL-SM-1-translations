@@ -134,7 +134,7 @@ translate spanish sm1cs_am006_abd68f55:
 translate spanish sm1cs_am006_9cd580b0:
 
     # am "Make it quick, I need to get back to this slog soon."
-    am "Hazlo rápido, necesito volver a este trabajo pronto."
+    am "Hazlo rápido, necesito volver pronto a este trabajo."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:74
 translate spanish sm1cs_am006_36681cd6:
@@ -152,7 +152,7 @@ translate spanish sm1cs_am006_3a0653ea:
 translate spanish sm1cs_am006_955d3b07:
 
     # am "How old are you?"
-    am "¿Cuántos años tiene?"
+    am "¿Cuántos años tienes?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:81
 translate spanish sm1cs_am006_12a5256d:
@@ -194,7 +194,7 @@ translate spanish sm1cs_am006_1c6c3d75:
 translate spanish sm1cs_am006_6e131efd:
 
     # am "Okay. I'll plan accordingly."
-    am "Bueno. Planearé en consecuencia."
+    am "De acuerdo. Me organizaré en función de eso."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:107
 translate spanish sm1cs_am006_8a340642:
@@ -266,7 +266,7 @@ translate spanish sm1cs_am006_arcade_ae7ac2a8:
 translate spanish sm1cs_am006_arcade_79b887a9:
 
     # am "Shut up. *chuckles*"
-    am "Callarse la boca. *risas*"
+    am "Cierra la boca. *risas*"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:165
 translate spanish sm1cs_am006_arcade_d726223b:
@@ -536,7 +536,7 @@ translate spanish sm1cs_am006_arcade_c654b893:
 translate spanish sm1cs_am006_arcade_07e6e1a0:
 
     # mc "Major skills."
-    mc "Habilidades principales."
+    mc "¡Qué grandes habilidades tengo!"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:396
 translate spanish sm1cs_am006_arcade_1f63e554:
@@ -596,7 +596,7 @@ translate spanish sm1cs_am006_arcade_4645aaf6:
 translate spanish sm1cs_am006_arcade_da51294f:
 
     # am "Shut up. No, I don't."
-    am "Cállate la boca. No, no lo hago."
+    am "Cállate. No, no lo hago."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:468
 translate spanish sm1cs_am006_arcade_7526163b:
@@ -818,13 +818,13 @@ translate spanish sm1cs_am006_arcade_9a9b5a38:
 translate spanish sm1cs_am006_arcade_c39fb585:
 
     # mct "Hehe. She's peeking her tongue at my lips."
-    mct "Jeje. Ella está mirando su lengua en mis labios."
+    mct "Jeje. Está asomando la lengua a mis labios."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:637
 translate spanish sm1cs_am006_arcade_e1e52f99:
 
     # mct "I didn't think she'd want try out kissing with a French kiss."
-    mct "No pensé que ella quisiera probar besos con un beso francés."
+    mct "No pensé que quisiera intentar un beso francés."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:641
 translate spanish sm1cs_am006_arcade_e32ab0a4:
@@ -878,7 +878,7 @@ translate spanish sm1cs_am006_arcade_6e779a52:
 translate spanish sm1cs_am006_arcade_421888ee:
 
     # am "Talk about stuff like that."
-    am "Habla de cosas como esa."
+    am "Hablar de cosas como esa."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:668
 translate spanish sm1cs_am006_arcade_5974a2b0:
@@ -956,7 +956,7 @@ translate spanish sm1cs_am006_arcade_85b7afad:
 translate spanish sm1cs_am006_arcade_0adbfe46:
 
     # mct "She's letting me take the lead completely this time."
-    mct "Esta vez me deja llevar completamente la iniciativa."
+    mct "Esta vez me deja tomar completamente la iniciativa."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:715
 translate spanish sm1cs_am006_arcade_db1423d6:
@@ -998,7 +998,7 @@ translate spanish strings:
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:30
     old "Isn't the customer always right?"
-    new "¿No tiene siempre razón el cliente?"
+    new "¿No tiene el cliente siempre la razón?"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:123
     old "In the evening at the arcade"
@@ -1184,7 +1184,7 @@ translate spanish sm1cs_am006_arcade_1579fa81:
 translate spanish sm1cs_am006_arcade_1106ff6e:
 
     # mc "Maybe because I'm the first non-asshole who saw the {i}real{/i} you?{w} Underneath the barbs."
-    mc "¿Tal vez porque soy el primer hombre que no es un imbécil que vio a la {i}verdadera{/i} tú?{w} Debajo de las críticas."
+    mc "¿Tal vez porque soy el primer hombre que no es un imbécil que vio a la {i}verdadera{/i} tú?{w} Debajo de los ataques."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:562
 translate spanish sm1cs_am006_arcade_d4cb5c7b:
@@ -1262,7 +1262,7 @@ translate spanish sm1cs_am006_arcade_f98c4280:
 translate spanish sm1cs_am006_arcade_bb8e3797:
 
     # am "I just.{w} For now, I still need time."
-    am "Solo que.{w} Por ahora, todavía necesito tiempo."
+    am "Es solo que.{w} Por ahora, todavía necesito tiempo."
 
 translate spanish strings:
 
