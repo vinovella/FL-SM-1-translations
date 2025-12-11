@@ -92,7 +92,7 @@ translate spanish strings:
     new "Que terminó en una pelea a gritos."
 
     old "Uh. That doesn't sound like you."
-    new "Uh… eso no suena a ti."
+    new "Uh... eso no suena a ti."
 
     old "What started the argument?"
     new "¿Qué provocó la discusión?"
