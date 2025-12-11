@@ -80,7 +80,7 @@ translate spanish sm1cs_sy003_first_time_b5156d3f:
 translate spanish sm1cs_sy003_first_time_35568682:
 
     # sy "My bedroom wouldn't be complete without this."
-    sy "Mi hábitación no estaría completa sin esto."
+    sy "Mi habitación no estaría completa sin esto."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:172
 translate spanish sm1cs_sy003_first_time_d2c33682:
@@ -350,7 +350,7 @@ translate spanish sm1cs_sy003_sex_99674341:
 translate spanish sm1cs_sy003_sex_ce531375:
 
     # sy "Well, I don't care. I enjoy looking at you, and no one can make me do otherwise."
-    sy "Bueno, no me importa. Disfruto mirándote, y nadie puede hacerme hacer lo contrario."
+    sy "Bueno, no me importa. Disfruto mirándote, y nadie puede obligarme a dejar de hacerlo."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:333
 translate spanish sm1cs_sy003_sex_4419c75e:
@@ -896,7 +896,7 @@ translate spanish sm1cs_sy003_end_1a7db6fb:
 translate spanish sm1cs_sy003_end_a35f865b:
 
     # mc "But what happens if there are more people than just you and I on this bed."
-    mc "Pero ¿qué pasa si hay más gente que tú y yo en esta cama."
+    mc "¿Pero qué pasaría si hay más gente además de tú y yo en esta cama?"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:703
 translate spanish sm1cs_sy003_end_dae8c08f:
