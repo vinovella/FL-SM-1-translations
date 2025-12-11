@@ -1,4 +1,4 @@
-﻿# game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:10
+# game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:10
 translate spanish sm1cs_bg005_fb745ce9:
 
     # kv "Oh, hey you two. Perfect timing actually."
@@ -92,13 +92,13 @@ translate spanish sm1cs_bg005_967718db:
 translate spanish sm1cs_bg005_0aab3029:
 
     # mc "Stop."
-    mc "Para."
+    mc "Detente."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:51
 translate spanish sm1cs_bg005_41939a88:
 
     # bg "Stop what?"
-    bg "¿Para qué?"
+    bg "¿Detener qué?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:54
 translate spanish sm1cs_bg005_f8f4202d:
@@ -482,7 +482,7 @@ translate spanish sm1cs_bg005_1dea7cd4:
 translate spanish sm1cs_bg005_0aab3029_1:
 
     # mc "Stop."
-    mc "Para."
+    mc "Detente."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:206
 translate spanish sm1cs_bg005_b0d27f52:
@@ -566,7 +566,7 @@ translate spanish sm1cs_bg005_78dbdac5:
 translate spanish sm1cs_bg005_cf27bb3f:
 
     # mc "I could play with your pussy."
-    mc "Podría jugar con tu vagina."
+    mc "Podría jugar con tu coño."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:234
 translate spanish sm1cs_bg005_4e9c1ed7:
@@ -698,7 +698,7 @@ translate spanish sm1cs_bg005_2cfbecdf:
 translate spanish sm1cs_bg005_3ab25e6b:
 
     # bg "Hahah."
-    bg "Jajaj."
+    bg "Jaja."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:291
 translate spanish sm1cs_bg005_b9b53df2:
@@ -962,7 +962,7 @@ translate spanish sm1cs_bg005_0cea5e19:
 translate spanish sm1cs_bg005_6d34d814:
 
     # mc "No running away. Unless the building is literally on fire."
-    mc "No salir corriendo. A menos que el edificio esté literalmente en llamas."
+    mc "Sin salir corriendo. A menos que el edificio esté literalmente en llamas."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:380
 translate spanish sm1cs_bg005_1923b7a3:
@@ -1088,7 +1088,7 @@ translate spanish sm1cs_bg005_821ef6a3:
 translate spanish sm1cs_bg005_b06d1dc9:
 
     # bg "Me too."
-    bg "Yo también."
+    bg "Yo tampoco puedo esperar."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:427
 translate spanish sm1cs_bg005_eff5f0e5:
