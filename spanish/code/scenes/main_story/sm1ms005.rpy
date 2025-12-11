@@ -32,7 +32,7 @@ translate spanish sm1ms005_9444a934:
 translate spanish sm1ms005_41fb58da:
 
     # sy "I was actually going to let you decide tonight. I picked out two; one is a romantic comedy, the other one is a horror."
-    sy "En realidad iba a dejarte decidir esta noche. Elegí dos; Una es una comedia romántica, la otra es una de horror."
+    sy "En realidad iba a dejarte decidir esta noche. Elegí dos, Una es una comedia romántica, la otra es una de horror."
 
 # game/code/scenes/main_story/sm1ms005.rpy:85
 translate spanish sm1ms005_2ba6afa7:
