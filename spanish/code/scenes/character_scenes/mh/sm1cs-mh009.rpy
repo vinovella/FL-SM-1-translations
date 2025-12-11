@@ -278,19 +278,19 @@ translate spanish sm1cs_mh009_3b8ad517:
 translate spanish sm1cs_mh009_0d7d47b3:
 
     # mc "And we got a small editing and lounge area, and some extra rooms!"
-    mc "¡Y tenemos una pequeña zona de edición y descanso, y algunas habitaciones extra!"
+    mc "¡Y tenemos una pequeña zona de edición y descanso, y algunas habitaciones extras!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:195
 translate spanish sm1cs_mh009_a67a6f2c:
 
     # mh "What are you using the extra rooms for?"
-    mh "¿Para qué están usando las habitaciones extra?"
+    mh "¿Para qué están usando las habitaciones extras?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:199
 translate spanish sm1cs_mh009_a62f83a8:
 
     # mc "I've actually rented a few of them out to some of our actresses. They needed a place to rent, and I have all this space. So I figured, why not?"
-    mc "De hecho, le he alquilado algunas de ellas a algunas de nuestras actrices. Necesitaban un lugar para rentar y tengo todo este espacio. Así que pensé, ¿por qué no?"
+    mc "De hecho, le he alquilado algunas de ellas a algunas de nuestras actrices. Necesitaban un lugar para alquilar y tengo todo este espacio. Así que pensé, ¿por qué no?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:201
 translate spanish sm1cs_mh009_10c29e96:
@@ -758,7 +758,7 @@ translate spanish sm1cs_mh009_954a6ab6:
 translate spanish sm1cs_mh009_04a7c10b:
 
     # mc "Really. We also want to work with people who are excited to be here, you know? People with a... passion for adult film."
-    mc "De verdad. También queremos trabajar con personas que estén emocionadas de estar aquí, ¿sabes? Personas con una... pasión por el cine para adultos."
+    mc "Así es. También queremos trabajar con personas que estén emocionadas de estar aquí, ¿sabes? Personas con una... pasión por el cine para adultos."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:405
 translate spanish sm1cs_mh009_1c200401:
@@ -896,7 +896,7 @@ translate spanish sm1cs_mh009_0d455d76:
 translate spanish sm1cs_mh009_812f08c3:
 
     # mh "I also like some other sneaky public things, kind of like my fantasy... and I'm also into watersports."
-    mh "También me gustan algunas otras cosas públicas furtivas, parecido a mi fantasía... y también me gustan los juegos con orina."
+    mh "Además me gustan algunas otras cosas públicas furtivas, parecido a mi fantasía... y también me gustan los juegos con orina."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:465
 translate spanish sm1cs_mh009_2844ced8:
@@ -1028,13 +1028,13 @@ translate spanish sm1cs_mh009_0abe3b97:
 translate spanish sm1cs_mh009_38a38140:
 
     # mc "It feels like you know how to pose yourself in your light, how to show off to the camera, how to be sexy without making it forced..."
-    mc "Parece que sabes cómo posar en tu luz, cómo lucirte ante la cámara, cómo ser sexy sin que se vea forzado..."
+    mc "Parece que sabes cómo posar para sacar lo mejor de ti, cómo lucirte ante la cámara, cómo ser sexy sin que se vea forzado..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:571
 translate spanish sm1cs_mh009_8115fc5e:
 
     # mc "If we know how to look hot on camera, it means more clicks - and more clicks means more money, and more money means better business."
-    mc "Si sabemos cómo vernos atractivos en la cámara, significa más clics, y más clics significan más dinero, y más dinero significa un mejor negocio."
+    mc "Si sabemos cómo vernos atractivos en la cámara, significa más clics, y más clics significa más dinero, y más dinero significa un mejor negocio."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:574
 translate spanish sm1cs_mh009_6b1bf756:
@@ -1316,7 +1316,7 @@ translate spanish sm1cs_mh009_ced84a42:
 translate spanish sm1cs_mh009_e45bdd6e:
 
     # mh "It's because your big cock fills me up sooooo good!"
-    mh "¡Es porque tu gran pene me llena taaaan bien!"
+    mh "¡Es porque tu gran polla me llena taaaan bien!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:702
 translate spanish sm1cs_mh009_8e8e6f3b:
@@ -1454,7 +1454,7 @@ translate spanish sm1cs_mh009_59995d68:
 translate spanish sm1cs_mh009_9fa95212:
 
     # mh "If you - oh God - keep - keep going, you're going to make me cum!"
-    mh "Si sigues... oh Dios... si sigues... vas a hacer que me corra!"
+    mh "¡Si sigues... oh Dios... si sigues... vas a hacer que me corra!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:753
 translate spanish sm1cs_mh009_5620be0d:
@@ -1562,7 +1562,7 @@ translate spanish sm1cs_mh009_808ac5cb:
 translate spanish sm1cs_mh009_54a7a153:
 
     # mh "Just imagine what it's going to look like, my tits covered in your cum."
-    mh "Solo imagina cómo se verá, mis pechos cubiertos de tu semen."
+    mh "Solo imagina cómo se verá, mis pechos cubiertos con tu semen."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:793
 translate spanish sm1cs_mh009_24d2f5fa:
@@ -1754,7 +1754,7 @@ translate spanish sm1cs_mh009_eda7324d:
 translate spanish sm1cs_mh009_61202cd7:
 
     # mc "That good?"
-    mc "¿Tan bueno?"
+    mc "¿Es tan bueno?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:889
 translate spanish sm1cs_mh009_32aab2c6:
@@ -1994,7 +1994,7 @@ translate spanish sm1cs_mh009_1_e22c19c8:
 translate spanish sm1cs_mh009_1_ee06c6dd:
 
     # mct "I should probably upload the footage so I can give it to Lyssa when she's out of the bathroom."
-    mct "Probablemente debería subir la grabación para dársela a Lyssa cuando salga del baño."
+    mct "Probablemente debería transferir la grabación para dársela a Lyssa cuando salga del baño."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1020
 translate spanish sm1cs_mh009_1_91581872:
@@ -2012,7 +2012,7 @@ translate spanish sm1cs_mh009_1_75d12473:
 translate spanish sm1cs_mh009_1_2835928d:
 
     # mct "I can get these uploaded and put onto a flash drive or something?"
-    mct "¿Puedo subir esto y ponerlo en una memoria USB o algo así?"
+    mct "¿Puedo transferir esto y ponerlo en una memoria USB o algo así?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:1027
 translate spanish sm1cs_mh009_1_34af440b:
@@ -2292,7 +2292,7 @@ translate spanish strings:
 translate spanish sm1cs_mh009_d79e591d:
 
     # mh "So... one of the things I've always wanted to do... is to be displayed at a, like, BDSM club."
-    mh "Así que... una de las cosas que siempre he querido hacer... es ser exhibida en un, como, club BDSM."
+    mh "Bueno... una de las cosas que siempre he querido hacer... es ser exhibida en un, como, club BDSM."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:341
 translate spanish sm1cs_mh009_7b2b35e6:
