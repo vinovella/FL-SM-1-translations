@@ -6,11 +6,11 @@ translate spanish strings:
 
     # game/code/minigames/nonogram/nonogram_tutorial.rpy:53
     old "You will notice some rows/columns have 2 numbers.\n\nIf you see '2 1', that tells you that somewhere in that line will be a run of exactly 2 green squares, followed by 1 or more black squares, followed by 1 green square.\n\nThere might be black squares before or after the green squares - only the runs of green squares are counted."
-    new "Notarás que algunas filas o columnas tienen dos números.\n\nSi ves ‘2 1’, significa que en esa línea habrá un grupo de exactamente 2 cuadros verdes, seguido por uno o más cuadros negros, y luego otro grupo de 1 cuadro verde.\n\nPuede haber cuadros negros antes o después; solo cuentan los grupos de cuadros verdes."
+    new "Notarás que algunas filas o columnas tienen dos números.\n\nSi ves ‘2 1’, significa que en esa línea habrá un grupo de exactamente 2 cuadros verdes, seguido por uno o más cuadros negros, y luego otro grupo de 1 cuadro verde.\n\nPuede haber cuadros negros antes o después, solo cuentan los grupos de cuadros verdes."
 
     # game/code/minigames/nonogram/nonogram_tutorial.rpy:58
     old "Left-click on a square to make it green. Right-click to mark with black.\n\nIn our system, the black squares represent the empty or blank squares and the green squares are the coded or filled squares.\n\nYou do not need to fill in the blank squares by marking them if you do not want to. It is not required to solve the puzzle."
-    new "Haz clic izquierdo en un cuadro para marcarlo en verde. Haz clic derecho para marcarlo en negro.\n\nEn este sistema, los cuadros negros representan los espacios vacíos y los cuadros verdes son los cuadros codificados o rellenados.\n\nNo necesitas marcar los cuadros vacíos si no quieres; no es obligatorio para resolver el rompecabezas."
+    new "Haz clic izquierdo en un cuadro para marcarlo en verde. Haz clic derecho para marcarlo en negro.\n\nEn este sistema, los cuadros negros representan los espacios vacíos y los cuadros verdes son los cuadros codificados o rellenados.\n\nNo necesitas marcar los cuadros vacíos si no quieres, no es obligatorio para resolver el rompecabezas."
 
     # game/code/minigames/nonogram/nonogram_tutorial.rpy:63
     old "It is strongly advised never to guess. Only squares that can be determined by logic should be coded or filled green.\n\nIt is easy for a single error to cause inaccuracies across the entire puzzle.\n\nSimple puzzles can usually be solved by figuring out the reasoning by focusing on a single row/column at a time. Then move to the next row and the next row until you have filled all the green squares."
