@@ -8,7 +8,7 @@ translate spanish sm1cs_arj003_d0137b2a:
 translate spanish sm1cs_arj003_185a2416:
 
     # arj "Like a needy ex. Constant demands, never satisfied, and somehow it's always my fault when things go wrong."
-    arj "Como una ex necesitada. Exigencias constantes, nunca está satisfecho y de alguna forma siempre es mi culpa cuando algo sale mal."
+    arj "Como una ex necesitada. Exigencias constantes, nunca está satisfecho y de alguna manera siempre es mi culpa cuando algo sale mal."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:14
 translate spanish sm1cs_arj003_39cb0b7c:
@@ -248,7 +248,7 @@ translate spanish sm1cs_arj003_7638a64d:
 translate spanish sm1cs_arj003_f0ecf98f:
 
     # arj "You're the worst."
-    arj "Eres lo peor."
+    arj "Eres de lo peor."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:116
 translate spanish sm1cs_arj003_80fe5243:
@@ -680,7 +680,7 @@ translate spanish sm1cs_arj003_e9ac16c8:
 translate spanish sm1cs_arj003_4e061744:
 
     # arj "It doesn't feel real, everything we learned about the app. About Lydia. About how deep it all went."
-    arj "No se siente real, todo lo que aprendimos sobre la app. Sobre Lydia. Y hasta dónde llegaba todo."
+    arj "No se siente real, todo lo que aprendimos sobre la aplicación. Sobre Lydia. Y hasta dónde llegaba todo."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:279
 translate spanish sm1cs_arj003_6f9dc4bb:
@@ -812,7 +812,7 @@ translate spanish sm1cs_arj003_0e11c153:
 translate spanish sm1cs_arj003_8f8917c2:
 
     # arj "Guilty as charged."
-    arj "Culpable."
+    arj "Me declaro culpable."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:322
 translate spanish sm1cs_arj003_27f2dbdb:
@@ -920,7 +920,7 @@ translate spanish sm1cs_arj003_c7de11d4:
 translate spanish sm1cs_arj003_107ffe03:
 
     # arj "*giggling, face flushed* Jesus, we really did. That family was like fifteen feet away!"
-    arj "*risitas, rostro sonrojado* Dios, es verdad. ¡Esa familia estaba como a cinco metros!"
+    arj "*Entre risas y con el rostro sonrojado* Dios, es verdad. ¡Esa familia estaba como a cinco metros!"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:378
 translate spanish sm1cs_arj003_df3920ec:
@@ -950,7 +950,7 @@ translate spanish sm1cs_arj003_b909ed22:
 translate spanish sm1cs_arj003_6e0741db:
 
     # arj "*playfully* I guess I'm not quite ready to show everyone on the beach just how completely you own me."
-    arj "*juguetona* Supongo que no estoy lista para mostrarle a toda la playa lo completamente que me posees."
+    arj "*Juguetona* Supongo que no estoy lista para mostrarle a toda la playa lo completamente tuya que soy."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:391
 translate spanish sm1cs_arj003_c9c959d2:
@@ -998,7 +998,7 @@ translate spanish sm1cs_arj003_ef015235:
 translate spanish sm1cs_arj003_a2ff951c:
 
     # arj "*blushes, smiling* I'm looking forward to it."
-    arj "*sonrojada, con una sonrisa* Lo estoy esperando."
+    arj "*Sonrojada y sonriendo* Lo estoy esperando."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:410
 translate spanish sm1cs_arj003_842dd9fd:
@@ -1028,7 +1028,7 @@ translate spanish sm1cs_arj003_4f9acdea:
 translate spanish sm1cs_arj003_90ac6191:
 
     # "???" "Yes. I'll be ready."
-    "???" "Sí. Estaré listo."
+    "???" "Sí. Estaré lista."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj003.rpy:106
 translate spanish sm1cs_arj003_05e6e8bd:
