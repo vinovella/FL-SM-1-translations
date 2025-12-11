@@ -392,7 +392,7 @@ translate spanish sm1mv02s05_b61b7d94:
 translate spanish sm1mv02s05_cabcc60e:
 
     # ns "But you kind of have to, as my boyfriend."
-    ns "Pero, de cierta forma, tienes que decirlo… siendo mi novio."
+    ns "Pero, de cierta forma, tienes que decirlo... siendo mi novio."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:275
 translate spanish sm1mv02s05_04bd40ff:
