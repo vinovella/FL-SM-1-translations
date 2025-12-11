@@ -492,3 +492,111 @@
     old "Skipping"
     new "Skipping"
 
+    # game/code/renpy/screens/faction_th.rpy:12
+    old "THEATER"
+    new "ТЕАТР"
+
+    # game/code/renpy/screens/faction_th.rpy:38
+    old "Theater schedule"
+    new "Розклад театру"
+
+    # game/code/renpy/screens/faction_th.rpy:45
+    old "6 PM"
+    new "18:00"
+
+    # game/code/renpy/screens/faction_th.rpy:58
+    old "Pay after show on [THController.final_show_day!t]:"
+    new "Оплата після вистави [THController.final_show_day!t]:"
+
+    # game/code/renpy/screens/faction_th.rpy:63
+    old "Extra pay for successful show:"
+    new "Додаткова оплата за успішну виставу:"
+
+    # game/code/renpy/screens/faction_th.rpy:66
+    old "Progress [th_progress_percent]%"
+    new "Прогрес [th_progress_percent]%"
+
+        # game/code/renpy/screens/renovation.rpy:8
+    old "RENOVATION PROGRESS-[progress:.1f]%"
+    new "ПРОГРЕС РЕМОНТУ-[progress:.1f]%"
+
+    # game/code/renpy/screens/renovation.rpy:58
+    old "[mc_work_percent]%\nper energy"
+    new "[mc_work_percent]%\nна енергію"
+
+    # game/code/renpy/screens/renovation.rpy:59
+    old "[sy_work_percent]%\nper day"
+    new "[sy_work_percent]%\nна день"
+
+    # game/code/renpy/screens/renovation.rpy:93
+    old "Energy: [player.energy]/[player.max_energy]"
+    new "Енергія: [player.energy]/[player.max_energy]"
+
+    # game/code/renpy/screens/renovation.rpy:101
+    old "WORK"
+    new "ПРАЦЮВАТИ"
+
+    # game/code/renpy/screens/renovation.rpy:112
+    old "DONE"
+    new "ГОТОВО"
+
+    # game/code/renpy/screens/gallery.rpy:9
+    old "Replay Gallery"
+    new "Галерея повторів"
+
+    # game/code/renpy/screens/gallery.rpy:15
+    old "Achievements"
+    new "Досягнення"
+
+    # game/code/renpy/screens/gallery.rpy:24
+    old "Hints on"
+    new "Підказки увімкнено"
+
+    # game/code/renpy/screens/gallery.rpy:24
+    old "Hints off"
+    new "Підказки вимкнено"
+
+    # game/code/renpy/screens/gallery.rpy:36
+    old "Character Filter: [character_filter!t]"
+    new "Фільтр персонажів: [character_filter!t]"
+
+    # game/code/renpy/screens/gallery.rpy:124
+    old "None"
+    new "Немає"
+
+    # game/code/renpy/screens/gallery.rpy:146
+    old "<"
+    new "<"
+
+    # game/code/renpy/screens/gallery.rpy:149
+    old ">"
+    new ">"
+
+    # game/code/renpy/screens/gallery.rpy:157
+    old "Image [index] of [count] locked."
+    new "Зображення [index] з [count] заблоковано."
+
+    # game/code/renpy/screens/gallery.rpy:178
+    old "Prev"
+    new "Попередня"
+
+    # game/code/renpy/screens/gallery.rpy:179
+    old "Next"
+    new "Наступна"
+
+    # game/code/renpy/screens/pirates_movie.rpy:62
+    old "PIRATES MOVIE"
+    new "ПІРАТСЬКИЙ ФІЛЬМ"
+
+    # game/code/renpy/screens/pirates_movie.rpy:91
+    old "Add $[amount]"
+    new "Додати $[amount]"
+
+    # game/code/renpy/screens/pirates_movie.rpy:141
+    old "Add [amount]E"
+    new "Додати [amount]E"
+
+    # game/code/renpy/screens/pirates_movie.rpy:177
+    old "Editing Work"
+    new "Монтажна робота"
+

@@ -60,4 +60,3 @@
     old "Keep Minigames On"
     new "Залишити міні-ігри увімкненими"
 
-

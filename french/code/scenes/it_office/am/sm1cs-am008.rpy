@@ -2940,4 +2940,3 @@ translate french strings:
     old "You are my Sex Puppy"
     new "Tu es mon chiot sexuel"
 
-

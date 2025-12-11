@@ -212,7 +212,7 @@ translate magyar sm1cs_arj001_c8a57576:
 translate magyar sm1cs_arj001_39639ce5:
 
     # mc "Thank you! How much do I owe you?"
-    mc "Köszönöm! Mennyivel tartozom?
+    mc "Köszönöm! Mennyivel tartozom?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj001.rpy:112
 translate magyar sm1cs_arj001_75e5512c:

@@ -2718,4 +2718,3 @@ translate spanish strings:
     old "Surprised it's taking you this long"
     new "Me sorprende que te haya tomado tanto tiempo"
 
-
