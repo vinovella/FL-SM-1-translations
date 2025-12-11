@@ -19,3 +19,4 @@ translate ukrainian strings:
     # game/code/renpy/screens/character.rpy:60
     old "Progress [storyline_progress_percent]%"
     new "Прогрес [storyline_progress_percent]%"
+
