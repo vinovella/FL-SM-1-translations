@@ -152,7 +152,7 @@ translate spanish sm1cs_ns014_1e4dcb4c:
 translate spanish sm1cs_ns014_92e3fdf5:
 
     # mc "No way, Nari. You've already done all the work you needed to do."
-    mc "Para nada, Nari. Ya hiciste todo el trabajo que tenías que hacer."
+    mc "De ninguna manera, Nari. Ya hiciste todo el trabajo que tenías que hacer."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:119
 translate spanish sm1cs_ns014_474723e2:
@@ -494,7 +494,7 @@ translate spanish sm1cs_ns014_studio_8d8f29a3:
 translate spanish sm1cs_ns014_studio_037d495a:
 
     # sy "You may have won, but I have your top."
-    sy "Puede que hayas ganado, pero tengo tu blusa."
+    sy "Puede que hayas ganado, pero tengo tu parte superior del bikini."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:360
 translate spanish sm1cs_ns014_studio_85bfecbf:
@@ -962,7 +962,7 @@ translate spanish sm1cs_ns014_studio_3e4ab75d:
 translate spanish sm1cs_ns014_studio_a00f06ce:
 
     # ns "But I do have one request. I will want to keep my face covered for most of my roles."
-    ns "Pero tengo una petición. Querría mantener mi rostro cubierto en la mayoría de mis escenas."
+    ns "Pero tengo una petición. Me gustaría mantener mi rostro cubierto en la mayoría de mis escenas."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:596
 translate spanish sm1cs_ns014_studio_3653f87d:
@@ -1218,7 +1218,7 @@ translate spanish sm1cs_ns014_studio_34d49c4d:
 translate spanish sm1cs_ns014_studio_188f75f7:
 
     # sy "Hahahaha."
-    sy "Hahahaha."
+    sy "Jajajaja."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:516
 translate spanish sm1cs_ns014_studio_5b1228cf:
