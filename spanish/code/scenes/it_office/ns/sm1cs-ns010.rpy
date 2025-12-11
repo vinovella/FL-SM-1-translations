@@ -74,7 +74,7 @@ translate spanish sm1cs_ns010_7535b284:
 translate spanish sm1cs_ns010_bd263aa3:
 
     # sy "You weren't kidding. Super cute."
-    sy "No estabas bromeando. Es super linda."
+    sy "No estabas bromeando. Es súper linda."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:79
 translate spanish sm1cs_ns010_7488ae3e:
@@ -104,7 +104,7 @@ translate spanish sm1cs_ns010_d0ab4bb5:
 translate spanish sm1cs_ns010_a91ad4f3:
 
     # mc "Remember. We're not trying to recruit her today."
-    mc "Recuerda. No estamos tratando de reclutarla hoy."
+    mc "Recuerda. Hoy no estamos tratando de reclutarla."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:100
 translate spanish sm1cs_ns010_4005845b:
@@ -350,7 +350,7 @@ translate spanish sm1cs_ns010_6a5576ca:
 translate spanish sm1cs_ns010_30121b6f:
 
     # ns "Honestly."
-    ns "Honestamente."
+    ns "Sinceramente."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:214
 translate spanish sm1cs_ns010_692b1019:
@@ -398,7 +398,7 @@ translate spanish sm1cs_ns010_75be4333:
 translate spanish sm1cs_ns010_7c7353e6:
 
     # ns "I just prefer to go for a run or a good climb to stay fit."
-    ns "Prefiero correr o una buena subida para mantenerse en forma."
+    ns "Prefiero correr o una buena subida para mantenerme en forma."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:229
 translate spanish sm1cs_ns010_85785fdb:
@@ -476,7 +476,7 @@ translate spanish sm1cs_ns010_97ac9a35:
 translate spanish sm1cs_ns010_ed8751e0:
 
     # ns "Many enjoy bragging that they're in futures, or that they've found an emergent pharmaceutical company that will make them a billionaire."
-    ns "A muchos les gusta presumir de que se dedican a los futuros o de que han encontrado una empresa farmacéutica emergente que les hará multimillonarios."
+    ns "A muchos les gusta presumir de que invierten en el futuro, o de que han encontrado una empresa farmacéutica emergente que les hará multimillonarios."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:260
 translate spanish sm1cs_ns010_3a5350d7:
@@ -716,7 +716,7 @@ translate spanish sm1cs_ns010_2f6099c1:
 translate spanish sm1cs_ns010_d0d715c1_2:
 
     # ns "Thank you. I'm sure I can manage until then."
-    ns "Gracias. Estoy seguro de que podré arreglármelas hasta entonces."
+    ns "Gracias. Estoy segura de que podré arreglármelas hasta entonces."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:366
 translate spanish sm1cs_ns010_f22a5acc_1:
@@ -812,7 +812,7 @@ translate spanish sm1cs_ns010_d8894c8d:
 translate spanish sm1cs_ns010_17c5ec92:
 
     # sy "But I like weird."
-    sy "Pero me gusta lo raro."
+    sy "Pero me gusta lo extraño."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:412
 translate spanish sm1cs_ns010_adef7f9e:
