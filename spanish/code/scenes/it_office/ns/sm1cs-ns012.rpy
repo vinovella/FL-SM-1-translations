@@ -2,7 +2,7 @@
 translate spanish sm1cs_ns012_6471ebc4:
 
     # mc "It looks wonderful, Nari."
-    mc "Se ve maravilloso, Nari."
+    mc "Se ve maravillosa, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:83
 translate spanish sm1cs_ns012_b98ccaa1:
@@ -1262,7 +1262,7 @@ translate spanish sm1cs_ns012_part_2_8522c77b_1:
 translate spanish sm1cs_ns012_part_2_6b796309:
 
     # ns "My [nsmcpetlabel] is making me cum again!!!"
-    ns "¡Mi [nsmcpetlabel] me está haciendo correrme otra vez!"
+    ns "¡Mi [nsmcpetlabel] está haciendo que me corra otra vez!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:740
 translate spanish sm1cs_ns012_part_2_5f71acf7:
@@ -1304,7 +1304,7 @@ translate spanish sm1cs_ns012_part_2_8522c77b_2:
 translate spanish sm1cs_ns012_part_2_6b796309_1:
 
     # ns "My [nsmcpetlabel] is making me cum again!!!"
-    ns "¡Mi [nsmcpetlabel] me está haciendo correrme otra vez!"
+    ns "¡Mi [nsmcpetlabel] está haciendo que me corra otra vez!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:775
 translate spanish sm1cs_ns012_part_2_15feccdc:
@@ -1934,21 +1934,21 @@ translate spanish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:748
     old "Cum inside Nari"
-    new "Acabar dentro de Nari"
+    new "Córrete dentro de Nari"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:748
     old "Cum on Nari"
-    new "Acabar sobre Nari"
+    new "Córrete sobre Nari"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:917
     old "Cum in Nari's asshole"
-    new "Acabar en el culo de Nari"
+    new "Córrete en el culo de Nari"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:917
     old "Cum all over Nari's face"
-    new "Acabar sobre la cara de Nari"
+    new "Córrete sobre la cara de Nari"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:917
     old "I want to cum in her mouth"
-    new "Quiero acabar en su boca"
+    new "Quiero correrme en su boca"
 
