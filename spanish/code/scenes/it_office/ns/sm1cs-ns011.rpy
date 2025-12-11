@@ -1,4 +1,4 @@
-﻿# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:20
+# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:20
 translate spanish sm1cs_ns011_140b4a85:
 
     # mc "This is you."
@@ -164,7 +164,7 @@ translate spanish sm1cs_ns011_257976d6:
 translate spanish sm1cs_ns011_a06378f3:
 
     # mc "Sugar Daddy?"
-    mc "¿Papi de azúcar?"
+    mc "¿Sugar Daddy?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:111
 translate spanish sm1cs_ns011_3fe289ec:
@@ -386,7 +386,7 @@ translate spanish sm1cs_ns011_sy_interruption_a58e5981:
 translate spanish sm1cs_ns011_sy_interruption_cb0d1878:
 
     # sy "Haha. This is gonna be your place too, Nari."
-    sy "Jaja. Este también será tu lugar, Nari."
+    sy "Jaja. Esta también será tu casa, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:251
 translate spanish sm1cs_ns011_sy_interruption_8b7f2ebf:
@@ -416,7 +416,7 @@ translate spanish sm1cs_ns011_sy_interruption_4fcfed8c:
 translate spanish sm1cs_ns011_sy_interruption_9e587159:
 
     # ns "My panties are pretty moist right now too."
-    ns "Mis bragas también están considerablemente húmedas en este momento."
+    ns "Mi ropa interior también está considerablemente húmeda en este momento."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:266
 translate spanish sm1cs_ns011_sy_interruption_d91d57e6:
@@ -602,7 +602,7 @@ translate spanish sm1cs_ns011_sy_interruption_f263023a:
 translate spanish sm1cs_ns011_sy_interruption_fafbd0b2:
 
     # mc "Are you sure that doesn't bother you, Nari?"
-    mc "¿Estás seguro de que eso no te molesta, Nari?"
+    mc "¿Estás segura de que eso no te molesta, Nari?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:402
 translate spanish sm1cs_ns011_sy_interruption_95963c36:
@@ -806,7 +806,7 @@ translate spanish sm1cs_ns011_sy_interruption_adae0b8f:
 translate spanish sm1cs_ns011_sy_interruption_6222d92e:
 
     # mc "Yes, we are."
-    mc "Sí lo estamos."
+    mc "Sí, lo estamos."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:492
 translate spanish sm1cs_ns011_sy_interruption_94ee869a:
@@ -878,7 +878,7 @@ translate spanish sm1cs_ns011_sy_interruption_76ab85e1:
 translate spanish sm1cs_ns011_sy_interruption_c6af969d:
 
     # ns "-Everything we do together."
-    ns "-Todo lo que hacemos juntos."
+    ns "Todo lo que hacemos juntos."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:547
 translate spanish sm1cs_ns011_sy_interruption_b843b001:
@@ -956,7 +956,7 @@ translate spanish sm1cs_ns011_sy_interruption_208d593d:
 translate spanish sm1cs_ns011_sy_interruption_2bfebd46:
 
     # ns "*sniffs* I was a little worried there."
-    ns "*olfatea* Estaba un poco preocupada."
+    ns "*Resopla* Estaba un poco preocupada."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:575
 translate spanish sm1cs_ns011_sy_interruption_41d9fcc0:
