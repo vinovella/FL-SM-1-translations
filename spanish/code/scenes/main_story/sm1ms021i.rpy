@@ -32,7 +32,7 @@ translate spanish sm1ms021i_ba130537:
 translate spanish sm1ms021i_542d6881:
 
     # mc "Oh yeah. It's burning a hole in my pocket."
-    mc "Ah, sí. Me está haciendo un agujero en el bolsillo"
+    mc "Ah, sí. Me está haciendo un agujero en el bolsillo."
 
 # game/code/scenes/main_story/sm1ms021i.rpy:20
 translate spanish sm1ms021i_6fb3118b:
