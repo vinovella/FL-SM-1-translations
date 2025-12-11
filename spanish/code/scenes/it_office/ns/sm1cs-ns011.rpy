@@ -844,60 +844,6 @@ translate spanish sm1cs_ns011_sy_interruption_68294485:
     # ns "And hentai, now that I think about it."
     ns "Y hentai, si lo pienso."
 
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:506
-translate spanish sm1cs_ns011_d4978ed6:
-
-    # mc "No, no. You don't have to compete."
-    mc "No, no. No tienes que competir."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:507
-translate spanish sm1cs_ns011_1ce17e33:
-
-    # mc "Stacy has never minded me being with other girls while I'm with her."
-    mc "A Stacy nunca le ha importado si estoy con otras chicas mientras estoy con ella."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:508
-translate spanish sm1cs_ns011_daadae9a:
-
-    # mc "It actually turns her on a lot."
-    mc "De hecho, eso le excita mucho."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:511
-translate spanish sm1cs_ns011_04b26e96:
-
-    # mc "I guess the question I should have asked you sooner is..."
-    mc "Supongo que la pregunta que debí haberte hecho antes es..."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:514
-translate spanish sm1cs_ns011_c328f7ed:
-
-    # ns "If I too think I could **share you**."
-    ns "Si yo también creo que podría compartirte."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:517
-translate spanish sm1cs_ns011_cf1adef2:
-
-    # mc "Yes."
-    mc "Sí."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:520
-translate spanish sm1cs_ns011_1c408ac7:
-
-    # ns "..."
-    ns "..."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:523
-translate spanish sm1cs_ns011_6d796813:
-
-    # ns "Mmmph."
-    ns "Mmmph."
-
-# game/code/scenes/it_office/ns/sm1cs-ns011.rpy:526
-translate spanish sm1cs_ns011_bb89f2a8:
-
-    # mct "—Was that a good sound or a bad sound?"
-    mct "¿Fue un sonido bueno o malo?"
-
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:530
 translate spanish sm1cs_ns011_sy_interruption_8522c77b:
 
