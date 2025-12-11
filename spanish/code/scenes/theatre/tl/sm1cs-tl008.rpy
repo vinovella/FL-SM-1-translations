@@ -170,7 +170,7 @@ translate spanish sm1cs_tl008_sex_33a79538:
 translate spanish sm1cs_tl008_sex_8fa31d06:
 
     # tl "You'll see, but first; pants. Off."
-    tl "Ya verás, pero primero… pantalones fuera."
+    tl "Ya verás, pero primero... pantalones fuera."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:167
 translate spanish sm1cs_tl008_sex_f2623d58:
