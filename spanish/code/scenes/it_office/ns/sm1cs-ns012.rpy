@@ -1902,7 +1902,7 @@ translate spanish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:250
     old "Oh that's fucking hot"
-    new "Oh, eso es jodidamente caliente"
+    new "¡Oh, eso es terriblemente excitante!"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:326
     old "Create a pet label for Nari and you during private sex like this."
