@@ -935,9 +935,9 @@ translate spanish sm1fs_i005_15d8ccd6:
     en "¡Oh, madre de Dios!"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:532
-translate spanish sm1fs_i005_b49fcd84:
+translate spanish sm1fs_i005_7420c147:
 
-    # en "What the hell is that?"
+    # en "What in oblivion is that?!"
     en "¿Qué demonios es eso?"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:535
