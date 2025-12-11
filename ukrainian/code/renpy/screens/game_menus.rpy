@@ -2,41 +2,41 @@
 
     # game/code/renpy/screens/game_menus.rpy:154
     old "BACK"
-    new "BACK"
+    new "НАЗАД"
 
     # game/code/renpy/screens/game_menus.rpy:156
     old "HIST"
-    new "HIST"
+    new "ІСТОРІЯ"
 
     # game/code/renpy/screens/game_menus.rpy:158
     old "SKIP"
-    new "SKIP"
+    new "ПРОПУСК"
 
     # game/code/renpy/screens/game_menus.rpy:160
     old "AUTO"
-    new "AUTO"
+    new "АВТО"
 
     # game/code/renpy/screens/game_menus.rpy:162
     old "SAVE"
-    new "SAVE"
+    new "ЗБЕРЕГТИ"
 
     # game/code/renpy/screens/game_menus.rpy:164
     old "LOAD"
-    new "LOAD"
+    new "ЗАВАНТАЖИТИ"
 
     # game/code/renpy/screens/game_menus.rpy:166
     old "Q.SAVE"
-    new "Q.SAVE"
+    new "Ш.ЗБЕРЕЖЕННЯ"
 
     # game/code/renpy/screens/game_menus.rpy:168
     old "Q.LOAD"
-    new "Q.LOAD"
+    new "Ш.ЗАВАНТАЖЕННЯ"
 
     # game/code/renpy/screens/game_menus.rpy:170
     old "SETTINGS"
-    new "SETTINGS"
+    new "НАЛАШТУВАННЯ"
 
     # game/code/renpy/screens/game_menus.rpy:173
     old "Open phone"
-    new "Open phone"
+    new "Відкрити телефон"
 
