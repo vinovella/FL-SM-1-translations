@@ -1,4 +1,4 @@
-﻿# game/code/scenes/it_office/sm1fs-i005.rpy:18
+# game/code/scenes/it_office/sm1fs-i005.rpy:18
 translate spanish sm1fs_i005_e0baf58f:
 
     # ag "Morning, [mcname]."
@@ -38,7 +38,7 @@ translate spanish sm1fs_i005_cd403d8a:
 translate spanish sm1fs_i005_d32f8004:
 
     # ag "I finally loaded onto the server, and it hit me."
-    ag "Finalmente cargué en el servidor y me di cuenta."
+    ag "Finalmente cargué en el servidor, y la idea me golpeó."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:37
 translate spanish sm1fs_i005_30e7949d:
@@ -80,7 +80,7 @@ translate spanish sm1fs_i005_a5c4ac90:
 translate spanish sm1fs_i005_4409cafb:
 
     # ag "It is. It will be."
-    ag "Lo es. Lo será."
+    ag "Así es. Lo será."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:52
 translate spanish sm1fs_i005_7adf8479:
@@ -122,7 +122,7 @@ translate spanish sm1fs_i005_a1cf62fa:
 translate spanish sm1fs_i005_10a97588:
 
     # jh "If you don't squat, Sienna, you drop."
-    jh "Si no haces sentadillas, Sienna, te caes."
+    jh "Si no haces sentadillas, Sienna, te vas a caer."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:84
 translate spanish sm1fs_i005_75dcc0bf:
@@ -296,7 +296,7 @@ translate spanish sm1fs_i005_3569e648:
 translate spanish sm1fs_i005_2f818692:
 
     # sr "You two should get back to your seats."
-    sr "Ustedes dos deberían volver a sus asientos."
+    sr "Ustedes dos deberían vuelvan a sus asientos."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:180
 translate spanish sm1fs_i005_630ef190:
@@ -362,7 +362,7 @@ translate spanish sm1fs_i005_4d67c0d1:
 translate spanish sm1fs_i005_77956b48:
 
     # mc "I don't think he called you-"
-    mc "No creo que él te haya llamado-"
+    mc "No creo que él te haya dicho-"
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:213
 translate spanish sm1fs_i005_16278896:
@@ -380,7 +380,7 @@ translate spanish sm1fs_i005_cb4f01ae:
 translate spanish sm1fs_i005_fd1ebc41:
 
     # "Actor 1" "Yeah. Kiss it.{w} Suck on those balls."
-    "Actor 1" "Sí. Bésalo.{w} Chupa esas bolas."
+    "Actor 1" "Sí. Bésala.{w} Chupa esas bolas."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:224
 translate spanish sm1fs_i005_27e54841:
@@ -392,7 +392,7 @@ translate spanish sm1fs_i005_27e54841:
 translate spanish sm1fs_i005_5d6ad19e:
 
     # sr "It's spreading."
-    sr "Se está contagiando."
+    sr "Se está propagando."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:232
 translate spanish sm1fs_i005_525b4a71:
@@ -422,7 +422,7 @@ translate spanish sm1fs_i005_cb9a800e:
 translate spanish sm1fs_i005_f61762d0:
 
     # jh "I don't need it. I get nines.{w} All the time."
-    jh "No lo necesito. Consigo nueves.{w} Todo el tiempo."
+    jh "No lo necesito. Solo consigo mujeres de nueve.{w} Todo el tiempo."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:248
 translate spanish sm1fs_i005_90d2835d:
@@ -518,7 +518,7 @@ translate spanish sm1fs_i005_afbd7187:
 translate spanish sm1fs_i005_53c53cc1:
 
     # am "You're the DevOps Specialist."
-    am "Eres el especialista en DevOps."
+    am "Eres la especialista en DevOps."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:311
 translate spanish sm1fs_i005_c0f20dab:
@@ -716,7 +716,7 @@ translate spanish sm1fs_i005_d05e8c1c:
 translate spanish sm1fs_i005_19376701:
 
     # ml "So many people are about to be fired."
-    ml "Tanta gente está a punto de ser despedida."
+    ml "Hay mucha gente que está a punto de ser despedida."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:417
 translate spanish sm1fs_i005_2626f453:
@@ -1034,7 +1034,7 @@ translate spanish sm1fs_i005_ba787c43:
 translate spanish sm1fs_i005_55129b6c:
 
     # cw "And hopefully not the lawyers who get involved with this."
-    cw "Y esperemos que no a ningún abogado que se involucre en esto."
+    cw "Y esperemos que no les pase a los abogados que se involucren en esto."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:606
 translate spanish sm1fs_i005_f2c88c7b:
