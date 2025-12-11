@@ -124,12 +124,6 @@ translate spanish sm1cs_mh008_097fd9c1:
     # mh "Oh? You renovated?"
     mh "¿Oh? ¿Renovaste?"
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:92
-translate spanish sm1cs_mh008_4de4b191:
-
-    # mc "Yeah! We wanted to be able use the studio as, well, a studio."
-    mc "¡Sí! Queríamos poder usar el estudio como, bueno, un estudio."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:93
 translate spanish sm1cs_mh008_6b12ea62:
 
@@ -490,12 +484,6 @@ translate spanish sm1cs_mh008_carnival_bf61594d:
     # mh "I didn't know until I was older that it was because my bio-father had successfully defended a ride manufacturer in a pretty hairy civil suit because someone had gotten pretty badly injured."
     mh "No supe hasta que fui mayor que era porque mi padre biológico había defendido con éxito a un fabricante de atracciones en un pleito civil bastante complicado porque alguien había resultado gravemente herido."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:288
-translate spanish sm1cs_mh008_carnival_bc753126:
-
-    # mh "As I kid, I just knew that we would come to the circus because we had free tickets, and..."
-    mh "De niña, solo sabía que vendríamos al circo porque teníamos entradas gratis, y..."
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:289
 translate spanish sm1cs_mh008_carnival_0b117085:
 
@@ -771,12 +759,6 @@ translate spanish sm1cs_mh008_date_9ab85d26:
 
     # mc "What? Seriously?"
     mc "¿Qué? ¿En serio?"
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:430
-translate spanish sm1cs_mh008_date_6007f5df:
-
-    # mh "Yeah. it's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
-    mh "Sí. Es una historia extraña, pero en resumen, el Sr. Roosevelt se negó a dispararle a un oso atado, y luego alguien hizo una caricatura política al respecto."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:431
 translate spanish sm1cs_mh008_date_5e0303df:
@@ -1336,12 +1318,6 @@ translate spanish sm1cs_mh008_couple_carousel_end_e014e089:
     # mh "That was... a hell of a kiss."
     mh "Ese fue... un beso increíble."
 
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:785
-translate spanish sm1cs_mh008_couple_carousel_end_ae0106d3:
-
-    # mc "Hey, when you say \"memorable\" and \"kiss\", I have to give you the maximum effort kiss, right?"
-    mc "Oye, cuando dices \"memorable\" y \"beso\", tengo que darte el beso con el máximo esfuerzo, ¿verdad?"
-
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:788
 translate spanish sm1cs_mh008_couple_carousel_end_22b9b3c1:
 
@@ -1485,12 +1461,6 @@ translate spanish sm1cs_mh008_throuple_carousel_d08cc125:
 
     # sy "Uh huh. We never really went growing up, and I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
     sy "Ajá. Nunca fuimos de pequeños, y he estado tan ocupada desde que llegué a Crowning que... simplemente no he podido hacerme el tiempo."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:861
-translate spanish sm1cs_mh008_throuple_carousel_04b4af8c:
-
-    # sy "Growing up. Our familes never really went to the carvnial."
-    sy "De pequeña. Nuestras familias nunca fueron al carnaval."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:862
 translate spanish sm1cs_mh008_throuple_carousel_2fc0ca58:
@@ -2247,12 +2217,6 @@ translate spanish sm1cs_mh008_throuple_carousel_end_e1deded6:
 
     # sy "Wait... I wanted, like, a whole production with my kiss."
     sy "Espera... quería, como, toda una producción con mi beso."
-
-# game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1280
-translate spanish sm1cs_mh008_throuple_carousel_end_4a9a3a30:
-
-    # mh "Yeah, something like this, [mcname]"
-    mh "Sí, algo como esto, [mcname]."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:1286
 translate spanish sm1cs_mh008_throuple_carousel_end_77858d38:
