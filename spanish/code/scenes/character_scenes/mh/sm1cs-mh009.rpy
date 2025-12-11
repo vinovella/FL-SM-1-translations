@@ -1118,7 +1118,7 @@ translate spanish sm1cs_mh009_62c1d737:
 translate spanish sm1cs_mh009_c03b93ba:
 
     # mc "And I can already tell that you'd do great on camera - you look incredible."
-    mc "Y ya puedo decir que lo harías muy bien en cámara; te ves increíble."
+    mc "Y ya puedo decir que lo harías muy bien en cámara, te ves increíble."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh009.rpy:616
 translate spanish sm1cs_mh009_16e77c1b:
