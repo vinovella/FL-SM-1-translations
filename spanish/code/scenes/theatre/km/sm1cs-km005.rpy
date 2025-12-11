@@ -866,7 +866,7 @@ translate spanish sm1cs_km005_11f4f907:
 translate spanish sm1cs_km005_9dc690bc:
 
     # km "So I just... go in like this?"
-    km "Entonces solo… ¿así?"
+    km "Entonces solo... ¿así?"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:448
 translate spanish sm1cs_km005_d2288bee:
