@@ -56,4 +56,3 @@
     old "A streamlined experience focusing on narrative"
     new "Оптимізований досвід з фокусом на історії"
 
-
