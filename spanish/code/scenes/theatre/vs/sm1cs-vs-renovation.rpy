@@ -128,7 +128,7 @@ translate spanish sm1cs_vs_renovation_3ca3ea82:
 translate spanish sm1cs_vs_renovation_b7097690:
 
     # vs "You know... I'm getting a little excited thinking about when the next Blitz alert will go off."
-    vs "Sabes… me emociona un poco pensar en cuándo se activará el próximo desafío relámpago."
+    vs "Sabes... me emociona un poco pensar en cuándo se activará el próximo desafío relámpago."
 
 # game/code/scenes/theatre/vs/sm1cs-vs-renovation.rpy:84
 translate spanish sm1cs_vs_renovation_e354c7c1:
