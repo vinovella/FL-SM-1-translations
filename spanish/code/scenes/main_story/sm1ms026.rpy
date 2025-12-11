@@ -224,7 +224,7 @@ translate spanish sm1ms026_pirates_4f43e9fe:
 translate spanish sm1ms026_pirates_e3d1e94f:
 
     # sy "Uh huh. All ass, swinging a sword... you know, being a baddie."
-    sy "Ajá. Mucho culo, espada en mano… ya sabes, siendo la mala."
+    sy "Ajá. Mucho culo, espada en mano... ya sabes, siendo la mala."
 
 # game/code/scenes/main_story/sm1ms026.rpy:183
 translate spanish sm1ms026_pirates_d7520efd:
