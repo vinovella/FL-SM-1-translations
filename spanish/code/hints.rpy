@@ -1,12 +1,12 @@
-﻿translate spanish strings:
+translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Set default relationship tone with AmRose to romantic/loving (changeable later)"
-    new "Establecer el tono de relación predeterminado con AmRose como romántico/amoroso (se puede cambiar más tarde)"
+    new "Establecer el tono de relación predeterminado con AmRose como romántico/cariñoso (se puede cambiar más tarde)"
 
     # game/code/hints.rpy:5
     old "Set default relationship tone with AmRose to kinky Master/slave (changeable later)"
-    new "Establecer el tono de relación predeterminado con AmRose como Amo/esclava picante (se puede cambiar más tarde)"
+    new "Establecer el tono de relación predeterminado con AmRose como Amo/esclava traviesa (se puede cambiar más tarde)"
 
     # game/code/hints.rpy:5
     old "Unlock dates with Amore"
@@ -26,23 +26,23 @@
 
     # game/code/hints.rpy:5
     old "Disarm with humor; give space. +2 RP with Amore"
-    new "Desarmar con humor; dar espacio. +2 RP con Amore"
+    new "Suavizar la situación con humor; darle espacio. +2 RP con Amore"
 
     # game/code/hints.rpy:5
     old "Establish care firmly. +1 RP with Amore"
-    new "Establecer cuidado firmemente. +1 RP con Amore"
+    new "Mostrar interés de manera firme. +1 RP con Amore"
 
     # game/code/hints.rpy:5
     old "Keep BDSM Model future open"
-    new "Mantener abierto el futuro de Modelo BDSM"
+    new "Mantener abierta la ruta de Modelo BDSM"
 
     # game/code/hints.rpy:5
     old "Close BDSM Model future"
-    new "Cerrar el futuro de Modelo BDSM"
+    new "Cerrar la ruta de Modelo BDSM"
 
     # game/code/hints.rpy:5
     old "Test your camera skills. Keep Kanya romance path open"
-    new "Prueba tus habilidades con la cámara. Mantener abierta la ruta romántica con Kanya"
+    new "Pon a prueba tus habilidades con la cámara. Mantener abierta la ruta romántica con Kanya"
 
     # game/code/hints.rpy:5
     old "Leave. Close Kanya romance path"
@@ -50,11 +50,11 @@
 
     # game/code/hints.rpy:5
     old "Flirt. Maya is embarrassed but likes it. +1 RP"
-    new "Coquetear. Maya se avergüenza pero le gusta. +1 RP"
+    new "Coquetear. Maya se siente avergonzada, pero le gusta. +1 RP"
 
     # game/code/hints.rpy:5
     old "Maya complains but dislikes hearing others whine. -1 RP"
-    new "Maya se queja pero no le gusta escuchar a otros quejarse. -1 RP"
+    new "Maya se queja, pero le disgusta escuchar a otros lamentarse. -1 RP"
 
     # game/code/hints.rpy:5
     old "Maya enjoys this. +1 RP with Maya"
@@ -74,11 +74,11 @@
 
     # game/code/hints.rpy:5
     old "Enable watersports content"
-    new "Habilitar contenido de watersports"
+    new "Habilitar contenido de juegos con orina"
 
     # game/code/hints.rpy:5
     old "Disable watersports content"
-    new "Deshabilitar contenido de watersports"
+    new "Deshabilitar contenido de juegos con orina"
 
     # game/code/hints.rpy:5
     old "Keep Lyssa romance path open"
@@ -114,11 +114,11 @@
 
     # game/code/hints.rpy:5
     old "Enable watersports with Lyssa"
-    new "Habilitar watersports con Lyssa"
+    new "Habilitar juegos con orina con Lyssa"
 
     # game/code/hints.rpy:5
     old "Disable watersports with Lyssa"
-    new "Deshabilitar watersports con Lyssa"
+    new "Deshabilitar juegos con orina con Lyssa"
 
     # game/code/hints.rpy:5
     old "Help Lyssa climax with your hand"
@@ -158,11 +158,11 @@
 
     # game/code/hints.rpy:5
     old "-2 RP with April. She's fine showing her girly side but dislikes it pointed out"
-    new "-2 RP con April. Ella está bien mostrando su lado femenino pero no le gusta que se lo señalen"
+    new "-2 RP con April. A ella no le molesta mostrar su lado femenino, pero le disgusta que se lo señalen"
 
     # game/code/hints.rpy:5
     old "Enable mutual armpit licking"
-    new "Habilitar lamido de axilas mutuo"
+    new "Habilitar lamido mutuo de axilas"
 
     # game/code/hints.rpy:5
     old "Disable April licking your armpits. You may lick hers"
@@ -170,7 +170,7 @@
 
     # game/code/hints.rpy:5
     old "Disable armpit licking for both"
-    new "Deshabilitar lamido de axilas para ambos"
+    new "Deshabilitar el lamido de axilas para ambos"
 
     # game/code/hints.rpy:5
     old "Be bold. +1 RP with Claire"
@@ -190,11 +190,11 @@
 
     # game/code/hints.rpy:5
     old "Promise no office sex again"
-    new "Prometer no tener sexo en la oficina de nuevo"
+    new "Prometer no tener más sexo en la oficina"
 
     # game/code/hints.rpy:5
     old "Deny wrongdoing. -1 RP with Claire"
-    new "Negar haber hecho mal. -1 RP con Claire"
+    new "Negar haber actuado mal. -1 RP con Claire"
 
     # game/code/hints.rpy:5
     old "Claire appreciates this. +1 RP with Claire"
@@ -250,7 +250,7 @@
 
     # game/code/hints.rpy:5
     old "May cause issues with Nari later"
-    new "Puede causar problemas con Nari más tarde"
+    new "Puede causar problemas con Nari más adelante"
 
     # game/code/hints.rpy:5
     old "Open Nari corruption path"
@@ -270,11 +270,11 @@
 
     # game/code/hints.rpy:5
     old "Enable softer, playful dialogue with Nari"
-    new "Habilitar diálogo más suave y juguetón con Nari"
+    new "Habilitar un diálogo más suave y juguetón con Nari"
 
     # game/code/hints.rpy:5
     old "May enable future buttplay with Stacy"
-    new "Puede habilitar juego anal con Stacy en el futuro"
+    new "Puede habilitar el juego anal con Stacy en el futuro"
 
     # game/code/hints.rpy:5
     old "Open Debbie romance path"
@@ -286,7 +286,7 @@
 
     # game/code/hints.rpy:5
     old "Enable extra spicy moment with Kanya and Stacy"
-    new "Habilitar momento extra picante con Kanya y Stacy"
+    new "Habilitar un momento extra picante con Kanya y Stacy"
 
     # game/code/hints.rpy:5
     old "Proceed without Kanya's help"
@@ -318,7 +318,7 @@
 
     # game/code/hints.rpy:5
     old "Hold Kellie accountable"
-    new "Hacer responsable a Kellie"
+    new "Hacer a Kellie responsable"
 
     # game/code/hints.rpy:5
     old "Kellie appreciates this a lot. +2 RP with Kellie"
@@ -338,31 +338,31 @@
 
     # game/code/hints.rpy:5
     old "Advise Veronica to be more patient"
-    new "Aconsejar a Veronica que sea más paciente"
+    new "Aconsejar a Verónica que sea más paciente"
 
     # game/code/hints.rpy:5
     old "Encourage Veronica to value theater work"
-    new "Animar a Veronica a valorar el trabajo de teatro"
+    new "Animar a Verónica a valorar el trabajo teatral"
 
     # game/code/hints.rpy:5
     old "Express belief in Veronica. +1 RP with Veronica"
-    new "Expresar confianza en Veronica. +1 RP con Veronica"
+    new "Expresar confianza en Verónica. +1 RP con Verónica"
 
     # game/code/hints.rpy:5
     old "Remind Veronica to focus on reality over fantasy"
-    new "Recordar a Veronica que se enfoque en la realidad sobre la fantasía"
+    new "Recordar a Verónica que se centre en la realidad, no en la fantasía"
 
     # game/code/hints.rpy:5
     old "Tease Veronica. +1 RP with Veronica"
-    new "Bromear con Veronica. +1 RP con Veronica"
+    new "Bromear con Verónica. +1 RP con Verónica"
 
     # game/code/hints.rpy:5
     old "Veronica likes this a lot. +1 RP with Veronica"
-    new "A Veronica le gusta mucho esto. +1 RP con Veronica"
+    new "A Verónica le gusta mucho esto. +1 RP con Verónica"
 
     # game/code/hints.rpy:5
     old "Veronica dislikes this. -1 RP with Veronica"
-    new "A Veronica no le gusta esto. -1 RP con Veronica"
+    new "A Verónica no le gusta esto. -1 RP con Verónica"
 
     # game/code/hints.rpy:5
     old "It sounds like Taisia is masturbating"
@@ -374,23 +374,23 @@
 
     # game/code/hints.rpy:5
     old "Veronica approves"
-    new "Veronica aprueba"
+    new "Verónica aprueba"
 
     # game/code/hints.rpy:5
     old "Veronica feels dismissed"
-    new "Veronica se siente ignorada"
+    new "Verónica se siente ignorada"
 
     # game/code/hints.rpy:5
     old "+1 RP with Veronica"
-    new "+1 RP con Veronica"
+    new "+1 RP con Verónica"
 
     # game/code/hints.rpy:5
     old "Stay focused on the mic. Veronica respects it. 0 RP"
-    new "Mantenerse enfocado en el micrófono. Veronica lo respeta. 0 RP"
+    new "Mantenerse concentrado en el micrófono. Verónica lo respeta. 0 RP"
 
     # game/code/hints.rpy:5
     old "Indulge her flirtation. She loves it. +1 RP with Veronica"
-    new "Seguir su coqueteo. Le encanta. +1 RP con Veronica"
+    new "Seguir su coqueteo. A ella le encanta. +1 RP con Verónica"
 
     # game/code/hints.rpy:5
     old "Share the bottle. +1 RP with Taisia"
@@ -410,11 +410,11 @@
 
     # game/code/hints.rpy:5
     old "Enable dom/sub roleplay with Lyssa"
-    new "Habilitar juego de roles dom/sub con Lyssa"
+    new "Habilitar juego de roles dominante/sumisa con Lyssa"
 
     # game/code/hints.rpy:5
     old "Disable dom/sub roleplay with Lyssa"
-    new "Deshabilitar juego de roles dom/sub con Lyssa"
+    new "Deshabilitar juego de roles dominante/sumisa con Lyssa"
 
     # game/code/hints.rpy:5
     old "Acknowledge April is messing around. +2 RP with April"
@@ -426,7 +426,7 @@
 
     # game/code/hints.rpy:5
     old "Express hope it's more than a crush. +1 RP with April"
-    new "Expresar esperanza de que sea más que un enamoramiento. +1 RP con April"
+    new "Expresar la esperanza de que sea más que un enamoramiento. +1 RP con April"
 
     # game/code/hints.rpy:5
     old "Give an even better kiss. +2 RP with April"
@@ -446,7 +446,7 @@
 
     # game/code/hints.rpy:5
     old "Risk displeasing April if she learns you lied"
-    new "Arriesgar disgustar a April si descubre que mentiste"
+    new "Arriesgarse a disgustar a April si descubre que mentiste"
 
     # game/code/hints.rpy:5
     old "Improve relationship with April later"
@@ -466,7 +466,7 @@
 
     # game/code/hints.rpy:5
     old "Veronica appreciates eagerness to learn. +1 RP with Veronica"
-    new "Veronica aprecia el entusiasmo por aprender. +1 RP con Veronica"
+    new "Verónica aprecia el entusiasmo por aprender. +1 RP con Verónica"
 
     # game/code/hints.rpy:5
     old "Kellie likes this. +1 RP with Kellie"
@@ -494,19 +494,19 @@
 
     # game/code/hints.rpy:5
     old "Start path toward relationship with Veronica"
-    new "Iniciar la ruta hacia una relación con Veronica"
+    new "Iniciar la ruta hacia una relación con Verónica"
 
     # game/code/hints.rpy:5
     old "Keep relationship with Veronica open"
-    new "Mantener abierta la relación con Veronica"
+    new "Mantener abierta la relación con Verónica"
 
     # game/code/hints.rpy:5
     old "Keep things casual with Veronica"
-    new "Mantener las cosas casuales con Veronica"
+    new "Mantener una relación casual con Verónica"
 
     # game/code/hints.rpy:5
     old "-2 RP with Veronica"
-    new "-2 RP con Veronica"
+    new "-2 RP con Verónica"
 
     # game/code/hints.rpy:5
     old "Min dislikes this. -1 RP with Min"
@@ -518,7 +518,7 @@
 
     # game/code/hints.rpy:5
     old "Hard dom: orgasm denial and overstimulation"
-    new "Dom duro: negación de orgasmo y sobreestimulación"
+    new "Dominación dura: negación de orgasmo y sobreestimulación"
 
     # game/code/hints.rpy:5
     old "+2 RP with Taisia"
@@ -542,5 +542,5 @@
 
     # game/code/hints.rpy:5
     old "Nari and Taisia bond over anal. +1 RP with both"
-    new "Nari y Taisia conectan por el anal. +1 RP con ambas"
+    new "Nari y Taisia crean un vínculo por el sexo anal. +1 RP con ambas"
 
