@@ -32,7 +32,7 @@ translate spanish sm1cs_ns010i_b064da60:
 translate spanish sm1cs_ns010i_1f70ed6b:
 
     # sy "*giggles* You dog. I knew you'd loosen her up."
-    sy "*risas* ¡Qué pillo! Sabía que la ibas a relajar."
+    sy "*risas* ¡Qué bribón! Sabía que la ibas a relajar."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:23
 translate spanish sm1cs_ns010i_8bda09e3:
@@ -110,7 +110,7 @@ translate spanish sm1cs_ns010i_9a019eea:
 translate spanish sm1cs_ns010i_dcb1a73f:
 
     # mc "And I should mention, super kinky."
-    mc "Y debo mencionar, super pervertida."
+    mc "Y debo mencionar, súper pervertida."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:53
 translate spanish sm1cs_ns010i_2192316b:
@@ -242,7 +242,7 @@ translate spanish sm1cs_ns010i_7b19f5f0:
 translate spanish sm1cs_ns010i_960be5d1:
 
     # sy "Haha. I'm your partner, [mcname]. If someone is going to come live with us, I couldn't live with myself if I didn't check her out head to toe to make sure she's good enough for you."
-    sy "Jaja. Soy tu pareja, [mcname]. Si alguien va a venir a vivir con nosotros, no podría vivir conmigo misma si no la revisara de pies a cabeza para asegurarme de que sea lo suficientemente buena para ti."
+    sy "Jaja. Soy tu pareja, [mcname]. Si alguien viene a vivir con nosotros, no podría vivir conmigo misma si no la revisara de pies a cabeza para asegurarme de que sea lo suficientemente buena para ti."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:114
 translate spanish sm1cs_ns010i_b449ba30:
