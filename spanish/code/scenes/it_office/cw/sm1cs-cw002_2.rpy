@@ -68,7 +68,7 @@ translate spanish sm1cs_cw002_2_cc0d32d7:
 translate spanish sm1cs_cw002_2_f162aabc:
 
     # cw "*whispers* And I could have explained the plan to you if you were on time."
-    cw "* susurros* y podría haberle explicado el plan si llegaba a tiempo."
+    cw "* susurros* Y podría haberle explicado el plan si llegaba a tiempo."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:63
 translate spanish sm1cs_cw002_2_41a5d2d5:
@@ -92,7 +92,7 @@ translate spanish sm1cs_cw002_2_96a9818b:
 translate spanish sm1cs_cw002_2_2f841f3e:
 
     # fw "Charles. You dog."
-    fw "Charles. Tu perro."
+    fw "Charles. Tu bribón."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:73
 translate spanish sm1cs_cw002_2_97711783:
@@ -230,7 +230,7 @@ translate spanish sm1cs_cw002_2_d295a0c1:
 translate spanish sm1cs_cw002_2_1553ae33:
 
     # chw "Come on. Let's get some food and drinks. I'm starving."
-    chw "Vamos. Vamos a pedir algo para comer y beber. Me muero de hambre."
+    chw "Vamos. Pidamos algo para comer y beber. Me muero de hambre."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:140
 translate spanish sm1cs_cw002_2_563bda8e:
@@ -284,7 +284,7 @@ translate spanish sm1cs_cw002_2_3a4474c9:
 translate spanish sm1cs_cw002_2_6617a82c:
 
     # mc "Well, *coughs* I'm sure Claire has told you a lot."
-    mc "Bueno, *tos* Seguro que Claire te ha contado muchas cosas."
+    mc "Bueno, *tos* Estoy seguro de que Claire les ha contado muchas cosas."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:161
 translate spanish sm1cs_cw002_2_3a726bdf:
@@ -782,7 +782,7 @@ translate spanish sm1cs_cw002_2_after_lunch_ecae6164:
 translate spanish sm1cs_cw002_2_after_lunch_b28a03d2:
 
     # cw "At the very least, it was certainly a less boring conversation than I usually have with them."
-    cw "Al menos, fue una conversación menos aburrida de lo que suelo tener con ellos."
+    cw "Al menos, fue una conversación menos aburrida de la que suelo tener con ellos."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:421
 translate spanish sm1cs_cw002_2_after_lunch_79afc8ce:
@@ -794,7 +794,7 @@ translate spanish sm1cs_cw002_2_after_lunch_79afc8ce:
 translate spanish sm1cs_cw002_2_after_lunch_f50993b7:
 
     # cw "*sighs* I love my parents. But when they get involved, it can drive me crazy."
-    cw "*suspira* Amo a mis padres. Pero cuando se involucran, me puede volver loca."
+    cw "*suspira* Amo a mis padres. Pero cuando se involucran, me pueden volver loca."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:423
 translate spanish sm1cs_cw002_2_after_lunch_d91a6c98:
@@ -866,7 +866,7 @@ translate spanish sm1cs_cw002_2_after_lunch_a5129edc:
 translate spanish sm1cs_cw002_2_after_lunch_77a75b22:
 
     # mct "Never really been interrogated by a girl's parents with whiskey before."
-    mct "Nunca antes había sido interrogado por los padres de una niña con whisky."
+    mct "Nunca antes me había interrogado los padres de una chica con whisky de por medio."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:470
 translate spanish sm1cs_cw002_2_after_lunch_eda8e5c1:
@@ -914,5 +914,5 @@ translate spanish strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
     old "Don't mention it, Ms. Watts"
-    new "No hay de qué, Sra. Watts"
+    new "No hay de qué, Srta. Watts"
 
