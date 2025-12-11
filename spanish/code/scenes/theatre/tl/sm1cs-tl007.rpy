@@ -38,7 +38,7 @@ translate spanish sm1cs_tl007_d6b07f02:
 translate spanish sm1cs_tl007_0f36c409:
 
     # sy "Halp."
-    sy "Ayuuda."
+    sy "Aiuda."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:40
 translate spanish sm1cs_tl007_af8594d2:
@@ -368,7 +368,7 @@ translate spanish sm1cs_tl007_a09a0135:
 translate spanish sm1cs_tl007_14da906c:
 
     # sy "Nonplussed?"
-    sy "¿Nonplussed?"
+    sy "¿Sorprendida?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:239
 translate spanish sm1cs_tl007_60eba03a:
@@ -398,7 +398,7 @@ translate spanish sm1cs_tl007_3edc5b2b:
 translate spanish sm1cs_tl007_2a8383f5:
 
     # sy "Nonplussed is like, if she's so surprised she has no idea what to do."
-    sy "'Nonplussed' es como... cuando alguien está tan sorprendido que no sabe qué hacer."
+    sy "Sorprendida es como... cuando alguien está tan sorprendido que no sabe qué hacer."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:253
 translate spanish sm1cs_tl007_5f567d53:
@@ -410,7 +410,7 @@ translate spanish sm1cs_tl007_5f567d53:
 translate spanish sm1cs_tl007_840be5f0:
 
     # sy "Yeah, but that doesn't mean she's nonplussed. I think she's just, I don't know, chill?"
-    sy "Sí, pero eso no significa que estuviera 'nonplussed'. Creo que simplemente estaba tranquila."
+    sy "Sí, pero eso no significa que estuviera sorprendida. Creo que simplemente estaba tranquila."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:259
 translate spanish sm1cs_tl007_6e031d5b:
@@ -512,7 +512,7 @@ translate spanish sm1cs_tl007_ac40a47c:
 translate spanish sm1cs_tl007_97e269e4:
 
     # tl "So, stay light, keep a bag packed, don't get too attached to things or places."
-    tl "Así que, viajar ligera, tener una maleta lista y no apegarse demasiado a cosas o lugares."
+    tl "Así que, viajar ligera, tener una maleta lista y no apegarse demasiado a las cosas o lugares."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:311
 translate spanish sm1cs_tl007_8abfaf50:
@@ -656,7 +656,7 @@ translate spanish sm1cs_tl007_a5ec958e:
 translate spanish sm1cs_tl007_d4a9caa6:
 
     # tl "You don't need to stress, [mcname]. It's chill."
-    tl "No necesitas ponerte tenso, [mcname]. Todo bien."
+    tl "No te estreses, [mcname]. No pasa nada."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:384
 translate spanish sm1cs_tl007_1588fa9d:
