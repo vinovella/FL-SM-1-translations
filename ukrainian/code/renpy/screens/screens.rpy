@@ -2,75 +2,75 @@
 
     # game/code/renpy/screens/screens.rpy:12
     old "New Game"
-    new "New Game"
+    new "Нова гра"
 
     # game/code/renpy/screens/screens.rpy:18
     old "Main Menu"
-    new "Main Menu"
+    new "Головне меню"
 
     # game/code/renpy/screens/screens.rpy:23
     old "History"
-    new "History"
+    new "Історія"
 
     # game/code/renpy/screens/screens.rpy:35
     old "Load"
-    new "Load"
+    new "Завантажити"
 
     # game/code/renpy/screens/screens.rpy:40
     old "Settings"
-    new "Settings"
+    new "Налаштування"
 
     # game/code/renpy/screens/screens.rpy:46
     old "Join Patreon"
-    new "Join Patreon"
+    new "Приєднатися до Patreon"
 
     # game/code/renpy/screens/screens.rpy:51
     old "Join Discord"
-    new "Join Discord"
+    new "Приєднатися до Discord"
 
     # game/code/renpy/screens/screens.rpy:62
     old "End Replay"
-    new "End Replay"
+    new "Завершити повтор"
 
     # game/code/renpy/screens/screens.rpy:73
     old "Help"
-    new "Help"
+    new "Допомога"
 
     # game/code/renpy/screens/screens.rpy:78
     old "About"
-    new "About"
+    new "Про гру"
 
     # game/code/renpy/screens/screens.rpy:83
     old "Quit"
-    new "Quit"
+    new "Вихід"
 
     # game/code/renpy/screens/screens.rpy:212
     old "Language"
-    new "Language"
+    new "Мова"
 
     # game/code/renpy/screens/screens.rpy:218
     old "Live Chat"
-    new "Live Chat"
+    new "Чат"
 
     # game/code/renpy/screens/screens.rpy:245
     old "Music Player"
-    new "Music Player"
+    new "Музичний програвач"
 
     # game/code/renpy/screens/screens.rpy:447
     old "Naming save file:"
-    new "Naming save file:"
+    new "Назва файлу збереження:"
 
     # game/code/renpy/screens/screens.rpy:448
     old "Enabled"
-    new "Enabled"
+    new "Увімкнено"
 
     # game/code/renpy/screens/screens.rpy:450
     old "Disabled"
-    new "Disabled"
+    new "Вимкнено"
 
     # game/code/renpy/screens/screens.rpy:453
     old "Saves for season 2"
-    new "Saves for season 2"
+    new "Збереження для сезону 2"
 
     # game/code/renpy/screens/screens.rpy:473
     old "{#file_time}%b %d %Y, %H:%M"
@@ -78,11 +78,11 @@
 
     # game/code/renpy/screens/screens.rpy:473
     old "Empty Slot"
-    new "Empty Slot"
+    new "Порожній слот"
 
     # game/code/renpy/screens/screens.rpy:491
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Ren'Py Синхронізація збережень"
 
     # game/code/renpy/screens/screens.rpy:498
     old "«"
@@ -102,135 +102,135 @@
 
     # game/code/renpy/screens/screens.rpy:616
     old "Audio"
-    new "Audio"
+    new "Аудіо"
 
     # game/code/renpy/screens/screens.rpy:620
     old "Dialogue"
-    new "Dialogue"
+    new "Діалоги"
 
     # game/code/renpy/screens/screens.rpy:624
     old "Gameplay"
-    new "Gameplay"
+    new "Геймплей"
 
     # game/code/renpy/screens/screens.rpy:653
     old "Master Volume :"
-    new "Master Volume :"
+    new "Загальна гучність :"
 
     # game/code/renpy/screens/screens.rpy:667
     old "Mute All Channels :"
-    new "Mute All Channels :"
+    new "Вимкнути всі канали :"
 
     # game/code/renpy/screens/screens.rpy:669
     old "Unmuted"
-    new "Unmuted"
+    new "Увімкнено"
 
     # game/code/renpy/screens/screens.rpy:670
     old "Muted"
-    new "Muted"
+    new "Вимкнено"
 
     # game/code/renpy/screens/screens.rpy:677
     old "Full Voiceover :"
-    new "Full Voiceover :"
+    new "Повна озвучка :"
 
     # game/code/renpy/screens/screens.rpy:687
     old "Music Volume :"
-    new "Music Volume :"
+    new "Гучність музики :"
 
     # game/code/renpy/screens/screens.rpy:696
     old "Sound Volume :"
-    new "Sound Volume :"
+    new "Гучність звуків :"
 
     # game/code/renpy/screens/screens.rpy:707
     old "Voice Volume :"
-    new "Voice Volume :"
+    new "Гучність голосу :"
 
     # game/code/renpy/screens/screens.rpy:716
     old "Sex Voice Volume :"
-    new "Sex Voice Volume :"
+    new "Гучність секс голосу :"
 
     # game/code/renpy/screens/screens.rpy:738
     old "Text Speed :"
-    new "Text Speed :"
+    new "Швидкість тексту :"
 
     # game/code/renpy/screens/screens.rpy:749
     old "Auto-Forward Time :"
-    new "Auto-Forward Time :"
+    new "Час автопрогортання :"
 
     # game/code/renpy/screens/screens.rpy:760
     old "Dialogue Box Opacity :"
-    new "Dialogue Box Opacity :"
+    new "Прозорість вікна діалогу :"
 
     # game/code/renpy/screens/screens.rpy:771
     old "Skip :"
-    new "Skip :"
+    new "Пропуск :"
 
     # game/code/renpy/screens/screens.rpy:773
     old "Unseen Text"
-    new "Unseen Text"
+    new "Непрочитаний текст"
 
     # game/code/renpy/screens/screens.rpy:774
     old "After Choices"
-    new "After Choices"
+    new "Після виборів"
 
     # game/code/renpy/screens/screens.rpy:775
     old "Transitions"
-    new "Transitions"
+    new "Переходи"
 
     # game/code/renpy/screens/screens.rpy:780
     old "Fast Skip Confirm :"
-    new "Fast Skip Confirm :"
+    new "Підтвердження швидкого пропуску :"
 
     # game/code/renpy/screens/screens.rpy:788
     old "Rollback Side :"
-    new "Rollback Side :"
+    new "Сторона відкату :"
 
     # game/code/renpy/screens/screens.rpy:791
     old "Left"
-    new "Left"
+    new "Ліворуч"
 
     # game/code/renpy/screens/screens.rpy:792
     old "Right"
-    new "Right"
+    new "Праворуч"
 
     # game/code/renpy/screens/screens.rpy:804
     old "Window Size :"
-    new "Window Size :"
+    new "Розмір вікна :"
 
     # game/code/renpy/screens/screens.rpy:806
     old "Fullscreen"
-    new "Fullscreen"
+    new "Повний екран"
 
     # game/code/renpy/screens/screens.rpy:817
     old "Weekly Statement :"
-    new "Weekly Statement :"
+    new "Тижневий звіт :"
 
     # game/code/renpy/screens/screens.rpy:825
     old "Navigation Highlights :"
-    new "Navigation Highlights :"
+    new "Підсвітка навігації :"
 
     # game/code/renpy/screens/screens.rpy:836
     old "Taboo Mode :"
-    new "Taboo Mode :"
+    new "Режим табу :"
 
     # game/code/renpy/screens/screens.rpy:844
     old "Minigames :"
-    new "Minigames :"
+    new "Міні-ігри :"
 
     # game/code/renpy/screens/screens.rpy:863
     old "Quick Menu :"
-    new "Quick Menu :"
+    new "Швидке меню :"
 
     # game/code/renpy/screens/screens.rpy:866
     old "On Hover"
-    new "On Hover"
+    new "При наведенні"
 
     # game/code/renpy/screens/screens.rpy:875
     old "Analytics :"
-    new "Analytics :"
+    new "Аналітика :"
 
     # game/code/renpy/screens/screens.rpy:884
     old "Quick Menu Buttons :"
-    new "Quick Menu Buttons :"
+    new "Кнопки швидкого меню :"
 
     # game/code/renpy/screens/screens.rpy:1037
     old "S&M Studio{#about_button}"
@@ -242,11 +242,11 @@
 
     # game/code/renpy/screens/screens.rpy:1049
     old "Translation"
-    new "Translation"
+    new "Переклад"
 
     # game/code/renpy/screens/screens.rpy:1053
     old "Others"
-    new "Others"
+    new "Інше"
 
     # game/code/renpy/screens/screens.rpy:1064
     old "VERSION : [config.version!t]"
@@ -350,39 +350,39 @@
 
     # game/code/renpy/screens/screens.rpy:1262
     old "The dialogue history is empty."
-    new "The dialogue history is empty."
+    new "Історія діалогів порожня."
 
     # game/code/renpy/screens/screens.rpy:1307
     old "Keyboard"
-    new "Keyboard"
+    new "Клавіатура"
 
     # game/code/renpy/screens/screens.rpy:1311
     old "Mouse"
-    new "Mouse"
+    new "Миша"
 
     # game/code/renpy/screens/screens.rpy:1316
     old "Gamepad"
-    new "Gamepad"
+    new "Геймпад"
 
     # game/code/renpy/screens/screens.rpy:1327
     old "Advances dialogue and activates the interface."
-    new "Advances dialogue and activates the interface."
+    new "Продовжує діалог та активує інтерфейс."
 
     # game/code/renpy/screens/screens.rpy:1330
     old "Space"
-    new "Space"
+    new "Пробіл"
 
     # game/code/renpy/screens/screens.rpy:1331
     old "Advances dialogue without selecting choices."
-    new "Advances dialogue without selecting choices."
+    new "Продовжує діалог без вибору варіантів."
 
     # game/code/renpy/screens/screens.rpy:1334
     old "Arrow Keys"
-    new "Arrow Keys"
+    new "Стрілки"
 
     # game/code/renpy/screens/screens.rpy:1335
     old "Navigate the interface."
-    new "Navigate the interface."
+    new "Навігація по інтерфейсу."
 
     # game/code/renpy/screens/screens.rpy:1338
     old "Escape"
@@ -390,7 +390,7 @@
 
     # game/code/renpy/screens/screens.rpy:1339
     old "Accesses the game menu."
-    new "Accesses the game menu."
+    new "Відкриває ігрове меню."
 
     # game/code/renpy/screens/screens.rpy:1342
     old "Ctrl"
@@ -398,7 +398,7 @@
 
     # game/code/renpy/screens/screens.rpy:1343
     old "Skips dialogue while held down."
-    new "Skips dialogue while held down."
+    new "Пропускає діалог при утриманні."
 
     # game/code/renpy/screens/screens.rpy:1346
     old "Tab"
@@ -406,7 +406,7 @@
 
     # game/code/renpy/screens/screens.rpy:1347
     old "Toggles dialogue skipping."
-    new "Toggles dialogue skipping."
+    new "Вмикає/вимикає пропуск діалогу."
 
     # game/code/renpy/screens/screens.rpy:1350
     old "Page Up"
@@ -414,7 +414,7 @@
 
     # game/code/renpy/screens/screens.rpy:1351
     old "Rolls back to earlier dialogue."
-    new "Rolls back to earlier dialogue."
+    new "Повертає до попередніх діалогів."
 
     # game/code/renpy/screens/screens.rpy:1354
     old "Page Down"
@@ -422,59 +422,59 @@
 
     # game/code/renpy/screens/screens.rpy:1355
     old "Rolls forward to later dialogue."
-    new "Rolls forward to later dialogue."
+    new "Переходить до наступних діалогів."
 
     # game/code/renpy/screens/screens.rpy:1359
     old "Hides the user interface."
-    new "Hides the user interface."
+    new "Приховує інтерфейс користувача."
 
     # game/code/renpy/screens/screens.rpy:1363
     old "Takes a screenshot."
-    new "Takes a screenshot."
+    new "Робить знімок екрана."
 
     # game/code/renpy/screens/screens.rpy:1367
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "Вмикає/вимикає допоміжне {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
     # game/code/renpy/screens/screens.rpy:1371
     old "Opens the accessibility menu."
-    new "Opens the accessibility menu."
+    new "Відкриває меню доступності."
 
     # game/code/renpy/screens/screens.rpy:1379
     old "Left Click"
-    new "Left Click"
+    new "Лівий клік"
 
     # game/code/renpy/screens/screens.rpy:1383
     old "Middle Click"
-    new "Middle Click"
+    new "Середній клік"
 
     # game/code/renpy/screens/screens.rpy:1387
     old "Right Click"
-    new "Right Click"
+    new "Правий клік"
 
     # game/code/renpy/screens/screens.rpy:1391
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Mouse Wheel Up\nClick Rollback Side"
+    new "Колесо миші вгору\nКлік на сторону відкату"
 
     # game/code/renpy/screens/screens.rpy:1395
     old "Mouse Wheel Down"
-    new "Mouse Wheel Down"
+    new "Колесо миші вниз"
 
     # game/code/renpy/screens/screens.rpy:1404
     old "Right Trigger\nA/Bottom Button"
-    new "Right Trigger\nA/Bottom Button"
+    new "Правий тригер\nA/Нижня кнопка"
 
     # game/code/renpy/screens/screens.rpy:1408
     old "Left Trigger\nLeft Shoulder"
-    new "Left Trigger\nLeft Shoulder"
+    new "Лівий тригер\nЛіве плече"
 
     # game/code/renpy/screens/screens.rpy:1412
     old "Right Shoulder"
-    new "Right Shoulder"
+    new "Праве плече"
 
     # game/code/renpy/screens/screens.rpy:1416
     old "D-Pad, Sticks"
-    new "D-Pad, Sticks"
+    new "Хрестовина, Стіки"
 
     # game/code/renpy/screens/screens.rpy:1420
     old "Start, Guide"
@@ -482,121 +482,13 @@
 
     # game/code/renpy/screens/screens.rpy:1424
     old "Y/Top Button"
-    new "Y/Top Button"
+    new "Y/Верхня кнопка"
 
     # game/code/renpy/screens/screens.rpy:1430
     old "Calibrate"
-    new "Calibrate"
+    new "Калібрувати"
 
     # game/code/renpy/screens/screens.rpy:1470
     old "Skipping"
-    new "Skipping"
-
-    # game/code/renpy/screens/faction_th.rpy:12
-    old "THEATER"
-    new "ТЕАТР"
-
-    # game/code/renpy/screens/faction_th.rpy:38
-    old "Theater schedule"
-    new "Розклад театру"
-
-    # game/code/renpy/screens/faction_th.rpy:45
-    old "6 PM"
-    new "18:00"
-
-    # game/code/renpy/screens/faction_th.rpy:58
-    old "Pay after show on [THController.final_show_day!t]:"
-    new "Оплата після вистави [THController.final_show_day!t]:"
-
-    # game/code/renpy/screens/faction_th.rpy:63
-    old "Extra pay for successful show:"
-    new "Додаткова оплата за успішну виставу:"
-
-    # game/code/renpy/screens/faction_th.rpy:66
-    old "Progress [th_progress_percent]%"
-    new "Прогрес [th_progress_percent]%"
-
-        # game/code/renpy/screens/renovation.rpy:8
-    old "RENOVATION PROGRESS-[progress:.1f]%"
-    new "ПРОГРЕС РЕМОНТУ-[progress:.1f]%"
-
-    # game/code/renpy/screens/renovation.rpy:58
-    old "[mc_work_percent]%\nper energy"
-    new "[mc_work_percent]%\nна енергію"
-
-    # game/code/renpy/screens/renovation.rpy:59
-    old "[sy_work_percent]%\nper day"
-    new "[sy_work_percent]%\nна день"
-
-    # game/code/renpy/screens/renovation.rpy:93
-    old "Energy: [player.energy]/[player.max_energy]"
-    new "Енергія: [player.energy]/[player.max_energy]"
-
-    # game/code/renpy/screens/renovation.rpy:101
-    old "WORK"
-    new "ПРАЦЮВАТИ"
-
-    # game/code/renpy/screens/renovation.rpy:112
-    old "DONE"
-    new "ГОТОВО"
-
-    # game/code/renpy/screens/gallery.rpy:9
-    old "Replay Gallery"
-    new "Галерея повторів"
-
-    # game/code/renpy/screens/gallery.rpy:15
-    old "Achievements"
-    new "Досягнення"
-
-    # game/code/renpy/screens/gallery.rpy:24
-    old "Hints on"
-    new "Підказки увімкнено"
-
-    # game/code/renpy/screens/gallery.rpy:24
-    old "Hints off"
-    new "Підказки вимкнено"
-
-    # game/code/renpy/screens/gallery.rpy:36
-    old "Character Filter: [character_filter!t]"
-    new "Фільтр персонажів: [character_filter!t]"
-
-    # game/code/renpy/screens/gallery.rpy:124
-    old "None"
-    new "Немає"
-
-    # game/code/renpy/screens/gallery.rpy:146
-    old "<"
-    new "<"
-
-    # game/code/renpy/screens/gallery.rpy:149
-    old ">"
-    new ">"
-
-    # game/code/renpy/screens/gallery.rpy:157
-    old "Image [index] of [count] locked."
-    new "Зображення [index] з [count] заблоковано."
-
-    # game/code/renpy/screens/gallery.rpy:178
-    old "Prev"
-    new "Попередня"
-
-    # game/code/renpy/screens/gallery.rpy:179
-    old "Next"
-    new "Наступна"
-
-    # game/code/renpy/screens/pirates_movie.rpy:62
-    old "PIRATES MOVIE"
-    new "ПІРАТСЬКИЙ ФІЛЬМ"
-
-    # game/code/renpy/screens/pirates_movie.rpy:91
-    old "Add $[amount]"
-    new "Додати $[amount]"
-
-    # game/code/renpy/screens/pirates_movie.rpy:141
-    old "Add [amount]E"
-    new "Додати [amount]E"
-
-    # game/code/renpy/screens/pirates_movie.rpy:177
-    old "Editing Work"
-    new "Монтажна робота"
+    new "Пропуск"
 
