@@ -104,13 +104,13 @@ translate spanish sm1cs_ns013_c81e784d:
 translate spanish sm1cs_ns013_2bdd6b11:
 
     # mc "A monstermate?"
-    mc "¿Una compañera monstruo?"
+    mc "¿Una compañera monstruosa?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:110
 translate spanish sm1cs_ns013_73a0b3a1:
 
     # sy "Yeah. A monster roommate."
-    sy "Sí. Una compañera de cuarto monstruo."
+    sy "Sí. Una compañera de cuarto monstruosa."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:117
 translate spanish sm1cs_ns013_702e62dc:
@@ -170,7 +170,7 @@ translate spanish sm1cs_ns013_2b218f43:
 translate spanish sm1cs_ns013_36f85886:
 
     # mc "She just got her own room."
-    mc "Recién obtuvo su propia habitación."
+    mc "Recién consiguió su propia habitación."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:149
 translate spanish sm1cs_ns013_ef6fe767:
@@ -926,7 +926,7 @@ translate spanish ns013_labels_section_bb7871d4:
 translate spanish ns013_labels_section_4e2d23b0:
 
     # ns "*softly* Maybe... maybe after you are done with Stacy..."
-    ns "*suave* Quizás... quizás cuando terminen con Stacy..."
+    ns "*suave* Quizás... quizás cuando termines con Stacy..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:584
 translate spanish ns013_labels_section_070a0aee:
@@ -1172,7 +1172,7 @@ translate spanish ns013_labels_section_e3ac5f98:
 translate spanish ns013_labels_section_762e449a:
 
     # sy "I like it."
-    sy "Me gusta."
+    sy "Me encanta."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:679
 translate spanish ns013_labels_section_0ef919a2:
@@ -1628,7 +1628,7 @@ translate spanish ns013_labels_section_b101633c:
 translate spanish ns013_labels_section_b710308a:
 
     # mc "I'm going to cum buckets."
-    mc "Voy a eyacular muchísimo."
+    mc "Voy a correrme muchísimo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:863
 translate spanish ns013_labels_section_e3339053:
@@ -1712,7 +1712,7 @@ translate spanish ns013_labels_section_628bf4a3:
 translate spanish ns013_labels_section_e054ce99:
 
     # mc "I'm going to cum!"
-    mc "¡Voy a eyacular!"
+    mc "¡Me voy a correr!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:900
 translate spanish ns013_labels_section_fe802941:
@@ -1790,7 +1790,7 @@ translate spanish ns013_labels_section_7e66f832:
 translate spanish ns013_labels_section_2f39905a:
 
     # sy "Woah. You really came a lot."
-    sy "Vaya. Realmente eyaculaste mucho."
+    sy "Vaya. Realmente te corriste mucho."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:934
 translate spanish ns013_labels_section_2454c390:
@@ -2328,7 +2328,7 @@ translate spanish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:77
     old "I don't get them"
-    new "No las entiendo"
+    new "No los entiendo"
 
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:112
     old "That's funny"
@@ -2336,7 +2336,7 @@ translate spanish strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:112
     old "You're as silly as she is"
-    new "Eres tan tonta como ella"
+    new "Eres tan divertida como ella"
 
     # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:180
     old "In the morning"
