@@ -530,7 +530,7 @@ translate spanish sm1ms025_2c6fe8f1:
 translate spanish sm1ms025_1c71b1bf:
 
     # mc "Uh.. sure."
-    mc "Eh… claro."
+    mc "Eh... claro."
 
 # game/code/scenes/main_story/sm1ms025.rpy:238
 translate spanish sm1ms025_6cac701a:
