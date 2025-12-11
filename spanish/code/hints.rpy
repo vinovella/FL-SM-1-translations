@@ -543,3 +543,5 @@ translate spanish strings:
     # game/code/hints.rpy:5
     old "Nari and Taisia bond over anal. +1 RP with both"
     new "Nari y Taisia crean un vínculo por el sexo anal. +1 RP con ambas"
+
+
