@@ -1526,7 +1526,7 @@ translate spanish sm1cs_km006_after_td_419d89b9:
 translate spanish sm1cs_km006_after_td_246ac3b0:
 
     # vs "Oh... well... you don't seem too worked up about the rules."
-    vs "Oh… bueno... no pareces muy preocupada por las reglas."
+    vs "Oh... bueno... no pareces muy preocupada por las reglas."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:801
 translate spanish sm1cs_km006_after_td_016fe108:
@@ -1736,7 +1736,7 @@ translate spanish sm1cs_km006_sex_68f79a00:
 translate spanish sm1cs_km006_sex_63c0dfed:
 
     # km "Yes... but... maybe we can try kissing first."
-    km "Sí… pero... quizá podríamos empezar con un beso."
+    km "Sí... pero... quizá podríamos empezar con un beso."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:890
 translate spanish sm1cs_km006_sex_9f30a15d:
@@ -2132,7 +2132,7 @@ translate spanish sm1cs_km006_sex_7bac18d1:
 translate spanish sm1cs_km006_sex_28ab7e9d:
 
     # km "Murrrplhh... murrrophh..."
-    km "Murrrplhh… murrrophh…"
+    km "Murrrplhh... murrrophh..."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1100
 translate spanish sm1cs_km006_sex_2eb8358d:
@@ -2150,7 +2150,7 @@ translate spanish sm1cs_km006_sex_43365197:
 translate spanish sm1cs_km006_sex_5348c63e:
 
     # mct "My god. This is like a whole different Kellie."
-    mct "Dios mío… esta es como una Kellie completamente distinta."
+    mct "Dios mío... esta es como una Kellie completamente distinta."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1109
 translate spanish sm1cs_km006_sex_1210c9a8:
@@ -2426,7 +2426,7 @@ translate spanish sm1cs_km006_sex_5310bbea:
 translate spanish sm1cs_km006_sex_8d7e7501:
 
     # vs "I can't... I'm cumming!"
-    vs "No puedo… ¡me estoy corriendo!"
+    vs "No puedo... ¡me estoy corriendo!"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1233
 translate spanish sm1cs_km006_sex_0f287383:
@@ -2462,7 +2462,7 @@ translate spanish sm1cs_km006_sex_f7e5f240:
 translate spanish sm1cs_km006_sex_daf5d479:
 
     # vs "I squirted.{w} Well... [mcname]'s raging thrusts did most of the work."
-    vs "He hecho un squirting.{w} Bueno… los embistes salvajes de [mcname] hicieron casi todo el trabajo."
+    vs "He hecho un squirting.{w} Bueno... los embistes salvajes de [mcname] hicieron casi todo el trabajo."
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:1255
 translate spanish sm1cs_km006_sex_22a732bd:
