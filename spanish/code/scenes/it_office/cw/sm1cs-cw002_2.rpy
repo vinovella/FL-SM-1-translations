@@ -915,3 +915,4 @@ translate spanish strings:
     # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:437
     old "Don't mention it, Ms. Watts"
     new "No hay de qué, Srta. Watts"
+
