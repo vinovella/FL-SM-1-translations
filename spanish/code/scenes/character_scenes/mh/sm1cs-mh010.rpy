@@ -128,7 +128,7 @@ translate spanish sm1cs_mh010_1a848384:
 translate spanish sm1cs_mh010_a45be707:
 
     # mc "Of course, Lyssa. Not everyone wants to be on camera, and it would be super fucked-up of me to secretly keep a copy."
-    mc "Claro, Lyssa. No todo el mundo quiere salir en cámara, y sería muy de mierda que yo guardara una copia a escondidas."
+    mc "Claro, Lyssa. No todo el mundo quiere salir en cámara, y sería muy de mierda de mi parte que yo guardara una copia a escondidas."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:83
 translate spanish sm1cs_mh010_345c55a1:
