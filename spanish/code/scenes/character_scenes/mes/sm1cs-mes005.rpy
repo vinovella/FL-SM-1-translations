@@ -14,7 +14,7 @@ translate spanish sm1cs_mes005_02576587:
 translate spanish sm1cs_mes005_293b6df9:
 
     # mes "Never. Tedious is... laundry."
-    mes "Jamás. Lo tedioso es... lavar la ropa."
+    mes "Jamás. Lo molesto es... lavar la ropa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:18
 translate spanish sm1cs_mes005_3b5781f7:
@@ -248,7 +248,7 @@ translate spanish sm1cs_mes005_c8300e5b:
 translate spanish sm1cs_mes005_257b208b:
 
     # mc "If you already knew everyone, you'd probably just slide right in."
-    mc "Si ya conocieras a todos, seguramente entrarías sin problemas."
+    mc "Si ya conocieras a todas, seguramente entrarías sin problemas."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:121
 translate spanish sm1cs_mes005_e382f503:
@@ -866,7 +866,7 @@ translate spanish sm1cs_mes005_8e204029:
 translate spanish sm1cs_mes005_032c70a4:
 
     # mct "But even if that doesn't happen, it's all good.{w} I don't want to push Min into something she's not prepared for."
-    mct "Pero incluso si eso no pasa, todo está bien.{w} No quiero presionar a Min para algo para lo que no está lista."
+    mct "Pero incluso si eso no pasa, todo está bien.{w} No quiero presionar a Min haciendo algo para lo que no se siente preparada."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:430
 translate spanish sm1cs_mes005_ad7bfc2c:
