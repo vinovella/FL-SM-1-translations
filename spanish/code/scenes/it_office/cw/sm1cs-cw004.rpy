@@ -260,7 +260,7 @@ translate spanish sm1cs_cw004_docks_8e247918:
 translate spanish sm1cs_cw004_docks_0e95dfa1:
 
     # mc "It was yours. I had a bad feeling about it from the beginning."
-    mc "Fue tuya. Tuve un mal presentimiento desde el principio."
+    mc "Fue tu idea. Tuve un mal presentimiento desde el principio."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:172
 translate spanish sm1cs_cw004_docks_5b849b6e:
@@ -686,7 +686,7 @@ translate spanish sm1cs_cw004_later_f2a53832:
 translate spanish sm1cs_cw004_later_3e44a61a:
 
     # mct "Oh, man, that would be..."
-    mct "Oh, hombre, eso sería..."
+    mct "Oh, vaya, eso sería..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:415
 translate spanish sm1cs_cw004_later_2df2f9b7:
@@ -1028,7 +1028,7 @@ translate spanish sm1cs_cw004_later_2864080c:
 translate spanish sm1cs_cw004_later_fc48517c_1:
 
     # mc "Pull."
-    mc "Lanzar."
+    mc "Tirar."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:604
 translate spanish sm1cs_cw004_later_185650d9:
@@ -1118,7 +1118,7 @@ translate spanish sm1cs_cw004_first_evening_a80e7b34:
 translate spanish sm1cs_cw004_first_evening_74dec95f:
 
     # mct "Would he?"
-    mct "¿O sí?"
+    mct "¿O sí lo haría?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:664
 translate spanish sm1cs_cw004_first_evening_307cfa16:
@@ -1244,7 +1244,7 @@ translate spanish sm1cs_cw004_first_evening_6eaff14c:
 translate spanish sm1cs_cw004_first_evening_8564ae2e:
 
     # fw "Untouched..."
-    fw "Intocada..."
+    fw "Sin tocar..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:718
 translate spanish sm1cs_cw004_first_evening_41b0f664:
@@ -1496,7 +1496,7 @@ translate spanish sm1cs_cw004_first_evening_a6f2b272:
 translate spanish sm1cs_cw004_first_evening_f4e72a58:
 
     # cw "*short breaths* Just drop the towel."
-    cw "*alientos cortos* Simplemente suelta la toalla."
+    cw "*Respiración agitada* Simplemente suelta la toalla."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:846
 translate spanish sm1cs_cw004_first_evening_80145596:
@@ -1754,7 +1754,7 @@ translate spanish sm1cs_cw004_first_evening_7a881de8:
 translate spanish sm1cs_cw004_first_evening_e15dd91f:
 
     # mc "Maybe you could use your mouth?{w} I'm sure that will help me cum..."
-    mc "¿Quizás podrías usar tu boca?{w} Estoy seguro de que eso me ayudará a que me corra..."
+    mc "¿Quizás podrías usar tu boca?{w} Estoy seguro de que eso ayudará a que me corra..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:943
 translate spanish sm1cs_cw004_first_evening_8c2c9d38:
@@ -1960,7 +1960,7 @@ translate spanish strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:165
     old "It was yours"
-    new "Fue tuyo"
+    new "Fue tu idea"
 
     # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:165
     old "It's going to be okay, Claire"
