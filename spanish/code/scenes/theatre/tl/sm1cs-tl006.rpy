@@ -110,13 +110,13 @@ translate spanish sm1cs_tl006_continue_6bbe3587:
 translate spanish sm1cs_tl006_continue_0d066607:
 
     # mc "-she'll be here in a minute."
-    mc "-Estará aquí en un minuto."
+    mc "Estará aquí en un minuto."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:149
 translate spanish sm1cs_tl006_continue_53d84903:
 
     # tl "Be here for what?"
-    tl "Estar aquí para qué?"
+    tl "¿Estar aquí para qué?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:151
 translate spanish sm1cs_tl006_continue_ba5035d1:
@@ -134,7 +134,7 @@ translate spanish sm1cs_tl006_continue_9e3d0285:
 translate spanish sm1cs_tl006_continue_173afac0:
 
     # tl "Okaaaaay?"
-    tl "¿Okaaaaay?"
+    tl "¿Bieeeen?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:164
 translate spanish sm1cs_tl006_continue_496b2a1a:
@@ -248,7 +248,7 @@ translate spanish sm1cs_tl006_continue_156ef1b0:
 translate spanish sm1cs_tl006_continue_2de09b27:
 
     # tl "-I guess right on cue."
-    tl "-Supongo que justo a tiempo."
+    tl "Supongo que justo a tiempo."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:225
 translate spanish sm1cs_tl006_continue_fd108cd9:
@@ -428,7 +428,7 @@ translate spanish sm1cs_tl006_continue_1646e120:
 translate spanish sm1cs_tl006_continue_b4be3ee7:
 
     # tl "{size=*0.6}Central air would be nice...{/size}"
-    tl "{size=*0.6} El aire central estaría bien... {/size}"
+    tl "{size=*0.6} El aire acondicionado central estaría bien... {/size}"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:312
 translate spanish sm1cs_tl006_continue_816b7f3d:
@@ -482,7 +482,7 @@ translate spanish sm1cs_tl006_continue_220f0bec:
 translate spanish sm1cs_tl006_continue_7d8553b5:
 
     # tl "You give me $[sm1cs_tl006_sy_bet_money]."
-    tl "Me das $ [sm1cs_tl006_sy_bet_money]."
+    tl "Me das $[sm1cs_tl006_sy_bet_money]."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:335
 translate spanish sm1cs_tl006_continue_5c456724:
@@ -530,7 +530,7 @@ translate spanish sm1cs_tl006_continue_32f212d3:
 translate spanish sm1cs_tl006_continue_c46bd51b:
 
     # mc "You're gambling with $[sm1cs_tl006_sy_bet_money]!"
-    mc "¡Estás apostando $ [sm1cs_tl006_sy_bet_money]!"
+    mc "¡Estás apostando $[sm1cs_tl006_sy_bet_money]!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:359
 translate spanish sm1cs_tl006_continue_8c9ccc57:
@@ -548,7 +548,7 @@ translate spanish sm1cs_tl006_continue_4cd15a32:
 translate spanish sm1cs_tl006_continue_a823aa9f:
 
     # sy "Don't worry big brother, I got this!"
-    sy "No te preocupes Big Brother, ¡tengo esto!"
+    sy "No te preocupes Big Brother, ¡Puedo hacerlo!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:367
 translate spanish sm1cs_tl006_continue_a0154f2b:
@@ -584,7 +584,7 @@ translate spanish sm1cs_tl006_continue_91753d2d:
 translate spanish sm1cs_tl006_continue_1088cde2:
 
     # tl "Uh huh."
-    tl "Uh huh."
+    tl "Ajá."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:389
 translate spanish sm1cs_tl006_continue_59db1228:
@@ -674,7 +674,7 @@ translate spanish sm1cs_tl006_continue_1a4c31ef:
 translate spanish sm1cs_tl006_continue_2de5405d:
 
     # tl "Easiest $[sm1cs_tl006_sy_bet_money] I've ever made."
-    tl "Los $ [sm1cs_tl006_sy_bet_money] más fáciles he hecho."
+    tl "Los $[sm1cs_tl006_sy_bet_money] más fáciles que he hecho."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:441
 translate spanish sm1cs_tl006_continue_5c2c7bcf:
@@ -746,7 +746,7 @@ translate spanish sm1cs_tl006_continue_c5585d29:
 translate spanish sm1cs_tl006_continue_e1a12b08:
 
     # sy "How about best 3 out of 5! And we'll double the bet!"
-    sy "¡¿Qué tal el mejor de 5?! ¡Y doblamos la apuesta!"
+    sy "¡¿Qué tal al mejor de 5?! ¡Y doblamos la apuesta!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:495
 translate spanish sm1cs_tl006_continue_44857895:
@@ -776,7 +776,7 @@ translate spanish sm1cs_tl006_continue_7c373379:
 translate spanish sm1cs_tl006_continue_9f6a7c7a:
 
     # sy "Don't worry! I got this!"
-    sy "¡No te preocupes! ¡Tengo esto!"
+    sy "¡No te preocupes! ¡Puedo hacerlo!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:509
 translate spanish sm1cs_tl006_continue_f7c3275a:
@@ -920,7 +920,7 @@ translate spanish sm1cs_tl006_continue_b86bf87d:
 translate spanish sm1cs_tl006_continue_394f8f09:
 
     # sy "Uh huh.{w} And if I win, you move in. And if I lose, [mcname] will become your sex slave for a week."
-    sy "Uh huh.{w} Y si gano, te mudas. Y si pierdo, [mcname] se convertirá en tu esclavo sexual durante una semana."
+    sy "Ajá.{w} Y si gano, te mudas. Y si pierdo, [mcname] se convertirá en tu esclavo sexual durante una semana."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:603
 translate spanish sm1cs_tl006_continue_cb636fa6:
@@ -1004,13 +1004,13 @@ translate spanish sm1cs_tl006_continue_98c1980e:
 translate spanish sm1cs_tl006_continue_170f9236:
 
     # tl "Holy fuck!"
-    tl "¡Santo mierda!"
+    tl "¡Santa mierda!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:640
 translate spanish sm1cs_tl006_continue_aaf9eb32:
 
     # mc "Okay, this is pretty hot."
-    mc "Bien, esto es bastante caliente."
+    mc "Bien, esto es bastante sexy."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:642
 translate spanish sm1cs_tl006_continue_c80268e0:
@@ -1040,7 +1040,7 @@ translate spanish sm1cs_tl006_continue_551da538:
 translate spanish sm1cs_tl006_continue_fb70a385:
 
     # mc "Like, she is {i}reaaaalllly{/i} sucking my dick!"
-    mc "Ella  me está {i}realmente{/i} chupándome la polla."
+    mc "Ella  está {i}realmente{/i} chupándome la polla."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:660
 translate spanish sm1cs_tl006_continue_3fc3a7b3:
@@ -1130,7 +1130,7 @@ translate spanish sm1cs_tl006_continue_ca25effe:
 translate spanish sm1cs_tl006_continue_8852e77f:
 
     # mc "Uh huh."
-    mc "Uh huh."
+    mc "Ajá."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:695
 translate spanish sm1cs_tl006_continue_a472e4f3:
@@ -1202,7 +1202,7 @@ translate spanish sm1cs_tl006_continue_cbdfcfdf:
 translate spanish sm1cs_tl006_continue_986d11cf:
 
     # tl "No. Just savoring a moment."
-    tl "No. Simplemente saboreando un momento."
+    tl "No. Simplemente saboreando el momento."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:722
 translate spanish sm1cs_tl006_continue_885dc3e1:
@@ -1430,7 +1430,7 @@ translate spanish sm1cs_tl006_continue_5edf0dac:
 translate spanish sm1cs_tl006_continue_ad590bca:
 
     # tl "You haven't won it yet, though. And if you're going to quit at the last second like that..."
-    tl "Pero aún no lo has ganado. Y si vas a renunciar en el último segundo de esa manera..."
+    tl "Pero aún no la has ganado. Y si vas a renunciar en el último segundo de esa manera..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:820
 translate spanish sm1cs_tl006_continue_ccc378dc:
@@ -1526,7 +1526,7 @@ translate spanish sm1cs_tl006_continue_00dff17a:
 translate spanish sm1cs_tl006_continue_09e65e33:
 
     # tl "Mmmhmmmm, I do, I doooooo!"
-    tl "Mmmhmmmm, me gusta, me gusta!"
+    tl "Mmmhmmmm, ¡me gusta, me gusta!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:877
 translate spanish sm1cs_tl006_continue_dc531570:
@@ -1610,7 +1610,7 @@ translate spanish sm1cs_tl006_continue_ccdf8bd7:
 translate spanish sm1cs_tl006_continue_39cf2953:
 
     # sy "Yes, cum! Cum, Taisia, cuuuuuuum!"
-    sy "¡Sí, córrete! Córrete, Taisia, córrete!"
+    sy "¡Sí, córrete! Córrete, ¡Taisia, córrete!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:903
 translate spanish sm1cs_tl006_continue_daa113a0:
@@ -1712,13 +1712,13 @@ translate spanish sm1cs_tl006_continue_f1923d64:
 translate spanish sm1cs_tl006_continue_66c507f2:
 
     # tl "-the fuck!"
-    tl "-¿La follada!"
+    tl "-¡La follada!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:952
 translate spanish sm1cs_tl006_continue_22084b5d:
 
     # sy "[mcname], help a gal out and slide the strap on into Taisia's ass?"
-    sy "[mcname], ayuda a esta chica y desliza la correa en el culo de Taisia?"
+    sy "[mcname], ¿ayuda a esta chica y desliza la correa en el culo de Taisia?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:954
 translate spanish sm1cs_tl006_continue_928221a2:
@@ -1760,7 +1760,7 @@ translate spanish sm1cs_tl006_continue_38e11854:
 translate spanish sm1cs_tl006_continue_7bb5e87b:
 
     # mc "Fuck, Stacy you are so weeetttt!"
-    mc "Joder, ¡Stacy eres tan mojada!"
+    mc "Joder, ¡Stacy estás tan mojada!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:977
 translate spanish sm1cs_tl006_continue_63731694:
@@ -1814,7 +1814,7 @@ translate spanish sm1cs_tl006_continue_3603c620:
 translate spanish sm1cs_tl006_continue_48c02a04:
 
     # sy "Just a little bit - just a little bit moooooore!"
-    sy "Solo un poco, ¡solo un poco de máaaaas!"
+    sy "Solo un poco, ¡solo un poco máaaaas!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:994
 translate spanish sm1cs_tl006_continue_e4804560:
@@ -1874,7 +1874,7 @@ translate spanish sm1cs_tl006_continue_80e86122:
 translate spanish sm1cs_tl006_continue_bb98d72c:
 
     # sy "Oh yyyaaaaasssssss! I'm- I'm-!"
-    sy "¡Oh, síiiiiiiiii! ¡Estoy, estoy...!"
+    sy "¡Oh, síiiiiiiiii! ¡Me estoy, me estoy...!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1016
 translate spanish sm1cs_tl006_continue_78747f46:
@@ -1976,7 +1976,7 @@ translate spanish sm1cs_tl006_continue_5ef43fce_1:
 translate spanish sm1cs_tl006_continue_64620271:
 
     # tl "Did [mcname] skip the part where I'm looking for a place to live like ASAP?"
-    tl "¿[mcname] se saltó la parte en la que estoy buscando un lugar para vivir lo más pronto posible?"
+    tl "¿[mcname] se saltó la parte en la que estoy buscando un lugar para vivir con urgencia?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1070
 translate spanish sm1cs_tl006_continue_7730e57d:
@@ -1988,7 +1988,7 @@ translate spanish sm1cs_tl006_continue_7730e57d:
 translate spanish sm1cs_tl006_continue_9176b0f5:
 
     # sy "Well, let me make sure the room is all good for you, and, uh... we can probably have you move in pretty soon?"
-    sy "Bueno, déjame asegurarme de que la habitación está bien para ti, y... ¿podrás mudarte muy pronto?"
+    sy "Bueno, deja que me asegure de que la habitación está bien para ti, y, uh... ¿probablemente podemos hacer que te mudes muy pronto?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1074
 translate spanish sm1cs_tl006_continue_3133a377:
@@ -2012,7 +2012,7 @@ translate spanish sm1cs_tl006_continue_a02169ed:
 translate spanish sm1cs_tl006_continue_bf1c7fbe:
 
     # sy "Uh huh."
-    sy "Uh huh."
+    sy "Ajá."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1086
 translate spanish sm1cs_tl006_continue_c583e05d:
@@ -2036,7 +2036,7 @@ translate spanish sm1cs_tl006_continue_b0ca756e:
 translate spanish sm1cs_tl006_continue_81fefdc7:
 
     # mc "That you did."
-    mc "Que hiciste."
+    mc "Sí, lo hiciste."
 
 # game/code/scenes/theatre/tl/sm1cs-tl006.rpy:1097
 translate spanish sm1cs_tl006_continue_dbe20161:
