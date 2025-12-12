@@ -182,7 +182,7 @@ translate spanish sm1cs_arj002_630b5ec6:
 translate spanish sm1cs_arj002_aa4b3a7e:
 
     # mc "So will you still help us, AmRose?"
-    mc "¿Entonces aún nos ayudarás, AmRose?"
+    mc "¿Entonces aún nos vas a ayudar, AmRose?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:102
 translate spanish sm1cs_arj002_051e6249:
@@ -224,7 +224,7 @@ translate spanish sm1cs_arj002_e294701f:
 translate spanish sm1cs_arj002_fdacb38b:
 
     # arj "Haha. So this is a consolation bang too?"
-    arj "Jaja. ¿Así que esto también es un polvo de consolación?"
+    arj "Jaja. ¿Así que esto también es una follada de consolación?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:132
 translate spanish sm1cs_arj002_909b781f:
@@ -302,7 +302,7 @@ translate spanish sm1cs_arj002_2b3559ec:
 translate spanish sm1cs_arj002_5d35a765:
 
     # arj "Me doing a porno, [mcname]."
-    arj "Yo haciendo un porno, [mcname]."
+    arj "Yo haciendo porno, [mcname]."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:168
 translate spanish sm1cs_arj002_6fe86fbd:
@@ -398,7 +398,7 @@ translate spanish sm1cs_arj002_4cd44184_1:
 translate spanish sm1cs_arj002_0319b19d:
 
     # mc "Alright, if you're not in, you're not in."
-    mc "Está bien, si no quieres entrar, no entras."
+    mc "Está bien, si no quieres entrar, no entres."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:218
 translate spanish sm1cs_arj002_e8d8a32d:
@@ -512,7 +512,7 @@ translate spanish sm1cs_arj002_722ff19c:
 translate spanish sm1cs_arj002_4378575b:
 
     # arj "Alright... sounds easy enough."
-    arj "De acuerdo... suena lo bastante fácil."
+    arj "De acuerdo... suena bastante fácil."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:289
 translate spanish sm1cs_arj002_0ca7ac86:
@@ -644,13 +644,13 @@ translate spanish sm1cs_arj002_4ddf8b52:
 translate spanish sm1cs_arj002_9599654d:
 
     # arj "What will [arj_mcname!t] do to me when he finds out I've been..."
-    arj "Qué hará [arj_mcname!t] cuando descubra que he estado..."
+    arj "Qué hará [arj_mcname!t] cuando descubra que he sido..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:374
 translate spanish sm1cs_arj002_29e95544:
 
     # arj "So bad..."
-    arj "Tan mal..."
+    arj "Tan mala..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:378
 translate spanish sm1cs_arj002_d6e5d1fd:
@@ -758,13 +758,13 @@ translate spanish sm1cs_arj002_11e48912:
 translate spanish sm1cs_arj002_1258ced8:
 
     # sy "And now we get to do some watersports with you, AmRose."
-    sy "Y ahora vamos a hacer algo de watersports contigo, AmRose."
+    sy "Y ahora vamos a hacer algo de juegos de orina contigo, AmRose."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:435
 translate spanish sm1cs_arj002_19b68b40:
 
     # arj "Watersports... Really?"
-    arj "¿Watersports... en serio?"
+    arj "Juegos de orina... ¿en serio?"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:439
 translate spanish sm1cs_arj002_b7270c39:
@@ -812,13 +812,13 @@ translate spanish sm1cs_arj002_6b011f89:
 translate spanish sm1cs_arj002_86cae83f:
 
     # arj "Oh! You're confusing me. I'm not the client. I didn't ask for anything."
-    arj "¡Oh! Me estás confundiendo. Yo no soy la clienta. No pedí nada."
+    arj "¡Oh! Me estás confundiendo. Yo no soy el cliente. No pedí nada."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:458
 translate spanish sm1cs_arj002_3c254887:
 
     # arj "But if the client asked for watersports, we can try that."
-    arj "Pero si la clienta pidió juegos de orina, podemos intentar eso."
+    arj "Pero si el cliente pidió juegos de orina, podemos intentar eso."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:464
 translate spanish sm1cs_arj002_2d22fcbf:
@@ -836,7 +836,7 @@ translate spanish sm1cs_arj002_732d28b5:
 translate spanish sm1cs_arj002_8245c517:
 
     # arj "I... How... I mean... I don't know what the client wanted."
-    arj "Yo... Cómo... O sea... No sé lo que quería la clienta."
+    arj "Yo... Cómo... O sea... No sé lo que quería el cliente."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:473
 translate spanish sm1cs_arj002_2824d4aa:
@@ -938,7 +938,7 @@ translate spanish sm1cs_arj002_4f9e4dcc:
 translate spanish sm1cs_arj002_956ef124:
 
     # mc "You've been pretending to be our client so you could figure out if we had your data from Fetish Locator."
-    mc "Has estado fingiendo ser nuestra clienta para averiguar si teníamos tus datos del Localizador de Fetiches."
+    mc "Has estado fingiendo ser nuestro cliente para averiguar si teníamos tus datos del Localizador de Fetiches."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:530
 translate spanish sm1cs_arj002_e4d9ea2c:
@@ -1052,13 +1052,13 @@ translate spanish sm1cs_arj002_86f77a53:
 translate spanish sm1cs_arj002_50d8c7e2:
 
     # arj "*sniff* This has just been an awful mistake. I thought about the plan late one night."
-    arj "*solloza* Todo esto fue un error horrible. Pensé en el plan una noche tarde."
+    arj "*solloza* Todo esto ha sido un error horrible. Pensé en el plan muy tarde una noche."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:590
 translate spanish sm1cs_arj002_1da5ad45:
 
     # arj "I think... it was after seeing your place the first time."
-    arj "Creo que... fue después de ver tu lugar por primera vez."
+    arj "Creo que... fue después de ver tu casa por primera vez."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:594
 translate spanish sm1cs_arj002_ccac7ee1:
@@ -1274,7 +1274,7 @@ translate spanish sm1cs_arj002_7c49037e:
 translate spanish sm1cs_arj002_78310c38:
 
     # mc "Fuck I've missed this so much!"
-    mc "Mierda, extrañaba esto tanto."
+    mc "Mierda, extrañaba tanto esto."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:679
 translate spanish sm1cs_arj002_2aef0db0:
@@ -1622,19 +1622,19 @@ translate spanish sm1cs_arj002_901938bf:
 translate spanish sm1cs_arj002_52036166:
 
     # arj "Oh Fuck... hurha... {w}[mcname]! I'm cumming...."
-    arj "Oh mierda... hurha... {w}[mcname]! Me estoy corriendo..."
+    arj "Oh mierda... hurha... {w}¡[mcname]! Me estoy corriendo..."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:843
 translate spanish sm1cs_arj002_229e63fb:
 
     # arj "You're making me cum all over your amazing dick-hhuaa-rufaaah!"
-    arj "Me estás haciendo correrme por toda tu increíble polla... hhuaa-rufaaah!"
+    arj "Estás haciendo que me corra por toda tu increíble polla... ¡hhuaa-rufaaah!"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:849
 translate spanish sm1cs_arj002_b42913a4:
 
     # arj "Fuccc-kahaa-hraaaiieee!"
-    arj "Fuccc-kahaa-hraaaiieee!"
+    arj "¡Fuccc-kahaa-hraaaiieee!"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:854
 translate spanish sm1cs_arj002_71d29dbf:
@@ -1718,7 +1718,7 @@ translate spanish sm1cs_arj002_ccc74aff:
 translate spanish sm1cs_arj002_d840545e:
 
     # sy "[mcname]! Don't just plow into someone when she's eating a creampie taco."
-    sy "[mcname]! ¡No te lances sobre alguien cuando está comiéndose un taco de crema!"
+    sy "¡[mcname]! ¡No te lances sobre alguien cuando está comiéndose un taco de crema!"
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:904
 translate spanish sm1cs_arj002_8f0dd91e:
@@ -1976,7 +1976,7 @@ translate spanish sm1cs_arj002_6be1d9d8:
 translate spanish sm1cs_arj002_bd550900:
 
     # arj "I've been dreaming about cuddling up and going to sleep with you."
-    arj "He estado soñando con acurrucarme y dormirme contigo."
+    arj "He estado soñando con acurrucarme y quedarme dormida contigo.""
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1038
 translate spanish sm1cs_arj002_67affca7:
@@ -2028,5 +2028,5 @@ translate spanish strings:
 translate spanish sm1cs_arj002_f4e62c7c:
 
     # mct "♪ Reunited and it feels so good. ♪"
-    mct "♪ Reunited and it feels so good. ♪"
+    mct "♪ Reunidos y se siente tan bien.  ♪"
 
