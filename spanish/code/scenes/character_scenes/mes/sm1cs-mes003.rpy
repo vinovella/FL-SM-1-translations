@@ -248,13 +248,13 @@ translate spanish sm1cs_mes003_473f6d41:
 translate spanish sm1cs_mes003_d11a24ca:
 
     # mc "The other tenants don't mind."
-    mc "A los otros inquilinos no les importa."
+    mc "A las otras inquilinas no les importa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:183
 translate spanish sm1cs_mes003_e786c7fc:
 
     # mc "Actually, we encourage snuggle parties if they're up for it."
-    mc "De hecho, les animamos a que se acurruquen si están preparados."
+    mc "De hecho, las animamos a que hagan sesiones de acurrucamiento si les apetece."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:186
 translate spanish sm1cs_mes003_dd51dd89:
@@ -278,7 +278,7 @@ translate spanish sm1cs_mes003_74ea9fda:
 translate spanish sm1cs_mes003_d185b9b4:
 
     # mes "If the mood struck me, I suppose I might."
-    mes "Si el estado de ánimo me sorprendió, supongo que podría."
+    mes "Si me apeteciera, supongo que podría."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:197
 translate spanish sm1cs_mes003_2a287285:
@@ -398,7 +398,7 @@ translate spanish sm1cs_mes003_4aa3ead8:
 translate spanish sm1cs_mes003_4ce9542f:
 
     # mes "Do you remember me telling you that you should make a porn studio?"
-    mes "¿Recuerdas que te dije que deberías hacer un estudio porno?"
+    mes "¿Recuerdas cuando te dije que deberías hacer un estudio porno?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:258
 translate spanish sm1cs_mes003_a5663f54:
@@ -488,7 +488,7 @@ translate spanish sm1cs_mes003_81f3e91e:
 translate spanish sm1cs_mes003_1b53ceb2:
 
     # mes "The buck might have stopped with Lydia, but it was my house where we had a bunch of parties."
-    mes "La pelota podría haber detenido con Lydia, pero fue mi casa donde tuvimos un montón de fiestas."
+    mes "La responsabilidad pudo haber sido solo de Lydia, pero fue en mi casa donde tuvimos un montón de fiestas."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:298
 translate spanish sm1cs_mes003_0ed60dfe:
@@ -776,7 +776,7 @@ translate spanish sm1cs_mes003_continue_99b206f4:
 translate spanish sm1cs_mes003_continue_75ebcf90:
 
     # mc "It won't be. She is open to me being with other girls."
-    mc "No lo será. Ella está abierta a que yo esté con otras chicas."
+    mc "No habrá problemas. Ella está abierta a que yo esté con otras chicas."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:453
 translate spanish sm1cs_mes003_continue_b1add91f:
@@ -914,7 +914,7 @@ translate spanish sm1cs_mes003_sucking_4c8dfac2:
 translate spanish sm1cs_mes003_sucking_40757960:
 
     # mes "I wore them for you."
-    mes "Los usé para ti."
+    mes "Las usé para ti."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:535
 translate spanish sm1cs_mes003_sucking_9ab8442e:
@@ -950,7 +950,7 @@ translate spanish sm1cs_mes003_sucking_28412686:
 translate spanish sm1cs_mes003_sucking_980aa49d:
 
     # mc "You can't say that and grind your naked wet pussy against my cock."
-    mc "No puedes decir eso y moler tu coño mojado desnudo contra mi polla."
+    mc "No puedes decir eso y restregar tu coño mojado desnudo contra mi polla."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:550
 translate spanish sm1cs_mes003_sucking_01888a40:
@@ -962,7 +962,7 @@ translate spanish sm1cs_mes003_sucking_01888a40:
 translate spanish sm1cs_mes003_sucking_3233f1a9:
 
     # mc "Don't play cute."
-    mc "No te hagas el gracioso."
+    mc "No te hagas la graciosa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:554
 translate spanish sm1cs_mes003_sucking_8bd7ac19:
@@ -1118,7 +1118,7 @@ translate spanish sm1cs_mes003_pussy_7c2daef2:
 translate spanish sm1cs_mes003_pussy_75729585:
 
     # mc "I want you to lean over the arm."
-    mc "Quiero que te inclines sobre el brazo."
+    mc "Quiero que te inclines sobre el reposabrazos."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:639
 translate spanish sm1cs_mes003_pussy_271bb311:
@@ -1250,7 +1250,7 @@ translate spanish sm1cs_mes003_pussy_c28d5e2c:
 translate spanish sm1cs_mes003_pussy_8616b220:
 
     # mes "*chuckles* I do. But I'm supposed to be a good girl."
-    mes "*risas* Lo hago. Pero se supone que soy una buena chica."
+    mes "*risas* Lo sé. Pero se supone que soy una buena chica."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:704
 translate spanish sm1cs_mes003_pussy_8575a90a:
@@ -1454,7 +1454,7 @@ translate spanish sm1cs_mes003_after_menu_f41d771a:
 translate spanish sm1cs_mes003_after_menu_46e9b270:
 
     # mc "Better than great."
-    mc "Mejor que genial."
+    mc "Mejor que excelente."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:873
 translate spanish sm1cs_mes003_after_menu_a2a9cf91:
@@ -1496,7 +1496,7 @@ translate spanish sm1cs_mes003_after_menu_a3644427:
 translate spanish sm1cs_mes003_after_menu_1bfaac30:
 
     # mes "After we met at the bar, I started getting worried you wouldn't want to hang out with Mopey Min."
-    mes "Después de que nos conocimos en el bar, me empezó a preocupar que no quisieras pasar el rato con una Min decaída."
+    mes "Después de que nos vimos en el bar, me empezó a preocupar que no quisieras pasar el rato con una Min decaída."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:896
 translate spanish sm1cs_mes003_after_menu_44f78df4:
@@ -1658,7 +1658,7 @@ translate spanish sm1cs_mes003_after_menu_f1d9c00a:
 translate spanish sm1cs_mes003_after_menu_bb72def7:
 
     # sy "She was Queen of Fetish Locator parties after all."
-    sy "Ella era la reina de las fiestas del Localizador de Fetiches después de todo."
+    sy "Ella, después de todo, era la reina de las fiestas del Localizador de Fetiches."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:977
 translate spanish sm1cs_mes003_after_menu_cf1adef2:
