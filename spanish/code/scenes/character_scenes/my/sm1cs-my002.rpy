@@ -68,7 +68,7 @@ translate spanish sm1cs_my002_2ceda6b8:
 translate spanish sm1cs_my002_5ad61693:
 
     # sy "See? I told you she had a thing for you."
-    sy "¿Ves? Te dije que le gustabas."
+    sy "¿Lo ves? Te dije que le gustabas."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:51
 translate spanish sm1cs_my002_4d404aed:
@@ -278,13 +278,13 @@ translate spanish sm1cs_my002_65d6af76:
 translate spanish sm1cs_my002_art_gallery_5b298eb5:
 
     # mct "I hope I sent the right address to Mom..."
-    mct "Espero haber enviado la dirección correcta a mamá..."
+    mct "Espero haberle enviado la dirección correcta a mamá..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:168
 translate spanish sm1cs_my002_art_gallery_153b716c:
 
     # mct "I hope I sent the right address to Melony..."
-    mct "Espero haber enviado la dirección correcta a Melony..."
+    mct "Espero haberle enviado la dirección correcta a Melony..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:169
 translate spanish sm1cs_my002_art_gallery_90dc7f88:
@@ -788,13 +788,13 @@ translate spanish sm1cs_my002_art_gallery_62418335:
 translate spanish sm1cs_my002_art_gallery_5f848b6e:
 
     # mc "And I've loved spending time with you too, Mom."
-    mc "Y a mí me ha encantado pasar tiempo contigo también, mamá."
+    mc "Y a mí también me ha encantado pasar tiempo contigo, mamá."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:437
 translate spanish sm1cs_my002_art_gallery_3ae9bcfb:
 
     # mc "And I've loved spending time with you too, Melony."
-    mc "Y a mí me ha encantado pasar tiempo contigo también, Melony."
+    mc "Y a mí también me ha encantado pasar tiempo contigo, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:440
 translate spanish sm1cs_my002_art_gallery_17165faf:
@@ -1010,13 +1010,13 @@ translate spanish sm1cs_my002_art_gallery_162ba143:
 translate spanish sm1cs_my002_art_gallery_b9da8623:
 
     # mct "God, is it just me... or is she kind of getting horny?"
-    mct "Dios, ¿soy solo yo... o ella se está poniendo un poco caliente?"
+    mct "Dios, ¿soy solo yo... o ella se está excitando un poco?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:564
 translate spanish sm1cs_my002_art_gallery_cc1fb5ea:
 
     # mct "And... is she making me kind of horny?"
-    mct "Y... ¿me está poniendo un poco caliente?"
+    mct "Y... ¿me está poniendo un poco excitado?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:568
 translate spanish sm1cs_my002_art_gallery_b3c89043:
@@ -1208,7 +1208,7 @@ translate spanish sm1cs_my002_art_gallery_9ccf4b28:
 translate spanish sm1cs_my002_art_gallery_d33cd13e:
 
     # my "Well, work intrudes. I'll see you later, 'kay?"
-    my "Bueno, el trabajo interrumpe. Te veo luego, ¿vale?"
+    my "Bueno, el trabajo interrumpe. Te veo luego, ¿de acuerdo?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:664
 translate spanish sm1cs_my002_art_gallery_d667a3ed:
