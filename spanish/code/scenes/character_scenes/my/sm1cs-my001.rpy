@@ -14,7 +14,7 @@ translate spanish sm1cs_my001_78f4d6fe:
 translate spanish sm1cs_my001_97928a99:
 
     # mc "Uh huh. I got myself a hot date tonight."
-    mc "Uh huh. Tengo una cita sensual esta noche."
+    mc "Ajá. Tengo una cita sensual esta noche."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:26
 translate spanish sm1cs_my001_98f81e33:
@@ -182,7 +182,7 @@ translate spanish sm1cs_my001_fc36362a:
 translate spanish sm1cs_my001_d0272e8d:
 
     # mc "Uh huh... and why didn't you just wait to get into the bathroom?"
-    mc "Uh Huh... ¿y por qué no esperaste para entrar al baño?"
+    mc "Ajá... ¿y por qué no esperaste para entrar al baño?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:108
 translate spanish sm1cs_my001_7fe7034c:
@@ -242,7 +242,7 @@ translate spanish sm1cs_my001_92bc6d9c:
 translate spanish sm1cs_my001_bb71598e:
 
     # mc "Two, actually. My date will be joining me shortly."
-    mc "Dos, en realidad. Mi cita se unirá a mí en breve."
+    mc "Para dos, en realidad. Mi cita se unirá a mí en breve."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:143
 translate spanish sm1cs_my001_362122cd:
@@ -266,7 +266,7 @@ translate spanish sm1cs_my001_bb0eeaf4:
 translate spanish sm1cs_my001_a1d800a1:
 
     # "Waiter" "Of course. I will bring you some menus."
-    "Mesero" "Por supuesto. Te traeré algunos menús."
+    "Mesero" "De nada. Le traeré algunos menús."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:158
 translate spanish sm1cs_my001_38235a59:
@@ -368,7 +368,7 @@ translate spanish sm1cs_my001_bb278380:
 translate spanish sm1cs_my001_be33eff5:
 
     # my "Well, at least treated me to a non-business dinner."
-    my "Bueno, al menos me invitó a una cena que no fuera de negocios."
+    my "Bueno, al menos invitarme a una cena que no fuera de negocios."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:211
 translate spanish sm1cs_my001_753c22fe:
@@ -524,7 +524,7 @@ translate spanish sm1cs_my001_a80ced04:
 translate spanish sm1cs_my001_9164576a:
 
     # "Waiter" "Your wine. Would you like to begin tonight with any appetizers? Or straight to the main course."
-    "Mesero" "Su vino. ¿Le gustaría empezar esta noche con algún aperitivo? O directamente con el plato principal."
+    "Mesero" "Aquí tienen sus vinos. ¿Le gustaría empezar con algún aperitivo? ¿O pasamos directamente al plato principal?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:289
 translate spanish sm1cs_my001_63d668f8:
@@ -566,7 +566,7 @@ translate spanish sm1cs_my001_7cd36a8e:
 translate spanish sm1cs_my001_37c12963:
 
     # mc "Uh huh!"
-    mc "¡Uh huh!"
+    mc "¡Ajá!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:313
 translate spanish sm1cs_my001_33c2815e:
@@ -596,7 +596,7 @@ translate spanish sm1cs_my001_df2a13b8:
 translate spanish sm1cs_my001_1c85ab7d:
 
     # my "It's good! It's been fun to go and see some of my old haunts."
-    my "¡Está bien! Ha sido divertido ir a ver algunos de mis viejos lugares."
+    my "Ha sido divertido ir a ver algunos de mis viejos lugares."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:332
 translate spanish sm1cs_my001_49e397d1:
@@ -746,13 +746,13 @@ translate spanish sm1cs_my001_8df3700e:
 translate spanish sm1cs_my001_5c9c2dd2:
 
     # mc "Of course, Mom."
-    mc "Por supuesto, mamá."
+    mc "De nada, mamá."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:398
 translate spanish sm1cs_my001_6298931c:
 
     # mc "Of course, Melony."
-    mc "Por supuesto, Melony."
+    mc "De nada, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:402
 translate spanish sm1cs_my001_04dbe6ac:
@@ -782,7 +782,7 @@ translate spanish sm1cs_my001_840783b0:
 translate spanish sm1cs_my001_4eadc533:
 
     # mc "Neither can I."
-    mc "Yo tampoco yo."
+    mc "Yo tampoco lo recuerdo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:419
 translate spanish sm1cs_my001_b0b4b5c3:
@@ -950,7 +950,7 @@ translate spanish sm1cs_my001_043b25c6:
 translate spanish sm1cs_my001_22767a52:
 
     # my "Nope. To the beginning of the hunt."
-    my "No. Al comienzo de la cacería."
+    my "No. El comienzo de la cacería."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:494
 translate spanish sm1cs_my001_b2b9e19d_1:
@@ -1088,7 +1088,7 @@ translate spanish sm1cs_my001_ac0ee4ac:
 translate spanish sm1cs_my001_1f6f9af5:
 
     # mc "You never could."
-    mc "Nunca podrías."
+    mc "Nunca podrías aburrirme."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:556
 translate spanish sm1cs_my001_7e2aecd7:
@@ -1208,7 +1208,7 @@ translate spanish sm1cs_my001_0462e523:
 translate spanish sm1cs_my001_2cb43627:
 
     # mc "When it comes to you? Never."
-    mc "¿Cuando se trata de ti? Nunca."
+    mc "¿Cuándo se trata de ti? Nunca."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:621
 translate spanish sm1cs_my001_2dffede9:
@@ -1244,7 +1244,7 @@ translate spanish sm1cs_my001_5c9c2dd2_1:
 translate spanish sm1cs_my001_6298931c_1:
 
     # mc "Of course, Melony."
-    mc "Por supuesto, Melony."
+    mc "De nada, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:639
 translate spanish sm1cs_my001_78afa441:
