@@ -176,7 +176,7 @@ translate spanish sm1ms023_a4dfa9a7:
 translate spanish sm1ms023_00d0de41:
 
     # sy "And yeah, that's most of the video editing to do. I mean, there's definitely some more fine tuning I want to do, but-"
-    sy "Y sí, eso es la mayor parte de la edición. Queda un poco de puliendo el montaje que quiero hacer, pero—"
+    sy "Y sí, eso es la mayor parte de la edición del video. Quedan definitivamente más detalles que pulir, pero—"
 
 # game/code/scenes/main_story/sm1ms023.rpy:121
 translate spanish sm1ms023_21b35f3d:
