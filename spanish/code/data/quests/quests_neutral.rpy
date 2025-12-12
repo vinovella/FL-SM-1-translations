@@ -238,7 +238,7 @@ translate spanish strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Show the edited video to Lyssa"
-    new "Muestra el vídeo editado a Lyssa"
+    new "Muestra el video editado a Lyssa"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Min in the bar"
@@ -418,7 +418,7 @@ translate spanish strings:
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk with Stacy to borrow her laptop for editing Lyssa's video"
-    new "Habla con Stacy para pedirle prestado su portátil para editar el vídeo de Lyssa"
+    new "Habla con Stacy para pedirle prestado su portátil para editar el video de Lyssa"
 
     # game/code/data/quests/quests_neutral.rpy:4
     old "Talk to Debbie in the park"
