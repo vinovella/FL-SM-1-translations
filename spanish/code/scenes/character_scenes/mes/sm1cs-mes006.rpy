@@ -218,7 +218,7 @@ translate spanish sm1cs_mes006_490f3e16:
 translate spanish sm1cs_mes006_e56fdf21:
 
     # mes "I love feeling you play with my slutty pussy."
-    mes "Me encanta sentir cómo juegas con mi coño tan atrevido."
+    mes "Me encanta sentir cómo juegas con mi coño vicioso."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:199
 translate spanish sm1cs_mes006_cdfd67d0:
@@ -716,7 +716,7 @@ translate spanish sm1cs_mes006_19e33e24:
 translate spanish sm1cs_mes006_608da802:
 
     # mc "Great game. It's called 'Boss Dungeon'."
-    mc "Gran juego. Se llama 'Boss Dungeon'."
+    mc "Es un gran juego. Se llama 'Boss Dungeon'."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:415
 translate spanish sm1cs_mes006_924a8a9f:
@@ -1028,7 +1028,7 @@ translate spanish sm1cs_mes006_continue_dae18a54:
 translate spanish sm1cs_mes006_continue_2fc9b2d4:
 
     # mes "Timefreeze. Next player's turn is skipped."
-    mes "Timefreeze. Se salta el turno del siguiente jugador."
+    mes "Congelación del Tiempo. Se salta el turno del siguiente jugador."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:575
 translate spanish sm1cs_mes006_continue_11455b53:
@@ -1118,7 +1118,7 @@ translate spanish sm1cs_mes006_continue_7c8fa29f:
 translate spanish sm1cs_mes006_continue_087bf285:
 
     # mes "I play Archmaester. For every two magic items in my dungeon, I get a soul."
-    mes "Juego Archmaester. Por cada dos objetos mágicos en mi mazmorra, obtengo un alma."
+    mes "Juego Archimaestre. Por cada dos objetos mágicos en mi mazmorra, obtengo un alma."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:622
 translate spanish sm1cs_mes006_continue_382db91f:
@@ -1376,7 +1376,7 @@ translate spanish sm1cs_mes006_continue_24e2b880:
 translate spanish sm1cs_mes006_continue_d3ac7778:
 
     # mes "This has been a lot of fun you two."
-    mes "Esto ha sido muy divertido, ustedes dos."
+    mes "Ha sido muy divertido jugar con ustedes."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:749
 translate spanish sm1cs_mes006_continue_6d2a623d:
@@ -2390,7 +2390,7 @@ translate spanish sm1cs_mes006_continue_f6482203:
 translate spanish sm1cs_mes006_continue_c31baec9:
 
     # sy "He's a fucking amazing guy."
-    sy "Él es un tipo increíble de verdad."
+    sy "Él es un chico increíble de verdad."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1247
 translate spanish sm1cs_mes006_continue_19405a17:
@@ -2444,7 +2444,7 @@ translate spanish sm1cs_mes006_continue_3842551a:
 translate spanish sm1cs_mes006_continue_4c474999:
 
     # mes "Not enough to stop you from tonguing my breadbox like that, though."
-    mes "Pero no lo suficiente como para detenerte de lamerme así allí abajo."
+    mes "Pero no lo suficiente como para detenerte de lamerme allí abajo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1270
 translate spanish sm1cs_mes006_continue_d39a3150:
@@ -2882,7 +2882,7 @@ translate spanish sm1cs_mes006_water_sports_98bfe6ac:
 translate spanish sm1cs_mes006_water_sports_083a3f0f:
 
     # mct "I have two sexy foxes here and both are into pissplay."
-    mct "Tengo a dos mujeres sexys aquí y a ambas les gusta el juego de orina."
+    mct "Tengo a dos mujeres sexys aquí y a las dos les gusta el juego de orina."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1483
 translate spanish sm1cs_mes006_water_sports_4af11d01:
@@ -3170,7 +3170,7 @@ translate spanish sm1cs_mes006_after_wp_73ecc4f8:
 translate spanish sm1cs_mes006_after_wp_f2bc4c55:
 
     # sy "Don't you look fabulous."
-    sy "Te ves simplemente fabuloso."
+    sy "Te ves simplemente fabulosa."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1644
 translate spanish sm1cs_mes006_after_wp_f5565075:
@@ -3644,7 +3644,7 @@ translate spanish sm1cs_mes006_continue_3e2044ca:
 translate spanish sm1cs_mes006_continue_35dadad0:
 
     # mc "But it sounds like you're not opposed to the idea of staying here. Even with me and Stacy hooking up."
-    mc "Pero parece que no te opones a la idea de quedarte aquí. Incluso conmigo y Stacy liándonos."
+    mc "Pero parece que no te opones a la idea de quedarte aquí. Incluso conmigo y Stacy estando juntos."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1244
 translate spanish sm1cs_mes006_continue_22b1ff20:
