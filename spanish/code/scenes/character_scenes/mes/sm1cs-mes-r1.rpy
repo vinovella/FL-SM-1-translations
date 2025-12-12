@@ -308,7 +308,7 @@ translate spanish sm1cs_mes_r1_gentle_0e91c0e7:
 translate spanish sm1cs_mes_r1_gentle_bc270209:
 
     # mes "Inside... Please, I need you inside me..."
-    mes "Adentro... Por favor, te necesito dentro de mí..."
+    mes "Dentro... Por favor, te necesito dentro de mí..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:158
 translate spanish sm1cs_mes_r1_gentle_e1692be3:
@@ -350,7 +350,7 @@ translate spanish sm1cs_mes_r1_gentle_a4262c0c:
 translate spanish sm1cs_mes_r1_gentle_c3f1f9af:
 
     # mc "Not yet. You need to ask me nicely if you can cum."
-    mc "Aún no. Tienes que pedirme amablemente si puedes venirte."
+    mc "Aún no. Tienes que pedirme amablemente si puedes correrte."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:170
 translate spanish sm1cs_mes_r1_gentle_a1b6b708:
@@ -386,7 +386,7 @@ translate spanish sm1cs_mes_r1_gentle_732d28b5:
 translate spanish sm1cs_mes_r1_gentle_e3787632:
 
     # mes "Please let me cum! I'll do anything, I just need to cum on your fingers!"
-    mes "¡Por favor, déjame venirme! ¡Haré lo que sea, solo necesito correrme en tus dedos!"
+    mes "¡Por favor, deja que me corra! ¡Haré lo que sea, solo necesito correrme en tus dedos!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:180
 translate spanish sm1cs_mes_r1_gentle_7a6131c6:
@@ -416,7 +416,7 @@ translate spanish sm1cs_mes_r1_gentle_7f74d3aa:
 translate spanish sm1cs_mes_r1_rough_c09b2fcd:
 
     # mc "You cum when I say you can cum. Understand?"
-    mc "Te vienes cuando yo diga que puedes venirte. ¿Entendido?"
+    mc "Te corres cuando yo diga que puedes correrte. ¿Entendido?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:195
 translate spanish sm1cs_mes_r1_rough_019caf97:
@@ -440,7 +440,7 @@ translate spanish sm1cs_mes_r1_rough_717675e1:
 translate spanish sm1cs_mes_r1_rough_cf5ecd4c:
 
     # mc "That's right. My slut. My toy. My fuckmeat."
-    mc "Así es. Mi zorra. Mi juguete. Mi carne para follar."
+    mc "Así es. Mi zorra. Mi juguete. Mi carne follable."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:202
 translate spanish sm1cs_mes_r1_rough_63a3d7ec:
@@ -482,7 +482,7 @@ translate spanish sm1cs_mes_r1_rough_af0d1b57:
 translate spanish sm1cs_mes_r1_rough_4473cbed:
 
     # mes "Please! Please let me cum! I can't take it anymore!"
-    mes "¡Por favor! ¡Por favor, déjame venirme! ¡No puedo soportarlo más!"
+    mes "¡Por favor! ¡Por favor, deja que me corra! ¡No puedo soportarlo más!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:215
 translate spanish sm1cs_mes_r1_rough_ba53ba24:
@@ -494,7 +494,7 @@ translate spanish sm1cs_mes_r1_rough_ba53ba24:
 translate spanish sm1cs_mes_r1_rough_a5cc0d96:
 
     # mes "Please, Sir, please, I'll do anything! I need to cum so badly it hurts!"
-    mes "¡Por favor, Señor, por favor, haré lo que sea! ¡Necesito venirme tanto que duele!"
+    mes "¡Por favor, Señor, por favor, haré lo que sea! ¡Necesito correrme tanto que duele!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:218
 translate spanish sm1cs_mes_r1_rough_321cb3fa:
@@ -590,7 +590,7 @@ translate spanish sm1cs_mes_r1_continue_2_b733e938:
 translate spanish sm1cs_mes_r1_continue_2_f84f0209:
 
     # mes "I can feel every inch of your cock..."
-    mes "Puedo sentir cada centímetro de tu verga..."
+    mes "Puedo sentir cada centímetro de tu polla..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:257
 translate spanish sm1cs_mes_r1_continue_2_2354e54b:
@@ -608,7 +608,7 @@ translate spanish sm1cs_mes_r1_continue_2_ff660674:
 translate spanish sm1cs_mes_r1_continue_2_bdf2f494:
 
     # mc "Tell me when you're close. I want to feel you cum on my cock."
-    mc "Dime cuando estés cerca. Quiero sentir como te vienes en mi polla."
+    mc "Dime cuando estés cerca. Quiero sentir como te corres en mi polla."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:263
 translate spanish sm1cs_mes_r1_continue_2_7e1abf72:
@@ -626,7 +626,7 @@ translate spanish sm1cs_mes_r1_continue_2_180d931d:
 translate spanish sm1cs_mes_r1_continue_2_5c3c13ab:
 
     # mes "Please... Please can I cum for you?"
-    mes "Por favor... ¿Por favor puedo venirme para ti?"
+    mes "Por favor... ¿Por favor puedo correrme para ti?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:268
 translate spanish sm1cs_mes_r1_continue_2_bdb47ec0:
@@ -638,7 +638,7 @@ translate spanish sm1cs_mes_r1_continue_2_bdb47ec0:
 translate spanish sm1cs_mes_r1_continue_2_0ea26190:
 
     # mes "Yes yes yes—! I'm cumming!"
-    mes "¡Sí sí sí...! ¡Me estoy viniendo!"
+    mes "¡Sí sí sí...! ¡Me estoy corriendo!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:271
 translate spanish sm1cs_mes_r1_continue_2_2dc2be00:
@@ -668,7 +668,7 @@ translate spanish sm1cs_mes_r1_continue_2_02a94b38:
 translate spanish sm1cs_mes_r1_continue_2_bcf6dc45:
 
     # mc "Such a desperate slut. You love being split open on my cock, don't you?"
-    mc "Qué zorra tan desesperada. Te encanta ser abierta por mi verga, ¿verdad?"
+    mc "Qué zorra tan desesperada. Te encanta ser abierta por mi polla, ¿verdad?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:281
 translate spanish sm1cs_mes_r1_continue_2_d344d28b:
@@ -680,7 +680,7 @@ translate spanish sm1cs_mes_r1_continue_2_d344d28b:
 translate spanish sm1cs_mes_r1_continue_2_1548728f:
 
     # mes "I'm going to cum... Fuck, I'm going to cum on your cock..."
-    mes "Me voy a venir... Joder, me voy a venir en tu polla..."
+    mes "Me voy a correr... Joder, me voy a correr en tu polla..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:284
 translate spanish sm1cs_mes_r1_continue_2_70e7de7c:
@@ -698,13 +698,13 @@ translate spanish sm1cs_mes_r1_continue_2_6e696c08:
 translate spanish sm1cs_mes_r1_continue_2_2bcd9664:
 
     # mc "You'll cum when your body can't take anymore. Not before."
-    mc "Te vendrás cuando tu cuerpo no pueda aguantar más. No antes."
+    mc "Te correrás cuando tu cuerpo no pueda aguantar más. No antes."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:289
 translate spanish sm1cs_mes_r1_continue_2_10685b38:
 
     # mes "Please please please let me cum!"
-    mes "¡Por favor por favor por favor déjame venirme!"
+    mes "¡Por favor por favor por favor deja que me corra!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:291
 translate spanish sm1cs_mes_r1_continue_2_5397f96e:
@@ -800,7 +800,7 @@ translate spanish sm1cs_mes_r1_continue_2_e2f39227:
 translate spanish sm1cs_mes_r1_continue_2_a11238a3:
 
     # mc "You can cum whenever you need to. You've been such a good girl."
-    mc "Puedes venirte cuando necesites hacerlo. Has sido una chica tan buena."
+    mc "Puedes correrte cuando necesites hacerlo. Has sido una chica tan buena."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:334
 translate spanish sm1cs_mes_r1_continue_2_ab098e49:
@@ -812,7 +812,7 @@ translate spanish sm1cs_mes_r1_continue_2_ab098e49:
 translate spanish sm1cs_mes_r1_continue_2_863b39e6:
 
     # mes "Oh... oh god... I'm going to cum again..."
-    mes "Oh... oh dios... Me voy a venir otra vez..."
+    mes "Oh... oh dios... Me voy a correr otra vez..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:337
 translate spanish sm1cs_mes_r1_continue_2_e88e1148:
@@ -872,7 +872,7 @@ translate spanish sm1cs_mes_r1_continue_2_25e5a3b4:
 translate spanish sm1cs_mes_r1_continue_2_2ec75625:
 
     # mc "Cum for me. Now."
-    mc "Vente para mí. Ahora."
+    mc "Córrete para mí. Ahora."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:361
 translate spanish sm1cs_mes_r1_continue_2_15bf10cf:
@@ -890,7 +890,7 @@ translate spanish sm1cs_mes_r1_continue_2_8c12302b:
 translate spanish sm1cs_mes_r1_continue_2_460cdcd6:
 
     # mes "I can't stop... I can't stop cumming..."
-    mes "No puedo parar... No puedo parar de venirme..."
+    mes "No puedo parar... No puedo parar de correrme..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:377
 translate spanish sm1cs_mes_r1_watersports_6c895d65:
@@ -1184,7 +1184,7 @@ translate spanish sm1cs_mes_r1_watersports_928d436a:
 translate spanish sm1cs_mes_r1_watersports_6b93da5f:
 
     # mc "Fuck, Min... I'm going to cum..."
-    mc "Mierda, Min... Me voy a venir..."
+    mc "Mierda, Min... Voy a correrme..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:495
 translate spanish sm1cs_mes_r1_watersports_9259e840:
@@ -1196,13 +1196,13 @@ translate spanish sm1cs_mes_r1_watersports_9259e840:
 translate spanish sm1cs_mes_r1_watersports_650214f7:
 
     # mes "Cum wherever you want!"
-    mes "¡Vente donde quieras!"
+    mes "¡Córrete donde quieras!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:501
 translate spanish sm1cs_mes_r1_watersports_c28ffd80:
 
     # mes "Inside! Yes! Cum inside me right now!"
-    mes "¡Adentro! ¡Sí! ¡Vente dentro de mí ahora mismo!"
+    mes "¡Dentro! ¡Sí! ¡Córrete dentro de mí ahora mismo!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:503
 translate spanish sm1cs_mes_r1_watersports_9ca215c0:
@@ -1292,7 +1292,7 @@ translate spanish sm1cs_mes_r1_watersports_31eb4aa2:
 translate spanish sm1cs_mes_r1_watersports_afc7c703:
 
     # mes "Really? Don't fucking tease me, [mcname]."
-    mes "¿En serio? No me jodas con esto, [mcname]."
+    mes "¿En serio? No me molestes con esto, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:544
 translate spanish sm1cs_mes_r1_watersports_da4faeb5:
@@ -1352,7 +1352,7 @@ translate spanish sm1cs_mes_r1_watersports_f00d107f:
 translate spanish sm1cs_mes_r1_continue_3_8dcebcf5:
 
     # mc "Fuck, Min... I'm about to... I'm gonna cum!"
-    mc "Mierda, Min... Estoy a punto de... ¡Me voy a venir!"
+    mc "Mierda, Min... Estoy a punto de... ¡Me voy a correr!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:584
 translate spanish sm1cs_mes_r1_continue_3_c9fa99d7:
@@ -1364,7 +1364,7 @@ translate spanish sm1cs_mes_r1_continue_3_c9fa99d7:
 translate spanish sm1cs_mes_r1_continue_3_7041054b:
 
     # mes "Inside! Yes! Fill my pussy up! Breed me!"
-    mes "¡Adentro! ¡Sí! ¡Llena mi coño! ¡Embarázame!"
+    mes "¡Dentro! ¡Sí! ¡Llena mi coño! ¡Embarázame!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:590
 translate spanish sm1cs_mes_r1_continue_3_0df5e1d5:
@@ -1598,7 +1598,7 @@ translate spanish sm1cs_mes_r1_end_07b4a36e:
 translate spanish sm1cs_mes_r1_end_be79f79f:
 
     # mc "Min, you drank my piss and then came while pissing yourself. I'm the luckiest pervert alive."
-    mc "Min, bebiste mi orina y luego te viniste mientras te orinabas. Soy el pervertido más afortunado del mundo."
+    mc "Min, bebiste mi orina y luego te corriste mientras te orinabas. Soy el pervertido más afortunado del mundo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:688
 translate spanish sm1cs_mes_r1_end_b3af390f:
@@ -1700,11 +1700,11 @@ translate spanish strings:
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:498
     old "I'm cumming inside you"
-    new "Me vengo dentro de ti"
+    new "Me corro dentro de ti"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:498
     old "I'm cumming on your face"
-    new "Me vengo en tu cara"
+    new "Me corro en tu cara"
 
     # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:537
     old "Pee on me"
@@ -1726,7 +1726,7 @@ translate spanish strings:
 translate spanish sm1cs_mes_r1_continue_2_d9861589:
 
     # mc "Yes you can. Cum again or I'll keep fucking you like this for hours."
-    mc "Sí, puedes. Vente otra vez o seguiré follándote así durante horas."
+    mc "Sí, puedes. Córrete otra vez o seguiré follándote así durante horas."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:305
 translate spanish sm1cs_mes_r1_continue_2_3151895e:
@@ -1738,13 +1738,13 @@ translate spanish sm1cs_mes_r1_continue_2_3151895e:
 translate spanish sm1cs_mes_r1_initiator_0e8ab82c:
 
     # mes "...이게 무슨 개소리야..."
-    mes "...이게 무슨 개소리야..."
+    mes "...이게 무슨 개소리야 (¿Qué clase de tontería es esta?)"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:758
 translate spanish sm1cs_mes_r1_watersports_3108adbd:
 
     # mes "I need your piss all over me. Make me your dirty little piss slut."
-    mes "Necesito tu orina sobre mí. Hazme tu pequeña puta sucia de meados."
+    mes "Necesito tu orina sobre mí. Hazme tu pequeña puta sucia de orina."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:1194
 translate spanish sm1cs_mes_r1_end_3c9bdbc5:
