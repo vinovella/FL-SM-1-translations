@@ -38,7 +38,7 @@ translate spanish sm1cs_cw003_fe990ae9:
 translate spanish sm1cs_cw003_cd015957:
 
     # mc "So first she pretends like we're going to this business meeting."
-    mc "Entonces, primero ella finge que vamos a esta reunión de negocios."
+    mc "Bueno, primero ella finge que vamos a esta reunión de negocios."
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:29
 translate spanish sm1cs_cw003_bd050eec:
@@ -254,7 +254,7 @@ translate spanish sm1cs_cw003_continue_b5c47e53:
 translate spanish sm1cs_cw003_continue_e140d87b:
 
     # mct "But completely different than how I've seen her before before."
-    mct "Pero completamente diferente de cómo la he visto antes antes."
+    mct "Pero completamente diferente de cómo la he visto antes."
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:157
 translate spanish sm1cs_cw003_continue_107952e3:
@@ -278,7 +278,7 @@ translate spanish sm1cs_cw003_continue_216d89da:
 translate spanish sm1cs_cw003_continue_97f3676a:
 
     # sy "Apart from the whole Lydia being a supervillain in training, I agree."
-    sy "Aparte de lo de que Lydia es una supervillana en prácticas, estoy de acuerdo."
+    sy "Aparte de que Lydia es una supervillana en prácticas, estoy de acuerdo."
 
 # game/code/scenes/it_office/cw/sm1cs-cw003.rpy:172
 translate spanish sm1cs_cw003_continue_df324199:
