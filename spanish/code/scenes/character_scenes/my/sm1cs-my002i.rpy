@@ -32,5 +32,5 @@ translate spanish sm1cs_my002i_7c8bee12:
 translate spanish sm1cs_my002i_368a3c1b:
 
     # sy "Ugh, I need more coffee for this..."
-    sy "Ugh, necesito más café para esto..."
+    sy "Uf, necesito más café para esto..."
 
