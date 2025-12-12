@@ -26,7 +26,7 @@ translate spanish sm1cs_cw004i_f06105b6:
 translate spanish sm1cs_cw004i_e6133508:
 
     # cw "Actually, yes. I need you to meet me Friday, here at the office."
-    cw "Sí. Necesito que te reúnes conmigo el viernes, aquí en la oficina."
+    cw "Sí. Necesito que te reúnas conmigo el viernes, aquí en la oficina."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004i.rpy:18
 translate spanish sm1cs_cw004i_8f007436:
