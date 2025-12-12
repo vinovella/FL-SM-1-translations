@@ -92,7 +92,7 @@ translate spanish sm1cs_mas004_a140104e:
 translate spanish sm1cs_mas004_d94cafd4:
 
     # nr "As partners, I can at least hope for mutually assured competence."
-    nr "Como compañeros, al menos puedo esperar una competencia mutuamente asegurada."
+    nr "Como compañeros, al menos puedo esperar una capacidad mutuamente asegurada."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:60
 translate spanish sm1cs_mas004_545b1ff6:
@@ -170,7 +170,7 @@ translate spanish sm1cs_mas004_after_lunch_be6fc98d:
 translate spanish sm1cs_mas004_after_lunch_d835f30b:
 
     # mc "Welcome to Wurst Delivery!"
-    mc "¡Bienvenidos a Wurst Delivery!"
+    mc "¡Bienvenido a Wurst Delivery!"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:137
 translate spanish sm1cs_mas004_after_lunch_30722811:
@@ -1082,7 +1082,7 @@ translate spanish sm1cs_mas004_after_lunch_b17185a3:
 translate spanish sm1cs_mas004_after_lunch_c7c795fa:
 
     # ms "*breathless, trembling* Fuck... No one's made me cum like that in...a long time."
-    ms "*sin aliento, temblando* Joder... Nadie me ha hecho venir así en... mucho tiempo."
+    ms "*sin aliento, temblando* Joder... Nadie ha hecho que me corriera así en... mucho tiempo."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:739
 translate spanish sm1cs_mas004_after_lunch_db5a9eb4:
@@ -1238,7 +1238,7 @@ translate spanish sm1cs_mas004_after_lunch_52c451c7:
 translate spanish sm1cs_mas004_after_lunch_6860b2a7:
 
     # ms "*throaty purring* Cum on my face."
-    ms "*ronroneo gutural* Vente en mi cara."
+    ms "*ronroneo gutural* Córrete en mi cara."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:801
 translate spanish sm1cs_mas004_after_lunch_01824681:
@@ -1540,5 +1540,5 @@ translate spanish sm1cs_mas004_after_lunch_f378cc8e:
 translate spanish sm1cs_mas004_after_lunch_fdf6afe0:
 
     # ms "*raw moaning* Fuck...yes."
-    ms "*raw moaning* Fuck...yes."
+    ms "*gemido crudo* ¡Joder... sí!"
 
