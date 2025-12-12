@@ -188,13 +188,13 @@ translate spanish sm1cs_my003_bb17b68f:
 translate spanish sm1cs_my003_at_gym_1e2fb88f:
 
     # mct "Oh man... this is going to be a workout..."
-    mct "Oh hombre... esto va a ser un buen ejercicio..."
+    mct "Oh vaya... esto va a ser un buen ejercicio..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:133
 translate spanish sm1cs_my003_at_gym_b8b806e1:
 
     # my "Are you excited, [mcname]!?"
-    my "¿Estás emocionado, [mcname]!?"
+    my "¿¡Estás emocionado, [mcname]!?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:136
 translate spanish sm1cs_my003_at_gym_8c3bd5f5:
@@ -512,7 +512,7 @@ translate spanish sm1cs_my003_at_gym_7df2d8c0:
 translate spanish sm1cs_my003_at_gym_d4c9953f:
 
     # my "Well, how about you just help me finish my stretching, 'kay?"
-    my "Bueno, ¿qué tal si solo me ayudas a terminar mis estiramientos, vale?"
+    my "Bueno, ¿qué tal si solo me ayudas a terminar mis estiramientos?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:287
 translate spanish sm1cs_my003_at_gym_c0e6c520:
@@ -704,7 +704,7 @@ translate spanish sm1cs_my003_at_gym_276a969c:
 translate spanish sm1cs_my003_at_gym_8a471dff:
 
     # mc "What po-"
-    mc "¿Qué po-"
+    mc "¿Qué po-?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:374
 translate spanish sm1cs_my003_at_gym_df1cd57b:
@@ -848,7 +848,7 @@ translate spanish sm1cs_my003_at_gym_dc2685fc:
 translate spanish sm1cs_my003_at_gym_e5f9ae37:
 
     # my "Mmmhmmm! The route I take. And if I get stuck, you can help guide me to the top."
-    my "¡Mmmhmmm! La ruta que tomo. Y si me quedo atascada, puedes ayudarme a guiarme hasta arriba."
+    my "¡Mmmhmmm! La ruta que tomo. Y si me quedo atascada, me puedes ayudar y guiarme hasta arriba."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:435
 translate spanish sm1cs_my003_at_gym_6dbe01ad:
@@ -932,7 +932,7 @@ translate spanish sm1cs_my003_at_gym_ca323829:
 translate spanish sm1cs_my003_at_gym_b5d06c4c:
 
     # mct "Man, I have no idea what I'm doing..."
-    mct "Hombre, no tengo idea de lo que estoy haciendo..."
+    mct "Vaya, no tengo idea de lo que estoy haciendo..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:471
 translate spanish sm1cs_my003_at_gym_a3726a70:
@@ -1208,7 +1208,7 @@ translate spanish sm1cs_my003_continue_ea006630:
 translate spanish sm1cs_my003_continue_8835a04a:
 
     # my "Yay! Okay! Back to the bottom!"
-    my "¡Hurra! ¡Bien! ¡De vuelta abajo!"
+    my "¡Hurra! ¡Bien! ¡Bajemos de nuevo!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:598
 translate spanish sm1cs_my003_continue_18206bf0:
@@ -1220,7 +1220,7 @@ translate spanish sm1cs_my003_continue_18206bf0:
 translate spanish sm1cs_my003_continue_7b33da01:
 
     # my "Wow, [mcname]! I'm impressed!"
-    my "¡Wow, [mcname]! ¡Estoy impresionada!"
+    my "¡Vaya, [mcname]! ¡Estoy impresionada!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:619
 translate spanish sm1cs_my003_continue_ee87e6f3:
@@ -1280,7 +1280,7 @@ translate spanish sm1cs_my003_continue_870c9d4e:
 translate spanish sm1cs_my003_continue_edc744db:
 
     # mc "What! No! No! I'm, uhm, just saying that you've got more {i}climbing{/i} experience!"
-    mc "¡Qué! ¡No! ¡No! Solo, ehm, estoy diciendo que tienes más experiencia {i}escalando{/i}!"
+    mc "¡Qué! ¡No! ¡No! ¡Solo, ehm, estoy diciendo que tienes más experiencia {i}escalando{/i}!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:647
 translate spanish sm1cs_my003_continue_b248e2f9:
@@ -1562,7 +1562,7 @@ translate spanish sm1cs_my003_continue_214d8105:
 translate spanish sm1cs_my003_continue_0a5fc1f8:
 
     # my "Me too, [mcname]."
-    my "Yo también, [mcname]."
+    my "También a mí, [mcname]."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:786
 translate spanish sm1cs_my003_continue_b833da70:
