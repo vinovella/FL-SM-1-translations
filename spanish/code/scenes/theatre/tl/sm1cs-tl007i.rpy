@@ -14,7 +14,7 @@ translate spanish sm1cs_tl007i_b3ae8984:
 translate spanish sm1cs_tl007i_165d6c9c:
 
     # mc "Well the studio is all renovated, so... whenever?"
-    mc "Bueno, el estudio ya está renovado, así que... ¿cuando quieras?"
+    mc "Bueno, el estudio ya está renovado, así que... ¿cuándo quieras?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl007i.rpy:10
 translate spanish sm1cs_tl007i_80cc65ef:
