@@ -20,7 +20,7 @@ translate spanish sm1cs_mes004_05500ff6:
 translate spanish sm1cs_mes004_6f2ab742:
 
     # mes "Promise not to laugh, [mcname]."
-    mes "Promete no reírte, [mcname]."
+    mes "Prometes no reírte, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:26
 translate spanish sm1cs_mes004_8248d78c:
@@ -272,7 +272,7 @@ translate spanish sm1cs_mes004_bar_ac3be018:
 translate spanish sm1cs_mes004_bar_75f24c9d:
 
     # mc "Huh? You want more of that poison?"
-    mc "¿Eh? ¿Quieres más de ese veneno?"
+    mc "¿Eh? ¿Quieres más de este veneno?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:179
 translate spanish sm1cs_mes004_bar_71096df4:
@@ -440,7 +440,7 @@ translate spanish sm1cs_mes004_after_dance_e943c8ec:
 translate spanish sm1cs_mes004_after_dance_2b198cc3:
 
     # mc "Took it. Bold Min was bold."
-    mc "La tomaste. Min, la atrevida, fue atrevida."
+    mc "La tomaste. Min se atrevió, y mucho."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:310
 translate spanish sm1cs_mes004_after_dance_1935b3e5:
@@ -920,7 +920,7 @@ translate spanish sm1cs_mes004_street_300d046a:
 translate spanish sm1cs_mes004_street_e608d496:
 
     # mes "I'm a lucky girl to have you in my life, [mcname]."
-    mes "Soy una chica afortunada de tenerte en mi vida, [mcname]."
+    mes "Soy una chica afortunada por tenerte en mi vida, [mcname]."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:552
 translate spanish sm1cs_mes004_street_76d80c2d:
