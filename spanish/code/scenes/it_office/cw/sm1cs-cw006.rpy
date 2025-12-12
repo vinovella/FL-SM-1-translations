@@ -146,7 +146,7 @@ translate spanish sm1cs_cw006_e4a67b63:
 translate spanish sm1cs_cw006_d8cf6821:
 
     # mc "It has its perks."
-    mc "Tiene sus ventajas."
+    mc "Tiene sus beneficios."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:119
 translate spanish sm1cs_cw006_7d626aa1:
@@ -686,7 +686,7 @@ translate spanish sm1cs_cw006_onramp_1a_6ab976d6:
 translate spanish sm1cs_cw006_onramp_1a_31f4de02:
 
     # cw "I see your disappointment, and I witness it."
-    cw "Veo tu decepción, y la reconozco."
+    cw "Veo tu decepción, y lo reconozco."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:387
 translate spanish sm1cs_cw006_onramp_1a_9cfbe5a0:
@@ -758,7 +758,7 @@ translate spanish sm1cs_cw006_onramp_1a_07abf13f:
 translate spanish sm1cs_cw006_onramp_1a_1e1f85a7:
 
     # cw "On a purely trial basis, of course."
-    cw "En un período de prueba, por supuesto, puramente."
+    cw "En un período de prueba, por supuesto."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:417
 translate spanish sm1cs_cw006_onramp_1a_8b9f9a98:
@@ -842,7 +842,7 @@ translate spanish sm1cs_cw006_onramp_1a_e5dcba21:
 translate spanish sm1cs_cw006_onramp_1a_6d4e55d7:
 
     # cw "I've actually already printed out all the documents, so we can adjust them as needed."
-    cw "De hecho, ya he impreso todos los documentos, so we can adjust them as needed."
+    cw "De hecho, ya he impreso todos los documentos, así que podemos ajustarlos según sea necesario."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:446
 translate spanish sm1cs_cw006_onramp_1a_dfa55c86:
@@ -1441,7 +1441,7 @@ translate spanish sm1cs_cw006_eat_pussy_e5dc7f93:
 translate spanish sm1cs_cw006_eat_pussy_4d80327a:
 
     # cw "Just {i}Claire{/i} will do..."
-    cw "Solo {i}Claire{/i} bastará..."
+    cw "Solo {i}Claire{/i} está bien..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:739
 translate spanish sm1cs_cw006_eat_pussy_2656c29d:
@@ -1519,7 +1519,7 @@ translate spanish sm1cs_cw006_at_desk_53d45c14:
 translate spanish sm1cs_cw006_at_desk_63d5eef7:
 
     # mc "Maybe you're not as good as you think you are."
-    mc "Quizás no eres tan bueno como crees."
+    mc "Quizás no eres tan buena como crees."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:785
 translate spanish sm1cs_cw006_at_desk_75d88743:
