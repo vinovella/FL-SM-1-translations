@@ -2,7 +2,7 @@
 translate spanish sm1cs_mes007_4e6816da:
 
     # mes "Moving day. Ready to put those long legs to good use."
-    mes "Día de mudanza. Lista para poner esas piernas largas en buen uso."
+    mes "Día de mudanza. Listo para darle a esas piernas largas un buen uso."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:33
 translate spanish sm1cs_mes007_f800bed0:
@@ -164,7 +164,7 @@ translate spanish sm1cs_mes007_5f71acf7:
 translate spanish sm1cs_mes007_d2075594:
 
     # mes "So glad to have a big strong man to help me out."
-    mes "Qué bueno tener a un hombre grande y fuerte que me ayude."
+    mes "Es tan bueno tener a un hombre grande y fuerte que me ayude."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:142
 translate spanish sm1cs_mes007_d3cd0605:
@@ -188,7 +188,7 @@ translate spanish sm1cs_mes007_5595ea9d:
 translate spanish sm1cs_mes007_d22ef071:
 
     # mes "Heh."
-    mes "Heh."
+    mes "Je."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:158
 translate spanish sm1cs_mes007_3f1cb8fa:
@@ -260,7 +260,7 @@ translate spanish sm1cs_mes007_7c05cd24:
 translate spanish sm1cs_mes007_a38a7064:
 
     # mes "And remind you that under Crowning City Statute 616, a paying tenant does not have to surrender access to anyone."
-    mes "Y te recordaré que, según el Estatuto 616 de Crowning City, un inquilino que paga no debe ceder acceso a nadie."
+    mes "Y te recordaré que, según el Estatuto 616 de la ciudad de Crowning, un inquilino que paga no debe ceder acceso a nadie."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:206
 translate spanish sm1cs_mes007_8dda131d:
@@ -476,7 +476,7 @@ translate spanish sm1cs_mes007_19a76a8e:
 translate spanish sm1cs_mes007_96086b67:
 
     # mc "Haha. I try not to bring up how much of a harem I have when I'm with you."
-    mc "Jaja. Trato de no mencionar mi ‘harem’ cuando estoy contigo."
+    mc "Jaja. Trato de no mencionar mi ‘harén’ cuando estoy contigo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:317
 translate spanish sm1cs_mes007_6385e420:
@@ -596,7 +596,7 @@ translate spanish sm1cs_mes007_continue_8119ff39:
 translate spanish sm1cs_mes007_continue_b7242c2a:
 
     # mes "And here is where I keep all the hot stuff."
-    mes "Y aquí es donde guardo todas las cosas calientes."
+    mes "Y aquí es donde guardo todas las cosas sexy."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:396
 translate spanish sm1cs_mes007_continue_72bc10a0:
@@ -974,7 +974,7 @@ translate spanish sm1cs_mes007_continue_0369a842:
 translate spanish sm1cs_mes007_continue_44fa84c0:
 
     # mc "Heh."
-    mc "Heh."
+    mc "Je."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:667
 translate spanish sm1cs_mes007_continue_65331ec6:
@@ -1112,7 +1112,7 @@ translate spanish sm1cs_mes007_continue_9840b0f1:
 translate spanish sm1cs_mes007_continue_dea7848b:
 
     # mes "And your spunk."
-    mes "Y tu energía. Y tu ‘spunk’ también."
+    mes "Y tu energía. Y tu semen también."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:770
 translate spanish sm1cs_mes007_continue_af082a20:
@@ -1130,7 +1130,7 @@ translate spanish sm1cs_mes007_continue_04ff985a:
 translate spanish sm1cs_mes007_continue_a04dd30b:
 
     # mc "I'll leave you to it."
-    mc "Te dejaré a ello."
+    mc "Te dejaré con ello."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:790
 translate spanish sm1cs_mes007_continue_5c300254:
@@ -1228,13 +1228,13 @@ translate spanish sm1cs_mes007_5a9df7e5:
 translate spanish sm1cs_mes007_2c65153e:
 
     # mes "This is your home, but this is going to be my home within your home."
-    mes "Esta es tu casa, pero esto va a ser mi hogar dentro de tu hogar."
+    mes "Esta es tu casa, pero este va a ser mi hogar dentro de tu hogar."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:437
 translate spanish sm1cs_mes007_continue_e174a810:
 
     # mc "I appreciate, Min. But my favorite thing about panties is when I pull them off you."
-    mc "Lo aprecio, Min. Pero mi cosa favorita de las bragas es cuando te las quito."
+    mc "Lo aprecio, Min. Pero mi cosa favorita de la ropa interior es cuando te las quito."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:478
 translate spanish sm1cs_mes007_continue_b99c5ef4:
@@ -1264,7 +1264,7 @@ translate spanish sm1cs_mes007_continue_fc117b28:
 translate spanish sm1cs_mes007_continue_a0e12b14:
 
     # mes "*gulp*"
-    mes "*gulp*"
+    mes "*tragar saliva*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:790
 translate spanish sm1cs_mes007_continue_d0c62791:
