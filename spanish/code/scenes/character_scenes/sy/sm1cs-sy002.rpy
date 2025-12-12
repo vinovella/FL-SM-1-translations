@@ -32,7 +32,7 @@ translate spanish sm1cs_sy002_12f2b795:
 translate spanish sm1cs_sy002_81498c40:
 
     # sy "Just picture it! You as a sexy double O agent, me as your sexy lady."
-    sy "¡Solo imagínalo! Tú como una sexy agente doble O, yo como tu sexy dama."
+    sy "¡Solo imagínalo! Tú como un sexy agente doble O, yo como tu sexy dama."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:58
 translate spanish sm1cs_sy002_b2d4bce0:
@@ -98,7 +98,7 @@ translate spanish sm1cs_sy002_d503e0f0:
 translate spanish sm1cs_sy002_98b9a582:
 
     # sy "See, they don't love each other, not in an emotional way. But, they love to {i}fuck{/i} each other and they curse their countries from keeping them out of bed together."
-    sy "Mira, no se aman, no de una manera emocional. Pero, les encanta {i}follar{/i} entre sí y maldicen sus países de mantenerlos fuera de la cama juntos."
+    sy "Mira, no se aman, no de una manera emocional. Pero, les encanta {i}follar{/i}, y maldicen a sus países por impedirles estar juntos en la cama."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:87
 translate spanish sm1cs_sy002_b88ea519:
@@ -320,7 +320,7 @@ translate spanish sm1cs_sy002_a96f2443:
 translate spanish sm1cs_sy002_a699ad7d:
 
     # sy "Okay, that was terrible! What's even better was that jogger running by. Kodak moment - did you see her face?"
-    sy "¡Está bien, eso fue terrible! Lo que es aún mejor fue esa corredora corriendo. Momento Kodak - ¿Viste su rostro?"
+    sy "¡Está bien, eso fue terrible! Lo que fue aún mejor fue la corredora que pasó. ¡Momento para una foto!, ¿viste su rostro?"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:202
 translate spanish sm1cs_sy002_72d41c8d:
@@ -548,7 +548,7 @@ translate spanish sm1cs_sy002_2_71dda033:
 translate spanish sm1cs_sy002_2_80fa2811:
 
     # mct "Man, I can't believe she's staying in character."
-    mct "Hombre, no puedo creer que se mantenga en el personaje."
+    mct "Vaya, no puedo creer que se mantenga en el personaje."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:329
 translate spanish sm1cs_sy002_2_d02ea3cb:
@@ -734,7 +734,7 @@ translate spanish sm1cs_sy002_2_c01adeea:
 translate spanish sm1cs_sy002_2_846323cb:
 
     # sy "Fuck me like our lives depend on it!"
-    sy "¡Fóllame como si nuestras vidas dependan de ello!"
+    sy "¡Fóllame como si nuestras vidas dependieran de ello!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:405
 translate spanish sm1cs_sy002_2_9a221847:
@@ -800,7 +800,7 @@ translate spanish sm1cs_sy002_2_81f6ab40:
 translate spanish sm1cs_sy002_2_8e3c9bcc:
 
     # sy "Then fuuuuuck me harder! Fuck me like our lives depend on it, because - ooouuaaaaahah - they do!"
-    sy "¡Entonces fóllame más fuerte! Fóllame como si nuestras vidas dependieran de ello, porque - ooouuaaaaahah - ¡lo hacen!"
+    sy "¡Entonces fóllame más fuerte! Fóllame como si nuestras vidas dependieran de ello, porque - ooouuaaaaahah - ¡así es!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:428
 translate spanish sm1cs_sy002_2_454754a8:
@@ -956,13 +956,13 @@ translate spanish sm1cs_sy002_2_d52eb1a2:
 translate spanish sm1cs_sy002_2_28536868:
 
     # sy "And your - fuuuuuh - mission is al-almost {i}cum-pleted!{/i}"
-    sy "Y tu... fuuuuh... ¡misión está casi {i}con-cluida!{/i}"
+    sy "Y tu... fuuuuh... ¡misión está casi {i}co-rr...minada!{/i}"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:487
 translate spanish sm1cs_sy002_2_43b64cc0:
 
     # sy "Because - because I'm - I'm-!"
-    sy "¡Porque... porque soy... soy...!"
+    sy "¡Porque... porque estoy... estoy...!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:488
 translate spanish sm1cs_sy002_2_503bfbfa:
@@ -1118,7 +1118,7 @@ translate spanish sm1cs_sy002_dc_talk_51c9142f:
 translate spanish sm1cs_sy002_dc_talk_b92b9053:
 
     # sy "{size=*0.7}Uh huh...{/size}"
-    sy "{size=*0.7}Uh huh...{/size}"
+    sy "{size=*0.7}Ajá...{/size}"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:583
 translate spanish sm1cs_sy002_dc_talk_0f7c37a5:
