@@ -56,7 +56,7 @@ translate spanish sm1mv01s03_2_238f4c7d:
 translate spanish sm1mv01s03_2_8adda3c4:
 
     # tl "Oh right. [mcname], this is Juggsy."
-    tl "Ah, cierto. [mcname], él es Juggsy."
+    tl "Ah, cierto. [mcname], ella es Juggsy."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:51
 translate spanish sm1mv01s03_2_34db7c72:
@@ -776,7 +776,7 @@ translate spanish sm1mv01s03_2_531bfbf1:
 translate spanish sm1mv01s03_2_2706bf3e:
 
     # tl "Be a dear and go grab some clothes for me, roomie."
-    tl "Sé un amor y ve a buscarme algo de ropa, compañera."
+    tl "Sé un amor y ve a buscarme algo de ropa, compañero."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:265
 translate spanish sm1mv01s03_2_f9934652:
@@ -1946,7 +1946,7 @@ translate spanish sm1mv01s03_2_tl_costume_ad44d177:
 translate spanish sm1mv01s03_2_tl_costume_e91293ba:
 
     # sy "Good point. But man, this is a lot of work. I mean, we're barely through the writing."
-    sy "Buen punto. Pero, hombre, esto es mucho trabajo. Es decir, apenas vamos por la escritura."
+    sy "Buen punto. Pero, vaya, esto es mucho trabajo. Es decir, apenas vamos por la escritura."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:898
 translate spanish sm1mv01s03_2_tl_costume_512041fc:
@@ -1976,7 +1976,7 @@ translate spanish sm1mv01s03_2_tl_costume_38c137ac:
 translate spanish sm1mv01s03_2_tl_costume_dd1bbc16:
 
     # mc "I think I'm going to get ready for bed."
-    mc "Creo que voy a prepararme para irme a la cama."
+    mc "Creo que me voy a preparar para irme a la cama."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:911
 translate spanish sm1mv01s03_2_tl_costume_12bb0e2a:
@@ -2008,7 +2008,7 @@ translate spanish strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:468
     old "Alright. I'll take one too"
-    new "De acuerdo. Yo tomaré una también"
+    new "De acuerdo. Yo también tomaré una"
 
     # game/code/scenes/movies/movie01/sm1mv01s03_2.rpy:625
     old "Later on"
