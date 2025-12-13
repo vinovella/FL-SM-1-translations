@@ -38,7 +38,7 @@ translate spanish sm1cs_am008_5d4a189b:
 translate spanish sm1cs_am008_a02026e1:
 
     # am "Stop looking at me like a sweaty convention attendee spotting a cosplayer."
-    am "Deja de mirarme como un asistente sudoroso a una convención que ve a una cosplayer."
+    am "Deja de mirarme como un asistente sudoroso de convención mira a una cosplayer."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:32
 translate spanish sm1cs_am008_9120586d:
@@ -110,7 +110,7 @@ translate spanish sm1cs_am008_second_menu_88e20ef9:
 translate spanish sm1cs_am008_second_menu_c8f529f7:
 
     # am "I'm just yanking your chain. Figuratively."
-    am "Solo te estoy bromeando. Es una forma de hablar."
+    am ""Solo te estoy tomando el pelo. Es una forma de hablar."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:77
 translate spanish sm1cs_am008_second_menu_19999a49:
@@ -128,7 +128,7 @@ translate spanish sm1cs_am008_second_menu_25bf419b:
 translate spanish sm1cs_am008_second_menu_6bbf7ea8:
 
     # mc "Being nice isn't your natural state."
-    mc "Ser agradable no es tu estado natural."
+    mc "Ser amable no es tu estado natural."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:93
 translate spanish sm1cs_am008_second_menu_75a2c776:
@@ -1416,7 +1416,7 @@ translate spanish sm1cs_am008_continue_4b3dda1d:
 translate spanish sm1cs_am008_continue_a43870fb:
 
     # am "You calling me a {b}good girl{/b}. Your sexy puppy?"
-    am "Que me llames {b}niña buena{/b}. ¿Tu cachorro sexi?"
+    am "Que me llames {b}niña buena{/b}. ¿Tu cachorra sexi?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:730
 
@@ -1794,7 +1794,7 @@ translate spanish sm1cs_am008_sex_b633a5fa:
 translate spanish sm1cs_am008_sex_e23dc044:
 
     # am "Or make love to me?"
-    am "¿O a hacerme el amor?"
+    am "¿O hacerme el amor?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:901
 
@@ -1849,7 +1849,7 @@ translate spanish sm1cs_am008_sex_b3d9ebdc:
 translate spanish sm1cs_am008_sex_4f9f471d:
 
     # mc "Sounds good to me, my cute little puppy."
-    mc "Suena bien para mí, mi adorable cachorro."
+    mc "Suena bien para mí, mi adorable cachorra."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:935
 translate spanish sm1cs_am008_sex_bfc6451b:
@@ -1909,7 +1909,7 @@ translate spanish sm1cs_am008_sex_0b787fbe:
 translate spanish sm1cs_am008_sex_edb6a412:
 
     # am "I'm such a naughty puppy..."
-    am "Soy un cachorro tan travieso..."
+    am "Soy una cachorra tan traviesa..."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:972
 translate spanish sm1cs_am008_sex_6dce7925:
@@ -1987,7 +1987,7 @@ translate spanish sm1cs_am008_sex_7e816c08:
 translate spanish sm1cs_am008_sex_c6015bb5:
 
     # am "I like taking all of your dick in my pussy."
-    am "Me gusta recibir tu polla en mi vagina."
+    am "Me gusta recibir tu polla en mi coño."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1009
 translate spanish sm1cs_am008_sex_e752d01d:
@@ -2191,14 +2191,14 @@ translate spanish sm1cs_am008_sex_4ac83256:
 translate spanish sm1cs_am008_sex_d7c2d178:
 
     # am "Your puppy's pussy?"
-    am "¿El coño de tu cachorro?"
+    am "¿El coño de tu cachorra?"
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1079
 
 translate spanish sm1cs_am008_sex_175d8c36:
 
     # mc "I fucking love it."
-    mc "Maldita sea que me encanta."
+    mc "Maldita sea me encanta."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1080
 
@@ -2436,7 +2436,7 @@ translate spanish sm1cs_am008_sex_0cdd76d8:
 translate spanish sm1cs_am008_sex_4b2e76b7:
 
     # am "Shoving my bare pussy towards you."
-    am "Empujando mi vagina desnuda hacia ti."
+    am "Empujando mi coño desnudo hacia ti."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1170
 
@@ -2541,7 +2541,7 @@ translate spanish sm1cs_am008_sex_1cccb1a5:
 translate spanish sm1cs_am008_sex_88f8dc80:
 
     # mct "I fucking love seeing this side of April."
-    mct "Maldita sea que amo ver este lado de Abril."
+    mct "Maldita sea amo ver este lado de Abril."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1209
 
@@ -3085,7 +3085,7 @@ translate spanish sm1cs_am008_sex_b6433319:
 translate spanish sm1cs_am008_sex_6b3386d8:
 
     # mct "*groanding* Was still strange spending a date with April."
-    mct "*gimiendo* Todavía fue extraño pasar una cita con Abril."
+    mct "*gimiendo* Todavía se siente extraño tener una cita con Abril."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1481
 translate spanish sm1cs_am008_sex_6baf04e0:
