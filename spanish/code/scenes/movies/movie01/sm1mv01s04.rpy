@@ -170,7 +170,7 @@ translate spanish sm1mv01s04_6a7aedfd:
 translate spanish sm1mv01s04_e9acea1a:
 
     # sy "Wow, this really came together!"
-    sy "Wow, ¡esto realmente ha quedado bien!"
+    sy "Guau, ¡esto realmente ha quedado bien!"
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:115
 translate spanish sm1mv01s04_f52abf55:
@@ -314,7 +314,7 @@ translate spanish sm1mv01s04_a7d19b83:
 translate spanish sm1mv01s04_0fd5c38d:
 
     # mc "Because getting enough sand in here to make a beach is... is going to take a lot of work."
-    mc "Porque conseguir suficiente arena aquí para hacer una playa va a requerir... va a requerir mucho trabajo."
+    mc "Porque conseguir suficiente arena aquí para hacer una playa... va a requerir mucho trabajo."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:178
 translate spanish sm1mv01s04_adadad5a:
@@ -512,7 +512,7 @@ translate spanish sm1mv01s04_a2f111e5:
 translate spanish sm1mv01s04_589914a7:
 
     # tl "Snagged them from the theater. They did this real avant garde, interpretive dance thing a few years ago about pirates."
-    tl "Las cogí del teatro. Hicieron algo de danza interpretativa, muy **avant garde**, hace unos años sobre piratas."
+    tl "Me las llevé del teatro. Hicieron hace unos años una cosa de danza interpretativa muy vanguardista sobre piratas."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:292
 translate spanish sm1mv01s04_2123c011:
@@ -560,7 +560,7 @@ translate spanish sm1mv01s04_f7ca77da:
 translate spanish sm1mv01s04_f8e8e248:
 
     # tl "So you know, these are stage swords, so they're not sharp."
-    tl "Así que, que sepan que son espadas de utilería, no están afiladas."
+    tl "Así que, para que lo sepan, son espadas de utilería, no están afiladas."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:311
 translate spanish sm1mv01s04_08511480:
@@ -722,7 +722,7 @@ translate spanish sm1mv01s04_bcf7c902:
 translate spanish sm1mv01s04_f792b754:
 
     # mc "Of course, Stacy. And thanks for doing this with me, too."
-    mc "Por supuesto, Stacy. Y gracias a ti por hacer esto conmigo también."
+    mc "De nada, Stacy. Y gracias a ti por hacer esto conmigo también."
 
 # game/code/scenes/movies/movie01/sm1mv01s04.rpy:393
 translate spanish sm1mv01s04_be07bbfb:
