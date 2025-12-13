@@ -284,7 +284,7 @@ translate spanish sm1cs_km003_2_after_montage_6b59e6d9:
 translate spanish sm1cs_km003_2_after_montage_be94e048:
 
     # km "I just texted you a link to a new script."
-    km "Te acabo de enviar un mensaje de texto con un nuevo guión."
+    km "Te acabo de enviar un mensaje de texto con un nuevo guion."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2.rpy:162
 translate spanish sm1cs_km003_2_after_montage_810e9d0d:
