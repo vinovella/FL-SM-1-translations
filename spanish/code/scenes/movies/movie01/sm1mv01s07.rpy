@@ -224,7 +224,7 @@ translate spanish sm1mv01s07_c6a52e0b:
 translate spanish sm1mv01s07_445db2a2:
 
     # mc "Guess we just need to text Kanya and Taisia and let them know the plan."
-    mc "Supongo que solo necesitamos enviar un mensaje a Kanya y a Taisia para avisarles del plan."
+    mc "Supongo que solo necesitamos enviarles un mensaje a Kanya y a Taisia para avisarles del plan."
 
 # game/code/scenes/movies/movie01/sm1mv01s07.rpy:123
 translate spanish sm1mv01s07_c5fb4c04:
