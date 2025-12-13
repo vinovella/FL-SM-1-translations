@@ -74,7 +74,7 @@ translate spanish sm1xc_ns_tl_001_95538076:
 translate spanish sm1xc_ns_tl_001_f185a462:
 
     # mc "Why don't you two make breakfast together? Could be a good bonding experience."
-    mc "¿Por qué no preparan el desayuno juntas? Podría ser una buena experiencia para unirse."
+    mc "¿Por qué no preparan el desayuno juntas? Podría ser una buena experiencia para estrechar lazos."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:61
 translate spanish sm1xc_ns_tl_001_ba955b8c:
@@ -380,7 +380,7 @@ translate spanish sm1xc_ns_tl_001_58ccdf1a:
 translate spanish sm1xc_ns_tl_001_6a1843fd:
 
     # ns "*blushing harder* The temperature control on this stove is imprecise!"
-    ns "*sonrojándose* ¡El control de temperatura de esta estufa es impreciso!"
+    ns "*sonrojándose* ¡El control de temperatura de esta cocina es impreciso!"
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:227
 translate spanish sm1xc_ns_tl_001_b8cf75d5:
@@ -476,7 +476,7 @@ translate spanish sm1xc_ns_tl_001_5bf45088:
 translate spanish sm1xc_ns_tl_001_f545278b:
 
     # ns "I've never actually lived with non-family roommates before."
-    ns "En realidad, nunca he vivido con compañeros de piso que no sean familiares antes."
+    ns "En realidad, nunca antes he vivido con compañeros de piso que no sean familiares."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:271
 translate spanish sm1xc_ns_tl_001_8a77ceb7:
@@ -614,7 +614,7 @@ translate spanish sm1xc_ns_tl_001_eadd5e5f:
 translate spanish sm1xc_ns_tl_001_3af1fa7f:
 
     # mc "See? You guys are already finding your rhythm."
-    mc "¿Ves? Ya están encontrando su ritmo."
+    mc "¿Lo ven? Ya están encontrando su ritmo."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:340
 translate spanish sm1xc_ns_tl_001_85ab85b3:
@@ -674,5 +674,5 @@ translate spanish sm1xc_ns_tl_001_73b4fefc:
 translate spanish sm1xc_ns_tl_001_4da1f062:
 
     # "[mcname] and Taisia" "Hahaha."
-    "[mcname] y Taisia" "Hahaha."
+    "[mcname] y Taisia" "Jajaja."
 
