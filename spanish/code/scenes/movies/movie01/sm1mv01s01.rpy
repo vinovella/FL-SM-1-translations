@@ -182,7 +182,7 @@ translate spanish sm1mv01s01_9c4b38c9:
 translate spanish sm1mv01s01_e6d0089b:
 
     # mc "See? I'm not {i}totally{/i} useless."
-    mc "¿Ves? No soy {i}totalmente{/i} inútil."
+    mc "¿Lo ves? No soy {i}totalmente{/i} inútil."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:110
 translate spanish sm1mv01s01_369c7ede:
@@ -224,7 +224,7 @@ translate spanish sm1mv01s01_55cf1d54:
 translate spanish sm1mv01s01_e494c443:
 
     # mc "What, am I supposed to just steal from my job?"
-    mc "¿Qué, se supone que debo robar en mi trabajo?"
+    mc "O sea, ¿se supone que debo robar en mi trabajo?"
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:129
 translate spanish sm1mv01s01_4bd24381:
@@ -512,7 +512,7 @@ translate spanish sm1mv01s01_de16c072:
 translate spanish sm1mv01s01_4273ef70:
 
     # mc "And maybe a read through? With me, you, and Taisia?"
-    mc "¿Y quizá una lectura? Contigo, conmigo y con Taisia?"
+    mc "¿Y quizá una lectura? Contigo, conmigo y con Taisia."
 
 # game/code/scenes/movies/movie01/sm1mv01s01.rpy:291
 translate spanish sm1mv01s01_b81148b4:
