@@ -98,7 +98,7 @@ translate spanish sm1cs_my004_083b59dc:
 translate spanish sm1cs_my004_d98c2f3e:
 
     # sy "Me!? Bamboozle!?!"
-    sy "¿¡Yo!? ¿¡Engañar!?!"
+    sy "¿¡Yo!? ¿¡Engañar!?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:83
 translate spanish sm1cs_my004_a96ab65e:
@@ -338,13 +338,13 @@ translate spanish sm1cs_my004_2619a228:
 translate spanish sm1cs_my004_3cd8e207:
 
     # mc "Everyone, meet my little sister, apparently the horniest woman in the world."
-    mc "Todos, conozcan a mi hermana pequeña, aparentemente la mujer más cachonda del mundo."
+    mc "Todos, les presento a mi hermana pequeña, aparentemente la mujer más lujuriosa del mundo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:210
 translate spanish sm1cs_my004_85b144df:
 
     # mc "Everyone, meet Stacy, apparently the horniest woman in the world."
-    mc "Todos, conozcan a Stacy, aparentemente la mujer más cachonda del mundo."
+    mc "Todos, conozcan a Stacy, aparentemente la mujer más lujuriosa del mundo."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:213
 translate spanish sm1cs_my004_25285620:
@@ -434,13 +434,13 @@ translate spanish sm1cs_my004_c063596f:
 translate spanish sm1cs_my004_01fc9d0c:
 
     # my "Where is everyone else?"
-    my "¿Dónde están todos los demás?"
+    my "¿Dónde están todas las demás?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:261
 translate spanish sm1cs_my004_a89c11cd:
 
     # mc "Everyone else... uhm..."
-    mc "Todos los demás... uhm..."
+    mc "Todas las demás... uhm..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:264
 translate spanish sm1cs_my004_ea3bab3b:
@@ -590,7 +590,7 @@ translate spanish sm1cs_my004_c8f5ec54:
 translate spanish sm1cs_my004_5ba99f36:
 
     # sy "Ugh... fine, try commenting on Melony's suit. Maybe you'll do a better job with her."
-    sy "Ugh... bien, intenta comentar el traje de Melony. Quizás lo hagas mejor con ella."
+    sy "Uf... bien, intenta comentar el traje de Melony. Quizás lo hagas mejor con ella."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:340
 translate spanish sm1cs_my004_ea3da01e:
@@ -668,7 +668,7 @@ translate spanish sm1cs_my004_f15cde78:
 translate spanish sm1cs_my004_0f192313:
 
     # sy "Ugh, that was a good critique, [mcname]! Why couldn't you do that for me?"
-    sy "Ugh, ¡esa fue una buena crítica, [mcname]! ¿Por qué no pudiste hacer eso por mí?"
+    sy "Vaya, ¡esa fue una buena crítica, [mcname]! ¿Por qué no pudiste hacer eso por mí?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:369
 translate spanish sm1cs_my004_dab685e3:
@@ -740,7 +740,7 @@ translate spanish sm1cs_my004_ce4fb5d2:
 translate spanish sm1cs_my004_1b199792:
 
     # mc "Okay?"
-    mc "¿Okay?"
+    mc "¿Bien?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:409
 translate spanish sm1cs_my004_09d8ab72:
@@ -752,7 +752,7 @@ translate spanish sm1cs_my004_09d8ab72:
 translate spanish sm1cs_my004_9ec6d391:
 
     # sy "He never does."
-    sy "Nunca lo hace."
+    sy "No, nunca."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:414
 translate spanish sm1cs_my004_3bb84a41:
@@ -770,7 +770,7 @@ translate spanish sm1cs_my004_cf7af754:
 translate spanish sm1cs_my004_3ec38c84:
 
     # sy "Ready?"
-    sy "¿Lista?"
+    sy "¿Listo?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:423
 translate spanish sm1cs_my004_d425daa3:
@@ -854,7 +854,7 @@ translate spanish sm1cs_my004_e22d5400:
 translate spanish sm1cs_my004_cab7607c:
 
     # mc "I have to pick Mom. I think she really nailed that catwalk."
-    mc "Tengo que elegir a mamá. Creo que realmente clavó esa pasarela."
+    mc "Tengo que elegir a mamá. Creo que realmente triunfó en esa pasarela."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:494
 translate spanish sm1cs_my004_9c633a46:
@@ -866,7 +866,7 @@ translate spanish sm1cs_my004_9c633a46:
 translate spanish sm1cs_my004_946b7abb:
 
     # mc "I have to pick Melony. I think she really nailed that catwalk."
-    mc "Tengo que elegir a Melony. Creo que realmente clavó esa pasarela."
+    mc "Tengo que elegir a Melony. Creo que realmente triunfó en esa pasarela."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:504
 translate spanish sm1cs_my004_9c633a46_1:
@@ -890,7 +890,7 @@ translate spanish sm1cs_my004_dfe3d93a:
 translate spanish sm1cs_my004_f0130b72:
 
     # sy "What, no — you're supposed-"
-    sy "¿Qué, no — se supone que debes-"
+    sy "¡Qué!, no — se supone que..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:520
 translate spanish sm1cs_my004_8bb2b84f:
@@ -908,19 +908,19 @@ translate spanish sm1cs_my004_e38b2391:
 translate spanish sm1cs_my004_8f62e8fa:
 
     # my "You know, it never occurred to me to ask, but what does the winner get?"
-    my "Sabes, nunca se me ocurrió preguntar, pero ¿qué gana el ganador?"
+    my "Sabes, nunca se me ocurrió preguntar, pero ¿qué gana la ganadora?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:529
 translate spanish sm1cs_my004_cc9732e2:
 
     # mc "The winner?"
-    mc "¿El ganador?"
+    mc "¿La ganadora?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:533
 translate spanish sm1cs_my004_ecbcd0fd:
 
     # my "This is a competition, right?"
-    my "Esto es una competencia, ¿verdad?"
+    my "Esta es una competencia, ¿verdad?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:536
 translate spanish sm1cs_my004_bff8215a:
@@ -932,13 +932,13 @@ translate spanish sm1cs_my004_bff8215a:
 translate spanish sm1cs_my004_7f2a2364:
 
     # sy "The winner gets a movie date here with [mcname]!"
-    sy "¡El ganador consigue una cita de película aquí con [mcname]!"
+    sy "¡La ganadora consigue una cita de película aquí con [mcname]!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:541
 translate spanish sm1cs_my004_a86e5b30:
 
     # my "A movie date with [mcname]? That's the prize?"
-    my "¿Una cita de película con [mcname]? ¿Ese es el premio?"
+    my "¿Una cita para el cine con [mcname]? ¿Ese es el premio?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:542
 translate spanish sm1cs_my004_3a41c5e6_1:
@@ -1010,7 +1010,7 @@ translate spanish sm1cs_my004_25b07361:
 translate spanish sm1cs_my004_ee84c85c:
 
     # my "I...{w} Okay. Where's the oil?"
-    my "Yo...{w} Okay. ¿Dónde está el aceite?"
+    my "Yo...{w} Bien. ¿Dónde está el aceite?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:574
 translate spanish sm1cs_my004_c08618a5:
@@ -1172,7 +1172,7 @@ translate spanish sm1cs_my004_cc580392:
 translate spanish sm1cs_my004_2c9a23fd:
 
     # mc "Wow..."
-    mc "Wow..."
+    mc "Guau..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:658
 translate spanish sm1cs_my004_76b1c2a5:
@@ -1250,7 +1250,7 @@ translate spanish sm1cs_my004_137fac5f:
 translate spanish sm1cs_my004_b034b205:
 
     # mct "Tits are tits, you got game. You got this."
-    mct "Tetas son tetas, tienes juego. Tienes esto."
+    mct "Tetas son tetas, tienes potencial. Lo tienes."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:695
 translate spanish sm1cs_my004_673eec57:
@@ -1280,19 +1280,19 @@ translate spanish sm1cs_my004_1eab282c:
 translate spanish sm1cs_my004_2880fc1c:
 
     # mct "Oh God, I feel myself getting a boner. S-O-S, S-O-S."
-    mct "Oh Dios, siento que se me está parando. S-O-S, S-O-S."
+    mct "Oh Dios, siento que se me está parando."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:706
 translate spanish sm1cs_my004_9c65fb41:
 
     # mct "Uhm, think of anything that isn't tits! Taxes, baseball, soccer balls..."
-    mct "Uhm, ¡piensa en cualquier cosa que no sean tetas! Impuestos, béisbol, balones de fútbol..."
+    mct "Uhm, ¡piensa en cualquier cosa que no sean tetas! Impuestos, béisbol, pelotas de fútbol..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:710
 translate spanish sm1cs_my004_b662851f:
 
     # mct "Mom's tits are as big as a soccer ball-"
-    mct "Las tetas de mamá son tan grandes como un balón de fútbol-"
+    mct "Las tetas de mamá son tan grandes como una pelota de fútbol-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:712
 translate spanish sm1cs_my004_a3344c3b:
@@ -1316,13 +1316,13 @@ translate spanish sm1cs_my004_710f1b74:
 translate spanish sm1cs_my004_e6bedc9b:
 
     # mct "Did Mom just moan!?!"
-    mct "¿¡Mamá acaba de gemir!?!"
+    mct "¿¡Mamá acaba de gemir!?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:723
 translate spanish sm1cs_my004_8b84a011:
 
     # mct "Did Melony just moan!?!"
-    mct "¿¡Melony acaba de gemir!?!"
+    mct "¿¡Melony acaba de gemir!?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:724
 translate spanish sm1cs_my004_1882a016:
@@ -1394,7 +1394,7 @@ translate spanish sm1cs_my004_92260ea3:
 translate spanish sm1cs_my004_b9a7afd8:
 
     # my "Uhm, I actually... {w}I just remembered, I have an... important call with the gallery."
-    my "Uhm, en realidad... {w}Acabo de recordar, tengo una... llamada importante con la galería."
+    my "Uhm, en realidad... {w}Acabo de recordar, que tengo una... llamada importante con la galería."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:769
 translate spanish sm1cs_my004_b4941afe:
@@ -1430,7 +1430,7 @@ translate spanish sm1cs_my004_432a7cf8:
 translate spanish sm1cs_my004_7780998f:
 
     # sy "{size=*0.6}Then why is she sprinting out of here?{/size}"
-    sy "{size=*0.6}¿Entonces por qué está saliendo corriendo de aquí?{/size}"
+    sy "{size=*0.6}¿Entonces por qué sale corriendo de aquí?{/size}"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:784
 translate spanish sm1cs_my004_d7afdc3b:
@@ -1442,7 +1442,7 @@ translate spanish sm1cs_my004_d7afdc3b:
 translate spanish sm1cs_my004_c38ea4ea:
 
     # my "Again, I am so sorry, you two."
-    my "De nuevo, lo siento mucho, ustedes dos."
+    my "De nuevo, lo siento mucho a los dos."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:789
 translate spanish sm1cs_my004_146820f5:
@@ -1502,7 +1502,7 @@ translate spanish sm1cs_my004_beff4967:
 translate spanish sm1cs_my004_697c695f:
 
     # sy "Wow. I can't believe she bolted that fast."
-    sy "Wow. No puedo creer que salió tan rápido."
+    sy "Vaya. No puedo creer que salió tan rápido."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:820
 translate spanish sm1cs_my004_028f1999:
@@ -1520,7 +1520,7 @@ translate spanish sm1cs_my004_63a9e153:
 translate spanish sm1cs_my004_44546bd6:
 
     # mc "And then shove oil in their hands and tell them to get lubed up."
-    mc "Y luego empujarles aceite en las manos y decirles que se engrasen."
+    mc "Y luego ponerles aceite en las manos y decirles que se aceiten."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:830
 translate spanish sm1cs_my004_d78c0334:
@@ -1610,7 +1610,7 @@ translate spanish sm1cs_my004_44482bd0:
 translate spanish sm1cs_my004_3a18ac34:
 
     # mct "Man, that was incredible..."
-    mct "Hombre, eso fue increíble..."
+    mct "Vaya, eso fue increíble..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:874
 translate spanish sm1cs_my004_d3a68d66:
@@ -1622,7 +1622,7 @@ translate spanish sm1cs_my004_d3a68d66:
 translate spanish sm1cs_my004_be5f379f:
 
     # mct "I can't believe Melony even agreed to do the competition in the first place."
-    mct "No puedo creer que Melony incluso aceptara hacer la competencia en primer lugar."
+    mct "No puedo creer que Melony {b}siquiera{/b} aceptara hacer la competencia en primer lugar."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:882
 translate spanish sm1cs_my004_ad1f7f82:
@@ -1732,7 +1732,7 @@ translate spanish sm1cs_my004_5481387b:
 translate spanish sm1cs_my004_17c43927:
 
     # mc "I mean, I think it's a lot to just surprise someone with a one on one swimsuit competition."
-    mc "Quiero decir, creo que es mucho solo sorprender a alguien con una competencia de trajes de baño uno a uno."
+    mc "Quiero decir, creo que es demasiado sorprender a alguien así de la nada con una competencia de trajes de baño individual."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:849
 translate spanish sm1cs_my004_941d9048:
