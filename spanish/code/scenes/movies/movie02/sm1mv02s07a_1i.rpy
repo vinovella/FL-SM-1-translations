@@ -32,7 +32,7 @@ translate spanish sm1mv02s07a_1i_42ba0bc1:
 translate spanish sm1mv02s07a_1i_0dfc14ed:
 
     # mes "I didn't think she'd be so shy, since she's working on a porno."
-    mes "No pensé que sería tan tímida, considerando que está trabajando en un porno."
+    mes "No pensé que sería tan tímida, considerando que está trabajando en una película porno."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a_1i.rpy:16
 translate spanish sm1mv02s07a_1i_2b9ab092:
