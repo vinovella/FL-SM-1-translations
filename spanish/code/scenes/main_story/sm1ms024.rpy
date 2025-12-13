@@ -242,7 +242,7 @@ translate spanish sm1ms024_5698e90c:
 translate spanish sm1ms024_78ea74d0:
 
     # sy "{b}Grande{/b}. Solo hemos estado haciendo escenas.{w} Ahora es el momento de un {b}filme{/b}."
-    sy "{b}Grande{/b}. Solo hemos estado haciendo escenas.{w} Ahora es el momento de un {b}filme{/b}."
+    sy "{b}Grande{/b}. Solo hemos estado haciendo escenas.{w} Ahora es el momento de una {b}película{/b}."
 
 # game/code/scenes/main_story/sm1ms024.rpy:120
 translate spanish sm1ms024_04ff0aa0:
@@ -260,7 +260,7 @@ translate spanish sm1ms024_5851d633:
 translate spanish sm1ms024_a03bec72:
 
     # sy "It's a win-freaking-win, baby!"
-    sy "¡Es un triunfo-jodido-triunfo, nene!"
+    sy "¡Es un ganar-ganar {b}absoluto{/b}, cariño!"
 
 # game/code/scenes/main_story/sm1ms024.rpy:126
 translate spanish sm1ms024_a0d7ed17:
@@ -806,7 +806,7 @@ translate spanish sm1ms024_af82aaaa:
 translate spanish sm1ms024_2ce6b2b0:
 
     # sy "No sleep.{w} Only writing!"
-    sy "¡No dormir!.{w} Solo escribir!"
+    sy "¡No dormir.{w} Solo escribir!"
 
 # game/code/scenes/main_story/sm1ms024.rpy:400
 translate spanish sm1ms024_001cc87b:
