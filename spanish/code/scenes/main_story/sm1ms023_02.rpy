@@ -134,7 +134,7 @@ translate spanish sm1ms023_02_503d6bd1:
 translate spanish sm1ms023_02_35ca6c0c:
 
     # sy "So as Kanya moves closer or farther away from us, the audio level goes up or down. So sometimes it's louder, sometimes it's quieter."
-    sy "Entonces, cuando Kanya se acerca o se aleja, el volumen sube o baja. A veces suena fuerte y otras más veces más bajo."
+    sy "Entonces, cuando Kanya se acerca o se aleja, el volumen sube o baja. A veces suena fuerte y otras veces más bajo."
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:85
 translate spanish sm1ms023_02_2eda3872:
@@ -266,7 +266,7 @@ translate spanish sm1ms023_02_02d62a2e:
 translate spanish sm1ms023_02_3a9d5096:
 
     # sy "As you should be."
-    sy "Como deberías."
+    sy "Y así debe ser."
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:143
 translate spanish sm1ms023_02_ad816699:
@@ -368,7 +368,7 @@ translate spanish sm1ms023_02_506e14f3:
 translate spanish sm1ms023_02_acd8e3d0:
 
     # sy "Nothing on God's green earth could stop me from masturbating to this hot ass footage."
-    sy "Nada en la faz de la tierra podría impedirme masturbarme con este metraje tan caliente."
+    sy "Nada en la faz de la tierra podría impedirme que me masturbe con estas imágenes tan ardientes."
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:197
 translate spanish sm1ms023_02_0b799436:
