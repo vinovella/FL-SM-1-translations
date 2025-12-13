@@ -2,7 +2,7 @@
 translate spanish sm1mv01s11i_5301ea84:
 
     # mc "So is it finally done. My eyes need a break."
-    mc "Así que, ¿finalmente está terminado? Mis ojos necesitan un descanso."
+    mc "Entonces, ¿finalmente está terminada? Mis ojos necesitan un descanso."
 
 # game/code/scenes/movies/movie01/sm1mv01s11i.rpy:10
 translate spanish sm1mv01s11i_7df26800:
