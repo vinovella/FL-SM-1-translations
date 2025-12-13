@@ -26,13 +26,13 @@ translate spanish sm1ms027_8f370dad:
 translate spanish sm1ms027_3897e05c:
 
     # sy "No! Better! I just finished it!"
-    sy "¡No! ¡Mejor! ¡Lo acabo de terminar!"
+    sy "¡No! ¡Mejor! ¡La acabo de terminar!"
 
 # game/code/scenes/main_story/sm1ms027.rpy:25
 translate spanish sm1ms027_2a1dd802:
 
     # mc "Finished what...?"
-    mc "¿Terminado qué...?"
+    mc "¿Terminar qué...?"
 
 # game/code/scenes/main_story/sm1ms027.rpy:28
 translate spanish sm1ms027_6d32d816:
@@ -86,7 +86,7 @@ translate spanish sm1ms027_53fd5caa:
 translate spanish sm1ms027_7abf7341:
 
     # mc "You're so sweet to wait for me."
-    mc "Qué dulce que esperaras por mí."
+    mc "Qué dulce que esperes por mí."
 
 # game/code/scenes/main_story/sm1ms027.rpy:51
 translate spanish sm1ms027_d09ab122:
@@ -254,7 +254,7 @@ translate spanish sm1ms027_6054e68b:
 translate spanish sm1ms027_2ab0bbda:
 
     # mc "No one's awake right now to watch it, right...?"
-    mc "Nadie está despierto a esta hora para verlo... ¿cierto?"
+    mc "Nadie está despierto a esta hora para verlo... ¿verdad?"
 
 # game/code/scenes/main_story/sm1ms027.rpy:158
 translate spanish sm1ms027_1d921f90:
@@ -326,7 +326,7 @@ translate spanish sm1ms027_12e2c88e:
 translate spanish sm1ms027_ceef8163:
 
     # mct "She's running on caffeine, adrenaline, and pure love for this project."
-    mct "Está funcionando a base de cafeína, adrenalina y puro amor por este proyecto."
+    mct "Se está manteniendo a base de cafeína, adrenalina y puro amor por este proyecto."
 
 # game/code/scenes/main_story/sm1ms027.rpy:207
 translate spanish sm1ms027_b358d39b:
