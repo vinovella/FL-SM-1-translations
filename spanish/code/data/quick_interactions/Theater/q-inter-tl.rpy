@@ -110,7 +110,7 @@ translate spanish q_inter_tl_6_e59fe1ee:
 translate spanish q_inter_tl_7_1038f195:
 
     # tl "Hey, for our next scene, can I help write the script?"
-    tl "Oye, para nuestra próxima escena, ¿puedo ayudar a escribir el guión?"
+    tl "Oye, para nuestra próxima escena, ¿puedo ayudar a escribir el guion?"
 
 # game/code/data/quick_interactions/Theater/q-inter-tl.rpy:85
 translate spanish q_inter_tl_7_e52730b9:
