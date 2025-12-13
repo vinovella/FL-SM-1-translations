@@ -1976,7 +1976,7 @@ translate spanish sm1cs_arj002_6be1d9d8:
 translate spanish sm1cs_arj002_bd550900:
 
     # arj "I've been dreaming about cuddling up and going to sleep with you."
-    arj "He estado soñando con acurrucarme y quedarme dormida contigo.""
+    arj "He estado soñando con acurrucarme y quedarme dormida contigo."
 
 # game/code/scenes/character_scenes/arj/sm1cs-arj002.rpy:1038
 translate spanish sm1cs_arj002_67affca7:

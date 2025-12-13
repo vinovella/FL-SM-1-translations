@@ -110,7 +110,7 @@ translate spanish sm1cs_am008_second_menu_88e20ef9:
 translate spanish sm1cs_am008_second_menu_c8f529f7:
 
     # am "I'm just yanking your chain. Figuratively."
-    am ""Solo te estoy tomando el pelo. Es una forma de hablar."
+    am "Solo te estoy tomando el pelo. Es una forma de hablar."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:77
 translate spanish sm1cs_am008_second_menu_19999a49:
