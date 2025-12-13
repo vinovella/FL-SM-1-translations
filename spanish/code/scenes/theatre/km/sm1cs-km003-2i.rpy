@@ -32,7 +32,7 @@ translate spanish sm1cs_km003_2i_a5f9c06f:
 translate spanish sm1cs_km003_2i_c0966333:
 
     # km "I guess so. But we'll see how it turns out when Denise shows us a script."
-    km "Supongo que sí. Pero veremos cómo resulta cuando Denise nos enseñe el guión."
+    km "Supongo que sí. Pero veremos cómo resulta cuando Denise nos enseñe el guion."
 
 # game/code/scenes/theatre/km/sm1cs-km003-2i.rpy:18
 translate spanish sm1cs_km003_2i_bf4aa827:
