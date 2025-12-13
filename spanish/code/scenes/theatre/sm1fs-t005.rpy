@@ -428,7 +428,7 @@ translate spanish sm1fs_t005_98420ec2:
 translate spanish sm1fs_t005_6443f7a3:
 
     # dvh "Kellie, you're going to be working closely with Eileen and I on the script, so I'll need you around more."
-    dvh "Kellie, vas a trabajar estrechamente con Eileen y yo en el guión, así que te necesitaré más."
+    dvh "Kellie, vas a trabajar estrechamente con Eileen y yo en el guion, así que te necesitaré más."
 
 # game/code/scenes/theatre/sm1fs-t005.rpy:238
 translate spanish sm1fs_t005_b6680027:
