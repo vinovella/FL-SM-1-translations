@@ -68,7 +68,7 @@ translate spanish sm1mv02s01_baddb02a:
 translate spanish sm1mv02s01_5a58908a:
 
     # sy "About as much of a mouthful as your dick!"
-    sy "¡Tanto como tu pene!"
+    sy "¡Tanto como lo que abarca tu polla en la boca!"
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:81
 translate spanish sm1mv02s01_a94e665e:
@@ -344,7 +344,7 @@ translate spanish sm1mv02s01_7084825f:
 translate spanish sm1mv02s01_3dc673f1:
 
     # sy "The CGI we would have to do if we were building most of the ship for most of the movie would be insane. And time costly."
-    sy "El CGI que tendríamos que hacer si construyéramos la mayor parte de la nave para la mayor parte de la película sería una locura. Y costoso en tiempo."
+    sy "El CGI que tendríamos que hacer si construyéramos la mayor parte de la nave durante **casi toda** la película sería una locura. Y costoso en tiempo."
 
 # game/code/scenes/movies/movie02/sm1mv02s01.rpy:236
 translate spanish sm1mv02s01_ea90f66f:
