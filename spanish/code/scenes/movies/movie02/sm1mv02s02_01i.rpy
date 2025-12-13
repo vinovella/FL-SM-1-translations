@@ -1,4 +1,4 @@
-﻿# game/code/scenes/movies/movie02/sm1mv02s02_01i.rpy:6
+# game/code/scenes/movies/movie02/sm1mv02s02_01i.rpy:6
 translate spanish sm1mv02s02_01i_ae933a96:
 
     # mc "Hey, Min."
@@ -62,13 +62,13 @@ translate spanish sm1mv02s02_01i_11cf9c9e:
 translate spanish sm1mv02s02_01i_be1f1842:
 
     # mc "It's a Sci-Fi movie. Kind of like Star Trek style."
-    mc "Es una película de ciencia ficción. Algo en el estilo de *Star Trek*."
+    mc "Es una película de ciencia ficción. Algo en el estilo de Star Trek."
 
 # game/code/scenes/movies/movie02/sm1mv02s02_01i.rpy:30
 translate spanish sm1mv02s02_01i_55280665:
 
     # mes "Huh. Not the biggest fan, but I'll do it for you."
-    mes "Huh. No soy la mayor fan, pero lo haré por ti."
+    mes "Ahh. No soy la mayor fan, pero lo haré por ti."
 
 # game/code/scenes/movies/movie02/sm1mv02s02_01i.rpy:32
 translate spanish sm1mv02s02_01i_a3c6c0f3:
@@ -80,11 +80,10 @@ translate spanish sm1mv02s02_01i_a3c6c0f3:
 translate spanish sm1mv02s02_01i_8e11f8f8:
 
     # mes "Alright. But for your next movie, you should think of a cool murder mystery movie. Or something like 'Eyes Wide Shut'."
-    mes "De acuerdo. Pero para tu próxima película deberías pensar en un buen misterio de asesinato. O algo como «Eyes Wide Shut»."
+    mes "De acuerdo. Pero para tu próxima película deberías pensar en un buen misterio de asesinato. O algo como 'Eyes Wide Shut'."
 
 # game/code/scenes/movies/movie02/sm1mv02s02_01i.rpy:38
 translate spanish sm1mv02s02_01i_7db81ec3:
 
     # mc "Haha. Maybe next time."
     mc "Jajaja. Quizás la próxima vez."
-
