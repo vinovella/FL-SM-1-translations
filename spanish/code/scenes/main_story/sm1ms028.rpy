@@ -104,7 +104,7 @@ translate spanish sm1ms028_0bf22ea8:
 translate spanish sm1ms028_78055331:
 
     # mc "When would you like to meet?"
-    mc "¿Cuándo le gustaría que nos reunamos?"
+    mc "¿Cuándo le gustaría que nos reuniéramos?"
 
 # game/code/scenes/main_story/sm1ms028.rpy:48
 translate spanish sm1ms028_bbc8bf75:
@@ -482,7 +482,7 @@ translate spanish sm1ms028_location_change_f79a147e:
 translate spanish sm1ms028_location_change_a449f046:
 
     # dl "I can give you a signup bonus of $250 right now."
-    dl "Puedo darles un bono de registro de 250 dólares ahora mismo."
+    dl "Puedo darles un bono de registro de $250 dólares ahora mismo."
 
 # game/code/scenes/main_story/sm1ms028.rpy:222
 translate spanish sm1ms028_location_change_add50800:
@@ -542,13 +542,13 @@ translate spanish sm1ms028_location_change_f81ac43b:
 translate spanish sm1ms028_location_change_b8286d63:
 
     # dl "Mmm. How about $300."
-    dl "Mmm. ¿Qué tal 300 dólares?"
+    dl "Mmm. ¿Qué tal $300 dólares?"
 
 # game/code/scenes/main_story/sm1ms028.rpy:253
 translate spanish sm1ms028_location_change_b32d649d:
 
     # sy "I can go as low as $800."
-    sy "Puedo bajar a 800."
+    sy "Puedo bajar a $800 dólares."
 
 # game/code/scenes/main_story/sm1ms028.rpy:256
 translate spanish sm1ms028_location_change_71a3374f:
@@ -560,19 +560,19 @@ translate spanish sm1ms028_location_change_71a3374f:
 translate spanish sm1ms028_location_change_f14715aa:
 
     # dl "$400."
-    dl "400."
+    dl "$400 dólares."
 
 # game/code/scenes/main_story/sm1ms028.rpy:260
 translate spanish sm1ms028_location_change_6a9164c5:
 
     # sy "$650."
-    sy "650."
+    sy "$650 dólares."
 
 # game/code/scenes/main_story/sm1ms028.rpy:263
 translate spanish sm1ms028_location_change_918a0233:
 
     # dl "Ehhh.... I could stretch things and get to $500."
-    dl "Ehhh... Podría estirarlo y llegar a 500."
+    dl "Ehhh... Podría estirarlo y llegar a $500 dólares."
 
 # game/code/scenes/main_story/sm1ms028.rpy:266
 translate spanish sm1ms028_location_change_19203f1f:
@@ -590,7 +590,7 @@ translate spanish sm1ms028_location_change_5bd23baa:
 translate spanish sm1ms028_location_change_b34475e5:
 
     # dl "We'll draw up the papers to start to give you a signup bonus of $500."
-    dl "Prepararemos los papeles para darles un bono inicial de 500 dólares."
+    dl "Prepararemos los papeles para darles un bono inicial de $500 dólares."
 
 # game/code/scenes/main_story/sm1ms028.rpy:271
 translate spanish sm1ms028_location_change_d45566a9:
@@ -896,7 +896,7 @@ translate spanish sm1ms028_location_change_77975f23:
 translate spanish sm1ms028_location_change_4f38ddaf:
 
     # sy "*slurp*"
-    sy "*sluurp*"
+    sy "*Sorbo*"
 
 # game/code/scenes/main_story/sm1ms028.rpy:401
 translate spanish sm1ms028_location_change_88d903fc:
