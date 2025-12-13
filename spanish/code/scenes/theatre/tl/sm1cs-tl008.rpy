@@ -74,7 +74,7 @@ translate spanish sm1cs_tl008_91f4ac4d:
 translate spanish sm1cs_tl008_27b4034f:
 
     # tl "This video I found of you and Stacy... it's pretty hot."
-    tl "Este video que encontré de tú y Stacy... está bastante bueno."
+    tl "Este video que encontré de ti y Stacy... está bastante ardiente."
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:99
 translate spanish sm1cs_tl008_f019c78e:
@@ -548,7 +548,7 @@ translate spanish sm1cs_tl008_sex_d633a15e:
 translate spanish sm1cs_tl008_sex_94c249e9:
 
     # mc "Taisia - I-I'm-!"
-    mc "Taisia... yo... ¡yo..."
+    mc "Taisia... yo... ¡yo...!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:387
 translate spanish sm1cs_tl008_sex_90418129:
@@ -956,7 +956,7 @@ translate spanish sm1cs_tl008_sex_c9bcfb54:
 translate spanish sm1cs_tl008_sex_f0654f09:
 
     # tl "Glck, glck!"
-    tl "Glck, glck!"
+    tl "¡Glck, glck!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:261
 translate spanish sm1cs_tl008_sex_8ad9a1db:
@@ -1016,13 +1016,13 @@ translate spanish sm1cs_tl008_sex_f2cf079d:
 translate spanish sm1cs_tl008_sex_29988449:
 
     # tl "Mmmrrrppphh!"
-    tl "Mmmrrrppphh!"
+    tl "¡Mmmrrrppphh!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:296
 translate spanish sm1cs_tl008_sex_c2ea84bb:
 
     # mc "Oh shit!"
-    mc "Oh shit!"
+    mc "¡Oh mierda!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:297
 translate spanish sm1cs_tl008_sex_218e6065:
@@ -1040,7 +1040,7 @@ translate spanish sm1cs_tl008_sex_e9403dc4:
 translate spanish sm1cs_tl008_sex_fff4807a:
 
     # tl "Mmrrrmmmphhh, mmmph!"
-    tl "Mmrrrmmmphhh, mmmph!"
+    tl "¡Mmrrrmmmphhh, mmmph!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:304
 translate spanish sm1cs_tl008_sex_2cdd7b8a:
@@ -1058,7 +1058,7 @@ translate spanish sm1cs_tl008_sex_eff7f32c:
 translate spanish sm1cs_tl008_sex_03b0ab74:
 
     # tl "Glllck - nggggh!"
-    tl "Glllck - nggggh!"
+    tl "¡Glllck - nggggh!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:309
 translate spanish sm1cs_tl008_sex_5053595c:
@@ -1070,7 +1070,7 @@ translate spanish sm1cs_tl008_sex_5053595c:
 translate spanish sm1cs_tl008_sex_e868ab4b:
 
     # tl "Mrrrhmmmm!"
-    tl "Mrrrhmmmm!"
+    tl "¡Mrrrhmmmm!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:311
 translate spanish sm1cs_tl008_sex_0c3e0512:
@@ -1082,19 +1082,19 @@ translate spanish sm1cs_tl008_sex_0c3e0512:
 translate spanish sm1cs_tl008_sex_e06cd789:
 
     # tl "Mrrrrnnnng!"
-    tl "Mrrrrnnnng!"
+    tl "¡Mrrrrnnnng!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:315
 translate spanish sm1cs_tl008_sex_2ffdea26:
 
     # mc "Fuuuuuck!"
-    mc "Fuuuuuck!"
+    mc "¡Miiieeerda!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:316
 translate spanish sm1cs_tl008_sex_988771bd:
 
     # tl "Mmmrmmm - mmmrrrmmmm- mmmppppphrrrrrrrr!"
-    tl "Mmmrmmm - mmmrrrmmmm- mmmppppphrrrrrrrr!"
+    tl "¡Mmmrmmm - mmmrrrmmmm- mmmppppphrrrrrrrr!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:320
 translate spanish sm1cs_tl008_sex_4cd2d6dd:
@@ -1106,7 +1106,7 @@ translate spanish sm1cs_tl008_sex_4cd2d6dd:
 translate spanish sm1cs_tl008_sex_4af72180:
 
     # tl "Mmrrhmmmm - mmmrrrhhhhhmmmmmm!!!"
-    tl "Mmrrhmmmm - mmmrrrhhhhhmmmmmm!!!"
+    tl "¡¡¡Mmrrhmmmm - mmmrrrhhhhhmmmmmm!!!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:322
 translate spanish sm1cs_tl008_sex_8e958415:
@@ -1118,11 +1118,11 @@ translate spanish sm1cs_tl008_sex_8e958415:
 translate spanish sm1cs_tl008_sex_bfd2b23f:
 
     # mc "Fuck, Taisia - how did you get wetter {i}and tighter?{/i}"
-    mc "Joder, Taisia - ¿cómo te pusiste más mojada {i}y más apretada?{/i}"
+    mc "Joder, Taisia - ¿cómo te pusiste tan mojada {i}y tan apretada?{/i}"
 
 # game/code/scenes/theatre/tl/sm1cs-tl008.rpy:326
 translate spanish sm1cs_tl008_sex_4b8a0247:
 
     # tl "Mmmmrrnnnng, mrrrmmmppph!"
-    tl "Mmmmrrnnnng, mrrrmmmppph!"
+    tl "¡Mmmmrrnnnng, mrrrmmmppph!"
 
