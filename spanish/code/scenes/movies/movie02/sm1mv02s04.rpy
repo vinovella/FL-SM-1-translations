@@ -2,7 +2,7 @@
 translate spanish sm1mv02s04_d83f64b8:
 
     # sy "Okay, it looks like Kanya emailed back to confirm that the photodojo is available."
-    sy "De acuerdo, parece que Kanya respondió el correo para confirmar que el photodojo está disponible."
+    sy "De acuerdo, parece que Kanya respondió el correo para confirmar que el dojo fotográfico está disponible."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:16
 translate spanish sm1mv02s04_1a312d94:
@@ -314,7 +314,7 @@ translate spanish sm1mv02s04_b7abe3dd:
 translate spanish sm1mv02s04_0a99c007:
 
     # ns "Yes. You too, Min!{w} I am sorry, I am just very excited."
-    ns "Sí. ¡Tú también, Min!{w} Lo siento, estoy muy emocionada."
+    ns "Sí. ¡Igualmente, Min!{w} Lo siento, estoy muy emocionada."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:181
 translate spanish sm1mv02s04_dc7580ae:
@@ -668,7 +668,7 @@ translate spanish sm1mv02s04_241dd514:
 translate spanish sm1mv02s04_b11e2bc9:
 
     # mc "Rest assured, Nari is a naughty as they come."
-    mc "Ten por seguro, Nari es tan traviesa como la que más."
+    mc "Ten por seguro, Nari es extremadamente traviesa."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:332
 translate spanish sm1mv02s04_63290708:
@@ -1016,7 +1016,7 @@ translate spanish sm1mv02s04_later_56e4eecf:
 translate spanish sm1mv02s04_later_2d1fc4a1:
 
     # mc "I just wanted to say that everyone did great."
-    mc "Solo quería decir que todos lo hicieron genial."
+    mc "Solo quería decir que todas lo hicieron genial."
 
 # game/code/scenes/movies/movie02/sm1mv02s04.rpy:575
 translate spanish sm1mv02s04_later_534bd6fd:
