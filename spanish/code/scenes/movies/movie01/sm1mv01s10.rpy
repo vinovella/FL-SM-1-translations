@@ -14,7 +14,7 @@ translate spanish sm1mv01s10_4365132e:
 translate spanish sm1mv01s10_d2f14915:
 
     # tl "[mcname] gave me one hell of an ass pounding today."
-    tl "[mcname] me dio una tremenda paliza en el trasero hoy."
+    tl "[mcname] me dio una tremenda follada por el culo hoy."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:21
 translate spanish sm1mv01s10_3b3b1443:
@@ -92,13 +92,13 @@ translate spanish sm1mv01s10_a1982dd2:
 translate spanish sm1mv01s10_6659e60a:
 
     # sy "My asshole is more clenched now than when [mcname] was balls deep in me today."
-    sy "Mi trasero está más apretado ahora que cuando [mcname] me penetró hasta el fondo hoy."
+    sy "Mi culo está más apretado ahora que cuando [mcname] me penetró hasta el fondo hoy."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:57
 translate spanish sm1mv01s10_bbd0b2ab:
 
     # mc "Everyone really has \"ass\" on the mind right now, don't they?"
-    mc "Todos tienen el tema del \"trasero\" en la mente ahora, ¿no es así?"
+    mc "Todos tienen el tema del \"culo\" en la mente ahora, ¿no es así?"
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:60
 translate spanish sm1mv01s10_a59008e6:
@@ -290,7 +290,7 @@ translate spanish sm1mv01s10_536aae77:
 translate spanish sm1mv01s10_2b1d1b98:
 
     # mc "Also, agree."
-    mc "También, estoy de acuerdo."
+    mc "Estoy de acuerdo."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:166
 translate spanish sm1mv01s10_4ca4bfa4:
@@ -662,7 +662,7 @@ translate spanish sm1mv01s10_53a73253:
 translate spanish sm1mv01s10_f3e004ab:
 
     # mct "Man, I'm exhausted..."
-    mct "Hombre, estoy agotado..."
+    mct "Vaya, estoy agotado..."
 
 # game/code/scenes/movies/movie01/sm1mv01s10.rpy:336
 translate spanish sm1mv01s10_d06670f8:
@@ -824,5 +824,5 @@ translate spanish sm1mv01s10_b6cf5280:
 translate spanish sm1mv01s10_9ab27c1f:
 
     # kv "I'm sure once the money comes in we can start to work on some of these other things, it'll get easier."
-    kv "Estoy segura de que una vez que entre el dinero podremos empezar a trabajar en algunas de estas otras cosas, será más fácil."
+    kv "Estoy segura de que una vez que entre el dinero podremos empezar a trabajar en algunas de estas otras cosas, y todo será más sencillo."
 
