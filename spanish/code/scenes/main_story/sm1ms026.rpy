@@ -176,7 +176,7 @@ translate spanish sm1ms026_pirates_b13b386c:
 translate spanish sm1ms026_pirates_96bd79f2:
 
     # mc "I mean... the pirates were into ropes and shit. I feel like they might like a little choke and stroke."
-    mc "Digo... los piratas usaban cuerdas y todo eso. Siento que les pegaría un poco de asfixia y meneo."
+    mc "Quiero decir... los piratas usaban cuerdas y esas cosas. Creo que les gustaría un poco de asfixia y paja."
 
 # game/code/scenes/main_story/sm1ms026.rpy:160
 translate spanish sm1ms026_pirates_11455b53:
@@ -248,7 +248,7 @@ translate spanish sm1ms026_pirates_ea1dd8ca:
 translate spanish sm1ms026_pirates_4ab21ce9:
 
     # sy "What! Are you kidding me!?"
-    sy "¡¿Qué?! ¡¿Estás bromeando?!"
+    sy "¡¿Qué?! ¿¡Estás bromeando!?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:194
 translate spanish sm1ms026_pirates_19414e54:
@@ -296,7 +296,7 @@ translate spanish sm1ms026_pirates_5ad9b338:
 translate spanish sm1ms026_pirates_04ea803a:
 
     # mc "Same. And tall... you know, someone striking on camera."
-    mc "Igual. Y alta... alguien que impresione en cámara."
+    mc "Yo también. Y alta... alguien que impresione en cámara."
 
 # game/code/scenes/main_story/sm1ms026.rpy:217
 translate spanish sm1ms026_pirates_b1b01607:
@@ -734,7 +734,7 @@ translate spanish sm1ms026_scifi_13ccde2e:
 translate spanish sm1ms026_scifi_13f27fb6:
 
     # mc "Some of them are so tightly wound, I bet they have some kinky secrets."
-    mc "Algunos están tan tensos que apuesto a que esconden gustos muy perversos."
+    mc "Algunas están tan tensas que apuesto a que esconden gustos muy perversos."
 
 # game/code/scenes/main_story/sm1ms026.rpy:375
 translate spanish sm1ms026_scifi_631b1f4f:
@@ -896,9 +896,9 @@ translate spanish strings:
 
     # game/code/scenes/main_story/sm1ms026.rpy:304
     old "We should do watersports"
-    new "Deberíamos hacer juegos acuáticos"
+    new "Deberíamos hacer juegos con orina"
 
     # game/code/scenes/main_story/sm1ms026.rpy:304
     old "No watersports"
-    new "Sin juegos acuáticos"
+    new "Sin juegos con orina"
 
