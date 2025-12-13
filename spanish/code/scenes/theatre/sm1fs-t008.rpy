@@ -122,7 +122,7 @@ translate spanish sm1fs_t008_9ad297e0:
 translate spanish sm1fs_t008_cd7192a3:
 
     # dvh "On the tablet is several short monologues and scenes. You will select one from the list."
-    dvh "En la tablet hay varios monólogos y escenas cortas. Seleccionarás uno de la lista."
+    dvh "En la tablet hay varios monólogos y escenas cortas. Seleccionarás una de la lista."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:68
 translate spanish sm1fs_t008_ef425de9:
@@ -224,7 +224,7 @@ translate spanish sm1fs_t008_86dd0c98:
 translate spanish sm1fs_t008_24511533:
 
     # dvh "Be content with that."
-    dvh "Conforma­te con eso."
+    dvh "confórmate con eso."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:120
 translate spanish sm1fs_t008_283bca7a:
@@ -458,7 +458,7 @@ translate spanish sm1fs_t008_later_effa3056:
 translate spanish sm1fs_t008_later_9bdb4245:
 
     # tl "What do you got against the whole world anyhow?"
-    tl "¿Qué tienes en contra del mundo entero?"
+    tl "¿Qué tienes en contra de todo el mundo, a fin de cuentas?"
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:245
 translate spanish sm1fs_t008_later_c321095d:
@@ -476,7 +476,7 @@ translate spanish sm1fs_t008_later_ecbc7ce9:
 translate spanish sm1fs_t008_later_1fbf29ee:
 
     # mc "People take one look at me and go 'Ah help! Run! A big stupid ugly ogre."
-    mc "La gente me mira y dice: «¡Ah, ayuda! ¡Corran! Un ogro grande, estúpido y feo»."
+    mc "La gente me mira y dice: '¡Ah, ayuda! ¡Corran! Un ogro grande, estúpido y feo'."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:254
 translate spanish sm1fs_t008_later_73f80eaf:
@@ -896,7 +896,7 @@ translate spanish sm1fs_t008_later_ff5d45a8:
 translate spanish sm1fs_t008_later_e6627fd4:
 
     # mc "Thanks, everyone."
-    mc "Gracias a todos."
+    mc "Gracias a todas."
 
 # game/code/scenes/theatre/sm1fs-t008.rpy:451
 translate spanish sm1fs_t008_later_cfae495f:
@@ -920,7 +920,7 @@ translate spanish sm1fs_t008_later_81704619:
 translate spanish sm1fs_t008_later_dac16979:
 
     # mc "I will."
-    mc "Lo haré."
+    mc "Lo estaré."
 
 translate spanish strings:
 
