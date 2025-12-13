@@ -290,7 +290,7 @@ translate spanish sm1fs_t007_c94e8123:
 translate spanish sm1fs_t007_39de506d:
 
     # mc "On it."
-    mc "En eso."
+    mc "Estoy en eso."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:147
 translate spanish sm1fs_t007_e90380fd:
@@ -308,7 +308,7 @@ translate spanish sm1fs_t007_a8fd7686:
 translate spanish sm1fs_t007_594b975b:
 
     # vs "*slightly breathless* [mcname]! Thank God. My mic keeps—"
-    vs "*algo agitada* [mcname]! Gracias a Dios. Mi micrófono sigue—"
+    vs "*algo agitada* ¡[mcname]! Gracias a Dios. Mi micrófono sigue—"
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:152
 translate spanish sm1fs_t007_7f411395:
@@ -638,7 +638,7 @@ translate spanish sm1fs_t007_d3c9df4e:
 translate spanish sm1fs_t007_25e27a7a:
 
     # tl "Drink this tonight. You'll sleep as if dead for forty-two hours."
-    tl "Bebe esto esta noche. Dormirás como muerta durante cuarenta y dos horas."
+    tl "Bebe esto esta noche. Dormirás como un tronco durante cuarenta y dos horas."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:372
 translate spanish sm1fs_t007_f4d31057:
@@ -698,13 +698,13 @@ translate spanish sm1fs_t007_end_of_play_b386760c:
 translate spanish sm1fs_t007_end_of_play_4b2ff4ca:
 
     # mc "You sure? I don't mind helping."
-    mc "¿Segura? No me molesta ayudar."
+    mc "¿Estás seguro? No me molesta ayudar."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:482
 translate spanish sm1fs_t007_end_of_play_b88fa71c:
 
     # sb "*tiredly* I'm sure. Besides, Denise already signed off on your hours. Get out of here."
-    sb "*cansada* Segura. Además, Denise ya aprobó tus horas. Fuera de aquí."
+    sb "*cansado* Estoy seguro. Además, Denise ya aprobó tus horas. Fuera de aquí."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:492
 translate spanish sm1fs_t007_end_of_play_ad5a9fe5:
@@ -782,7 +782,7 @@ translate spanish sm1fs_t007_end_of_play_b9bc3df6:
 translate spanish sm1fs_t007_end_of_play_31c92b7b:
 
     # tl "*smirks* Yeah, well. I'm a professional."
-    tl "*sonríe* Sí, bueno. Soy una profesional."
+    tl "*sonríe burlonamente* Sí, bueno. Soy una profesional."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:541
 translate spanish sm1fs_t007_end_of_play_0cf0ab15:
@@ -794,13 +794,13 @@ translate spanish sm1fs_t007_end_of_play_0cf0ab15:
 translate spanish sm1fs_t007_end_of_play_efd45618:
 
     # mc "You looked hot in that priest outfit."
-    mc "Te veías muy bien con ese traje de sacerdotisa."
+    mc "Te veías muy bien con ese atuendo de sacerdotisa."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:549
 translate spanish sm1fs_t007_end_of_play_49118625:
 
     # mc "Very \"forgive me, Father for I have sinned\" vibes."
-    mc "Muy «perdóneme, Padre, porque he pecado»."
+    mc "Muy \"perdóneme, Padre, porque he pecado\"."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:552
 translate spanish sm1fs_t007_end_of_play_f8838055:
@@ -860,13 +860,13 @@ translate spanish sm1fs_t007_end_of_play_583dc057:
 translate spanish sm1fs_t007_end_of_play_1d09005b:
 
     # tl "*smirks* Don't let it go to your head."
-    tl "*sonríe de lado* No dejes que se te suba."
+    tl "*sonríe burlonamente* No dejes que se te suba."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:578
 translate spanish sm1fs_t007_end_of_play_6deb0e26:
 
     # tl "But real talk? Theater's great for the resume and the \"craft\" or whatever."
-    tl "Hablando en serio: el teatro es genial para el currículum y el «oficio» o lo que sea."
+    tl "Hablando en serio, el teatro es genial para el currículum y el \"oficio\" o lo que sea."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:581
 translate spanish sm1fs_t007_end_of_play_aef06a19:
@@ -998,7 +998,7 @@ translate spanish sm1fs_t007_47fafcd6:
 translate spanish sm1fs_t007_b65ccefc:
 
     # dvh "*via headset* [mcname], you're up. Get Mercutio off stage. Fifteen seconds before lights up."
-    dvh "*por el auricular* [mcname], te toca. Saca a Mercutio del escenario. Quince segundos antes de que enciendan las luces."
+    dvh "*por el auricular* [mcname], te toca. Saca a Mercucio del escenario. Quince segundos antes de que enciendan las luces."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:486
 translate spanish sm1fs_t007_end_of_play_cf0df8f7:
@@ -1064,7 +1064,7 @@ translate spanish sm1fs_t007_end_of_play_7fd66ba0:
 translate spanish sm1fs_t007_end_of_play_fdfdad2e:
 
     # nr "*chuckles nervously* I'll say. A lot of death, though."
-    nr "*ríe nerviosamente* Ya lo creo. Mucha muerte, sin embargo."
+    nr "*ríe nerviosamente* Ya lo creo. Pero hay mucha muerte."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:525
 translate spanish sm1fs_t007_end_of_play_25a0d277:
@@ -1106,13 +1106,13 @@ translate spanish sm1fs_t007_end_of_play_00695813:
 translate spanish sm1fs_t007_end_of_play_299e077a:
 
     # nr "Anyway, pass on my thanks to the director and the team. Great work, kid."
-    nr "En fin, pásale mis agradecimientos al director y al equipo. Gran trabajo, chico."
+    nr "En fin, pásale mis agradecimientos a la directora y al equipo. Gran trabajo, chico."
 
 # game/code/scenes/theatre/sm1fs-t007.rpy:543
 translate spanish sm1fs_t007_end_of_play_53e479d6:
 
     # ms "*low, teasing* You look good in all black, by the way. Very... mysterious."
-    ms "*bajo, burlona* Te ves bien todo de negro, por cierto. Muy... misterioso."
+    ms "*en voz baja, coqueto* Te ves bien todo de negro, por cierto. Muy... misterioso."
 
 translate spanish strings:
 
