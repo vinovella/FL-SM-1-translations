@@ -56,7 +56,7 @@ translate spanish sm1cs_tl003_e75aad8f:
 translate spanish sm1cs_tl003_05bd8a87:
 
     # sy "Yep! Got her outfit and my phone and a script for her."
-    sy "¡Sí! Conseguí su atuendo y mi teléfono y un guión para ella."
+    sy "¡Sí! Conseguí su atuendo y mi teléfono y un guion para ella."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:67
 translate spanish sm1cs_tl003_82cfef52:
