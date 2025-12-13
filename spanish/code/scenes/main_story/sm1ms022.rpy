@@ -284,7 +284,7 @@ translate spanish sm1ms022_ee54bb83:
 translate spanish sm1ms022_4d14f5a6:
 
     # mc "...{w} Fair."
-    mc "...{w} Justo."
+    mc "...{w} Me parece justo."
 
 # game/code/scenes/main_story/sm1ms022.rpy:212
 translate spanish sm1ms022_84a4ae6e:
@@ -596,7 +596,7 @@ translate spanish sm1ms022_ba4edf08:
 translate spanish sm1ms022_6f12062f:
 
     # sy "That's quite a pickle you've got...{w} I can't wait to see what it would feel like in my tight, little butthole."
-    sy "¡Vaya, qué pepino tienes...!{w} Muero de ganas por sentir lo que se sentiría en mi apretado y pequeño culito."
+    sy "¡Vaya, qué pepino tienes...!{w} Muero de ganas por saber cuál sería la sensación en mi apretado y pequeño culito.."
 
 # game/code/scenes/main_story/sm1ms022.rpy:382
 translate spanish sm1ms022_5e220e7e:
@@ -818,7 +818,7 @@ translate spanish sm1ms022_58c6bda2:
 translate spanish sm1ms022_2e587348:
 
     # sy "Because it just feels soooo damn gooooood."
-    sy "Porque se siente condenadamente biennnn."
+    sy "Porque se siente condenadamente biiiieeeeen."
 
 # game/code/scenes/main_story/sm1ms022.rpy:524
 translate spanish sm1ms022_6796c595:
@@ -1130,7 +1130,7 @@ translate spanish sm1ms022_75f901a0:
 translate spanish sm1ms022_35d6e232:
 
     # sy "{size=*0.8}*whispering* Now lay down on the ground, and fuck my ass, [mcname]. Make me scream and beg and cry and cum.{/size}"
-    sy "{size=*0.8}*susurrando* Ahora acuéstese en el suelo y folle mi culo, [mcname]. Haga que grite, ruegue, llore y me corra.{/size}"
+    sy "{size=*0.8}*susurrando* Ahora acuéstate en el suelo y folla mi culo, [mcname]. **Haz** que grite, ruegue, llore y me corra.{/size}"
 
 # game/code/scenes/main_story/sm1ms022.rpy:674
 translate spanish sm1ms022_e97f8b7d:
