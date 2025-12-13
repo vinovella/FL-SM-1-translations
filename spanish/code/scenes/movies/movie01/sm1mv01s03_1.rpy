@@ -326,7 +326,7 @@ translate spanish sm1mv01s03_1_later_558697f5:
 translate spanish sm1mv01s03_1_later_d585ea0b:
 
     # sy "Check her room. Maybe she's just been jilling out the whole day."
-    sy "Revisa su habitación. Tal vez ha estado *jilling out* todo el día."
+    sy "Revisa su habitación. Quizá ha estado masturbándose todo el día."
 
 # game/code/scenes/movies/movie01/sm1mv01s03_1.rpy:234
 translate spanish sm1mv01s03_1_later_975c8b1d:
