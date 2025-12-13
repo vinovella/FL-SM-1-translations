@@ -44,13 +44,13 @@ translate spanish sm1mv02s03_2_5cb15baa:
 translate spanish sm1mv02s03_2_36f26b35:
 
     # kv "Holy shit..."
-    kv "Mierda sagrada..."
+    kv "Santa mierda..."
 
 # game/code/scenes/movies/movie02/sm1mv02s03_2.rpy:69
 translate spanish sm1mv02s03_2_0b2a19e4:
 
     # mc "Good holy shit, or bad holy shit?"
-    mc "Mierda sagrada, ¿buena o mala?"
+    mc "Santa mierda, ¿buena o mala?"
 
 # game/code/scenes/movies/movie02/sm1mv02s03_2.rpy:73
 translate spanish sm1mv02s03_2_10e45f37:
@@ -230,7 +230,7 @@ translate spanish sm1mv02s03_2_380ebfbc:
 translate spanish sm1mv02s03_2_c525bad7:
 
     # kv "Yeah, it does. This movie is going to look fucking great."
-    kv "Sí, lo hace. Esta película se va a ver jodidamente genial."
+    kv "Sí, así es. Esta película se va a ver jodidamente genial."
 
 # game/code/scenes/movies/movie02/sm1mv02s03_2.rpy:186
 translate spanish sm1mv02s03_2_caf9e95e:
@@ -248,7 +248,7 @@ translate spanish sm1mv02s03_2_411d94ad:
 translate spanish sm1mv02s03_2_43e595b2:
 
     # kv "But, if you point a bunch of lights at a pile of shit, it just looks like a well lit pile of shit."
-    kv "Pero si le apuntas un montón de luces a un montón de mierda, solo se ve como un montón de mierda bien iluminado."
+    kv "Pero si le apuntas un montón de luces a un montón de mierda, solo se ve como un montón de mierda bien iluminada."
 
 # game/code/scenes/movies/movie02/sm1mv02s03_2.rpy:193
 translate spanish sm1mv02s03_2_ba33a893:
@@ -434,7 +434,7 @@ translate spanish sm1mv02s03_2_ce4b8f99:
 translate spanish sm1mv02s03_2_bd056023:
 
     # sy "I knooooow. But I want to go see the set!"
-    sy "Lo séoooo. ¡Pero quiero ir a ver el set!"
+    sy "Lo sé. ¡Pero quiero ir a ver el set!"
 
 # game/code/scenes/movies/movie02/sm1mv02s03_2.rpy:299
 translate spanish sm1mv02s03_2_e3210a33:
@@ -488,7 +488,7 @@ translate spanish sm1mv02s03_2_e8b3c062:
 translate spanish sm1mv02s03_2_b5047839:
 
     # sy "Good! Now, I have some more things I have to do."
-    sy "¡Bien! Ahora, tengo más cosas que tengo que hacer."
+    sy "¡Bien! Ahora, tengo más cosas que hacer."
 
 # game/code/scenes/movies/movie02/sm1mv02s03_2.rpy:328
 translate spanish sm1mv02s03_2_bc054516:
@@ -542,7 +542,7 @@ translate spanish sm1mv02s03_2_57395b5c:
 translate spanish sm1mv02s03_2_a0241f40:
 
     # mc "Fair."
-    mc "Justo."
+    mc "Me parece bien."
 
 # game/code/scenes/movies/movie02/sm1mv02s03_2.rpy:358
 translate spanish sm1mv02s03_2_63c8bc6f:
