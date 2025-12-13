@@ -14,13 +14,13 @@ translate spanish sm1ms025_2d71f122:
 translate spanish sm1ms025_8c7e9cfa:
 
     # sy "Yeah. They seem a little excited."
-    sy "Sí. Parecen un poco emocionados."
+    sy "Sí. Parece un poco emocionado."
 
 # game/code/scenes/main_story/sm1ms025.rpy:18
 translate spanish sm1ms025_efe9b161:
 
     # sy "Antsy even."
-    sy "Incluso algo ansiosos."
+    sy "Incluso algo ansioso."
 
 # game/code/scenes/main_story/sm1ms025.rpy:23
 translate spanish sm1ms025_7129dea6:
@@ -44,7 +44,7 @@ translate spanish sm1ms025_28a107c1:
 translate spanish sm1ms025_6d453796:
 
     # mc "Me or you?"
-    mc "¿Yo o tú?"
+    mc "¿Tú o yo?"
 
 # game/code/scenes/main_story/sm1ms025.rpy:33
 translate spanish sm1ms025_08947137:
@@ -68,7 +68,7 @@ translate spanish sm1ms025_9170b71d:
 translate spanish sm1ms025_e0107363:
 
     # sy "Yeah. I thought so too, figured maybe they were just super horny for... well."
-    sy "Sí. Yo también lo pensé, supuse que estaban muy calientes por... bueno."
+    sy "Sí. Yo también lo pensé, supuse que estaba muy caliente por... bueno."
 
 # game/code/scenes/main_story/sm1ms025.rpy:45
 translate spanish sm1ms025_fc1d110a:
@@ -128,7 +128,7 @@ translate spanish sm1ms025_568ac4c9:
 translate spanish sm1ms025_5f42a3d4:
 
     # mc "Yeah. But...{w} What if they're not being straight with us?"
-    mc "Sí. Pero...{w} ¿Y si ellos no están siendo sinceros con nosotros?"
+    mc "Sí. Pero...{w} ¿Y si no está siendo sincero con nosotros?"
 
 # game/code/scenes/main_story/sm1ms025.rpy:71
 translate spanish sm1ms025_63a9e153:
@@ -164,7 +164,7 @@ translate spanish sm1ms025_80c6e216:
 translate spanish sm1ms025_9a851801:
 
     # mc "I know that.{w} {b}Why{/b} do I know that."
-    mc "Lo sé.{w} {b}¿Por qué{/b} sé eso?"
+    mc "Lo sé.{w} ¿{b}Por qué{/b} sé eso?"
 
 # game/code/scenes/main_story/sm1ms025.rpy:88
 translate spanish sm1ms025_ecf872dc:
@@ -188,7 +188,7 @@ translate spanish sm1ms025_df6e3f1a:
 translate spanish sm1ms025_e4fbd4d7:
 
     # sy "{b}Who{/b} wouldn't and who might?"
-    sy "{b}¿Quién{/b} no lo haría y quién podría hacerlo?"
+    sy "¿{b}Quién{/b} no lo haría y quién podría hacerlo?"
 
 # game/code/scenes/main_story/sm1ms025.rpy:98
 translate spanish sm1ms025_5ed9ddc7:
@@ -242,7 +242,7 @@ translate spanish sm1ms025_f2e09bd2:
 translate spanish sm1ms025_e49e45e7:
 
     # mc "More specifically, a Fetish Locator recording that the app made of AmRose."
-    mc "Más específicamente, una grabación que la app hizo de AmRose."
+    mc "Más específicamente, una grabación que la aplicación hizo de AmRose."
 
 # game/code/scenes/main_story/sm1ms025.rpy:119
 translate spanish sm1ms025_5c2c7bcf:
@@ -254,7 +254,7 @@ translate spanish sm1ms025_5c2c7bcf:
 translate spanish sm1ms025_74e91f2e:
 
     # sy "Oh. She thinks we have {i}that{/i} one?"
-    sy "Oh. ¿Cree que tenemos {i}esa{/i}?"
+    sy "Oh. ¿Cree que tenemos {i}esa grabación{/i}?"
 
 # game/code/scenes/main_story/sm1ms025.rpy:124
 translate spanish sm1ms025_c38ce538:
@@ -380,7 +380,7 @@ translate spanish sm1ms025_177d3eb2:
 translate spanish sm1ms025_83c13411:
 
     # sy "Just bringing you back down to planet earth."
-    sy "Solo devolviéndote a la Tierra."
+    sy "Solo te estoy regresando a la realidad."
 
 # game/code/scenes/main_story/sm1ms025.rpy:171
 translate spanish sm1ms025_615f19be:
@@ -806,7 +806,7 @@ translate spanish sm1ms025_f248d4d6:
 translate spanish sm1ms025_a0f6fc60:
 
     # mc "And gave it back."
-    mc "Y se lo devolvió."
+    mc "Y te la devolvió."
 
 # game/code/scenes/main_story/sm1ms025.rpy:341
 translate spanish sm1ms025_48b13a39:
