@@ -14,7 +14,7 @@ translate spanish sm1mv02s06_443c8e43:
 translate spanish sm1mv02s06_86cf3284:
 
     # kv "You ready for this next one?"
-    kv "¿Estás listo para esta siguiente?"
+    kv "¿Estás listo para lo que viene?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:99
 translate spanish sm1mv02s06_48cb8e45:
@@ -86,7 +86,7 @@ translate spanish sm1mv02s06_98583cc4:
 translate spanish sm1mv02s06_e0a4b3f4:
 
     # sy "All right! Then everyone to one!"
-    sy "¡Muy bien! ¡Entonces todos al uno!"
+    sy "¡Muy bien! ¡Todos a sus puestos!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:148
 translate spanish sm1mv02s06_fc1e0a9e:
@@ -440,7 +440,7 @@ translate spanish sm1mv02s06_scene_62440409:
 translate spanish sm1mv02s06_scene_319b3071:
 
     # sy "That's right! Your festival. The other time you've been made that horny. Tell me about it."
-    sy "¡Así es! Tu festival. La otra vez que estuviste así de cachonda. Cuéntame."
+    sy "¡Así es! Tu festival. La otra vez que estuviste así de excitada. Cuéntame."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:399
 translate spanish sm1mv02s06_scene_af1e38c9:
@@ -548,7 +548,7 @@ translate spanish sm1mv02s06_scene_8ee69c76:
 translate spanish sm1mv02s06_scene_6b625ac5:
 
     # mc "Vel, I think that whatever virus followed me in here, and-"
-    mc "Vel, creo que cualquier virus que me siguió aquí, y-"
+    mc "Vel, creo que el virus que sea que me siguió aquí, y—"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:480
 translate spanish sm1mv02s06_scene_01303df5:
@@ -794,7 +794,7 @@ translate spanish sm1mv02s06_scene_03902110:
 translate spanish sm1mv02s06_scene_ba27139c:
 
     # mc "Fuck, Vel, fuuuuck!"
-    mc "¡Fuck, Vel, jooodeeer!"
+    mc "¡Mierda, Vel, jooodeeer!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:626
 translate spanish sm1mv02s06_scene_bd6474e7:
@@ -926,7 +926,7 @@ translate spanish sm1mv02s06_scene_0e9bf26f:
 translate spanish sm1mv02s06_scene_3024275c:
 
     # mc "Me too! I'm going to cum!"
-    mc "¡Yo también! ¡Me voy a venir!"
+    mc "¡Yo también! ¡Me voy a correr!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:732
 translate spanish sm1mv02s06_scene_4a1aedc4:
@@ -1136,7 +1136,7 @@ translate spanish sm1mv02s06_end_e809186a:
 translate spanish sm1mv02s06_end_dcce1f24:
 
     # sy "Aye, aye!"
-    sy "¡Sí, señor!"
+    sy "¡Sí, señora!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:907
 translate spanish sm1mv02s06_end_f1fc1729:
