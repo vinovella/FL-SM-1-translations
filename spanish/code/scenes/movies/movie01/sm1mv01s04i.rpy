@@ -32,7 +32,7 @@ translate spanish sm1mv01s04_2i_2762008a:
 translate spanish sm1mv01s04_2i_579768a5:
 
     # sy "We are going to need $250 in petty cash for the next step."
-    sy "Vamos a necesitar $250 en efectivo chica para el siguiente paso."
+    sy "Vamos a necesitar $250 en caja chica para el siguiente paso."
 
 # game/code/scenes/movies/movie01/sm1mv01s04i.rpy:22
 translate spanish sm1mv01s04_2i_aae398e6:
