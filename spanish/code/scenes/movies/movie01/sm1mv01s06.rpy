@@ -2,7 +2,7 @@
 translate spanish sm1mv01s06_0bb7087a:
 
     # mc "Time for the epic duel between Captain Dickhart and the Pirate Queen Tempstra!"
-    mc "¡Es hora del duelo épico entre el Capitán Dickhart y la Reina Pirata Tempstra!"
+    mc "¡Es hora del duelo épico entre el Capitán Dickhart y la Reina Pirata Tempestra!"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:17
 translate spanish sm1mv01s06_72fdf43c:
@@ -422,7 +422,7 @@ translate spanish sm1mv01s06_41df0458:
 translate spanish sm1mv01s06_427765ae:
 
     # mc "Nice work, everyone."
-    mc "Buen trabajo, a todos."
+    mc "Buen trabajo, a todas."
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:224
 translate spanish sm1mv01s06_2157a53c:
@@ -608,7 +608,7 @@ translate spanish sm1mv01s06_dressed_up_2ecde094:
 translate spanish sm1mv01s06_dressed_up_198fc067:
 
     # tl "Yes, El Capitan."
-    tl "Sí, El Capitán."
+    tl "Sí, Capitán."
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:344
 translate spanish sm1mv01s06_dressed_up_d7df826a:
@@ -740,7 +740,7 @@ translate spanish sm1mv01s06_movie_start_4ae25eed:
 translate spanish sm1mv01s06_movie_start_41295dd7:
 
     # mc "I got better."
-    mc "Me he mejorado."
+    mc "Mejoré."
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:460
 translate spanish sm1mv01s06_movie_start_7dcc366c:
@@ -818,7 +818,7 @@ translate spanish sm1mv01s06_movie_start_220381a6:
 translate spanish sm1mv01s06_movie_start_bcce6770:
 
     # sy "Tempestra nunca está {b}superada!{/b}"
-    sy "¡Tempestra nunca está {b}superada!{/b}"
+    sy "¡Tempestra nunca está {b}superada{/b}!"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:512
 translate spanish sm1mv01s06_movie_start_c8ba725e:
@@ -1208,7 +1208,7 @@ translate spanish sm1mv01s06_done_recording_42a75306:
 translate spanish sm1mv01s06_done_recording_e8534f24:
 
     # mc "Sure we don't need to go over the last part again."
-    mc "¿Seguros de que no necesitamos repasar la última parte de nuevo?"
+    mc "¿Estás segura de que no necesitamos repasar la última parte de nuevo?"
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:776
 translate spanish sm1mv01s06_done_recording_7682c94c:
@@ -1400,7 +1400,7 @@ translate spanish sm1mv01s06_done_recording_0f7d25c2:
 translate spanish sm1mv01s06_done_recording_25e7ab0c:
 
     # mc "Thank you both for all your hard work today."
-    mc "Gracias a los dos por todo su esfuerzo de hoy."
+    mc "Gracias a las dos por todo el esfuerzo de hoy."
 
 # game/code/scenes/movies/movie01/sm1mv01s06.rpy:861
 translate spanish sm1mv01s06_done_recording_6df6c00b:
