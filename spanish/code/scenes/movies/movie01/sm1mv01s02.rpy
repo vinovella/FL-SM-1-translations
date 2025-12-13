@@ -56,7 +56,7 @@ translate spanish sm1mv01s02_e26fe711:
 translate spanish sm1mv01s02_3968a5eb:
 
     # sy "They seem like fun and interesting villains who would eat children..."
-    sy "Parecen villanos divertidos e interesantes que se comerían niños..."
+    sy "Parecen villanos divertidos e interesantes que comerían niños..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:65
 translate spanish sm1mv01s02_77e521fb:
@@ -224,13 +224,13 @@ translate spanish sm1mv01s02_81c60285:
 translate spanish sm1mv01s02_8e49ff53:
 
     # sy "And as pirate queen of the high seas, my word is law, you scurvy dogs!"
-    sy "¡Y como reina pirata de alta mar, mi palabra es ley, **escorbutos**!"
+    sy "¡Y como reina pirata de alta mar, mi palabra es ley, escorbutos!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:137
 translate spanish sm1mv01s02_a3ebfe85:
 
     # kv "Well, she's certainly letting her Queen flag fly."
-    kv "Bueno, ciertamente está mostrando **su autoridad de Reina**."
+    kv "Bueno, ciertamente está mostrando su autoridad de Reina."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:145
 translate spanish sm1mv01s02_2a54947c:
@@ -278,7 +278,7 @@ translate spanish sm1mv01s02_992a4b37:
 translate spanish sm1mv01s02_867fd99e:
 
     # mc "I'm not sure if the world is ready for Stacy Unchained."
-    mc "No estoy seguro de si el mundo está preparado para Stacy Unchained."
+    mc "No estoy seguro de si el mundo está preparado para Stacy Desencadenada."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:167
 translate spanish sm1mv01s02_9a358d17:
@@ -392,7 +392,7 @@ translate spanish sm1mv01s02_27caad76:
 translate spanish sm1mv01s02_871a90e0:
 
     # kv "Yeah. I'm sure we'll find some outfits that work for us here."
-    kv "Sí. Estoy seguro de que encontraremos algunos conjuntos que nos sirvan aquí."
+    kv "Sí. Estoy segura de que encontraremos algunos conjuntos que nos sirvan aquí."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:225
 translate spanish sm1mv01s02_daf402d8:
@@ -512,7 +512,7 @@ translate spanish sm1mv01s02_2bd512c1:
 translate spanish sm1mv01s02_81109791:
 
     # kv "Ah,{w} So you're saying..."
-    kv "Ah,{w} ¿Entonces estás diciendo..."
+    kv "Ah,{w} Entonces estás diciendo..."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:270
 translate spanish sm1mv01s02_521c035e:
@@ -680,7 +680,7 @@ translate spanish sm1mv01s02_later_08e5ae1c:
 translate spanish sm1mv01s02_later_0f5095cc:
 
     # mc "Baha-ah!"
-    mc "¡Baja-ah!"
+    mc "¡Ahhh!"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:374
 translate spanish sm1mv01s02_later_3c65f722:
@@ -758,7 +758,7 @@ translate spanish sm1mv01s02_later_5737bf74:
 translate spanish sm1mv01s02_later_192794f1:
 
     # mc "Who's the 'him' in that sentence?"
-    mc "¿Quién es el «él» en esa frase?"
+    mc "¿Quién es 'él' en esa frase?"
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:408
 translate spanish sm1mv01s02_later_9ffe204a:
@@ -1490,7 +1490,7 @@ translate spanish sm1mv01s02_later_658872c7:
 translate spanish sm1mv01s02_later_c0564d68:
 
     # mc "Reminds me of my early Fetish Locator parties."
-    mc "Me recuerda a mis primeras fiestas del Localizador de Fetiche."
+    mc "Me recuerda a mis primeras fiestas del Localizador de Fetiches."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:766
 translate spanish sm1mv01s02_later_aba8bc8d:
@@ -1502,7 +1502,7 @@ translate spanish sm1mv01s02_later_aba8bc8d:
 translate spanish sm1mv01s02_later_7bf1f8b2:
 
     # sy "Muaha... fuahah... We should do a Fetish Locator Movie."
-    sy "Muaha... fuahah... Deberíamos hacer una película del Localizador de Fetiche."
+    sy "Muaha... fuahah... Deberíamos hacer una película del Localizador de Fetiches."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:769
 translate spanish sm1mv01s02_later_bb9b7392:
@@ -1526,7 +1526,7 @@ translate spanish sm1mv01s02_later_12dd17f0:
 translate spanish sm1mv01s02_later_086e169d:
 
     # sy "Cum...{w} Cum inside of me."
-    sy "Cum...{w} Cum dentro de mí."
+    sy "Córrete...{w} Córrete dentro de mí."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:777
 translate spanish sm1mv01s02_later_5329efe3:
@@ -1586,13 +1586,13 @@ translate spanish sm1mv01s02_later_f4f2111e:
 translate spanish sm1mv01s02_later_09003c12:
 
     # kv "Hopefully the clerk had a long list of loud customers."
-    kv "Con suerte, el empleado tuvo que atender a muchos clientes ruidosos."
+    kv "Con suerte, la empleada tuvo que atender a muchos clientes ruidosos."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:824
 translate spanish sm1mv01s02_later_da1dfe01:
 
     # "Worker" "Excuse me."
-    "trabajadora" "Disculpe."
+    "Trabajadora" "Disculpe."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:828
 translate spanish sm1mv01s02_later_4b4789b7:
@@ -1604,19 +1604,19 @@ translate spanish sm1mv01s02_later_4b4789b7:
 translate spanish sm1mv01s02_later_ab76bff1:
 
     # "Worker" "I hope you enjoyed that. And the outfits. Because you are definitely purchasing every garment that you went in with."
-    "trabajadora" "Espero que lo hayas disfrutado. Y los trajes. Porque definitivamente estás comprando todas las prendas con las que entraste."
+    "Trabajadora" "Espero que lo hayas disfrutado. Y los trajes. Porque definitivamente estás comprando todas las prendas con las que entraste."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:834
 translate spanish sm1mv01s02_later_01cd3e26:
 
     # "Worker" "And you'll also be buying anything else affected by your lapse of judgement."
-    "trabajadora" "Y también comprará cualquier otra cosa afectada por su falta de juicio."
+    "Trabajadora" "Y también comprará cualquier otra cosa afectada por su falta de juicio."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:835
 translate spanish sm1mv01s02_later_c8546ee6:
 
     # "Worker" "I expect a little better of you, Kanya."
-    "trabajadora" "Espero algo mejor de ti, Kanya."
+    "Trabajadora" "Espero algo mejor de ti, Kanya."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:838
 translate spanish sm1mv01s02_later_6581fe71:
@@ -1634,7 +1634,7 @@ translate spanish sm1mv01s02_later_b44d3c4b:
 translate spanish sm1mv01s02_later_ef924068:
 
     # "Worker" "Well I suggest you save it for the privacy of your own home."
-    "trabajadora" "Bueno, te sugiero que lo guardes para la privacidad de tu hogar."
+    "Trabajadora" "Bueno, te sugiero que lo guardes para la privacidad de tu hogar."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:845
 translate spanish sm1mv01s02_later_9ece5b20:
@@ -1652,37 +1652,37 @@ translate spanish sm1mv01s02_later_bca09261:
 translate spanish sm1mv01s02_later_bc0c4158:
 
     # "Worker" "I'll be waiting at the counter."
-    "trabajadora" "Estaré esperando en el mostrador."
+    "Trabajadora" "Estaré esperando en el mostrador."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:851
 translate spanish sm1mv01s02_later_a5f29463:
 
     # "Worker" "And make sure you bring up everything."
-    "trabajadora" "Y asegúrate de mencionar todo."
+    "Trabajadora" "Y asegúrate de mencionar todo."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:855
 translate spanish sm1mv01s02_later_3471c0ab:
 
     # "Worker" "Kanya was right."
-    "trabajadora" "Kanya tenía razón."
+    "Trabajadora" "Kanya tenía razón."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:856
 translate spanish sm1mv01s02_later_fab98077:
 
     # "Worker" "We do have cameras."
-    "trabajadora" "Tenemos cámaras."
+    "Trabajadora" "Tenemos cámaras."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:857
 translate spanish sm1mv01s02_later_764403cd:
 
     # "Worker" "This is a place of business. Not a live-action Fansly shoot."
-    "trabajadora" "Esto es un negocio, no un set porno."
+    "Trabajadora" "Esto es un negocio, no un set porno."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:863
 translate spanish sm1mv01s02_later_9f7e8476:
 
     # sy "Right. Sorry. Got a little... enthusiastic."
-    sy "Bien. Lo siento. Me puse un poco... entusiasmada."
+    sy "Bien. Lo siento. Me entusiasmé un poco."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:865
 translate spanish sm1mv01s02_later_8d8c970d:
@@ -1706,7 +1706,7 @@ translate spanish sm1mv01s02_later_0a29db9f:
 translate spanish sm1mv01s02_later_b2cbc7b2:
 
     # "Worker" "And here is the total."
-    "trabajadora" "Y aquí está el total."
+    "Trabajadora" "Y aquí está el total."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:880
 translate spanish sm1mv01s02_later_7765b292:
@@ -1724,7 +1724,7 @@ translate spanish sm1mv01s02_later_164ecf31:
 translate spanish sm1mv01s02_later_5c7b1ea3:
 
     # "Worker" "Nrnnn."
-    "trabajadora" "Nrnn."
+    "Trabajadora" "Nrnn."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:887
 translate spanish sm1mv01s02_later_fa158adf:
@@ -1742,13 +1742,13 @@ translate spanish sm1mv01s02_later_c23b85e7:
 translate spanish sm1mv01s02_later_c00afa54:
 
     # "Worker" "Thank you for shopping with us."
-    "trabajadora" "Gracias por comprar con nosotros."
+    "Trabajadora" "Gracias por comprar con nosotros."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:898
 translate spanish sm1mv01s02_later_81bb874d:
 
     # "Worker" "Next time, please just try on the clothes at home."
-    "trabajadora" "La próxima vez, pruébate la ropa en casa."
+    "Trabajadora" "La próxima vez, pruébate la ropa en casa."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:900
 translate spanish sm1mv01s02_later_a3480574:
@@ -1766,7 +1766,7 @@ translate spanish sm1mv01s02_later_29c9338e:
 translate spanish sm1mv01s02_later_ad47d636:
 
     # mc "More expensive than I planned on."
-    mc "ás caro de lo que tenía previsto."
+    mc "Más caro de lo que tenía previsto."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:910
 translate spanish sm1mv01s02_later_2fa0bb4e:
@@ -1940,7 +1940,7 @@ translate spanish sm1mv01s02_walkout_f8c4c766:
 translate spanish sm1mv01s02_walkout_9dfe18ce:
 
     # kv "Totally. I just need to head back to the photo-dojo."
-    kv "Totalmente. Sólo necesito regresar al foto-dojo."
+    kv "Totalmente. Sólo necesito regresar al dojo fotográfico."
 
 # game/code/scenes/movies/movie01/sm1mv01s02.rpy:1002
 translate spanish sm1mv01s02_walkout_1de1d204:
@@ -1984,7 +1984,7 @@ translate spanish strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s02.rpy:490
     old "Horny"
-    new "Excitada"
+    new "Excitado"
 
     # game/code/scenes/movies/movie01/sm1mv01s02.rpy:490
     old "Focused"
