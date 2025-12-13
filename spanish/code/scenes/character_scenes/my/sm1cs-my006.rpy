@@ -116,7 +116,7 @@ translate spanish sm1cs_my006_5d47202a:
 translate spanish sm1cs_my006_096647b6:
 
     # my "But we should get going! We don't want to be late for your reservation!"
-    my "¡Pero debemos irnos! ¡No queremos llegar tarde a tu reservación!"
+    my "¡Pero debemos irnos! ¡No queremos llegar tarde a tu reserva!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:65
 translate spanish sm1cs_my006_db1cd767:
@@ -476,7 +476,7 @@ translate spanish sm1cs_my006_hotel_room_957b82ac:
 translate spanish sm1cs_my006_hotel_room_bc7ccec1:
 
     # mc "Oh fuck, oh fuuuuuck-!"
-    mc "Oh mierda... oh mieeeerda—!"
+    mc "Oh mierda... ¡oh mieeeerda—!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:267
 translate spanish sm1cs_my006_hotel_room_777bd0c9:
@@ -704,7 +704,7 @@ translate spanish sm1cs_my006_hotel_room_aa8e25c2:
 translate spanish sm1cs_my006_hotel_room_1828d914:
 
     # mc "Are you-"
-    mc "¿Estás-"
+    mc "¿Estás-?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:368
 translate spanish sm1cs_my006_hotel_room_fd71a709:
@@ -1034,7 +1034,7 @@ translate spanish sm1cs_my006_hotel_room_fc645303_1:
 translate spanish sm1cs_my006_hotel_room_03b29127:
 
     # mc "That makes you a dirty, dirty girl, doesn't it?"
-    mc "Eso te convierte en una chica sucia, sucia, ¿no es así?"
+    mc "Eso te convierte en una chica sucia, ¿no es así?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:482
 translate spanish sm1cs_my006_hotel_room_f4251614:
@@ -1052,7 +1052,7 @@ translate spanish sm1cs_my006_hotel_room_93c7349a:
 translate spanish sm1cs_my006_hotel_room_f8878d98:
 
     # mc "I like dirty, dirty girls."
-    mc "Me gustan las chicas sucias, sucias."
+    mc "Me gustan las chicas sucias."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:489
 translate spanish sm1cs_my006_hotel_room_3cb10c66:
@@ -1130,7 +1130,7 @@ translate spanish sm1cs_my006_hotel_room_80ba8c31:
 translate spanish sm1cs_my006_hotel_room_b9aac949:
 
     # my "And I love, {i}love{/i}-"
-    my "Y me encanta, {i}encanta{/i}-"
+    my "Y me encanta, {i}me encanta mucho{/i}-"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:511
 translate spanish sm1cs_my006_hotel_room_0b5bd8a2:
@@ -1142,7 +1142,7 @@ translate spanish sm1cs_my006_hotel_room_0b5bd8a2:
 translate spanish sm1cs_my006_hotel_room_64812775:
 
     # mc "Nggh - w-what do you love, Mom!?"
-    mc "¡Nggh - q-qué es lo que te encanta, mamá!?"
+    mc "¡Nggh¡ - ¿¡q-qué es lo que te encanta, mamá!?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:516
 translate spanish sm1cs_my006_hotel_room_152e5c4f:
@@ -1268,7 +1268,7 @@ translate spanish sm1cs_my006_hotel_room_de62f5a4:
 translate spanish sm1cs_my006_hotel_room_da5668f9:
 
     # my "Mmmm... [mcname]?"
-    my "Mmmm... [mcname]?"
+    my "Mmmm... ¿[mcname]?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:553
 translate spanish sm1cs_my006_hotel_room_adae4ce9:
@@ -1562,7 +1562,7 @@ translate spanish sm1cs_my006_hotel_room_50067801:
 translate spanish sm1cs_my006_hotel_room_f68fb269:
 
     # my "Ohfuuuuuuuuuccccckkkkkkkkkkk!!!"
-    my "¡Ohjooooooodeeeeeeerrrrrrrrr!!!"
+    my "¡¡¡Ohjooooooodeeeeeeerrrrrrrrr!!!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:656
 translate spanish sm1cs_my006_hotel_room_2212c0f0:
@@ -1940,7 +1940,7 @@ translate spanish sm1cs_my006_next_morning_4e032e1e:
 translate spanish sm1cs_my006_next_morning_9cbe11f6:
 
     # my "Are you sure there's nothing I can do to convince you?"
-    my "¿Estás segura de que no hay nada que pueda hacer para convencerte?"
+    my "¿Estás seguro de que no hay nada que pueda hacer para convencerte?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:836
 translate spanish sm1cs_my006_next_morning_9d1d4f2c:
@@ -2084,7 +2084,7 @@ translate spanish sm1cs_my006_next_morning_9af2a3a4:
 translate spanish sm1cs_my006_at_studio_20194764:
 
     # mct "Okay... maybe Stacy didn't notice I was gone all night."
-    mct "Está bien... quizás Stacy no notó que estuve fuera toda la noche."
+    mct "Está bien... quizás Stacy no se dio cuenta que estuve fuera toda la noche."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:916
 translate spanish sm1cs_my006_at_studio_1f7414b0:
@@ -2282,7 +2282,7 @@ translate spanish sm1cs_my006_at_studio_ab13f1db:
 translate spanish sm1cs_my006_at_studio_53082042:
 
     # mct "But, at least the sex is pretty fucking awesome!"
-    mct "Pero, ¡al menos el sexo es bastante jodidamente increíble!"
+    mct "Pero, ¡al menos el sexo es absolutamente increíble!"
 
 translate spanish strings:
 
