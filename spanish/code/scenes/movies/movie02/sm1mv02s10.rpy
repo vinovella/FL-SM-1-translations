@@ -218,7 +218,7 @@ translate spanish sm1mv02s10_06b210fd:
 translate spanish sm1mv02s10_92502f60:
 
     # mes "It's only natural that the second film is superior, [mcname]"
-    mes "Es natural que la segunda película sea superior, [mcname]"
+    mes "Es natural que la segunda película sea superior, [mcname]."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:223
 translate spanish sm1mv02s10_240cbaf9:
@@ -350,7 +350,7 @@ translate spanish sm1mv02s10_a65ad25e:
 translate spanish sm1mv02s10_85bfecbf:
 
     # "CLICK"
-    "CLICK"
+    "CLIC"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:289
 translate spanish sm1mv02s10_c71d7213:
@@ -932,7 +932,7 @@ translate spanish sm1mv02s10_continue_df05f045:
 translate spanish sm1mv02s10_continue_f84326c5:
 
     # mes "Haha. Why, Captain Ramses you are insatiable."
-    mes "Jaja. Vaya, Capitán Ramsés, es usted insaciable."
+    mes "Jaja. Vaya, Capitán Ramses, es usted insaciable."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:632
 translate spanish sm1mv02s10_continue_757fffa6:
@@ -1076,7 +1076,7 @@ translate spanish sm1mv02s10_sex_62a5cbb9:
 translate spanish sm1mv02s10_sex_4b204a98:
 
     # mc "Nurah... you can knock another one off the list."
-    mc "Nura... puedes tachar otro de la lista."
+    mc "Nura... puedes tachar otra cosa de la lista."
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:716
 translate spanish sm1mv02s10_sex_d235d41d:
@@ -1100,7 +1100,7 @@ translate spanish sm1mv02s10_sex_86c6c781:
 translate spanish sm1mv02s10_sex_e5b71152:
 
     # ns "[mcname]-iihuah-yah... YES!!!"
-    ns "¡[mcname]-iijuaj-ya... SÍ!!!"
+    ns "¡¡¡[mcname]-iijuaj-ya... SÍ!!!"
 
 # game/code/scenes/movies/movie02/sm1mv02s10.rpy:739
 translate spanish sm1mv02s10_sex_84109df4:
