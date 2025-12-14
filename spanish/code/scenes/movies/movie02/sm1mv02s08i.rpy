@@ -44,7 +44,7 @@ translate spanish sm1mv02s08i_375f0da9:
 translate spanish sm1mv02s08i_1b327b2c:
 
     # sy "So that means we need a lot of cheddar."
-    sy "Así que eso significa que necesitamos mucho *cheddar*."
+    sy "Así que eso significa que necesitamos mucho cheddar."
 
 # game/code/scenes/movies/movie02/sm1mv02s08i.rpy:26
 translate spanish sm1mv02s08i_33d7eda6:
