@@ -1,4 +1,4 @@
-﻿# game/code/scenes/main_story/sm1ms030.rpy:17
+# game/code/scenes/main_story/sm1ms030.rpy:17
 translate spanish sm1ms030_db9ca27a:
 
     # sy "Pirate ship?"
@@ -56,7 +56,7 @@ translate spanish sm1ms030_91b24658:
 translate spanish sm1ms030_6e5536c6:
 
     # sy "Ready for a new post-credits scene?"
-    sy "¿Listas para otra escena postcréditos?"
+    sy "¿Lista para otra escena postcréditos?"
 
 # game/code/scenes/main_story/sm1ms030.rpy:39
 translate spanish sm1ms030_a87817a0:
@@ -110,7 +110,7 @@ translate spanish sm1ms030_3bec21e1:
 translate spanish sm1ms030_2c3679dd:
 
     # sy "Plus, this is the S&M Studio ending after all."
-    sy "Además, este es el final de S&M Studio, después de todo."
+    sy "Además, después de todo, este es el final de S&M Studio."
 
 # game/code/scenes/main_story/sm1ms030.rpy:78
 translate spanish sm1ms030_2b8f492d:
@@ -284,7 +284,7 @@ translate spanish sm1ms030_71ace65e:
 translate spanish sm1ms030_9264c021:
 
     # sy "Well, the cast is already pretty big. We only had one spot in Season One for a returning character, and Min won the popular vote."
-    sy "Bueno, el reparto ya es bastante grande. Solo teníamos un cupo en la Temporada Uno para un personaje que regresara, y Min ganó la votación."
+    sy "Bueno, el reparto ya es bastante grande. Solo teníamos un cupo en la Temporada Uno para que regresara un personaje, y Min ganó la votación."
 
 # game/code/scenes/main_story/sm1ms030.rpy:137
 translate spanish sm1ms030_ab0ae179:
@@ -332,7 +332,7 @@ translate spanish sm1ms030_68aeef90:
 translate spanish sm1ms030_86b5708b:
 
     # dd "So there will be a vote for a character from the original Fetish Locator to join the cast for Season Two?"
-    dd "Entonces habrá una votación para que un personaje de la Fetish Locator original se una al elenco de la Temporada Dos."
+    dd "Entonces habrá una votación para que un personaje de Fetish Locator original se una al elenco de la Temporada Dos."
 
 # game/code/scenes/main_story/sm1ms030.rpy:152
 translate spanish sm1ms030_5b56268b:
@@ -346,17 +346,47 @@ translate spanish sm1ms030_506f7900:
     # dd "Okay, I'm in!"
     dd "¡Bien, me apunto!"
 
+# game/code/scenes/main_story/sm1ms030.rpy:159
+translate spanish sm1ms030_cc3ef1ce:
+
+    # sb "Hold your horses, Diamond girl!"
+    sb "¡Tranquila, chica Diamante!"
+
+# game/code/scenes/main_story/sm1ms030.rpy:161
+translate spanish sm1ms030_d01b0b66:
+
+    # sb "You're not the only one who wants to join!"
+    sb "¡No eres la única que quiere unirse!"
+
 # game/code/scenes/main_story/sm1ms030.rpy:163
 translate spanish sm1ms030_8fb0bc5e:
 
     # sy "Oh! Samiya! You want in, too?"
     sy "¡Oh! ¡Samiya! ¿Tú también quieres entrar?"
 
+# game/code/scenes/main_story/sm1ms030.rpy:165
+translate spanish sm1ms030_bc0ebff7:
+
+    # sb "Damn straight. This is where the party's at, after all."
+    sb "Por supuesto. Después de todo, aquí es donde está la fiesta."
+
+# game/code/scenes/main_story/sm1ms030.rpy:167
+translate spanish sm1ms030_6c510fc0:
+
+    # sb "So you may as well toss in the towel now, Daisy."
+    sb "Así que podrías rendirte ya, Daisy."
+
 # game/code/scenes/main_story/sm1ms030.rpy:169
 translate spanish sm1ms030_9a9b981c:
 
     # dd "I never quit."
     dd "Nunca me rindo."
+
+# game/code/scenes/main_story/sm1ms030.rpy:170
+translate spanish sm1ms030_2153e8f8:
+
+    # sb "We'll see about that."
+    sb "Ya veremos."
 
 # game/code/scenes/main_story/sm1ms030.rpy:176
 translate spanish sm1ms030_f7753e02:
@@ -412,6 +442,12 @@ translate spanish sm1ms030_46f3c53a:
     # zp "Mmm."
     zp "Mmm."
 
+# game/code/scenes/main_story/sm1ms030.rpy:198
+translate spanish sm1ms030_87ef57fa:
+
+    # sb "Yo, Stacy. What can we expect for Season Two of S&M Studio?"
+    sb "Oye, Stacy. ¿Qué podemos esperar de la Temporada Dos de S&M Studio?"
+
 # game/code/scenes/main_story/sm1ms030.rpy:200
 translate spanish sm1ms030_5ef43fce:
 
@@ -435,6 +471,12 @@ translate spanish sm1ms030_c0adc584:
 
     # zp "The story is not going to finish itself."
     zp "La historia no se va a terminar sola."
+
+# game/code/scenes/main_story/sm1ms030.rpy:207
+translate spanish sm1ms030_57fe597d:
+
+    # sb "Bye Zemfira. Love your whole vibe by the way."
+    sb "Adiós, Zemfira. Por cierto, me encanta tu vibra."
 
 # game/code/scenes/main_story/sm1ms030.rpy:209
 translate spanish sm1ms030_a86635f3:
@@ -704,7 +746,7 @@ translate spanish sm1ms030_c4eddf7b:
 translate spanish sm1ms030_301646b8:
 
     # sy "And, of course,"
-    sy "Y, por supuesto,"
+    sy "Y, por supuesto..."
 
 # game/code/scenes/main_story/sm1ms030.rpy:309
 translate spanish sm1ms030_019c4323:
@@ -717,6 +759,12 @@ translate spanish sm1ms030_b0cfc7e5:
 
     # dd "Excellent. I can't wait for it."
     dd "Excelente. No puedo esperar."
+
+# game/code/scenes/main_story/sm1ms030.rpy:313
+translate spanish sm1ms030_d3aab1c1:
+
+    # sb "And the Patreon poll!"
+    sb "¡Y la encuesta de Patreon!"
 
 # game/code/scenes/main_story/sm1ms030.rpy:315
 translate spanish sm1ms030_e90b76c4:
@@ -741,52 +789,3 @@ translate spanish sm1ms030_99415122:
 
     # "Everyone" "See you in Season Two!"
     "Todas" "¡Nos vemos en la Temporada Dos!"
-
-# game/code/scenes/main_story/sm1ms030.rpy:248
-translate spanish sm1ms030_0f32b093:
-
-    # sbf "Hold your horses, Diamond girl!"
-    sbf "¡Espera un momento, chica Diamond!"
-
-# game/code/scenes/main_story/sm1ms030.rpy:251
-translate spanish sm1ms030_014f56b5:
-
-    # sbf "You're not the only one who wants to join!"
-    sbf "¡No eres la única que quiere unirse!"
-
-# game/code/scenes/main_story/sm1ms030.rpy:257
-translate spanish sm1ms030_36bea1d2:
-
-    # sbf "Damn straight. This is where the party's at, after all."
-    sbf "Así es. Después de todo, aquí es donde está la fiesta."
-
-# game/code/scenes/main_story/sm1ms030.rpy:260
-translate spanish sm1ms030_502adca5:
-
-    # sbf "So you may as well toss in the towel now, Daisy."
-    sbf "Así que mejor tira la toalla ahora, Daisy."
-
-# game/code/scenes/main_story/sm1ms030.rpy:265
-translate spanish sm1ms030_0075f6b8:
-
-    # sbf "We'll see about that."
-    sbf "Ya veremos."
-
-# game/code/scenes/main_story/sm1ms030.rpy:314
-translate spanish sm1ms030_e3c64c3e:
-
-    # sbf "Yo, Stacy. What can we expect for Season Two of S&M Studio?"
-    sbf "Oye, Stacy. ¿Qué podemos esperar para la Temporada Dos de S&M Studio?"
-
-# game/code/scenes/main_story/sm1ms030.rpy:328
-translate spanish sm1ms030_59604893:
-
-    # sbf "Bye Zemfira. Love your whole vibe by the way."
-    sbf "Adiós Zemfira. Me encanta toda tu vibra por cierto."
-
-# game/code/scenes/main_story/sm1ms030.rpy:489
-translate spanish sm1ms030_1bbf4e04:
-
-    # sbf "And the Patreon poll!"
-    sbf "¡Y la encuesta de Patreon!"
-
