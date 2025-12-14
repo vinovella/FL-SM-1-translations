@@ -8,7 +8,7 @@ translate spanish sm1mv02s08_1i_f7c8a722:
 translate spanish sm1mv02s08_1i_9e1fa551:
 
     # mc "Morning, partner. Ready to film today?"
-    mc "Buenos días, compañero. ¿Listo para filmar hoy?"
+    mc "Buenos días, compañera. ¿Lista para filmar hoy?"
 
 # game/code/scenes/movies/movie02/sm1mv02s08_1i.rpy:9
 translate spanish sm1mv02s08_1i_6b9b0a58:
@@ -44,7 +44,7 @@ translate spanish sm1mv02s08_1i_07b2864b:
 translate spanish sm1mv02s08_1i_91fb22cb:
 
     # sy "Haha. What is this a 'bad luck to see the bride before the wedding' thing?"
-    sy "Jaja. ¿Es esto una cosa de 'mala suerte ver a la novia antes de la boda'?"
+    sy "Jaja. ¿Es algo así como 'mala suerte ver a la novia antes de la boda'?"
 
 # game/code/scenes/movies/movie02/sm1mv02s08_1i.rpy:24
 translate spanish sm1mv02s08_1i_2e8a794d:
