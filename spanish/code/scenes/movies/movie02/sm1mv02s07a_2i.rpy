@@ -26,13 +26,13 @@ translate spanish sm1mv02s07a_2i_5c3edbfe:
 translate spanish sm1mv02s07a_2i_eecb35cd:
 
     # mc "*chuckles warmly* Same."
-    mc "*ríe cálidamente* Lo mismo."
+    mc "*ríe cálidamente* Yo también."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a_2i.rpy:14
 translate spanish sm1mv02s07a_2i_75d47e2a:
 
     # mc "Just with boyfriend swapped with girlfriend."
-    mc "Solo que mi novio está cambiado por una novia."
+    mc "Solo que el novio se intercambia por la novia."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a_2i.rpy:18
 translate spanish sm1mv02s07a_2i_d389dcd8:
@@ -122,7 +122,7 @@ translate spanish sm1mv02s07a_2i_d8a04f05:
 translate spanish sm1mv02s07a_2i_e94adef7:
 
     # ns "I'm not sure. Maybe she is the jealous type."
-    ns "No estoy segura. Quizás ella sea del tipo celoso."
+    ns "No estoy segura. Quizás ella sea del tipo celosa."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a_2i.rpy:52
 translate spanish sm1mv02s07a_2i_3eafde46:
