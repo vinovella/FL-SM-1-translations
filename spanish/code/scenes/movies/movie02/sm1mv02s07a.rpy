@@ -122,7 +122,7 @@ translate spanish sm1mv02s07a_561c9fe5:
 translate spanish sm1mv02s07a_895776ca:
 
     # mc "My thick sassages are always available upon request."
-    mc "Mis gruesos masajes están siempre disponibles bajo petición."
+    mc "Mis gruesas salchichas están siempre disponibles bajo petición."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:139
 translate spanish sm1mv02s07a_77b23388:
@@ -170,7 +170,7 @@ translate spanish sm1mv02s07a_fc4e19cf:
 translate spanish sm1mv02s07a_5616a196:
 
     # mes "So I had known [mcname] for a while, but I like to think we saw new sides of each other during one of the Fetish Locator parties."
-    mes "Había conocido a [mcname] por un tiempo, pero me gusta pensar que vimos nuevas facetas el uno del otro durante una de las fiestas de Localizador de Fetichismos."
+    mes "Había conocido a [mcname] por un tiempo, pero me gusta pensar que vimos nuevas facetas el uno del otro durante una de las fiestas del Localizador de Fetiche."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:169
 translate spanish sm1mv02s07a_49914275:
@@ -530,7 +530,7 @@ translate spanish sm1mv02s07a_c0b82e21:
 translate spanish sm1mv02s07a_0e75e644:
 
     # ns "Maybe I saw that same 'animal' you saw that night at the Fetish Locator party."
-    ns "Quizás vi ese mismo 'animal' que tú viste esa noche en la fiesta de Localizador de Fetichismos."
+    ns "Quizás vi ese mismo 'animal' que tú viste esa noche en la fiesta de Localizador de Fetiche."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:333
 translate spanish sm1mv02s07a_c23f613e:
@@ -566,7 +566,7 @@ translate spanish sm1mv02s07a_281e82bb:
 translate spanish sm1mv02s07a_b8e0a172:
 
     # mes "Well '[mcname] the solo act' is one thing.{w} But you have probably only had a few chances to see him in a tag team situation."
-    mes "Bueno, '[mcname] el acto en solitario' es una cosa.{w} Pero probablemente solo has tenido unas pocas oportunidades de verlo en una situación de trabajo en equipo."
+    mes "Bueno, '[mcname] trabajando en solitario' es una cosa.{w} Pero probablemente solo has tenido unas pocas oportunidades de verlo en una situación de trabajo en equipo."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:350
 translate spanish sm1mv02s07a_49bb0154:
@@ -644,13 +644,13 @@ translate spanish sm1mv02s07a_3079df43:
 translate spanish sm1mv02s07a_b36ed357:
 
     # mes "Stick with us, you'll have plenty of 'first times'."
-    mes "Quédate con nosotros, tendrás muchas 'primeras veces'."
+    mes "Quédate con nosotros, y tendrás muchas 'primeras veces'."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:381
 translate spanish sm1mv02s07a_8c693be0:
 
     # mes "First we have to get his cock nice and hard."
-    mes "Primero tenemos que poner su pene bien duro."
+    mes "Primero tenemos que poner su polla bien dura."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:382
 translate spanish sm1mv02s07a_4d0ad613:
@@ -674,7 +674,7 @@ translate spanish sm1mv02s07a_fffd60bd:
 translate spanish sm1mv02s07a_6cd78c88:
 
     # mes "Boobs in my face, cock in my hands."
-    mes "Tetas en mi cara, pene en mis manos."
+    mes "Tetas en mi cara, polla en mis manos."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:397
 translate spanish sm1mv02s07a_44fa84c0:
@@ -722,7 +722,7 @@ translate spanish sm1mv02s07a_ef23817b:
 translate spanish sm1mv02s07a_2d71d801:
 
     # ns "Your pussy ready?"
-    ns "¿Tu coño listo?"
+    ns "¿Preparar tu coño?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:435
 translate spanish sm1mv02s07a_bf5fc8e7:
@@ -902,7 +902,7 @@ translate spanish sm1mv02s07a_watersports_e9d85557:
 translate spanish sm1mv02s07a_watersports_2ac7bd00:
 
     # ns "Nuraah-faaah! Ohuaah... Euhhhh..."
-    ns "Nuraah-faaah! Ohuaah... Euhhhh..."
+    ns "¡Nuraah-faaah! Ohuaah... Euhhhh..."
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:550
 translate spanish sm1mv02s07a_watersports_9ecdaa7d:
@@ -1112,7 +1112,7 @@ translate spanish sm1mv02s07a_watersports_0b8d8198:
 translate spanish sm1mv02s07a_watersports_ba750082:
 
     # ns "Are you sure about this?"
-    ns "¿Estás segura de esto?"
+    ns "¿Estás seguro de esto?"
 
 # game/code/scenes/movies/movie02/sm1mv02s07a.rpy:652
 translate spanish sm1mv02s07a_watersports_5810ea82:
