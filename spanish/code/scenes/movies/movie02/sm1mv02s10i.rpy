@@ -20,7 +20,7 @@ translate spanish sm1mv02s10i_017a5140:
 translate spanish sm1mv02s10i_0f0ca60b:
 
     # mc "Get everyone together and see our theatrical slash naughty brilliance."
-    mc "Reunir a todas y ver nuestra genialidad teatralidad traviesa."
+    mc "Reúne a todas para que vean nuestra atrevida genialidad teatral."
 
 # game/code/scenes/movies/movie02/sm1mv02s10i.rpy:15
 translate spanish sm1mv02s10i_cc41d372:
