@@ -176,7 +176,7 @@ translate spanish sm1mv02s02_36a4408c:
 translate spanish sm1mv02s02_2561e9f7:
 
     # mc "The movie is called 'Star Voyage VI: Babe-Lyon 9'. It tells the story of Captain Ramses Hornstar and his brave crew."
-    mc "La película se llama 'Star Voyage VI: Babe-Lyon 9'. Cuenta la historia del Capitán Ramses Hornstar y su valiente tripulación."
+    mc "La película se llama 'Star Voyage VI: Babe-Lyon 9'. Cuenta la historia del Capitán Ramsés Hornstar y su valiente tripulación."
 
 # game/code/scenes/movies/movie02/sm1mv02s02.rpy:104
 translate spanish sm1mv02s02_846385e3:
