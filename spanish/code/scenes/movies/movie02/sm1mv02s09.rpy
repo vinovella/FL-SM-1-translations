@@ -44,7 +44,7 @@ translate spanish sm1mv02s09_70b87e07:
 translate spanish sm1mv02s09_7d88dbdc:
 
     # mc "See? You just had to wait a second."
-    mc "¡Ves! Solo tenías que esperar un segundo."
+    mc "¿Lo ves? Solo tenías que esperar un segundo."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:114
 translate spanish sm1mv02s09_63b92b49:
@@ -134,7 +134,7 @@ translate spanish sm1mv02s09_61a27627:
 translate spanish sm1mv02s09_999726e6:
 
     # sy "-Titular sex scene today! It's going to be a lot of activity."
-    sy "-¡Escena de sexo titular hoy! Va a ser mucha actividad."
+    sy "-¡La escena de sexo principal es hoy! Va a haber mucha actividad."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:168
 translate spanish sm1mv02s09_a1122fd9:
@@ -158,7 +158,7 @@ translate spanish sm1mv02s09_db9c2213:
 translate spanish sm1mv02s09_92d4b7a1:
 
     # mc "You ready for this?"
-    mc "¿Estás listo para esto?"
+    mc "¿Estás lista para esto?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:196
 translate spanish sm1mv02s09_be18fe6b:
@@ -242,7 +242,7 @@ translate spanish sm1mv02s09_movie_09f2de35:
 translate spanish sm1mv02s09_movie_ab002a41:
 
     # ns "Yes, Mr. Captain, sir!"
-    ns "¡Sí, señor Capitán, señor!"
+    ns "¡Sí, señor Capitán!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:267
 translate spanish sm1mv02s09_movie_8bc7b9b3:
@@ -314,7 +314,7 @@ translate spanish sm1mv02s09_movie_54946aa8:
 translate spanish sm1mv02s09_movie_9ad7eed3:
 
     # mc "-Harder than mine!"
-    mc "-¡Más difícil que el mío!"
+    mc "-¡Sea más difícil que el mío!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:329
 translate spanish sm1mv02s09_movie_a988f246:
@@ -356,7 +356,7 @@ translate spanish sm1mv02s09_movie_b964c89a:
 translate spanish sm1mv02s09_movie_990722a0:
 
     # "Kasaru Warrior" "Hiiiyyyyaaaa!"
-    "Guerrera Kasaru" "¡Hiiiyyyyaaaa!"
+    "Guerrero Kasaru" "¡Hiiiyyyyaaaa!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:393
 translate spanish sm1mv02s09_movie_a5d6c8a3:
@@ -368,7 +368,7 @@ translate spanish sm1mv02s09_movie_a5d6c8a3:
 translate spanish sm1mv02s09_movie_9da8b7f0:
 
     # "Kasaru Warrior" "Bring it on."
-    "Guerrera Kasaru" "Adelante."
+    "Guerrero Kasaru" "Adelante."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:403
 translate spanish sm1mv02s09_movie_137e9508:
@@ -422,7 +422,7 @@ translate spanish sm1mv02s09_movie_b68a9182:
 translate spanish sm1mv02s09_movie_1f4a0da7:
 
     # "Kasaru Warrior" "I've got you now, you puny human!"
-    "Guerrera Kasaru" "¡Te tengo ahora, insignificante humano!"
+    "Guerrero Kasaru" "¡Te tengo ahora, insignificante humano!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:468
 translate spanish sm1mv02s09_movie_987f7a37:
@@ -440,7 +440,7 @@ translate spanish sm1mv02s09_movie_46a432d0:
 translate spanish sm1mv02s09_movie_9bf83b12:
 
     # "Kasaru Warrior" "Yeearrrrggg!!!"
-    "Guerrera Kasaru" "¡¡¡Aaaarrrggg!!!"
+    "Guerrero Kasaru" "¡¡¡Aaaarrrggg!!!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:483
 translate spanish sm1mv02s09_movie_bf12d390:
@@ -458,7 +458,7 @@ translate spanish sm1mv02s09_movie_cb97af6b:
 translate spanish sm1mv02s09_movie_3f6c9ec3:
 
     # "Kasaru Warrior" "That's only going to work once! Now what!?"
-    "Guerrera Kasaru" "¡Eso solo funcionará una vez! ¿¡Y ahora qué!?"
+    "Guerrero Kasaru" "¡Eso solo funcionará una vez! ¿¡Y ahora qué!?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:498
 translate spanish sm1mv02s09_movie_6fe993c4:
@@ -476,31 +476,31 @@ translate spanish sm1mv02s09_movie_d9c0aa28:
 translate spanish sm1mv02s09_movie_447443c4:
 
     # "Kasaru Warrior" "What-!?"
-    "Guerrera Kasaru" "¿Qué...?"
+    "Guerrero Kasaru" "¿Qué...?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:510
 translate spanish sm1mv02s09_movie_8a71592f:
 
     # "Kasaru Warrior" "Ha, what, what do you... oh..."
-    "Guerrera Kasaru" "Ja, qué, qué quieres... oh..."
+    "Guerrero Kasaru" "Ja, qué, qué quieres... oh..."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:513
 translate spanish sm1mv02s09_movie_5cfdbad7:
 
     # "Kasaru Warrior" "Oh, oh, OH!"
-    "Guerrera Kasaru" "¡Oh, oh, OH!"
+    "Guerrero Kasaru" "¡Oh, oh, OH!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:516
 translate spanish sm1mv02s09_movie_e86cc71c:
 
     # "Kasaru Warrior" "Did I just orgasm!?! OH!"
-    "Guerrera Kasaru" "¡¿Acabo de tener un orgasmo?! ¡OH!"
+    "Guerrero Kasaru" "¡¿Acabo de tener un orgasmo?! ¡OH!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:518
 translate spanish sm1mv02s09_movie_027674b4:
 
     # "Kasaru Warrior" "I'm doing it again!?!"
-    "Guerrera Kasaru" "¿¡Lo estoy haciendo de nuevo!?"
+    "Guerrero Kasaru" "¿¡Lo estoy haciendo de nuevo!?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:526
 translate spanish sm1mv02s09_movie_a877a75e:
@@ -536,7 +536,7 @@ translate spanish sm1mv02s09_movie_8193fef0:
 translate spanish sm1mv02s09_movie_f3fe110e:
 
     # mc "Then let's get to it! I don't know if I can do another fist fight with a Kasaru."
-    mc "¡Entonces, hagámoslo! No sé si puedo tener otra pelea a puñetazos con una Kasaru."
+    mc "¡Entonces, hagámoslo! No sé si puedo tener otra pelea a puñetazos con un Kasaru."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:550
 translate spanish sm1mv02s09_movie_7ee98f85:
@@ -554,19 +554,19 @@ translate spanish sm1mv02s09_movie_1d62f4a8:
 translate spanish sm1mv02s09_movie_e59b2499:
 
     # "Kasaru Warrior" "Hahaha, I can't wait to kill some humans!"
-    "Guerrera Kasaru" "¡Jajaja, no puedo esperar para matar a algunos humanos!"
+    "Guerrero Kasaru" "¡Jajaja, no puedo esperar para matar a algunos humanos!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:562
 translate spanish sm1mv02s09_movie_ee5b3b67:
 
     # "Kasaru Warrior" "Or even that sexy alien from the- wait, what the-"
-    "Guerrera Kasaru" "O incluso esa alienígena sexy de... espera, ¿qué dem-"
+    "Guerrero Kasaru" "O incluso esa alienígena sexy de... espera, ¿qué dem-"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:566
 translate spanish sm1mv02s09_movie_cf520166:
 
     # "Kasaru Warrior" "OH GOD, I JUST CAME SO HARD!"
-    "Guerrera Kasaru" "¡OH DIOS, ACABO DE CORRERME MUY FUERTE!"
+    "Guerrero Kasaru" "¡OH DIOS, ACABO DE CORRERME MUY FUERTE!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:582
 translate spanish sm1mv02s09_movie_3874baf3:
@@ -614,7 +614,7 @@ translate spanish sm1mv02s09_movie_8b5a49a4:
 translate spanish sm1mv02s09_movie_ec1a2c3e:
 
     # kv "You, and those two with you. You can take me."
-    kv "Tú, y esos dos contigo. Pueden tomarme."
+    kv "Tú, y esas dos contigo. Pueden tomarme."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:627
 translate spanish sm1mv02s09_movie_3f0a2727:
@@ -908,7 +908,7 @@ translate spanish sm1mv02s09_movie_e93c4bae:
 translate spanish sm1mv02s09_movie_16bce200:
 
     # kv "Good! Take me, Captain! Show me the strength of a victor!"
-    kv "¡Bien! ¡Tómenme, Capitán! ¡Muéstrenme la fuerza de un vencedor!"
+    kv "¡Bien! ¡Tome mi cuerpo, Capitán! ¡Muéstreme la fuerza de un vencedor!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:823
 translate spanish sm1mv02s09_movie_b6981d3c:
@@ -1010,7 +1010,7 @@ translate spanish sm1mv02s09_movie_0642252e:
 translate spanish sm1mv02s09_movie_89daacf4:
 
     # mc "You're always - nggggh - welcome to get some hands on experience!"
-    mc "¡Siempre estás - nggggh - bienvenida a tener algo de experiencia práctica!"
+    mc "¡Siempre eres - nggggh - bienvenida a tener algo de experiencia práctica!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:855
 translate spanish sm1mv02s09_movie_0c3ac319:
@@ -1040,7 +1040,7 @@ translate spanish sm1mv02s09_movie_8d083a73:
 translate spanish sm1mv02s09_movie_11f173a2:
 
     # mc "If you're going to cum, Jelerra, cum!"
-    mc "¡Si vas a correrte, Jelerra, correte!"
+    mc "¡Si vas a correrte, Jelerra, córrete!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:864
 translate spanish sm1mv02s09_movie_1306e05b:
@@ -1208,7 +1208,7 @@ translate spanish sm1mv02s09_movie_1fd53dd5:
 translate spanish sm1mv02s09_movie_8228c607:
 
     # mhmes "I agree - mmmmm - with your assessment, captain!"
-    mhmes "Estoy de acuerdo - mmmmm - con tu evaluación, capitán!"
+    mhmes "¡Estoy de acuerdo - mmmmm - con tu evaluación, capitán!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:999
 translate spanish sm1mv02s09_movie_e76f4c5b:
@@ -1520,13 +1520,13 @@ translate spanish sm1mv02s09_watersports_0cb5b032:
 translate spanish sm1mv02s09_end_8722f566:
 
     # mc "With the Kasaru defeated, and the virus cured-"
-    mc "Con la Kasaru derrotada y el virus curado-"
+    mc "Con la Kasaru derrotada y el virus neutralizado-"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1210
 translate spanish sm1mv02s09_end_0fae17ae:
 
     # ns "Oh, and we've sent dispersal units down to the planet so my people have ways to cure it!"
-    ns "¡Oh, y hemos enviado unidades de dispersión al planeta para que mi gente tenga formas de curarlo!"
+    ns "¡Oh, y hemos enviado unidades de dispersión al planeta para que mi gente tenga formas de neutralizarlo!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1212
 translate spanish sm1mv02s09_end_f1fe6537:
@@ -1598,7 +1598,7 @@ translate spanish sm1mv02s09_end_378506b6:
 translate spanish sm1mv02s09_end_2738626d:
 
     # sy "You all did so good! The whole scene was super hot."
-    sy "¡Todos lo hicieron muy bien! Toda la escena fue súper caliente."
+    sy "¡Todos lo hicieron muy bien! Toda la escena fue súper ardiente."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1287
 translate spanish sm1mv02s09_end_166a4726:
@@ -1622,7 +1622,7 @@ translate spanish sm1mv02s09_end_3c4e9a83:
 translate spanish sm1mv02s09_end_9f66b63b:
 
     # sy "But you two should go and get cleaned up. I know how long the special effects takes to get off."
-    sy "Pero ustedes dos deberían ir a limpiarse. Sé cuánto tardan en quitarse los efectos especiales."
+    sy "Pero ustedes dos deberían ir a limpiarse. Sé lo mucho que cuesta quitarse el maquillaje de los efectos especiales."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1309
 translate spanish sm1mv02s09_end_5cd25b87:
@@ -1682,7 +1682,7 @@ translate spanish sm1mv02s09_end_9edda2ec:
 translate spanish sm1mv02s09_end_4060cdbc:
 
     # sy "Nope! You nailed it today, superstar. You get hydrated and get some rest, and I'll follow up with you later."
-    sy "¡No! Lo clavaste hoy, superestrella. Hidrátate y descansa, y me pondré en contacto contigo más tarde."
+    sy "¡No! Lo hiciste perfecto hoy, superestrella. Hidrátate, descansa, y me pondré en contacto contigo más tarde."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1340
 translate spanish sm1mv02s09_end_c8c8b22f:
