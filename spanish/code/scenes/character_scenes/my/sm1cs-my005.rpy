@@ -752,7 +752,7 @@ translate spanish sm1cs_my005_half_movie_c25aaa78:
 translate spanish sm1cs_my005_half_movie_be3c77cd:
 
     # "TV" "Oh, your cock fills me up perfectly! I love how it slams into my pussy so snugly!"
-    "TV" "¡Oh, tu polla me llena perfectamente! ¡Me encanta cómo golpea mi coño tan ajustadamente!"
+    "TV" "¡Oh, tu polla me llena perfectamente! ¡Me encanta cómo golpea mi coño con tanta firmeza!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:341
 translate spanish sm1cs_my005_half_movie_2fe41ad3:
@@ -902,7 +902,7 @@ translate spanish sm1cs_my005_half_movie_44d90e34:
 translate spanish sm1cs_my005_half_movie_6d8b3c8e:
 
     # mct "What is... is Melony rubbing my dick with her foot?"
-    mct "¿Qué es... Melony me está frotando el pene con el pie?"
+    mct "Qué está... ¿Melony me está frotando el pene con el pie?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:396
 translate spanish sm1cs_my005_half_movie_2308c3b4:
@@ -1214,7 +1214,7 @@ translate spanish sm1cs_my005_after_movie_a33aa3e6:
 translate spanish sm1cs_my005_after_movie_7e116b89:
 
     # my "We should do another movie night soon."
-    my "Deberíamos hacer otra noche de películas pronto."
+    my "Deberíamos hacer pronto otra noche de película."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:521
 translate spanish sm1cs_my005_after_movie_fe913ab1:
@@ -1280,7 +1280,7 @@ translate spanish strings:
 
     # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:47
     old "A Few Hours Later"
-    new "Unas Horas Más Tarde"
+    new "Unas Horas más Tarde"
 
     # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:216
     old "About halfway through the movie"
@@ -1294,7 +1294,7 @@ translate spanish strings:
 translate spanish sm1cs_my005_half_movie_c72b9a46:
 
     # mct "What is... is Mom rubbing my dick with her foot?"
-    mct "¿Qué es...? ¿Mamá está frotando mi pene con su pie?"
+    mct "Qué está... ¿Mamá está frotando mi pene con su pie?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:504
 translate spanish sm1cs_my005_after_movie_52d70a1d:
@@ -1318,7 +1318,7 @@ translate spanish sm1cs_my005_after_movie_eed91999:
 translate spanish sm1cs_my005_half_movie_14afb82a:
 
     # mct "Oh God, what the hell do I do now?"
-    mct "¡Oh Dios, qué diablos hago ahora?"
+    mct "¡Oh Dios, ¿qué diablos hago ahora?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:592
 translate spanish sm1cs_my005_after_movie_2431015a:
