@@ -176,7 +176,7 @@ translate spanish sm1mv02s06_scene_5d200d46:
 translate spanish sm1mv02s06_scene_4da325b6:
 
     # mhmes "Ramses... what did you do?"
-    mhmes "Ramses... ¿qué hizo?"
+    mhmes "Ramsés... ¿qué hizo?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:230
 translate spanish sm1mv02s06_scene_c14c584c:
@@ -230,7 +230,7 @@ translate spanish sm1mv02s06_scene_07e03750:
 translate spanish sm1mv02s06_scene_eb1f884e:
 
     # mhmes "Captain Ramses Hornstar. What. Did. You. Do?"
-    mhmes "Capitán Ramses Hornstar. ¿Qué. Hizo. Usted?"
+    mhmes "Capitán Ramsés Hornstar. ¿Qué. Hizo. Usted?"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:270
 translate spanish sm1mv02s06_scene_598053a3:
@@ -254,7 +254,7 @@ translate spanish sm1mv02s06_scene_95c7b31b:
 translate spanish sm1mv02s06_scene_d40fb849:
 
     # mhmes "Ramses... they've taken away captaincies from people for a lot, {i}lot{/i} less."
-    mhmes "Ramses... le han quitado capitanías a gente por mucho, {i}mucho{/i} menos."
+    mhmes "Ramsés... le han quitado capitanías a gente por mucho, {i}mucho{/i} menos."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:287
 translate spanish sm1mv02s06_scene_787076c1:
@@ -356,7 +356,7 @@ translate spanish sm1mv02s06_scene_e7988082:
 translate spanish sm1mv02s06_scene_f49b5888:
 
     # mhmes "Ugggghhh, you can't just change the topic, Ramses. Especially after you have so blatantly ignored one of our most core tenets."
-    mhmes "Ugggghhh, no puede simplemente cambiar de tema, Ramses. Especialmente después de haber ignorado tan descaradamente uno de nuestros principios más fundamentales."
+    mhmes "Ugggghhh, no puede simplemente cambiar de tema, Ramsés. Especialmente después de haber ignorado tan descaradamente uno de nuestros principios más fundamentales."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:347
 translate spanish sm1mv02s06_scene_f1f5c91b:
@@ -368,7 +368,7 @@ translate spanish sm1mv02s06_scene_f1f5c91b:
 translate spanish sm1mv02s06_scene_2d109a2c:
 
     # mhmes "Fine. But don't think that this conversation is finished, Ramses."
-    mhmes "Bien. Pero no crea que esta conversación ha terminado, Ramses."
+    mhmes "Bien. Pero no crea que esta conversación ha terminado, Ramsés."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:355
 translate spanish sm1mv02s06_scene_46f1afbc:
@@ -500,7 +500,7 @@ translate spanish sm1mv02s06_scene_08a5d6f0:
 translate spanish sm1mv02s06_scene_9d094755:
 
     # mhmes "Think about it, Ramses... a whole planet. Of women... women who've never known the touch of a man."
-    mhmes "Piénselo, Ramses... un planeta entero. De mujeres... mujeres que nunca han conocido el toque de un hombre."
+    mhmes "Piénselo, Ramsés... un planeta entero. De mujeres... mujeres que nunca han conocido el toque de un hombre."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:434
 translate spanish sm1mv02s06_scene_312744a8:
@@ -752,7 +752,7 @@ translate spanish sm1mv02s06_scene_b32a1695:
 translate spanish sm1mv02s06_scene_c486720c:
 
     # mhmes "Oh yes, fuck me, Ramses! Oh God, yes!"
-    mhmes "¡Oh sí, f-fóllame, Ramses! ¡Oh Dios, sí!"
+    mhmes "¡Oh sí, f-fóllame, Ramsés! ¡Oh Dios, sí!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:604
 translate spanish sm1mv02s06_scene_cff30cbf:
@@ -836,7 +836,7 @@ translate spanish sm1mv02s06_scene_c4f4117c:
 translate spanish sm1mv02s06_scene_cf1dd7d3:
 
     # mhmes "And fill me, Ramses."
-    mhmes "Y lléneme, Ramses."
+    mhmes "Y lléneme, Ramsés."
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:665
 translate spanish sm1mv02s06_scene_3c9aaa86:
@@ -866,7 +866,7 @@ translate spanish sm1mv02s06_scene_3b5a2d98:
 translate spanish sm1mv02s06_scene_d7f0aba1:
 
     # mhmes "Mmmm! It just feels soo goood, Ramses!"
-    mhmes "¡Mmmm! ¡Simplemente se siente tan bieeen, Ramses!"
+    mhmes "¡Mmmm! ¡Simplemente se siente tan bieeen, Ramsés!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:692
 translate spanish sm1mv02s06_scene_7b1b7cb9:
@@ -1010,7 +1010,7 @@ translate spanish sm1mv02s06_watersports_19a932fd:
 translate spanish sm1mv02s06_watersports_6f9ddf07:
 
     # mhmes "Oh, that feels amaaaazing, Ramses!"
-    mhmes "¡Oh, eso se siente increíble, Ramses!"
+    mhmes "¡Oh, eso se siente increíble, Ramsés!"
 
 # game/code/scenes/movies/movie02/sm1mv02s06.rpy:806
 translate spanish sm1mv02s06_watersports_c3ec5393:
