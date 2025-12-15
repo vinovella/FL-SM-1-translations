@@ -1,4 +1,4 @@
-﻿# game/code/scenes/main_story/sm1ms030.rpy:17
+# game/code/scenes/main_story/sm1ms030.rpy:17
 translate spanish sm1ms030_db9ca27a:
 
     # sy "Pirate ship?"
@@ -56,7 +56,7 @@ translate spanish sm1ms030_91b24658:
 translate spanish sm1ms030_6e5536c6:
 
     # sy "Ready for a new post-credits scene?"
-    sy "¿Listas para otra escena postcréditos?"
+    sy "¿Lista para otra escena postcréditos?"
 
 # game/code/scenes/main_story/sm1ms030.rpy:39
 translate spanish sm1ms030_a87817a0:
@@ -110,7 +110,7 @@ translate spanish sm1ms030_3bec21e1:
 translate spanish sm1ms030_2c3679dd:
 
     # sy "Plus, this is the S&M Studio ending after all."
-    sy "Además, este es el final de S&M Studio, después de todo."
+    sy "Además, después de todo, este es el final de S&M Studio."
 
 # game/code/scenes/main_story/sm1ms030.rpy:78
 translate spanish sm1ms030_2b8f492d:
@@ -284,7 +284,7 @@ translate spanish sm1ms030_71ace65e:
 translate spanish sm1ms030_9264c021:
 
     # sy "Well, the cast is already pretty big. We only had one spot in Season One for a returning character, and Min won the popular vote."
-    sy "Bueno, el reparto ya es bastante grande. Solo teníamos un cupo en la Temporada Uno para un personaje que regresara, y Min ganó la votación."
+    sy "Bueno, el reparto ya es bastante grande. Solo teníamos un cupo en la Temporada Uno para que regresara un personaje, y Min ganó la votación."
 
 # game/code/scenes/main_story/sm1ms030.rpy:137
 translate spanish sm1ms030_ab0ae179:
@@ -332,7 +332,7 @@ translate spanish sm1ms030_68aeef90:
 translate spanish sm1ms030_86b5708b:
 
     # dd "So there will be a vote for a character from the original Fetish Locator to join the cast for Season Two?"
-    dd "Entonces habrá una votación para que un personaje de la Fetish Locator original se una al elenco de la Temporada Dos."
+    dd "Entonces habrá una votación para que un personaje de Fetish Locator original se una al elenco de la Temporada Dos."
 
 # game/code/scenes/main_story/sm1ms030.rpy:152
 translate spanish sm1ms030_5b56268b:
@@ -704,7 +704,7 @@ translate spanish sm1ms030_c4eddf7b:
 translate spanish sm1ms030_301646b8:
 
     # sy "And, of course,"
-    sy "Y, por supuesto,"
+    sy "Y, por supuesto..."
 
 # game/code/scenes/main_story/sm1ms030.rpy:309
 translate spanish sm1ms030_019c4323:
