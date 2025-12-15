@@ -50,7 +50,7 @@ translate spanish sm1mv02s08_61e23275:
 translate spanish sm1mv02s08_145601ee:
 
     # ns "Thank you, Captain Ramses."
-    ns "Gracias, Capitán Ramses."
+    ns "Gracias, Capitán Ramsés."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:65
 translate spanish sm1mv02s08_4a9b29d3:
