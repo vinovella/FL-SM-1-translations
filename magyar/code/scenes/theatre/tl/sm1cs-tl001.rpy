@@ -2,37 +2,37 @@
 translate magyar sm1cs_tl001_2bc398af:
 
     # sy "Welcome home, [mcname]!"
-    sy "Welcome home, [mcname]!"
+    sy "Üdv itthon, [mcname]!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:22
 translate magyar sm1cs_tl001_c7b75a22:
 
     # mc "Thanks, Stacy."
-    mc "Thanks, Stacy."
+    mc "Ksözi, Stacy."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:26
 translate magyar sm1cs_tl001_358f80e0:
 
     # sy "Good to see you too, Taisia. He already tell you the good news?"
-    sy "Good to see you too, Taisia. He already tell you the good news?"
+    sy "Jó látni téged, Taisia. Már elmondta neked a jó hírt?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:29
 translate magyar sm1cs_tl001_1d47ac91:
 
     # tl "He did. He said we had to come here to talk about the next porno."
-    tl "He did. He said we had to come here to talk about the next porno."
+    tl "Igen. Azt mondta, ide kell jönnünk, hogy megbeszéljük a következő pornót."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:32
 translate magyar sm1cs_tl001_15f3ae2f:
 
     # tl "So when are we filming the next sex scene?"
-    tl "So when are we filming the next sex scene?"
+    tl "Szóval, mikor forgatjuk a következő szexjelenetet?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:35
 translate magyar sm1cs_tl001_442cf3f6:
 
     # mc "We're not entirely sure yet, but we're hoping soon!"
-    mc "We're not entirely sure yet, but we're hoping soon!"
+    mc "Még nem vagyok benne telejesen biztos, de hamarosan!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:38
 translate magyar sm1cs_tl001_a4cd1341:
@@ -44,61 +44,61 @@ translate magyar sm1cs_tl001_a4cd1341:
 translate magyar sm1cs_tl001_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Mi?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:44
 translate magyar sm1cs_tl001_2dccf79c:
 
     # tl "I thought you were going to say \"tomorrow\" or \"this weekend\"."
-    tl "I thought you were going to say \"tomorrow\" or \"this weekend\"."
+    tl "Azt hittem azt mondod, hogy \"holnap\" vagy \"ezen a héten\"."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:48
 translate magyar sm1cs_tl001_50af5136:
 
     # mc "We've got a lot of moving parts and aren't exactly liquid-"
-    mc "We've got a lot of moving parts and aren't exactly liquid-"
+    mc "Sok mozgó alkatrészünk van, és nem vagyunk éppen likvidek-"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:50
 translate magyar sm1cs_tl001_28ffc5b8:
 
     # tl "English, please."
-    tl "English, please."
+    tl "Magyarul, kérlek."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:54
 translate magyar sm1cs_tl001_622b00dc:
 
     # sy "We don't have the money right now to finance another film."
-    sy "We don't have the money right now to finance another film."
+    sy "Nincs elég pénzünk egy másik film költségvetéséhez."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:58
 translate magyar sm1cs_tl001_00860104:
 
     # sy "We're working on getting it figured out, but it's going to take a little bit of time before we're ready to go again."
-    sy "We're working on getting it figured out, but it's going to take a little bit of time before we're ready to go again."
+    sy "Dolgozunk a megoldáson, de még egy kis időbe telik, mire újra készen állunk."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:59
 translate magyar sm1cs_tl001_c3b67424:
 
     # sy "But all I do right now is try to get things sorted so that we can keep filming."
-    sy "But all I do right now is try to get things sorted so that we can keep filming."
+    sy "De most csak azt próbálom, hogy mindent elrendezzek, hogy folytathassuk a forgatást."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:63
 translate magyar sm1cs_tl001_d720da5d:
 
     # mc "Well we're still building things up around here, and-"
-    mc "Well we're still building things up around here, and-"
+    mc "Nos, még mindig építkezünk itt, és-"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:66
 translate magyar sm1cs_tl001_6ff2c38e:
 
     # tl "So when the hell do you think you're going to be ready to start?"
-    tl "So when the hell do you think you're going to be ready to start?"
+    tl "Szóval, mikor a fenébe gondolod, hogy készen állsz a kezdésre?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:68
 translate magyar sm1cs_tl001_dfd81e46:
 
     # mc "Uhh..."
-    mc "Uhh..."
+    mc "Ömm..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl001.rpy:72
 translate magyar sm1cs_tl001_cb305ab5:
