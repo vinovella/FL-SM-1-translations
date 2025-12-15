@@ -2,13 +2,13 @@
 translate spanish sm1mv02s05_f6126deb:
 
     # mct "Great. Everyone is here."
-    mct "Genial. Ya están todos aquí."
+    mct "Genial. Ya están todas aquí."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:73
 translate spanish sm1mv02s05_edb63a61:
 
     # mc "Welcome everyone. Today is going to be Day One of filming {i}Star Voyage VI: Babe-lyon 9{/i}."
-    mc "Bienvenidos a todos. Hoy será el primer día de rodaje de {i}Star Voyage VI: Babe-lyon 9{/i}."
+    mc "Bienvenidas a todas. Hoy será el primer día de rodaje de {i}Star Voyage VI: Babe-lyon 9{/i}."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:77
 translate spanish sm1mv02s05_dbd10478:
@@ -26,7 +26,7 @@ translate spanish sm1mv02s05_eb6a1a80:
 translate spanish sm1mv02s05_5b18198d:
 
     # mc "Stacy and I are so happy to have you on S&M Studio's second feature porn film."
-    mc "Stacy y yo estamos encantados de tenerlos en la segunda película porno de larga duración de S&M Studio."
+    mc "Stacy y yo estamos encantados de tenerlas en la segunda película porno de larga duración de S&M Studio."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:87
 translate spanish sm1mv02s05_56f31092:
@@ -260,7 +260,7 @@ translate spanish sm1mv02s05_1cf359ad:
 translate spanish sm1mv02s05_b55055f0:
 
     # mc "Woah, Nari. Are you alright?"
-    mc "Woah, Nari. ¿Estás bien?"
+    mc "Guau, Nari. ¿Estás bien?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:210
 translate spanish sm1mv02s05_d4ddcc05:
@@ -854,13 +854,13 @@ translate spanish sm1mv02s05_movie_start_0c94f65c:
 translate spanish sm1mv02s05_movie_start_a607d849:
 
     # sy "Captain. There are traces of Dickium in the system, but all signs suggest the Kasaru ship is no longer in the system."
-    sy "Capitán. Hay rastros de Dickio en el sistema, pero todo indica que la nave Kasaru ya no está aquí."
+    sy "Capitán. Hay rastros de Dickium en el sistema, pero todo indica que la nave Kasaru ya no está aquí."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:584
 translate spanish sm1mv02s05_movie_start_e8abc7ee:
 
     # mc "That Dickium trace is more than average. If they're leaking, they might be damaged."
-    mc "Ese rastro de Dickio es más alto de lo normal. Si están filtrando, podrían estar dañados."
+    mc "Ese rastro de Dickium es más alto de lo normal. Si están filtrando, podrían estar dañados."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:591
 translate spanish sm1mv02s05_movie_start_4783da26:
@@ -1082,7 +1082,7 @@ translate spanish sm1mv02s05_movie_start_703a6189:
 translate spanish sm1mv02s05_movie_start_b747223b:
 
     # ns "She called you, Captain. This means, leader, yes?"
-    ns "Ella te llamó Capitán. Eso significa líder, ¿sí?"
+    ns "Ella te llamó Capitán. Eso significa líder, ¿verdad?"
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:754
 translate spanish sm1mv02s05_movie_start_f800bed0:
@@ -1262,7 +1262,7 @@ translate spanish sm1mv02s05_movie_start_05b2c4b1:
 translate spanish sm1mv02s05_movie_start_18a4203c:
 
     # ns "Over the last forty cycles, male children have all but vanished."
-    ns "Durante los últimos cuarenta ciclos, los niños varones prácticamente han desaparecido."
+    ns "Durante los últimos cuarenta ciclos, los varones prácticamente han desaparecido."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:827
 translate spanish sm1mv02s05_movie_start_7428e1ba:
@@ -1286,7 +1286,7 @@ translate spanish sm1mv02s05_movie_start_54980f48:
 translate spanish sm1mv02s05_movie_start_64e695d0:
 
     # sy "You think that the pathogen will travel to the females of your species."
-    sy "Crees que el patógeno podría transmitirse a las hembras de tu especie."
+    sy "Crees que el patógeno podría transmitirse a las mujeres de tu especie."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:838
 translate spanish sm1mv02s05_movie_start_0faa796f:
@@ -1520,7 +1520,7 @@ translate spanish sm1mv02s05_movie_start_aabe5ef9:
 translate spanish sm1mv02s05_movie_start_6c665e68:
 
     # sy "Fuck the regs. Actually. Just fuck me."
-    sy "Que se jodan las reglas. En serio. Solo fóllame."
+    sy "A la mierda las reglas. En serio. Solo fóllame."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:960
 translate spanish sm1mv02s05_movie_start_e8004855:
@@ -1970,7 +1970,7 @@ translate spanish sm1mv02s05_movie_start_f383693c:
 translate spanish sm1mv02s05_movie_start_12db756b:
 
     # mc "Haha. Be brave, Doctor."
-    mc "Haha. Sea valiente, Doctora."
+    mc "Jaja. Sea valiente, Doctora."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:1182
 translate spanish sm1mv02s05_movie_start_c71e3410:
