@@ -944,7 +944,7 @@ translate spanish sm1cs_dc010_later_afe087ac:
 translate spanish sm1cs_dc010_later_dfa59203:
 
     # dc "Wow..."
-    dc "Wow..."
+    dc "Guau..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:446
 translate spanish sm1cs_dc010_later_e867c4b1:
@@ -1184,7 +1184,7 @@ translate spanish sm1cs_dc010_later_3939526f:
 translate spanish sm1cs_dc010_later_0267a82e:
 
     # dc "Tell me what it's like to have my tits wrapped around your hard..."
-    dc "Dime qué se siente tener mis pechos envueltos alrededor de tu duro..."
+    dc "Dime qué se siente tener mis pechos envueltos alrededor de tu dura..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:523
 translate spanish sm1cs_dc010_later_08f3a9b3:
@@ -1382,7 +1382,7 @@ translate spanish sm1cs_dc010_later_30bebd7e:
 translate spanish sm1cs_dc010_later_0a282315:
 
     # dc "Okay? Sure."
-    dc "Está bien. Claro."
+    dc "Está bien. Seguro."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:596
 translate spanish sm1cs_dc010_later_aa0aadd3:
@@ -1682,7 +1682,7 @@ translate spanish sm1cs_dc010_dc_hj_341ddac9:
 translate spanish sm1cs_dc010_dc_hj_058fc4b5:
 
     # dc "Oh, I'm getting close, [mcname]!"
-    dc "Oh... estoy por correrme, [mcname]!"
+    dc "¡Oh... estoy por correrme, [mcname]!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:696
 translate spanish sm1cs_dc010_dc_hj_82c285d2:
@@ -1742,7 +1742,7 @@ translate spanish sm1cs_dc010_dc_hj_6e604cc7:
 translate spanish sm1cs_dc010_dc_hj_21120a70:
 
     # dc "Cum!"
-    dc "¡Córrete!"
+    dc "¡Me corro!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:716
 translate spanish sm1cs_dc010_dc_hj_43182693:
@@ -1802,7 +1802,7 @@ translate spanish sm1cs_dc010_dc_hj_0531688b:
 translate spanish sm1cs_dc010_end_3563f38f:
 
     # mct "Man... I was definitely not expecting a titjob tonight..."
-    mct "Hombre... definitivamente no esperaba una paja con pechos esta noche..."
+    mct "Vaya... definitivamente no esperaba una paja con pechos esta noche..."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:745
 translate spanish sm1cs_dc010_end_ac172d85:
@@ -2114,7 +2114,7 @@ translate spanish sm1cs_dc010_end_cc0c9588:
 translate spanish sm1cs_dc010_end_32f0bf2f:
 
     # sy "So, a whole night wasted..."
-    sy "Así que... una noche totalmente perdida."
+    sy "Así que fue... una noche totalmente perdida."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:871
 translate spanish sm1cs_dc010_end_ccded203:
@@ -2268,7 +2268,7 @@ translate spanish sm1cs_dc010_later_0a088038:
 translate spanish sm1cs_dc010_later_118db1de:
 
     # jc "\"Evening, officers\", pfft."
-    jc "«Buenas noches, oficiales», pfft."
+    jc "\"Buenas noches, oficiales\", pfft."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:185
 translate spanish sm1cs_dc010_later_313100aa:
