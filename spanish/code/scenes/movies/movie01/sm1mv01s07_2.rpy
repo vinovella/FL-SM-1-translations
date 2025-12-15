@@ -116,7 +116,7 @@ translate spanish sm1mv01s07_2_626abf51:
 translate spanish sm1mv01s07_2_dc529be2:
 
     # tl "Figure we will split the driving between us. It's six hours after all."
-    tl "Calculo que nos repartiremos la conducción. Son seis horas, después de todo."
+    tl "Calculo que nos repartiremos la conducción. Después de todo, son seis horas."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:88
 translate spanish sm1mv01s07_2_5d8fc6e7:
@@ -392,7 +392,7 @@ translate spanish sm1mv01s07_2_at_rental_eadd5e5f:
 translate spanish sm1mv01s07_2_at_rental_cbf67e78:
 
     # tl "I'm going to unpack later on the right bed."
-    tl "Voy a desempacar más tarde en la cama correcta."
+    tl "Voy a desempacar más tarde en la cama que me corresponde."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:243
 translate spanish sm1mv01s07_2_at_rental_91c8e585:
@@ -404,7 +404,7 @@ translate spanish sm1mv01s07_2_at_rental_91c8e585:
 translate spanish sm1mv01s07_2_at_rental_19bd1b4b:
 
     # tl "I saw a bar not far from here. I'm going to start getting in pirate mode and see what rums they have."
-    tl "Vi un bar no muy lejos de aquí. Voy a empezar a entrar en modo pirata y ver qué rones tienen."
+    tl "Vi un bar no muy lejos de aquí. Voy a empezar a ponerme en modo pirata y ver qué rones tienen."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:250
 translate spanish sm1mv01s07_2_at_rental_37893304:
@@ -770,7 +770,7 @@ translate spanish sm1mv01s07_2_at_beach_2cfe042f:
 translate spanish sm1mv01s07_2_at_beach_536a3f25:
 
     # kv "Oh yes. I love the photo dojo, but this is part of why I signed up to work with [mcname] and Stacy."
-    kv "Oh sí. Me encanta el dojo de fotos, pero esto es parte de por qué me apunté a trabajar con [mcname] y Stacy."
+    kv "Oh sí. Me encanta el dojo fotográfico, pero esto es parte de por qué me apunté a trabajar con [mcname] y Stacy."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:464
 translate spanish sm1mv01s07_2_at_beach_49243a37:
@@ -800,7 +800,7 @@ translate spanish sm1mv01s07_2_at_beach_f96d5f18:
 translate spanish sm1mv01s07_2_at_beach_1813e9d0:
 
     # sy "You. Well, if the other clown girl didn't back out, we probably wouldn't be talking."
-    sy "Tú. Bueno, si la otra chica payaso no se hubiera echado atrás, probablemente no estaríamos hablando."
+    sy "Tú. Bueno, si la otra chica payaso no se hubiera echado para atrás, probablemente no estaríamos hablando."
 
 # game/code/scenes/movies/movie01/sm1mv01s07_2.rpy:477
 translate spanish sm1mv01s07_2_at_beach_689806c8:
