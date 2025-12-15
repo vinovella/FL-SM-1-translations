@@ -332,7 +332,7 @@ translate spanish sm1mv01s05_start_shoot_054c5ee0:
 translate spanish sm1mv01s05_start_shoot_fc2ce174:
 
     # mc "And yet you snuck aboard my ship, bamboozled my crew, and snuck into my cabin."
-    mc "Y sin embargo te colaste a bordo de mi nave, embaucaste a mi tripulación y te infiltraste en mi camarote."
+    mc "Y sin embargo te colaste a bordo de mi barco, embaucaste a mi tripulación y te infiltraste en mi camarote."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:294
 translate spanish sm1mv01s05_start_shoot_29888d86:
@@ -464,7 +464,7 @@ translate spanish sm1mv01s05_start_shoot_38968898:
 translate spanish sm1mv01s05_start_shoot_a711f89f:
 
     # mc "This is {b}my{/b} ship. You're surrounded by {b}my{/b} crew."
-    mc "Esta es {b}mi{/b} nave. Estás rodeada por {b}mi{/b} tripulación."
+    mc "Esta es {b}mi{/b} barco. Estás rodeada por {b}mi{/b} tripulación."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:356
 translate spanish sm1mv01s05_start_shoot_787603e5:
@@ -506,7 +506,7 @@ translate spanish sm1mv01s05_start_shoot_8487f92d:
 translate spanish sm1mv01s05_start_shoot_38262abb:
 
     # tl "Your gun belt was loose, Mr. Scourge."
-    tl "Tu cinturón de armas estaba flojo, Señor Azote."
+    tl "Tu cinturón de armas estaba flojo, Señor Scourge."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:382
 translate spanish sm1mv01s05_start_shoot_9f42dc13:
@@ -686,7 +686,7 @@ translate spanish sm1mv01s05_start_shoot_cb47a4a8:
 translate spanish sm1mv01s05_start_shoot_0ac8532d:
 
     # tl "*gulp*"
-    tl "*trago de saliva*"
+    tl "*traga*"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:527
 translate spanish sm1mv01s05_start_shoot_3a094ee2:
@@ -1118,7 +1118,7 @@ translate spanish sm1mv01s05_start_shoot_f98daaa6:
 translate spanish sm1mv01s05_start_shoot_7b889b31:
 
     # tl "Aye... a great- Fukhaah-huaah... Partnership-huaaaah!"
-    tl "Sí... una gran- ¡Fukhaah-ajuá!... Asociación-ajuáááh!"
+    tl "Sí... una gran- ¡Fukhaah-ajuá!... ¡Asociación-ajuáááh!"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:772
 translate spanish sm1mv01s05_start_shoot_ddac7206:
@@ -1286,19 +1286,19 @@ translate spanish sm1mv01s05_start_shoot_9065c262:
 translate spanish sm1mv01s05_start_shoot_7bf49bc3:
 
     # mc "Aye. I've been meaning to find the next job for me crew."
-    mc "Sí. Llevo tiempo queriendo encontrar el próximo trabajo para mi tripulación."
+    mc "Sí. Llevo tiempo queriendo encontrar el siguiente trabajo para mi tripulación."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:854
 translate spanish sm1mv01s05_start_shoot_a9ee2346:
 
     # mc "And a suicide mission is always good to trim the lard."
-    mc "Y una misión suicida siempre es buena para quitar la grasa."
+    mc "Y una misión suicida siempre es buena para quitar el exceso."
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:858
 translate spanish sm1mv01s05_start_shoot_bacc6125:
 
     # sy "Trim the lard?"
-    sy "¿Quitar la grasa?"
+    sy "¿Recortar el exceso?"
 
 # game/code/scenes/movies/movie01/sm1mv01s05.rpy:859
 translate spanish sm1mv01s05_start_shoot_774ed30e:
@@ -1596,7 +1596,7 @@ translate spanish strings:
 
     # game/code/scenes/movies/movie01/sm1mv01s05.rpy:882
     old "Keep the lard line"
-    new "Mantener la frase de la grasa"
+    new "Mantener la frase del exceso"
 
     # game/code/scenes/movies/movie01/sm1mv01s05.rpy:882
     old "Cut the line"
