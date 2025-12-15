@@ -494,7 +494,7 @@ translate spanish sm1mv01s08_movie_start_164653f5:
 translate spanish sm1mv01s08_movie_start_8fb47765:
 
     # sy "What did that wench tell you? That she was betrayed? Marooned? Deserted?"
-    sy "¿Qué te dijo esa ramera? ¿Que fue traicionada? ¿Abandonada? ¿Desertada?"
+    sy "¿Qué te dijo esa ramera? ¿Qué fue traicionada? ¿Abandonada? ¿Desertada?"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:319
 translate spanish sm1mv01s08_movie_start_1b4f5fac:
@@ -614,7 +614,7 @@ translate spanish sm1mv01s08_movie_start_944283a0:
 translate spanish sm1mv01s08_movie_start_69bc399f:
 
     # sy "And you and I can rule the seven seas. A pirate pair that will go down in history."
-    sy "Y tú y yo podemos gobernar los siete mares. Un par pirata que pasarán a la historia."
+    sy "Y tú y yo podemos gobernar los siete mares. Un par pirata que pasará a la historia."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:378
 translate spanish sm1mv01s08_movie_start_7be02e38:
@@ -692,13 +692,13 @@ translate spanish sm1mv01s08_movie_start_7a7ef7a8:
 translate spanish sm1mv01s08_movie_start_2018c6e1:
 
     # sy "Mmmmm... there it is, Dickhart's legendary cock..."
-    sy "Mmmmm... ahí está, la polla legendario de Dickhart..."
+    sy "Mmmmm... ahí está, la polla legendaria de Dickhart..."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:421
 translate spanish sm1mv01s08_movie_start_e8f4c7d7:
 
     # sy "Seeing it again, I can see why I was missing it."
-    sy "Al verlo de nuevo, entiendo por qué lo extrañaba."
+    sy "Al verla de nuevo, entiendo por qué lo extrañaba."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:423
 translate spanish sm1mv01s08_movie_start_c4ca72ed:
@@ -1112,7 +1112,7 @@ translate spanish sm1mv01s08_movie_start_748ad5ce:
 translate spanish sm1mv01s08_movie_start_4f2edc8c:
 
     # mc "Gah - your ass is like a vice, Tempesta!"
-    mc "¡Gah! ¡Tu culo es como un torno, Tempestra!"
+    mc "¡Gah! ¡Tiu culo me está apretando, Tempestra! "
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:602
 translate spanish sm1mv01s08_movie_start_11b39b29:
@@ -1136,7 +1136,7 @@ translate spanish sm1mv01s08_movie_start_60bc9723:
 translate spanish sm1mv01s08_movie_start_edd1f6bf:
 
     # sy "Ye - fucking - Gods!"
-    sy "¡Jodidos Dioses!"
+    sy "¡Malditos Dioses!"
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:613
 translate spanish sm1mv01s08_movie_start_deae68fe:
@@ -1772,7 +1772,7 @@ translate spanish sm1mv01s08_movie_start_f612a122:
 translate spanish sm1mv01s08_movie_start_5c469d8e:
 
     # sy "Muraah. Keep going. Prove yourself a worthy seaman for my pussy."
-    sy "Muraah. Sigue. Demuéstrate un marinero digno para mi coño."
+    sy "Muraah. Demuestra ser un marinero digno de mi coño."
 
 # game/code/scenes/movies/movie01/sm1mv01s08.rpy:602
 translate spanish sm1mv01s08_movie_start_456168d3:
