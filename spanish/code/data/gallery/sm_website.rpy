@@ -58,11 +58,11 @@
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Captain Ramses Hornstar"
-    new "Capitán Ramses Hornstar"
+    new "Capitán Ramsés Hornstar"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Lt. Luffie Orion"
-    new "Tte. Luffie Orion"
+    new "Teniente. Luffie Orion"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Lieutenant Kira Solo"
