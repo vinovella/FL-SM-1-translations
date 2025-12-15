@@ -32,19 +32,19 @@ translate spanish sm1mv02s08_395cd045:
 translate spanish sm1mv02s08_e065874d:
 
     # mhmes "Captain, I believe my experience with harmonic phase alignments will aid Doctor Jaleera in locking the sequence down."
-    mhmes "Capitán, creo que mi experiencia con alineaciones de fase armónica ayudará al Doctora Jaleera a asegurar la secuencia."
+    mhmes "Capitán, creo que mi experiencia con alineaciones de fase armónica ayudará a la Doctora Jaleera a asegurar la secuencia."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:54
 translate spanish sm1mv02s08_c47561cc:
 
     # mc "Good thinking, Spectre."
-    mc "Bien pensado, Espectro."
+    mc "Bien pensado, Spectre."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:57
 translate spanish sm1mv02s08_61e23275:
 
     # mc "Doctor, we'll get you some help as soon as the Commander is done analyzing these sensor fluctuations."
-    mc "Doctora, le conseguiremos ayuda tan pronto como el Comandante termine de analizar estas fluctuaciones del sensor."
+    mc "Doctora, le conseguiremos ayuda tan pronto como la Comandante termine de analizar estas fluctuaciones del sensor."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:60
 translate spanish sm1mv02s08_145601ee:
@@ -86,7 +86,7 @@ translate spanish sm1mv02s08_207a1d88:
 translate spanish sm1mv02s08_9c689165:
 
     # mc "Spectre, about how long do you think it will take for you to lock this cure down?"
-    mc "Espectro, ¿cuánto tiempo crees que te tomará asegurar esta cura?"
+    mc "Spectre, ¿cuánto tiempo crees que te tomará asegurar esta cura?"
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:91
 translate spanish sm1mv02s08_1a44c3f7:
@@ -116,7 +116,7 @@ translate spanish sm1mv02s08_2dd938d5:
 translate spanish sm1mv02s08_d2ff0394:
 
     # sy "Kasaru Predator is decloaking right off our bow, Captain!"
-    sy "Kasaru Predator está saliendo del camuflaje justo frente a nuestra proa, Capitán!"
+    sy "Kasaru Predator está saliendo del camuflaje justo frente a nuestra proa, Capitán."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:107
 translate spanish sm1mv02s08_7f96d080:
@@ -188,7 +188,7 @@ translate spanish sm1mv02s08_998521c7:
 translate spanish sm1mv02s08_aa7b7e28:
 
     # mc "Then, fire all weapons! Show them the {i}Intrepid{/i} isn't here just to look pretty."
-    mc "Entonces, ¡fuego con todas las armas! Muéstrales que el {i}Intrepid{/i} no está aquí solo para verse bonito."
+    mc "Entonces, ¡fuego con todas las armas! Muéstrales que la {i}Intrepid{/i} no está aquí solo para verse bonita."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:167
 translate spanish sm1mv02s08_657fdbe8:
@@ -560,7 +560,7 @@ translate spanish sm1mv02s08_784f105e:
 translate spanish sm1mv02s08_d8186306:
 
     # mc "Intrepid. Captain here. Boarders approaching."
-    mc "Intrepid. Aquí el Capitán. Los abordadores se acercan."
+    mc "Intrepid. Aquí el Capitán. Están abordando."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:400
 translate spanish sm1mv02s08_57cdfe34:
@@ -572,7 +572,7 @@ translate spanish sm1mv02s08_57cdfe34:
 translate spanish sm1mv02s08_bdc99b34:
 
     # mc "We've got to get you to the lab, Spectre."
-    mc "Tenemos que llevarte al laboratorio, Espectro."
+    mc "Tenemos que llevarte al laboratorio, Spectre."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:421
 translate spanish sm1mv02s08_8cf3d724:
@@ -776,7 +776,7 @@ translate spanish sm1mv02s08_mid_cut_43f3e516:
 translate spanish sm1mv02s08_mid_cut_8db7851a:
 
     # tl "I think so. Don't know much about being a camera girl."
-    tl "Eso creo. No sé mucho sobre ser una chica de cámara."
+    tl "Eso creo. No sé mucho sobre ser una camarógrafa."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:573
 translate spanish sm1mv02s08_mid_cut_3e238308:
@@ -788,7 +788,7 @@ translate spanish sm1mv02s08_mid_cut_3e238308:
 translate spanish sm1mv02s08_mid_cut_0adb972f:
 
     # sy "Well, you'll only be a camera girl for a few more takes."
-    sy "Bueno, solo serás una chica de cámara por unas pocas tomas más."
+    sy "Bueno, solo serás una camarógrafa por unas pocas tomas más."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:581
 translate spanish sm1mv02s08_mid_cut_a1e3bde9:
@@ -884,13 +884,13 @@ translate spanish sm1mv02s08_mid_continue_2b35b6fe:
 translate spanish sm1mv02s08_mid_continue_eef6343b:
 
     # sy "Nobody corners Commander Luffie Orion!"
-    sy "¡Nadie arrincona al Comandante Luffie Orion!"
+    sy "¡Nadie arrincona a la Comandante Luffie Orion!"
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:678
 translate spanish sm1mv02s08_mid_continue_85bfecbf:
 
     # "CLICK"
-    "¡CLICK!"
+    "¡CLIC!"
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:683
 translate spanish sm1mv02s08_mid_continue_54f5c0ec:
@@ -932,7 +932,7 @@ translate spanish sm1mv02s08_mid_continue_b67257b9:
 translate spanish sm1mv02s08_mid_continue_28c42016:
 
     # mc "I know, Spectre.{w} I know..."
-    mc "Lo sé, Espectro.{w} Lo sé..."
+    mc "Lo sé, Spectre.{w} Lo sé..."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:760
 translate spanish sm1mv02s08_cut_f3598b86:
@@ -1046,7 +1046,7 @@ translate spanish sm1mv02s08_cut_4f3aee5b:
 translate spanish sm1mv02s08_cut_bdb068d7:
 
     # mes "If those pre-vizs you showed are anything to go by, it will be a death worthy of a badass, Stacy."
-    mes "Si esas pre-visualizaciones que mostraste sirven de algo, será una muerte digna de una ruda, Stacy."
+    mes "Si esas previsualizaciones que mostraste sirven de algo, será una muerte digna de una mujer ruda, Stacy."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:812
 translate spanish sm1mv02s08_cut_dd33f232:
@@ -1112,7 +1112,7 @@ translate spanish sm1mv02s08_end_talk_8eeee223:
 translate spanish sm1mv02s08_end_talk_42ef96b1:
 
     # mc "This was the big scene, and everyone did amazing!"
-    mc "¡Esta fue la gran escena, y todos lo hicieron increíble!"
+    mc "¡Esta fue la gran escena, y todas lo hicieron increíble!"
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:848
 translate spanish sm1mv02s08_end_talk_f3c58632:
@@ -1142,7 +1142,7 @@ translate spanish sm1mv02s08_end_talk_85fc18b4:
 translate spanish sm1mv02s08_end_talk_936b9d16:
 
     # mc "But until then, you're all free to head home. Just make sure we put our costumes back where they belong."
-    mc "Pero hasta entonces, todos son libres de ir a casa. Solo asegúrense de dejar nuestros disfraces donde deben estar."
+    mc "Pero hasta entonces, todas son libres de irse a casa. Solo asegúrense de dejar nuestros disfraces donde deben estar."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:859
 translate spanish sm1mv02s08_end_talk_7bc9a65b:
