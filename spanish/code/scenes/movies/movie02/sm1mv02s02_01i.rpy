@@ -87,3 +87,4 @@ translate spanish sm1mv02s02_01i_7db81ec3:
 
     # mc "Haha. Maybe next time."
     mc "Jajaja. Quizás la próxima vez."
+
