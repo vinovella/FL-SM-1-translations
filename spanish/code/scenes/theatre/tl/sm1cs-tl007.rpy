@@ -560,13 +560,13 @@ translate spanish sm1cs_tl007_0ed6e7c8:
 translate spanish sm1cs_tl007_52c34a6b:
 
     # mct "I should work hard to make this a decent place for her. Be a good landlord."
-    mct "Debería esforzarme por hacer de este un buen lugar para ella. Ser un buen casero."
+    mct "Debería esforzarme por hacer de este un buen lugar para ella. Ser un buen arrendador."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:334
 translate spanish sm1cs_tl007_17c17cca:
 
     # mct "Right, I guess I'm kind of a landlord now."
-    mct "Vaya... supongo que ahora soy algo así como un casero."
+    mct "Vaya... supongo que ahora soy algo así como un arrendador."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:338
 translate spanish sm1cs_tl007_141160a9:
@@ -578,7 +578,7 @@ translate spanish sm1cs_tl007_141160a9:
 translate spanish sm1cs_tl007_59e6a499:
 
     # mct "Who would've thought, me - a landlord."
-    mct "Quién lo diría... yo, siendo un casero."
+    mct "Quién lo diría... yo, siendo un arrendador."
 
 # game/code/scenes/theatre/tl/sm1cs-tl007.rpy:343
 translate spanish sm1cs_tl007_1eee4ffe:
