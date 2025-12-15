@@ -128,7 +128,7 @@ translate spanish sm1ms029_aed102d0:
 translate spanish sm1ms029_3064bc9d:
 
     # mc "I just... never thought I'd be hosting my own Fetish Locator party."
-    mc "Es que... nunca pensé que sería el anfitrión de mi propia fiesta Fetish Locator."
+    mc "Es que... nunca pensé que sería el anfitrión de mi propia fiesta del Localizador de Fetiches."
 
 # game/code/scenes/main_story/sm1ms029.rpy:73
 translate spanish sm1ms029_7e6a2515:
@@ -206,7 +206,7 @@ translate spanish sm1ms029_89724ee8:
 translate spanish sm1ms029_a8996796:
 
     # sy "Or maybe, this is the classic setup for the next chapter? Some epic villain or downfall before us?"
-    sy "¿O tal vez esta es la configuración clásica para el próximo capítulo? ¿Algún villano épico o caída ante nosotros?"
+    sy "¿O tal vez esta es la preparación clásica para el próximo capítulo? ¿Algún villano épico o se avecina un colapso?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:98
 translate spanish sm1ms029_b96ad77f:
@@ -248,7 +248,7 @@ translate spanish sm1ms029_25313efc:
 translate spanish sm1ms029_6c1b7c16:
 
     # sy "Of course it is!"
-    sy "¡Por supuesto que lo es!"
+    sy "¡Por supuesto que si!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:118
 translate spanish sm1ms029_1e69297d:
@@ -512,7 +512,7 @@ translate spanish sm1ms029_party_ns_bf321ffd:
 translate spanish sm1ms029_party_ns_83866363:
 
     # ns "Thank you, Stacy!"
-    ns "¡Gracias Stacy!"
+    ns "¡Gracias, Stacy!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:251
 translate spanish sm1ms029_party_ns_f7d615bd:
@@ -1040,7 +1040,7 @@ translate spanish sm1ms029_party_continue_825faa7b:
 translate spanish sm1ms029_party_continue_9440f260:
 
     # hr "Mmmm, it is nice to wear again."
-    hr "Mmmm, se siente bien usarlo otra vez."
+    hr "Mmmm, se siente bien usarla otra vez."
 
 # game/code/scenes/main_story/sm1ms029.rpy:497
 translate spanish sm1ms029_party_continue_11ba4715:
@@ -1082,7 +1082,7 @@ translate spanish sm1ms029_party_continue_167473b7:
 translate spanish sm1ms029_party_continue_f54e7e3a:
 
     # sy "Everyone! Thanks so much for attending the very first ever S&M Studio Party!"
-    sy "¡Todos! ¡Muchas gracias por asistir a la primera fiesta de S&M Studio!"
+    sy "¡Muchas gracias a todas por asistir a la primera fiesta de S&M Studio!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:523
 translate spanish sm1ms029_party_continue_02321992:
@@ -1142,7 +1142,7 @@ translate spanish sm1ms029_party_continue_a1be5517:
 translate spanish sm1ms029_party_continue_c58ca4fa:
 
     # sy "Oh shucks, [mcname]."
-    sy "Ay, [mcname]."
+    sy "Ay, por favor [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:550
 translate spanish sm1ms029_party_continue_83078e78:
@@ -1160,7 +1160,7 @@ translate spanish sm1ms029_party_continue_23e050ef:
 translate spanish sm1ms029_party_continue_5ab3f63d:
 
     # mc "Everyone, grab some drinks! Intermingle! Chat!"
-    mc "¡Todos, tomen algo! ¡Charlen! ¡Socialicen!"
+    mc "¡Vamos, tomen algo! ¡Charlen! ¡Socialicen!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:557
 translate spanish sm1ms029_party_continue_0bd71230:
@@ -1310,7 +1310,7 @@ translate spanish sm1ms029_talk_tl_mes_6b10d666:
 translate spanish sm1ms029_talk_tl_mes_bafb6dae:
 
     # tl "Just that it's fucking cringe to call someone a \"roomie\"."
-    tl "Solo que es muy vergonzoso llamar a alguien \"compañeras de cuarto\"."
+    tl "Solo que es muy vergonzoso llamar a alguien \"compañera de cuarto\"."
 
 # game/code/scenes/main_story/sm1ms029.rpy:645
 translate spanish sm1ms029_talk_tl_mes_47ebf633:
@@ -1376,7 +1376,7 @@ translate spanish sm1ms029_talk_tl_mes_1b400966:
 translate spanish sm1ms029_talk_tl_mes_a74166dd:
 
     # mes "It's just... I don't think I get called \"bad ass\" usually."
-    mes "Es solo que... no creo que normalmente me llamen \"bad ass\"."
+    mes "Es solo que... no creo que normalmente me llamen \"chica fuerte\"."
 
 # game/code/scenes/main_story/sm1ms029.rpy:671
 translate spanish sm1ms029_talk_tl_mes_76ee5436:
@@ -1412,7 +1412,7 @@ translate spanish sm1ms029_talk_tl_mes_771e210f:
 translate spanish sm1ms029_talk_tl_mes_8bd5b851:
 
     # mes "And we bad asses have to stick together!"
-    mes "¡Y las mujeres fuertes debemos mantenernos unidas!"
+    mes "¡Y las chicas fuertes debemos mantenernos unidas!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:683
 translate spanish sm1ms029_talk_tl_mes_e926ff8a:
@@ -1484,13 +1484,13 @@ translate spanish sm1ms029_talk_mes_ns_97885c81:
 translate spanish sm1ms029_talk_mes_ns_6921a067:
 
     # mc "Well, I'm happy that you both get to practice then!"
-    mc "Bueno, ¡me alegra que ambos puedan practicar entonces!"
+    mc "Bueno, ¡me alegra que las dos puedan practicar entonces!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:724
 translate spanish sm1ms029_talk_mes_ns_764f0431:
 
     # ns "I am too!"
-    ns "¡Yo también lo soy!"
+    ns "¡Yo también me alegro!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:727
 translate spanish sm1ms029_talk_mes_ns_1f91321b:
@@ -1562,7 +1562,7 @@ translate spanish sm1ms029_talk_mes_ns_ed88b19f:
 translate spanish sm1ms029_talk_mes_ns_ae746b29:
 
     # mc "Oh, she absolutely does."
-    mc "Oh, absolutamente lo hace."
+    mc "Oh, absolutamente lo es."
 
 # game/code/scenes/main_story/sm1ms029.rpy:749
 translate spanish sm1ms029_talk_mes_ns_f246ec81:
@@ -1580,7 +1580,7 @@ translate spanish sm1ms029_talk_mes_ns_8d42590c:
 translate spanish sm1ms029_talk_mes_ns_a1c8e8bb:
 
     # mes "I do like speaking Korean, that is a nice pleasantry of missed."
-    mes "Me gusta hablar coreano, eso es una linda cortesía que se extraña."
+    mes "Me gusta hablar coreano, ese es un detalle agradable que había echado de menos."
 
 # game/code/scenes/main_story/sm1ms029.rpy:754
 translate spanish sm1ms029_talk_mes_ns_83f3d709:
@@ -1604,7 +1604,7 @@ translate spanish sm1ms029_talk_mes_ns_bdaf1c4c:
 translate spanish sm1ms029_talk_mes_ns_9ef95c11:
 
     # mct "And I'm realizing that I've never really asked her about her life before Crowning..."
-    mct "Y me estoy dando cuenta de que nunca le pregunté sobre su vida antes de la Coronación..."
+    mct "Y me estoy dando cuenta de que nunca le pregunté sobre su vida antes de Crowning..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:762
 translate spanish sm1ms029_talk_mes_ns_b237c65c:
@@ -1634,7 +1634,7 @@ translate spanish sm1ms029_talk_mes_ns_4ab9b3f2:
 translate spanish sm1ms029_talk_mes_ns_654f2de5:
 
     # mc "I hope you both enjoy the show later."
-    mc "Espero que ambos disfruten el espectáculo más tarde."
+    mc "Espero que las dos disfruten el espectáculo más tarde."
 
 # game/code/scenes/main_story/sm1ms029.rpy:773
 translate spanish sm1ms029_talk_mes_ns_3bee4600:
@@ -1658,13 +1658,13 @@ translate spanish sm1ms029_talk_tl_ns_8522c77b:
 translate spanish sm1ms029_talk_tl_ns_3bcbb30f:
 
     # tl "'Sup?"
-    tl "'¿Sorber?"
+    tl "¿Qué hay?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:795
 translate spanish sm1ms029_talk_tl_ns_2787bc59:
 
     # mc "It's nice to see you two chatting!"
-    mc "¡Qué bueno verlos a los dos charlando!"
+    mc "¡Qué bien verlas a las dos charlando!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:798
 translate spanish sm1ms029_talk_tl_ns_02e746d0:
@@ -1676,7 +1676,7 @@ translate spanish sm1ms029_talk_tl_ns_02e746d0:
 translate spanish sm1ms029_talk_tl_ns_bfc3414f:
 
     # tl "Ships passing in the night, usually."
-    tl "Los barcos pasan normalmente de noche."
+    tl "Normalmente, solo nos cruzamos."
 
 # game/code/scenes/main_story/sm1ms029.rpy:801
 translate spanish sm1ms029_talk_tl_ns_31bb92ce:
@@ -1688,7 +1688,7 @@ translate spanish sm1ms029_talk_tl_ns_31bb92ce:
 translate spanish sm1ms029_talk_tl_ns_54dfdf04:
 
     # tl "Yeah, offset schedules and all that."
-    tl "Sí, horarios compensados ​​y todo eso."
+    tl "Sí, horarios desfasados ​​y todo eso."
 
 # game/code/scenes/main_story/sm1ms029.rpy:805
 translate spanish sm1ms029_talk_tl_ns_ec9b8664:
@@ -1700,7 +1700,7 @@ translate spanish sm1ms029_talk_tl_ns_ec9b8664:
 translate spanish sm1ms029_talk_tl_ns_3b6bba2c:
 
     # tl "Says the woman who gets up at 5am!"
-    tl "¡Dice la mujer que se levanta a las 5 de la mañana!"
+    tl "¡Lo dice la mujer que se levanta a las 5 de la mañana!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:809
 translate spanish sm1ms029_talk_tl_ns_4f14dcb3:
@@ -1724,7 +1724,7 @@ translate spanish sm1ms029_talk_tl_ns_b4da4a73:
 translate spanish sm1ms029_talk_tl_ns_7e1f46f1:
 
     # tl "Are you sure?"
-    tl "¿Está seguro?"
+    tl "¿Estás segura?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:816
 translate spanish sm1ms029_talk_tl_ns_585c4216:
@@ -1748,7 +1748,7 @@ translate spanish sm1ms029_talk_tl_ns_4d6f12a5:
 translate spanish sm1ms029_talk_tl_ns_254a8c2a:
 
     # tl "Hehehehehe!"
-    tl "Jejejejejeje!"
+    tl "¡Jejejejejeje!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:826
 translate spanish sm1ms029_talk_tl_ns_ceacdba3:
@@ -1832,13 +1832,13 @@ translate spanish sm1ms029_talk_tl_ns_52db67e4:
 translate spanish sm1ms029_talk_tl_ns_de368e0b:
 
     # mc "Well, I'll leave you two to it."
-    mc "Bueno, los dejo a ustedes dos."
+    mc "Bueno, las dejo a ustedes dos."
 
 # game/code/scenes/main_story/sm1ms029.rpy:854
 translate spanish sm1ms029_talk_tl_ns_ede09f41:
 
     # ns "Hehehehe, okay!"
-    ns "Jejejeje, ¡vale!"
+    ns "Jejejeje, ¡está bien!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:874
 translate spanish sm1ms029_talk_kv_hr_arj_043b6df1:
@@ -1904,7 +1904,7 @@ translate spanish sm1ms029_talk_kv_hr_arj_159ea5fc:
 translate spanish sm1ms029_talk_kv_hr_arj_403d36dd:
 
     # hr "Something about a disagreement about the use of Fetish Locator data."
-    hr "Algo sobre un desacuerdo sobre el uso de los datos de Fetish Locator."
+    hr "Algo sobre un desacuerdo sobre el uso de los datos del Localizador de Fetiches."
 
 # game/code/scenes/main_story/sm1ms029.rpy:895
 translate spanish sm1ms029_talk_kv_hr_arj_c1dff962:
@@ -1940,7 +1940,7 @@ translate spanish sm1ms029_talk_kv_hr_arj_f114e539:
 translate spanish sm1ms029_talk_kv_hr_arj_e3f5b33d:
 
     # mct "Oh man..."
-    mct "Oh, hombre..."
+    mct "Oh, vaya..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:908
 translate spanish sm1ms029_talk_kv_hr_arj_55c0cc3e:
@@ -1952,7 +1952,7 @@ translate spanish sm1ms029_talk_kv_hr_arj_55c0cc3e:
 translate spanish sm1ms029_talk_kv_hr_arj_90ca851a:
 
     # kv "Hey, [mcname]-"
-    kv "Hola, [mcname]-"
+    kv "Oye, [mcname]-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:912
 translate spanish sm1ms029_talk_kv_hr_arj_8aabc563:
@@ -1970,7 +1970,7 @@ translate spanish sm1ms029_talk_kv_hr_arj_a3ed8018:
 translate spanish sm1ms029_talk_kv_hr_arj_450e28a2:
 
     # kv "Nope, can't say that I have."
-    kv "No, no puedo decir que sí."
+    kv "No, no puedo decir que lo haya hecho."
 
 # game/code/scenes/main_story/sm1ms029.rpy:919
 translate spanish sm1ms029_talk_kv_hr_arj_f1a909c5:
@@ -2048,7 +2048,7 @@ translate spanish sm1ms029_talk_kv_hr_arj_e2c5a007:
 translate spanish sm1ms029_talk_kv_hr_arj_0ffe1250:
 
     # kv "Are you two aspiring actresses? Is that why you're here?"
-    kv "¿Son dos aspirantes a actrices? ¿Es por eso que están aquí?"
+    kv "¿Son ustedes dos aspirantes a actrices? ¿Es por eso que están aquí?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:949
 translate spanish sm1ms029_talk_kv_hr_arj_911c149e:
@@ -2156,7 +2156,7 @@ translate spanish sm1ms029_party_part_1_22b701c9:
 translate spanish sm1ms029_party_part_1_9e07a27a:
 
     # arj "[mcname] has a list of approved actions, and will welcome you to come up and perform them on our gorgeous actress!"
-    arj "[mcname] tiene una lista de acciones aprobadas y los invitará a venir y realizarlas con nuestra hermosa actriz."
+    arj "[mcname] tiene una lista de acciones aprobadas y las invitará a subir para que las realicen en nuestra hermosa actriz."
 
 # game/code/scenes/main_story/sm1ms029.rpy:999
 translate spanish sm1ms029_party_part_1_c2178b2c:
@@ -2180,7 +2180,7 @@ translate spanish sm1ms029_party_part_1_fdafb391:
 translate spanish sm1ms029_party_part_1_00292478:
 
     # mc "All right, everyone! First up this evening, who wants to come up here and eats Stacy's ass?"
-    mc "¡Muy bien, todos! Primero esta noche, ¿quién quiere venir aquí y comerle el culo a Stacy?"
+    mc "¡Muy bien, comencemos! Primero esta noche, ¿quién quiere venir aquí y comerle el culo a Stacy?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1006
 translate spanish sm1ms029_party_part_1_3684e002:
@@ -2234,7 +2234,7 @@ translate spanish sm1ms029_party_part_1_869092c0:
 translate spanish sm1ms029_party_part_1_2f29c928:
 
     # sy "Shiiiiiit, oh you're gooood at this! Ngghhhmmmmmm!"
-    sy "¡Mierda, oh, eres bueno en esto! ¡Nggghhhmmmmmm!"
+    sy "¡Mierda, oh, eres buena en esto! ¡Nggghhhmmmmmm!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1027
 translate spanish sm1ms029_party_part_1_c4c0a4a7:
@@ -2288,7 +2288,7 @@ translate spanish sm1ms029_party_part_1_235482a0:
 translate spanish sm1ms029_party_part_1_cbf5dbac:
 
     # mc "Because next up, we have some hot wax to be sprinkled all over Stacy's ass. Who would like the honors?"
-    mc "Porque a continuación tenemos un poco de cera caliente para rociar todo el trasero de Stacy. ¿A quién le gustaría tener el honor?"
+    mc "Porque a continuación tenemos un poco de cera caliente para rociar sobre todo el trasero de Stacy. ¿A quién le gustaría tener el honor?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1050
 translate spanish sm1ms029_party_part_1_4eb8b10f:
@@ -2624,7 +2624,7 @@ translate spanish sm1ms029_party_part_1_032a6eb7:
 translate spanish sm1ms029_party_part_1_6d69b3a7:
 
     # sy "I do! Yeouch! I definitely do!"
-    sy "¡Sí! ¡Sí! ¡Definitivamente lo hago!"
+    sy "¡Sí! ¡Sí! ¡Definitivamente me gusta!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1153
 translate spanish sm1ms029_party_part_1_94bc734c:
@@ -2660,7 +2660,7 @@ translate spanish sm1ms029_party_part_1_ea145a60:
 translate spanish sm1ms029_party_part_1_3f59939b:
 
     # sy "There's harder!?"
-    sy "¿¡Puedes darle más fuerte!?"
+    sy "¿¡Puedes golpearme más fuerte!?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1161
 translate spanish sm1ms029_party_part_1_aabbf18d:
@@ -2672,7 +2672,7 @@ translate spanish sm1ms029_party_part_1_aabbf18d:
 translate spanish sm1ms029_party_part_1_e0d0764d:
 
     # sy "I didn't think there was harder!"
-    sy "¡No pensé que hubiera más difícil!"
+    sy "¡No creí que fuera a ser más duro!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1163
 translate spanish sm1ms029_party_part_1_7e4563e7:
@@ -2714,7 +2714,7 @@ translate spanish sm1ms029_party_part_1_c6a34dcb:
 translate spanish sm1ms029_party_part_1_a62db7a0:
 
     # sy "I give, I give! Ouch! Lyssa, ooooo, but ouch!"
-    sy "¡Doy, doy! ¡Ay! Lyssa, ooooo, ¡pero ay!"
+    sy "¡Me rindo, me rindo! ¡Ay! Lyssa, ooooo, ¡pero ay!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1175
 translate spanish sm1ms029_party_part_1_c6df80e3:
@@ -2750,7 +2750,7 @@ translate spanish sm1ms029_party_part_1_3ed77072:
 translate spanish sm1ms029_party_part_1_85d475fe:
 
     # mc "Of course!"
-    mc "¡Por supuesto!"
+    mc "¡De nada!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1187
 translate spanish sm1ms029_party_part_1_84b2ba9d:
@@ -2798,7 +2798,7 @@ translate spanish sm1ms029_party_part_1_e53c9a12:
 translate spanish sm1ms029_party_part_1_3c70516c:
 
     # mc "Who would like to put these on my beautiful girlfriend!?!"
-    mc "¿¡A quién le gustaría ponerle esto a mi hermosa novia!?!"
+    mc "¿¡A quién le gustaría ponerle esto a mi hermosa novia!?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1222
 translate spanish sm1ms029_ns_nipple_clamps_7cec30fd:
@@ -2816,7 +2816,7 @@ translate spanish sm1ms029_ns_nipple_clamps_bd61acfa:
 translate spanish sm1ms029_ns_nipple_clamps_d05aaf9c:
 
     # mc "You're the next contestant on \"Kinks with Stacy\"!"
-    mc "¡Eres el próximo concursante de \"Perversiones con Stacy\"!"
+    mc "¡Eres la próxima concursante de \"Perversiones con Stacy\"!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1227
 translate spanish sm1ms029_ns_nipple_clamps_70687305:
@@ -2846,7 +2846,7 @@ translate spanish sm1ms029_ns_nipple_clamps_46b45c8b:
 translate spanish sm1ms029_ns_nipple_clamps_a4b5ffd6:
 
     # mc "I think you are too."
-    mc "Creo que tú también lo eres."
+    mc "Creo que tú también lo estás."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1238
 translate spanish sm1ms029_ns_nipple_clamps_213c4cc0:
@@ -2876,7 +2876,7 @@ translate spanish sm1ms029_ns_nipple_clamps_5157ba8d:
 translate spanish sm1ms029_ns_nipple_clamps_7ea65083:
 
     # ns "Put it on the..."
-    ns "Ponlo en..."
+    ns "Ponerlo en el..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1248
 translate spanish sm1ms029_ns_nipple_clamps_c3a71b05:
@@ -2900,7 +2900,7 @@ translate spanish sm1ms029_ns_nipple_clamps_2500beb2:
 translate spanish sm1ms029_ns_nipple_clamps_375621c9:
 
     # ns "Is that okay, Stacy!?"
-    ns "¿¡Está bien, Stacy!?"
+    ns "¿¡Estás bien, Stacy!?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1255
 translate spanish sm1ms029_ns_nipple_clamps_f596e9f7:
@@ -3128,7 +3128,7 @@ translate spanish sm1ms029_tl_nipple_clamps_2500beb2_1:
 translate spanish sm1ms029_tl_nipple_clamps_2f3de30d:
 
     # tl "She's all yours again, big boy."
-    tl "Ella es toda tuya otra vez, grandullón."
+    tl "Ella es toda tuya otra vez, grandulón."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1345
 translate spanish sm1ms029_part_1_my_appear_e557a85c:
@@ -3224,7 +3224,7 @@ translate spanish sm1ms029_part_1_my_appear_d71c9391:
 translate spanish sm1ms029_part_1_my_appear_01708eab:
 
     # arj "Oh, some on, Stacy. You can do better than that!"
-    arj "Oh, algo puesto, Stacy. ¡Puedes hacerlo mejor que eso!"
+    arj "¡Oh, vamos, Stacy! ¡Puedes hacerlo mejor que eso!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1397
 translate spanish sm1ms029_part_1_my_appear_f3e7df3a:
@@ -3248,7 +3248,7 @@ translate spanish sm1ms029_part_1_my_appear_01508a13:
 translate spanish sm1ms029_part_1_my_appear_99f830bd:
 
     # arj "I want this dildo {i}very{/i} lubricated when I fuck you."
-    arj "Quiero que este consolador {i}muy{/i} esté lubricado cuando te folle."
+    arj "Quiero que este consolador esté {i}muy{/i} lubricado cuando te folle."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1401
 translate spanish sm1ms029_part_1_my_appear_89d5eb9c:
@@ -3332,7 +3332,7 @@ translate spanish sm1ms029_part_1_my_appear_0d0364cd:
 translate spanish sm1ms029_part_1_my_appear_d1864257:
 
     # arj "I bet you're thinking about [mcname] fucking you right now."
-    arj "Apuesto a que estás pensando en [mcname] follarte ahora mismo."
+    arj "Apuesto a que estás pensando en que [mcname] te folle ahora mismo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1425
 translate spanish sm1ms029_part_1_my_appear_39dcb748:
@@ -3344,7 +3344,7 @@ translate spanish sm1ms029_part_1_my_appear_39dcb748:
 translate spanish sm1ms029_part_1_my_appear_2bc4e327:
 
     # sy "Mmmmm - mmmmmmm!"
-    sy "Mmmmm - mmmmmmmm!"
+    sy "¡Mmmmm - mmmmmmmm!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1429
 translate spanish sm1ms029_part_1_my_appear_7f748666:
@@ -3356,7 +3356,7 @@ translate spanish sm1ms029_part_1_my_appear_7f748666:
 translate spanish sm1ms029_part_1_my_appear_4be528b3:
 
     # arj "And I can see how turned on they make you."
-    arj "Y puedo ver lo excitantes que te ponen."
+    arj "Y puedo ver lo excitada que te pone."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1431
 translate spanish sm1ms029_part_1_my_appear_630b14f2:
@@ -3410,7 +3410,7 @@ translate spanish sm1ms029_part_1_my_appear_c3dc273e:
 translate spanish sm1ms029_part_1_my_appear_ba366f6d:
 
     # my "[mcname]! Are you busy!?"
-    my "[mcname]! ¿¡Estás ocupado!?"
+    my "¡[mcname]! ¿¡Estás ocupado!?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1450
 translate spanish sm1ms029_part_1_my_appear_433bdcbc:
@@ -3458,7 +3458,7 @@ translate spanish sm1ms029_part_1_my_appear_256ce3f2:
 translate spanish sm1ms029_part_1_my_appear_41d16af8:
 
     # my "[mcname]? Hello?"
-    my "[mcname]? ¿Hola?"
+    my "¿[mcname]? ¿Hola?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1463
 translate spanish sm1ms029_part_1_my_appear_ca73caf7:
@@ -3716,7 +3716,7 @@ translate spanish sm1ms029_part_1_my_appear_8ca87e26:
 translate spanish sm1ms029_part_1_my_appear_dbe896c1:
 
     # mc "How's everyone doing? Enjoying the night so far?"
-    mc "¿Cómo están todos? ¿Están disfrutando la noche hasta ahora?"
+    mc "¿Cómo lo están pasando? ¿Están disfrutando de la noche hasta ahora?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1542
 translate spanish sm1ms029_part_1_my_appear_31ebab56:
@@ -3728,7 +3728,7 @@ translate spanish sm1ms029_part_1_my_appear_31ebab56:
 translate spanish sm1ms029_part_1_my_appear_e91e8c0a:
 
     # mc "But, that was just merely an amuse bouche. Are you ready for the main event?!"
-    mc "Pero eso fue simplemente un aperitivo. ¿Estás listo para el evento principal?"
+    mc "Pero eso fue simplemente un aperitivo. ¿Tienen ganas del evento principal?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1544
 translate spanish sm1ms029_part_1_my_appear_c0ff99e1:
@@ -3770,13 +3770,13 @@ translate spanish sm1ms029_party_sy_f61c9b38:
 translate spanish sm1ms029_party_sy_aeebc189:
 
     # mc "I haven't had a turn yet, my sweet sister!"
-    mc "¡Aún no he tenido turno, mi dulce hermana!"
+    mc "¡Aún no he tenido un turno, mi dulce hermana!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1561
 translate spanish sm1ms029_party_sy_67dadce3:
 
     # mc "I haven't had a turn yet!"
-    mc "¡Aún no he tenido turno!"
+    mc "¡Aún no he tenido mi turno!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1562
 translate spanish sm1ms029_party_sy_26a747c9:
@@ -3812,13 +3812,13 @@ translate spanish sm1ms029_party_sy_37b38662:
 translate spanish sm1ms029_party_sy_d2634a7d:
 
     # sy "FFUUUUHHUUUUCK!"
-    sy "¡FUUUUHHHUUUUCK!"
+    sy "¡JOOODEEERRR!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1571
 translate spanish sm1ms029_party_sy_8e431435:
 
     # mc "Wow, I must have missed a pretty good show if you're already this sensitive!"
-    mc "¡Vaya, debo haberme perdido un buen programa si ya eres tan sensible!"
+    mc "¡Vaya, debo haberme perdido un buen programa si ya estás tan sensible!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1574
 translate spanish sm1ms029_party_sy_3a9c5eb2:
@@ -3908,19 +3908,19 @@ translate spanish sm1ms029_party_sy_6a941316:
 translate spanish sm1ms029_party_sy_95633624:
 
     # sy "Yes, pound my slutty little asshole! Fuck me in front of everyone!"
-    sy "¡Sí, golpea mi culito cachondo! ¡Fóllame delante de todos!"
+    sy "¡Sí, golpea mi culito de puta! ¡Fóllame delante de todas!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1597
 translate spanish sm1ms029_party_sy_f4e2b06d:
 
     # sy "I want everyone to see how my brother fucks me!"
-    sy "¡Quiero que todos vean como me folla mi hermano!"
+    sy "¡Quiero que todas vean como me folla mi hermano!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1599
 translate spanish sm1ms029_party_sy_471c882b:
 
     # sy "I want everyone to see how you fuck me!"
-    sy "¡Quiero que todos me vean cómo me follas!"
+    sy "¡Quiero que todas me vean cómo me follas!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1601
 translate spanish sm1ms029_party_sy_fa0f1938:
@@ -3938,7 +3938,7 @@ translate spanish sm1ms029_party_sy_3a373b5b:
 translate spanish sm1ms029_party_sy_a974410e:
 
     # sy "Yes, fuck me, just like that, fuuuuck me!"
-    sy "Sí, fóllame, así como así, ¡fóllame!"
+    sy "Sí, fóllame, justo así, ¡fóllame!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1604
 translate spanish sm1ms029_party_sy_3a21887d:
@@ -3986,7 +3986,7 @@ translate spanish sm1ms029_party_sy_a1f04078:
 translate spanish sm1ms029_party_sy_3656a527:
 
     # mc "You sure?"
-    mc "¿Seguro?"
+    mc "¿Estás segura?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1616
 translate spanish sm1ms029_party_sy_d6ce8cdb:
@@ -4034,7 +4034,7 @@ translate spanish sm1ms029_party_sy_a68d2552:
 translate spanish sm1ms029_party_sy_c2aace91:
 
     # sy "Oh, I'm toooo sensiiitiiiivvveee!"
-    sy "¡Oh, soy demasiado sensiiiiibleeee!"
+    sy "¡Oh, estoy demasiado sensiiiiibleeee!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1629
 translate spanish sm1ms029_party_sy_da8fa417:
@@ -4124,7 +4124,7 @@ translate spanish sm1ms029_party_sy_cc87425e:
 translate spanish sm1ms029_party_sy_2306b455:
 
     # sy "[mcname]!"
-    sy "[mcname]!"
+    sy "¡[mcname]!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1649
 translate spanish sm1ms029_party_sy_d284baa5:
@@ -4214,7 +4214,7 @@ translate spanish sm1ms029_party_sy_ee79eb58:
 translate spanish sm1ms029_party_sy_3d46b5ba:
 
     # sy "Okay... I give, I'm tapping out..."
-    sy "Está bien... doy, estoy haciendo tapping..."
+    sy "Está bien... ¡me rindo, es suficiente!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1671
 translate spanish sm1ms029_party_sy_7b471f6f:
@@ -4352,13 +4352,13 @@ translate spanish sm1ms029_party_sy_bf9842c9:
 translate spanish sm1ms029_party_sy_4deec4c8:
 
     # mc "Shit, Stacy, I won't be able to last very long doing this!"
-    mc "¡Mierda, Stacy, no podré aguantar muy mucho haciendo esto!"
+    mc "¡Mierda, Stacy, no podré aguantar mucho haciendo esto!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1706
 translate spanish sm1ms029_party_sy_11c62bd2:
 
     # mc "Your body is just some great cocksleeve for me like this."
-    mc "Tu cuerpo es solo una gran manga para mí así."
+    mc "De esta manera, tu cuerpo es solo una gran funda para mí polla."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1707
 translate spanish sm1ms029_party_sy_a11b0f38:
@@ -4442,7 +4442,7 @@ translate spanish sm1ms029_rival_enters_34461a04:
 translate spanish sm1ms029_rival_enters_adb7344a:
 
     # kv "Lucky you, we have a box with extras."
-    kv "Qué suerte tienes, tenemos una caja con extras."
+    kv "Qué suerte tienen, tenemos una caja con extras."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1739
 translate spanish sm1ms029_rival_enters_a0952905:
@@ -4466,7 +4466,7 @@ translate spanish sm1ms029_rival_enters_a1ee8d6f:
 translate spanish sm1ms029_rival_enters_755984d1:
 
     # kv "Well, you're all set, and you got here just in time for [mcname]'s grand finale with Stacy."
-    kv "Bueno, ya estás listo y llegaste justo a tiempo para el gran final de [mcname] con Stacy."
+    kv "Bueno, ya están listos y llegaron justo a tiempo para el gran final de [mcname] con Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1747
 translate spanish sm1ms029_rival_enters_ed66a87e:
@@ -4478,7 +4478,7 @@ translate spanish sm1ms029_rival_enters_ed66a87e:
 translate spanish sm1ms029_rival_enters_9bfb7146:
 
     # kv "No sweat."
-    kv "No preocuparse."
+    kv "No hay problema."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1756
 translate spanish sm1ms029_party_sy_finale_7e134d18:
@@ -4622,13 +4622,13 @@ translate spanish sm1ms029_party_sy_finale_73c937a8:
 translate spanish sm1ms029_party_sy_finale_6850ff51:
 
     # mc "Please, feel free to hang out, and grab some more drinks and food!"
-    mc "¡Por favor, siéntete libre de pasar el rato y tomar más bebidas y comida!"
+    mc "¡Por favor, siéntanse libres de quedarse, y tomen más bebidas y comida!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1795
 translate spanish sm1ms029_party_sy_finale_5300911e:
 
     # sy "And make sure you stay around for Part Two!"
-    sy "¡Y asegúrate de quedarte para la segunda parte!"
+    sy "¡Y asegúrense de quedarse para la segunda parte!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1797
 translate spanish sm1ms029_party_sy_finale_9b40a147:
@@ -4694,7 +4694,7 @@ translate spanish sm1ms029_party_sy_finale_717987d4:
 translate spanish sm1ms029_party_sy_finale_c95514d6:
 
     # "Lady" "Yes, yes she does..."
-    "Dama" "Sí, sí lo hace..."
+    "Dama" "Sí, sí ella lo tiene..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1816
 translate spanish sm1ms029_party_sy_finale_8bf12768_1:
@@ -4712,7 +4712,7 @@ translate spanish sm1ms029_party_sy_finale_c54ad9c5:
 translate spanish sm1ms029_party_sy_finale_c0c223fa:
 
     # "Man" "Bugs."
-    "Hombre" "Errores."
+    "Hombre" "Bichos."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1828
 translate spanish sm1ms029_party_arj_254336d8:
@@ -4730,7 +4730,7 @@ translate spanish sm1ms029_party_arj_4e8ea874:
 translate spanish sm1ms029_party_arj_16ff3013:
 
     # mc "*panting* What? Me. I'm fine.{w} I'm sure the feeling in my legs will return."
-    mc "*jadeando* ¿Qué? A mí. Estoy bien. {w} Estoy seguro de que la sensación en mis piernas volverá."
+    mc "*jadeando* ¿Qué? Yo. Estoy bien. {w} Estoy seguro de que la sensación en mis piernas volverá."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1832
 translate spanish sm1ms029_party_arj_f3c65db8:
@@ -4802,7 +4802,7 @@ translate spanish sm1ms029_party_arj_9f21d1cf:
 translate spanish sm1ms029_party_arj_44b98748:
 
     # arj "Sorry... it looked easier on the video."
-    arj "Lo siento... parecía más fácil en el vídeo."
+    arj "Lo siento... parecía más fácil en el video."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1855
 translate spanish sm1ms029_party_arj_35d2ab6e:
@@ -4874,7 +4874,7 @@ translate spanish sm1ms029_party_arj_a01780ba:
 translate spanish sm1ms029_party_arj_fafbfb54:
 
     # mc "Good thinking."
-    mc "Buen pensamiento."
+    mc "Bien pensado."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1876
 translate spanish sm1ms029_party_arj_99a7ad92:
@@ -5054,7 +5054,7 @@ translate spanish sm1ms029_party_arj_faa03e1a:
 translate spanish sm1ms029_party_arj_59051cfd:
 
     # mc "That's what I'm for. To take care of all your needs."
-    mc "Para eso estoy. Para atender todas sus necesidades."
+    mc "Para eso estoy. Para atender todas tus necesidades."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1935
 translate spanish sm1ms029_party_arj_d67db856:
@@ -5126,7 +5126,7 @@ translate spanish sm1ms029_party_arj_6adeae12:
 translate spanish sm1ms029_party_arj_fda3491d:
 
     # sy "You got it."
-    sy "Lo entendiste."
+    sy "Entendido."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1954
 translate spanish sm1ms029_party_arj_254336d8_1:
@@ -5138,7 +5138,7 @@ translate spanish sm1ms029_party_arj_254336d8_1:
 translate spanish sm1ms029_party_arj_7c7f62e0:
 
     # arj "What is-"
-    arj "¿Qué es-"
+    arj "Qué es-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1957
 translate spanish sm1ms029_party_arj_03bd3623:
@@ -5210,7 +5210,7 @@ translate spanish sm1ms029_party_arj_461e7cf4:
 translate spanish sm1ms029_party_arj_aa94414f:
 
     # arj "Please! I need it so bad."
-    arj "¡Por favor! Lo necesito tanto."
+    arj "¡Por favor! La necesito tanto."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1978
 translate spanish sm1ms029_party_arj_5d015962:
@@ -5360,7 +5360,7 @@ translate spanish sm1ms029_party_arj_42be4321:
 translate spanish sm1ms029_party_arj_884ac509:
 
     # mc "Oh fuck. I love you so much, AmRose!"
-    mc "Oh joder. ¡Te quiero mucho, AmRose!"
+    mc "Oh joder. ¡Te amo mucho, AmRose!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2017
 translate spanish sm1ms029_party_arj_a887bdb3:
@@ -5438,7 +5438,7 @@ translate spanish sm1ms029_party_arj_bfefe293:
 translate spanish sm1ms029_party_arj_e7c9f9db:
 
     # mc "Hup."
-    mc "Hup."
+    mc "¡Arriba!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2051
 translate spanish sm1ms029_party_arj_9cfa5994:
@@ -5996,7 +5996,7 @@ translate spanish sm1ms029_confrontation_10c0f21e:
 translate spanish sm1ms029_confrontation_a253231a:
 
     # sy "We built it, and you think we should just sell it when it's finally running smoothly?"
-    sy "Lo construimos, ¿y crees que deberíamos venderlo cuando finalmente esté funcionando sin problemas?"
+    sy "Lo construimos, ¿y crees que deberíamos venderlo cuando finalmente está funcionando sin problemas?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2243
 translate spanish sm1ms029_confrontation_fc6406d4:
@@ -6128,7 +6128,7 @@ translate spanish sm1ms029_confrontation_c122e1f8:
 translate spanish sm1ms029_confrontation_3e248f0f:
 
     # mc "Hey, Stacy."
-    mc "Hola, Stacy."
+    mc "Dime, Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2290
 translate spanish sm1ms029_confrontation_77975f23:
@@ -6218,7 +6218,7 @@ translate spanish sm1ms029_confrontation_7ee503fe:
 translate spanish sm1ms029_party_end_5f80ca01:
 
     # mc "Everyone, thank you so, so much for coming to the S&M Studio party!"
-    mc "¡Muchas gracias a todos por venir a la fiesta de S&M Studio!"
+    mc "¡Muchas gracias a todas por venir a la fiesta de S&M Studio!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2349
 translate spanish sm1ms029_party_end_a91fe6e3:
@@ -6230,7 +6230,7 @@ translate spanish sm1ms029_party_end_a91fe6e3:
 translate spanish sm1ms029_party_end_1e4be935:
 
     # mc "If you can, please support us! Like our videos, tell your friends-"
-    mc "Si puedes, ¡apóyanos! Dale me gusta a nuestros videos, cuéntaselo a tus amigos."
+    mc "Si pueden, ¡apóyennos! Denle me gusta a nuestros videos, cuéntenselo a sus amigos."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2352
 translate spanish sm1ms029_party_end_9570d101:
@@ -6242,7 +6242,7 @@ translate spanish sm1ms029_party_end_9570d101:
 translate spanish sm1ms029_party_end_576d834f:
 
     # mc "But again, from the bottom of my heart, thank you everyone. I hope you have a good rest of the night!"
-    mc "Pero nuevamente, desde el fondo de mi corazón, gracias a todos. ¡Espero que tengan un buen resto de la noche!"
+    mc "Pero nuevamente, desde el fondo de mi corazón, gracias a todas. ¡Espero que tengan un buen resto de la noche!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2357
 translate spanish sm1ms029_party_end_6f42b831:
@@ -6260,7 +6260,7 @@ translate spanish sm1ms029_party_end_9cdb7f9b:
 translate spanish sm1ms029_party_end_bc4db858:
 
     # mc "Yeah? You have fun tonight, Hana?"
-    mc "¿Sí? ¿Te diviertes esta noche, Hana?"
+    mc "¿Sí? ¿Te divertiste esta noche, Hana?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2361
 translate spanish sm1ms029_party_end_107cc1fe:
@@ -6350,7 +6350,7 @@ translate spanish sm1ms029_party_end_cc1dbc0b:
 translate spanish sm1ms029_party_end_53d980ea:
 
     # mc "Believe me, I get it better than most."
-    mc "Créame, lo entiendo mejor que la mayoría."
+    mc "Créeme, lo entiendo mejor que la mayoría."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2383
 translate spanish sm1ms029_party_end_6fadf795:
@@ -6726,43 +6726,43 @@ translate spanish sm1ms029_party_mes_d6798e52:
 translate spanish sm1ms029_talk_mes_ns_02795e35:
 
     # ns "그 사람 좆 진짜 멋지지 않아?"
-    ns "그 사람 좆 진짜 멋지지 않아?"
+    ns "그 사람 좆 진짜 멋지지 않아? (¿No es realmente genial su polla?)"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1103
 translate spanish sm1ms029_talk_mes_ns_d9f7eaef:
 
     # mes "아, 알겠어요."
-    mes "아, 알겠어요."
+    mes "아, 알겠어요. (Ah, ya veo.)"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1104
 translate spanish sm1ms029_talk_mes_ns_836ebfc3:
 
     # mes "저는 서울에 돌아왔을 때 그 꿈을 꾸었습니다."
-    mes "저는 서울에 돌아왔을 때 그 꿈을 꾸었습니다."
+    mes "저는 서울에 돌아왔을 때 그 꿈을 꾸었습니다. (Soñé con eso cuando regresé a Seúl.)"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1107
 translate spanish sm1ms029_talk_mes_ns_60c27c4b:
 
     # ns "그것에 대해 생각하는 것만으로도 흥분이 됩니다."
-    ns "그것에 대해 생각하는 것만으로도 흥분이 됩니다."
+    ns "그것에 대해 생각하는 것만으로도 흥분이 됩니다. (Solo de pensarlo me excito.)"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1112
 translate spanish sm1ms029_talk_mes_ns_f3852060:
 
     # ns "우리는, 미스터 원더풀 딕!"
-    ns "우리는, 미스터 원더풀 딕!"
+    ns "우리는, 미스터 원더풀 딕! (¡Somos el equipo del Señor Polla Maravillosa!)"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1195
 translate spanish sm1ms029_talk_mes_ns_87618042:
 
     # mes "맙소사, 당신은 정말 흥분한 사람이군요, 그렇죠?"
-    mes "맙소사, 당신은 정말 흥분한 사람이군요, 그렇죠?"
+    mes "맙소사, 당신은 정말 흥분한 사람이군요, 그렇죠? (Dios mío, de verdad estás muy excitada, ¿cierto?)"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1199
 translate spanish sm1ms029_talk_mes_ns_b89ca410:
 
     # ns "아마도."
-    ns "아마도."
+    ns "아마도. (Tal vez)"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2480
 translate spanish sm1ms029_party_sy_ebb69a71:
@@ -6810,7 +6810,7 @@ translate spanish sm1ms029_party_part_1_ece8a1eb:
 translate spanish sm1ms029_part_1_my_appear_46a079f3:
 
     # arj "That's right, I know all your fantasies, you little perv."
-    arj "Así es, conozco todas tus fantasías, pequeño pervertido."
+    arj "Así es, conozco todas tus fantasías, pequeña pervertida."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2273
 translate spanish sm1ms029_part_1_my_appear_7387fd43:
