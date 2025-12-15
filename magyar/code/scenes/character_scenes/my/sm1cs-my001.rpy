@@ -380,7 +380,7 @@ translate magyar sm1cs_my001_753c22fe:
 translate magyar sm1cs_my001_a4c2b34f:
 
     # my "Oh? And what am I looking at?"
-    my "Oh? És hogyan nézek ki?
+    my "Oh? És hogyan nézek ki?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:217
 translate magyar sm1cs_my001_063f436a:
@@ -1256,7 +1256,7 @@ translate magyar sm1cs_my001_9fab43d1:
 translate magyar sm1cs_my001_04bea51e:
 
     # my "No, I'll be alright. The hotel is pretty close to here."
-    my "Nem, semmi baj. A szálloda elég közel van ide.
+    my "Nem, semmi baj. A szálloda elég közel van ide."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:631
 translate magyar sm1cs_my001_39add513:

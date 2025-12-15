@@ -1388,7 +1388,7 @@ translate magyar sm1cs_km006_after_td_6ff3c4ae:
 translate magyar sm1cs_km006_after_td_715e7792:
 
     # vs "How about now?"
-    vs "És most?
+    vs "És most?"
 
 # game/code/scenes/theatre/km/sm1cs-km006.rpy:768
 translate magyar sm1cs_km006_after_td_70664049:

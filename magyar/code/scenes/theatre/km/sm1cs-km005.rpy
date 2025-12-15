@@ -218,7 +218,7 @@ translate magyar sm1cs_km005_08c831ca:
 translate magyar sm1cs_km005_561e08a5:
 
     # mc "Don't you owe her a chance to help out?"
-    mc "Nem tartozol neki egy eséllyel, hogy segíts neki?
+    mc "Nem tartozol neki egy eséllyel, hogy segíts neki?"
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:138
 translate magyar sm1cs_km005_2a103291:
@@ -626,7 +626,7 @@ translate magyar sm1cs_km005_c6e942c2:
 translate magyar sm1cs_km005_a043fe05:
 
     # mc "You gotta take your time, or you'll just bruise my dick."
-    mc "YVedd vissza a tempót, vagy megsérül a farkam.
+    mc "YVedd vissza a tempót, vagy megsérül a farkam."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:351
 translate magyar sm1cs_km005_d04e458b:
@@ -1274,7 +1274,7 @@ translate magyar sm1cs_km005_44bd7179:
 translate magyar sm1cs_km005_048eabfc:
 
     # km "*sadly* Forget all about her."
-    km "*szomorúan* Elfelejthetem.
+    km "*szomorúan* Elfelejthetem."
 
 # game/code/scenes/theatre/km/sm1cs-km005.rpy:666
 translate magyar sm1cs_km005_1d30ac8b:
