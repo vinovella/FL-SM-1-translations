@@ -362,7 +362,7 @@ translate spanish sm1mv01s09_movie_start_6a8d5cc9:
 translate spanish sm1mv01s09_movie_start_c6083348:
 
     # sy "See!? No one can resist me, Scarlet!"
-    sy "¿¡Ves!? ¡Nadie puede resistirse a mí, Scarlet!"
+    sy "¿¡Lo ves!? ¡Nadie puede resistirse a mí, Scarlet!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:278
 translate spanish sm1mv01s09_movie_start_a4b735e6:
@@ -398,7 +398,7 @@ translate spanish sm1mv01s09_movie_start_61742784:
 translate spanish sm1mv01s09_movie_start_6ddb3c49:
 
     # mc "This is what she {b}wants!{/b} Us at each others' throats."
-    mc "¡Esto es lo que ella {b}quiere!{/b} Que nos ataquemos mutuamente."
+    mc "¡Esto es lo que ella {b}quiere{/b}! Que nos ataquemos mutuamente."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:291
 translate spanish sm1mv01s09_movie_start_62e5605b:
@@ -500,7 +500,7 @@ translate spanish sm1mv01s09_movie_start_47e49dcd:
 translate spanish sm1mv01s09_movie_start_cfc2f3e1:
 
     # sy "Searose and I, fuck you. Fuck you until we can't anymore, last woman standing wins."
-    sy "Searose y yo, follarte. Follarte hasta que no podamos más, la última mujer en pie gana."
+    sy "Searose y yo te follaremos. Lo haremos hasta que no podamos más, la última mujer en pie gana."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:341
 translate spanish sm1mv01s09_movie_start_5ed0e291:
@@ -524,7 +524,7 @@ translate spanish sm1mv01s09_movie_start_e7aeeeb9:
 translate spanish sm1mv01s09_movie_start_be0fc3a4:
 
     # sy "Simple. Outlast the both of us, and the treasure is yours."
-    sy "Simple. Sobrevive a ambas, y el tesoro es tuyo."
+    sy "Simple. Sobrevive a las dos, y el tesoro es tuyo."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:353
 translate spanish sm1mv01s09_movie_start_dad9299e:
@@ -860,7 +860,7 @@ translate spanish sm1mv01s09_movie_start_bf5371c5:
 translate spanish sm1mv01s09_movie_start_032eae35:
 
     # mc "Oooooooph — yes it does!"
-    mc "¡Uuuuufff, sí que se siente!"
+    mc "¡Uuuuufff, sí se siente bien!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:520
 translate spanish sm1mv01s09_movie_start_67dd8a10:
@@ -1202,7 +1202,7 @@ translate spanish sm1mv01s09_movie_start_613f62cc:
 translate spanish sm1mv01s09_movie_start_a31cecb9:
 
     # mc "Prepare for boarding!"
-    mc "¡Preparen para el abordaje!"
+    mc "¡Preparen el abordaje!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:658
 translate spanish sm1mv01s09_movie_start_a779f047:
@@ -1220,7 +1220,7 @@ translate spanish sm1mv01s09_movie_start_ef7550de:
 translate spanish sm1mv01s09_movie_start_69abacef:
 
     # sy "Oh you despicable little-"
-    sy "Oh, tú pequeño y despreciable..."
+    sy "Oh, tú pequeña y despreciable..."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:671
 translate spanish sm1mv01s09_movie_start_ccb4dffc:
@@ -1712,7 +1712,7 @@ translate spanish sm1mv01s09_movie_start_cf7cd821:
 translate spanish sm1mv01s09_movie_start_d3b0d62d:
 
     # sy "Mmmrrrngnnnnngggg!!!"
-    sy "¡Mmmrrrngnnnnngggg!!!"
+    sy "¡¡¡Mmmrrrngnnnnngggg!!!"
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:892
 translate spanish sm1mv01s09_movie_start_bda71f74:
@@ -1802,7 +1802,7 @@ translate spanish sm1mv01s09_movie_start_4f6bf094:
 translate spanish sm1mv01s09_movie_start_4b76e9e1:
 
     # tl "Leave her with that traitor, Bob. Those two deserve each other. Let's go get our chests and start loading up the treasure."
-    tl "Déjala con ese traidor, Bob. Esos dos se merecen el uno al otro. Vayamos a buscar nuestros cofres y a cargar el tesoro."
+    tl "Déjala con ese traidor de Bob. Esos dos se merecen el uno al otro. Vayamos a buscar nuestros cofres y a cargar el tesoro."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:940
 translate spanish sm1mv01s09_movie_start_204a14bc:
@@ -1880,7 +1880,7 @@ translate spanish sm1mv01s09_movie_start_5374e7b2:
 translate spanish sm1mv01s09_movie_start_6f505dce:
 
     # tl "Exactly. Who knows... maybe we'll find the edge of the map, and all new treasures to plunder."
-    tl "Exacto. Quién sabe... tal vez lleguemos al fin del mapa, y nuevos tesoros para saquear."
+    tl "Exacto. Quién sabe... tal vez lleguemos al final del mapa, y encontremos nuevos tesoros para saquear."
 
 # game/code/scenes/movies/movie01/sm1mv01s09.rpy:977
 translate spanish sm1mv01s09_movie_start_42e992f0:
