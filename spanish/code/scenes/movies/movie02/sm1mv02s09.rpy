@@ -842,7 +842,7 @@ translate spanish sm1mv02s09_movie_6a4e3942:
 translate spanish sm1mv02s09_movie_db48f35a:
 
     # ns "Please, Mister Captain Ramses? Can I have a turn?"
-    ns "¿Por favor, señor Capitán Ramses? ¿Puedo tener un turno?"
+    ns "¿Por favor, señor Capitán Ramsés? ¿Puedo tener un turno?"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:776
 translate spanish sm1mv02s09_movie_1d74460a:
@@ -872,7 +872,7 @@ translate spanish sm1mv02s09_movie_916d5482:
 translate spanish sm1mv02s09_movie_b56585b8:
 
     # mhmes "Ramses, let her have some fun too."
-    mhmes "Ramses, deja que ella también se divierta."
+    mhmes "Ramsés, deja que ella también se divierta."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:799
 translate spanish sm1mv02s09_movie_c0052b5c:
@@ -1058,7 +1058,7 @@ translate spanish sm1mv02s09_movie_a563df4a:
 translate spanish sm1mv02s09_movie_d0614b49:
 
     # ns "Oh Ramses, I'm-I'm-!-"
-    ns "¡Oh Ramses, estoy-estoy-!-"
+    ns "¡Oh Ramsés, estoy-estoy-!-"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:873
 translate spanish sm1mv02s09_movie_e2dda1f5:
@@ -1154,7 +1154,7 @@ translate spanish sm1mv02s09_movie_fbecad0f:
 translate spanish sm1mv02s09_movie_48f85163:
 
     # mhmes "Slrrp, slrrrp, mmm - she seems to like it, Ramses."
-    mhmes "Slrrp, slrrrp, mmm - parece que le gusta, Ramses."
+    mhmes "Slrrp, slrrrp, mmm - parece que le gusta, Ramsés."
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:964
 translate spanish sm1mv02s09_movie_5f3d5574:
@@ -1226,7 +1226,7 @@ translate spanish sm1mv02s09_movie_fc9d1ee1:
 translate spanish sm1mv02s09_movie_2e80172d:
 
     # mhmes "Mmmmmmm, sounds like Jelarra enjoys asses as much as you, Ramses!"
-    mhmes "Mmmmmmm, ¡parece que Jelarra disfruta de los culos tanto como tú, Ramses!"
+    mhmes "Mmmmmmm, ¡parece que Jelarra disfruta de los culos tanto como tú, Ramsés!"
 
 # game/code/scenes/movies/movie02/sm1mv02s09.rpy:1007
 translate spanish sm1mv02s09_movie_32598ff5:
