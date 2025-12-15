@@ -1100,7 +1100,7 @@ translate spanish sm1mv02s05_movie_start_4cdb02d8:
 translate spanish sm1mv02s05_movie_start_5fc09f7d:
 
     # mc "I am Captain Ramses Hornstar, United Planetary Alliance."
-    mc "Soy el Capitán Ramses Hornstar, de la Alianza Planetaria Unida."
+    mc "Soy el Capitán Ramsés Hornstar, de la Alianza Planetaria Unida."
 
 # game/code/scenes/movies/movie02/sm1mv02s05.rpy:759
 translate spanish sm1mv02s05_movie_start_aee9bef3:
