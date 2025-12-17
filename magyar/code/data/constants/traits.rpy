@@ -74,15 +74,15 @@
 
     # game/code/data/constants/traits.rpy:82
     old "Big Boobs"
-    new "Nagy melletk"
+    new "Nagy mell"
 
     # game/code/data/constants/traits.rpy:82
     old "Small Boobs"
-    new "Kicsi mellek"
+    new "Kicsi mell"
 
     # game/code/data/constants/traits.rpy:82
     old "Huge Boobs"
-    new "Hatalmas mellek"
+    new "Hatalmas mell"
 
     # game/code/data/constants/traits.rpy:82
     old "MILF"
