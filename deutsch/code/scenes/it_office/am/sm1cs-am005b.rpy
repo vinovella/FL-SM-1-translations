@@ -52,19 +52,3 @@ translate deutsch sm1cs_am005b_9163e74f:
     # mc "Yeah. No surprise there."
     mc "Ja. Das überrascht mich nicht."
 
-# game/code/scenes/it_office/am/sm1cs-am005b.rpy:23
-translate deutsch sm1cs_am005b_658994d8:
-
-    # mc "Never mind."
-    mc "Egal."
-
-translate deutsch strings:
-
-    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
-    old "Try out things with April"
-    new "Probiere Dinge mit April aus"
-
-    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
-    old "Never mind"
-    new "Egal"
-

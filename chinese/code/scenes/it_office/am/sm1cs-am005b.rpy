@@ -52,19 +52,3 @@ translate chinese sm1cs_am005b_9163e74f:
     # mc "Yeah. No surprise there."
     mc "是啊。这也不奇怪。"
 
-# game/code/scenes/it_office/am/sm1cs-am005b.rpy:23
-translate chinese sm1cs_am005b_658994d8:
-
-    # mc "Never mind."
-    mc "当我没说。"
-
-translate chinese strings:
-
-    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
-    old "Try out things with April"
-    new "试着和艾普尔发展关系"
-
-    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
-    old "Never mind"
-    new "当我没说"
-

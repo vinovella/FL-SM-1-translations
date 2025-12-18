@@ -22,12 +22,6 @@ translate italian sm1cs_am005b_3772aa1f:
     # mc "With you."
     mc "Con te."
 
-# game/code/scenes/it_office/am/sm1cs-am005b.rpy:23
-translate italian sm1cs_am005b_658994d8:
-
-    # mc "Never mind."
-    mc "Lascia perdere."
-
 # game/code/scenes/it_office/am/sm1cs-am005b.rpy:33
 translate italian sm1cs_am005b_e1eef2d6:
 
@@ -57,14 +51,4 @@ translate italian sm1cs_am005b_9163e74f:
 
     # mc "Yeah. No surprise there."
     mc "Sì. Non mi sorprende."
-
-translate italian strings:
-
-    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
-    old "Try out things with April"
-    new "Provare delle cose con April"
-
-    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
-    old "Never mind"
-    new "Lascia perdere"
 

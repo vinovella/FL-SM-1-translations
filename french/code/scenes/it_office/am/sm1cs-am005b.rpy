@@ -52,29 +52,3 @@ translate french sm1cs_am005b_9163e74f:
     # mc "Yeah. No surprise there."
     mc "Ouais. Ça m’étonne pas."
 
-# game/code/scenes/it_office/am/sm1cs-am005b.rpy:23
-translate french sm1cs_am005b_658994d8:
-
-    # mc "Never mind."
-    mc "Laisse tomber."
-
-translate french strings:
-
-    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
-    old "Try out things with April."
-    new "Essayer quelque chose avec April."
-
-    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
-    old "Nevermind."
-    new "Laisse tomber."
-
-    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
-    old "Try out things with April"
-    new "Essayer quelque chose avec April"
-
-    # game/code/scenes/it_office/am/sm1cs-am005b.rpy:10
-    old "Never mind"
-    new "Laisser tomber"
-
-#Translate by BlackViper_
-
