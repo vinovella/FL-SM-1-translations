@@ -26,7 +26,7 @@
 
     # game/code/renpy/screens/screens.rpy:343
     old "Naming save file:"
-    new "Denominazione file di salvataggio:"
+    new "Nome salvataggio:"
 
     # game/code/renpy/screens/screens.rpy:344
     old "Enabled"

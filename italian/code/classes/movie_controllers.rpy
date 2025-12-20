@@ -34,43 +34,43 @@
 
     # game/code/classes/movie_controllers.rpy:45
     old "Costume Budget"
-    new "Budget per i Costumi"
+    new "Budget Costumi"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Actress Budget"
-    new "Budget per le Attrici"
+    new "Budget Attrici"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Props Budget"
-    new "Budget per gli Oggetti di Scena"
+    new "Budget Oggetti"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Props Design"
-    new "Design degli Oggetti di Scena"
+    new "Design Oggetti"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Travel Budget"
-    new "Budget per i Viaggi"
+    new "Budget Viaggi"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Movie Editing"
-    new "Montaggio del Film"
+    new "Montaggio"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Set Budget"
-    new "Budget per il Set"
+    new "Budget Set"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Set Design"
-    new "Design del Set"
+    new "Design Set"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Outfit Design"
-    new "Design degli Abiti"
+    new "Design Abiti"
 
     # game/code/classes/movie_controllers.rpy:45
     old "CGI Budget"
-    new "Budget per la CGI"
+    new "Budget CGI"
 
     # game/code/classes/movie_controllers.rpy:40
     old "[movie!t] release"
@@ -83,8 +83,6 @@
     # game/code/classes/movie_controllers.rpy:150
     old "Spend [amount] Energy in [energy_name!t]"
     new "Spendi [amount] Energia in [energy_name!t]"
-
-translate italian strings:
 
     # game/code/classes/movie_controllers.rpy:115
     old "Pirate movie"

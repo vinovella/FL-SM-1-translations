@@ -18,5 +18,5 @@
 
     # game/code/minigames/nonogram/nonogram_game.rpy:85
     old "You have failed to code the solution"
-    new "Non sei riuscito a codificare la soluzione"
+    new "Non sei riuscito a codificarla"
 

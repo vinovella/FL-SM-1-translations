@@ -6,7 +6,7 @@
 
     # game/code/renpy/screens/phone.rpy:43
     old "Renovation"
-    new "Ristrutturazione"
+    new "Rinnovo"
 
     # game/code/renpy/screens/phone.rpy:48
     old "Messenger"

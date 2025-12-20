@@ -26,11 +26,11 @@
 
     # game/code/renpy/screens/save.rpy:188
     old "Saves for season [season]"
-    new "Salvataggi Per la Stagione [season]"
+    new "Salvataggi Stagione [season]"
 
     # game/code/renpy/screens/save.rpy:188
     old "Saves from season [season]"
-    new "Salvataggi Dalla Stagione [season]"
+    new "Salvataggi da [season]"
 
     # game/code/renpy/screens/save.rpy:113
     old "You completed 100% of the game!"
