@@ -382,7 +382,7 @@ translate portuguese strings:
 
     # game/code/renpy/screens/screens.rpy:924
     old "Dev Team"
-    new "Equipe de desenvolvimento"
+    new "Equipe"
 
     # game/code/renpy/screens/screens.rpy:947
     old "VERSION : [config.version!t]"

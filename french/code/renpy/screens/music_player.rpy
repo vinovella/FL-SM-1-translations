@@ -12,4 +12,3 @@
     old "No music is playing"
     new "Aucune musique n'est en cours de lecture"
 
-``

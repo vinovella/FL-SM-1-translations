@@ -34,15 +34,15 @@ translate portuguese strings:
 
     # game/code/classes/movie_controllers.rpy:45
     old "Costume Budget"
-    new "Orçamento de Figurino"
+    new "Orç. Figurino"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Actress Budget"
-    new "Orçamento de Atrizes"
+    new "Orç. Atrizes"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Props Budget"
-    new "Orçamento de Objetos"
+    new "Orç. Objetos"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Props Design"
@@ -50,7 +50,7 @@ translate portuguese strings:
 
     # game/code/classes/movie_controllers.rpy:45
     old "Travel Budget"
-    new "Orçamento de Transporte"
+    new "Orç. Transporte"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Movie Editing"
@@ -58,7 +58,7 @@ translate portuguese strings:
 
     # game/code/classes/movie_controllers.rpy:45
     old "Set Budget"
-    new "Orçamento de Set"
+    new "Orç. Set"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Set Design"
@@ -70,7 +70,7 @@ translate portuguese strings:
 
     # game/code/classes/movie_controllers.rpy:45
     old "CGI Budget"
-    new "Orçamento de CGI"
+    new "Orç. CGI"
 
     # game/code/classes/movie_controllers.rpy:40
     old "[movie!t] release"
@@ -83,8 +83,6 @@ translate portuguese strings:
     # game/code/classes/movie_controllers.rpy:150
     old "Spend [amount] Energy in [energy_name!t]"
     new "Gaste [amount] Energia em [energy_name!t]"
-
-translate portuguese strings:
 
     # game/code/classes/movie_controllers.rpy:115
     old "Pirate movie"

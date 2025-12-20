@@ -6,19 +6,15 @@ translate portuguese strings:
 
     # game/code/renpy/screens/difficulity.rpy:22
     old "Full Experience"
-    new "Experiência Completa"
+    new "Experiência"
 
     # game/code/renpy/screens/difficulity.rpy:34
     old "No Minigames"
     new "Sem Minigames"
 
-translate portuguese strings:
-
     # game/code/renpy/screens/difficulity.rpy:46
     old "No Sandbox"
     new "Sem Sandbox"
-
-translate portuguese strings:
 
     # game/code/renpy/screens/difficulity.rpy:54
     old "Full story with exploration and player choice"

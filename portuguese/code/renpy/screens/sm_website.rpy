@@ -26,7 +26,7 @@ translate portuguese strings:
 
     # game/code/renpy/screens/sm_website.rpy:42
     old "NEW HOT VIDEOS"
-    new "NOVOS VÍDEOS POPULARES"
+    new "NOVOS VÍDEOS"
 
     # game/code/renpy/screens/sm_website.rpy:47
     old "New"
@@ -47,8 +47,6 @@ translate portuguese strings:
     # game/code/renpy/screens/sm_website.rpy:51
     old "Tags"
     new "Tags"
-
-translate portuguese strings:
 
     # game/code/renpy/screens/sm_website.rpy:82
     old "Stop Movie"

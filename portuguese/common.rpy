@@ -306,11 +306,11 @@ translate portuguese strings:
 
     # renpy/common/00action_file.rpy:638
     old "Automatic saves"
-    new "Saves automáticos"
+    new "Automáticos"
 
     # renpy/common/00action_file.rpy:638
     old "Quick saves"
-    new "Saves rápido"
+    new "Rápidos"
 
     # renpy/common/00action_file.rpy:779
     old "Next file page."

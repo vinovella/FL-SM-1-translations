@@ -16,8 +16,6 @@ translate portuguese strings:
     old "Open phone"
     new "Abrir celular"
 
-translate portuguese strings:
-
     # game/code/renpy/screens/game_menus.rpy:155
     old "HIST"
     new "HIST"

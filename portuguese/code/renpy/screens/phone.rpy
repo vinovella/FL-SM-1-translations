@@ -42,7 +42,7 @@ translate portuguese strings:
 
     # game/code/renpy/screens/phone.rpy:77
     old "Save for Season 2"
-    new "Save para Segunda Temporada"
+    new "Salvar p/ Temp. 2"
 
     # game/code/renpy/screens/phone.rpy:88
     old "Settings{#phone_button}"
