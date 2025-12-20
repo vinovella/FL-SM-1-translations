@@ -12,8 +12,6 @@
     old "DONE"
     new "BİTTİ"
 
-translate turkish strings:
-
     # game/code/renpy/screens/renovation.rpy:8
     old "RENOVATION PROGRESS-[progress:.1f]%"
     new "YENİLEME İLERLEMESİ-[progress:.1f]%"

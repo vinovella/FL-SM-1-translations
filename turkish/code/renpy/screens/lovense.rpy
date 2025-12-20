@@ -14,7 +14,7 @@
 
     # game/code/renpy/screens/lovense.rpy:21
     old "Follow the steps to enable Game Mode in Lovense Remote app and connect your toy with the game"
-    new "Lovense Remote uygulamasında Oyun Modunu etkinleştirmek ve oyuncağınızı oyuna bağlamak için adımları izleyin"
+    new "Lovense Remote'da Oyun Modu'nu etkinleştirip oyuncağı bağlamak için adımları izleyin"
 
     # game/code/renpy/screens/lovense.rpy:28
     old "1. Click on the \"Discover\" tab"

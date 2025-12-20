@@ -14,5 +14,5 @@
 
     # game/code/renpy/screens/money_statement.rpy:78
     old "SKIP ALL"
-    new "HEPSİNİ ATLAT"
+    new "HEPSİNİ"
 

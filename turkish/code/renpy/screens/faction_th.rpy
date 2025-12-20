@@ -16,11 +16,9 @@
     old "Extra pay for successful show:"
     new "Başarılı gösteri için ekstra ödeme:"
 
-translate turkish strings:
-
     # game/code/renpy/screens/faction_th.rpy:60
     old "Pay after show on [THController.final_show_day!t]:"
-    new "[THController.final_show_day!t] tarihindeki gösteriden sonra ödeme:"
+    new "[THController.final_show_day!t] sonrası ödeme:"
 
     # game/code/renpy/screens/faction_th.rpy:70
     old "Progress [th_progress_percent]%"

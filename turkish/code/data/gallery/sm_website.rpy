@@ -54,7 +54,7 @@
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Star Voyage VI: Babe-lyon 9"
-    new "Yıldız Yolculuğu VI: Babe-lyon 9"
+    new "Star Voyage VI: Babe-lyon 9"
 
     # game/code/data/gallery/sm_website.rpy:1
     old "Captain Ramses Hornstar"

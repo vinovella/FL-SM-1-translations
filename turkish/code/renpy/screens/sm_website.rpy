@@ -26,7 +26,7 @@
 
     # game/code/renpy/screens/sm_website.rpy:42
     old "NEW HOT VIDEOS"
-    new "YENİ POPÜLER VİDEOLAR"
+    new "YENİ VİDEOLAR"
 
     # game/code/renpy/screens/sm_website.rpy:47
     old "New"
@@ -47,8 +47,6 @@
     # game/code/renpy/screens/sm_website.rpy:51
     old "Tags"
     new "Etiketler"
-
-translate turkish strings:
 
     # game/code/renpy/screens/sm_website.rpy:82
     old "Stop Movie"

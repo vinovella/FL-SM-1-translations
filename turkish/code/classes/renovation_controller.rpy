@@ -38,7 +38,7 @@
 
     # game/code/classes/renovation_controller.rpy:140
     old "Max"
-    new "Maksimum"
+    new "Maks"
 
     # game/code/classes/renovation_controller.rpy:149
     old "Insufficient money"
@@ -47,8 +47,6 @@
     # game/code/classes/renovation_controller.rpy:175
     old "Already done."
     new "Yaptım bile."
-
-translate turkish strings:
 
     # game/code/classes/renovation_controller.rpy:48
     old "Renovation progress increased by [progress]%"
@@ -69,8 +67,6 @@ translate turkish strings:
     # game/code/classes/renovation_controller.rpy:181
     old "[character!t] can assist with the renovation [before_after!t] completion.\nTalk to [character!t] to proceed."
     new "[character!t] yenilemenin [before_after!t] tamamlanmasına yardımcı olabilir.\nDevam etmek için [character!t] ile konuşun."
-
-translate turkish strings:
 
     # game/code/classes/renovation_controller.rpy:141
     old "Upgrade\n$[upgrade_price]"
