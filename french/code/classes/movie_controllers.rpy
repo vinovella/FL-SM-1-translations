@@ -30,15 +30,15 @@
 
     # game/code/classes/movie_controllers.rpy:45
     old "Props Budget"
-    new "Budget accessoires"
+    new "Budget acc."
 
     # game/code/classes/movie_controllers.rpy:45
     old "Props Design"
-    new "Conception des accessoires"
+    new "Design acc."
 
     # game/code/classes/movie_controllers.rpy:45
     old "Travel Budget"
-    new "Budget déplacements"
+    new "Déplacements"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Movie Editing"
@@ -50,19 +50,19 @@
 
     # game/code/classes/movie_controllers.rpy:45
     old "Set Design"
-    new "Conception des décors"
+    new "Décors"
 
     # game/code/classes/movie_controllers.rpy:45
     old "Outfit Design"
-    new "Conception des costumes"
+    new "Costumes"
 
     # game/code/classes/movie_controllers.rpy:45
     old "CGI Budget"
-    new "Budget effets spéciaux"
+    new "Budget VFX"
 
     # game/code/classes/movie_controllers.rpy:227
     old "Sci-Fi Movie"
-    new "Film de science-fiction"
+    new "Film de Sci-Fi"
 
     # game/code/classes/movie_controllers.rpy:40
     old "[movie!t] release"

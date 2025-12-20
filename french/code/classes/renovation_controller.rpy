@@ -54,7 +54,7 @@
 
     # game/code/classes/renovation_controller.rpy:141
     old "Upgrade\n$[upgrade_price]"
-    new "Améliorer\n$[upgrade_price]"
+    new "Amélior.\n$[upgrade_price]"
 
     # game/code/classes/renovation_controller.rpy:176
     old "before 50%"

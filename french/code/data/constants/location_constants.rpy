@@ -86,7 +86,7 @@
 
     # game/code/data/constants/location_constants.rpy:24
     old "Bathroom Door"
-    new "Porte de la salle de bain"
+    new "Porte salle de bain"
 
     # game/code/data/constants/location_constants.rpy:26
     old "TV Area"

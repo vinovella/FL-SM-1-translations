@@ -6,11 +6,11 @@
 
     # game/code/renpy/screens/movie_progress.rpy:53
     old "Costume Budget"
-    new "Budget des costumes"
+    new "Budget costumes"
 
     # game/code/renpy/screens/movie_progress.rpy:66
     old "Actress Budget"
-    new "Budget de l’actrice"
+    new "Budget actrice"
 
     # game/code/renpy/screens/movie_progress.rpy:72
     old "Add $50"
@@ -22,7 +22,7 @@
 
     # game/code/renpy/screens/movie_progress.rpy:103
     old "Editing Work"
-    new "Travail de montage"
+    new "Montage"
 
 #Translate by BlackViper_
 

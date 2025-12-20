@@ -18,7 +18,7 @@
 
     # game/code/renpy/screens/renovation.rpy:58
     old "[mc_work_percent]%\nper energy"
-    new "[mc_work_percent]%\npar point d’énergie"
+    new "[mc_work_percent]%\npar énergie"
 
     # game/code/renpy/screens/renovation.rpy:59
     old "[sy_work_percent]%\nper day"

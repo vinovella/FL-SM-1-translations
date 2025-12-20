@@ -2,19 +2,19 @@
 
     # game/code/renpy/screens/pirates_movie.rpy:99
     old "COSTUME BUDGET"
-    new "BUDGET DES COSTUMES"
+    new "BUDGET COSTUMES"
 
     # game/code/renpy/screens/pirates_movie.rpy:114
     old "ACTRESS BUDGET"
-    new "BUDGET DE L’ACTRICE"
+    new "BUDGET ACTRICE"
 
     # game/code/renpy/screens/pirates_movie.rpy:130
     old "PROPS BUDGET"
-    new "BUDGET DES ACCESSOIRES"
+    new "BUDGET ACC."
 
     # game/code/renpy/screens/pirates_movie.rpy:146
     old "BUILD PROPS"
-    new "FABRIQUER DES ACCESSOIRES"
+    new "FABRIQUER ACC."
 
     # game/code/renpy/screens/pirates_movie.rpy:162
     old "TRAVEL BUDGET"

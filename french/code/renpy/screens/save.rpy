@@ -34,9 +34,9 @@
 
     # game/code/renpy/screens/save.rpy:188
     old "Saves for season [season]"
-    new "Sauvegardes pour la Saison [season]"
+    new "Sauvegardes — Saison [season]"
 
     # game/code/renpy/screens/save.rpy:188
     old "Saves from season [season]"
-    new "Sauvegardes du Saison [season]"
+    new "Sauvegardes — Saison [season]"
 

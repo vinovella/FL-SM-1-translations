@@ -54,7 +54,7 @@
 
     # game/code/renpy/screens/others.rpy:173
     old "How do you want to name your Season 2 save?"
-    new "Comment voulez-vous nommer votre sauvegarde de la Saison 2 ?"
+    new "Quel nom pour la sauvegarde Saison 2 ?"
 
     # game/code/renpy/screens/others.rpy:12
     old "If the recent minigames/puzzles feel a bit tricky, that's totally okay."

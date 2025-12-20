@@ -322,7 +322,7 @@
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Pirates Movie"
-    new "Film *Pirates*"
+    new "Film de pirates"
 
     # game/code/data/interaction_options/interaction_character_options.rpy:3
     old "Talk about buying props for the movie"

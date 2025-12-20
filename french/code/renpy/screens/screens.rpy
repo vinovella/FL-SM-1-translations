@@ -1,9 +1,5 @@
 ﻿translate french strings:
 
-    # game/code/renpy/screens/screens.rpy:19
-    old "Start from release 2"
-    new "Commencer à partir de la version 2"
-
     # game/code/renpy/screens/screens.rpy:22
     old "Start"
     new "Démarrer"
@@ -14,7 +10,7 @@
 
     # game/code/renpy/screens/screens.rpy:34
     old "End Replay"
-    new "Arrêter la relecture"
+    new "Fin relecture"
 
     # game/code/renpy/screens/screens.rpy:37
     old "Main Menu"
@@ -34,7 +30,7 @@
 
     # game/code/renpy/screens/screens.rpy:338
     old "Naming save file:"
-    new "Nom du fichier de sauvegarde :"
+    new "Nom de la sauvegarde:"
 
     # game/code/renpy/screens/screens.rpy:339
     old "Enabled"
@@ -298,11 +294,11 @@
 
     # game/code/renpy/screens/screens.rpy:46
     old "Join Patreon"
-    new "Rejoindre le Patreon"
+    new "Patreon"
 
     # game/code/renpy/screens/screens.rpy:51
     old "Join Discord"
-    new "Rejoindre le Discord"
+    new "Discord"
 
     # game/code/renpy/screens/screens.rpy:122
     old "Language"
@@ -310,11 +306,11 @@
 
     # game/code/renpy/screens/screens.rpy:149
     old "Music Player"
-    new "Lecteur de Musique"
+    new "Musique"
 
     # game/code/renpy/screens/screens.rpy:353
     old "Saves For Chapter 2"
-    new "Sauvegardes du Chapitre 2"
+    new "Sauvegardes S2"
 
     # game/code/renpy/screens/screens.rpy:506
     old "Audio"
@@ -434,7 +430,7 @@
 
     # game/code/renpy/screens/screens.rpy:924
     old "Dev Team"
-    new "Équipe de Développement"
+    new "Équipe"
 
     # game/code/renpy/screens/screens.rpy:932
     old "Translation"

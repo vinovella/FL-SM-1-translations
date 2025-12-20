@@ -34,7 +34,7 @@
 
     # game/code/renpy/screens/phone.rpy:75
     old "Studio Laptop"
-    new "Ordinateur portable de studio"
+    new "Ordinateur portable"
 
     # game/code/renpy/screens/phone.rpy:115
     old "Day: [gt.get_day_number()]"
@@ -42,7 +42,7 @@
 
     # game/code/renpy/screens/phone.rpy:77
     old "Save for Season 2"
-    new "Sauvegarder pour la Saison 2"
+    new "Sauvegarder Saison 2"
 
     # game/code/renpy/screens/phone.rpy:88
     old "Settings{#phone_button}"

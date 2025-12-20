@@ -14,7 +14,7 @@
 
     # game/code/renpy/screens/faction_th.rpy:67
     old "Extra pay for successful show:"
-    new "Paye supplémentaire pour un spectacle réussi :"
+    new "Prime pour spectacle réussi :"
 
     # game/code/renpy/screens/faction_th.rpy:58
     old "Pay after show on [THController.final_show_day!t]:"

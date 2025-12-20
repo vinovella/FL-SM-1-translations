@@ -318,11 +318,11 @@
 
     # renpy/common/00action_file.rpy:675
     old "Automatic saves"
-    new "Sauvegardes automatiques"
+    new "Automatiques"
 
     # renpy/common/00action_file.rpy:675
     old "Quick saves"
-    new "Sauvegardes rapides"
+    new "Rapides"
 
     # renpy/common/00action_file.rpy:816
     old "Next file page."
