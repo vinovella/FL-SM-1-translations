@@ -2,37 +2,37 @@
 translate magyar sm1cs_tl003_ea577e53:
 
     # tl "Where are you taking me, [mcname]?"
-    tl "Where are you taking me, [mcname]?"
+    tl "Hova viszel, [mcname]?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:46
 translate magyar sm1cs_tl003_d5630eca:
 
     # mc "This is where Stacy told me to meet her..."
-    mc "This is where Stacy told me to meet her..."
+    mc "Ez az, ahol Stacy azt monta, hogy találkozzunk..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:48
 translate magyar sm1cs_tl003_642f83e4:
 
     # tl "This the part of the movie where you tell me you're a serial killer?"
-    tl "This the part of the movie where you tell me you're a serial killer?"
+    tl "Ez az a része a filmnek, ahol elmondod, hogy sorozat gyilkos vagy?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:50
 translate magyar sm1cs_tl003_16a63c96:
 
     # mc "What! No!"
-    mc "What! No!"
+    mc "Mi! Nem!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:51
 translate magyar sm1cs_tl003_a0153972:
 
     # tl "Hey, man. I don't judge."
-    tl "Hey, man. I don't judge."
+    tl "Hé, ember. Ne ítélj el."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:54
 translate magyar sm1cs_tl003_be1c5226:
 
     # mc "I'm not a serial killer."
-    mc "I'm not a serial killer."
+    mc "Nem vagyok sorozatgyilkos"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:59
 translate magyar sm1cs_tl003_2306b455:
@@ -44,211 +44,211 @@ translate magyar sm1cs_tl003_2306b455:
 translate magyar sm1cs_tl003_4dfad17a:
 
     # mc "See? She's right there."
-    mc "See? She's right there."
+    mc "Látod? Itt van."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:63
 translate magyar sm1cs_tl003_e75aad8f:
 
     # mc "Did you bring everything?"
-    mc "Did you bring everything?"
+    mc "Mindent elhoztál"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:66
 translate magyar sm1cs_tl003_05bd8a87:
 
     # sy "Yep! Got her outfit and my phone and a script for her."
-    sy "Yep! Got her outfit and my phone and a script for her."
+    sy "Igen! A ruháját a telefonom és egy forgatókönyvet neki."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:67
 translate magyar sm1cs_tl003_82cfef52:
 
     # mc "Awesome."
-    mc "Awesome."
+    mc "Nagyszerű."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:70
 translate magyar sm1cs_tl003_d35d8037:
 
     # tl "So what's the plan?"
-    tl "So what's the plan?"
+    tl "Szóval, mi a terv?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:73
 translate magyar sm1cs_tl003_9a435dd7:
 
     # mc "We're going to film the porno?"
-    mc "We're going to film the porno?"
+    mc "Pornofilmet fogunk forgatni?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:76
 translate magyar sm1cs_tl003_3cbe08c3:
 
     # tl "Yeah, I know that dingus. But where?"
-    tl "Yeah, I know that dingus. But where?"
+    tl "Igen, ismerem azt a fickót. De hol?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:79
 translate magyar sm1cs_tl003_25a251ca:
 
     # sy "Right here!"
-    sy "Right here!"
+    sy "Itt!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:82
 translate magyar sm1cs_tl003_c52b046c:
 
     # tl "Seriously... You want me to film in... This?"
-    tl "Seriously... You want me to film in... This?"
+    tl "Komolyan... Fe akarsz filmezni... Ebben?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:85
 translate magyar sm1cs_tl003_310095e2:
 
     # sy "Hey, I had to call in a lot of favors to borrow this!"
-    sy "Hey, I had to call in a lot of favors to borrow this!"
+    sy "Hé, rengeteg szívességet kellett kérnem, hogy ezt kölcsönkapjam!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:88
 translate magyar sm1cs_tl003_e449acb4:
 
     # tl "Yeah, but..."
-    tl "Yeah, but..."
+    tl "Igen, de..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:91
 translate magyar sm1cs_tl003_418dc1d1:
 
     # mc "I thought you were down for the car thing?"
-    mc "I thought you were down for the car thing?"
+    mc "Azt hittem, benne vagy az autóban?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:94
 translate magyar sm1cs_tl003_2a98e323:
 
     # tl "Yeah, but like... An {i}cool{/i} car."
-    tl "Yeah, but like... An {i}cool{/i} car."
+    tl "Ifen, de például... Egy {i}király{/i} autóban."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:97
 translate magyar sm1cs_tl003_6e81da53:
 
     # mc "Yeah, but all you need to do is use a little imagination, and it's a fancy car!"
-    mc "Yeah, but all you need to do is use a little imagination, and it's a fancy car!"
+    mc "Igen, de csak egy kis fantáziát kell használnod, és ez egy csinos autó!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:100
 translate magyar sm1cs_tl003_9b4872fe:
 
     # sy "And we'll fix it in post."
-    sy "And we'll fix it in post."
+    sy "És utómunkában kijavítjuk."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:102
 translate magyar sm1cs_tl003_c4ae27d8:
 
     # tl "Fix it in... What?"
-    tl "Fix it in... What?"
+    tl "Kijavítani... Mit?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:103
 translate magyar sm1cs_tl003_bdbe4519:
 
     # sy "Post, like when we're editing it. We'll make it look like a super sexy car."
-    sy "Post, like when we're editing it. We'll make it look like a super sexy car."
+    sy "Szerkesztés után közzétesszük. Úgy fogjuk megjeleníteni, mint egy szuper szexi autót."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:106
 translate magyar sm1cs_tl003_85aad9db:
 
     # tl "This is... Not what I was expecting."
-    tl "This is... Not what I was expecting."
+    tl "Ez... Nem erre számítottam."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:109
 translate magyar sm1cs_tl003_8dd0fd7f:
 
     # mc "Well, that's showbiz!"
-    mc "Well, that's showbiz!"
+    mc "Hát, ez a fagyás!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:112
 translate magyar sm1cs_tl003_a83389ed:
 
     # tl "No... This just... Kind of sucks."
-    tl "No... This just... Kind of sucks."
+    tl "Nem... Ez csak... Olyan szívás."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:114
 translate magyar sm1cs_tl003_56d3ff98:
 
     # sy "Hey!"
-    sy "Hey!"
+    sy "Hé!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:115
 translate magyar sm1cs_tl003_96fbfa15:
 
     # tl "No offense."
-    tl "No offense."
+    tl "Ne vedd sértésnek."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:118
 translate magyar sm1cs_tl003_36c4057d:
 
     # sy "I worked hard to get this!"
-    sy "I worked hard to get this!"
+    sy "Keményen dolgoztam, hogy ezt elérjem!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:120
 translate magyar sm1cs_tl003_773b2119:
 
     # tl "Yeah, uhh... Sorry?"
-    tl "Yeah, uhh... Sorry?"
+    tl "Igen, uhh... Bocsi?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:123
 translate magyar sm1cs_tl003_aff4c6c8:
 
     # mc "It might be... Less than ideal, but it's what we've got."
-    mc "It might be... Less than ideal, but it's what we've got."
+    mc "Lehet, hogy... nem ideális, de ez van."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:124
 translate magyar sm1cs_tl003_472a31bd:
 
     # mc "Unless you have any other ideas."
-    mc "Unless you have any other ideas."
+    mc "Hacsak nincs más ötleted."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:127
 translate magyar sm1cs_tl003_e3a58c6e:
 
     # tl "I mean... I might have one."
-    tl "I mean... I might have one."
+    tl "Úgy értem... lehet, hogy van egy."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:129
 translate magyar sm1cs_tl003_def0ad19:
 
     # mc "What is it?"
-    mc "What is it?"
+    mc "Mi az?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:130
 translate magyar sm1cs_tl003_5c1a3e7e:
 
     # tl "Trust me."
-    tl "Trust me."
+    tl "Bízz bennem."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:133
 translate magyar sm1cs_tl003_ac86a72b:
 
     # tl "Grab the outfits and camera and follow me."
-    tl "Grab the outfits and camera and follow me."
+    tl "Fogd a ruhákat és a kamerát, és gyere utánam!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:136
 translate magyar sm1cs_tl003_d2c80bad:
 
     # mc "Where are we going?"
-    mc "Where are we going?"
+    mc "Hova megyünk?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:138
 translate magyar sm1cs_tl003_4957a308:
 
     # tl "Don't worry about it."
-    tl "Don't worry about it."
+    tl "Ne aggódj miatta."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:143
 translate magyar sm1cs_tl003_f59b43f0:
 
     # mc "I guess we should follow Taisia..."
-    mc "I guess we should follow Taisia..."
+    mc "Azt hiszem követnünk kellene Taisia-t..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:146
 translate magyar sm1cs_tl003_17891617:
 
     # sy "Fiiiiiine."
-    sy "Fiiiiiine."
+    sy "Vééégre."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:148
 translate magyar sm1cs_tl003_91d8a70c:
 
     # mc "You okay?"
-    mc "You okay?"
+    mc "Jól vagy?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:149
 translate magyar sm1cs_tl003_5c2c7bcf:
@@ -266,37 +266,37 @@ translate magyar sm1cs_tl003_d9fc70c6:
 translate magyar sm1cs_tl003_3d066d5e:
 
     # sy "I'm fine."
-    sy "I'm fine."
+    sy "Jól vagyok."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:156
 translate magyar sm1cs_tl003_920e56b5:
 
     # mc "Are you upset that Taisia didn't like the car?"
-    mc "Are you upset that Taisia didn't like the car?"
+    mc "Bosszant, hogy Taisia nem szerette az autót?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:159
 translate magyar sm1cs_tl003_df5bd8f3:
 
     # sy "...{w} Maybe."
-    sy "...{w} Maybe."
+    sy "...{w} Talán."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:162
 translate magyar sm1cs_tl003_f3e99c62:
 
     # mc "I know what will cheer you up though."
-    mc "I know what will cheer you up though."
+    mc "Tudom, mi vidít majd fel."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:165
 translate magyar sm1cs_tl003_3cb9e3ec:
 
     # sy "Yeah? And what's that?"
-    sy "Yeah? And what's that?"
+    sy "Igen? Mi ?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:168
 translate magyar sm1cs_tl003_77b9f79e:
 
     # mc "Watching Taisia and I have some crazy hot sex."
-    mc "Watching Taisia and I have some crazy hot sex."
+    mc "Nézni, ahogy Taisia és én őrült dögös szexet csinálunk."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:169
 translate magyar sm1cs_tl003_5c2c7bcf_1:
@@ -308,181 +308,181 @@ translate magyar sm1cs_tl003_5c2c7bcf_1:
 translate magyar sm1cs_tl003_a10afa28:
 
     # sy "Can you throat fuck her?"
-    sy "Can you throat fuck her?"
+    sy "Meg tudod dugni a torkát?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:176
 translate magyar sm1cs_tl003_fc154ff0:
 
     # mc "Sure, I can do that. Anything for my sister."
-    mc "Sure, I can do that. Anything for my sister."
+    mc "Igen, meg tudom. Bármit a kishúgomért."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:178
 translate magyar sm1cs_tl003_383ecc72:
 
     # mc "Sure, I can do that. Anything for you, Stacy."
-    mc "Sure, I can do that. Anything for you, Stacy."
+    mc "Igen, meg tudom. Érted bármit, Stacy."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:181
 translate magyar sm1cs_tl003_1a4b46b6:
 
     # sy "Okay, that will definitely cheer me up."
-    sy "Okay, that will definitely cheer me up."
+    sy "Oké, az határozottan felvidítana."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:184
 translate magyar sm1cs_tl003_c5fe8f04:
 
     # tl "You two coming?"
-    tl "You two coming?"
+    tl "Jöttök?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:188
 translate magyar sm1cs_tl003_979dc6c6:
 
     # sy "Yep! Right behind you!"
-    sy "Yep! Right behind you!"
+    sy "Igen! Mögötted vagyunk!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:204
 translate magyar sm1cs_tl003_in_street_2e0ae530:
 
     # tl "Okay, follow me."
-    tl "Okay, follow me."
+    tl "Oké, kövessetek."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:207
 translate magyar sm1cs_tl003_in_street_9d32f660:
 
     # mc "What is this place?"
-    mc "What is this place?"
+    mc "Mi ez a hely?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:209
 translate magyar sm1cs_tl003_in_street_4ad124f4:
 
     # tl "Just the warehouse district."
-    tl "Just the warehouse district."
+    tl "Csak egy raktár."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:211
 translate magyar sm1cs_tl003_in_street_ea6df87b:
 
     # sy "Why is there a cop parked here?"
-    sy "Why is there a cop parked here?"
+    sy "Miért áll itt egy rendőr?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:214
 translate magyar sm1cs_tl003_in_street_76592468:
 
     # tl "A while back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
-    tl "A while back there was a crazy explosion or something here. Afterwards the cops just decided to keep someone here, in case they tried to do some shit again."
+    tl "Egy ideje volt itt valami őrült robbanás vagy ilyesmi. Utána a zsaruk úgy döntöttek, hogy valakit itt tartanak, hátha megint valami szart akarnak csinálni."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:217
 translate magyar sm1cs_tl003_in_street_d3ec48b3:
 
     # mc "What the hell?"
-    mc "What the hell?"
+    mc "Mi a fene?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:219
 translate magyar sm1cs_tl003_in_street_418afba7:
 
     # tl "No idea. It was crazy. But we don't have to worry about him. He's always passed out in his car."
-    tl "No idea. It was crazy. But we don't have to worry about him. He's always passed out in his car."
+    tl "Ötletem sincs. Őrület volt. De nem kell miatta agódnunk. Mindig elalszik az autójában."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:222
 translate magyar sm1cs_tl003_in_street_69379607:
 
     # sy "You sure?"
-    sy "You sure?"
+    sy "Biztos?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:224
 translate magyar sm1cs_tl003_in_street_83e87c49:
 
     # tl "Positive."
-    tl "Positive."
+    tl "Teljesen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:228
 translate magyar sm1cs_tl003_in_street_ec5bf8d4:
 
     # sy "Like, how positive?"
-    sy "Like, how positive?"
+    sy "Mint, mennyire telejesen?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:230
 translate magyar sm1cs_tl003_in_street_5240e815:
 
     # tl "Ninety percent?"
-    tl "Ninety percent?"
+    tl "Kilencven százalék?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:231
 translate magyar sm1cs_tl003_in_street_892cf4f5:
 
     # sy "Errrrrm."
-    sy "Errrrrm."
+    sy "Öööööm."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:234
 translate magyar sm1cs_tl003_in_street_152d6612:
 
     # mc "What's wrong, Stacy?"
-    mc "What's wrong, Stacy?"
+    mc "Mi a baj, Stacy?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:236
 translate magyar sm1cs_tl003_in_street_ab68f7e9:
 
     # sy "I don't know. I just keep seeing you in orange. {w}And orange is {i}definitely{/i} not your color."
-    sy "I don't know. I just keep seeing you in orange. {w}And orange is {i}definitely{/i} not your color."
+    sy "Nem tudom. Csak folyton narancssárgában látlak. {w}És a narancssárga {i}biztosan{/i} nem a te színed."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:240
 translate magyar sm1cs_tl003_in_street_d82b14fd:
 
     # mc "You see just me in orange? What, you two somehow escape getting arrested?"
-    mc "You see just me in orange? What, you two somehow escape getting arrested?"
+    mc "Narancssárgában? Mi van, ti ketten valahogy megúsztátok a letartóztatást?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:243
 translate magyar sm1cs_tl003_in_street_a40223bd:
 
     # sy "Uh huh. Because you heroically sacrifice yourself so we can get away."
-    sy "Uh huh. Because you heroically sacrifice yourself so we can get away."
+    sy "Uh huh. Mert hősi módon feláldozod magad, hogy mi elmenekülhessünk."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:245
 translate magyar sm1cs_tl003_in_street_faaf7d52:
 
     # mc "Oh, brother..."
-    mc "Oh, brother..."
+    mc "Oh, bátyó..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:248
 translate magyar sm1cs_tl003_in_street_b835b0c0:
 
     # sy "No, I'm sister. You're brother."
-    sy "No, I'm sister. You're brother."
+    sy "Nem, a húgod vagyok. Te vagy a bátyám."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:250
 translate magyar sm1cs_tl003_in_street_e1b278dd:
 
     # sy "I don't think I have the right plumbing to be your brother."
-    sy "I don't think I have the right plumbing to be your brother."
+    sy "Nem hiszem, hogy megfelelő a csővezetékem ahhoz, hogy a testvéred legyek."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:253
 translate magyar sm1cs_tl003_in_street_f56d9a15:
 
     # tl "Phew, I'm glad he still parks it here."
-    tl "Phew, I'm glad he still parks it here."
+    tl "Fúh, örülök, hogy még mindig itt parkol."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:256
 translate magyar sm1cs_tl003_in_street_77e6f3db:
 
     # mc "Who parks it here?"
-    mc "Who parks it here?"
+    mc "Ki parkol itt?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:259
 translate magyar sm1cs_tl003_in_street_6720c8d0:
 
     # tl "I'll tell you later. But..."
-    tl "I'll tell you later. But..."
+    tl "Később elmondom. De..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:271
 translate magyar sm1cs_tl003_in_street_65534fec:
 
     # mc "Holy shit."
-    mc "Holy shit."
+    mc "Szent szar."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:274
 translate magyar sm1cs_tl003_in_street_533792e8:
 
     # tl "Sexy, right?"
-    tl "Sexy, right?"
+    tl "Szexi, mi?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:276
 translate magyar sm1cs_tl003_in_street_8852e77f:
@@ -494,25 +494,25 @@ translate magyar sm1cs_tl003_in_street_8852e77f:
 translate magyar sm1cs_tl003_in_street_9198da0f:
 
     # tl "Sexier than that hoopty outside the bar."
-    tl "Sexier than that hoopty outside the bar."
+    tl "Szexisebb, mint az a rozoga kocsi a bár előtt."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:282
 translate magyar sm1cs_tl003_in_street_265b8fa7:
 
     # sy "...You're not wrong.{w} But do you have the key for the car?"
-    sy "...You're not wrong.{w} But do you have the key for the car?"
+    sy "...Nem tévedsz.{w} De van hozzá kulcsod?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:284
 translate magyar sm1cs_tl003_in_street_aeaccb28:
 
     # tl "Nope."
-    tl "Nope."
+    tl "Nincs."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:286
 translate magyar sm1cs_tl003_in_street_d66202e9:
 
     # tl "Don't need it, though."
-    tl "Don't need it, though."
+    tl "Nem is kell."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:290
 translate magyar sm1cs_tl003_in_street_14a7d307:
@@ -524,43 +524,43 @@ translate magyar sm1cs_tl003_in_street_14a7d307:
 translate magyar sm1cs_tl003_in_street_273fa2d0:
 
     # mc "Woah."
-    mc "Woah."
+    mc "Váó."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:295
 translate magyar sm1cs_tl003_in_street_26549aa9:
 
     # sy "I have so many questions for you."
-    sy "I have so many questions for you."
+    sy "Annyi kérdésem van hozzád."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:298
 translate magyar sm1cs_tl003_in_street_ff23c1ed:
 
     # tl "I can answer them after we fuck. Speaking of, shall we get to it?"
-    tl "I can answer them after we fuck. Speaking of, shall we get to it?"
+    tl "Majd miután keféltünk, válaszolok. Ha már itt tartunk, neked is kedved van hozzá?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:301
 translate magyar sm1cs_tl003_in_street_d55ae269:
 
     # mc "Yep!"
-    mc "Yep!"
+    mc "Ahha!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:302
 translate magyar sm1cs_tl003_in_street_86cafbdf:
 
     # tl "Pass me my outfit."
-    tl "Pass me my outfit."
+    tl "Kérem a ruhát."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:309
 translate magyar sm1cs_tl003_in_street_6da68be7:
 
     # tl "Outfit?"
-    tl "Outfit?"
+    tl "Ruhát?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:313
 translate magyar sm1cs_tl003_in_street_bb6b4df2:
 
     # mc "Oh, yeah, uhhh, here you go."
-    mc "Oh, yeah, uhhh, here you go."
+    mc "Óh, igen, ömmm, tessék."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:316
 translate magyar sm1cs_tl003_in_street_f802a73e:
@@ -572,175 +572,175 @@ translate magyar sm1cs_tl003_in_street_f802a73e:
 translate magyar sm1cs_tl003_in_street_c6bb6406:
 
     # mc "Don't worry, you'll have plenty of time to look at Taisia naked tonight."
-    mc "Don't worry, you'll have plenty of time to look at Taisia naked tonight."
+    mc "Ne aggódj, ma este bőven lesz időd megnézni Taisiát meztelenül."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:319
 translate magyar sm1cs_tl003_in_street_1a7b73a1:
 
     # sy "I knooooow."
-    sy "I knooooow."
+    sy "Tudooooom."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:322
 translate magyar sm1cs_tl003_in_street_5252f3ba:
 
     # mc "Speaking of, you got the camera ready?"
-    mc "Speaking of, you got the camera ready?"
+    mc "Erről beszélve, elhoztad a kamerát?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:324
 translate magyar sm1cs_tl003_in_street_0f9e5ba9:
 
     # sy "Yep, charged it up before we left too."
-    sy "Yep, charged it up before we left too."
+    sy "Igen, indulás előtt feltöltöttem."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:328
 translate magyar sm1cs_tl003_in_street_3472af5c:
 
     # tl "I'm ready."
-    tl "I'm ready."
+    tl "Kész vagyok."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:331
 translate magyar sm1cs_tl003_in_street_04f2ed6a:
 
     # mc "Hell yeah. Uhm, did you read the lines on the way over?"
-    mc "Hell yeah. Uhm, did you read the lines on the way over?"
+    mc "Fenébe is. Öm, elolvastad a szöveget idefelé?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:333
 translate magyar sm1cs_tl003_in_street_5ce8338e:
 
     # tl "Uh huh, I got it figured out. I am an actress after all."
-    tl "Uh huh, I got it figured out. I am an actress after all."
+    tl "Uh huh, Rájöttem. Végül is színésznő vagyok."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:336
 translate magyar sm1cs_tl003_in_street_e1104c7e:
 
     # mc "Great. Stacy, whenever you're ready let us know."
-    mc "Great. Stacy, whenever you're ready let us know."
+    mc "Remek. Stacy, ha készen állsz, szólj."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:338
 translate magyar sm1cs_tl003_in_street_999086e7:
 
     # sy "All right... Camera set, aaaaaaand action!"
-    sy "All right... Camera set, aaaaaaand action!"
+    sy "Rendben... Kamera kész, ééééés felvétel!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:350
 translate magyar sm1cs_tl003_in_street_a60c5d7e:
 
     # tl "So you showed up, Officer Johnson."
-    tl "So you showed up, Officer Johnson."
+    tl "Szóval megjelent, Johnson rendőrtiszt."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:353
 translate magyar sm1cs_tl003_in_street_5734da4a:
 
     # mc "I couldn't stay away... Even though this means my career as a cop is over."
-    mc "I couldn't stay away... Even though this means my career as a cop is over."
+    mc "Nem tudtam távol maradni... Annak ellenére, hogy ez a rendőri karrierem végét jelenti."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:356
 translate magyar sm1cs_tl003_in_street_60b449c7:
 
     # tl "Then why show up?"
-    tl "Then why show up?"
+    tl "Akkor miért jöttél el?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:359
 translate magyar sm1cs_tl003_in_street_6fafce0f:
 
     # mc "Because... I see what you do for your family. And I can respect that."
-    mc "Because... I see what you do for your family. And I can respect that."
+    mc "Mert... Látom, mit teszel a családodért. És ezt tiszteletben tartom."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:360
 translate magyar sm1cs_tl003_in_street_ece63635:
 
     # mc "I wish... I had someone to look out for me like that."
-    mc "I wish... I had someone to look out for me like that."
+    mc "Bárcsak... lenne valaki, aki így vigyázna rám."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:362
 translate magyar sm1cs_tl003_in_street_4338fb9e:
 
     # tl "Really?"
-    tl "Really?"
+    tl "Valóban?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:365
 translate magyar sm1cs_tl003_in_street_ff505ffb:
 
     # mc "Yeah. I've... Been a lone wolf for so long, it's nice to be a part of a pack."
-    mc "Yeah. I've... Been a lone wolf for so long, it's nice to be a part of a pack."
+    mc "Igen. Én... Olyan régóta vagyok magányos farkas, hogy jó érzés egy falkához tartozni."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:367
 translate magyar sm1cs_tl003_in_street_a2a71633:
 
     # tl "You know..."
-    tl "You know..."
+    tl "Tudod..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:368
 translate magyar sm1cs_tl003_in_street_663a553a:
 
     # tl "I think there may be space in our family for you."
-    tl "I think there may be space in our family for you."
+    tl "Azt hiszem, a családunkban van hely számodra."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:371
 translate magyar sm1cs_tl003_in_street_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "Komolyan?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:374
 translate magyar sm1cs_tl003_in_street_768779b0:
 
     # tl "Yeah. But you'll have to prove yourself."
-    tl "Yeah. But you'll have to prove yourself."
+    tl "Igen. De bizonyítanod kell."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:376
 translate magyar sm1cs_tl003_in_street_b5c609e6:
 
     # mc "You've seen how I race! You know I can do it."
-    mc "You've seen how I race! You know I can do it."
+    mc "Láttad, hogyan versenyzek! Tudod, hogy képes vagyok rá."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:378
 translate magyar sm1cs_tl003_in_street_fee79709:
 
     # tl "No, I don't mean proving yourself on the streets."
-    tl "No, I don't mean proving yourself on the streets."
+    tl "Nem, nem arra gondolok, hogy az utcán bizonyítsd magad."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:382
 translate magyar sm1cs_tl003_in_street_dd839c3e:
 
     # tl "I need you to prove yourself {i}to me{/i}."
-    tl "I need you to prove yourself {i}to me{/i}."
+    tl "Be kell bizonyítanod magad {i}nekem{/i}."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:394
 translate magyar sm1cs_tl003_sex_e3c378c5:
 
     # tl "Are you willing to drive fast? Drive {i}hard?{/i}"
-    tl "Are you willing to drive fast? Drive {i}hard?{/i}"
+    tl "Hajlandó vagy gyorsan vezetni? {i}Keményen{/i} vezetni?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:396
 translate magyar sm1cs_tl003_sex_7488ae3e:
 
     # mc "Oh yeah."
-    mc "Oh yeah."
+    mc "Oh igen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:397
 translate magyar sm1cs_tl003_sex_09d8928d:
 
     # tl "Let's see how you work that {i}gear shift{/i}, Officer Johnson."
-    tl "Let's see how you work that {i}gear shift{/i}, Officer Johnson."
+    tl "Lássuk, hogyan működik az a {i}sebességváltó{/i}, Johnson rendőrtiszt."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:401
 translate magyar sm1cs_tl003_sex_18015171:
 
     # mc "Oh, yeah. Get ready to see me put the pedal to the metal."
-    mc "Oh, yeah. Get ready to see me put the pedal to the metal."
+    mc "Ó, igen. Készülj fel, hogy láss, ahogy padlógázzal megyek."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:404
 translate magyar sm1cs_tl003_sex_33d8c729:
 
     # tl "Ready...{w} Set... {w} Go!"
-    tl "Ready...{w} Set... {w} Go!"
+    tl "Készülj...{w} Várj... {w} Go!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:413
 translate magyar sm1cs_tl003_sex_5c7dfd87:
 
     # mc "How's this for fast!?"
-    mc "How's this for fast!?"
+    mc "Ez milyen gyors!?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:416
 translate magyar sm1cs_tl003_sex_c550fbfe:
@@ -752,7 +752,7 @@ translate magyar sm1cs_tl003_sex_c550fbfe:
 translate magyar sm1cs_tl003_sex_aadfda77:
 
     # mc "And {i}furious!?{/i}"
-    mc "And {i}furious!?{/i}"
+    mc "És {i}dühös!?{/i}"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:420
 translate magyar sm1cs_tl003_sex_65a33a5d:
@@ -764,7 +764,7 @@ translate magyar sm1cs_tl003_sex_65a33a5d:
 translate magyar sm1cs_tl003_sex_7a9efef3:
 
     # mc "My engine {i}stroke{/i} has been a little off, I'm hoping this {i}lubricates{/i} my piston!"
-    mc "My engine {i}stroke{/i} has been a little off, I'm hoping this {i}lubricates{/i} my piston!"
+    mc "A motorom {i}üteme{/i} kicsit elromlott, remélem ez {i}keni{/i} a dugattyúmat!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:430
 translate magyar sm1cs_tl003_sex_726bd085:
@@ -776,487 +776,487 @@ translate magyar sm1cs_tl003_sex_726bd085:
 translate magyar sm1cs_tl003_sex_b6f5504f:
 
     # mc "This is the perfect engine maintenance! Fuck!"
-    mc "This is the perfect engine maintenance! Fuck!"
+    mc "Ez a tökéletes motor karbantartás! Basszus!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:441
 translate magyar sm1cs_tl003_sex_16f31852:
 
     # tl "Fuck, you're doing well so far, Officer."
-    tl "Fuck, you're doing well so far, Officer."
+    tl "Basszus, eddig jól csinálod, biztos úr."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:443
 translate magyar sm1cs_tl003_sex_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "Igen?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:444
 translate magyar sm1cs_tl003_sex_e7f95c0c:
 
     # tl "But now that you've got your engine running, can you get mine started?"
-    tl "But now that you've got your engine running, can you get mine started?"
+    tl "De most, hogy beindítottad a motorodat, be tudnád indítani az enyémet is?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:447
 translate magyar sm1cs_tl003_sex_fa5a1097:
 
     # mc "Oh, is there a special trick to get you going?"
-    mc "Oh, is there a special trick to get you going?"
+    mc "Ó, van valami különleges trükk, ami beindít?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:451
 translate magyar sm1cs_tl003_sex_919599d7:
 
     # tl "Oh yeah, I use a {i}paddle{/i} shifter to get into a higher gear."
-    tl "Oh yeah, I use a {i}paddle{/i} shifter to get into a higher gear."
+    tl "Ó, igen, {i}ütő{/i} váltót használok a magasabb fokozatba váltáshoz."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:454
 translate magyar sm1cs_tl003_sex_1b1aa91f:
 
     # mc "Yeah? Well let's start shifting then!"
-    mc "Yeah? Well let's start shifting then!"
+    mc "Igen? Akkor kezdjük el a váltást!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:462
 translate magyar sm1cs_tl003_sex_6aad58d7:
 
     # mc "How's that for my shifting?"
-    mc "How's that for my shifting?"
+    mc "Hogy tetszik a váltásom?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:463
 translate magyar sm1cs_tl003_sex_fcffe589:
 
     # tl "Oooo! Make sure you're double clutching!"
-    tl "Oooo! Make sure you're double clutching!"
+    tl "Óóó! Ne felejtsd el kétszer kuplungozni!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:466
 translate magyar sm1cs_tl003_sex_4b5ed56c:
 
     # mc "Oh, I can hear your engine purrrrrring!"
-    mc "Oh, I can hear your engine purrrrrring!"
+    mc "Ó, hallom, ahogy a motorod dorombooooool!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:467
 translate magyar sm1cs_tl003_sex_28a87da7:
 
     # tl "Oh, just wait - mmmmph! Just wait until we get behind the wheel, Officer."
-    tl "Oh, just wait - mmmmph! Just wait until we get behind the wheel, Officer."
+    tl "Ó, csak várj- mmmmph! Csak várj, amíg beülüsz a volán mögé, biztos úr."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:470
 translate magyar sm1cs_tl003_sex_b710b18e:
 
     # mc "Oh? Do you plan on driving dirty?"
-    mc "Oh? Do you plan on driving dirty?"
+    mc "Ó? Piszkosan akarsz vezetni?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:471
 translate magyar sm1cs_tl003_sex_c4871c46:
 
     # tl "That's how you like it, isn't it?"
-    tl "That's how you like it, isn't it?"
+    tl "Így szereted, nem igaz?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:472
 translate magyar sm1cs_tl003_sex_4c004ef7:
 
     # mc "Hey, I race clean!"
-    mc "Hey, I race clean!"
+    mc "Hé, én tisztán versenyzek!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:473
 translate magyar sm1cs_tl003_sex_d4a43c93:
 
     # tl "Then why are you here!?"
-    tl "Then why are you here!?"
+    tl "Akkor miért vagy itt!?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:480
 translate magyar sm1cs_tl003_sex_5ff76364:
 
     # mc "Because some naughty chick in a hot outfit convinced me."
-    mc "Because some naughty chick in a hot outfit convinced me."
+    mc "Mert egy csinos lány egy vonzó ruhában meggyőzött róla."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:481
 translate magyar sm1cs_tl003_sex_aaa32284:
 
     # tl "OOOmph! Officer, are you really going to blame me for turning your back on the law?"
-    tl "OOOmph! Officer, are you really going to blame me for turning your back on the law?"
+    tl "OOOmph! Tiszt úr, tényleg engem fogsz hibáztatni azért, hogy hátat fordítasz a törvénynek?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:484
 translate magyar sm1cs_tl003_sex_3c0bbbee:
 
     # mc "Absolutely!"
-    mc "Absolutely!"
+    mc "Igen!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:485
 translate magyar sm1cs_tl003_sex_646b98ac:
 
     # tl "Who are you kidding? You {i}want this too{/i}."
-    tl "Who are you kidding? You {i}want this too{/i}."
+    tl "Kit akarsz átverni? Te is {i}ezt akarod{/i}."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:488
 translate magyar sm1cs_tl003_sex_0fb0e24a:
 
     # mc "Or maybe I'm just here to punish you!"
-    mc "Or maybe I'm just here to punish you!"
+    mc "Vagy talán csak azért vagyok itt, hogy megbüntesselek!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:489
 translate magyar sm1cs_tl003_sex_1f3f5d8f:
 
     # tl "If you {i}really{/i} want to punish me, you need to do it behind the wheel."
-    tl "If you {i}really{/i} want to punish me, you need to do it behind the wheel."
+    tl "Ha {i}tényleg{/i} meg akarsz büntetni, akkor azt a volán mögött kell megtenned."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:491
 translate magyar sm1cs_tl003_sex_10f917e0:
 
     # mc "If you think you need more punishment, then let's get behind the wheel."
-    mc "If you think you need more punishment, then let's get behind the wheel."
+    mc "Ha úgy gondolod, hogy több büntetésre van szükséged, akkor üljünk be a volán mögé."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:509
 translate magyar sm1cs_tl003_sex_8d3e0504:
 
     # tl "Ready to race for my {i}pink slip?{/i}"
-    tl "Ready to race for my {i}pink slip?{/i}"
+    tl "Készen állsz a versenyre a {i}rózsaszín papíromért?{/i}"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:512
 translate magyar sm1cs_tl003_sex_e36dab88:
 
     # mc "I've been waiting for this ride all night."
-    mc "I've been waiting for this ride all night."
+    mc "Egész éjjel erre az utazásra vártam."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:513
 translate magyar sm1cs_tl003_sex_26eb8e13:
 
     # tl "Well let's see if you can handle this beauty."
-    tl "Well let's see if you can handle this beauty."
+    tl "Nos, lássuk, hogy boldogulsz ezzel a szépséggel."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:524
 translate magyar sm1cs_tl003_sex_db1a7cea:
 
     # tl "Think you can last a quarter mile?"
-    tl "Think you can last a quarter mile?"
+    tl "Gondolod, hogy kibírod a negyed mérföldet?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:526
 translate magyar sm1cs_tl003_sex_eb9128e1:
 
     # mc "I can handle anything you throw at me!"
-    mc "I can handle anything you throw at me!"
+    mc "Bármit kibírok, amit rám bízol!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:529
 translate magyar sm1cs_tl003_sex_25b533fa:
 
     # tl "Mmmmm - you've got a good {i}stick{/i} shift, Officer."
-    tl "Mmmmm - you've got a good {i}stick{/i} shift, Officer."
+    tl "Mmmmm - Jól {i}vált{/i}, biztos úr."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:530
 translate magyar sm1cs_tl003_sex_49981f29:
 
     # mc "Oh yeah, ooooooo - downshift as much as you want, this is incredible."
-    mc "Oh yeah, ooooooo - downshift as much as you want, this is incredible."
+    mc "Oh igen, ooooooo - Váltj le annyiszor, amennyiszer csak akarsz, ez hihetetlen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:531
 translate magyar sm1cs_tl003_sex_867da440:
 
     # tl "Don't lose sight of the finish line though!"
-    tl "Don't lose sight of the finish line though!"
+    tl "Ne veszítsd szem elől a célvonalat!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:534
 translate magyar sm1cs_tl003_sex_fb35951c:
 
     # mc "Oh yeah? What about you? Not even looking the right way!"
-    mc "Oh yeah? What about you? Not even looking the right way!"
+    mc "Tényleg? És te mit csinálsz? Még csak nem is a jó irányba nézel!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:535
 translate magyar sm1cs_tl003_sex_33e0c2eb:
 
     # tl "Mmmmmm, I don't need to see the road. Mmmmph - I drive by feeeeeel."
-    tl "Mmmmmm, I don't need to see the road. Mmmmph - I drive by feeeeeel."
+    tl "Mmmmmm, Nem kell látnom az utat. Mmmmph – érzés alapján vezeteeeeek."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:536
 translate magyar sm1cs_tl003_sex_88a6757e:
 
     # tl "Fuh - This is so goooood."
-    tl "Fuh - This is so goooood."
+    tl "Fuh - Ez olyan jóóóóóó."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:540
 translate magyar sm1cs_tl003_sex_76ca6e9e:
 
     # tl "Fuck, [mcname], you've got a great dick."
-    tl "Fuck, [mcname], you've got a great dick."
+    tl "Basszus, [mcname], nagyszerű farkad van."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:541
 translate magyar sm1cs_tl003_sex_7b710f47:
 
     # mc "Nnnng - you mean, 'Officer' [mcname], yeah?"
-    mc "Nnnng - you mean, 'Officer' [mcname], yeah?"
+    mc "Nnnng - úgy érted, [mcname] 'Tiszt', ugye?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:542
 translate magyar sm1cs_tl003_sex_720ee4c3:
 
     # tl "Yeah - whatever - just fuuuck me!"
-    tl "Yeah - whatever - just fuuuck me!"
+    tl "Ja, mindegy, csak duuuugj meg!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:546
 translate magyar sm1cs_tl003_sex_8d72597b:
 
     # tl "Fuck, yes! Right fucking there!"
-    tl "Fuck, yes! Right fucking there!"
+    tl "Basszus, igen! Pont ott, basszus!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:547
 translate magyar sm1cs_tl003_sex_3dabacb8:
 
     # tl "Yeah - mmmmmmnnng - yessss!"
-    tl "Yeah - mmmmmmnnng - yessss!"
+    tl "Igen - mmmmmmnnng - igeeeen!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:548
 translate magyar sm1cs_tl003_sex_a98ff5a7:
 
     # mc "Goddamn! This got high octane!"
-    mc "Goddamn! This got high octane!"
+    mc "A fenébe! Ez aztán a magas oktánszámú!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:551
 translate magyar sm1cs_tl003_sex_1f36d05c:
 
     # tl "This isn't even high octane! Just - oooooooo - wait!"
-    tl "This isn't even high octane! Just - oooooooo - wait!"
+    tl "Ez még csak nem is magas oktánszámú! Csak - oooooooo - várj!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:552
 translate magyar sm1cs_tl003_sex_f42dc4c4:
 
     # tl "Mmmmmmmmm, I need to feel you deeeeeper!"
-    tl "Mmmmmmmmm, I need to feel you deeeeeper!"
+    tl "Mmmmmmmmm, Mélyebben kell éreznem tégeeeeeeeeeed!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:554
 translate magyar sm1cs_tl003_sex_8cf139ce:
 
     # mc "Gah-Goddamn, babe!"
-    mc "Gah-Goddamn, babe!"
+    mc "A francba, bébi!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:563
 translate magyar sm1cs_tl003_sex_0b766453:
 
     # tl "I really need you to gas it, [mcname]. Fuck me like you mean it."
-    tl "I really need you to gas it, [mcname]. Fuck me like you mean it."
+    tl "Tényleg szükségem van rá, hogy dugj, [mcname]. Dugj meg úgy, mintha komolyan gondolnád."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:564
 translate magyar sm1cs_tl003_sex_0407312f:
 
     # tl "And I want you to {i}throttle{/i} my gas."
-    tl "And I want you to {i}throttle{/i} my gas."
+    tl "És azt akarom, hogy {i}fojtsd{/i} a gázt."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:566
 translate magyar sm1cs_tl003_sex_810fe451:
 
     # mc "You want me to..."
-    mc "You want me to..."
+    mc "Azt akarod, hogy..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:568
 translate magyar sm1cs_tl003_sex_b9a614e1:
 
     # tl "Squeeze my tits and hold on tight."
-    tl "Squeeze my tits and hold on tight."
+    tl "Csípd meg a melleimet és fogd meg erősen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:571
 translate magyar sm1cs_tl003_sex_68e95772:
 
     # mc "I can do that, I'll grip them like my steeri-"
-    mc "I can do that, I'll grip them like my steeri-"
+    mc "Meg tudom csinálni, úgy fogom meg őket, mint a kormányomat..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:572
 translate magyar sm1cs_tl003_sex_6c7eff67:
 
     # tl "Shut up and fuck me!"
-    tl "Shut up and fuck me!"
+    tl "Fogd be és dugj meg!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:581
 translate magyar sm1cs_tl003_sex_f2429ec1:
 
     # tl "Fuck, that's it! Yes!"
-    tl "Fuck, that's it! Yes!"
+    tl "Basszus, ez az! Igen!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:583
 translate magyar sm1cs_tl003_sex_fe583909:
 
     # mc "Oh fuuuuck, fuck Taisia!"
-    mc "Oh fuuuuck, fuck Taisia!"
+    mc "Basszus, basszus, Taisia!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:584
 translate magyar sm1cs_tl003_sex_56ba026c:
 
     # tl "Choke meeee, hardeeer!"
-    tl "Choke meeee, hardeeer!"
+    tl "Szorítsd meg, erősebben!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:588
 translate magyar sm1cs_tl003_sex_0bcfb58d:
 
     # mc "You wanted fast!"
-    mc "You wanted fast!"
+    mc "Gyorsaságot akartál!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:589
 translate magyar sm1cs_tl003_sex_f00b9250:
 
     # tl "What??"
-    tl "What??"
+    tl "Mi??"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:590
 translate magyar sm1cs_tl003_sex_e60193ba:
 
     # mc "You know, {i}fast{/i}? Like-"
-    mc "You know, {i}fast{/i}? Like-"
+    mc "Tudod, {i}gyors{/i}? Mint..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:591
 translate magyar sm1cs_tl003_sex_56d6692c:
 
     # tl "Just shut up and fuck me!"
-    tl "Just shut up and fuck me!"
+    tl "Csak fogd be és dugj meg!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:594
 translate magyar sm1cs_tl003_sex_c0fa3a5a:
 
     # tl "Gah, this is fucking ahhh-mazing! I can feel your dick so deeeeeep."
-    tl "Gah, this is fucking ahhh-mazing! I can feel your dick so deeeeeep."
+    tl "A francba, ez kurvára elképesztő! Olyan mélyen érzem a farkaaaaad."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:595
 translate magyar sm1cs_tl003_sex_1e5468a0:
 
     # tl "We should've -mmmnnnng - started with this position!"
-    tl "We should've -mmmnnnng - started with this position!"
+    tl "Kezdjük ezzel -mmmnnnng - a pozícióval!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:602
 translate magyar sm1cs_tl003_sex_fa52f539:
 
     # tl "Squeeze my throat tighter!"
-    tl "Squeeze my throat tighter!"
+    tl "Szorítsd meg erősebben a torkomat!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:604
 translate magyar sm1cs_tl003_sex_bae80873:
 
     # mc "Fuuuhhh - whaaa?"
-    mc "Fuuuhhh - whaaa?"
+    mc "Basssssz - Miiiii?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:605
 translate magyar sm1cs_tl003_sex_2cba4f00:
 
     # tl "Fucking me like you mean it! Punish this bad girl!"
-    tl "Fucking me like you mean it! Punish this bad girl!"
+    tl "Bassz meg úgy, mintha komolyan gondolnád! Büntesd meg ezt a rossz kislányt!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:607
 translate magyar sm1cs_tl003_sex_f72a0195:
 
     # mct "I forget that Taisia is a freak sometimes."
-    mct "I forget that Taisia is a freak sometimes."
+    mct "Néha elfelejtem, hogy Taisia egy furcsa teremtmény."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:611
 translate magyar sm1cs_tl003_sex_fc3a93fa:
 
     # tl "Oh - fuuh - tha - yeeeessss!"
-    tl "Oh - fuuh - tha - yeeeessss!"
+    tl "Oh - bassz - az - igeeeen!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:612
 translate magyar sm1cs_tl003_sex_de0a7174:
 
     # mc "You like that, you dirty slut?"
-    mc "You like that, you dirty slut?"
+    mc "Tetszik, te mocskos ribanc?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:613
 translate magyar sm1cs_tl003_sex_a88d1dd6:
 
     # tl "Yeee - yeeeee! Fuuuh - I'm close!"
-    tl "Yeee - yeeeee! Fuuuh - I'm close!"
+    tl "Igggg - eeeeeen! Hú, már közel vagyok!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:616
 translate magyar sm1cs_tl003_sex_97d2f8ed:
 
     # mc "Me too, I'm going to {i}fill up your tank!{/i}"
-    mc "Me too, I'm going to {i}fill up your tank!{/i}"
+    mc "Én is, {i}feltöltöm a tankodat!{/i}"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:617
 translate magyar sm1cs_tl003_sex_60da3151:
 
     # tl "I can't - I can't -"
-    tl "I can't - I can't -"
+    tl "Nem tudok - Nem tudok -"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:618
 translate magyar sm1cs_tl003_sex_bab69050:
 
     # mc "Fuuuuuuuck!"
-    mc "Fuuuuuuuck!"
+    mc "Baszuuuuus!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:620
 translate magyar sm1cs_tl003_sex_e85d5bd9:
 
     # tl "Bre... Brea... Goi... Cum!"
-    tl "Bre... Brea... Goi... Cum!"
+    tl "El... Fog... ok... Élvezni!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:621
 translate magyar sm1cs_tl003_sex_0c6d4e7e:
 
     # mc "Fuck, I'm cumming!"
-    mc "Fuck, I'm cumming!"
+    mc "Basszus, elélvezek!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:631
 translate magyar sm1cs_tl003_sex_2af9a42d:
 
     # tl "Holy fuuuuuuuuck!"
-    tl "Holy fuuuuuuuuck!"
+    tl "Szent szaaaaar!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:654
 translate magyar sm1cs_tl003_sex_end_3aca2b0d:
 
     # sy "Aaaaaand cut...{w} Holy shit that was hot."
-    sy "Aaaaaand cut...{w} Holy shit that was hot."
+    sy "Éééééés vágás...{w} Szent szar ez dögös volt."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:657
 translate magyar sm1cs_tl003_sex_end_9adb5b1c:
 
     # mc "Fuck, you're telling me."
-    mc "Fuck, you're telling me."
+    mc "Basszus, ne mondd."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:661
 translate magyar sm1cs_tl003_sex_end_0fb10c0b:
 
     # sy "And it was so much hotter having a sweet car like this, instead of... The set."
-    sy "And it was so much hotter having a sweet car like this, instead of... The set."
+    sy "És sokkal menőbb volt egy ilyen klassz autóval, mint... A díszlet."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:663
 translate magyar sm1cs_tl003_sex_end_7637cac9:
 
     # tl "Yeah... isn't the... real thing... much better?"
-    tl "Yeah... isn't the... real thing... much better?"
+    tl "Igen... nem sokkal... jobb... az igazi?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:664
 translate magyar sm1cs_tl003_sex_end_25069130:
 
     # sy "Oh yeah."
-    sy "Oh yeah."
+    sy "Oh igen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:667
 translate magyar sm1cs_tl003_sex_end_7af68a21:
 
     # sy "I'm just mad I had to be on camera duty... That looked like so much fun."
-    sy "I'm just mad I had to be on camera duty... That looked like so much fun."
+    sy "Csak dühös vagyok, hogy kamerásnak kellett lennem... Ez nagyon szórakoztatónak tűnt."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:669
 translate magyar sm1cs_tl003_sex_end_ff9c0713:
 
     # tl "Maybe... Next time..."
-    tl "Maybe... Next time..."
+    tl "Talán... Legközelebb..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:672
 translate magyar sm1cs_tl003_sex_end_6e29cd8e:
 
     # mc "I'm actually impressed, Stacy. I thought for sure you'd at least rub one out while we were filming."
-    mc "I'm actually impressed, Stacy. I thought for sure you'd at least rub one out while we were filming."
+    mc "Igazán lenyűgözöl, Stacy. Biztos voltam benne, hogy legalább egyszer ki fogod verni, amíg forgatunk."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:675
 translate magyar sm1cs_tl003_sex_end_bf31c466:
 
     # sy "Me!? What! [mcname], I am a professional!"
-    sy "Me!? What! [mcname], I am a professional!"
+    sy "Én!? Mi! [mcname], profi vagyok!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:676
 translate magyar sm1cs_tl003_sex_end_9a9a1d8f:
 
     # sy "{size=*0.6}But when we get home, I definitely need a copy of this.{/size}"
-    sy "{size=*0.6}But when we get home, I definitely need a copy of this.{/size}"
+    sy "{size=*0.6}De amikor hazaérünk, mindenképpen kell egy példány ebből.{/size}"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:679
 translate magyar sm1cs_tl003_sex_end_bc0c622e:
 
     # mc "Speaking of home, we should probably get out of here before that security guard wakes up."
-    mc "Speaking of home, we should probably get out of here before that security guard wakes up."
+    mc "Ha már otthonról van szó, akkor talán el kéne tűnnünk innen, mielőtt a biztonsági őr felébred."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:683
 translate magyar sm1cs_tl003_sex_end_33e80014:
@@ -1268,55 +1268,55 @@ translate magyar sm1cs_tl003_sex_end_33e80014:
 translate magyar sm1cs_tl003_sex_end_e744f0f3:
 
     # sy "Oops, looks like we left a little mess."
-    sy "Oops, looks like we left a little mess."
+    sy "upsz, úgy tűnik, kicsit rendetlenséget hagytunk magunk után."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:697
 translate magyar sm1cs_tl003_sex_end_bc1bf114:
 
     # tl "All cleaned, now let's-"
-    tl "All cleaned, now let's-"
+    tl "Minden megtisztítva, most pedig-"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:701
 translate magyar sm1cs_tl003_sex_end_9a38998b:
 
     # tl "Oh shit! Get down!"
-    tl "Oh shit! Get down!"
+    tl "A francba! Feküdj le!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:717
 translate magyar sm1cs_tl003_sex_end_972dc55f:
 
     # mc "Oh no, oh no - I'm too handsome to go to jail!"
-    mc "Oh no, oh no - I'm too handsome to go to jail!"
+    mc "Oh ne, oh ne - Túl jóképű vagyok ahhoz, hogy börtönbe kerüljek!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:719
 translate magyar sm1cs_tl003_sex_end_b82ee33e:
 
     # tl "Shut it, [mcname]. No one is going to jail today. Just be quiet, and follow me!"
-    tl "Shut it, [mcname]. No one is going to jail today. Just be quiet, and follow me!"
+    tl "Fogd be, [mcname]. Ma senki sem megy börtönbe. Csak maradj csendben, és kövess!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:770
 translate magyar sm1cs_tl003_sex_end_2aba6cf1:
 
     # tl "Wooo, nothing like an adrenaline rush after an orgasm."
-    tl "Wooo, nothing like an adrenaline rush after an orgasm."
+    tl "Vááá, semmi sem hasonlít az orgazmus utáni adrenalin-lökethez."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:773
 translate magyar sm1cs_tl003_sex_end_c2050e14:
 
     # mc "You're telling me! Jesus!"
-    mc "You're telling me! Jesus!"
+    mc "Ne mondd! Jézusom!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:775
 translate magyar sm1cs_tl003_sex_end_b91e282e:
 
     # sy "I wish I had had an orgasm..."
-    sy "I wish I had had an orgasm..."
+    sy "Bárcsak orgazmusom lett volna..."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:780
 translate magyar sm1cs_tl003_sex_end_606145b9:
 
     # mc "I'm sure you'll have plenty watching that video tonight."
-    mc "I'm sure you'll have plenty watching that video tonight."
+    mc "Biztos vagyok benne, hogy ma este sokan nézed ezt a videót."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:782
 translate magyar sm1cs_tl003_sex_end_2306b455:
@@ -1328,81 +1328,81 @@ translate magyar sm1cs_tl003_sex_end_2306b455:
 translate magyar sm1cs_tl003_sex_end_739d1bb0:
 
     # tl "Speaking of... I believe I'm owed some compensation?"
-    tl "Speaking of... I believe I'm owed some compensation?"
+    tl "Erről beszélve... Úgy gondolom, hogy jár nekem némi kártérítés?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:788
 translate magyar sm1cs_tl003_sex_end_0e5a457d:
 
     # mc "Oh shit, yeah."
-    mc "Oh shit, yeah."
+    mc "Oh picsába, igen."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:792
 translate magyar sm1cs_tl003_sex_end_209631b2:
 
     # mc "And... Here you go!"
-    mc "And... Here you go!"
+    mc "ÉS... Tessék!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:800
 translate magyar sm1cs_tl003_sex_end_a6f1213e:
 
     # tl "Man... This was a lot of fun."
-    tl "Man... This was a lot of fun."
+    tl "Haver... Ez nagyon jó móka volt."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:802
 translate magyar sm1cs_tl003_sex_end_fcf340b6:
 
     # mc "I agree."
-    mc "I agree."
+    mc "Egyetértek."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:804
 translate magyar sm1cs_tl003_sex_end_10b8073b:
 
     # sy "Me too!"
-    sy "Me too!"
+    sy "Én is!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:805
 translate magyar sm1cs_tl003_sex_end_b4565abe:
 
     # tl "We should definitely do it again, right?"
-    tl "We should definitely do it again, right?"
+    tl "Mindenképpen meg kell ismételni, ugye?"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:806
 translate magyar sm1cs_tl003_sex_end_ac2bf2bb:
 
     # sy "Absolutely. Next time I'll ask you about a car before I call everyone I know."
-    sy "Absolutely. Next time I'll ask you about a car before I call everyone I know."
+    sy "Természetesen. Legközelebb, mielőtt felhívom az összes ismerősömet, előbb tőled kérek egy autót."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:810
 translate magyar sm1cs_tl003_sex_end_c4b98384:
 
     # tl "Well, I'm going to take off. I can feel [mcname]'s cum getting sticky on my leg."
-    tl "Well, I'm going to take off. I can feel [mcname]'s cum getting sticky on my leg."
+    tl "Nos, én most lelépek. Érzem, hogy [mcname] gecije tapad a lábamra."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:812
 translate magyar sm1cs_tl003_sex_end_8d3bf09b:
 
     # mc "We'll let you know when we release the video!"
-    mc "We'll let you know when we release the video!"
+    mc "Szólunk, amikor megjelenik a videó!"
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:814
 translate magyar sm1cs_tl003_sex_end_11f99e7f:
 
     # tl "Awesome! I'll see you two later."
-    tl "Awesome! I'll see you two later."
+    tl "Szuper! Később találkozunk."
 
 # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:816
 translate magyar sm1cs_tl003_sex_end_1ed8f75c:
 
     # sy "See ya', Taisia!"
-    sy "See ya', Taisia!"
+    sy "Szia, Taisia!"
 
 translate magyar strings:
 
     # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:793
     old "Taisia's compansation"
-    new "Taisia's compansation"
+    new "Taisia kompenzációja"
 
     # game/code/scenes/theatre/tl/sm1cs-tl003.rpy:793
     old "You gave $100 to Taisia for the shoot"
-    new "You gave $100 to Taisia for the shoot"
+    new "100$ dollárt adtál Taisiának a videóért"
 
