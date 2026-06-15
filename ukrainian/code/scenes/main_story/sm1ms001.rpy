@@ -416,7 +416,7 @@ translate ukrainian name_done_cb7a4cfb:
 translate ukrainian name_done_c4a0019b:
 
     # sy "Also, there's food, utility bills - water, electric, four railroads - not to mention rent."
-    sy "А ще є їжа, комунальні платежі — вода, електрика, чотири залізниці — не кажучи вже про оренду."
+    sy "А ще є їжа, комунальні платежі — вода, електрика та купа інших витрат — не кажучи вже про оренду."
 
 # game/code/scenes/main_story/sm1ms001.rpy:268
 translate ukrainian name_done_65aed32d:
