@@ -116,7 +116,7 @@ translate ukrainian name_done_608fc7a4:
 translate ukrainian name_done_a0217e6b:
 
     # mc "Are you still stuck on Hana's broadcast?{w} Stacy, she didn't even say my name."
-    mc "Ти все ще зациклилася на репортажі Хани?{w} Стейсі, вона навіть не назвала мого імені."
+    mc "Ти все ще зациклилася на репортажі Хани?{w} Stacy, вона навіть не назвала мого імені."
 
 # game/code/scenes/main_story/sm1ms001.rpy:127
 translate ukrainian name_done_1584204b:
@@ -194,7 +194,7 @@ translate ukrainian name_done_1b2b746b:
 translate ukrainian name_done_88d8bd8e:
 
     # mc "Don't worry too much about that, Stacy."
-    mc "Не переймайся через це надто сильно, Стейсі."
+    mc "Не переймайся через це надто сильно, Stacy."
 
 # game/code/scenes/main_story/sm1ms001.rpy:161
 translate ukrainian name_done_a43f59c8:
@@ -482,7 +482,7 @@ translate ukrainian name_done_eb10b7fb:
 translate ukrainian name_done_e0a99c95:
 
     # sy "I'll continue fixing this place up. Also, I'll be looking for potential leads for actresses to work with you."
-    sy "Я й далі приводтиму це місце до ладу. А ще шукатиму потенційних кандидаток в акторки, щоб вони працювали з тобою."
+    sy "Я й далі приводитиму це місце до ладу. А ще шукатиму потенційних кандидаток в акторки, щоб вони працювали з тобою."
 
 # game/code/scenes/main_story/sm1ms001.rpy:291
 translate ukrainian name_done_6edbdc37:
