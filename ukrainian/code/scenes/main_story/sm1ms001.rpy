@@ -302,7 +302,7 @@ translate ukrainian name_done_ac54cd42:
 translate ukrainian name_done_dcde3835:
 
     # sy "We will be creating Adult Fiction with Erotic content. Please don't call it porn."
-    sy "Ми будемо створювати художній твір для дорослих з еротичним змістом. Будь ласка, не називай це порно."
+    sy "Ми будемо створювати художній твір для дорослих з еротичним змістом. Будь ласка, не називай це порнографією."
 
 # game/code/scenes/main_story/sm1ms001.rpy:204
 translate ukrainian name_done_fd5ba84c:
