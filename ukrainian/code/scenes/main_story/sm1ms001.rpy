@@ -92,7 +92,7 @@ translate ukrainian name_done_08ad240c:
 translate ukrainian name_done_1607ef68:
 
     # "Delivery Person" "Thank you, uhh, Mr.{w} [mcname] Young."
-    "Кур'єр" "Дякую, е-е, містере.{w} [mcname] Янг."
+    "Кур'єр" "Дякую, е-е, містере.{w} [mcname] Young."
 
 # game/code/scenes/main_story/sm1ms001.rpy:116
 translate ukrainian name_done_e744756d:
@@ -482,7 +482,7 @@ translate ukrainian name_done_eb10b7fb:
 translate ukrainian name_done_e0a99c95:
 
     # sy "I'll continue fixing this place up. Also, I'll be looking for potential leads for actresses to work with you."
-    sy "Я й далі приводтиму це місце до ладу. А ще шукатиму потенційних кандидаток у акторки, щоб вони працювали з тобою."
+    sy "Я й далі приводтиму це місце до ладу. А ще шукатиму потенційних кандидаток в акторки, щоб вони працювали з тобою."
 
 # game/code/scenes/main_story/sm1ms001.rpy:291
 translate ukrainian name_done_6edbdc37:
