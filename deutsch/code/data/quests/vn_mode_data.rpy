@@ -121,7 +121,7 @@
     new "Schau dir den bearbeiteten Film an"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk about making a new move"
+    old "Talk about making a new movie"
     new "Über einen neuen Schritt sprechen"
 
     # game/code/data/quests/vn_mode_data.rpy:9

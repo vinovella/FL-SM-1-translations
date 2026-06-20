@@ -121,8 +121,8 @@
     new "Check out the edited movie"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk about making a new move"
-    new "Talk about making a new move"
+    old "Talk about making a new movie"
+    new "Talk about making a new movie"
 
     # game/code/data/quests/vn_mode_data.rpy:9
     old "Talk about the movie options"

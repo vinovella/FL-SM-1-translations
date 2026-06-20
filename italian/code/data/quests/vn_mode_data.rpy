@@ -117,7 +117,7 @@
     new "Guarda il film montato"
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk about making a new move"
+    old "Talk about making a new movie"
     new "Parla di fare un nuovo film"
 
     # game/code/data/quests/vn_mode_data.rpy:9

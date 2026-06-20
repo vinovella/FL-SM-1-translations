@@ -543,7 +543,7 @@
 translate turkish strings:
 
     # game/code/data/quests/vn_mode_data.rpy:9
-    old "Talk about making a new move"
+    old "Talk about making a new movie"
     new "Yeni bir hamle yapmayı konuş"
 
     # game/code/data/quests/vn_mode_data.rpy:9
