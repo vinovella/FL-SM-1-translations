@@ -2,7 +2,7 @@ translate portuguese strings:
 
     # game/code/classes/character.rpy:86
     old "You got [difference_points] Relationship Points with [character_name!t]"
-    new "Você ganhou [difference_points] Ponto De Relacionamento com [character_name!t]"
+    new "Você ganhou [difference_points] Pontos De Relacionamento com [character_name!t]"
 
     # game/code/classes/character.rpy:88
     old "You got [difference_points] Relationship Point with [character_name!t]"
@@ -18,7 +18,7 @@ translate portuguese strings:
 
     # game/code/classes/character.rpy:97
     old "You got [points] Relationship Point with [character_name!t]"
-    new "Você ganhou [points] Ponto de Relacionamento [character_name!t]"
+    new "Você ganhou [points] Ponto de Relacionamento com [character_name!t]"
 
     # game/code/classes/character.rpy:117
     old "You lost [points] Relationship Points with [character_name!t]"
