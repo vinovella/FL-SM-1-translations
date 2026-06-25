@@ -6,7 +6,7 @@ translate portuguese strings:
 
     # game/code/classes/chat_controller.rpy:218
     old "Sent a video."
-    new "Enviar um vídeo."
+    new "Enviou um vídeo."
 
     # game/code/classes/chat_controller.rpy:220
     old "Send photo"
