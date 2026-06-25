@@ -18,7 +18,7 @@ translate portuguese strings:
 
     # game/code/classes/movie_controllers.rpy:128
     old "You have reached the daily limit"
-    new "Você alcançou o limite de área"
+    new "Você alcançou o limite diário"
 
     # game/code/classes/movie_controllers.rpy:130
     old "You don't have enough energy"
