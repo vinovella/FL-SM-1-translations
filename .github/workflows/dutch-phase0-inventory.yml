@@ -1,0 +1,85 @@
+name: Dutch Phase 0 inventory
+
+on:
+  push:
+    branches:
+      - 'phase0/**'
+    paths:
+      - '.github/workflows/dutch-phase0-inventory.yml'
+      - 'tools/dutch_phase0_inventory.py'
+      - 'tests/test_dutch_phase0_inventory.py'
+      - 'docs/dutch/phase0-config.json'
+      - 'chinese/**'
+      - 'deutsch/**'
+      - 'french/**'
+      - 'italian/**'
+      - 'magyar/**'
+      - 'portuguese/**'
+      - 'spanish/**'
+      - 'turkish/**'
+      - 'ukrainian/**'
+  pull_request:
+    paths:
+      - '.github/workflows/dutch-phase0-inventory.yml'
+      - 'tools/dutch_phase0_inventory.py'
+      - 'tests/test_dutch_phase0_inventory.py'
+      - 'docs/dutch/**'
+      - 'chinese/**'
+      - 'deutsch/**'
+      - 'french/**'
+      - 'italian/**'
+      - 'magyar/**'
+      - 'portuguese/**'
+      - 'spanish/**'
+      - 'turkish/**'
+      - 'ukrainian/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  phase0-inventory:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run inventory unit tests
+        run: python -m unittest tests/test_dutch_phase0_inventory.py
+
+      - name: Generate or verify Phase 0 inventory
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            python tools/dutch_phase0_inventory.py --check
+          else
+            python tools/dutch_phase0_inventory.py --write
+          fi
+
+      - name: Check whitespace
+        run: git diff --check
+
+      - name: Commit generated inventory on Phase 0 branch
+        if: github.event_name == 'push'
+        shell: bash
+        run: |
+          changes="$(git status --porcelain -- docs/dutch/PHASE0_FILE_MANIFEST.csv docs/dutch/PHASE0_INVENTORY_SUMMARY.md)"
+          if [[ -z "$changes" ]]; then
+            echo "Inventory already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/dutch/PHASE0_FILE_MANIFEST.csv docs/dutch/PHASE0_INVENTORY_SUMMARY.md
+          git commit -m "docs: generate Phase 0 Dutch translation inventory"
+          git push

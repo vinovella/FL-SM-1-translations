@@ -1,0 +1,22 @@
+rule_type,value,category,rationale
+exact,S&M Studio,proper_name,Studio/project name
+exact,BDSM,abbreviation,Established abbreviation
+exact,IT,abbreviation,Established abbreviation
+exact,USB,abbreviation,Established abbreviation
+exact,NASA,proper_name,Organization acronym
+exact,KBBQ,abbreviation,Established acronym used in dialogue
+exact,Ctrl,technical_key,Keyboard key label
+exact,Audio,technical_term,Common Dutch UI term is identical
+exact,Gameplay,technical_term,Common Dutch game/UI loanword
+exact,Console,technical_term,Common technical loanword when used for the developer/game console
+exact,DejaVu Sans,font_name,Font name
+exact,OpenDyslexic,font_name,Font name
+exact,Lekker,intentional_dutch,Already Dutch in authored source dialogue
+exact,Oprotten,intentional_dutch,Already Dutch in authored source dialogue
+exact,Vreselijk,intentional_dutch,Already Dutch in authored source dialogue
+exact,pannenkoek,intentional_dutch,Already Dutch in authored source dialogue
+exact,pannekoek,intentional_dutch,Preserve authored spelling where present
+exact,Kuts,intentional_dutch,Character-specific authored Dutch form
+exact,"helaas, pindakaas",intentional_dutch,Already Dutch in authored source dialogue
+glossary_category,proper_name,proper_name,Any source/target pair marked proper_name and locked in DUTCH_GLOSSARY.csv
+regex,"^(?:\s|[^\w])+$",nonlexical,Python-compatible rule for strings containing only whitespace/punctuation and no letters digits or underscore

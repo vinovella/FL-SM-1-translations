@@ -1,0 +1,107 @@
+source,dutch,category,policy,status,notes
+[mcname],[mcname],placeholder,preserve_exact,locked,Player-selected main-character name
+AmRose,AmRose,proper_name,preserve,locked,Amber-Rose Jenkins
+Amore,Amore,proper_name,preserve,locked,BDSM model
+Debbie,Debbie,proper_name,preserve,locked,Debbie Callahan
+Kanya,Kanya,proper_name,preserve,locked,Kanya Vu
+Min,Min,proper_name,preserve,locked,Min Eun-Soo
+Lyssa,Lyssa,proper_name,preserve,locked,Melissa Harris / Lyssa
+Melony,Melony,proper_name,preserve,locked,Melony Young
+Stacy,Stacy,proper_name,preserve,locked,Stacy Young
+Angela,Angela,proper_name,preserve,locked,Angela Taylor Portillo
+Bently,Bently,proper_name,preserve,locked,Taisia coworker
+Cecilia,Cecilia,proper_name,preserve,locked,Cecilia Siegal
+Elizabeth,Elizabeth,proper_name,preserve,locked,Elizabeth Davis
+Hana,Hana,proper_name,preserve,locked,Hana Rivera
+Inga,Inga,proper_name,preserve,locked,Inga Cowen
+Juggsy,Juggsy,proper_name,preserve,locked,Taisia coworker
+Kennedy,Kennedy,proper_name,preserve,locked,Kennedy Assworth
+Lauren,Lauren,proper_name,preserve,locked,Lauren Grindsly
+Olivia,Olivia,proper_name,preserve,locked,Olivia Small
+Ridley,Ridley,proper_name,preserve,locked,Ridley Driver
+Zuzana,Zuzana,proper_name,preserve,locked,Zuzana Holab
+Anna,Anna,proper_name,preserve,locked,Anna Goodwin
+April,April,proper_name,preserve,locked,April
+Claire,Claire,proper_name,preserve,locked,Claire Watts
+Nari,Nari,proper_name,preserve,locked,Nari Song
+Eugene,Eugene,proper_name,preserve,locked,Eugene Nowakowski
+Mitch Conner,Mitch Conner,proper_name,preserve,locked,April band lead guitar
+Megan,Megan,proper_name,preserve,locked,Megan John
+Peter,Peter,proper_name,preserve,locked,Peter Maloney
+Pepper Storm,Pepper Storm,proper_name,preserve,locked,April band drummer
+Sienna,Sienna,proper_name,preserve,locked,Sienna Roberts
+Denise,Denise,proper_name,preserve,locked,Denise Van der Haute
+Kellie,Kellie,proper_name,preserve,locked,Kellie Moore
+Taisia,Taisia,proper_name,preserve,locked,Taisia Lindqvist
+Veronica,Veronica,proper_name,preserve,locked,Veronica Steele
+Amanda,Amanda,proper_name,preserve,locked,Amanda Kline
+Eileen,Eileen,proper_name,preserve,locked,Eileen Cavendish
+Jayden,Jayden,proper_name,preserve,locked,Jayden Hester
+Kai,Kai,proper_name,preserve,locked,Kai Wyatt
+Libby,Libby,proper_name,preserve,locked,Libby Moore
+Bruce,Bruce,proper_name,preserve,locked,Sam Bruce
+Sue,Sue,proper_name,preserve,locked,Sue Johnson
+Maya,Maya,proper_name,preserve,locked,Maya Siegel
+Nelson Rohr,Nelson Rohr,proper_name,preserve,locked,Nelson Rohr
+Zemfira,Zemfira,proper_name,preserve,locked,Zemfira Power
+Elena,Elena,proper_name,preserve,locked,Elena Flanagon
+Daisy,Daisy,proper_name,preserve,locked,Daisy Diamond
+Doug,Doug,proper_name,preserve,locked,Doug Dickles
+Ethan,Ethan,proper_name,preserve,locked,Ethan Foxmorr
+Carmel,Carmel,proper_name,preserve,locked,Carmel Blaise
+Samiya,Samiya,proper_name,preserve,locked,Samiya Byers
+Narrator,Verteller,role_label,translate_if_visible,preferred,Only when Narrator is actually player-visible
+Creepy Guy,Enge man,role_label,translate,preferred,Generic unnamed role
+Dog Walker,Hondenuitlater,role_label,translate,preferred,Generic unnamed role
+Jogger,Hardloper,role_label,translate,preferred,Generic unnamed role
+Carnival Worker,Kermismedewerker,role_label,translate,preferred,Generic unnamed role
+Waiter,Ober,role_label,translate,preferred,Generic unnamed role
+BDSM Model,BDSM-model,role_label,translate,preferred,Generic/professional role label
+Mr.,meneer,honorific,translate,preferred,Use with surname when visible
+Mrs.,mevrouw,honorific,translate,preferred,Use with surname when visible
+S&M Studio,S&M Studio,proper_name,preserve,locked,Studio/project name
+IT Office,IT-kantoor,location,translate,preferred,Use when it is a visible location label
+studio,studio,studio_business,translate,preferred,
+filming,opnames,studio_business,translate,preferred,Noun/activity; inflect by sentence
+shoot,opname / draaidag,studio_business,context_sensitive,guideline,Choose by production context
+director,regisseur,studio_business,translate,preferred,
+sound person,geluidsmedewerker,studio_business,translate,preferred,
+rent,huur,business,translate,preferred,
+weekly rent,weekhuur,business,translate,preferred,
+revenue,omzet,business,translate,preferred,
+profit,winst,business,translate,preferred,
+expenses,kosten,business,translate,preferred,
+budget,budget,business,translate,preferred,
+email,e-mail,it,translate,preferred,
+password,wachtwoord,it,translate,preferred,
+server,server,it,translate,preferred,
+software,software,it,translate,preferred,
+Save,Opslaan,ui,translate,preferred,
+Load,Laden,ui,translate,preferred,
+Back,Terug,ui,translate,preferred,
+Preferences,Voorkeuren,ui,translate,preferred,
+History,Geschiedenis,ui,translate,preferred,
+Enable,Inschakelen,ui,translate,preferred,
+Disable,Uitschakelen,ui,translate,preferred,
+Reset,Resetten,ui,translate,preferred,
+Accessibility Menu,Toegankelijkheidsmenu,ui,translate,preferred,
+BDSM,BDSM,bdsm,preserve,locked,Established abbreviation
+bondage,bondage,bdsm,preserve,preferred,Established Dutch loanword
+dominant,dominant,bdsm,translate,preferred,Role/noun; inflect by sentence
+submissive,sub / onderdanig,bdsm,context_sensitive,guideline,Sub as role/noun; onderdanig as adjective
+safe word,stopwoord,bdsm,translate,preferred,
+consent,toestemming / instemming,bdsm,context_sensitive,guideline,Choose by sentence
+porn,porno,explicit,translate,preferred,
+sex,seks,explicit,translate,preferred,
+orgasm,orgasme,explicit,translate,preferred,
+fuck,[context-sensitive],profanity,context_sensitive,guideline,Translate by function and character voice
+dick,[context-sensitive],explicit_slang,context_sensitive,guideline,Match source register; no global replacement
+pussy,[context-sensitive],explicit_slang,context_sensitive,guideline,Match source register; no global replacement
+bitch,[context-sensitive],profanity,context_sensitive,guideline,Match insult/teasing function and character voice
+Lekker,Lekker,intentional_dutch,preserve_exact,locked,Already-authored Dutch phrase
+Oprotten,Oprotten,intentional_dutch,preserve_exact,locked,Already-authored Dutch phrase
+Vreselijk,Vreselijk,intentional_dutch,preserve_exact,locked,Already-authored Dutch phrase
+pannenkoek,pannenkoek,intentional_dutch,preserve_exact,locked,Already-authored Dutch phrase
+pannekoek,pannekoek,intentional_dutch,preserve_exact,locked,Preserve source spelling when intentionally authored this way
+Kuts,Kuts,intentional_dutch,preserve_exact,locked,Preserve authored character-specific form
+"helaas, pindakaas","helaas, pindakaas",intentional_dutch,preserve_exact,locked,Already-authored Dutch phrase

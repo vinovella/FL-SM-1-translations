@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "target_language": {
+    "english_name": "Dutch",
+    "locale_variant": "nl-NL",
+    "display_name": {
+      "proposed": "Nederlands",
+      "status": "pending_maintainer_confirmation"
+    },
+    "renpy_language_key": {
+      "proposed": "dutch",
+      "status": "pending_maintainer_confirmation"
+    }
+  },
+  "source": {
+    "upstream_repository": "vinovella/FL-SM-1-translations",
+    "upstream_baseline_sha": "cbb9016479fa95aca7c6ad58593fdf63093d7659",
+    "fork_phase0_base_sha": "c6c9e8e587619e42190963a2077e9b29ded0d1f2",
+    "production_language_roots": [
+      "chinese",
+      "deutsch",
+      "french",
+      "italian",
+      "magyar",
+      "portuguese",
+      "spanish",
+      "turkish",
+      "ukrainian"
+    ],
+    "preferred_count_sources": [
+      "deutsch",
+      "italian",
+      "french",
+      "spanish",
+      "portuguese",
+      "turkish",
+      "chinese",
+      "magyar",
+      "ukrainian"
+    ]
+  },
+  "inventory": {
+    "manifest_path": "docs/dutch/PHASE0_FILE_MANIFEST.csv",
+    "summary_path": "docs/dutch/PHASE0_INVENTORY_SUMMARY.md",
+    "allowed_statuses": [
+      "not started",
+      "in progress",
+      "review",
+      "done"
+    ],
+    "default_status": "not started"
+  },
+  "storefront": {
+    "proposed_scope": "include",
+    "proposed_filename": "storepage_896318_dutch.json",
+    "status": "pending_maintainer_confirmation"
+  }
+}

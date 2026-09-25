@@ -1,0 +1,107 @@
+name: Dutch translation quality
+
+on:
+  push:
+    branches:
+      - 'nl/**'
+    paths:
+      - '.github/workflows/dutch-translation-quality.yml'
+      - '.github/PULL_REQUEST_TEMPLATE/dutch-translation.md'
+      - 'tools/dutch_*.py'
+      - 'tests/test_dutch_*.py'
+      - 'docs/dutch/**'
+      - 'dutch/**'
+      - 'chinese/**'
+      - 'deutsch/**'
+      - 'french/**'
+      - 'italian/**'
+      - 'magyar/**'
+      - 'portuguese/**'
+      - 'spanish/**'
+      - 'turkish/**'
+      - 'ukrainian/**'
+  pull_request:
+    paths:
+      - '.github/workflows/dutch-translation-quality.yml'
+      - '.github/PULL_REQUEST_TEMPLATE/dutch-translation.md'
+      - 'tools/dutch_*.py'
+      - 'tests/test_dutch_*.py'
+      - 'docs/dutch/**'
+      - 'dutch/**'
+      - 'chinese/**'
+      - 'deutsch/**'
+      - 'french/**'
+      - 'italian/**'
+      - 'magyar/**'
+      - 'portuguese/**'
+      - 'spanish/**'
+      - 'turkish/**'
+      - 'ukrainian/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  quality:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Dutch tooling tests
+        run: python -m unittest discover -s tests -p 'test_dutch_*.py' -v
+
+      - name: Verify translation inventory is current
+        run: python tools/dutch_phase0_inventory.py --check
+
+      - name: Generate or verify source-content snapshot
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            python tools/dutch_source_snapshot.py --check
+          else
+            python tools/dutch_source_snapshot.py --write
+          fi
+
+      - name: Generate or verify progress report
+        shell: bash
+        run: |
+          if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            python tools/dutch_progress_report.py --check
+          else
+            python tools/dutch_progress_report.py --write
+          fi
+
+      - name: Validate Dutch Ren'Py files
+        run: python tools/dutch_translation_validate.py
+
+      - name: Check whitespace
+        run: git diff --check
+
+      - name: Commit generated tracking files on implementation branches
+        if: github.event_name == 'push'
+        shell: bash
+        run: |
+          GENERATED=(
+            docs/dutch/SOURCE_CONTENT_SNAPSHOT.csv
+            docs/dutch/TRANSLATION_PROGRESS.md
+          )
+          if git diff --quiet -- "${GENERATED[@]}" && [[ -z "$(git ls-files --others --exclude-standard -- "${GENERATED[@]}")" ]]; then
+            echo "Generated Dutch tracking files are already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- "${GENERATED[@]}"
+          git commit -m "docs: refresh Dutch translation tracking"
+          git push
