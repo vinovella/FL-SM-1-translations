@@ -14,7 +14,7 @@ translate portuguese sm1cs_am004i_61497916:
 translate portuguese sm1cs_am004i_c60dab29:
 
     # mc "That concert you invited to, it's tonight, right?"
-    mc "Aquele show que você me convidou é hoje, né?"
+    mc "Aquele show que você me convidou pra ir é hoje, né?"
 
 # game/code/scenes/it_office/am/sm1cs-am004i.rpy:13
 translate portuguese sm1cs_am004i_4663ec60:
