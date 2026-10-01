@@ -8,7 +8,7 @@ translate portuguese sm1cs_kv001_44d82e84:
 translate portuguese sm1cs_kv001_7f4d57d2:
 
     # kv "Yeah, just a minute. We're just about to take a break."
-    kv "Sim, só um instante. Já vamos parar pro almoço."
+    kv "Sim, só um instante. Já vamos dar uma pausa."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:29
 translate portuguese sm1cs_kv001_1f5f4c44:
@@ -32,7 +32,7 @@ translate portuguese sm1cs_kv001_a1f184e9_1:
 translate portuguese sm1cs_kv001_d397ae59:
 
     # kv "I think this is a good spot to take a break."
-    kv "Acho que dá pra gente parar pro almoço."
+    kv "Acho que dá pra gente dar uma pausa."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:42
 translate portuguese sm1cs_kv001_7141e992:
@@ -200,7 +200,7 @@ translate portuguese sm1cs_kv001_40f3e2eb:
 translate portuguese sm1cs_kv001_c79a5a30:
 
     # kv "Okay, so porn studio. I'm now even more interested. What have you got so far?"
-    kv "Então, estúdio pornô. Agora fiquei mais interessado ainda. O que você fez até agora?"
+    kv "Então, estúdio pornô. Agora fiquei mais interessada ainda. O que você fez até agora?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:112
 translate portuguese sm1cs_kv001_21102e7f:
@@ -236,7 +236,7 @@ translate portuguese sm1cs_kv001_ff173576:
 translate portuguese sm1cs_kv001_ad6dfaad:
 
     # kv "That's a good plan! I heard you say \"we\". Have you got another business partner?"
-    kv "Ótimo plano! Ouvi você falar\"vamos\". Você tem algum parceiro de negócios?"
+    kv "Ótimo plano! Ouvi você falar \"vamos\". Você tem algum parceiro de negócios?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:126
 translate portuguese sm1cs_kv001_d9f892f2:
@@ -308,13 +308,13 @@ translate portuguese sm1cs_kv001_b51c8c88:
 translate portuguese sm1cs_kv001_e4ace57b:
 
     # mc "I know you need a camera, and actors and actresses, and... Other stuff?"
-    mc "Você que precisa de uma câmera, atores atrizes, e... outras coisas?"
+    mc "Você sabe que precisa de uma câmera, atores atrizes, e... outras coisas?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:154
 translate portuguese sm1cs_kv001_34471cfd:
 
     # kv "Well before we get too deep into gear and space and everything else..."
-    kv "Bem, antes da gente  se aprofundar em equipamento e espaço e tal..."
+    kv "Bem, antes da gente se aprofundar em equipamento e espaço e tal..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:157
 translate portuguese sm1cs_kv001_109e49bc:
@@ -374,7 +374,7 @@ translate portuguese sm1cs_kv001_cc6bc831:
 translate portuguese sm1cs_kv001_a3bd9021:
 
     # kv "Yeah! Let's get to it."
-    kv "Sim. Vamos."
+    kv "Sim! Bora."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv001.rpy:187
 translate portuguese sm1cs_kv001_c13f529e:
