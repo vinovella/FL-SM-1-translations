@@ -278,7 +278,7 @@ translate portuguese sm1cs_kv003_f650b3a0:
 translate portuguese sm1cs_kv003_dc05cbea:
 
     # kv "That's fine, it's just us here."
-    kv "Tudo bem, só tem gente aqui."
+    kv "Tudo bem, só tem a gente aqui."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:178
 translate portuguese sm1cs_kv003_6fbcceac:
@@ -374,7 +374,7 @@ translate portuguese sm1cs_kv003_0094df05:
 translate portuguese sm1cs_kv003_c2e27b87:
 
     # kv "Okay, so the absolute dream is to spend a whole night in a castle dungeon."
-    kv "Tá,  então o meu sonho seria passar uma noite inteira no calabouço de um castelo."
+    kv "Tá, então o meu sonho seria passar uma noite inteira no calabouço de um castelo."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:238
 translate portuguese sm1cs_kv003_e21fbf3e:
@@ -398,7 +398,7 @@ translate portuguese sm1cs_kv003_ab09f18f:
 translate portuguese sm1cs_kv003_22894c7f:
 
     # kv "And not only those... But all kinds of tables and traps... I remember this porn where a girl is strapped to a table with a vibrator tied to her leg."
-    kv "E não só isso... Mas um monte de mesas e armadilhas...  Lembro de um pornô que a garota estava presa numa mesa, e tinha um vibrador amarrado na perna."
+    kv "E não só isso... Mas um monte de mesas e armadilhas... Lembro de um pornô que a garota estava presa numa mesa, e tinha um vibrador amarrado na perna."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:246
 translate portuguese sm1cs_kv003_5990c755:
@@ -464,7 +464,7 @@ translate portuguese sm1cs_kv003_b4cc2364:
 translate portuguese sm1cs_kv003_eedd7552:
 
     # kv "I kind of like the harder stuff. You know, choking, spanking... Have you ever used ropes before?"
-    kv "Eu gosto das coisas mais brutas. Sabe, tipo engasgar, palmadas... Já usou cordas?"
+    kv "Eu gosto das coisas mais brutas. Sabe, tipo enforcar, palmadas... Já usou cordas alguma vez?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:274
 translate portuguese sm1cs_kv003_712ee372:
@@ -506,7 +506,7 @@ translate portuguese sm1cs_kv003_c90951c8:
 translate portuguese sm1cs_kv003_85304d6b:
 
     # mc "Well this is the part of the interview where I'd ask you to demonstrate your skills."
-    mc "Bom,  essa é a parte da entrevista que eu falaria pra mostrar o que sabe fazer."
+    mc "Bom, essa é a parte da entrevista que eu falaria pra mostrar o que sabe fazer."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:294
 translate portuguese sm1cs_kv003_15401339:
@@ -554,7 +554,7 @@ translate portuguese sm1cs_kv003_328a8f7c:
 translate portuguese sm1cs_kv003_866d3078:
 
     # mc "Great, just the right amount of pressure, good length on your strokes..."
-    mc "Ótimo,  usando a pressão certa, subindo e descendo legal..."
+    mc "Ótimo, usando a pressão certa, subindo e descendo legal..."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:321
 translate portuguese sm1cs_kv003_7f4ccc66:
@@ -608,7 +608,7 @@ translate portuguese sm1cs_kv003_ef521ea9:
 translate portuguese sm1cs_kv003_058a7b82:
 
     # mc "Good, time to see what kind of performance we could expect from you."
-    mc "Ótimo, na hora de ver o que dá pra esperar de você."
+    mc "Ótimo, hora de ver que tipo de performance podemos esperar de você."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv003.rpy:367
 translate portuguese sm1cs_kv003_eef96825:
