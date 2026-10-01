@@ -98,7 +98,7 @@ translate portuguese sm1cs_dc009_b5cff98f:
 translate portuguese sm1cs_dc009_4347656d:
 
     # dc "And they make up 81.1%% of motor thefts, and 83.6%% of burglary arrests!"
-    dc "E 81.1%% dos casos de roubo de automóveis, e 83.6%% de assalto!"
+    dc "E representam 81.1%% dos casos de roubo de automóveis, e 83.6%% prisões por arrombamento!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:45
 translate portuguese sm1cs_dc009_b3b57438:
@@ -134,7 +134,7 @@ translate portuguese sm1cs_dc009_8baab5da:
 translate portuguese sm1cs_dc009_4911b52b:
 
     # dc "Sorry, you definitely did not have \"Debbie rambles about percentages\" as your 'date' idea."
-    dc "Desculpa, aposto que \"Debbie fala de porcentagens\" não era a sua ideia de 'encontro'."
+    dc "Desculpa, aposto que \"Debbie fica falando de porcentagens\" não era a sua ideia de 'encontro'."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:59
 translate portuguese sm1cs_dc009_8db20c11:
@@ -386,7 +386,7 @@ translate portuguese sm1cs_dc009_8aa3e427:
 translate portuguese sm1cs_dc009_65cb469b:
 
     # dc "I've walked past this cart so many times, and I've always wondered what their hot dogs were like."
-    dc "Já passei por isso tantas vezes, sempre quis saber como era o cachorro quente daqui."
+    dc "Já passei por aqui tantas vezes, sempre quis saber como era o cachorro quente daqui."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:147
 translate portuguese sm1cs_dc009_8637c0f1:
@@ -404,7 +404,7 @@ translate portuguese sm1cs_dc009_f6d48994:
 translate portuguese sm1cs_dc009_c42b05ac:
 
     # mc "And?"
-    mc "E..."
+    mc "E...?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:154
 translate portuguese sm1cs_dc009_7558bca5:
@@ -560,7 +560,7 @@ translate portuguese sm1cs_dc009_c17ef8ec:
 translate portuguese sm1cs_dc009_bfae87c4:
 
     # dc "Have you ever been to a gun range?"
-    dc "Já foi numa estande de tiro?"
+    dc "Já foi num estande de tiro?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:210
 translate portuguese sm1cs_dc009_3acc9ee6:
@@ -620,7 +620,7 @@ translate portuguese sm1cs_dc009_37154a2a:
 translate portuguese sm1cs_dc009_a1fbcccd:
 
     # dc "Part of the reason I'm thinking about the range is because the department has monthly hours you need to log at the range."
-    dc "Parte do motivo de eu pensar numa estande de tiros é que o departamento tem um tanto de horas que cada um precisa passar na estande."
+    dc "Parte do motivo de eu pensar num estande de tiros é que o departamento tem um tanto de horas que cada um precisa passar no estande."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:224
 translate portuguese sm1cs_dc009_9d832c77:
@@ -710,7 +710,7 @@ translate portuguese sm1cs_dc009_66b333fc:
 translate portuguese sm1cs_dc009_b87f6f0c:
 
     # dc "Uhm - sure - yeah, okay!"
-    dc "Ahm - certo- sim, claro!"
+    dc "Ahm - certo - sim, claro!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:266
 translate portuguese sm1cs_dc009_679644c9:
@@ -1064,7 +1064,7 @@ translate portuguese sm1cs_dc009_69b25b91:
 translate portuguese sm1cs_dc009_17bc80f3:
 
     # mc "Oh yeah? Why's that not a surprise, huh?"
-    mc "Ah é? O que não é de se surpreender?"
+    mc "Ah é? Por que isso não é surpresa?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:398
 translate portuguese sm1cs_dc009_cbb4b8dd:
@@ -1142,7 +1142,7 @@ translate portuguese sm1cs_dc009_cc060ba8:
 translate portuguese sm1cs_dc009_ffc76d97:
 
     # mc "Officer Callahan is more of a cop than either of you two shitstains."
-    mc "A policial Callahan é mas policial que vocês dois cuzões."
+    mc "A policial Callahan é mais policial que vocês dois cuzões."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:445
 translate portuguese sm1cs_dc009_45c091a6:
@@ -1160,7 +1160,7 @@ translate portuguese sm1cs_dc009_fca52711:
 translate portuguese sm1cs_dc009_a660404d:
 
     # mc "This is a gun range, right? Why don't you have a shoot off. Whoever hits the target better wins."
-    mc "Isso aqui é um estande de tiro, não é? Porque vocês não competem. Quem acertar mais, ganha."
+    mc "Isso aqui é um estande de tiro, não é? Por que vocês não competem? Quem acertar mais, ganha."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:454
 translate portuguese sm1cs_dc009_2662a7ba:
@@ -1286,7 +1286,7 @@ translate portuguese sm1cs_dc009_ca6075bd:
 translate portuguese sm1cs_dc009_a537d812:
 
     # jc "Pfft! Hope you like doing paperwork then!"
-    jc "Pfff! Então você deve adorar fazer papelada!"
+    jc "Pfff! Espero que você adore fazer papelada!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:501
 translate portuguese sm1cs_dc009_895d9f50:
@@ -1400,7 +1400,7 @@ translate portuguese sm1cs_dc009_67359a6c:
 translate portuguese sm1cs_dc009_5f46baf1:
 
     # dc "Wait - what?"
-    dc "É - o quê?"
+    dc "Espera - o quê?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:577
 translate portuguese sm1cs_dc009_22f7dc71:
@@ -1670,7 +1670,7 @@ translate portuguese sm1cs_dc009_9fae04d3:
 translate portuguese sm1cs_dc009_3524c2c1:
 
     # doc "I can see it now! Fucking running and then \"oh no, my titty just hit me in the face! Noooo!\"."
-    doc "Consigo até ver! Correndo e aí \"ah não, meu peito acabou de bater na minha cara! Nããão!\"."
+    doc "Consigo até ver! Ela correndo e aí \"ah não, meu peito acabou de bater na minha cara! Nããão!\"."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc009.rpy:439
 translate portuguese sm1cs_dc009_a03bd0eb:
