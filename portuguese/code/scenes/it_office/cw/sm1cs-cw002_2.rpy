@@ -296,7 +296,7 @@ translate portuguese sm1cs_cw002_2_3a726bdf:
 translate portuguese sm1cs_cw002_2_4d081fc2:
 
     # mc "Well, I've been working at Orbix for a few weeks now."
-    mc "Bom, já trabalho faz alguns meses na Orbix."
+    mc "Bom, já trabalho faz algumas semanas na Orbix."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:170
 translate portuguese sm1cs_cw002_2_4668fffc:
@@ -464,7 +464,7 @@ translate portuguese sm1cs_cw002_2_74ffcb6d:
 translate portuguese sm1cs_cw002_2_7752308b:
 
     # fw "I heard from Mincie Diggler that it was an illicit app for illicit hookups."
-    fw "Eu ouvi da Mincie Diggler que era um aplicativo ilegal para namoros ilegais."
+    fw "Eu ouvi da Mincie Diggler que era um aplicativo ilegal para encontros ilegais."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:243
 translate portuguese sm1cs_cw002_2_bbe05fe9:
@@ -524,13 +524,13 @@ translate portuguese sm1cs_cw002_2_58585fd9:
 translate portuguese sm1cs_cw002_2_fdddd815:
 
     # fw "At least the others disguise it a bit."
-    fw "Pelo menos outros escondem melhor."
+    fw "Pelo menos os outros escondem melhor."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:270
 translate portuguese sm1cs_cw002_2_a57ab117:
 
     # mct "Wow, so Claire was one of the people at Orbix using the Fetish Locator app."
-    mct "Eita, então ara uma das pessoas na Orbix usando o aplicativo."
+    mct "Eita, então a Claire era uma das pessoas na Orbix usando o Fetish Locator."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:272
 translate portuguese sm1cs_cw002_2_710c3630:
@@ -602,7 +602,7 @@ translate portuguese sm1cs_cw002_2_after_lunch_dea3b7dd:
 translate portuguese sm1cs_cw002_2_after_lunch_40fcf0d6:
 
     # chw "You might be a bit young, but if you can handle our darling, we're okay with you still dating her."
-    chw "Você pode ser um pouco jovem, mas você consegue aguentar a nossa querida, não temos problema em você namorar ela."
+    chw "Você pode ser um pouco jovem, mas se conseguir aguentar a nossa querida, não temos problema em você namorar ela."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:328
 translate portuguese sm1cs_cw002_2_after_lunch_28190314:
@@ -614,7 +614,7 @@ translate portuguese sm1cs_cw002_2_after_lunch_28190314:
 translate portuguese sm1cs_cw002_2_after_lunch_9c715666:
 
     # fw "You know what your father means."
-    fw "Você sabe que o seu pai quer dizer."
+    fw "Você sabe o que o seu pai quer dizer."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:332
 translate portuguese sm1cs_cw002_2_after_lunch_4e4a697a:
@@ -662,7 +662,7 @@ translate portuguese sm1cs_cw002_2_after_lunch_eca125b5:
 translate portuguese sm1cs_cw002_2_after_lunch_bd9cc87e:
 
     # cw "Good thing you already put your card down, Daddy."
-    cw "Ainda bem que você já pegou seu cartão, Papai."
+    cw "Ainda bem que você já soltou o seu cartão, Papai."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:354
 translate portuguese sm1cs_cw002_2_after_lunch_b2014703:
@@ -764,7 +764,7 @@ translate portuguese sm1cs_cw002_2_after_lunch_a98e5380:
 translate portuguese sm1cs_cw002_2_after_lunch_c5df63f4:
 
     # mc "Instead of pretending like it was some Orbix work meeting."
-    mc "Ao invés de fingir que eu que era uma reunião da Orbix."
+    mc "Ao invés de fingir que era uma reunião da Orbix."
 
 # game/code/scenes/it_office/cw/sm1cs-cw002_2.rpy:413
 translate portuguese sm1cs_cw002_2_after_lunch_1f28d6f7:
