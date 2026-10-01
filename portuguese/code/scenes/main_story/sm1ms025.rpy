@@ -110,13 +110,13 @@ translate portuguese sm1ms025_c172bd12:
 translate portuguese sm1ms025_d751817a:
 
     # mc "So why do they think we have scenes recorded that aren't the ones that they ordered."
-    mc "Então por que acha que vamos ter cenas gravadas que não foram pedidas?"
+    mc "Então por que essa pessoa acha que vamos ter cenas gravadas que não foram pedidas?"
 
 # game/code/scenes/main_story/sm1ms025.rpy:61
 translate portuguese sm1ms025_3acc652e:
 
     # mc "Did you just oversell? Like did you tell them we have other customers to make us look bigger than we are?"
-    mc "Você vendeu demais o peixe? Tipo, falou que tinha outros clientes pra deixar o estúdio mais bonito que é?"
+    mc "Você vendeu demais o peixe? Tipo, falou que tinha outros clientes pra deixar o estúdio mais fodinha?"
 
 # game/code/scenes/main_story/sm1ms025.rpy:64
 translate portuguese sm1ms025_568ac4c9:
@@ -152,7 +152,7 @@ translate portuguese sm1ms025_a2ec46d4:
 translate portuguese sm1ms025_94851a1d:
 
     # sy "I had to look it up. It's when you shove a bottle of alcohol up your asshole to consume it for sexual pleasure."
-    sy "Tive que pesquisar. É quando enfia uma garrafa de álcool pelo cu pra consumir ou prazer sexual."
+    sy "Tive que pesquisar. É quando enfia uma garrafa de álcool pelo cu pra consumir pra dar prazer sexual."
 
 # game/code/scenes/main_story/sm1ms025.rpy:80
 translate portuguese sm1ms025_80c6e216:
@@ -422,13 +422,13 @@ translate portuguese sm1ms025_c0052b5c:
 translate portuguese sm1ms025_802ed22d:
 
     # mc "Perhaps... AmRose is due for a little petty revenge."
-    mc "Talvez... esteja na hora ter uma vingancinha da AmRose."
+    mc "Talvez... esteja na hora de uma vingancinha na AmRose."
 
 # game/code/scenes/main_story/sm1ms025.rpy:186
 translate portuguese sm1ms025_8ceb755e:
 
     # sy "Yeah. Let's break her glasses and file down one of each pair of shoes she has."
-    sy "Sim. Vamos quebrar os óculos dela e raspar um pé de cada par de sapato que ela tem."
+    sy "Sim. Vamos quebrar os óculos dela e lixar um pé de cada par de sapato que ela tem."
 
 # game/code/scenes/main_story/sm1ms025.rpy:187
 translate portuguese sm1ms025_2ce77a53:
@@ -470,7 +470,7 @@ translate portuguese sm1ms025_a6594318:
 translate portuguese sm1ms025_bbe621d2:
 
     # mc "What you don't trust me?"
-    mc "Ué, ão confia em mim?"
+    mc "Ué, não confia em mim?"
 
 # game/code/scenes/main_story/sm1ms025.rpy:208
 translate portuguese sm1ms025_89fc6124:
@@ -542,7 +542,7 @@ translate portuguese sm1ms025_6cac701a:
 translate portuguese sm1ms025_04386d29:
 
     # sy "All of those... {i}fake{/i} client orders were never going to make us into a successful porn studio."
-    sy "Esse monte de... pedidos {i}falsos{/i} de cliente nunca fariam da gente um estudo de sucesso."
+    sy "Esse monte de... pedidos {i}falsos{/i} de cliente nunca fariam da gente um estúdio de sucesso."
 
 # game/code/scenes/main_story/sm1ms025.rpy:242
 translate portuguese sm1ms025_9e6e0e4e:
@@ -602,7 +602,7 @@ translate portuguese sm1ms025_cb7a4cfb:
 translate portuguese sm1ms025_c419f19b:
 
     # sy "But I've been racking my brain trying to figure out some settings and themes to make our first storylines."
-    sy "Mas eu estava aqui tentando pensar em algumas configurações e temas pra fazer as primeiras histórias."
+    sy "Mas eu estava aqui tentando pensar em algumas ambientações e temas pra fazer as primeiras histórias."
 
 # game/code/scenes/main_story/sm1ms025.rpy:262
 translate portuguese sm1ms025_3d500226:
@@ -656,7 +656,7 @@ translate portuguese sm1ms025_c7323c1a:
 translate portuguese sm1ms025_30464acc:
 
     # mc "Wooden ships with great masts and flowing sails."
-    mc "Navios de madeira com mastros enorme velas abertas."
+    mc "Navios de madeira com mastros enormes e velas abertas."
 
 # game/code/scenes/main_story/sm1ms025.rpy:281
 translate portuguese sm1ms025_d9ca0802:
@@ -686,7 +686,7 @@ translate portuguese sm1ms025_ce3d315c:
 translate portuguese sm1ms025_329671a5:
 
     # sy "I'm sure we can come up with something."
-    sy "Eu sei que consigo bolar alguma coisa."
+    sy "Eu sei que vamos bolar alguma coisa."
 
 # game/code/scenes/main_story/sm1ms025.rpy:290
 translate portuguese sm1ms025_82966127:
@@ -746,7 +746,7 @@ translate portuguese sm1ms025_50ea7dc7:
 translate portuguese sm1ms025_310a3a45:
 
     # mc "Oh totally. I think everyone fantasizes about being Captain Curk or Lieutenant Commander Wolf and exploring sexy new alien pussies."
-    mc "Com certeza. Todo mundo tem uma fantasia de ser o capitão Curk o Tenente Comandante Wolf e explorar novas bocetas alienígenas."
+    mc "Com certeza. Todo mundo tem uma fantasia de ser o capitão Curk ou o Tenente Comandante Wolf e explorar novas bocetas alienígenas."
 
 # game/code/scenes/main_story/sm1ms025.rpy:311
 translate portuguese sm1ms025_969f73ff:
@@ -770,7 +770,7 @@ translate portuguese sm1ms025_d28348b7:
 translate portuguese sm1ms025_2a9ccf3c:
 
     # sy "I trust you to help flesh out the basics of our space opera porn extravaganza."
-    sy "Então você fica encarregado de expandir mais os detalhes básicos da nossa aventura espacial."
+    sy "Então você fica encarregado de expandir mais os detalhes básicos da nossa aventura espacial cheia de putaria."
 
 # game/code/scenes/main_story/sm1ms025.rpy:322
 translate portuguese sm1ms025_6651ab87:
@@ -800,7 +800,7 @@ translate portuguese sm1ms025_78918d09:
 translate portuguese sm1ms025_f248d4d6:
 
     # mc "I don't want you going all 'Man on Fire' on her."
-    mc "Não quero que você faça tipo 'Chamas da Vingança com ela."
+    mc "Não quero que você faça tipo 'Chamas da Vingança' com ela."
 
 # game/code/scenes/main_story/sm1ms025.rpy:337
 translate portuguese sm1ms025_a0f6fc60:
@@ -818,7 +818,7 @@ translate portuguese sm1ms025_48b13a39:
 translate portuguese sm1ms025_23c8b68a:
 
     # sy "Can we at least have her on her knees, begging for our forgiveness at one point?"
-    sy "Será que pelo menos tem como eventualmente botar ela de joelhos implorando pr perdão?"
+    sy "Será que pelo menos tem como eventualmente botar ela de joelhos implorando por perdão?"
 
 # game/code/scenes/main_story/sm1ms025.rpy:346
 translate portuguese sm1ms025_48abd308:
@@ -830,13 +830,13 @@ translate portuguese sm1ms025_48abd308:
 translate portuguese sm1ms025_f46cb96f:
 
     # mc "What AmRose did...{w} Well, she did it for a {b}good{/b} reason."
-    mc "O que a AmRose fez...{w} Bom, ela fez para um {b}bom{/b} motivo."
+    mc "O que a AmRose fez...{w} Bom, ela fez por um {b}bom{/b} motivo."
 
 # game/code/scenes/main_story/sm1ms025.rpy:348
 translate portuguese sm1ms025_156d8b70:
 
     # mc "And I'm not going to give up my relationship with her unless it's absolutely necessary."
-    mc "E não vou desistir de um relacionamento a não ser que seja absolutamente necessário."
+    mc "E não vou desistir do nosso relacionamento a não ser que seja absolutamente necessário."
 
 # game/code/scenes/main_story/sm1ms025.rpy:352
 translate portuguese sm1ms025_cd9c6a75:
