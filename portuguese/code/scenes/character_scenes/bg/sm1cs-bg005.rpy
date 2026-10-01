@@ -44,7 +44,7 @@ translate portuguese sm1cs_bg005_1a49e229:
 translate portuguese sm1cs_bg005_59b30202:
 
     # mc "We'll do our best."
-    mc "A gente vai fazer o possível."
+    mc "Vamos fazer o possível."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:32
 translate portuguese sm1cs_bg005_590002d9:
@@ -74,7 +74,7 @@ translate portuguese sm1cs_bg005_6ada3060:
 translate portuguese sm1cs_bg005_e3a8da9d:
 
     # bg "The shoot was really good, right? I mean, I think we got some incredible—"
-    bg "O ensaio foi muito bom, né? Tipo, eu acho que a gente conseguiu umas fotos incríveis—"
+    bg "O ensaio foi bem legal, né? Tipo, eu acho que a gente conseguiu umas fotos incríveis—"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:44
 translate portuguese sm1cs_bg005_bcdabe34:
@@ -104,7 +104,7 @@ translate portuguese sm1cs_bg005_41939a88:
 translate portuguese sm1cs_bg005_f8f4202d:
 
     # mc "Deflecting. We both know that's not what we're talking about."
-    mc "Desviar do assunto. Nós dois sabemos que não é disso que a gente tá falando."
+    mc "Desviar do assunto. Nós dois sabemos que não é disso que estamos falando."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:56
 translate portuguese sm1cs_bg005_fd824cc3:
@@ -128,7 +128,7 @@ translate portuguese sm1cs_bg005_ff385662:
 translate portuguese sm1cs_bg005_49de7ba4:
 
     # bg "I just... I had somewhere to be."
-    bg "Eu só... eu tinha um lugar pra ir."
+    bg "É que... eu tinha um lugar pra ir."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:65
 translate portuguese sm1cs_bg005_67055b5f:
@@ -146,19 +146,19 @@ translate portuguese sm1cs_bg005_67d3f3b3:
 translate portuguese sm1cs_bg005_8f510185:
 
     # mc "Yes, you do."
-    mc "Sabe, sim."
+    mc "Sai sim."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:76
 translate portuguese sm1cs_bg005_be787822:
 
     # mc "Hey. I'm not mad, Amore. I'm worried."
-    mc "Ei. Eu não tô bravo, Amore. Eu tô preocupado."
+    mc "Ei. Eu não tô bravo, Amore. Só preocupado."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:78
 translate portuguese sm1cs_bg005_27c2dc08:
 
     # mc "You seemed overwhelmed. Did I push too far? Did I do something wrong?"
-    mc "Você parecia sobrecarregada. Eu passei do ponto? Fiz alguma coisa errada?"
+    mc "Você parecia sobrecarregada. Eu forcei demais? Fiz alguma coisa errada?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:81
 translate portuguese sm1cs_bg005_42299dac:
@@ -182,7 +182,7 @@ translate portuguese sm1cs_bg005_0b94c390:
 translate portuguese sm1cs_bg005_a35eac2e:
 
     # mc "If we're going to keep hooking up, shouldn't we be able to have a normal conversation about it?"
-    mc "Se a gente vai continuar ficando, a gente não devia conseguir conversar de boa sobre isso?"
+    mc "Se a gente vai continuar ficando, não era melhor conseguir conversar de boa sobre isso?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:94
 translate portuguese sm1cs_bg005_dbef4785:
@@ -230,7 +230,7 @@ translate portuguese sm1cs_bg005_e2415973:
 translate portuguese sm1cs_bg005_1433e80b:
 
     # mc "Really? Because it sure looks like it from here."
-    mc "Mesmo? Porque daqui parece que sim."
+    mc "è mesmo? Porque daqui parece que sim."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:117
 translate portuguese sm1cs_bg005_5896d9bc:
@@ -260,7 +260,7 @@ translate portuguese sm1cs_bg005_1355b003:
 translate portuguese sm1cs_bg005_9e683c5a:
 
     # bg "This is...{w} God, this is embarrassing."
-    bg "Isso é...{w} Deus, isso é constrangedor."
+    bg "Isso é...{w} Aiai, isso é constrangedor."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:125
 translate portuguese sm1cs_bg005_a154fb7b:
@@ -302,13 +302,13 @@ translate portuguese sm1cs_bg005_3f9df27f:
 translate portuguese sm1cs_bg005_0aec7a65:
 
     # bg "All of this. The Dom-Sub play. The BDSM. The... {w}everything."
-    bg "Tudo isso. A dinâmica Dom-Sub. O BDSM. O... {w}tudo."
+    bg "Tudo isso. A dinâmica Dom-Sub. O BDSM. Bem... {w}tudo."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:143
 translate portuguese sm1cs_bg005_05500ff6:
 
     # mc "Huh?"
-    mc "Hã?"
+    mc "É o quê?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:144
 translate portuguese sm1cs_bg005_da9f11ea:
@@ -320,19 +320,19 @@ translate portuguese sm1cs_bg005_da9f11ea:
 translate portuguese sm1cs_bg005_030a8c01:
 
     # bg "I guess that means I'm a good actress. Or it's just your fantasy helping me sell it."
-    bg "Acho que isso quer dizer que eu sou uma boa atriz. Ou que é a sua fantasia me ajudando a vender isso."
+    bg "Acho que isso quer dizer que eu sou uma boa atriz. Ou que é a sua fantasia me ajudando a vender o peixe."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:149
 translate portuguese sm1cs_bg005_e90d1e7e:
 
     # bg "I've spent years imagining this. Reading about it, watching it, buying the parts of my outfit."
-    bg "Passei anos imaginando isso. Lendo sobre, assistindo, comprando as partes da minha roupa."
+    bg "Passei anos imaginando isso. Lendo sobre, assistindo, comprando as peças da minha roupa."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:150
 translate portuguese sm1cs_bg005_91cf934f:
 
     # bg "I've done solo shoots where I could pretend, where I could let this side of me show."
-    bg "Já fiz ensaios sozinha em que eu podia fingir, em que eu podia deixar esse meu lado aparecer."
+    bg "Já fiz ensaios sozinha em que eu podia fazer de conta, em que eu podia deixar esse meu lado aparecer."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:153
 translate portuguese sm1cs_bg005_6551ba32:
@@ -380,7 +380,7 @@ translate portuguese sm1cs_bg005_467a526e:
 translate portuguese sm1cs_bg005_8ab331c6:
 
     # bg "It was like... I was finally fully stepping into a new body. Being a different person than I normally am."
-    bg "Era como se... eu finalmente estivesse entrando de verdade em um corpo novo. Sendo uma pessoa diferente de quem eu sou normalmente."
+    bg "Era como se... eu finalmente estivesse entrando de verdade num corpo novo. Sendo uma pessoa diferente de quem eu sou normalmente."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:170
 translate portuguese sm1cs_bg005_2b06504c_1:
@@ -434,7 +434,7 @@ translate portuguese sm1cs_bg005_7548abf0:
 translate portuguese sm1cs_bg005_d3b28a43:
 
     # bg "For us to play these roles."
-    bg "E a gente brincar desses papéis."
+    bg "Brincar desses papéis."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:190
 translate portuguese sm1cs_bg005_8f79fae8:
@@ -524,25 +524,25 @@ translate portuguese sm1cs_bg005_be9161c2:
 translate portuguese sm1cs_bg005_f2225d41:
 
     # bg "Yeah?"
-    bg "Hm?"
+    bg "Sim?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:217
 translate portuguese sm1cs_bg005_5e1f6caa:
 
     # mc "Is there a reason we did anal, last time?"
-    mc "Tem algum motivo pra gente ter feito anal, da última vez?"
+    mc "Tem algum motivo pra gente ter feito anal dessa última vez?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:221
 translate portuguese sm1cs_bg005_06acea93:
 
     # bg "Oh God."
-    bg "Ai, Deus."
+    bg "Ai meu Deus."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:223
 translate portuguese sm1cs_bg005_d69aaea9:
 
     # mc "You don't have to answer if—"
-    mc "Você não precisa responder se—"
+    mc "Não precisa responder se—"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:225
 translate portuguese sm1cs_bg005_d7b930e3:
@@ -614,13 +614,13 @@ translate portuguese sm1cs_bg005_11b4abed:
 translate portuguese sm1cs_bg005_e52474cf:
 
     # bg "When I let you inside of me... we'd be connected in a way I can't take back."
-    bg "Quando eu deixar você penetrar em mim... a gente vai tá ligado de um jeito que eu não consigo desfazer."
+    bg "Quando eu deixar você dentro de mim... vamos estar ligados de um jeito que eu não consigo desfazer."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:258
 translate portuguese sm1cs_bg005_9299e1a2:
 
     # mc "I get it. We don't do anything until you're ready."
-    mc "Entendi. A gente não faz nada até você estar pronta."
+    mc "Entendi. A gente precisa fazer nada até você estar pronta."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:261
 translate portuguese sm1cs_bg005_c10bc30b:
@@ -656,7 +656,7 @@ translate portuguese sm1cs_bg005_c0aec0ed:
 translate portuguese sm1cs_bg005_f2a92f5f:
 
     # mc "Hey, the Night's Watch's oath says no lands or children."
-    mc "Ei, o juramento da Patrulha da Noite fala que nada de terras nem filhos."
+    mc "Ei, o juramento da Patrulha da Noite fala em nada de terras nem filhos."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:275
 translate portuguese sm1cs_bg005_5264371d:
@@ -710,7 +710,7 @@ translate portuguese sm1cs_bg005_b9b53df2:
 translate portuguese sm1cs_bg005_832867a4:
 
     # mc "Wherever...{w} we need some ground rules."
-    mc "Onde for...{w} a gente precisa de algumas regrinhas."
+    mc "Onde for...{w} vamos precisar de algumas regrinhas."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:295
 translate portuguese sm1cs_bg005_892b7c4d:
@@ -728,7 +728,7 @@ translate portuguese sm1cs_bg005_c33da150:
 translate portuguese sm1cs_bg005_efeeef38:
 
     # mc "Like safewords, but more technical."
-    mc "Tipo safewords, mas mais técnicas."
+    mc "Tipo palavras de segurança, só que mais técnicas."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:300
 translate portuguese sm1cs_bg005_bbc752bb:
@@ -746,19 +746,19 @@ translate portuguese sm1cs_bg005_e931e89f:
 translate portuguese sm1cs_bg005_3e16219d:
 
     # mc "Yellow means slow down, check in, something's off."
-    mc "Amarelo quer dizer pra desacelerar, checar, alguma coisa tá estranha."
+    mc "Amarelo quer dizer pra desacelerar, dar uma olhada, alguma coisa tá estranha."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:305
 translate portuguese sm1cs_bg005_06643e34:
 
     # mc "Red means full stop. Scene over. No questions, no hesitation."
-    mc "Vermelho quer dizer parar geral. Cena acabou. Sem perguntas, sem hesitação."
+    mc "Vermelho quer dizer parar geral. Cabou a cena. Sem perguntas, sem hesitação."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:306
 translate portuguese sm1cs_bg005_e0cd928e:
 
     # bg "I like that. It's clear."
-    bg "Eu gostei. É claro."
+    bg "Eu gostei. Fica bem claro."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:307
 translate portuguese sm1cs_bg005_f36e5aec:
@@ -770,7 +770,7 @@ translate portuguese sm1cs_bg005_f36e5aec:
 translate portuguese sm1cs_bg005_b92df1dc:
 
     # bg "Can I...{w} can I ask for something else?"
-    bg "Eu posso...{w} posso pedir mais uma coisa?"
+    bg "Posso...{w} posso pedir mais uma coisa?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:311
 translate portuguese sm1cs_bg005_1bf60051:
@@ -794,13 +794,13 @@ translate portuguese sm1cs_bg005_f5517636:
 translate portuguese sm1cs_bg005_77b4bf4e:
 
     # bg "After we're together...{w} I think I'll need...{w} I'll need to come back down."
-    bg "Depois que a gente estiver junto...{w} eu acho que vou precisar...{w} vou precisar voltar ao normal."
+    bg "Depois que a gente estiver junto...{w} acho que eu vou precisar...{w} vou precisar voltar ao normal."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:318
 translate portuguese sm1cs_bg005_5f2bac8e:
 
     # bg "To be held, or...{w} I don't know. To remember I'm still me."
-    bg "Ser abraçada, ou...{w} não sei. Pra lembrar que eu ainda sou eu."
+    bg "Ser abraçada, ou...{w} sei lá. Pra lembrar que eu ainda sou eu."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:324
 translate portuguese sm1cs_bg005_b7917015:
@@ -956,7 +956,7 @@ translate portuguese sm1cs_bg005_0b861492:
 translate portuguese sm1cs_bg005_0cea5e19:
 
     # mc "If we smash booties... if we hook up, we'll stay together and check in on each other."
-    mc "Se a gente transar... se a gente ficar, a gente vai ficar junto depois e ver como o outro tá."
+    mc "Se a gente transar... se a gente ficar, vamos continuar junto e ver como o outro tá."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:378
 translate portuguese sm1cs_bg005_6d34d814:
@@ -998,7 +998,7 @@ translate portuguese sm1cs_bg005_6ac5dc3d:
 translate portuguese sm1cs_bg005_55b845fc:
 
     # mc "For us to be in a real Dom/Sub relationship?"
-    mc "Pra gente ter um relacionamento de Dom/Sub de verdade?"
+    mc "Pra ter um relacionamento de Dom/Sub de verdade?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:391
 translate portuguese sm1cs_bg005_9fcf241e:
@@ -1154,19 +1154,19 @@ translate portuguese sm1cs_bg005_8c178203:
 translate portuguese sm1cs_bg005_d4fffca8:
 
     # kv "Speaking of which, I think another client is coming."
-    kv "Falando nisso, acho que outro cliente tá chegando."
+    kv "Falando nisso, acho que tem outro cliente chegando."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:460
 translate portuguese sm1cs_bg005_65ecda4a:
 
     # kv "So run along you two."
-    kv "Então vão andando, vocês dois."
+    kv "Então vão andando."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:463
 translate portuguese sm1cs_bg005_eeb5be9e:
 
     # bg "We will, but not because you told us, Kanya."
-    bg "A gente vai, mas não porque você mandou, Kanya."
+    bg "Vamos sim, mas não porque você mandou, Kanya."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:464
 translate portuguese sm1cs_bg005_6d2d8309:
@@ -1178,7 +1178,7 @@ translate portuguese sm1cs_bg005_6d2d8309:
 translate portuguese sm1cs_bg005_3b9ec23f:
 
     # bg "I should probably get going, [mcname]."
-    bg "Eu provavelmente devia ir, [mcname]."
+    bg "Eu provavelmente devia ir nessa, [mcname]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg005.rpy:468
 translate portuguese sm1cs_bg005_adef7f9e:
