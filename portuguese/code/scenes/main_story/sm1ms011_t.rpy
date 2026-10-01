@@ -188,13 +188,13 @@ translate portuguese sm1ms011_t_a8dbebf6:
 translate portuguese sm1ms011_t_25e82ea4:
 
     # sy "Well, maybe we can convince her to try something new."
-    sy "Bem, talvez dê pra convencer ela fazer algo novo."
+    sy "Bem, talvez dê pra convencer ela a fazer algo novo."
 
 # game/code/scenes/main_story/sm1ms011_t.rpy:99
 translate portuguese sm1ms011_t_59078839:
 
     # mc "Maybe. It'd be a long shot, though."
-    mc "Talvez. Mas seria."
+    mc "Talvez. Mas seria difícil."
 
 # game/code/scenes/main_story/sm1ms011_t.rpy:102
 translate portuguese sm1ms011_t_eff2dac4:
@@ -278,7 +278,7 @@ translate portuguese sm1ms011_t_c93ee290:
 translate portuguese sm1ms011_t_4aca7977:
 
     # mc "That's like asking me to choose a favorite dessert."
-    mc "Isso é tipo falar pra escolher uma sobremesa favorita."
+    mc "Isso é tipo falar pra eu escolher uma sobremesa favorita."
 
 # game/code/scenes/main_story/sm1ms011_t.rpy:140
 translate portuguese sm1ms011_t_83b259e2:
@@ -326,7 +326,7 @@ translate portuguese sm1ms011_t_36920e3c:
 translate portuguese sm1ms011_t_d4ef6108:
 
     # sy "You better."
-    sy "Tomara, viu."
+    sy "E vá mesmo."
 
 # game/code/scenes/main_story/sm1ms011_t.rpy:162
 translate portuguese sm1ms011_t_fa295a50:
