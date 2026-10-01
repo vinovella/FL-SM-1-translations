@@ -482,7 +482,7 @@ translate portuguese sm1cs_mh010_6cdbc22c:
 translate portuguese sm1cs_mh010_249b6f23:
 
     # mh "And every day, I need to keep up that facade."
-    mh "E todo dia eu tenho que manter essa a fachada."
+    mh "E todo dia eu tenho que manter essa fachada."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:240
 translate portuguese sm1cs_mh010_7380bb57:
@@ -632,7 +632,7 @@ translate portuguese sm1cs_mh010_cf914103:
 translate portuguese sm1cs_mh010_1309666f:
 
     # mc "God, I would love to, Lyssa, but I still have things I need to do tonight."
-    mc "Poxa Lyssa, eu adoraria, mas ainda tenho que resolver umas coisas hoje."
+    mc "Poxa Lyssa, eu adoraria, mas ainda tenho que resolver umas coisas essa noite."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010.rpy:334
 translate portuguese sm1cs_mh010_91abff36:
