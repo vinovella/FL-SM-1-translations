@@ -206,7 +206,7 @@ translate portuguese name_done_a43f59c8:
 translate portuguese name_done_d6d93ea6:
 
     # sy "I don't know, [mcname]. We might have pushed her too far this time."
-    sy "Sei não, [mcname]. Acho que eu forcei ela demais dessa vez."
+    sy "Sei não, [mcname]. Acho que a gente forçou ela demais dessa vez."
 
 # game/code/scenes/main_story/sm1ms001.rpy:165
 translate portuguese name_done_fd8c8954:
@@ -224,19 +224,19 @@ translate portuguese name_done_6d786fb2:
 translate portuguese name_done_3855e5a4:
 
     # sy "I even pulled that hard drive from the server room, took it apart with my toolkit, and shredded the platter over at the machine shop."
-    sy "Até tirei aquele hard drive do servidor, desmontei com a minha caixa de ferramentas, e destruí o disco com a máquina."
+    sy "Até tirei aquele hard drive do servidor, desmontei com a minha caixa de ferramentas, e destruí o disco na oficina."
 
 # game/code/scenes/main_story/sm1ms001.rpy:172
 translate portuguese name_done_e5fe7c2b:
 
     # mc "We have a machine shop?"
-    mc "A gente tem uma máquina?"
+    mc "A gente tem uma oficina?"
 
 # game/code/scenes/main_story/sm1ms001.rpy:174
 translate portuguese name_done_6d5b7343:
 
     # sy "Back when we were on campus, yeah. It's closed during Summer Break."
-    sy "Lá no campus, sim. Tá fechado pra férias de verão."
+    sy "Lá no campus, sim. Fecharam pras férias de verão."
 
 # game/code/scenes/main_story/sm1ms001.rpy:175
 translate portuguese name_done_ffe7c7f6:
@@ -320,7 +320,7 @@ translate portuguese name_done_b04848fd:
 translate portuguese name_done_bfb91e91:
 
     # sy "Do you remember what you need to do while I convert this place into a professional film studio?"
-    sy "Lembra o que você precisa fazer enquanto eu convento esse lugar num estúdio profissional?"
+    sy "Lembra o que você precisa fazer enquanto eu converto esse lugar num estúdio profissional?"
 
 # game/code/scenes/main_story/sm1ms001.rpy:212
 translate portuguese name_done_2a664cfc:
@@ -416,7 +416,7 @@ translate portuguese name_done_cb7a4cfb:
 translate portuguese name_done_c4a0019b:
 
     # sy "Also, there's food, utility bills - water, electric, four railroads - not to mention rent."
-    sy "E tem comida, as contas - eletricidade, água, quatro, quatro ferrovias - sem falar do aluguel."
+    sy "E tem comida, as contas - eletricidade, água, quatro ferrovias - sem falar do aluguel."
 
 # game/code/scenes/main_story/sm1ms001.rpy:267
 translate portuguese name_done_65aed32d:
