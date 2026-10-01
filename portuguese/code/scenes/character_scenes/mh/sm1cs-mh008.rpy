@@ -314,7 +314,7 @@ translate portuguese sm1cs_mh008_7ad14cd7:
 translate portuguese sm1cs_mh008_a1939582:
 
     # mc "Yeah! Stacy can tag along and we can all spend some time together and see what it's like!"
-    mc "Isso! A Stacy pode vir junto, aí todo mundo passa um tempo junto, e ver no que dá!"
+    mc "Isso! A Stacy pode vir junto, aí todo mundo passa um tempo junto, e vê no que dá!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:185
 translate portuguese sm1cs_mh008_97c65073:
@@ -368,7 +368,7 @@ translate portuguese sm1cs_mh008_3a9a3c92:
 translate portuguese sm1cs_mh008_d61f5fef:
 
     # mc "Great! I'll shoot her a text telling her to meet us there!"
-    mc "Ótimo! Vou mandar uma mensagem pra encontrar a gente aqui!"
+    mc "Ótimo! Vou mandar uma mensagem pra ela encontrar a gente aqui!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:209
 translate portuguese sm1cs_mh008_4824b49d:
@@ -596,7 +596,7 @@ translate portuguese sm1cs_mh008_carnival_ef6020dd:
 translate portuguese sm1cs_mh008_carnival_e522c30a:
 
     # mc "What! No, no. That's not what I was thinking."
-    mc "O quê! Não, não.  Não estava pensando nisso."
+    mc "O quê! Não, não. Não estava pensando nisso."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:340
 translate portuguese sm1cs_mh008_carnival_7c916c3a:
@@ -626,7 +626,7 @@ translate portuguese sm1cs_mh008_carnival_e774c3dd:
 translate portuguese sm1cs_mh008_carnival_e5e74782:
 
     # mc "That, but it also explains why you are such a strong, fierce woman."
-    mc "Isso, mas também explica por que você é uma mulher forte tão forte e determinada."
+    mc "Isso, mas também explica por que você é uma mulher tão forte e determinada."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:353
 translate portuguese sm1cs_mh008_carnival_3ed77072:
@@ -1466,7 +1466,7 @@ translate portuguese sm1cs_mh008_throuple_carousel_d08cc125:
 translate portuguese sm1cs_mh008_throuple_carousel_2fc0ca58:
 
     # sy "And I've been so busy since I got to Crowning, well... I just haven't been able to make the time."
-    sy "E eu andei tão ocupada desde que cheguei em Crowning, bem...  não arrumei tempo."
+    sy "E eu andei tão ocupada desde que cheguei em Crowning, bem... não consegui arrumar tempo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:865
 translate portuguese sm1cs_mh008_throuple_carousel_71c6ea92:
@@ -1574,7 +1574,7 @@ translate portuguese sm1cs_mh008_throuple_carousel_35324042:
 translate portuguese sm1cs_mh008_throuple_carousel_cc72c627:
 
     # sy "But you two get it. You both also have big main character energy."
-    sy "Mas vocês sabem. Também são cheios de energia de personagens principal."
+    sy "Mas vocês sabem. Também são cheios de energia de personagem principal."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:944
 translate portuguese sm1cs_mh008_throuple_carousel_d69c9291:
@@ -2328,7 +2328,7 @@ translate portuguese sm1cs_mh008_carnival_57b30d8d:
 translate portuguese sm1cs_mh008_date_28d03d83:
 
     # mh "Yeah. It's a weird story, but in short - Mr. Roosevelt refused to shoot a tied up bear, and then someone made a political cartoon of it."
-    mh "Sim. É uma história estranha, mas resumindo - o Sr. Roosevelt recusou a atirar num urso amarrado, aí alguém fez um desenho político disso."
+    mh "Sim. É uma história estranha, mas resumindo - o Sr. Roosevelt se recusou a atirar num urso amarrado, aí alguém fez um desenho político disso."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh008.rpy:785
 translate portuguese sm1cs_mh008_couple_carousel_end_83caa5fe:
