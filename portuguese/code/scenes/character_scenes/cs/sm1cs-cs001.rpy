@@ -56,7 +56,7 @@ translate portuguese sm1cs_cs001_fa13ad43:
 translate portuguese sm1cs_cs001_297c4253:
 
     # cs "Nostalgia? For what, Starducks? There's like a million of them."
-    cs "Nostalgia? Do que, Starducks. Tem um milhão deles."
+    cs "Nostalgia? Do que, Starducks? Tem um milhão deles."
 
 # game/code/scenes/character_scenes/cs/sm1cs-cs001.rpy:37
 translate portuguese sm1cs_cs001_1998bfa0:
