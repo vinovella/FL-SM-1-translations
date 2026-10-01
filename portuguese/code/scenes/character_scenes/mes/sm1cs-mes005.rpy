@@ -170,13 +170,13 @@ translate portuguese sm1cs_mes005_b044e42e:
 translate portuguese sm1cs_mes005_e008c99e:
 
     # mc "Her name is Kanya, she's an up-and-coming photographer, but her style is great and she's worked extremely well with us so far."
-    mc "Se chama Kanya. É uma fotógrafa nova, mas o estilo dela é ótimo, tenho trabalhado muito bem."
+    mc "Ela se chama Kanya. É uma fotógrafa nova, mas o estilo dela é ótimo, e tem trabalhado muito bem."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:87
 translate portuguese sm1cs_mes005_b1741818:
 
     # mes "Kanya. Was she part of the Fetish Locator parties at all?"
-    mes "Kanya. Ela participar das festas do Fetish Locator?"
+    mes "Kanya. Ela participava das festas do Fetish Locator?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:90
 translate portuguese sm1cs_mes005_73f8d1ed:
@@ -308,7 +308,7 @@ translate portuguese sm1cs_mes005_b510379d:
 translate portuguese sm1cs_mes005_126a3be6:
 
     # mes "So long as she understands there is no pressure for her to meet me."
-    mes "Deixa que ela entenda que não precisa se forçar a me ver."
+    mes "Desde que ela entenda que não precisa se forçar a me ver."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:145
 translate portuguese sm1cs_mes005_117645cd:
@@ -716,7 +716,7 @@ translate portuguese sm1cs_mes005_c19dbbd4:
 translate portuguese sm1cs_mes005_373e66a8:
 
     # kv "We've already done a lot of work together at the dojo."
-    kv "Já fizemos bastante coisa juntos no atelier."
+    kv "Já fizemos muita coisa juntos no atelier."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:355
 translate portuguese sm1cs_mes005_59381c77:
@@ -848,7 +848,7 @@ translate portuguese sm1cs_mes005_5c1f233c:
 translate portuguese sm1cs_mes005_c194968f:
 
     # mct "Heh. Seems like the old Min is back. She was always taking on whatever challenges came in front of her."
-    mct "Hehe. Parece que a Min de antigamente voltou. Ela sempre aceitava quaisquer desafios que apareceriam pela frente."
+    mct "Hehe. Parece que a Min de antigamente voltou. Ela sempre aceitava quaisquer desafios que apareciam pela frente."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:420
 translate portuguese sm1cs_mes005_0f2d8e92:
@@ -866,7 +866,7 @@ translate portuguese sm1cs_mes005_8e204029:
 translate portuguese sm1cs_mes005_032c70a4:
 
     # mct "But even if that doesn't happen, it's all good.{w} I don't want to push Min into something she's not prepared for."
-    mct "Mas mesmo que não aconteça, isso é bom.{w} Não quero forçar a Min fazer algo que não tá preparada."
+    mct "Mas mesmo que não aconteça, isso é bom.{w} Não quero forçar a Min a fazer algo que não tá preparada."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes005.rpy:430
 translate portuguese sm1cs_mes005_ad7bfc2c:
