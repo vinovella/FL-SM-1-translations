@@ -176,7 +176,7 @@ translate portuguese sm1cs_mh004_b84843e8:
 translate portuguese sm1cs_mh004_9b901842:
 
     # mc "Hopefully he stays around then. At least for a bit. You really do deserve to have all the success you are having."
-    mc "Tomara que ele fique, então. Pelo menos por um tempo. Você merece todo sucesso que tem. "
+    mc "Tomara que ele fique, então. Pelo menos por um tempo. Você merece todo sucesso que tem."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:130
 translate portuguese sm1cs_mh004_3db3341a:
@@ -362,7 +362,7 @@ translate portuguese sm1cs_mh004_flashback_e6fcf64a:
 translate portuguese sm1cs_mh004_flashback_66f6255d:
 
     # mh "How would she feel about this?"
-    mh "E o que ela acharia disso."
+    mh "E o que ela acharia disso?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh004.rpy:301
 translate portuguese sm1cs_mh004_flashback_88f6bf68:
