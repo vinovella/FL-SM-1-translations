@@ -2,13 +2,13 @@
 translate portuguese sm1ms017_b373b940:
 
     # mc "Right... and I thought we weren't having fun yet."
-    mc "Certo... e eu aqui pensando que a gente ainda não ia se divertir ainda."
+    mc "Certo... e eu aqui pensando que a gente não ia se divertir ainda."
 
 # game/code/scenes/main_story/sm1ms017.rpy:62
 translate portuguese sm1ms017_89446abb:
 
     # sy "We're not. I don't want to get my clothes covered in paint."
-    sy "E não tá. Não quero sujar as roupas de tinta."
+    sy "E não vamos. Não quero sujar as roupas de tinta."
 
 # game/code/scenes/main_story/sm1ms017.rpy:65
 translate portuguese sm1ms017_1198d381:
@@ -26,13 +26,13 @@ translate portuguese sm1ms017_45205682:
 translate portuguese sm1ms017_3687de21:
 
     # sy "Cat got your tongue?"
-    sy "Gato mordeu a língua?"
+    sy "O gato comeu a sua a língua?"
 
 # game/code/scenes/main_story/sm1ms017.rpy:80
 translate portuguese sm1ms017_4fd3395e:
 
     # mc "Nah. It's just strange to see you in underwear for a change."
-    mc "Nada. E aqui é estranho te ver de roupa íntima pra variar."
+    mc "Nada. E que é estranho te ver de roupa íntima pra variar."
 
 # game/code/scenes/main_story/sm1ms017.rpy:81
 translate portuguese sm1ms017_f2ca3916:
@@ -236,7 +236,7 @@ translate portuguese sm1ms017_4787ffc6:
 translate portuguese sm1ms017_b69d4abb:
 
     # sy "Later. For now, it can be our fun little secret."
-    sy "Depois. Agora vamos deixar isso o nosso segredinho."
+    sy "Depois. Vamos deixar isso ser o nosso segredinho por enquanto."
 
 # game/code/scenes/main_story/sm1ms017.rpy:248
 translate portuguese sm1ms017_80d4d10d:
@@ -254,7 +254,7 @@ translate portuguese sm1ms017_111258e1:
 translate portuguese sm1ms017_304c1bda:
 
     # sy "Hmmm. I want you to paint me like one of your French girls, [mcname]."
-    sy "Hmmm. quero que você me pinte como uma das suas garotas francesas, [mcname]."
+    sy "Hmmm. Quero que você me pinte como uma das suas garotas francesas, [mcname]."
 
 # game/code/scenes/main_story/sm1ms017.rpy:277
 translate portuguese sm1ms017_be97f079:
@@ -266,7 +266,7 @@ translate portuguese sm1ms017_be97f079:
 translate portuguese sm1ms017_5b18a7d4:
 
     # mc "My hand will help warm you up."
-    mc "A minha mãe vai te aquecer."
+    mc "A minha mão vai te aquecer."
 
 # game/code/scenes/main_story/sm1ms017.rpy:284
 translate portuguese sm1ms017_3f4aea72:
@@ -500,13 +500,13 @@ translate portuguese sm1ms017_72193bdf:
 translate portuguese sm1ms017_9d5c3ee1:
 
     # sy "*panting hard* What are we going to tell Mom if she sees the mess?"
-    sy "*ofegante* O que vamos falar pra Mãe se ela ver essa bagunça?"
+    sy "*ofegante* O que vamos falar pra Mãe se ela vir essa bagunça?"
 
 # game/code/scenes/main_story/sm1ms017.rpy:438
 translate portuguese sm1ms017_6e1de2f8:
 
     # sy "*panting hard* What are we going to tell Melony if she notices the mess."
-    sy "*ofegante* O que vamos falar pra Melony se ela ver essa bagunça?"
+    sy "*ofegante* O que vamos falar pra Melony se ela vir essa bagunça?"
 
 # game/code/scenes/main_story/sm1ms017.rpy:439
 translate portuguese sm1ms017_ef7a589e:
@@ -614,13 +614,13 @@ translate portuguese sm1ms017_4d1c70e5:
 translate portuguese sm1ms017_46e0e6b3:
 
     # sy "We need to get cleaned up before Mom sees us like this."
-    sy "Vamos ter que limpar antes que a Mãe veja isso."
+    sy "Vamos ter que limpar isso antes que a Mãe pegue a gente assim."
 
 # game/code/scenes/main_story/sm1ms017.rpy:505
 translate portuguese sm1ms017_488c0681:
 
     # sy "We need to get cleaned up before Melony sees us like this."
-    sy "Vamos ter que limpar antes que a Melony veja isso."
+    sy "Vamos ter que limpar isso antes que a Melony pegue a gente assim."
 
 # game/code/scenes/main_story/sm1ms017.rpy:507
 translate portuguese sm1ms017_fafbfb54:
@@ -632,7 +632,7 @@ translate portuguese sm1ms017_fafbfb54:
 translate portuguese sm1ms017_end_ccefcc04:
 
     # my "The painting looks really good."
-    my "O quadro ficou ótimo."
+    my "A pintura ficou ótima."
 
 # game/code/scenes/main_story/sm1ms017.rpy:526
 translate portuguese sm1ms017_end_489484fe:
@@ -644,7 +644,7 @@ translate portuguese sm1ms017_end_489484fe:
 translate portuguese sm1ms017_end_c40b886a:
 
     # sy "Mmm. I don't think so.{w} [mcname]?"
-    sy "Mmm. Acho que não.{w} [mcname]."
+    sy "Mmm. Acho que não.{w} [mcname]?"
 
 # game/code/scenes/main_story/sm1ms017.rpy:531
 translate portuguese sm1ms017_end_aaae2ffe:
