@@ -38,7 +38,7 @@ translate portuguese sm1cs_ns014_2a1b2a1b:
 translate portuguese sm1cs_ns014_961bd807:
 
     # ns "After meeting you, my life has been a net positive."
-    ns "Depois de te conhecer, a minha vida  tem só melhorado."
+    ns "Depois de te conhecer, a minha vida tem só melhorado."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:41
 translate portuguese sm1cs_ns014_a64e8bc0:
@@ -134,7 +134,7 @@ translate portuguese sm1cs_ns014_ebf7675e:
 translate portuguese sm1cs_ns014_00bc57a3:
 
     # ns "Keep working hard and it will be done before you know it, [mcname]."
-    ns "Continua se esforçando que vai acabar antes  que perceba, [mcname]."
+    ns "Continua se esforçando que vai acabar antes que perceba, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:114
 translate portuguese sm1cs_ns014_a2198132:
@@ -182,7 +182,7 @@ translate portuguese sm1cs_ns014_faa03e1a:
 translate portuguese sm1cs_ns014_ee02790c:
 
     # mc "I'll see you at home, cutie."
-    mc "A gent se vê em casa, linda."
+    mc "A gente se vê em casa, linda."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:132
 translate portuguese sm1cs_ns014_f4629ac3:
@@ -236,7 +236,7 @@ translate portuguese sm1cs_ns014_studio_147e4307:
 translate portuguese sm1cs_ns014_studio_d0316469:
 
     # sy "Welcome home, superstar."
-    sy "Bem vindo, estrela."
+    sy "Bem-vindo, estrela."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:192
 translate portuguese sm1cs_ns014_studio_669664cb:
@@ -332,7 +332,7 @@ translate portuguese sm1cs_ns014_studio_bfb70bb7:
 translate portuguese sm1cs_ns014_studio_10b37829:
 
     # mc "I love it. It's a really nice idea, Nari."
-    mc "Adorei.  É uma ótima ideia, Nari."
+    mc "Adorei. É uma ótima ideia, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:234
 translate portuguese sm1cs_ns014_studio_7e519a82:
@@ -704,7 +704,7 @@ translate portuguese sm1cs_ns014_studio_00ea30d8:
 translate portuguese sm1cs_ns014_studio_a1a91380:
 
     # ns "I mean, I can tell that this wasn't an easy thing for you."
-    ns "Tipo,  dá para ver que isso não foi muito fácil para você."
+    ns "Tipo, dá para ver que isso não foi muito fácil para você."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:469
 translate portuguese sm1cs_ns014_studio_cc9b9c7b:
@@ -728,7 +728,7 @@ translate portuguese sm1cs_ns014_studio_ce8357e5:
 translate portuguese sm1cs_ns014_studio_0e9b2ccb:
 
     # ns "It's totally fine with me that you wanted to make sure you could trust me before sharing something so private."
-    ns "Por mim não tem problema se você queria ter certeza podia confiar em mim antes de compartilhar algo tão privado."
+    ns "Por mim não tem problema se você queria ter certeza que podia confiar em mim antes de compartilhar algo tão privado."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:481
 translate portuguese sm1cs_ns014_studio_2e647cff:
@@ -770,7 +770,7 @@ translate portuguese sm1cs_ns014_studio_432a027f:
 translate portuguese sm1cs_ns014_studio_b9024b87:
 
     # mc "But I didn't know if that would mean accept that I am doing this as well as working for Orbix."
-    mc "Mas não sabia se isso significa que você aceitaria que eu faço isso além de trabalhar na Orbix. "
+    mc "Mas não sabia se isso significa que você aceitaria que eu faço isso além de trabalhar na Orbix."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:500
 translate portuguese sm1cs_ns014_studio_9fc9c942:
@@ -836,7 +836,7 @@ translate portuguese sm1cs_ns014_studio_81709362:
 translate portuguese sm1cs_ns014_studio_ec7bc564:
 
     # ns "Yes. This also explains why your productivity is so below the curve of April and I."
-    ns "Sim. E isso explica porque a sua produtividade é tão abaixo da April e eu."
+    ns "Sim. E isso explica porque a sua produtividade é tão abaixo de mim e da April."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:526
 translate portuguese sm1cs_ns014_studio_e6a26763:
@@ -890,7 +890,7 @@ translate portuguese sm1cs_ns014_studio_aff3c18a:
 translate portuguese sm1cs_ns014_studio_991c2490:
 
     # ns "Hmmm. What cat?"
-    ns "Hmmm. Escapuliu  para onde?"
+    ns "Hmmm. Escapuliu para onde?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:553
 translate portuguese sm1cs_ns014_studio_51a6e691:
@@ -962,7 +962,7 @@ translate portuguese sm1cs_ns014_studio_ad9a3191:
 translate portuguese sm1cs_ns014_studio_f8d7e588:
 
     # ns "But part of why I chose America is because a lot of naughty stuff came from here."
-    ns "Mas parte do motivo de eu ter vindo para cá é que muita coisa safada veio aqui."
+    ns "Mas parte do motivo de eu ter vindo para cá é que muita coisa safada começou aqui."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:591
 translate portuguese sm1cs_ns014_studio_3f6921f4:
@@ -1004,7 +1004,7 @@ translate portuguese sm1cs_ns014_studio_3dab1d16:
 translate portuguese sm1cs_ns014_studio_55a40da6:
 
     # ns "If this company you are making is successful, maybe I can use my share to make another one of my dreams come true."
-    ns "Se essa empresa for um sucesso, talvez eu consiga fazer outro sonho meu virar realidade."
+    ns "Se essa empresa for um sucesso, talvez eu consiga usar a minha parte para fazer outro sonho meu virar realidade."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:614
 translate portuguese sm1cs_ns014_studio_8502c9e0:
@@ -1164,7 +1164,7 @@ translate portuguese sm1cs_ns014_studio_026d1f00:
 translate portuguese sm1cs_ns014_studio_56ae4acc:
 
     # mc "You're a natural, Nari."
-    mc "Você boa demais, Nari."
+    mc "Você tem talento, Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns014.rpy:385
 translate portuguese sm1cs_ns014_studio_f6999e6a:
