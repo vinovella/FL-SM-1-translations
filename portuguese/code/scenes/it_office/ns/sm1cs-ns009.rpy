@@ -260,7 +260,7 @@ translate portuguese sm1cs_ns009_d9af6597:
 translate portuguese sm1cs_ns009_13b089db:
 
     # ns "You're very kind to say that, [mcname], but I will not be returning to that man, or to the apartment."
-    ns "[mcname], é gentil da sua parte falar isso. Mas não vou voltar para aquele homem, nem aquele apartamento."
+    ns "[mcname], é gentil da sua parte falar isso. Mas não vou voltar para aquele homem, nem para aquele apartamento."
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:168
 translate portuguese sm1cs_ns009_c7f0af8b:
@@ -452,7 +452,7 @@ translate portuguese sm1cs_ns009_cc2fee35:
 translate portuguese sm1cs_ns009_e48fcdf8:
 
     # ns "You are such a bad influence on me."
-    ns "Você é uma má influência  em mim."
+    ns "Você é uma má influência em mim."
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:246
 translate portuguese sm1cs_ns009_f46b669d:
@@ -506,7 +506,7 @@ translate portuguese sm1cs_ns009_sex_11455b53:
 translate portuguese sm1cs_ns009_sex_b3de8200:
 
     # ns "I always feel warmer around you, [mcname]."
-    ns "Eu sempre me sinto um calorzinho com você, [mcname]."
+    ns "Eu sempre sinto um calorzinho perto de você, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:281
 translate portuguese sm1cs_ns009_sex_f65538ab:
@@ -992,13 +992,13 @@ translate portuguese sm1cs_ns009_sex_continue_670887a5:
 translate portuguese sm1cs_ns009_sex_continue_e011f773:
 
     # mc "You're always thinking about getting fucked by me, aren't you."
-    mc "Você tá sempre pensando em transar comigo, não é?"
+    mc "Você tá sempre pensando em transar comigo, né?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:558
 translate portuguese sm1cs_ns009_sex_continue_3810a6a4:
 
     # ns "Of course not. I... *moans* when I'm here, I'm focused on work."
-    ns "Claro que não. Eu... *gemido* quando estou aqui, eu me concentro no trabalho."
+    ns "Claro que não. Eu... *gemido* aqui eu me concentro no trabalho."
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:561
 translate portuguese sm1cs_ns009_sex_continue_c97cec4e:
@@ -1016,7 +1016,7 @@ translate portuguese sm1cs_ns009_sex_continue_9170f474:
 translate portuguese sm1cs_ns009_sex_continue_372276a5:
 
     # mc "You feel so good around my cock."
-    mc "Você tá tão gostosinha do meu pau."
+    mc "Você tá tão gostosinha no meu pau."
 
 # game/code/scenes/it_office/ns/sm1cs-ns009.rpy:565
 translate portuguese sm1cs_ns009_sex_continue_b3e25a98_1:
