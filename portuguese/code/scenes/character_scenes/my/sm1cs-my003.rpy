@@ -14,7 +14,7 @@ translate portuguese sm1cs_my003_0aeef22a:
 translate portuguese sm1cs_my003_4321f85a:
 
     # sy "But, you probably would have chickened out."
-    sy "Mas você teria corrido se acovardado."
+    sy "Mas você teria se acovardado."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:24
 translate portuguese sm1cs_my003_645acc28:
@@ -68,7 +68,7 @@ translate portuguese sm1cs_my003_b6e8e273:
 translate portuguese sm1cs_my003_94364f29:
 
     # mc "You look like you were out for a run or something."
-    mc "Parece que você que acabou de voltar de uma corrida."
+    mc "Parece que você acabou de voltar de uma corrida."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:66
 translate portuguese sm1cs_my003_30627e08:
@@ -104,7 +104,7 @@ translate portuguese sm1cs_my003_6871aa82:
 translate portuguese sm1cs_my003_31a8c613:
 
     # my "Well, while you and [mcname] have been busy with your lives, I've had to find something to do."
-    my "Bem, enquanto você e o [mcname] estavam ocupados com suas suas vidas, tive que achar algo para fazer."
+    my "Bem, enquanto você e o [mcname] estavam ocupados com suas vidas, tive que achar algo para fazer."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:84
 translate portuguese sm1cs_my003_836666b1:
@@ -1568,7 +1568,7 @@ translate portuguese sm1cs_my003_continue_0a5fc1f8:
 translate portuguese sm1cs_my003_continue_b833da70:
 
     # my "In fact, Stacy invited me over sometime soon for your little competition thing."
-    my "Na verdade, a Stacy me convidou em breve para a sua competição."
+    my "Na verdade, a Stacy me convidou para visitar em breve para a sua competição."
 
 # game/code/scenes/character_scenes/my/sm1cs-my003.rpy:788
 translate portuguese sm1cs_my003_continue_b506d02f:
