@@ -62,7 +62,7 @@ translate portuguese sm1ms011_02i_45ad3f12:
 translate portuguese sm1ms011_02i_b9d6467d:
 
     # mc "Then there's Anna. She's got great energy. Very confident, and honestly, she's kind of a mystery."
-    mc "Também tem não Anna. Ótima energia. Bem confiante, e sinceramente é um mistério."
+    mc "E tem a Anna. Ótima energia. Bem confiante, e sinceramente é um mistério."
 
 # game/code/scenes/main_story/sm1ms011-02i.rpy:30
 translate portuguese sm1ms011_02i_8ad29f0b:
@@ -98,7 +98,7 @@ translate portuguese sm1ms011_02i_954a072f:
 translate portuguese sm1ms011_02i_436999b0:
 
     # mc "She wasn't exactly welcoming. She made it pretty clear she doesn't think much of newbies."
-    mc "Não foi muito acolhedora. Deixou bem claro que se importa muito com novatos."
+    mc "Não foi muito acolhedora. Deixou bem claro que não se importa muito com novatos."
 
 # game/code/scenes/main_story/sm1ms011-02i.rpy:41
 translate portuguese sm1ms011_02i_1e333ae7:
@@ -212,7 +212,7 @@ translate portuguese sm1ms011_02i_3c649c79:
 translate portuguese sm1ms011_02i_62e894c8:
 
     # mc "She assigned me to be a stagehand. I help this guy Bruce around back stage."
-    mc "Ela me deixou de auxiliar de palco. Eu ajudo o Bruce nos bastidores."
+    mc "Ela me deixou trabalhando nos bastidores. Eu ajudo o Bruce por lá."
 
 # game/code/scenes/main_story/sm1ms011-02i.rpy:82
 translate portuguese sm1ms011_02i_c2afe789:
@@ -236,13 +236,13 @@ translate portuguese sm1ms011_02i_a64e8bc0:
 translate portuguese sm1ms011_02i_f6a4d2f5:
 
     # sy "Well at least you're kind of 'in'. So that must mean you still met some of the girls there."
-    sy "Bem, pelo menos você meio que entrou, né. Então deve ter cohecido umas garotas por lá."
+    sy "Bem, pelo menos você meio que entrou, né. Então deve ter conhecido umas garotas por lá."
 
 # game/code/scenes/main_story/sm1ms011-02i.rpy:92
 translate portuguese sm1ms011_02i_788b4255:
 
     # mc "I did. Like I said, Denise is the director. Probably least likely to join us."
-    mc "Sim. Como falei, a Denise é a diretora. Provavelmente menor a chance de vir com a gente."
+    mc "Sim. Como falei, a Denise é a diretora. Acho que é a menos provável de vir com a gente."
 
 # game/code/scenes/main_story/sm1ms011-02i.rpy:93
 translate portuguese sm1ms011_02i_46e7001d:
