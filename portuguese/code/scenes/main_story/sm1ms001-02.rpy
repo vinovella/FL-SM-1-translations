@@ -32,7 +32,7 @@ translate portuguese sm1ms001_02_9fb73803:
 translate portuguese sm1ms001_02_cd301ca0:
 
     # sy "Woah. I've never seen a fat dragon."
-    sy "Eia. Nunca vi um dragão gordo."
+    sy "Eita. Nunca vi um dragão gordo."
 
 # game/code/scenes/main_story/sm1ms001-02.rpy:37
 translate portuguese sm1ms001_02_90a702c2:
@@ -56,13 +56,13 @@ translate portuguese sm1ms001_02_2f667c77:
 translate portuguese sm1ms001_02_ffeab0e8:
 
     # mc "Yeah. Oh... I didn't even realize how late it is. Guess we're sleeping in tomorrow."
-    mc "Sim. Ah... nem tinha percebido ficou tão tarde. Acho que vamos dormir até tarde."
+    mc "Sim. Ah... nem tinha percebido que ficou tão tarde. Acho que vamos dormir até tarde."
 
 # game/code/scenes/main_story/sm1ms001-02.rpy:48
 translate portuguese sm1ms001_02_c4ab764c:
 
     # sy "*giggles* Some things never change."
-    sy "*risos* Certas coisas não mudou nunca."
+    sy "*risos* Certas coisas nunca mudam."
 
 # game/code/scenes/main_story/sm1ms001-02.rpy:51
 translate portuguese sm1ms001_02_088cdf76:
