@@ -248,7 +248,7 @@ translate portuguese sm1cs_dc003_f3634b9b:
 translate portuguese sm1cs_dc003_6fc14c2e:
 
     # mc "Why move here instead of there?"
-    mc "Porque vir de lá pra cá?"
+    mc "Por que vir de lá pra cá?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:148
 translate portuguese sm1cs_dc003_9987882e:
@@ -272,7 +272,7 @@ translate portuguese sm1cs_dc003_03b9de5a:
 translate portuguese sm1cs_dc003_06948cb5:
 
     # mc "Can I ask why you wanted to be a cop?"
-    mc "Posso te perguntar porque você queria ser policial?"
+    mc "Posso te perguntar por que você queria ser policial?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:156
 translate portuguese sm1cs_dc003_871b9b08:
@@ -302,7 +302,7 @@ translate portuguese sm1cs_dc003_a2699ffc:
 translate portuguese sm1cs_dc003_bb8babe2:
 
     # dc "He was well liked enough, but... When I was in high school it turned out that the sheriff was actually making and selling a whole bunch of drugs."
-    dc "As pessoas gostava dele, mas... Quando eu estava na escola, acabou que o xerife estava fazendo e vendendo uma pancada de drogas."
+    dc "As pessoas gostavam dele, mas... Quando eu estava na escola, acabou que o xerife estava fazendo e vendendo uma pancada de drogas."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:169
 translate portuguese sm1cs_dc003_23b9c204:
@@ -404,7 +404,7 @@ translate portuguese sm1cs_dc003_517eb1ba:
 translate portuguese sm1cs_dc003_4c2a9060:
 
     # dc "No, that's not it. I do need someone to talk to and... You seem like a good person to talk to. I just don't want to overshare, you know?"
-    dc "Não, não é isso. Eu preciso de alguém para conversar, e... você parece ser uma boa pessoa pra isso. Só não quero compartilhar demais sabe."
+    dc "Não, não é isso. Eu preciso de alguém para conversar, e... você parece ser uma boa pessoa pra isso. Só não quero compartilhar demais, sabe?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:208
 translate portuguese sm1cs_dc003_9994cbc4:
@@ -470,7 +470,7 @@ translate portuguese sm1cs_dc003_f6fbba48:
 translate portuguese sm1cs_dc003_9b634821:
 
     # dc "You know, you're right! It is dumb! They have no idea what I'm capable of."
-    dc "Sabe de uma coisa, tem razão! É ridículo. Eles não fazem ideia do que eu sou capaz."
+    dc "Sabe de uma coisa, tem razão! É ridículo! Eles não fazem ideia do que eu sou capaz."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc003.rpy:231
 translate portuguese sm1cs_dc003_e79eb663:
@@ -632,7 +632,7 @@ translate portuguese sm1cs_dc003_3d59e736:
 translate portuguese sm1cs_dc003_77f83bea:
 
     # mct "I should ask Debbie... Maybe give her a day or two though before I do."
-    mct "Melhor perguntar pra Debbie...  talvez esperar uns dias antes de perguntar."
+    mct "Melhor perguntar pra Debbie... Talvez esperar uns dias antes de perguntar."
 
 translate portuguese strings:
 
