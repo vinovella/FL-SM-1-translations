@@ -38,7 +38,7 @@ translate portuguese sm1cs_ns010i_1f70ed6b:
 translate portuguese sm1cs_ns010i_8bda09e3:
 
     # mc "That's part of what I wanted to talk to you about."
-    mc "Não era sobre isso que eu queria falar."
+    mc "Isso é parte do que eu queria falar."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:24
 translate portuguese sm1cs_ns010i_900b3dd7:
@@ -266,7 +266,7 @@ translate portuguese sm1cs_ns010i_513b938c:
 translate portuguese sm1cs_ns010i_7d954c61:
 
     # sy "Well, it's kind of always been the plan. And besides, I've known from the first time we really shared our feelings that I wasn't going to be the only girl for you."
-    sy "Bem, esse meio que sempre foi o plano. E outra, eu sabia desde a primeira vez que começamos que eu não seria a sua única garota."
+    sy "Bem, isso meio que sempre foi o plano. E outra, eu sabia desde a primeira vez que começamos que eu não seria a sua única garota."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010i.rpy:126
 translate portuguese sm1cs_ns010i_f603c8b2:
