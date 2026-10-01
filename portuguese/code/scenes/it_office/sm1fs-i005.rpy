@@ -458,7 +458,7 @@ translate portuguese sm1fs_i005_07b91840:
 translate portuguese sm1fs_i005_2d620f5b:
 
     # am "You're the one watching a foursome in the middle of the workday."
-    am "É você que tá assistindo uma orgia no meio do expediente"
+    am "É você que tá assistindo uma orgia no meio do expediente."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:274
 translate portuguese sm1fs_i005_e51945c9:
@@ -620,7 +620,7 @@ translate portuguese sm1fs_i005_8ef53404:
 translate portuguese sm1fs_i005_9c7dcd9a:
 
     # am "We'll call you when we need some dead weight with a nice haircut."
-    am "Quando a gente precisar de um inútil de cabelo bonito, que chamamos."
+    am "Quando a gente precisar de um inútil de cabelo bonito, vamos te chamar."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:366
 translate portuguese sm1fs_i005_7069aaff:
@@ -1070,7 +1070,7 @@ translate portuguese sm1fs_i005_35c5a30d:
 translate portuguese sm1fs_i005_f55149ad:
 
     # cw "Some of the things I saw on those screens before I shut down the power..."
-    cw "Certas coisas que eu vi naquelas telas, antes de desligar a luz..."
+    cw "Certas coisas que eu vi naquelas telas antes de cortar a luz..."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:623
 translate portuguese sm1fs_i005_d15522ad:
@@ -1112,7 +1112,7 @@ translate portuguese sm1fs_i005_9750bbc9_1:
 translate portuguese sm1fs_i005_2679ca0d:
 
     # cw "You know. Many heroes are misunderstood in their time."
-    cw "Sabe como é. Muitos heróis são compreendidos na sua época."
+    cw "Sabe como é. Muitos heróis não são compreendidos na sua época."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:644
 translate portuguese sm1fs_i005_810db49c:
@@ -1280,7 +1280,7 @@ translate portuguese sm1fs_i005_conference_be47cd6d:
 translate portuguese sm1fs_i005_conference_e52fecb0:
 
     # ag "But it's just a matter of time until Sienna or one of us can find a fix."
-    ag "Mas é só questão de tempo até a Sienna ou alguma de nós encontrar alguma pista."
+    ag "Mas é só questão de tempo até a Sienna ou alguma de nós conseguir consertar isso."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:721
 translate portuguese sm1fs_i005_conference_f52a2354:
@@ -1292,7 +1292,7 @@ translate portuguese sm1fs_i005_conference_f52a2354:
 translate portuguese sm1fs_i005_conference_b544b853:
 
     # am "Oh yeah.{w} No, that will definitely stop the problem."
-    am "Ah é.{w} Não, isso com certeza vai acabar com problema."
+    am "Ah é.{w} Não, isso com certeza vai acabar com o problema."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:727
 translate portuguese sm1fs_i005_conference_4762d165:
@@ -1340,7 +1340,7 @@ translate portuguese sm1fs_i005_conference_e3401148:
 translate portuguese sm1fs_i005_conference_96bc0e75:
 
     # ag "Once that is done, then yes, it is possible to completely fix our systems."
-    ag "Quando terminamos, aí sim, vai ser possível consertar o sistema."
+    ag "Quando terminarmos, aí sim, vai ser possível consertar o sistema."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:750
 translate portuguese sm1fs_i005_conference_8e7bec65:
@@ -1382,7 +1382,7 @@ translate portuguese sm1fs_i005_conference_312e5857:
 translate portuguese sm1fs_i005_conference_f1f58bc6:
 
     # ag "We do a code excisement."
-    ag "Fazemos a refatoração do código."
+    ag "Fazemos uma excisção no código."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:766
 translate portuguese sm1fs_i005_conference_1fcc47b6:
@@ -1424,7 +1424,7 @@ translate portuguese sm1fs_i005_conference_8c2518b0:
 translate portuguese sm1fs_i005_conference_efcd2ea1:
 
     # am "We could get hacked all over again."
-    am "Podem hacker a gente de novo."
+    am "Podem hackear a gente de novo."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:787
 translate portuguese sm1fs_i005_conference_bbc86966:
@@ -1472,7 +1472,7 @@ translate portuguese sm1fs_i005_conference_b9f751c3:
 translate portuguese sm1fs_i005_conference_4d21422d:
 
     # cw "It's going to be fine.{w} Besides, we don't have a better option."
-    cw "Vai dar tudo certo. E não temos uma opção melhor."
+    cw "Vai dar tudo certo.{w} E não temos uma opção melhor."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:810
 translate portuguese sm1fs_i005_conference_a31da267:
@@ -1586,7 +1586,7 @@ translate portuguese strings:
 translate portuguese sm1fs_i005_b16b4e3c:
 
     # pm "Sienna. You're DevOps.{w} Stop this."
-    pm "Sienna. Você é DevOps.{w}  Para isso."
+    pm "Sienna. Você é DevOps.{w} Para isso."
 
 # game/code/scenes/it_office/sm1fs-i005.rpy:423
 translate portuguese sm1fs_i005_849e0440:
