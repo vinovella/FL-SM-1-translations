@@ -674,7 +674,7 @@ translate portuguese sm1cs_ns006_later_b8c00703:
 translate portuguese sm1cs_ns006_later_48cb79b9:
 
     # mj "Well come on you two, let's get back to it."
-    mj "Então vamos, gente, de volta ao trabalho. "
+    mj "Então vamos, gente, de volta ao trabalho."
 
 # game/code/scenes/it_office/ns/sm1cs-ns006.rpy:442
 translate portuguese sm1cs_ns006_later_e0aab454:
