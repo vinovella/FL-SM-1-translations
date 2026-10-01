@@ -38,7 +38,7 @@ translate portuguese sm1cs_cw001_96b0e515:
 translate portuguese sm1cs_cw001_d0bbd3ef:
 
     # mc "Haha. Next time I'll be sure to make you work for it, Ms. Watts."
-    mc "Haha. Da próxima vez vou fazer que se esforce, Sra. Watts."
+    mc "Haha. Da próxima vez vou fazer você se esforçar, Sra. Watts."
 
 # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:48
 translate portuguese sm1cs_cw001_eb1205c1:
@@ -368,7 +368,7 @@ translate portuguese sm1cs_cw001_ns_convo_0cc86c51:
 translate portuguese sm1cs_cw001_ns_convo_4f4f9373:
 
     # mc "I have absolutely no idea what you're talking about."
-    mc "Não tenho ideia alguma que a senhora está falando."
+    mc "Não faço ideia do que a senhora está falando."
 
 # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:236
 translate portuguese sm1cs_cw001_ns_convo_8bc6069b:
@@ -398,7 +398,7 @@ translate portuguese sm1cs_cw001_ns_convo_2c32441e:
 translate portuguese sm1cs_cw001_ns_convo_3ed1fce3:
 
     # cw "You'll be sure to keep an eye out for such troublemakers. Right [mcname]?"
-    cw "Você vai ficar de olho nesses problemas. Certo, [mcname]?"
+    cw "Você vai ficar de olho nesses de encrenqueiro. Certo, [mcname]?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:247
 translate portuguese sm1cs_cw001_ns_convo_d70beedf:
@@ -476,7 +476,7 @@ translate portuguese sm1cs_cw001_end_convo_5c06ba6e:
 translate portuguese sm1cs_cw001_end_convo_ed1fe56f:
 
     # mc "Did {i}you{/i} get in big trouble when people found out?"
-    mc "{i}Você{/i} se entregou quando as pessoas descobriram?"
+    mc "{i}Você{/i} se encrencou quando as pessoas descobriram?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:303
 translate portuguese sm1cs_cw001_end_convo_a793e4c1:
@@ -706,7 +706,7 @@ translate portuguese strings:
 
     # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:281
     old "What is your favorite part?"
-    new "Qual sua parte favorita"
+    new "Qual sua parte favorita?"
 
     # game/code/scenes/it_office/cw/sm1cs-cw001.rpy:281
     old "I get the feeling there was trouble in the past"
