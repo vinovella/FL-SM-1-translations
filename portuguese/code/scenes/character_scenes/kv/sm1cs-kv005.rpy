@@ -104,7 +104,7 @@ translate portuguese sm1cs_kv005_start_5c926a4d:
 translate portuguese sm1cs_kv005_start_8f876b9a:
 
     # mc "I was just trying to say that I was expecting there to be a model, and you with me behind the camera."
-    mc "Só estava tentando falar que achei que ia ter uma modelo, e nós dois na câmera."
+    mc "Só estava tentando falar que achei que ia ter uma modelo, e nós dois por trás da câmera."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:75
 translate portuguese sm1cs_kv005_start_7f886cb4:
@@ -188,7 +188,7 @@ translate portuguese sm1cs_kv005_start_41d186aa:
 translate portuguese sm1cs_kv005_start_f211aa8c:
 
     # kv "Don't worry, stud. We'll get there. But, not every photoshoot is in latex or the nude! So I thought we'd start there."
-    kv "Relaxa, garanhão. Vamos chegar lá. Mas nem todo ensaio fotográfico uso látex ou é nu! Então pensei em começar por aqui."
+    kv "Relaxa, garanhão. Vamos chegar lá. Mas nem todo ensaio fotográfico usa látex ou é nu! Então pensei em começar por aqui."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:120
 translate portuguese sm1cs_kv005_start_d5ae2301:
@@ -206,7 +206,7 @@ translate portuguese sm1cs_kv005_start_dc27fd85:
 translate portuguese sm1cs_kv005_start_bf84a271:
 
     # mc "All right... Here goes nothing."
-    mc "Beleza... É agora nunca."
+    mc "Beleza... É agora ou nunca."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:128
 translate portuguese sm1cs_kv005_start_40491cab:
@@ -398,7 +398,7 @@ translate portuguese sm1cs_kv005_part_2_5ca64dc1:
 translate portuguese sm1cs_kv005_part_2_2de55284:
 
     # kv "Well, thank you, [mcname]."
-    kv "Poxa, obrigada, [mcname]. "
+    kv "Poxa, obrigada, [mcname]."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:240
 translate portuguese sm1cs_kv005_part_2_a6acc0de:
@@ -458,7 +458,7 @@ translate portuguese sm1cs_kv005_part_2_256823b1:
 translate portuguese sm1cs_kv005_part_2_88b02c85:
 
     # kv "My trick, when I'm behind the camera, is to think 'what kind of photos do I think look sexy as hell'. Then I try to do that."
-    kv "O meu truque é, quando sou eu filmando, gosto de imaginar 'que tipo de fotos eu acho que ficaria gostosas pra caralho'. Aí eu tento fazer isso."
+    kv "O meu truque é, quando sou eu por trás da câmera, gosto de imaginar 'que tipo de fotos eu acho que ficaria gostosas pra caralho'. Aí eu tento fazer isso."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:268
 translate portuguese sm1cs_kv005_part_2_496d5972:
@@ -506,7 +506,7 @@ translate portuguese sm1cs_kv005_part_2_a1f184e9:
 translate portuguese sm1cs_kv005_part_2_265ffe28:
 
     # kv "When she showed up for the shoot, she had all of these latex outfits. I thought they were awesome, so the whole shoot turned into a light BDSM modeling thing."
-    kv "Quando apareceu pro ensaio, ela trouxe um monte de fotos sensuais de látex. Eu achei que estavam ótimas, então o ensaio acabou virando uma parada BDSM de leve."
+    kv "Quando apareceu pro ensaio, ela trouxe um monte de roupas de látex. Eu achei que estavam ótimas, então o ensaio acabou virando uma parada BDSM de leve."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:287
 translate portuguese sm1cs_kv005_part_2_db8a773a:
@@ -656,7 +656,7 @@ translate portuguese sm1cs_kv005_part_2_2e6c83f9:
 translate portuguese sm1cs_kv005_part_2_4a88997d:
 
     # kv "You just going to stare at them? Or are you going to take a picture?"
-    kv "Vai ficar só olhando. Ou vai tirar foto?"
+    kv "Vai ficar só olhando mesmo? Ou vai tirar foto?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:357
 translate portuguese sm1cs_kv005_part_2_865084a0:
@@ -686,7 +686,7 @@ translate portuguese sm1cs_kv005_part_2_a1f184e9_5:
 translate portuguese sm1cs_kv005_part_2_1d1ec6af:
 
     # kv "Remember, I walked out in a sexy outfit. I want you to make me {i}look sexy{/i} in it."
-    kv "Não esquece que eu botei uma roupa sexy. Eu quero que você me deixe {i}gostosa{/i} dela."
+    kv "Não esquece que eu botei uma roupa sexy. Eu quero que você me deixe {i}gostosa{/i} nela."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:368
 translate portuguese sm1cs_kv005_part_2_ab48eaaf:
@@ -722,7 +722,7 @@ translate portuguese sm1cs_kv005_part_2_05500ff6:
 translate portuguese sm1cs_kv005_part_2_c9a5e229:
 
     # kv "Every model has some insecurity. Some flaw, something they'd want to change."
-    kv "Toda modelo é um pouco insegura. Alguma falha que querem mudar."
+    kv "Toda modelo é um pouco insegura. Alguma falha que quer mudar."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:383
 translate portuguese sm1cs_kv005_part_2_442a38fa:
@@ -770,7 +770,7 @@ translate portuguese sm1cs_kv005_part_2_e9a28e46:
 translate portuguese sm1cs_kv005_part_2_30f3cdd3:
 
     # kv "Great! I have one more outfit for you."
-    kv "Beleza. Tem mais uma roupa."
+    kv "Maravilha! Tem mais uma roupa pra você."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:408
 translate portuguese sm1cs_kv005_part_2_cedff569:
@@ -1040,13 +1040,13 @@ translate portuguese sm1cs_kv005_part_3_a1f184e9_8:
 translate portuguese sm1cs_kv005_part_3_8ca91c0a:
 
     # mc "I have no idea why I'm still taking photos when I should be fucking you."
-    mc "Não sei porque eu ainda tô tirando fotos, era para eu estar te comendo."
+    mc "Não sei por que eu ainda tô tirando foto, era para eu estar te comendo."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:554
 translate portuguese sm1cs_kv005_part_3_e16f9d33:
 
     # kv "Because, I'm teaching you how to be a {i}professional{/i}. And professionals wait until at least after the shoot for their treat."
-    kv "Porque eu estou te ensinando a ser {i}profissional{/i}. Profissionais esperam até pelo menos terminar o ensaio pra sua recompensa."
+    kv "Porque eu estou te ensinando a ser {i}profissional{/i}. E profissionais esperam até pelo menos terminar o ensaio pra receber sua recompensa."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv005.rpy:556
 translate portuguese sm1cs_kv005_part_3_a1f184e9_9:
