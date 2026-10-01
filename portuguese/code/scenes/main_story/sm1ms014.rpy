@@ -242,7 +242,7 @@ translate portuguese sm1ms014_aa5c8ab7:
 translate portuguese sm1ms014_eb420209:
 
     # my "Did my kids turn into weird, doomsday preppers? Have I failed as a mother?"
-    my "Os meus filhos viraram aqueles loucos que preparam para o fim do mundo? Eu falei como mãe?"
+    my "Os meus filhos viraram aqueles loucos que preparam para o fim do mundo? Eu falhei como mãe?"
 
 # game/code/scenes/main_story/sm1ms014.rpy:129
 translate portuguese sm1ms014_117d4a38:
@@ -284,7 +284,7 @@ translate portuguese sm1ms014_a6113e86:
 translate portuguese sm1ms014_7a47f6f8:
 
     # my "It's like the first time one of my nudes was shown."
-    my "É tipo a primeira vez que mostrar um dos meus nudes."
+    my "É tipo a primeira vez que um dos meus nudes foi mostrado."
 
 # game/code/scenes/main_story/sm1ms014.rpy:151
 translate portuguese sm1ms014_71b6caf5:
@@ -494,7 +494,7 @@ translate portuguese sm1ms014_after_montage_802d7d84:
 translate portuguese sm1ms014_after_montage_a4fe9036:
 
     # sy "Yeah, but we finished the Faraday cage in a day!"
-    sy "Sim, mas fizemos aquela Jaula de Faraday e um dia!"
+    sy "Sim, mas fizemos aquela Jaula de Faraday em um dia!"
 
 # game/code/scenes/main_story/sm1ms014.rpy:278
 translate portuguese sm1ms014_after_montage_fe4858ba:
@@ -524,7 +524,7 @@ translate portuguese sm1ms014_after_montage_4b514594:
 translate portuguese sm1ms014_after_montage_74a51b0b:
 
     # my "Wow... I didn't realize it was that bad."
-    my "Nossa... não sabe que estava tão ruim assim."
+    my "Nossa... não sabia que estava tão ruim assim."
 
 # game/code/scenes/main_story/sm1ms014.rpy:289
 translate portuguese sm1ms014_after_montage_7d1eb743:
@@ -602,7 +602,7 @@ translate portuguese sm1ms014_after_montage_30e1c008:
 translate portuguese sm1ms014_after_montage_1852c410:
 
     # my "Mmhmmm. Well, if you are, then I can ask you how you plan to make these videos."
-    my "Mmhmmm. Bem, se está mesmo, então posso te perguntar como que a gente fazer esses vídeos."
+    my "Mmhmmm. Bem, se está mesmo, então posso te perguntar como que planeja fazer esses vídeos?"
 
 # game/code/scenes/main_story/sm1ms014.rpy:323
 translate portuguese sm1ms014_after_montage_f34ff9ed:
@@ -620,7 +620,7 @@ translate portuguese sm1ms014_after_montage_2582424a:
 translate portuguese sm1ms014_after_montage_068214c8:
 
     # mc "Uhm, yep. St-t - I don't know enough about camera stuff to do it myself, so I found someone who did."
-    mc "Ahm, sim. A St- Eu não sei muito de sobre câmeras, então arrumei alguém que sabe."
+    mc "Ahm, sim. A St- Eu não conheço muito de câmeras, então arrumei alguém que sabe."
 
 # game/code/scenes/main_story/sm1ms014.rpy:331
 translate portuguese sm1ms014_after_montage_76a01fc5:
@@ -662,7 +662,7 @@ translate portuguese sm1ms014_after_montage_a74003f7:
 translate portuguese sm1ms014_after_montage_56d7e8ef:
 
     # mc "Erm... she's someone I work - or used to work with."
-    mc "Ahm... Ela ela é uma pessoa que trabalha - ou melhor trabalhava comigo."
+    mc "Ahm... ela é uma pessoa que trabalha - ou melhor trabalhava comigo."
 
 # game/code/scenes/main_story/sm1ms014.rpy:357
 translate portuguese sm1ms014_after_montage_77ba9427:
@@ -680,7 +680,7 @@ translate portuguese sm1ms014_after_montage_fbd860ac:
 translate portuguese sm1ms014_after_montage_2397f0ef:
 
     # my "What are you even doing for work right now?"
-    my "E você está trabalhando trabalhando com o que agora?"
+    my "E você está trabalhando com o quê agora?"
 
 # game/code/scenes/main_story/sm1ms014.rpy:366
 translate portuguese sm1ms014_after_montage_56d5565c:
@@ -824,7 +824,7 @@ translate portuguese sm1ms014_after_montage_edf93c3f:
 translate portuguese sm1ms014_after_montage_5456032e:
 
     # my "Just, promise me you'll at least keep school in the back of your mind as an alternative."
-    my "Você não promete que vai lembrar da faculdade como alternativa."
+    my "Só promete que vai pelo menos deixar a faculdade como alternativa."
 
 # game/code/scenes/main_story/sm1ms014.rpy:428
 translate portuguese sm1ms014_after_montage_a7f1a632:
@@ -884,7 +884,7 @@ translate portuguese sm1ms014_after_montage_ee080c14:
 translate portuguese sm1ms014_after_montage_cd22cd49:
 
     # my "I'll see you tomorrow, Stacy! And keep [mcname] out of trouble."
-    my "Nos vamos amanhã, Stacy! E deixa o [mcname] longe de encrenca."
+    my "Nos vemos amanhã, Stacy! E deixa o [mcname] longe de encrenca."
 
 # game/code/scenes/main_story/sm1ms014.rpy:459
 translate portuguese sm1ms014_after_montage_f2ee99d0:
@@ -932,7 +932,7 @@ translate portuguese sm1ms014_after_montage_d3384d6e:
 translate portuguese sm1ms014_after_montage_75dd7bbe:
 
     # sy "At least she sounds like she's warming up to the idea."
-    sy "Pelo menos parece que ela tá começando a gostar de ideia."
+    sy "Pelo menos parece que ela tá começando a gostar da ideia."
 
 # game/code/scenes/main_story/sm1ms014.rpy:483
 translate portuguese sm1ms014_after_montage_2a5177f5:
@@ -968,13 +968,13 @@ translate portuguese sm1ms014_after_montage_bb7949c6:
 translate portuguese sm1ms014_after_montage_86d104ef:
 
     # sy "We should get those stairs installed though so we don't have to do some goofy climbing to get up there."
-    sy "Mas é bom em instalar a escada pra ficar mais acessível lá em cima."
+    sy "Mas é bom instalar a escada pra ficar mais acessível lá em cima."
 
 # game/code/scenes/main_story/sm1ms014.rpy:501
 translate portuguese sm1ms014_after_montage_192528cb:
 
     # mc "I'll see if I can get some good stairs delivered. We can install those next time we can carve out some time for the renovation."
-    mc "Vou ver se  mando entregar uma escada. Dá pra gente instalar quando arrumar mais um tempo pra reforma."
+    mc "Vou ver se mando entregar uma escada. Dá pra gente instalar quando arrumar mais um tempo pra reforma."
 
 # game/code/scenes/main_story/sm1ms014.rpy:505
 translate portuguese sm1ms014_after_montage_ea7e6e3e:
@@ -1022,7 +1022,7 @@ translate portuguese sm1ms014_after_montage_2404c756:
 translate portuguese sm1ms014_after_montage_21c0361b:
 
     # sy "In that case, I'm going to shower. I worked up quite the sweat today!"
-    sy "Nesse caso vou, tomar um banho. Suei bastante hoje!"
+    sy "Nesse caso, eu vou tomar um banho. Hoje eu dei uma suada!"
 
 # game/code/scenes/main_story/sm1ms014.rpy:525
 translate portuguese sm1ms014_after_montage_a49cf275:
