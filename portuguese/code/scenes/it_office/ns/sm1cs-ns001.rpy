@@ -122,7 +122,7 @@ translate portuguese sm1cs_ns001_cafeteria_46b0c6cc:
 translate portuguese sm1cs_ns001_cafeteria_9cb8a31d:
 
     # ns "Will this work?"
-    ns "Vai dar certo sim?"
+    ns "Vai dar certo assim?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:95
 translate portuguese sm1cs_ns001_cafeteria_85785fdb:
@@ -152,7 +152,7 @@ translate portuguese sm1cs_ns001_cafeteria_e2264395:
 translate portuguese sm1cs_ns001_cafeteria_91732bd9:
 
     # mct "Don't say sex. Don't say sex."
-    mct "Não fala sexo. Não fala o sexo."
+    mct "Não fala sexo. Não fala sexo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:114
 translate portuguese sm1cs_ns001_cafeteria_6ae09feb:
@@ -188,13 +188,13 @@ translate portuguese sm1cs_ns001_cafeteria_63ff33a6:
 translate portuguese sm1cs_ns001_cafeteria_8244137b:
 
     # mc "Maybe. It's nothing like leaving your home and starting somewhere brand new."
-    mc "Talvez. É bem diferente de sair de casa tentar algo completamente novo."
+    mc "Talvez. É bem diferente de sair de casa começar num lugar completamente novo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:131
 translate portuguese sm1cs_ns001_cafeteria_1a006763:
 
     # mc "So can I ask why you left Korea?"
-    mc "Então, posso te perguntar porque saiu da Coreia?"
+    mc "Então, posso te perguntar por que saiu da Coreia?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:134
 translate portuguese sm1cs_ns001_cafeteria_97d3d6fd:
@@ -206,7 +206,7 @@ translate portuguese sm1cs_ns001_cafeteria_97d3d6fd:
 translate portuguese sm1cs_ns001_cafeteria_5fb35389:
 
     # ns "I was happy. But it felt like a \"strange\" happy. Like a soldier who is \"happy\" to serve their country. Not the \"happy\" I saw in TV shows and movies."
-    ns "Eu estava feliz. Mas era uma felicidade \"estranha\". Como um soldado que é \"feliz\" em servir seu país. Não o tipo de \"felicidade\" que eu vis nos shows de TV e filmes."
+    ns "Eu estava feliz. Mas era uma felicidade \"estranha\". Como um soldado que é \"feliz\" em servir seu país. Não o tipo de \"felicidade\" que eu vi nos shows de TV e filmes."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:139
 translate portuguese sm1cs_ns001_cafeteria_1cfd9290:
@@ -230,7 +230,7 @@ translate portuguese sm1cs_ns001_cafeteria_19fbf109:
 translate portuguese sm1cs_ns001_cafeteria_db63051d:
 
     # ns "Yes. It's funny. We have more in common than I imagined."
-    ns "Sim. Engraçado. Temos mais em comum que eu achei."
+    ns "Sim. Engraçado. Temos mais em comum do que achei."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:159
 translate portuguese sm1cs_ns001_menu_e211405a:
@@ -386,7 +386,7 @@ translate portuguese sm1cs_ns001_continue_606e2d02:
 translate portuguese sm1cs_ns001_continue_3910922c:
 
     # ns "I caught April looking over my shoulder earlier. I was so embarrassed. I thought I had done something wrong or said something wrong."
-    ns "Eu peguei a April olhando pelas minhas costas. Fiquei com tanta vergonha. Eu achei que tinha feito ou falado algo errado."
+    ns "Eu peguei a April olhando por cima do meu ombro. Fiquei com tanta vergonha. Eu achei que tinha feito ou falado algo errado."
 
 # game/code/scenes/it_office/ns/sm1cs-ns001.rpy:252
 translate portuguese sm1cs_ns001_continue_d5326a7a:
