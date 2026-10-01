@@ -14,7 +14,7 @@ translate portuguese sm1ms007_05500ff6:
 translate portuguese sm1ms007_12b9a5d9:
 
     # sy "We're doing something we love, and it gives us the freedom just to run out and have lunch whenever we want."
-    sy "Estamos fazendo algo que amamos, e isso dà a liberdade da gente sair e almoçar quando der vontade."
+    sy "Estamos fazendo algo que amamos, e isso dá a liberdade da gente sair e almoçar quando der vontade."
 
 # game/code/scenes/main_story/sm1ms007.rpy:28
 translate portuguese sm1ms007_ffd709a6:
@@ -50,7 +50,7 @@ translate portuguese sm1ms007_c8aaf61f:
 translate portuguese sm1ms007_2abcf3a5:
 
     # mc "You're right. And all that hard work deserves a nice lunch."
-    mc "Verdade.  E todo esse trabalho duro merece um almoço legal."
+    mc "Verdade. E todo esse trabalho duro merece um almoço legal."
 
 # game/code/scenes/main_story/sm1ms007.rpy:45
 translate portuguese sm1ms007_6d8543de:
@@ -98,7 +98,7 @@ translate portuguese sm1ms007_2390fbe2:
 translate portuguese sm1ms007_f108e8d4:
 
     # sy "I'm just saying that it's not like we've had an easy time getting the studio going."
-    sy "Não tô falando que foi fácil começaro estúdio. "
+    sy "Só digo que não é como se tivesse sido fácil começar esse estúdio. "
 
 # game/code/scenes/main_story/sm1ms007.rpy:65
 translate portuguese sm1ms007_17af55c0:
@@ -134,7 +134,7 @@ translate portuguese sm1ms007_6ca317c3:
 translate portuguese sm1ms007_after_choice_0c013255:
 
     # sy "All our hard work is starting to pay off, [mcname]."
-    sy " Todo o nosso trabalhando tá valendo a pena, [mcname]."
+    sy "Todo o nosso trabalho tá valendo a pena, [mcname]."
 
 # game/code/scenes/main_story/sm1ms007.rpy:87
 translate portuguese sm1ms007_after_choice_b2b9e19d:
@@ -170,13 +170,13 @@ translate portuguese sm1ms007_after_choice_6da629fc:
 translate portuguese sm1ms007_after_choice_66aa9d87:
 
     # sy "Oh, and they specifically requested some spanking, which should be very easy for us to do."
-    sy "Ah, e pediram especificamente por palmadas, deve ser de bem fácil pra gente fazer."
+    sy "Ah, e pediram especificamente por palmadas, acho que seria bem fácil da gente fazer."
 
 # game/code/scenes/main_story/sm1ms007.rpy:101
 translate portuguese sm1ms007_after_choice_08d42b34:
 
     # mc "Us? You don't want me to ask one of the candidates to do it?"
-    mc "Nós dois? Não quer perguntar uma das candidatas?"
+    mc "Nós dois? Não quer ver se uma das candidatas faz?"
 
 # game/code/scenes/main_story/sm1ms007.rpy:104
 translate portuguese sm1ms007_after_choice_790de301:
@@ -194,7 +194,7 @@ translate portuguese sm1ms007_after_choice_bafdb902:
 translate portuguese sm1ms007_after_choice_1634f94f:
 
     # sy "I want to put our best foot forward, so I'll be your co-star for this one."
-    sy "Quero causar alguma impressão, então dessa vez vou participar com você."
+    sy "Quero causar uma boa impressão, então dessa vez vou participar com você."
 
 # game/code/scenes/main_story/sm1ms007.rpy:110
 translate portuguese sm1ms007_after_choice_b4905938:
@@ -284,7 +284,7 @@ translate portuguese sm1ms007_after_choice_dc16ebcd:
 translate portuguese sm1ms007_after_choice_5bb45181:
 
     # mc "This is really great, Stacy. Our first gig. I can't believe it."
-    mc "Isso é tão dahora, Stacy. Nosso primeiro tempo. Não dá nem pra acreditar."
+    mc "Isso é tão dahora, Stacy. Nosso primeiro trampo. Não dá nem pra acreditar."
 
 # game/code/scenes/main_story/sm1ms007.rpy:145
 translate portuguese sm1ms007_after_choice_3dcd9b45:
@@ -404,7 +404,7 @@ translate portuguese sm1ms007_after_choice_4b4eb5f3:
 translate portuguese sm1ms007_after_choice_6b15ca45:
 
     # mc "Yes. I wanted to take you out for a special lunch date to show you how much I appreciate all the work {b}you've{/b} been doing for the studio."
-    mc "Sim, eu queria te levar num encontro especial pra te mostrar o quanto eu aprecio todo o esforço que {i}você{/i} teve pelo estúdio."
+    mc "Sim, eu queria te levar num encontro especial pra te mostrar o quanto eu aprecio todo o esforço que {i}você{/i} fez pelo estúdio."
 
 # game/code/scenes/main_story/sm1ms007.rpy:210
 translate portuguese sm1ms007_after_choice_4fe4d74b:
