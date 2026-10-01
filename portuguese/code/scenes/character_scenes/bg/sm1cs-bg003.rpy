@@ -338,7 +338,7 @@ translate portuguese sm1cs_bg003_c1477d1c:
 translate portuguese sm1cs_bg003_59586eab:
 
     # mc "I'm just looking for Amore. If this is my outfit, I wonder what she's going to be wearing."
-    mc "Estava procurando a Amore. Se essa é a minha roupa. Quero é ver a dela."
+    mc "Estava procurando a Amore. Se essa é a minha roupa, quero é ver a dela."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:223
 translate portuguese sm1cs_bg003_f9f6d460:
@@ -698,7 +698,7 @@ translate portuguese sm1cs_bg003_bg_appears_254c02ea:
 translate portuguese sm1cs_bg003_bg_appears_2a0ca2c5:
 
     # kv "No, ma'am. Because we still have more shooting to do!"
-    kv "Não senhora. Porque ainda tem mais coisa pra filmar!"
+    kv "Não senhora. Porque ainda tem mais coisa pra gravar!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:415
 translate portuguese sm1cs_bg003_bg_appears_b8850487:
@@ -848,7 +848,7 @@ translate portuguese sm1cs_bg003_whipping_d6d50148:
 translate portuguese sm1cs_bg003_whipping_91d8a70c:
 
     # mc "You okay?"
-    mc "Tudo  bem?"
+    mc "Tudo bem?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:497
 translate portuguese sm1cs_bg003_whipping_63223b73:
@@ -1052,7 +1052,7 @@ translate portuguese sm1cs_bg003_whipping_2dc8bdac:
 translate portuguese sm1cs_bg003_whipping_4a69c6be:
 
     # bg "I don't know what you're talking about..."
-    bg "Não sei o que você tá falando..."
+    bg "Não sei do que você tá falando..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:598
 translate portuguese sm1cs_bg003_whipping_f1bd57e4:
@@ -1070,7 +1070,7 @@ translate portuguese sm1cs_bg003_whipping_39d357bf_1:
 translate portuguese sm1cs_bg003_whipping_e6c3ceda:
 
     # kv "I guess I will then.{w} [mcname], pull out your cock and lay down. Head towards me."
-    kv "Então acho que vai ser eu mesmo.{w} [mcname], põe o pau pra fora e deita. Com a cabeça virada pra mim."
+    kv "Então acho que vai ser eu mesma.{w} [mcname], põe o pau pra fora e deita. Com a cabeça virada pra mim."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:608
 translate portuguese sm1cs_bg003_whipping_e613fa07:
@@ -1232,7 +1232,7 @@ translate portuguese sm1cs_bg003_whipping_3000a9a9:
 translate portuguese sm1cs_bg003_whipping_4a689692:
 
     # mc "Amore... you stroke my cock like a good, little slut."
-    mc "Amore... você esfrega um pau como uma boa putinha."
+    mc "Amore... você esfrega o meu pau como uma boa putinha."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:679
 translate portuguese sm1cs_bg003_whipping_39decf51_10:
@@ -1310,7 +1310,7 @@ translate portuguese sm1cs_bg003_whipping_010c964a:
 translate portuguese sm1cs_bg003_whipping_aa1af39d:
 
     # bg "Oh my God, I just realized I started calling you Master!"
-    bg "Meu Deus do céu,  acabei de perceber que estava te chamando de Mestre!"
+    bg "Meu Deus do céu, acabei de perceber que estava te chamando de Mestre!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:710
 translate portuguese sm1cs_bg003_whipping_41c21483:
@@ -1400,7 +1400,7 @@ translate portuguese sm1cs_bg003_whipping_c727462d:
 translate portuguese sm1cs_bg003_whipping_30086ee7:
 
     # mc "Well, what do you think, Amore? What are you comfortable with?"
-    mc "O que você acha, Amore. O que você tem vontade de fazer?"
+    mc "O que acha, Amore? O que você tem vontade de fazer?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:775
 translate portuguese sm1cs_bg003_whipping_d5a192e5:
@@ -1532,7 +1532,7 @@ translate portuguese sm1cs_bg003_continue_73760558:
 translate portuguese sm1cs_bg003_continue_e89b411b:
 
     # bg "I do, [bg_mcname!t]."
-    bg "Sim,  [bg_mcname!t]."
+    bg "Sim, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:838
 translate portuguese sm1cs_bg003_continue_39decf51_2:
@@ -1562,7 +1562,7 @@ translate portuguese sm1cs_bg003_continue_80b17ac5:
 translate portuguese sm1cs_bg003_continue_1ad962f3_3:
 
     # bg "Yes, [bg_mcname!t]."
-    bg "Sim,  [bg_mcname!t]."
+    bg "Sim, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:847
 translate portuguese sm1cs_bg003_continue_53135768:
@@ -1604,7 +1604,7 @@ translate portuguese sm1cs_bg003_continue_cbf159ed:
 translate portuguese sm1cs_bg003_continue_87e26eb2:
 
     # mc "Good girl."
-    mc "Boa menina. "
+    mc "Boa menina."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:875
 translate portuguese sm1cs_bg003_continue_9c95fbec:
@@ -1616,7 +1616,7 @@ translate portuguese sm1cs_bg003_continue_9c95fbec:
 translate portuguese sm1cs_bg003_continue_1ad962f3_5:
 
     # bg "Yes, [bg_mcname!t]."
-    bg "Sim,  [bg_mcname!t]."
+    bg "Sim, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:885
 translate portuguese sm1cs_bg003_continue_f4750b45:
@@ -1880,7 +1880,7 @@ translate portuguese sm1cs_bg003_continue_5ae02598:
 translate portuguese sm1cs_bg003_continue_c43ac53b:
 
     # kv "But, it's also new, so she doesn't exactly know what she's doing. And she's not even sure she's entirely ready for it."
-    kv "Mas é tudo tão novo que ela não sabe exatamente o que faz. E nem tem certeza se tá completamente pronta. "
+    kv "Mas é tudo tão novo que ela não sabe exatamente o que faz. E nem tem certeza se tá completamente pronta."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg003.rpy:988
 translate portuguese sm1cs_bg003_continue_27a5909a:
