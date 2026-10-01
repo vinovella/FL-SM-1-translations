@@ -206,7 +206,7 @@ translate portuguese sm1cs_am005_hours_later_8d2b864e:
 translate portuguese sm1cs_am005_sex_1_70d74354:
 
     # mc "Ah. So it wasn't about me. It was just about who was close."
-    mc "Ah. Então não sobre mim. Era só quem estava por perto."
+    mc "Ah. Então não era sobre mim. Era só quem estava por perto."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:190
 translate portuguese sm1cs_am005_sex_1_1c8acf17:
@@ -332,7 +332,7 @@ translate portuguese sm1cs_am005_sex_1_11455b53:
 translate portuguese sm1cs_am005_sex_1_343269bc:
 
     # mc "You didn't want our first time to be like that?"
-    mc "Você não queria que a nossa primeira vez fosse daquele jeito."
+    mc "Você não queria que a nossa primeira vez fosse daquele jeito?"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:266
 translate portuguese sm1cs_am005_sex_1_7c2603c6:
@@ -434,7 +434,7 @@ translate portuguese sm1cs_am005_no_sex_1_57999f2a:
 translate portuguese sm1cs_am005_no_sex_1_f0833100:
 
     # mc "It didn't feel serious."
-    mc "Não apareceu séria."
+    mc "Não pareceu séria."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:345
 translate portuguese sm1cs_am005_no_sex_1_207804b6:
@@ -812,7 +812,7 @@ translate portuguese sm1cs_am005_no_sex_2_3cd6a3e6:
 translate portuguese sm1cs_am005_no_sex_2_6dd8309c:
 
     # am "Testing out a cooperative longevity growth exercise."
-    am "Testando exercícios corporativos de crescimento de longevidade."
+    am "Testando um exercício de crescimento e longevidade cooporativo."
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:535
 translate portuguese sm1cs_am005_no_sex_2_932c3766:
@@ -896,7 +896,7 @@ translate portuguese sm1cs_am005_no_sex_3_d39ea885:
 translate portuguese sm1cs_am005_no_sex_3_13c3b3ea:
 
     # mct "What the hell is the Antebellum Era?"
-    mct "Que porra é Antebellum?"
+    mct "Que porra é tempos Antebellum?"
 
 # game/code/scenes/it_office/am/sm1cs-am005.rpy:584
 translate portuguese sm1cs_am005_no_sex_3_ffa2f81f:
@@ -952,7 +952,7 @@ translate portuguese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:136
     old "Put an end to things with April"
-    new "Por um fim nas coisas com a April"
+    new "Pôr um fim nas coisas com a April"
 
     # game/code/scenes/it_office/am/sm1cs-am005.rpy:136
     old "Be patient"
