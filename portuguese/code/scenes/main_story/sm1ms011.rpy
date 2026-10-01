@@ -68,7 +68,7 @@ translate portuguese sm1ms011_c0af0395:
 translate portuguese sm1ms011_bdfd5061:
 
     # sy "I've discovered some other {b}jobs{/b} in the city."
-    sy "Encontrei outros {i}empregos{/i} na cidade."
+    sy "Encontrei outros {b}empregos{/b} na cidade."
 
 # game/code/scenes/main_story/sm1ms011.rpy:65
 translate portuguese sm1ms011_59d24e9f:
