@@ -50,7 +50,7 @@ translate portuguese sm1ms005_02i_0a3688e6:
 translate portuguese sm1ms005_02i_db837775:
 
     # mc "I think we slow it down and have some of that romantic passion."
-    mc "Acho que vou dar uma relaxada com um pouquinho de paixão romântica."
+    mc "Acho melhor a gente dar uma relaxada com um pouquinho de paixão romântica."
 
 translate portuguese strings:
 
