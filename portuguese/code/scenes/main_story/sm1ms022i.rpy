@@ -58,7 +58,7 @@ translate portuguese strings:
 
     # game/code/scenes/main_story/sm1ms022i.rpy:10
     old "I'm too tired..."
-    new "Tô cansado demais"
+    new "Tô cansado demais..."
 
     # game/code/scenes/main_story/sm1ms022i.rpy:12
     old "Kanya's compensation"
