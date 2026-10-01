@@ -134,7 +134,7 @@ translate portuguese sm1ms019_219260b3:
 translate portuguese sm1ms019_b5b0c143:
 
     # mc "It really does. I mean, I don't know why you put the diamond in there, though..."
-    mc "Parece mesmo. Tipo, só não sei porque você botou o diamante aqui..."
+    mc "Parece mesmo. Tipo, só não sei por que você botou o diamante aqui..."
 
 # game/code/scenes/main_story/sm1ms019.rpy:129
 translate portuguese sm1ms019_6e51a8f1:
@@ -176,7 +176,7 @@ translate portuguese sm1ms019_6bfc74d9:
 translate portuguese sm1ms019_3a67ccd1:
 
     # my "That's just... surprisingly insightful, Stacy."
-    my "Isso foi... bem introspectiva, Stacy."
+    my "Isso foi... bem introspectivo, Stacy."
 
 # game/code/scenes/main_story/sm1ms019.rpy:146
 translate portuguese sm1ms019_a1c3834c:
@@ -200,13 +200,13 @@ translate portuguese sm1ms019_c6b34962:
 translate portuguese sm1ms019_827e7ab4:
 
     # my "Because, even though you both get into a shocking amount of trouble..."
-    my "Porque, por mais que vocês se encantem bastante..."
+    my "Porque, por mais que vocês se encrenquem bastante..."
 
 # game/code/scenes/main_story/sm1ms019.rpy:156
 translate portuguese sm1ms019_100f7be8:
 
     # my "When you two are together, you manage to keep each other... well, you manage to help each other out of trouble."
-    my "Quando estamos junto, consegue manter o outro... bem, conseguem tirar o outro de encrencas."
+    my "Quando estão juntos, conseguem se manter... bem, conseguem tirar o outro de encrencas."
 
 # game/code/scenes/main_story/sm1ms019.rpy:159
 translate portuguese sm1ms019_98c46765:
@@ -380,7 +380,7 @@ translate portuguese sm1ms019_867078ec:
 translate portuguese sm1ms019_64fd3f73:
 
     # sy "The whole first floor is for business, and the second floor is for pleasure!"
-    sy "O primeiro andar ficou todo pros negócios, e o segundo é pro trazer!"
+    sy "O primeiro andar ficou todo pros negócios, e o segundo é pro prazer!"
 
 # game/code/scenes/main_story/sm1ms019.rpy:251
 translate portuguese sm1ms019_2c52881c:
@@ -662,7 +662,7 @@ translate portuguese sm1ms019_02c1cf83:
 translate portuguese sm1ms019_19e0ea3f:
 
     # my "I do wish college was on the table, but you seem happy. And you are passionate about it."
-    my "Eu queria que a faculdade estivesse nos planos, mas você parece feliz. E está levando essa sério."
+    my "Eu queria que a faculdade estivesse nos planos, mas você parece feliz. E está levando isso a sério."
 
 # game/code/scenes/main_story/sm1ms019.rpy:393
 translate portuguese sm1ms019_1430b9f6:
@@ -890,7 +890,7 @@ translate portuguese sm1ms019_701d2464:
 translate portuguese sm1ms019_7ba98047:
 
     # sy "What did you think she meant by \"her assets\"?"
-    sy "Do que você acha que ela estava falando com \"atributos\"?"
+    sy "O que você acha que ela quis dizer com \"atributos\"?"
 
 # game/code/scenes/main_story/sm1ms019.rpy:514
 translate portuguese sm1ms019_3a7222f2:
@@ -920,19 +920,19 @@ translate portuguese sm1ms019_fbef364b:
 translate portuguese sm1ms019_32eda1d8:
 
     # sy "Well, then there was her sticking out her ass every chance she got."
-    sy "E também ele estava balançando a bunda sempre que podia."
+    sy "E ela também estava balançando a bunda sempre que podia."
 
 # game/code/scenes/main_story/sm1ms019.rpy:530
 translate portuguese sm1ms019_d4e6e71d:
 
     # mc "Or she was just bending over like a normal person."
-    mc "Ou estava se curvando quem nem uma pessoa normal."
+    mc "Ou estava se curvando que nem uma pessoa normal."
 
 # game/code/scenes/main_story/sm1ms019.rpy:533
 translate portuguese sm1ms019_09fc5fd4:
 
     # sy "With an ass like that, there's no just \"bending over like a normal person\", [mcname]."
-    sy "[mcname], com uma bunda dessa, duvido cem por cento que ela estava \"se curvando quem nem uma pessoa normal\"."
+    sy "[mcname], com uma bunda dessa, duvido cem por cento que ela estava \"se curvando que nem uma pessoa normal\"."
 
 # game/code/scenes/main_story/sm1ms019.rpy:536
 translate portuguese sm1ms019_3fd42d9e:
@@ -944,7 +944,7 @@ translate portuguese sm1ms019_3fd42d9e:
 translate portuguese sm1ms019_8c6e64d6:
 
     # sy "Maybe... but, maybe not."
-    sy "Talvez sim..que talvez não."
+    sy "Talvez sim... mas talvez não."
 
 # game/code/scenes/main_story/sm1ms019.rpy:541
 translate portuguese sm1ms019_9c728279:
@@ -1106,7 +1106,7 @@ translate portuguese sm1ms019_09613f74:
 translate portuguese sm1ms019_0d1b0e1b:
 
     # mct "Melony wouldn't... couldn't think about me like that."
-    mct "A Melony Mãe não... me veria dessa forma."
+    mct "A Melony não... me veria dessa forma."
 
 # game/code/scenes/main_story/sm1ms019.rpy:600
 translate portuguese sm1ms019_8434868a:
@@ -1124,7 +1124,7 @@ translate portuguese sm1ms019_5fad6ca2:
 translate portuguese sm1ms019_68366664:
 
     # mct "But when has Stacy been wrong?"
-    mct "Mas quanto que a Stacy esteve errada?"
+    mct "Mas quando que a Stacy já esteve errada?"
 
 # game/code/scenes/main_story/sm1ms019.rpy:607
 translate portuguese sm1ms019_192ae982:
