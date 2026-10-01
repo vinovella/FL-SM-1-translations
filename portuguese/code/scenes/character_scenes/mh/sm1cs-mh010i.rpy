@@ -50,7 +50,7 @@ translate portuguese sm1cs_mh010i_a6315bae:
 translate portuguese sm1cs_mh010i_35e855fa:
 
     # sy "Can I see!?!"
-    sy "Posso ver?"
+    sy "Posso ver!?!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh010i.rpy:26
 translate portuguese sm1cs_mh010i_b9c86464:
