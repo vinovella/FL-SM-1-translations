@@ -80,7 +80,7 @@ translate portuguese sm1cs_mh002_0a61af96:
 translate portuguese sm1cs_mh002_ebd8c616:
 
     # mh "Well, look what the cat dragged in."
-    mh "Olha só o que o gato troxe."
+    mh "Olha só o que o gato trouxe."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:76
 translate portuguese sm1cs_mh002_63ff37cc:
@@ -236,7 +236,7 @@ translate portuguese sm1cs_mh002_c9196c70:
 translate portuguese sm1cs_mh002_a6daa70f:
 
     # sy "So we figured, why not build something amazing with our knowledge and expertise."
-    sy "Então eu pensei, por que não construir algo incrível com o nosso conhecimento e experiência?"
+    sy "Então pensamos tipo, por que não construir algo incrível com o nosso conhecimento e experiência?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:147
 translate portuguese sm1cs_mh002_55f0c47c:
@@ -356,7 +356,7 @@ translate portuguese sm1cs_mh002_2b383daa:
 translate portuguese sm1cs_mh002_99ac3410:
 
     # sy "So is that one favor from both of us? Or one favor from each of us."
-    sy "Então, é um favor ao todo que vamos ficar devendo? Ou é um favor de cada?"
+    sy "Então, é um favor ao todo que vamos ficar devendo? Ou é tipo um favor de cada?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh002.rpy:212
 translate portuguese sm1cs_mh002_956f0b53:
