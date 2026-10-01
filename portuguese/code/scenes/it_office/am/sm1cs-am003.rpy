@@ -116,7 +116,7 @@ translate portuguese sm1cs_am003_64d97158:
 translate portuguese sm1cs_am003_db88d856:
 
     # am "You mean Anna asked you to check on me."
-    am "Quer dizer que a Anna pediu pra dar uma olhada."
+    am "Quer dizer que a Anna pediu pra dar uma olhada em mim."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:96
 translate portuguese sm1cs_am003_4ced708b:
@@ -146,7 +146,7 @@ translate portuguese sm1cs_am003_246b96f0:
 translate portuguese sm1cs_am003_81fb0059:
 
     # mc "Maybe the first time is teasing. I think you're into the double digits now."
-    mc "Talvez da primeira vez seja só  bagunçando. Mas você já chegou nos dois dígitos."
+    mc "Talvez da primeira vez seja só bagunçando. Mas você já chegou nos dois dígitos."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:117
 translate portuguese sm1cs_am003_9b36aebd:
@@ -182,7 +182,7 @@ translate portuguese sm1cs_am003_226d5b69:
 translate portuguese sm1cs_am003_5c53c85f:
 
     # am "Yeah.{w} Maybe I was wrong about you, [mcname]."
-    am "É.{w} Talvez eu estava errado sobre você, [mcname]."
+    am "É.{w} Talvez eu estava errada sobre você, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:148
 translate portuguese sm1cs_am003_1446f8b8:
@@ -272,7 +272,7 @@ translate portuguese sm1cs_am003_b489f3ff:
 translate portuguese sm1cs_am003_80588ed2:
 
     # am "You didn't download a copy of the file to show me?"
-    am "Você não baixou uma cópia do arquivo para mim mostrar?"
+    am "Você não baixou uma cópia do arquivo para me mostrar?"
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:200
 translate portuguese sm1cs_am003_ebdb91ef:
@@ -296,7 +296,7 @@ translate portuguese sm1cs_am003_db8c188d:
 translate portuguese sm1cs_am003_88b8407f:
 
     # mc "And you could come with me. It's only a short walk."
-    mc "E você podia vir comigo. Só preciso andar um pouquinho."
+    mc "E você podia vir comigo. É uma caminhada curta."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:213
 translate portuguese sm1cs_am003_226d75de:
@@ -458,7 +458,7 @@ translate portuguese sm1cs_am003_454ffb73:
 translate portuguese sm1cs_am003_7467dc14:
 
     # am "Pepper is one of my bandmates. We uh... we're going through a rough spot right now, and if someone on the band calls, you pretty much have to pick it up."
-    am "Pepper é da banda. Nós... estamos passando por certos problemas agora, e se alguém dá a banda ligar, você vai ter que atender."
+    am "Pepper é da banda. Nós... estamos passando por certos problemas agora, e se alguém da banda ligar, você vai ter que atender."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:355
 translate portuguese sm1cs_am003_3a38c822:
@@ -536,7 +536,7 @@ translate portuguese sm1cs_am003_9e9df1f2:
 translate portuguese sm1cs_am003_805458e5:
 
     # am "Listen. I'm not... {w}I tend to keep people at an arm's length."
-    am "Olha. Eu não... {w}Eu geralmente mantenho distância das pessoa."
+    am "Olha. Eu não... {w}Eu geralmente mantenho distância das pessoas."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:401
 translate portuguese sm1cs_am003_de1cb490:
@@ -608,7 +608,7 @@ translate portuguese sm1cs_am003_c9f42f7c:
 translate portuguese sm1cs_am003_bf74be9b:
 
     # am "I need to get going. But I'll see you at work. Either at the park or back in the mines."
-    am " Tenho que ir nessa. Mas te vejo lá no trabalho. Ou no parque ou de volta nas minas."
+    am "Tenho que ir nessa. Mas te vejo lá no trabalho. Ou no parque ou de volta na mina."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:456
 translate portuguese sm1cs_am003_cf1adef2:
@@ -650,7 +650,7 @@ translate portuguese sm1cs_am003_036946db:
 translate portuguese sm1cs_am003_d8bc74dd:
 
     # am "So... don't come if you're too straight-laced. Our music can be a lot for squares like you."
-    am "Então... não vem se você for todo certinho. Na nossa música pode ser bem pesada pra ente cafona que nem você."
+    am "Então... não vem se você for todo certinho. Na nossa música pode ser bem pesada pra gente cafona que nem você."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:490
 translate portuguese sm1cs_am003_4870abea:
@@ -680,7 +680,7 @@ translate portuguese sm1cs_am003_7680d563:
 translate portuguese sm1cs_am003_f8966040:
 
     # mct "Even money she's about to get weird again and call me a name."
-    mct "Aposto que ela vai ficar estranha de novo e me chamar de algum nome."
+    mct "Aposto que ela vai ficar estranha de novo e me chamar de alguma coisa."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:510
 translate portuguese sm1cs_am003_6d4c05f2:
@@ -798,7 +798,7 @@ translate portuguese sm1cs_am003_8a8d91f6:
 translate portuguese sm1cs_am003_b4235cd6:
 
     # mc "I didn't study IT at college, but I've always been a fast learner.{w} Teach me, I'm ready to learn at your feet, April."
-    mc "Nunca estudei TI na faculdade, mas sempre aprendi rápido.{w} Me ensina, tô pronto pra aprender com você, April."
+    mc "Não estudei TI na faculdade, mas sempre aprendi rápido.{w} Me ensina, tô pronto pra aprender aos seus pés, April."
 
 # game/code/scenes/it_office/am/sm1cs-am003.rpy:155
 translate portuguese sm1cs_am003_e9ac1b53:
