@@ -14,13 +14,13 @@ translate portuguese sm1cs_mh005_c7b99930:
 translate portuguese sm1cs_mh005_0616f80e:
 
     # mh "I wouldn't mind kicking your ass in air hockey again."
-    mh "Eu não me importaria de te denotar de novo no hockey de mesa."
+    mh "Eu não me importaria de ganhar de novo no hockey de mesa."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:31
 translate portuguese sm1cs_mh005_c45c0e70:
 
     # mc "It won't be as easy this time. I've been practicing."
-    mc "Não vai ser tão fácil outra vez. Eu andei praticando."
+    mc "Não vai ser tão fácil dessa vez. Eu andei praticando."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:34
 translate portuguese sm1cs_mh005_ddca5486:
@@ -314,7 +314,7 @@ translate portuguese sm1cs_mh005_after_game_b3ef49bb:
 translate portuguese sm1cs_mh005_after_game_8a0430f0:
 
     # mc "I'll take mine with light ice, please."
-    mc "Vou querer o meu com gelo, por favor."
+    mc "Vou querer o meu com pouco gelo, por favor."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:325
 translate portuguese sm1cs_mh005_after_game_1c1ea86f:
@@ -488,7 +488,7 @@ translate portuguese sm1cs_mh005_after_game_229ec166:
 translate portuguese sm1cs_mh005_after_game_a86aea94:
 
     # mc "Still it was a big help.{w} And I know how you feel about my new job."
-    mc "Mas ajudou muito.{w} E o que você acha do meu novo trabalho."
+    mc "Mas ainda ajudou muito.{w} E eu sei o que você acha do meu novo trabalho."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:420
 translate portuguese sm1cs_mh005_after_game_afde12aa:
@@ -842,7 +842,7 @@ translate portuguese sm1cs_mh005_blowjob_7d2d32ea:
 translate portuguese sm1cs_mh005_blowjob_fb0ac2d9:
 
     # mh "Seems like I'm not the only one..."
-    mh "Parece que não foi só eu..."
+    mh "Parece que não fui só eu..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh005.rpy:637
 translate portuguese sm1cs_mh005_blowjob_0f72435e:
