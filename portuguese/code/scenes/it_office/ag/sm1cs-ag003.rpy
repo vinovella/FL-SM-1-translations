@@ -122,7 +122,7 @@ translate portuguese sm1cs_ag003_503d6bd1:
 translate portuguese sm1cs_ag003_b6bd8a00:
 
     # cs "Welcome to Starducks. Can I take your order?"
-    cs "Bem-vindo ao Starducks. Passo anotar o seu pedido?"
+    cs "Bem-vindo ao Starducks. Posso anotar o seu pedido?"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:84
 translate portuguese sm1cs_ag003_47925ada:
@@ -584,7 +584,7 @@ translate portuguese sm1cs_ag003_72612944:
 translate portuguese sm1cs_ag003_f727b063:
 
     # mct "I mean... anyone can find this. It's hard to delete the browsing history of a book..."
-    mct "Tipo... qualquer pessoa pode encontrar isso. É difícil tratar o histórico de um livro..."
+    mct "Tipo... qualquer pessoa pode encontrar isso. É difícil deletar o histórico de um livro..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:310
 translate portuguese sm1cs_ag003_4090725e:
@@ -668,13 +668,13 @@ translate portuguese sm1cs_ag003_602b2806:
 translate portuguese sm1cs_ag003_a24738a2:
 
     # mct "She's... horny, and masturbating, and..."
-    mct "Ela tá... com tesão, e masturbando, e..."
+    mct "Ela tá... com tesão, e se masturbando, e..."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:343
 translate portuguese sm1cs_ag003_3d26a787:
 
     # mct "Wait, the recluse... he's watching her. He's watching her lust, and-"
-    mct "Espera, esse recuso... ele tá vendo ela. Vendo o desejo dela, e-"
+    mct "Espera, esse recluso... ele tá vendo ela. Vendo o desejo dela, e-"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:347
 translate portuguese sm1cs_ag003_b076b8cf:
@@ -758,7 +758,7 @@ translate portuguese sm1cs_ag003_b3263fa2:
 translate portuguese sm1cs_ag003_bb23bb6a:
 
     # ag "Well, you shouldn't keep her waiting. Claire can be... well, intense about work stuff."
-    ag "Bem, não é bom deixar ela esperando. A Claire pode de ser... bem, intensa com questão de trabalho."
+    ag "Bem, não é bom deixar ela esperando. A Claire pode ser... bem, intensa com questão de trabalho."
 
 # game/code/scenes/it_office/ag/sm1cs-ag003.rpy:394
 translate portuguese sm1cs_ag003_a4692eb1:
