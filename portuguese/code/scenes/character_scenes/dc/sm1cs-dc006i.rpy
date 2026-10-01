@@ -8,7 +8,7 @@ translate portuguese sm1cs_dc006i_5391c6fe:
 translate portuguese sm1cs_dc006i_a5abcf94:
 
     # dc "Good evening, cit-"
-    dc "Boa noite, cid—"
+    dc "Boa noite, cid-"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006i.rpy:12
 translate portuguese sm1cs_dc006i_ae5fdc2c:
