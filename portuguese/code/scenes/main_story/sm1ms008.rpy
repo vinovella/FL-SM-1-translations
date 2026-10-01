@@ -8,7 +8,7 @@ translate portuguese sm1ms008_4d8ca382:
 translate portuguese sm1ms008_93e13633:
 
     # kv "Still looks sexy as a thong though."
-    kv "Ms ainda fica linda como fio dental."
+    kv "Mas ainda fica como fio dental."
 
 # game/code/scenes/main_story/sm1ms008.rpy:32
 translate portuguese sm1ms008_6a0fce3c:
@@ -176,7 +176,7 @@ translate portuguese sm1ms008_e370a65c:
 translate portuguese sm1ms008_962dca87:
 
     # kv "That's not really my style. I like to see things through."
-    kv "Não é muito a minha cara. Eu gosto de terminar o que comecei"
+    kv "Não é muito a minha cara. Eu gosto de terminar o que comecei."
 
 # game/code/scenes/main_story/sm1ms008.rpy:120
 translate portuguese sm1ms008_86c8e4fb:
@@ -206,7 +206,7 @@ translate portuguese sm1ms008_db07abac:
 translate portuguese sm1ms008_d3d71759:
 
     # sy "Thank you, [mcname]. It sounds like the client is into a little rough stuff. They want some spanking and maybe a little choking, little man-handling."
-    sy "Obrigada, [mcname]. Parece que o cliente gosta de uma parada mais bruta. Quer umas palmadas, talvez uma engasgada, talvez um pouquinho de violência."
+    sy "Obrigada, [mcname]. Parece que o cliente gosta de uma parada mais bruta. Quer umas palmadas, talvez uma enforcada, talvez um pouquinho de violência."
 
 # game/code/scenes/main_story/sm1ms008.rpy:136
 translate portuguese sm1ms008_77082a31:
@@ -284,13 +284,13 @@ translate portuguese sm1ms008_special_06eab400:
 translate portuguese sm1ms008_special_74c47a88:
 
     # sy "But now I'm the horny kitty that he can't keep his eyes off of."
-    sy "Mas agora sou a gatinha tarada que ele não consegue tirar os olhos."
+    sy "Mas agora sou a gatinha safada que ele não consegue parar de olhar."
 
 # game/code/scenes/main_story/sm1ms008.rpy:181
 translate portuguese sm1ms008_special_982414d4:
 
     # kv "I love it! I've done a lot, but never taken pictures of siblings getting down and dirty."
-    kv "Que foda! Já fiz muita coisa, mas nunca tirei fotos de irmãos rala e rola."
+    kv "Que foda! Já fiz muita coisa, mas nunca tirei fotos de irmãos no rala e rola."
 
 # game/code/scenes/main_story/sm1ms008.rpy:184
 translate portuguese sm1ms008_special_10a5f518:
@@ -326,13 +326,13 @@ translate portuguese sm1ms008_special_351a0726:
 translate portuguese sm1ms008_special_5328f655:
 
     # sy "Oh yeah! I don't think any other studio around will have that on their bingo card."
-    sy "Isso! Acho que não tem outro estúdio vai poder dizer o mesmo."
+    sy "Pois é! Acho que não tem outro estúdio que vai poder dizer o mesmo."
 
 # game/code/scenes/main_story/sm1ms008.rpy:203
 translate portuguese sm1ms008_special_17c2779d:
 
     # kv "When you talked about your 'best' friend, I had a feeling you might be friends with benefits by the way you talked about her."
-    kv "Quando você falou da sua 'melhor' amiga, eu já fui achando que era amiga com certos benefícios pelo jeito que ele falou dela."
+    kv "Quando você falou da sua 'melhor' amiga, eu já fui achando que era amiga com certos benefícios pelo jeito que falava dela."
 
 # game/code/scenes/main_story/sm1ms008.rpy:206
 translate portuguese sm1ms008_special_9e3ed4a4:
@@ -362,7 +362,7 @@ translate portuguese sm1ms008_special_455fd8bd:
 translate portuguese sm1ms008_special_9c10f0bd:
 
     # sy "Ugh. Don't remind me. We should have gotten together years ago, [mcname]."
-    sy "Aff. Nem me lembra. A gente devia ter começado a sair anos atrás,[mcname]."
+    sy "Aff. Nem me lembra. A gente devia ter começado a sair anos atrás, [mcname]."
 
 # game/code/scenes/main_story/sm1ms008.rpy:217
 translate portuguese sm1ms008_special_e32b4852:
@@ -584,7 +584,7 @@ translate portuguese sm1ms008_special_bad7c00a:
 translate portuguese sm1ms008_special_2bd452b0:
 
     # sy "Good. But that's it? Just for the scene?"
-    sy "Maravilha. Mas é só isso. Só pra essa cena?"
+    sy "Maravilha. Mas é só isso? Só pra essa cena?"
 
 # game/code/scenes/main_story/sm1ms008.rpy:351
 translate portuguese sm1ms008_special_afd74152:
@@ -644,7 +644,7 @@ translate portuguese sm1ms008_after_choice_12e7bf0e:
 translate portuguese sm1ms008_after_choice_a62dd883:
 
     # mc "I know how we could do a proper stress test."
-    mc "Eu sei como fazer uma cena de testes."
+    mc "Eu sei como fazer um teste de verdade."
 
 # game/code/scenes/main_story/sm1ms008.rpy:392
 translate portuguese sm1ms008_after_choice_d46200e5:
@@ -716,7 +716,7 @@ translate portuguese sm1ms008_after_choice_01166e1c:
 translate portuguese sm1ms008_after_choice_aedee058:
 
     # kv "Does low light well... Real versatile camera that's not that expensive."
-    kv "Firma bem com pouca luz... Uma câmera bem versátil que não é muito cara."
+    kv "Filma bem com pouca luz... Uma câmera bem versátil que não é muito cara."
 
 # game/code/scenes/main_story/sm1ms008.rpy:444
 translate portuguese sm1ms008_after_choice_5334a07f:
@@ -728,7 +728,7 @@ translate portuguese sm1ms008_after_choice_5334a07f:
 translate portuguese sm1ms008_after_choice_5542aa89:
 
     # kv "Come on, Stacy. You don't want us to look like some amateurs, do you? Your client will be very impressed if we go the extra mile."
-    kv "Que isso, Stacy. Não vamos querer parecer amadores, né? O cliente vai ficar bem pressionado se a gente for além."
+    kv "Que isso, Stacy. Não vamos querer parecer amadores, né? O cliente vai ficar bem impressionado se a gente for além."
 
 # game/code/scenes/main_story/sm1ms008.rpy:449
 translate portuguese sm1ms008_after_choice_764fdf31:
