@@ -284,7 +284,7 @@ translate portuguese sm1cs_mas004_after_lunch_0e9e8511:
 translate portuguese sm1cs_mas004_after_lunch_2a34735b:
 
     # ms "Uh huh. A real \"oops\"."
-    ms "Aham. Um \"oops\" verdadeiro."
+    ms "Aham. Um verdadeiro \"oops\"."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:224
 translate portuguese sm1cs_mas004_after_lunch_d4dda4de:
@@ -464,7 +464,7 @@ translate portuguese sm1cs_mas004_after_lunch_4d2e856c:
 translate portuguese sm1cs_mas004_after_lunch_6cb96da0:
 
     # mc "Twenty whole cents? *whistles* Don't spend it all in one place."
-    mc "Vintão? *assobio* Não gasta tudo duma vez só."
+    mc "Vintão? *assobio* Não gasta tudo de uma vez só."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:345
 translate portuguese sm1cs_mas004_after_lunch_21e7cd51:
@@ -566,7 +566,7 @@ translate portuguese sm1cs_mas004_after_lunch_4be5d5c7:
 translate portuguese sm1cs_mas004_after_lunch_d8bbc90a:
 
     # ms "A home, fit for a queen."
-    ms "Uma casa própria de uma rainha."
+    ms "Uma casa　digna de uma rainha."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:403
 translate portuguese sm1cs_mas004_after_lunch_5589eb0c:
@@ -1142,7 +1142,7 @@ translate portuguese sm1cs_mas004_after_lunch_ac10e86e:
 translate portuguese sm1cs_mas004_after_lunch_ef999064:
 
     # ms "*hiss of pleasure escapes her lips* Fuck...you're thick..."
-    ms "*resquícios de prazer* Caralho... é grosso..."
+    ms "*suspiro de prazer escapa de seus lábios* Caralho... é grosso..."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:772
 translate portuguese sm1cs_mas004_after_lunch_4700670b:
@@ -1382,7 +1382,7 @@ translate portuguese sm1cs_mas004_after_lunch_2350057e:
 translate portuguese sm1cs_mas004_after_lunch_2e266e26:
 
     # mct "Holy shit. She's...{w} way kinkier than I thought!"
-    mct "Eita porra. Ela é ...{w} mais safada que eu imaginava!"
+    mct "Eita porra. Ela é...{w} mais safada que eu imaginava!"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas004.rpy:899
 translate portuguese sm1cs_mas004_after_lunch_374d0d66_1:
