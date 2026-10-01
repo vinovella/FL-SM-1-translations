@@ -290,7 +290,7 @@ translate portuguese sm1ms022_4d14f5a6:
 translate portuguese sm1ms022_84a4ae6e:
 
     # sy "So there's no time to waste! Let's{w} get{w} to{w} fucking!"
-    sy "Então, sem tempo a perder. Vamos{w} transar{w} logo!"
+    sy "Então, sem tempo a perder! Vamos{w} transar{w} logo!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:214
 translate portuguese sm1ms022_33a9f324:
@@ -302,13 +302,13 @@ translate portuguese sm1ms022_33a9f324:
 translate portuguese sm1ms022_3a41c5e6:
 
     # sy "Yep!"
-    sy "Aham!'"
+    sy "Aham!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:220
 translate portuguese sm1ms022_cd941840:
 
     # kv "Stacy sent me some storyboards yesterday, so we're all set with a plan."
-    kv "A Stacy me mandou uns esboços ontem, então tá tudo certo com plano."
+    kv "A Stacy me mandou uns esboços ontem, então estamos de boa com um plano."
 
 # game/code/scenes/main_story/sm1ms022.rpy:223
 translate portuguese sm1ms022_580303e2:
@@ -356,7 +356,7 @@ translate portuguese sm1ms022_241deef6:
 translate portuguese sm1ms022_339d5b33:
 
     # sy "And are you okay to call action and cut, Kanya?"
-    sy "E você tá pronta pra ação e corte, Kanya? "
+    sy "E você tá pronta pra falar ação e corta, Kanya?"
 
 # game/code/scenes/main_story/sm1ms022.rpy:245
 translate portuguese sm1ms022_fa166858:
@@ -446,7 +446,7 @@ translate portuguese sm1ms022_e5c6af7e:
 translate portuguese sm1ms022_f9f06ccf:
 
     # sy "And you need that basket of vegetables!"
-    sy "E boceta precisa dessa cesta de vegetais!"
+    sy "E você precisa dessa cesta de vegetais!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:298
 translate portuguese sm1ms022_38b5e631:
@@ -464,7 +464,7 @@ translate portuguese sm1ms022_db58699c:
 translate portuguese sm1ms022_5ca01f25:
 
     # mc "Afternoon, ma'am."
-    mc "Bom dia, senhora."
+    mc "Boa tarde, senhora."
 
 # game/code/scenes/main_story/sm1ms022.rpy:316
 translate portuguese sm1ms022_60820e9c:
@@ -662,7 +662,7 @@ translate portuguese sm1ms022_be76553a:
 translate portuguese sm1ms022_e789d31f:
 
     # sy "Oh my God, Farmhand Jon! That cu-cucumber is stretching out my little pink hole soooooo much!"
-    sy "Meu Deus, Peão Jon! Esse pe-pepino tá esticando o meu buraquinho rosa tããão beem!"
+    sy "Meu Deus, Peão Jon! Esse pe-pepino tá esticando taaaanto o meu buraquinho rosa!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:427
 translate portuguese sm1ms022_7328e535:
@@ -692,7 +692,7 @@ translate portuguese sm1ms022_556d9756:
 translate portuguese sm1ms022_40c52af2:
 
     # mc "But I can't wait to fuck you myself."
-    mc "Nas mal posso esperar pela minha fez de meter."
+    mc "Mas mal posso esperar pela minha vez de eu mesmo te comer."
 
 # game/code/scenes/main_story/sm1ms022.rpy:439
 translate portuguese sm1ms022_4061fe39:
@@ -710,7 +710,7 @@ translate portuguese sm1ms022_551702d6:
 translate portuguese sm1ms022_1e4934ed:
 
     # mc "You won't hear any complaints from me, ma'am."
-    mc "Não ou reclamar, senhora."
+    mc "Não vou reclamar, senhora."
 
 # game/code/scenes/main_story/sm1ms022.rpy:445
 translate portuguese sm1ms022_10bb539a:
@@ -746,7 +746,7 @@ translate portuguese sm1ms022_83ab14da:
 translate portuguese sm1ms022_f8356483:
 
     # sy "Mmmmmm, oh Farmhand Jon... my asshole wants something in it."
-    sy "Mmmmmm,  ai, Peão Jon... o meu cu quer alguma coisa dentro dele."
+    sy "Mmmmmm, ai, Peão Jon... o meu cu quer alguma coisa dentro dele."
 
 # game/code/scenes/main_story/sm1ms022.rpy:476
 translate portuguese sm1ms022_027ccfa7:
@@ -956,7 +956,7 @@ translate portuguese sm1ms022_39ffac98:
 translate portuguese sm1ms022_3327cbb6:
 
     # sy "You just keep - mrrrrnnnnggggg - keep using the cock like a plow!"
-    sy "Só continua  - mrrrrnnnnggggg -  usando esse pau aí como se fosse uma enxada!"
+    sy "Só continua - mrrrrnnnnggggg - usando esse pau aí como se fosse uma enxada!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:599
 translate portuguese sm1ms022_d6476be0:
@@ -1058,7 +1058,7 @@ translate portuguese sm1ms022_eb1e900b:
 translate portuguese sm1ms022_5507beed:
 
     # sy "My goodness... I never... I never thought I could feel such a powerful orgasm... from getting my butt screwed!"
-    sy "Nossa senora... eu nunca... nunca achei que fosse sentir um orgasmo tão forte assim... depois de levar piroca na bunda!"
+    sy "Nossa senhora... eu nunca... nunca achei que fosse sentir um orgasmo tão forte assim... depois de levar piroca na bunda!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:638
 translate portuguese sm1ms022_32bd6ca8:
@@ -1130,7 +1130,7 @@ translate portuguese sm1ms022_75f901a0:
 translate portuguese sm1ms022_35d6e232:
 
     # sy "{size=*0.8}*whispering* Now lay down on the ground, and fuck my ass, [mcname]. Make me scream and beg and cry and cum.{/size}"
-    sy "{size=*0.8}*sussurro* Agora deita no chão e come o meu cu, [mcname]. Faz eu gritar implorar, e chorar, e gozar.{/size}"
+    sy "{size=*0.8}*sussurro* Agora deita no chão e come o meu cu, [mcname]. Faz eu gritar, implorar, chorar, gozar.{/size}"
 
 # game/code/scenes/main_story/sm1ms022.rpy:674
 translate portuguese sm1ms022_e97f8b7d:
@@ -1166,7 +1166,7 @@ translate portuguese sm1ms022_a309c855:
 translate portuguese sm1ms022_e5ed98c9:
 
     # sy "You're going to take that big cucumber, and amazing cock, and stretch my tiny little asshole and pussy around your, warm, throbbing dick..."
-    sy "Você vai pegar esse pepinão, e esse pão maravilhoso e esticar o meu cuzinho e boceta no seu pauzão latejante..."
+    sy "Você vai pegar esse pepinão,e esse pau maravilhoso e esticar o meu cuzinho e boceta no seu pauzão latejante..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:690
 translate portuguese sm1ms022_90df1f3a:
@@ -1334,7 +1334,7 @@ translate portuguese sm1ms022_32885b40:
 translate portuguese sm1ms022_484a8973:
 
     # sy "ANd you can- oh LAAAWDDDDD - I'm sooo close!"
-    sy "E você pode -a ai SENHOOOOOOR - tô quase gozando!"
+    sy "E você pode- ai SENHOOOOOOR - tô quase gozando!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:754
 translate portuguese sm1ms022_db66535b:
@@ -1352,7 +1352,7 @@ translate portuguese sm1ms022_1a17a00b:
 translate portuguese sm1ms022_c9e62f33:
 
     # sy "I want you to turn me into the best damn cream pie this side of the Mississippi!"
-    sy "Quero que me transforme da melhor tortinha de creme desse lado do Mississippi!"
+    sy "Quero que me transforme na melhor tortinha de creme desse lado do Mississippi!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:759
 translate portuguese sm1ms022_56cb9eae:
@@ -1394,13 +1394,13 @@ translate portuguese sm1ms022_799097d5:
 translate portuguese sm1ms022_b4dc4dda:
 
     # sy "Oh, and I can feeeeeel your warm cum in my assssss... It feels sooooo good!"
-    sy "Aaah, tô sentindo a sua porra quente dana bundaaaa... Que delíííiícia!"
+    sy "Aaah, tô sentindo a sua porra quente na bundaaaa... Que delíííiícia!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:780
 translate portuguese sm1ms022_1b0df68e:
 
     # kv "{size=*0.7}*whispering* [mcname], get your dick out of the way so i can see Stacy's creampie!{/size}"
-    kv "{size=*0.7}*sussurro* [mcname]. tira o seu pau da frente pra poder ver a porra saindo da Stacy!{/size}"
+    kv "{size=*0.7}*sussurro* [mcname], tira o seu pau da frente pra poder ver a porra saindo da Stacy!{/size}"
 
 # game/code/scenes/main_story/sm1ms022.rpy:782
 translate portuguese sm1ms022_01605c6d:
@@ -1442,7 +1442,7 @@ translate portuguese sm1ms022_e8fe9bb3:
 translate portuguese sm1ms022_9fd77da1:
 
     # sy "What can I say? I got good genes."
-    sy "Fazer o quê? Tenho bom genes."
+    sy "Fazer o quê? Tenho bons genes."
 
 # game/code/scenes/main_story/sm1ms022.rpy:815
 translate portuguese sm1ms022_699878f6:
@@ -1616,7 +1616,7 @@ translate portuguese sm1ms022_8fd7233d:
 translate portuguese sm1ms022_94c97865:
 
     # kv "Well, on that note..."
-    kv "Bem, tirando a deixa..."
+    kv "Bem, pegando a deixa..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:880
 translate portuguese sm1ms022_df3378f1:
@@ -1670,7 +1670,7 @@ translate portuguese sm1ms022_3f4bcb40:
 translate portuguese sm1ms022_94f3e8f9:
 
     # mct "I really hope the client likes this next video..."
-    mct "Tomara a cliente goste do próximo vídeo..."
+    mct "Tomara que a cliente goste do próximo vídeo..."
 
 # game/code/scenes/main_story/sm1ms022.rpy:438
 translate portuguese sm1ms022_b335c61c:
@@ -1694,7 +1694,7 @@ translate portuguese sm1ms022_361d8f7f:
 translate portuguese sm1ms022_b257719d:
 
     # sy "I'm a cuuummmming, Farmhand Joooooon! Oh gee, golly, gee - fuck, I'm cumming from my asssss!"
-    sy "Tô gozando, Peão Jooooonão!  Ai Jesus, ô delícia sô - cacete, vou gozar com a minha bundaaaa!"
+    sy "Tô gozando, Peão Joooooon!  Ai Jesus, ô delícia sô - cacete, vou gozar com a minha bundaaaa!"
 
 # game/code/scenes/main_story/sm1ms022.rpy:862
 translate portuguese sm1ms022_0a2335a3:
