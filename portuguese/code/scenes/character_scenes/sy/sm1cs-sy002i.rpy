@@ -2,13 +2,13 @@
 translate portuguese sm1cs_sy002i_adb292dd:
 
     # sy "You know, [mcname], our little park scene was a ton of fun."
-    sy "Hein, [mcname], a nossa sem minha no parque foi tão legal."
+    sy "Hein, [mcname], a nossa ceninha no parque foi tão legal."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:12
 translate portuguese sm1cs_sy002i_26cce84a:
 
     # mc "Yeah, I enjoyed practicing our \"acting skills\"."
-    mc "É, adorei a praticar as nossas \"técnicas de atuação\"."
+    mc "É, adorei praticar as nossas \"técnicas de atuação\"."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:16
 translate portuguese sm1cs_sy002i_0f0ff8c2:
@@ -74,7 +74,7 @@ translate portuguese sm1cs_sy002i_first_time_263c64ae:
 translate portuguese sm1cs_sy002i_first_time_66335b13:
 
     # mc "I do love some light exhibitionism... okay, why don't we try the park?"
-    mc "Eu gosto de um exibicionismozinho... beleza, porque não tentamos no parque?"
+    mc "Eu gosto de um exibicionismozinho... beleza, por que não tentamos no parque?"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002i.rpy:46
 translate portuguese sm1cs_sy002i_first_time_77cd3355:
