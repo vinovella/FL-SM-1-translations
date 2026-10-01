@@ -32,7 +32,7 @@ translate portuguese sm1ms002_a2fc3544:
 translate portuguese sm1ms002_e553443b:
 
     # sy "Well, we can pay the rent. But that's not why I'm excited to see you."
-    sy "Vem, dá pra pagar o aluguel. Mas não é por isso que eu fiquei feliz em te ver."
+    sy "Bem, dá pra pagar o aluguel. Mas não é por isso que eu fiquei feliz em te ver."
 
 # game/code/scenes/main_story/sm1ms002.rpy:49
 translate portuguese sm1ms002_b19ecce6:
@@ -152,7 +152,7 @@ translate portuguese sm1ms002_continue_convo_8b65dbd9:
 translate portuguese sm1ms002_continue_convo_269e0010:
 
     # sy "Expenses. Food, rent, utilities, other things..."
-    sy "Custos. Comida, aluguel, eletrodomésticos, outras coisas..."
+    sy "Custos. Comida, aluguel, contas, outras coisas..."
 
 # game/code/scenes/main_story/sm1ms002.rpy:118
 translate portuguese sm1ms002_continue_convo_1f1853ca:
@@ -170,7 +170,7 @@ translate portuguese sm1ms002_continue_convo_4a73d573:
 translate portuguese sm1ms002_continue_convo_9bce88db:
 
     # mc "Fuck... wait a second... why are we paying that much every week for furniture? We sleep on a mattress on the floor."
-    mc "Merda... calma aí... porque a gente paga tanto assim toda semana por móveis? Estamos dormindo num colchão no chão."
+    mc "Merda... calma aí... por que a gente paga tanto assim toda semana por móveis? Estamos dormindo num colchão no chão."
 
 # game/code/scenes/main_story/sm1ms002.rpy:128
 translate portuguese sm1ms002_continue_convo_7738bf7b:
@@ -188,7 +188,7 @@ translate portuguese sm1ms002_continue_convo_ef44d983:
 translate portuguese sm1ms002_continue_convo_61740b13:
 
     # sy "Future expenditures. Yes."
-    sy "Gastos com móveis. Isso."
+    sy "Gastos futuros. Exato."
 
 # game/code/scenes/main_story/sm1ms002.rpy:134
 translate portuguese sm1ms002_continue_convo_0d1ab14d:
