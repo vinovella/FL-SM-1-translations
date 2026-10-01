@@ -74,7 +74,7 @@ translate portuguese sm1ms023_61c5ac14:
 translate portuguese sm1ms023_50644b92:
 
     # mc "I think cut it down. Don't want too much bloat in the video."
-    mc "Acho melhor cortar. Não é bom que vídeo fique grande demais."
+    mc "Acho melhor cortar. Não é bom que o vídeo fique grande demais."
 
 # game/code/scenes/main_story/sm1ms023.rpy:52
 translate portuguese sm1ms023_b6c51f07:
@@ -98,7 +98,7 @@ translate portuguese sm1ms023_f19dbee3:
 translate portuguese sm1ms023_e19bbf31:
 
     # mc "I think you're right about it being hot."
-    mc "Acho você você tem razão que tá gostoso."
+    mc "Acho que você tem razão que tá gostoso."
 
 # game/code/scenes/main_story/sm1ms023.rpy:64
 translate portuguese sm1ms023_4db710a7:
@@ -116,7 +116,7 @@ translate portuguese sm1ms023_c58ca971:
 translate portuguese sm1ms023_0dbd725a:
 
     # sy "Cool, that should be easy to do."
-    sy "Legal, isso é fácil fazer."
+    sy "Legal, isso é fácil de fazer."
 
 # game/code/scenes/main_story/sm1ms023.rpy:73
 translate portuguese sm1ms023_0323a023:
