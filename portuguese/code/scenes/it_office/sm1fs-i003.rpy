@@ -14,7 +14,7 @@ translate portuguese sm1fs_i003_527f7ed9:
 translate portuguese sm1fs_i003_8d30755e:
 
     # cw "Hello Mr. Young. I'm not waking you up, am I?"
-    cw "Olá, Sr. Young. Não estou lhe aguardando, estou?"
+    cw "Olá, Sr. Young. Não estou lhe acordando, estou?"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:44
 translate portuguese sm1fs_i003_1bc00fca:
@@ -74,7 +74,7 @@ translate portuguese sm1fs_i003_e15ea87b:
 translate portuguese sm1fs_i003_bd3754c4:
 
     # mc "... 29 minutes... Hell... Yeah..."
-    mc "... 39 minutos... Pega... Porra..."
+    mc "... 29 minutos... Pega... Porra..."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:95
 translate portuguese sm1fs_i003_1c1d72cd:
@@ -140,7 +140,7 @@ translate portuguese sm1fs_i003_3cff9a32:
 translate portuguese sm1fs_i003_713aa894:
 
     # cw "I see you two have already met. Mr. [mcname] Young, Ms. Nari Song."
-    cw "Parece que já se conheceram. Sr. [mcname] Young, Sra. Nari Young."
+    cw "Parece que já se conheceram. Sr. [mcname] Young, Sra. Nari Song."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:128
 translate portuguese sm1fs_i003_2792d5cd:
@@ -260,7 +260,7 @@ translate portuguese sm1fs_i003_c8eeaed7:
 translate portuguese sm1fs_i003_be0f9d87:
 
     # cw "Over there is the last member of your team."
-    cw "Aquela ali é a nossa mais nova contratada."
+    cw "Aquela ali é o último membro da sua equipe."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:182
 translate portuguese sm1fs_i003_45079bdf:
@@ -332,7 +332,7 @@ translate portuguese sm1fs_i003_4fff18c9:
 translate portuguese sm1fs_i003_908a0f34:
 
     # ml "Pleasure to meet you both! Welcome to C.U.M.!"
-    ml "É um prazer conhecer os dois. Bem-vindos ao G.O.Z.U.!"
+    ml "É um prazer conhecer os dois! Bem-vindos ao G.O.Z.U.!"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:216
 translate portuguese sm1fs_i003_834dac81:
@@ -548,7 +548,7 @@ translate portuguese sm1fs_i003_9ae6a8aa:
 translate portuguese sm1fs_i003_03587be5:
 
     # mc "Uhh, yes I am. Sorry I got a little distracted thinking about... All the rules."
-    mc "Aaah, sim. Desculpa, eu me distrai um pouco pensando... nas regras."
+    mc "Aaah, sim. Desculpa, eu me distraí um pouco pensando... nas regras."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:327
 translate portuguese sm1fs_i003_1767c45a:
@@ -578,7 +578,7 @@ translate portuguese sm1fs_i003_f3a65d39:
 translate portuguese sm1fs_i003_9b4bf40f:
 
     # ns "Under Chapter 4 \"Workplace Etiquette\", section 7, paragraph 4. \"Your workstation is not only yours, but a reflection of the company\"."
-    ns "No Capítulo 4 \"Conduta no Trabalho\", seção 7, parágrafo 4. \"Sua mesa de trabalho não é apenas, sua mas um reflexo da empresa\"."
+    ns "No Capítulo 4 \"Conduta no Trabalho\", seção 7, parágrafo 4. \"Sua mesa de trabalho não é apenas sua, mas um reflexo da empresa\"."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:344
 translate portuguese sm1fs_i003_02ba22d2:
@@ -626,7 +626,7 @@ translate portuguese sm1fs_i003_6356d22f:
 translate portuguese sm1fs_i003_eb4af79d:
 
     # mc "It was... I haven't left yet though!"
-    mc "Foi... Mas ainda não foi embora!"
+    mc "Foi... Mas ainda não fui embora!"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:370
 translate portuguese sm1fs_i003_0593b532:
@@ -686,7 +686,7 @@ translate portuguese sm1fs_i003_72ee8337:
 translate portuguese sm1fs_i003_b73c3b08:
 
     # mc "What are you going to work on? We haven't been given anything to do."
-    mc "Tá trabalhando no quê. Ainda não deram nada pra fazer."
+    mc "Tá trabalhando no quê? Ainda não deram nada pra fazer."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:397
 translate portuguese sm1fs_i003_81816d53:
@@ -722,7 +722,7 @@ translate portuguese sm1fs_i003_f3486988:
 translate portuguese sm1fs_i003_ef96efe6:
 
     # ns "Okay. My name is Nari Song. I'm 5'2\". I'm South Korean. My measurements are-"
-    ns "Tudo bem. Meu nome é Nari. Tenho 1,57 de altura. Venho da Coreia do Sul. Minhas medidas são-"
+    ns "Tudo bem. Meu nome é Nari Song. Tenho 1,57 de altura. Venho da Coreia do Sul. Minhas medidas são-"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:410
 translate portuguese sm1fs_i003_c29e3f77:
@@ -740,13 +740,13 @@ translate portuguese sm1fs_i003_c53bab50:
 translate portuguese sm1fs_i003_bd5e3c08:
 
     # mc "I meant tell me where you're from, why you got a job here, stuff like that. I don't need to know your measurements."
-    mc "Eu estava falando de onde você é, porque trabalha aqui, esse tipo de coisa. Não preciso saber das suas medidas."
+    mc "Eu estava falando de onde você é, por que trabalha aqui, esse tipo de coisa. Não preciso saber das suas medidas."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:416
 translate portuguese sm1fs_i003_72eb4968:
 
     # ns "Oh, I thought you wanted to know about me."
-    ns "Ah, acha que queria saber sobre mim."
+    ns "Ah, achei que queria saber sobre mim."
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:418
 translate portuguese sm1fs_i003_1b085d1a:
@@ -920,7 +920,7 @@ translate portuguese sm1fs_i003_quit_2138967f:
 translate portuguese sm1fs_i003_quit_f2f354fd:
 
     # ag "That's okay, there's always tomorrow. Right?"
-    ag "Tudo bem, sempre tenho amanhã. Né?"
+    ag "Tudo bem, sempre tem o amanhã. Né?"
 
 # game/code/scenes/it_office/sm1fs-i003.rpy:566
 translate portuguese sm1fs_i003_quit_0277b1a6:
