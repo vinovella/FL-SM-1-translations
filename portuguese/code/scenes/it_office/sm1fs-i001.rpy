@@ -320,19 +320,19 @@ translate portuguese sm1fs_i001_bb860b1d:
 translate portuguese sm1fs_i001_0ad4fbbc:
 
     # mc "I really like cars. Muscle cars, pony cars, or rust buckets. I just love them."
-    mc "Eu adoro carros. Carros potentes, esportivos, ou até latas velhas. Eu adoro."
+    mc "Eu adoro carros. Carros potentes, esportivos, ou até latas velhas. Adoro eles."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:191
 translate portuguese sm1fs_i001_0aacc7c7:
 
     # ag "That's probably a good thing to like. It'll help you get to work."
-    ag "Acho que é uma boa gostar disso. Vai te ajudar a conseguir emprego."
+    ag "Acho que é uma boa gostar disso. Vai te ajudar a chegar ao trabalho."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:198
 translate portuguese sm1fs_i001_cd963929:
 
     # ag "That's good though. Having a way to unwind after work is important."
-    ag "Mas é bom. É importante é ter alguma coisa pra relaxar depois do trabalho."
+    ag "Mas é bom. É importante ter alguma coisa pra relaxar depois do trabalho."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:202
 translate portuguese sm1fs_i001_bab69af6:
@@ -356,7 +356,7 @@ translate portuguese sm1fs_i001_first_success_f49fff8f:
 translate portuguese sm1fs_i001_first_success_c7763a5f:
 
     # ag "You did great. I think you'd be a wonderful addition to the team."
-    ag "Você foi muito bem. Sabia que você seria uma ótima adição ao time."
+    ag "Você foi muito bem. Acho que você seria ótimo para o time."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:262
 translate portuguese sm1fs_i001_first_fail_d19214c0:
@@ -404,7 +404,7 @@ translate portuguese sm1fs_i001_second_success_0216a251:
 translate portuguese sm1fs_i001_second_success_cd1fbd6c:
 
     # mc "Phew, had me sweating there!"
-    mc "Ufa, estava s1uando já!"
+    mc "Ufa, estava suando já!"
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:314
 translate portuguese sm1fs_i001_second_success_29b81034:
@@ -470,7 +470,7 @@ translate portuguese sm1fs_i001_got_hired_bb568305:
 translate portuguese sm1fs_i001_got_hired_de256a59:
 
     # ag "As long as you don't upset Claire when you meet with her."
-    ag "É só não irritar a Claire quando quando vir ela."
+    ag "É só não irritar a Claire quando falar com ela."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:351
 translate portuguese sm1fs_i001_got_hired_06eb03ff:
@@ -506,7 +506,7 @@ translate portuguese sm1fs_i001_fail_1cf3440e:
 translate portuguese sm1fs_i001_fail_f656687d:
 
     # ag "We're actively looking to hire someone. If you can come back and show me what you're doing, you've got a good shot."
-    ag "Estamos atrás de contratar alguém. Se puder voltar e mostrar o que estiver fazendo, acho que teria uma moa chance."
+    ag "Estamos atrás de contratar alguém. Se puder voltar e mostrar o que estiver fazendo, acho que teria uma boa chance."
 
 # game/code/scenes/it_office/sm1fs-i001.rpy:383
 translate portuguese sm1fs_i001_fail_dbf91729:
