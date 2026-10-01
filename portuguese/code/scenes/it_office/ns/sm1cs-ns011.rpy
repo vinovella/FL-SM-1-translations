@@ -92,7 +92,7 @@ translate portuguese sm1cs_ns011_1bea404d:
 translate portuguese sm1cs_ns011_e69f2d20:
 
     # ns "I don't know. I barely got to put a personal touch on my room growing up."
-    ns "Não sei. Eu mal dei um toque  pessoal no meu quarto de infância."
+    ns "Não sei. Eu mal dei um toque pessoal no meu quarto de infância."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:82
 translate portuguese sm1cs_ns011_96ad3f29:
@@ -170,7 +170,7 @@ translate portuguese sm1cs_ns011_a06378f3:
 translate portuguese sm1cs_ns011_3fe289ec:
 
     # ns "Yes. That was used in a lot of hentai, but you hardly hear it nowadays."
-    ns "Sim.  Tinha bastante em hentai, mas não se usa muito hoje."
+    ns "Sim. Tinha bastante em hentai, mas não se usa muito hoje."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:115
 translate portuguese sm1cs_ns011_98a3624c:
@@ -332,7 +332,7 @@ translate portuguese sm1cs_ns011_579e950a:
 translate portuguese sm1cs_ns011_a53fe265:
 
     # ns "I'm no longer as confused by your customs and idioms as I was once."
-    ns "Não estou mais me confundindo com seus costumes."
+    ns "Não estou mais me confundindo com seus costumes e expressões."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:210
 translate portuguese sm1cs_ns011_2277becb:
@@ -674,7 +674,7 @@ translate portuguese sm1cs_ns011_sy_interruption_28958043:
 translate portuguese sm1cs_ns011_sy_interruption_430ebcc5:
 
     # ns "You are a panty thief aren't you, [mcname]."
-    ns "Você  andou roubando calcinhas, né, [mcname]?"
+    ns "Você andou roubando calcinhas, né, [mcname]?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:436
 translate portuguese sm1cs_ns011_sy_interruption_eaa2b5b9:
@@ -716,7 +716,7 @@ translate portuguese sm1cs_ns011_sy_interruption_95d9874f:
 translate portuguese sm1cs_ns011_sy_interruption_2b790948:
 
     # mc "I couldn't resist. After the fun we had in the bathroom."
-    mc "Não consegui resistir.  Depois daquela nossa diversão no banheiro."
+    mc "Não consegui resistir. Depois daquela nossa diversão no banheiro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:451
 translate portuguese sm1cs_ns011_sy_interruption_ac15a767:
@@ -740,7 +740,7 @@ translate portuguese sm1cs_ns011_sy_interruption_0731598d:
 translate portuguese sm1cs_ns011_sy_interruption_ffea1ce1:
 
     # mct "But this needs to come out now."
-    mct "Mas isso aqui tem que resolver agora."
+    mct "Mas isso aqui tem que ser resolvido agora."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:464
 translate portuguese sm1cs_ns011_sy_interruption_304a97d8:
@@ -830,7 +830,7 @@ translate portuguese sm1cs_ns011_sy_interruption_84d9991b:
 translate portuguese sm1cs_ns011_sy_interruption_51c5081a:
 
     # ns "Uh... Am I meant... to compete with Stacy for your love?"
-    ns "Ah... Era para eu... competir com a Stacy pelo seu amor?"
+    ns "Ah... Eu tenho que... competir com a Stacy pelo seu amor?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:500
 translate portuguese sm1cs_ns011_sy_interruption_02704576:
@@ -854,7 +854,7 @@ translate portuguese sm1cs_ns011_sy_interruption_d4978ed6:
 translate portuguese sm1cs_ns011_sy_interruption_1ce17e33:
 
     # mc "Stacy has never minded if I am with other girls while I am with her."
-    mc "A Stacy nunca se importou muito se eu estiver com outras garotas e ela."
+    mc "A Stacy nunca se importou muito se eu estiver com outras garotas além dela."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:508
 translate portuguese sm1cs_ns011_sy_interruption_daadae9a:
@@ -950,7 +950,7 @@ translate portuguese sm1cs_ns011_sy_interruption_2b6c0734:
 translate portuguese sm1cs_ns011_sy_interruption_75aba5dc:
 
     # ns "Oh... just saying it makes me think of how good you make me feel."
-    ns "Ah... só de falar isso já me lembro com você me faz sentir."
+    ns "Ah... só de falar isso já me lembro o que você me faz sentir."
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:552
 translate portuguese sm1cs_ns011_sy_interruption_98afd39d:
@@ -1112,7 +1112,7 @@ translate portuguese sm1cs_ns011_sy_talk_b9c87378:
 translate portuguese sm1cs_ns011_sy_talk_f6dd5315:
 
     # sy "When are you telling her about the porn we are making here?"
-    sy "Quando você vai falar pra ela  do pornô que a gente faz aqui?"
+    sy "Quando você vai falar pra ela do pornô que a gente faz aqui?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns011.rpy:641
 translate portuguese sm1cs_ns011_sy_talk_84f648f2:
