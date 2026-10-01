@@ -1,4 +1,4 @@
-# game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:24
+    # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:24
 translate portuguese sm1cs_bg001_ba263eeb:
 
     # mc "Oh, hey! Funny running into you here!"
@@ -200,7 +200,7 @@ translate portuguese sm1cs_bg001_c3151aea:
 translate portuguese sm1cs_bg001_2392283f:
 
     # bg "Well, good! Because, yeah, that's the, uhm, point."
-    bg "Que bom! Por que, ahm, essa é a intenção."
+    bg "Que bom! Porque, é, essa é a, ahm, intenção."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:130
 translate portuguese sm1cs_bg001_11ffd3fb:
@@ -338,7 +338,7 @@ translate portuguese sm1cs_bg001_ab922785:
 translate portuguese sm1cs_bg001_9433d988:
 
     # bg "Oh, uhm - ahem - yeah, I guess we will. If you think you can handle it."
-    bg "Ah, ahm - *cof* - sim, vamos.  Se você acha que dá conta."
+    bg "Ah, ahm - *cof* - sim, vamos. Se você acha que dá conta."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:196
 translate portuguese sm1cs_bg001_fe2814fc:
@@ -878,13 +878,13 @@ translate portuguese sm1cs_bg001_more_talking_c6f0fd5c:
 translate portuguese sm1cs_bg001_more_talking_52de371a:
 
     # mc "Well, kind of learning. I'm mostly doing it so that the porn will look good, you know?"
-    mc "Bom, aprendendo mais ou menos. Na verdade isso é pro pornô ficar legal, sabe?"
+    mc "Bom, aprendendo mais ou menos. Na verdade isso é mais pro pornô ficar legal, sabe?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:450
 translate portuguese sm1cs_bg001_more_talking_1567cf22:
 
     # bg "I get that. I think a lot of pornstars could use some behind-the-camera experience."
-    bg "Eu entendo. Acho que muitas estrelas de pornô precisam de experiência longe da câmera."
+    bg "Eu entendo. Acho que muitas estrelas pornô precisam de experiência na produção."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg001.rpy:453
 translate portuguese sm1cs_bg001_more_talking_fd6f33e0:
