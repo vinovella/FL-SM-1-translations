@@ -464,7 +464,7 @@ translate portuguese sm1cs_mes006_31288a1c:
 translate portuguese sm1cs_mes006_b4db018c:
 
     # mc "Don't cum, Min. If you cum, you'll have to be punished."
-    mc "Min, não goza.  Se você gozar, vai ter que ser punida."
+    mc "Min, não goza. Se você gozar, vai ter que ser punida."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:286
 translate portuguese sm1cs_mes006_276aecfa:
@@ -758,7 +758,7 @@ translate portuguese sm1cs_mes006_e809e247:
 translate portuguese sm1cs_mes006_abdcb8c5:
 
     # mc "Min, do you want to be the big turtle monster?"
-    mc "Min, quer ser o monstro tartaruga gigante."
+    mc "Min, quer ser o monstro tartaruga gigante?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:445
 translate portuguese sm1cs_mes006_76b4b16e:
@@ -1088,7 +1088,7 @@ translate portuguese sm1cs_mes006_continue_43d95c0e:
 translate portuguese sm1cs_mes006_continue_c0842d8d:
 
     # mc "That will send the Paladin John Cross to your dungeon instead of Min's."
-    mc "Isso vai mandar o Paladino John Cross na sua dungeon ao invés do da Min."
+    mc "Isso vai mandar o Paladino John Cross na sua dungeon ao invés de na da Min."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:603
 translate portuguese sm1cs_mes006_continue_112efae3:
@@ -1430,7 +1430,7 @@ translate portuguese sm1cs_mes006_continue_faae18d6:
 translate portuguese sm1cs_mes006_continue_2c9f1c00:
 
     # mes "They must have gotten my schedule from my brother."
-    mes "Deve ter conseguido meu cronograma com o meu irmão."
+    mes "Devem ter conseguido meu cronograma com o meu irmão."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:772
 translate portuguese sm1cs_mes006_continue_61124161:
@@ -1562,7 +1562,7 @@ translate portuguese sm1cs_mes006_continue_dadb5b86:
 translate portuguese sm1cs_mes006_continue_9e840616:
 
     # mc "Real talk. Coming here means a new place that you can really make your own."
-    mc "Mas falando sério mesmo. Vir pra cá significa um lugar novo que pode tornar seu."
+    mc "Mas falando sério mesmo. Vir pra cá significa um lugar novo que você pode tornar seu."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:838
 translate portuguese sm1cs_mes006_continue_f084ceee:
@@ -1676,7 +1676,7 @@ translate portuguese sm1cs_mes006_continue_f8011c13:
 translate portuguese sm1cs_mes006_continue_dc0932d3:
 
     # mes "We are dating after all, which suggests my openness."
-    mes "Poxa, a gente tá namorando, isso eu te mostra que eu sou mente aberta."
+    mes "Poxa, a gente tá namorando, isso te mostra que eu sou mente aberta."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:896
 translate portuguese sm1cs_mes006_continue_4f46abd1:
@@ -1874,7 +1874,7 @@ translate portuguese sm1cs_mes006_continue_66fad05b:
 translate portuguese sm1cs_mes006_continue_aa636d70:
 
     # sy "*hungry licking and sucking*"
-    sy "*lambendo e chupando de felicidade*"
+    sy "*lambendo e chupando com tudo*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1012
 translate portuguese sm1cs_mes006_continue_91845048:
@@ -1952,7 +1952,7 @@ translate portuguese sm1cs_mes006_continue_d984e5dc:
 translate portuguese sm1cs_mes006_continue_65cc32ee:
 
     # mes "Must have been."
-    mes "Deve ser."
+    mes "Deve ter sido."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1054
 translate portuguese sm1cs_mes006_continue_f197b032:
@@ -2204,7 +2204,7 @@ translate portuguese sm1cs_mes006_continue_398ae995:
 translate portuguese sm1cs_mes006_continue_f2f5ae08:
 
     # mc "Stacy's turn. But don't worry, she's going to keep playing with your pussy."
-    mc "É a vez da Stacy. Mas relaxa, Ela vai ter que continuar cuidando da sua boceta."
+    mc "É a vez da Stacy. Mas relaxa, ela vai ter que continuar cuidando da sua boceta."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1156
 translate portuguese sm1cs_mes006_continue_7581b7b9:
@@ -2876,7 +2876,7 @@ translate portuguese sm1cs_mes006_water_sports_5ee8dc16:
 translate portuguese sm1cs_mes006_water_sports_98bfe6ac:
 
     # mct "I wonder... is it time for me to get some of my medicine back?"
-    mct "Será.... será que tá na hora de eu receber um pouquinho?"
+    mct "Será... será que tá na hora de eu receber um pouquinho?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1480
 translate portuguese sm1cs_mes006_water_sports_083a3f0f:
@@ -2912,7 +2912,7 @@ translate portuguese sm1cs_mes006_water_sports_6e069015:
 translate portuguese sm1cs_mes006_water_sports_0936271b:
 
     # mc "Stacy. Min. You two have enough to give me some?"
-    mc "Stacy. Min. Vocês ainda tem um pouquinho pra me dar?"
+    mc "Stacy. Min. Vocês ainda têm um pouquinho pra me dar?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1500
 translate portuguese sm1cs_mes006_water_sports_4fe4d74b:
@@ -3038,7 +3038,7 @@ translate portuguese sm1cs_mes006_water_sports_2652a8ae:
 translate portuguese sm1cs_mes006_water_sports_519bd721:
 
     # mes "Or if you're pissing on him."
-    mes "Ou você está mijando nele."
+    mes "Ou quando você está mijando nele."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1564
 translate portuguese sm1cs_mes006_water_sports_64dd68df:
@@ -3290,7 +3290,7 @@ translate portuguese sm1cs_mes006_after_wp_c281cb0e:
 translate portuguese sm1cs_mes006_after_wp_b610985f:
 
     # mes "Why don't we get dried off and you can show me that big bed of yours."
-    mes "Porque a gente não se seca, aí vocês podem me mostrar essa camona que vocês têm."
+    mes "Por que a gente não se seca, aí vocês podem me mostrar essa camona que vocês têm."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1703
 translate portuguese sm1cs_mes006_after_wp_b53ea4c2:
@@ -3386,7 +3386,7 @@ translate portuguese sm1cs_mes006_after_wp_3c5a88c1:
 translate portuguese sm1cs_mes006_after_wp_00a6a116:
 
     # mes "Besides, I'm going to be subletting my place. I'm sure I can get in a group of renters that will make sure I don't go poor."
-    mes "E vou alugar a minha casa. Acho que dá pra encontrar um grupo de pessoas, o bastante pra não ficar pobre."
+    mes "E vou alugar a minha casa. Acho que consigo encontrar um grupo de inquilinos, o bastante pra não ficar pobre."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes006.rpy:1747
 translate portuguese sm1cs_mes006_after_wp_180316b0:
