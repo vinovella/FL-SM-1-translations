@@ -62,7 +62,7 @@ translate portuguese sm1cs_dc007_99878731:
 translate portuguese sm1cs_dc007_e034b74a:
 
     # "Suspect" "Damn you, pig!"
-    "Suspeita" "Maldita porca!"
+    "Suspeito" "Maldita porca!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:78
 translate portuguese sm1cs_dc007_b8d88564:
@@ -236,7 +236,7 @@ translate portuguese sm1cs_dc007_72ea0759:
 translate portuguese sm1cs_dc007_1e03e2fb:
 
     # dc "That sounds lovely, [mcname]."
-    dc "Seria ótimo. [mcname]."
+    dc "Seria ótimo, [mcname]."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:190
 translate portuguese sm1cs_dc007_f95ca4b4:
@@ -356,7 +356,7 @@ translate portuguese sm1cs_dc007_continue_d94acaa8:
 translate portuguese sm1cs_dc007_continue_6e3c10b6:
 
     # mc "Okay.{w} Erm, I'm working on starting a film studio with a friend of mine."
-    mc "Tá.{w} Ahm,  eu tô começando um estúdio de filmes com uma amiga minha."
+    mc "Tá.{w} Ahm, tô começando um estúdio de filmes com uma amiga minha."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:258
 translate portuguese sm1cs_dc007_continue_d423cdd3:
@@ -512,7 +512,7 @@ translate portuguese sm1cs_dc007_continue_3a98dc06:
 translate portuguese sm1cs_dc007_continue_ef0267d2:
 
     # dc "People like me...{w} I've never thought about being on camera."
-    dc "Pessoas como eu...{w} Nunca em aparecer em filme."
+    dc "Pessoas como eu...{w} Nunca pensei em aparecer em filme."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:336
 translate portuguese sm1cs_dc007_continue_cef2a100:
@@ -602,7 +602,7 @@ translate portuguese sm1cs_dc007_continue_132b24c9:
 translate portuguese sm1cs_dc007_continue_44a45ba5:
 
     # dc "If I have to, I will!"
-    dc "Eu vou precisar!"
+    dc "Eu vou se precisar!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:377
 translate portuguese sm1cs_dc007_continue_19e7ad5f:
@@ -644,13 +644,13 @@ translate portuguese sm1cs_dc007_continue_0077f60e:
 translate portuguese sm1cs_dc007_continue_965c4984:
 
     # mc "I don't know about \"rogue vigilante\", what about \"hot action hero\"?"
-    mc "Não sei se eu diria \"vigilante fora da lei\", que tal \"herói de ação\"?"
+    mc "Não sei se eu diria \"vigilante fora da lei\", que tal \"herói de ação gostoso\"?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:392
 translate portuguese sm1cs_dc007_continue_abdaa62e:
 
     # mc "Hey, I didn't exactly volunteer for that part of tonight!"
-    mc "Ei,  hoje essa parte não foi voluntária!"
+    mc "Ei, hoje essa parte não foi voluntária!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:393
 translate portuguese sm1cs_dc007_continue_e11db4da:
@@ -686,7 +686,7 @@ translate portuguese sm1cs_dc007_continue_24d7ddfe:
 translate portuguese sm1cs_dc007_continue_10671753:
 
     # dc "Shoot, looks like my break is over."
-    dc "Droga, parece que o meu horário de almoço acabou."
+    dc "Droga, parece que o meu intervalo acabou."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:406
 translate portuguese sm1cs_dc007_continue_e5141d72:
@@ -734,7 +734,7 @@ translate portuguese sm1cs_dc007_continue_983b3730:
 translate portuguese sm1cs_dc007_continue_e7b76d31:
 
     # dc "You've bought me coffee how many times now? I think you might have made the first move."
-    dc "Quantas vezes você já comprou café pra mim? Acho que você podia ter tomado a iniciativa."
+    dc "Quantas vezes você já comprou café pra mim? Acho que você tomou a iniciativa, hein."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc007.rpy:438
 translate portuguese sm1cs_dc007_continue_6e23fdfe:
