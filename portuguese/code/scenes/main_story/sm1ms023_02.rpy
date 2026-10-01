@@ -74,7 +74,7 @@ translate portuguese sm1ms023_02_2034c056:
 translate portuguese sm1ms023_02_ee02fe1b:
 
     # sy "Anyway, now I just need to balance the audio out."
-    sy "Enfim, agora eu só preciso a saída de áudio."
+    sy "Enfim, agora eu só preciso equilibrar a saída de áudio."
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:58
 translate portuguese sm1ms023_02_abf0749d:
@@ -326,7 +326,7 @@ translate portuguese sm1ms023_02_0dca1676:
 translate portuguese sm1ms023_02_17575cf1:
 
     # sy "Fuck meeeeeee."
-    sy "Puta meeerdaaa."
+    sy "Me fooodeeee."
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:174
 translate portuguese sm1ms023_02_bb9f6ea3:
@@ -338,7 +338,7 @@ translate portuguese sm1ms023_02_bb9f6ea3:
 translate portuguese sm1ms023_02_e281e04c:
 
     # mc "Come on, Stacy."
-    mc "Anda, Stacy."
+    mc "Anda logo, Stacy."
 
 # game/code/scenes/main_story/sm1ms023_02.rpy:181
 translate portuguese sm1ms023_02_d493b236:
