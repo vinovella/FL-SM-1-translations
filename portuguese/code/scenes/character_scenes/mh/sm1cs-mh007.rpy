@@ -44,7 +44,7 @@ translate portuguese sm1cs_mh007_0be80ec5:
 translate portuguese sm1cs_mh007_44bcd952:
 
     # mc "So, work is rough?"
-    mc "Então,  o trabalho anda meio puxado?"
+    mc "Então, o trabalho anda meio puxado?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:80
 translate portuguese sm1cs_mh007_09fb2fd5:
@@ -92,7 +92,7 @@ translate portuguese sm1cs_mh007_c60c9192:
 translate portuguese sm1cs_mh007_5083a8a7:
 
     # mh "I think you might be able to help me with that."
-    mh "Acho que posso te ajudar com isso."
+    mh "Acho que você pode me ajudar com isso."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:99
 translate portuguese sm1cs_mh007_a4fcb7ef:
@@ -200,7 +200,7 @@ translate portuguese sm1cs_mh007_91f3af09:
 translate portuguese sm1cs_mh007_ea81e684:
 
     # mc "It feels like - fuuuuck - you're trying to suck my soul out through my dick!"
-    mc "Eu sinto como se - poorraa- você estivesse tentando sugar a minha alma pelo pau!"
+    mc "Eu sinto como se - poorraa - você estivesse tentando sugar a minha alma pelo pau!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:160
 translate portuguese sm1cs_mh007_3b6195bd:
@@ -236,7 +236,7 @@ translate portuguese sm1cs_mh007_77a1cc0a:
 translate portuguese sm1cs_mh007_030db034:
 
     # mc "If you keep... oh God, if you keep going, I'm - oh shiiiiiit."
-    mc "Se você continuar ... meu deus, se você continuar, eu vou - aaaah!"
+    mc "Se você continuar... meu deus, se você continuar, eu vou - aaaah!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:168
 translate portuguese sm1cs_mh007_62695d4a:
@@ -350,7 +350,7 @@ translate portuguese sm1cs_mh007_9a46b274:
 translate portuguese sm1cs_mh007_05b1ed36:
 
     # mh "The per - mmmmm - perfect fit!"
-    mh "Cabe di- mmmmm- direitinho!"
+    mh "Cabe di - mmmmm - direitinho!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:221
 translate portuguese sm1cs_mh007_761834ca:
@@ -512,7 +512,7 @@ translate portuguese sm1cs_mh007_e2d30417:
 translate portuguese sm1cs_mh007_e02d06d4:
 
     # mh "Just - mmmm - never mind! Just keep doing what you're doing!"
-    mh "Só - mmmm -  esquece! Continua o que você está fazendo!"
+    mh "Só - mmmm - esquece! Continua o que você está fazendo!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:287
 translate portuguese sm1cs_mh007_a3bf0bfc:
@@ -572,7 +572,7 @@ translate portuguese sm1cs_mh007_4ba03775:
 translate portuguese sm1cs_mh007_2c3d8962:
 
     # mh "Y-yes! Mmmmmmm - yes, yes, yes!"
-    mh "S-sim! Mmmmmmm- sim, sim, siiim!"
+    mh "S-sim! Mmmmmmm - sim, sim, siiim!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:305
 translate portuguese sm1cs_mh007_b0072ede:
@@ -584,7 +584,7 @@ translate portuguese sm1cs_mh007_b0072ede:
 translate portuguese sm1cs_mh007_60cdceae:
 
     # mh "M-me too! Just - yessss, like that!"
-    mh "E-eu também! Só- iissooo, assim!"
+    mh "E-eu também! Só - iissooo, assim!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:309
 translate portuguese sm1cs_mh007_53a6f3dd:
@@ -914,7 +914,7 @@ translate portuguese sm1cs_mh007_5c6e1a41:
 translate portuguese sm1cs_mh007_da08ed44:
 
     # mc "It helps though when I know what's bothering you."
-    mc "Mas ajuda quando eu sei que tá te incomodando."
+    mc "Mas ajuda quando eu sei o que tá te incomodando."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:459
 translate portuguese sm1cs_mh007_c560a146:
@@ -1236,7 +1236,7 @@ translate portuguese sm1cs_mh007_c7cf2826:
 translate portuguese sm1cs_mh007_368efa07:
 
     # mc "Mmmm, just - wow - this is a - new feeling!"
-    mc "Mmmm, é que - nossa- isso é uma - sensação nova!"
+    mc "Mmmm, é que - nossa - isso é uma - sensação nova!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh007.rpy:308
 translate portuguese sm1cs_mh007_a12e6db3:
