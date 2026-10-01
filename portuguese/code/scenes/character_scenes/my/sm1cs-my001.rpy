@@ -80,7 +80,7 @@ translate portuguese sm1cs_my001_da48ac70:
 translate portuguese sm1cs_my001_f384df21:
 
     # sy "Yeah, her friend's kid is taking her out to dinner to say thanks for painting the wall. That's all she thinks it is."
-    sy "Sim,  o filho do amigo vai levar ela pra sair em agradecimento por pintar a parede. Ela acha que é só isso."
+    sy "Sim, o filho da amiga vai levar ela pra sair em agradecimento por pintar a parede. Ela acha que é só isso."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:57
 translate portuguese sm1cs_my001_2fb4ae64:
@@ -338,7 +338,7 @@ translate portuguese sm1cs_my001_00c0519d:
 translate portuguese sm1cs_my001_66a9f8ac:
 
     # my "Oh, you little silver tongued devil."
-    my "Ah, seu lábia afiada."
+    my "Ah, seu danadinho da lábia afiada."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:196
 translate portuguese sm1cs_my001_2a8bae02:
@@ -458,7 +458,7 @@ translate portuguese sm1cs_my001_7f89a20b:
 translate portuguese sm1cs_my001_7ef7cda9:
 
     # my "Compliment after compliment... if I didn't know any better, I'd say this was a date."
-    my "Elogio depois de elogio... parece até que isso é um encontro. "
+    my "Elogio depois de elogio... parece até que isso é um encontro."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:256
 translate portuguese sm1cs_my001_eacfa1b7:
@@ -788,7 +788,7 @@ translate portuguese sm1cs_my001_4eadc533:
 translate portuguese sm1cs_my001_b0b4b5c3:
 
     # my "You know, they say that oysters are an aphrodisiac."
-    my "Dizem que ostras são afrodisíaco, sabia?"
+    my "Dizem que ostras são afrodisíacas, sabia dessa?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:422
 translate portuguese sm1cs_my001_d13da080:
@@ -848,7 +848,7 @@ translate portuguese sm1cs_my001_343a0f02:
 translate portuguese sm1cs_my001_2473732d:
 
     # my "When I finished my residency in Crowning, I bought a one way ticket to Europe and spent 6 months roaming and seeing all of the breathtaking art I could find."
-    my "Quando terminei o estágio em Crowning, comprei uma passagem para a Europa e passei 6 meses viajando, vendo toda a arte maravilhosa que encontrei."
+    my "Quando terminei a minha residência em Crowning, comprei uma passagem para a Europa e passei 6 meses viajando, vendo toda a arte maravilhosa que encontrei."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:445
 translate portuguese sm1cs_my001_fb339fdb:
@@ -1004,7 +1004,7 @@ translate portuguese sm1cs_my001_b3ad2cc0:
 translate portuguese sm1cs_my001_f49a102d:
 
     # my "And then the lights came on. The walls, the ceiling... they were covered in these masterpieces. I can't even begin to describe how beautiful they were."
-    my "Aí as luzes se ligaram. As paredes, o teto... estavam todas cobertas de obras de arte. Não consigo nem descrever como eram lindas."
+    my "Aí as luzes se ligaram. As paredes, o teto... estava tudo repleto de obras de arte. Não consigo nem descrever como eram lindas."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:511
 translate portuguese sm1cs_my001_e106e346:
@@ -1142,7 +1142,7 @@ translate portuguese sm1cs_my001_ade744bf:
 translate portuguese sm1cs_my001_b441f99d:
 
     # my "It's been a long time since anyone has taken me on a date. I'm fine with leaning into it a bit."
-    my "Já faz muito tempo que alguém me levou para sair. Não tenho problema nenhum deixar assim um pouco."
+    my "Já faz muito tempo que alguém me levou para sair. Não tenho problema nenhum em deixar rolar um pouco."
 
 # game/code/scenes/character_scenes/my/sm1cs-my001.rpy:580
 translate portuguese sm1cs_my001_85db4fce:
