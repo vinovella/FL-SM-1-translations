@@ -32,7 +32,7 @@ translate portuguese sm1ms028_fa9866de:
 translate portuguese sm1ms028_6e300269:
 
     # dl "My name is Doug Dickles. I am the senior vice president for Porn Cave. I imagine you may have seen some of our videos in your time."
-    dl "Meu nome é Doug Dickles. Sou o vice-presidente sênior da Porn Cave. Imagino que deve ter um visto alguns vídeos nossos."
+    dl "Meu nome é Doug Dickles. Sou o vice-presidente sênior da Porn Cave. Imagino que deve ter assistido alguns vídeos nossos."
 
 # game/code/scenes/main_story/sm1ms028.rpy:22
 translate portuguese sm1ms028_97b002bf:
@@ -80,7 +80,7 @@ translate portuguese sm1ms028_6daf9390:
 translate portuguese sm1ms028_c5c905eb:
 
     # dl "I'd love to sit down with you and your business partner to discuss putting S&M Studio Films up on Porn Cave."
-    dl "Adoraria sentar com você para conversar  com você e sua parceira de negócios para colocaram colocar filmes do S&M Studio no Porn Cave."
+    dl "Adoraria sentar com você e sua parceira de negócios para conversarmos sobre colocar filmes do S&M Studio no Porn Cave."
 
 # game/code/scenes/main_story/sm1ms028.rpy:40
 translate portuguese sm1ms028_d6a492aa:
@@ -104,13 +104,13 @@ translate portuguese sm1ms028_0bf22ea8:
 translate portuguese sm1ms028_78055331:
 
     # mc "When would you like to meet?"
-    mc "Onde gostaria de se encontrar?"
+    mc "Onde gostaria de se reunir?"
 
 # game/code/scenes/main_story/sm1ms028.rpy:48
 translate portuguese sm1ms028_bbc8bf75:
 
     # dl "How about tonight at Fortune Blooms?"
-    dl "Que tal no Future Blooms?"
+    dl "Que tal no Fortune Blooms?"
 
 # game/code/scenes/main_story/sm1ms028.rpy:51
 translate portuguese sm1ms028_42aa0c00:
@@ -236,7 +236,7 @@ translate portuguese sm1ms028_dress_change_01fc37f5:
 translate portuguese sm1ms028_dress_change_f7f142da:
 
     # mc "You do... but."
-    mc "Ta sim... mas."
+    mc "Tá sim... mas."
 
 # game/code/scenes/main_story/sm1ms028.rpy:117
 translate portuguese sm1ms028_dress_change_29f52d66:
@@ -278,7 +278,7 @@ translate portuguese sm1ms028_location_change_4fa38dff:
 translate portuguese sm1ms028_location_change_74fc6761:
 
     # mc "Me too."
-    mc "Também.'"
+    mc "Também."
 
 # game/code/scenes/main_story/sm1ms028.rpy:142
 translate portuguese sm1ms028_location_change_ff94ef85:
@@ -326,7 +326,7 @@ translate portuguese sm1ms028_location_change_eb737c5f:
 translate portuguese sm1ms028_location_change_99b8c33e:
 
     # dl "Many family businesses in our lovely industry."
-    dl "Muitos negócios de família nossa maravilhosa indústria."
+    dl "Muitos negócios de família na nossa maravilhosa indústria."
 
 # game/code/scenes/main_story/sm1ms028.rpy:163
 translate portuguese sm1ms028_location_change_c127ec72:
@@ -362,7 +362,7 @@ translate portuguese sm1ms028_location_change_f01f66e2:
 translate portuguese sm1ms028_location_change_a18d4cd9:
 
     # sy "It's what give S&M Studio it's charm."
-    sy "Isso que dá o charme do S&M Studio"
+    sy "Isso que dá o charme do S&M Studio."
 
 # game/code/scenes/main_story/sm1ms028.rpy:177
 translate portuguese sm1ms028_location_change_c127ec72_1:
@@ -374,13 +374,13 @@ translate portuguese sm1ms028_location_change_c127ec72_1:
 translate portuguese sm1ms028_location_change_8d91c587:
 
     # dl "Please sit. I'll make sure to keep this quick and breezy."
-    dl "Sentem, por favor. Vou manter isso curto e ir direto ao ponto."
+    dl "Sentem, por favor. Vamos resolver isso rapidinho, sem complicação."
 
 # game/code/scenes/main_story/sm1ms028.rpy:183
 translate portuguese sm1ms028_location_change_e2c82066:
 
     # dl "Ah, can you feel it?"
-    dl "Ah, estou sentindo?"
+    dl "Ah, está sentindo?"
 
 # game/code/scenes/main_story/sm1ms028.rpy:186
 translate portuguese sm1ms028_location_change_8cb61ef3:
@@ -422,7 +422,7 @@ translate portuguese sm1ms028_location_change_f98cbc50:
 translate portuguese sm1ms028_location_change_076f72c7:
 
     # dl "It was this pursuit of the finest erotic films that made me launch Porn Cave when I sold my company during the dotcom era."
-    dl "Foi essa busca pelos melhores filmes eróticos que me fez lançar o Pron Cave quando vendi a minha empresa na época que teve a bolha da internet."
+    dl "Foi essa busca pelos melhores filmes eróticos que me fez lançar o Porn Cave quando vendi a minha empresa na época que teve a bolha da internet."
 
 # game/code/scenes/main_story/sm1ms028.rpy:202
 translate portuguese sm1ms028_location_change_a2436371:
@@ -464,7 +464,7 @@ translate portuguese sm1ms028_location_change_188cd48c:
 translate portuguese sm1ms028_location_change_1dabad25:
 
     # sy "How much are we talking?"
-    sy "Quanto que estão falando?"
+    sy "De quanto estamos falando?"
 
 # game/code/scenes/main_story/sm1ms028.rpy:217
 translate portuguese sm1ms028_location_change_3b3bceb7:
@@ -524,7 +524,7 @@ translate portuguese sm1ms028_location_change_32aa417a:
 translate portuguese sm1ms028_location_change_47498af5:
 
     # dl "Ah Stacy you're busting my balls. You want to put me out of business?"
-    dl "Ah Stacy, assim você me quebra. Quer me fazer?"
+    dl "Ah Stacy, assim você me quebra. Quer me falir, é?"
 
 # game/code/scenes/main_story/sm1ms028.rpy:246
 translate portuguese sm1ms028_location_change_a51df987:
@@ -596,7 +596,7 @@ translate portuguese sm1ms028_location_change_b34475e5:
 translate portuguese sm1ms028_location_change_d45566a9:
 
     # dl "But that is just the start. I bet my last penny you guys will be making a mint in no time."
-    dl "Mas isso é só o início. Aposto meu último centavo que vocês vão fazer uma grana preta em rapidinho."
+    dl "Mas isso é só o começo. Aposto meu último centavo que vocês vão fazer uma grana preta rapidinho."
 
 # game/code/scenes/main_story/sm1ms028.rpy:274
 translate portuguese sm1ms028_location_change_c8269718:
@@ -692,7 +692,7 @@ translate portuguese sm1ms028_location_change_56bce541:
 translate portuguese sm1ms028_location_change_cf393595:
 
     # dl "I'll have my legal reach out to you."
-    dl "Meu departamento legal vai em contato."
+    dl "Meu departamento legal vai entrar em contato."
 
 # game/code/scenes/main_story/sm1ms028.rpy:303
 translate portuguese sm1ms028_location_change_741c6a71:
@@ -716,7 +716,7 @@ translate portuguese sm1ms028_location_change_3094e3e9:
 translate portuguese sm1ms028_location_change_28fca550:
 
     # dl "But if you've found yourself locked up in the drunk tank, you're going to be glad you have one."
-    dl "Mas se acabar jogado na cela dos bêbados, vai ficar feliz de ter."
+    dl "Mas se acabar na cela com os bêbados, vai ficar feliz de ter."
 
 # game/code/scenes/main_story/sm1ms028.rpy:313
 translate portuguese sm1ms028_location_change_999a2f4d:
@@ -944,7 +944,7 @@ translate portuguese sm1ms028_location_change_c71b2db1:
 translate portuguese sm1ms028_location_change_e92238cf:
 
     # mc "This is great. If things work out with Dickles, this is the going to be the beginning of a whole new chapter for us, Stacy!"
-    mc "Maravilha. Se as coisas deram certo com o Dickles, esse vai ser o começo de um novo capítulo pra gente, Stacy!"
+    mc "Maravilha. Se as coisas derem certo com o Dickles, esse vai ser o começo de um novo capítulo pra gente, Stacy!"
 
 # game/code/scenes/main_story/sm1ms028.rpy:422
 translate portuguese sm1ms028_location_change_306afde4:
@@ -964,7 +964,7 @@ translate portuguese strings:
 
     # game/code/scenes/main_story/sm1ms028.rpy:348
     old "We're going to be rich!"
-    new "Vamos ficar ricos"
+    new "Vamos ficar ricos!"
 
 translate portuguese strings:
 
@@ -1006,5 +1006,5 @@ translate portuguese sm1ms028_location_change_50233dc1:
 translate portuguese sm1ms028_location_change_8a80e7f6:
 
     # mc "All that hard work is finally paying off!"
-    mc "Todo o trabalho duro finalmente tá dando resultado!"
+    mc "Todo aquele trabalho duro finalmente tá dando resultado!"
 
