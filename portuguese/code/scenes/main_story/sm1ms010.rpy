@@ -8,7 +8,7 @@ translate portuguese sm1ms010_4e8ce3bb:
 translate portuguese sm1ms010_5aa30990:
 
     # sy "Since we're finally making movies, I want to be locked and loaded with fun toys to use in new scenes."
-    sy "Já que finalmente estamos fazendo filmes, eu queria ter vários itens pra usar nas novas."
+    sy "Já que finalmente estamos fazendo filmes, eu queria ter vários itens pra usar nas novas cenas."
 
 # game/code/scenes/main_story/sm1ms010.rpy:53
 translate portuguese sm1ms010_3b932df8:
@@ -254,7 +254,7 @@ translate portuguese sm1ms010_389b993d:
 translate portuguese sm1ms010_c356348e:
 
     # mc "Sure, I can do that."
-    mc "Sim, tenho sim."
+    mc "Beleza, posso sim."
 
 # game/code/scenes/main_story/sm1ms010.rpy:187
 translate portuguese sm1ms010_e47c0dcb:
@@ -266,7 +266,7 @@ translate portuguese sm1ms010_e47c0dcb:
 translate portuguese sm1ms010_72c4df39:
 
     # mc "Do you really want to know or are you just asking?"
-    mc "Você quer mesmo saber ou so tá perguntando mesmo?"
+    mc "Você quer mesmo saber ou só tá perguntando mesmo?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:196
 translate portuguese sm1ms010_cb27b157:
@@ -296,7 +296,7 @@ translate portuguese sm1ms010_e57e8299:
 translate portuguese sm1ms010_8771fe0f:
 
     # mc "Heh, well, it is something I excel at."
-    mc "Hehe, bom, eu sou ótimo isso."
+    mc "Hehe, bom, eu sou ótimo nisso."
 
 # game/code/scenes/main_story/sm1ms010.rpy:216
 translate portuguese sm1ms010_5c81ff0a:
@@ -392,7 +392,7 @@ translate portuguese sm1ms010_drink_tea_749ec172:
 translate portuguese sm1ms010_drink_tea_d18bde2b:
 
     # mc "Stacy and I are being very careful about everything, AmRose."
-    mc "Eu e a Stacy estamos sendo bem cuidados com tudo, AmRose."
+    mc "Eu e a Stacy estamos sendo bem cuidadsoos com tudo, AmRose."
 
 # game/code/scenes/main_story/sm1ms010.rpy:272
 translate portuguese sm1ms010_drink_tea_d768196e:
@@ -404,7 +404,7 @@ translate portuguese sm1ms010_drink_tea_d768196e:
 translate portuguese sm1ms010_drink_tea_518bfaf8:
 
     # mc "I work with them, I {i}know{/i} them.{w} We're not bringing in random people from off the street."
-    mc "Eu trabalho com elas. Eu {i}conheço{/i} elas. Não estamos trazendo pessoas aleatórias doo meio da rua."
+    mc "Eu trabalho com elas. Eu {i}conheço{/i} elas. Não estamos arrastando pessoas aleatórias do meio da rua."
 
 # game/code/scenes/main_story/sm1ms010.rpy:277
 translate portuguese sm1ms010_drink_tea_eceacc52:
@@ -452,7 +452,7 @@ translate portuguese sm1ms010_drink_tea_bddd1ea5:
 translate portuguese sm1ms010_drink_tea_7db4817d:
 
     # arj "You're not meant for something tedious."
-    arj "Você não dá pra coisas tediosas."
+    arj "Você não foi feito para coisas tediosas."
 
 # game/code/scenes/main_story/sm1ms010.rpy:295
 translate portuguese sm1ms010_drink_tea_43979e8e:
@@ -464,7 +464,7 @@ translate portuguese sm1ms010_drink_tea_43979e8e:
 translate portuguese sm1ms010_drink_tea_d28fef69:
 
     # mct "Haha. She doesn't even know how right she is."
-    mct "Haha. Ela não faz ideia de como ela tem razão."
+    mct "Haha. Ela não faz ideia de como tem razão."
 
 # game/code/scenes/main_story/sm1ms010.rpy:301
 translate portuguese sm1ms010_drink_tea_5298a88f:
@@ -656,7 +656,7 @@ translate portuguese sm1ms010_arj_sex_43de6e64:
 translate portuguese sm1ms010_arj_sex_c410727d:
 
     # mct "It's been weeks, but she's gobbling up my cock like a dog with a bone."
-    mct "Já faz uma semana, mas ela tá engolindo meu pau que nem um cachorro com um osso."
+    mct "Faz umas semanas, mas ela tá abocanhando meu pau que nem um cachorro com um osso."
 
 # game/code/scenes/main_story/sm1ms010.rpy:438
 translate portuguese sm1ms010_arj_sex_baf88295:
@@ -728,7 +728,7 @@ translate portuguese sm1ms010_arj_sex_e526a903:
 translate portuguese sm1ms010_arj_footfetish_7d086807:
 
     # arj "Let me touch you with my toes."
-    arj "Deixa eu te tocar com os dedões."
+    arj "Deixa eu te tocar com os dedos dos pés."
 
 # game/code/scenes/main_story/sm1ms010.rpy:504
 translate portuguese sm1ms010_arj_footfetish_027245ba:
@@ -830,7 +830,7 @@ translate portuguese sm1ms010_after_footfetish_ddee7cc4:
 translate portuguese sm1ms010_after_footfetish_87319fb4:
 
     # arj "Did... did your cock miss my pussy?"
-    arj "O... o seu pau sentiu falta na minha boceta?"
+    arj "O... o seu pau sentiu falta da minha boceta?"
 
 # game/code/scenes/main_story/sm1ms010.rpy:581
 translate portuguese sm1ms010_after_footfetish_7a00ef4e:
@@ -1052,7 +1052,7 @@ translate portuguese sm1ms010_arj_searching_e9c600a2:
 translate portuguese sm1ms010_arj_searching_e21fbc7e:
 
     # arj "(NO. It's got to be somewhere, she is just being extra sneaky about it.)"
-    arj "(NÃO! Tem que estar por aqui, ela só deve estar escondendo bem.)"
+    arj "(NÃO. Tem que estar por aqui, ela só deve estar escondendo bem.)"
 
 # game/code/scenes/main_story/sm1ms010.rpy:732
 translate portuguese sm1ms010_arj_searching_e9545dfd:
@@ -1106,7 +1106,7 @@ translate portuguese sm1ms010_arj_searching_b3dc77bc:
 translate portuguese sm1ms010_arj_searching_de30cb47:
 
     # arj "And I have work to do."
-    arj "E tenho que coisas a fazer."
+    arj "E tenho que um trabalho a fazer."
 
 # game/code/scenes/main_story/sm1ms010.rpy:766
 translate portuguese sm1ms010_arj_searching_991251f4:
@@ -1136,7 +1136,7 @@ translate portuguese sm1ms010_arj_searching_43433154:
 translate portuguese sm1ms010_arj_searching_f9b854fd:
 
     # mct "After what happened, I figured she would want to hang out a bit more, but I guess not."
-    mct "Depois do que aconteceu eu pensei que a gente andar mais, mas acho que não."
+    mct "Depois do que aconteceu eu pensei que ela ia querer passar mais tempo juntos, mas parece que não."
 
 # game/code/scenes/main_story/sm1ms010.rpy:777
 translate portuguese sm1ms010_arj_searching_62619afa:
