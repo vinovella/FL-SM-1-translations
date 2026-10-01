@@ -152,7 +152,7 @@ translate portuguese sm1cs_ns004_4ea72e8f:
 translate portuguese sm1cs_ns004_fd9c4d8f:
 
     # ns "So you might be better off just putting all of your hard currency into gold and then buying a gun and hiding somewhere for ten to twelve months while civilization restarts."
-    ns "Então é melhor você jogar todo o seu dinheiro em ouro e comprar uma arma, aí esconder isso por dez a doze meses enquanto a civilização volta."
+    ns "Então é melhor você botar todo o seu dinheiro em ouro e comprar uma arma, aí se esconder por dez a doze meses enquanto a civilização volta."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:71
 translate portuguese sm1cs_ns004_2b35b6fe:
@@ -332,7 +332,7 @@ translate portuguese sm1cs_ns004_work_end_9b30afd9:
 translate portuguese sm1cs_ns004_work_end_93d56d9b:
 
     # mc "I was just wondering if you wanted to go take a walk in the park again."
-    mc "Eu queria saber se você estava a fim de dar uma volta no parque novo."
+    mc "Eu queria saber se você estava a fim de dar uma volta no parque de novo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:164
 translate portuguese sm1cs_ns004_work_end_0eb46009:
@@ -362,7 +362,7 @@ translate portuguese sm1cs_ns004_work_end_f71f1553:
 translate portuguese sm1cs_ns004_work_end_cc3b4193:
 
     # mc "*whispers* Besides, if we go for a walk, we can talk about the naughty things we like."
-    mc "*sussurro* E se a gente dar uma caminhada, podemos falar sobre as safadezas que a gente gosta."
+    mc "*sussurro* E se a gente der uma caminhada, podemos falar sobre as safadezas que a gente gosta."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:175
 translate portuguese sm1cs_ns004_work_end_e17494be:
@@ -374,7 +374,7 @@ translate portuguese sm1cs_ns004_work_end_e17494be:
 translate portuguese sm1cs_ns004_work_end_32a1aacb:
 
     # mc "I knew talking about naughty things would get you out the door."
-    mc "Sabe que mencionar putaria faria você sair."
+    mc "Sabia que mencionar putaria faria você sair."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:179
 translate portuguese sm1cs_ns004_work_end_dcbbb2d1:
@@ -398,7 +398,7 @@ translate portuguese sm1cs_ns004_at_park_37cc65ad:
 translate portuguese sm1cs_ns004_at_park_8960b571:
 
     # mct "Nari must know she can tell me everything, right? But whatever this is, it seems like she doesn't want to talk about it."
-    mct "A Nari sabe que pode me falar qualquer coisa comigo, né? Mas seja lá o que for, parece que ela não quer conversar sobre isso."
+    mct "A Nari sabe que pode me contar qualquer coisa, né? Mas seja lá o que for, parece que ela não quer conversar sobre isso."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:204
 translate portuguese sm1cs_ns004_at_park_fec7a803:
@@ -434,7 +434,7 @@ translate portuguese sm1cs_ns004_at_park_41f20396:
 translate portuguese sm1cs_ns004_at_park_2559b7f9:
 
     # mc "So, are you going to tell me what is wrong, Nari?"
-    mc "Então, vai me falar que tem de errado, Nari?"
+    mc "Então, Nari. Vai me falar o que tem de errado?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:224
 translate portuguese sm1cs_ns004_at_park_3072401e:
@@ -656,7 +656,7 @@ translate portuguese sm1cs_ns004_at_park_0105b811:
 translate portuguese sm1cs_ns004_at_park_cfaa7fc4:
 
     # ns "There was a scene where this one guy needed to use the bathroom. He asked a girl where it was, and she took him somewhere... where they could be alone."
-    ns "Tinha uma cena com um homem que precisava usar o banheiro. Ele perguntou uma garota onde ficava, e ela levou ele... a um lugar onde estariam a sós."
+    ns "Tinha uma cena com um homem que precisava usar o banheiro. Ele perguntou a uma garota onde ficava, e ela levou ele... a um lugar onde estariam a sós."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:316
 translate portuguese sm1cs_ns004_at_park_7cec52a4:
@@ -668,7 +668,7 @@ translate portuguese sm1cs_ns004_at_park_7cec52a4:
 translate portuguese sm1cs_ns004_at_park_4b1c73c4:
 
     # ns "The guy asked her where the bathroom was, and without missing a beat, she just pointed to her mouth."
-    ns "O homem perguntou onde ficava o banheiro, mas sempre estarei já, ela simplesmente apontou para a própria boca."
+    ns "O homem perguntou onde ficava o banheiro, mas sem pestanejar, ela simplesmente apontou para a própria boca."
 
 # game/code/scenes/it_office/ns/sm1cs-ns004.rpy:320
 translate portuguese sm1cs_ns004_at_park_fc46abff:
