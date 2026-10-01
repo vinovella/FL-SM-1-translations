@@ -248,7 +248,7 @@ translate portuguese sm1cs_mes007_a2cc4f25:
 translate portuguese sm1cs_mes007_e3eba9ae:
 
     # mc "And what if I demand to stay?"
-    mc "E se eu exigir ficar."
+    mc "E se eu exigir ficar?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:202
 translate portuguese sm1cs_mes007_7c05cd24:
@@ -344,7 +344,7 @@ translate portuguese sm1cs_mes007_934d50eb:
 translate portuguese sm1cs_mes007_e07079f7:
 
     # mc "You don't want me to help unpacking?"
-    mc "Não quer me ajudar a desempacotar?"
+    mc "Não quer que eu ajude a desempacotar?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:249
 translate portuguese sm1cs_mes007_102ffd65:
@@ -800,7 +800,7 @@ translate portuguese sm1cs_mes007_continue_5f04f942:
 translate portuguese sm1cs_mes007_continue_2bfe31e7:
 
     # mc "You're the best, Min."
-    mc "Mon, você é foda."
+    mc "Min, você é foda."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:561
 translate portuguese sm1cs_mes007_continue_7189ab6d:
@@ -848,7 +848,7 @@ translate portuguese sm1cs_mes007_continue_4cd77608:
 translate portuguese sm1cs_mes007_continue_513d6040:
 
     # mes "But at the end of the day, solving complicated business math is nothing."
-    mes "Mas no final,  solucionar matemática empresarial complicada não é nada."
+    mes "Mas no final, solucionar matemática empresarial complicada não é nada."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:581
 translate portuguese sm1cs_mes007_continue_95a65dec:
@@ -1112,7 +1112,7 @@ translate portuguese sm1cs_mes007_continue_9840b0f1:
 translate portuguese sm1cs_mes007_continue_dea7848b:
 
     # mes "And your spunk."
-    mes "E da gozada."
+    mes "E a sua gozada."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes007.rpy:770
 translate portuguese sm1cs_mes007_continue_af082a20:
