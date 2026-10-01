@@ -32,7 +32,7 @@ translate portuguese sm1cs_ns012_8e613c3e:
 translate portuguese sm1cs_ns012_2bf8c43c:
 
     # mc "[mcname], he's not the superhero Crowning asked for, but he's the one they got."
-    mc "[mcname] não é o superherói que Crowning pediu, mas é o que ela tem."
+    mc "[mcname] não é o super-herói que Crowning pediu, mas é o que ela tem."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:99
 translate portuguese sm1cs_ns012_2b9dc28c:
@@ -56,7 +56,7 @@ translate portuguese sm1cs_ns012_ac005665:
 translate portuguese sm1cs_ns012_394f5ddd:
 
     # mc "I don't know, Nari. I think you're selling yourself short."
-    mc "Sei não, Nari. Acho que você tá se subestimando. "
+    mc "Sei não, Nari. Acho que você tá se subestimando."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:112
 translate portuguese sm1cs_ns012_1f2948b7:
@@ -188,7 +188,7 @@ translate portuguese sm1cs_ns012_dc16ebcd:
 translate portuguese sm1cs_ns012_22189507:
 
     # ns "Alright, time for me to share my secret."
-    ns "Agora,  hora de eu compartilhar o meu segredo."
+    ns "Agora, hora de eu compartilhar o meu segredo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:184
 translate portuguese sm1cs_ns012_f1b0561f:
@@ -302,7 +302,7 @@ translate portuguese sm1cs_ns012_2d6ebeed:
 translate portuguese sm1cs_ns012_4318cea7:
 
     # ns "When you walk in here, and it is just the two of us, consider my firewalls down and you can pilfer my entire domain."
-    ns "Quando entrar aqui, e só tiver nós dois, quero que considere o meu firewall desativado, e roubar o meu domínio."
+    ns "Quando entrar aqui, e só tiver nós dois, quero que considere o meu firewall desativado, e pode saquear o meu domínio."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:233
 translate portuguese sm1cs_ns012_5625d153:
@@ -338,7 +338,7 @@ translate portuguese sm1cs_ns012_06100b4f:
 translate portuguese sm1cs_ns012_855f9fce:
 
     # ns "I can do that. You just need to ask."
-    ns "Posso fazer isso.  É só você perguntar."
+    ns "Posso fazer isso. É só você perguntar."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:252
 translate portuguese sm1cs_ns012_25f65dd6:
@@ -356,7 +356,7 @@ translate portuguese sm1cs_ns012_44a37075:
 translate portuguese sm1cs_ns012_1738e772:
 
     # ns "Hmmmm.{w} That's alright with me."
-    ns "Hmmmm.{w}  Por mim tudo bem."
+    ns "Hmmmm.{w} Por mim tudo bem."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:259
 translate portuguese sm1cs_ns012_1cda48fb:
@@ -476,7 +476,7 @@ translate portuguese sm1cs_ns012_4acf1f08:
 translate portuguese sm1cs_ns012_939df601:
 
     # ns "Whatever you want."
-    ns "Do que quiser."
+    ns "O que você quiser."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:327
 translate portuguese sm1cs_ns012_pet_label_63514178:
@@ -500,7 +500,7 @@ translate portuguese sm1cs_ns012_pet_label_8892c659:
 translate portuguese sm1cs_ns012_pet_label_a2cc89c8:
 
     # "You haven't entered a pet label. No pet label for Nari will be used."
-    "Você não inseriu um inseriu um apelido. Não usara  apelidos com Nari."
+    "Você não inseriu um apelido. Não usará apelidos com Nari."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:335
 translate portuguese sm1cs_ns012_pet_label_67dfa086:
@@ -524,13 +524,13 @@ translate portuguese sm1cs_ns012_pet_label_f4b1305b:
 translate portuguese sm1cs_ns012_pet_label_446869c3:
 
     # "You haven't entered a pet label. No pet label will be used for you."
-    "Você não inseriu um inseriu um apelido.  Você não terá um apelido."
+    "Você não inseriu um apelido. Você não terá um apelido."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:350
 translate portuguese sm1cs_ns012_pet_label_8ac0db12:
 
     # "Good. Nari will call you her [nsmcpetlabel]."
-    "Ótimo. Nari chamará de [nsmcpetlabel]."
+    "Ótimo. Nari chamará você de [nsmcpetlabel] dela."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:360
 translate portuguese sm1cs_ns012_pet_label_f2e3a025:
@@ -866,7 +866,7 @@ translate portuguese sm1cs_ns012_part_2_be806f20:
 translate portuguese sm1cs_ns012_part_2_0c440a1b:
 
     # mct "I'm so lucky we met at Orbix."
-    mct "Sou tão sortudo de trabalhar na Orbix."
+    mct "Sou tão sortudo que a gente se conheceu na Orbix."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:544
 translate portuguese sm1cs_ns012_part_2_3e080c6f:
@@ -1094,7 +1094,7 @@ translate portuguese sm1cs_ns012_part_2_502bd281:
 translate portuguese sm1cs_ns012_part_2_d1552f12:
 
     # ns "I felt... that I could be comfortable with you."
-    ns "Eu senti...  que podia ficar à vontade com você."
+    ns "Eu senti... que podia ficar à vontade com você."
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:661
 translate portuguese sm1cs_ns012_part_2_29c8cddc:
@@ -1484,7 +1484,7 @@ translate portuguese sm1cs_ns012_part_2_2dca4bc6:
 translate portuguese sm1cs_ns012_part_2_42886d07:
 
     # ns "No toy even comes close-fhuaaah!"
-    ns "Não tem um dildo que chegue perto- aaaaah!"
+    ns "Não tem um dildo que chegue perto-aaaaah!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:871
 translate portuguese sm1cs_ns012_part_2_5a0cc609:
@@ -1496,7 +1496,7 @@ translate portuguese sm1cs_ns012_part_2_5a0cc609:
 translate portuguese sm1cs_ns012_part_2_873a05f3:
 
     # ns "Fuck, me... oh [mcname]... *moans*{w} Eiiaaah-ahuaaah!"
-    ns "Porra... aaih, [mcname]... *gemido*{w}  Aaaaaaaah!"
+    ns "Porra... aaih, [mcname]... *gemido*{w} Aaaaaaaah!"
 
 # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:873
 translate portuguese sm1cs_ns012_part_2_67215ad1:
@@ -1900,7 +1900,7 @@ translate portuguese strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:321
     old "Create a pet label for Nari and you during private sex like this."
-    new "Criar um apelido para Nari durante sexo privado assim"
+    new "Criar um apelido para Nari e você durante sexo privado assim."
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:321
     old "Create pet labels"
@@ -1908,7 +1908,7 @@ translate portuguese strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:321
     old "I prefer us just being who we are, Nari"
-    new "Prefiro deixar só eu e você"
+    new "Nari, eu prefiro que a gente seja nós mesmos"
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:324
     old "Do you want to describe Nari in a special way?"
@@ -1924,7 +1924,7 @@ translate portuguese strings:
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:345
     old "Please enter pet label for you."
-    new "Por favor, insira um apelido para você"
+    new "Por favor, insira um apelido para você."
 
     # game/code/scenes/it_office/ns/sm1cs-ns012.rpy:729
     old "Cum inside Nari"
@@ -1950,5 +1950,5 @@ translate portuguese strings:
 translate portuguese sm1cs_ns012_after_shower_9bc32cdb:
 
     # ns "Mhwaaah. Nothing like a hot shower after being fucked so good."
-    ns "Mhwaaah.  Nada melhor que um banho quente depois de uma transa tão gostosa."
+    ns "Mhwaaah. Nada melhor que um banho quente depois de uma transa tão gostosa."
 
