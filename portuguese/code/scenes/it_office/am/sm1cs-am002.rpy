@@ -92,7 +92,7 @@ translate portuguese sm1cs_am002_8cb7e073:
 translate portuguese sm1cs_am002_ebca0e7d:
 
     # ag "Hmmm. Yes."
-    ag "Hmmm. Isso."
+    ag "Hmmm. Sim."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:103
 translate portuguese sm1cs_am002_91ba7775:
@@ -206,7 +206,7 @@ translate portuguese sm1cs_am002_acaba40a:
 translate portuguese sm1cs_am002_1d114e05:
 
     # ag "I'm trying to see where all the pieces are so I can make a progress report, but you keep disabling the remote viewer tools."
-    ag "Eu estou tentando ver todos os pedaços pra poder fazer um relatório de progresso, mas você fica desabilitando o visualizador remotamente."
+    ag "Eu estou tentando ver todos os pedaços pra poder fazer um relatório de progresso, mas você fica desabilitando os visualizadores remotos."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:171
 translate portuguese sm1cs_am002_f0dc70c4:
@@ -344,7 +344,7 @@ translate portuguese sm1cs_am002_f7040f67:
 translate portuguese sm1cs_am002_95bfe05b:
 
     # am "In case you weren't listening in already, I'm going to be working at the park."
-    am "Caso você não estava prestando atenção, vou trabalhar no parque."
+    am "Se você não estava prestando atenção, vou trabalhar no parque."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:249
 translate portuguese sm1cs_am002_593462c9:
@@ -554,7 +554,7 @@ translate portuguese sm1cs_am002_38cb486e:
 translate portuguese sm1cs_am002_f059d2ec:
 
     # ag "*sighs* April, please just talk to me.{w} This isn't like you. I mean, it's like you, but... even with all your insults and petty barbs, you never get this far behind."
-    ag "*suspiro* April, só fala comigo.{w} Você não é assim. Quero dizer, é , mas... mesmo com suas farpas e insultos, você nunca fica tão atrasada assim."
+    ag "*suspiro* April, só fala comigo.{w} Você não é assim. Quero dizer, até é, mas... mesmo com suas farpas e insultos, você nunca fica tão atrasada assim."
 
 # game/code/scenes/it_office/am/sm1cs-am002.rpy:201
 translate portuguese sm1cs_am002_371de864:
