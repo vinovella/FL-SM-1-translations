@@ -350,7 +350,7 @@ translate portuguese sm1cs_am006_arcade_11455b53:
 translate portuguese sm1cs_am006_arcade_d7d5c177:
 
     # am "Yeah, I mean, why else would you be at Orbix, making a half-ass attempt at becoming a real coder."
-    am "É, tipo, o que mais você estaria na Orbix, tentando meia boca se tornar um programador de verdade."
+    am "É, tipo, por que mais você estaria na Orbix, tentando meia boca se tornar um programador de verdade."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:205
 translate portuguese sm1cs_am006_arcade_41f6db2c:
@@ -872,7 +872,7 @@ translate portuguese sm1cs_am006_arcade_43393439:
 translate portuguese sm1cs_am006_arcade_6e779a52:
 
     # am "Unless... you wanted me to-"
-    am "A não ser que... você queria que eu-"
+    am "A não ser que... você quisesse que eu-"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:665
 translate portuguese sm1cs_am006_arcade_421888ee:
@@ -884,7 +884,7 @@ translate portuguese sm1cs_am006_arcade_421888ee:
 translate portuguese sm1cs_am006_arcade_5974a2b0:
 
     # mc "April... It's not just about what I want."
-    mc "April... não é só isso que eu quero."
+    mc "April... não é só sobre o que eu quero."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:672
 translate portuguese sm1cs_am006_arcade_b43108d8:
@@ -1006,7 +1006,7 @@ translate portuguese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
     old "You're messing with me, aren't you?"
-    new "Você tá bagunçando comigo, né"
+    new "Você tá bagunçando comigo, né?"
 
     # game/code/scenes/it_office/am/sm1cs-am006.rpy:142
     old "I'm glad we both look good"
@@ -1226,7 +1226,7 @@ translate portuguese sm1cs_am006_arcade_811460c5:
 translate portuguese sm1cs_am006_arcade_8441b9e9:
 
     # mct "Woah.{w} She's... she's really into this."
-    mct "Uou.{w} Ela... ela tá muito nisso."
+    mct "Eita.{w} Ela... ela tá curtindo bastante."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:665
 translate portuguese sm1cs_am006_arcade_07a645a2:
@@ -1238,7 +1238,7 @@ translate portuguese sm1cs_am006_arcade_07a645a2:
 translate portuguese sm1cs_am006_arcade_9eebb2e3:
 
     # am "I know.{w} I don't know what's gotten into me."
-    am "Eu sei.{w} Eu não sei o que deu em mim."
+    am "Eu sei.{w} Não sei o que deu em mim."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:679
 translate portuguese sm1cs_am006_arcade_5446535a:
@@ -1249,14 +1249,14 @@ translate portuguese sm1cs_am006_arcade_5446535a:
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:683
 translate portuguese sm1cs_am006_arcade_157700e7:
 
-    # mc "So what happens now?"
+        # mc "So what happens now?"
     mc "Então o que acontece agora?"
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:688
 translate portuguese sm1cs_am006_arcade_f98c4280:
 
     # am "You {i}were{/i} right, this was a good idea."
-    am "Você {i}tava{/i} certo, isso foi uma boa ideia."
+    am "Você {i}estava{/i} certo, isso foi uma boa ideia."
 
 # game/code/scenes/it_office/am/sm1cs-am006.rpy:689
 translate portuguese sm1cs_am006_arcade_bb8e3797:
