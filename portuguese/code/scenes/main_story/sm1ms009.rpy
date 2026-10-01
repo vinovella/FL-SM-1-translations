@@ -8,7 +8,7 @@ translate portuguese sm1ms009_99dd1116:
 translate portuguese sm1ms009_55f01b7b:
 
     # sy "It totally does. Makes me think we need to redo the whole studio sooner rather than later..."
-    sy "Com certeza. Me dá vontade de adiantar as coisas reformar o estudo o dia inteiro..."
+    sy "Realmente. Me dá vontade de adiantar as coisas reformar o estúdio o quanto antes..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:114
 translate portuguese sm1ms009_72de6107:
@@ -56,7 +56,7 @@ translate portuguese sm1ms009_f347ee91:
 translate portuguese sm1ms009_6accfe95:
 
     # kv "Hey, [mcname]!"
-    kv "Ok, [mcname]!"
+    kv "Oi, [mcname]!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:139
 translate portuguese sm1ms009_c7a254ee:
@@ -200,13 +200,13 @@ translate portuguese sm1ms009_b1051e16:
 translate portuguese sm1ms009_d0b1bfe3:
 
     # kv "Well, how do we start the scene?"
-    kv "Hmm,  como vamos começar a cena?"
+    kv "Hmm, como vamos começar a cena?"
 
 # game/code/scenes/main_story/sm1ms009.rpy:209
 translate portuguese sm1ms009_27596b59:
 
     # sy "Oh, I'm just here to clean this rich man's studio apartment, a bachelor who made all his money in tech. He's not looking for love, he's looking for something {i}more{/i}."
-    sy "Ah, eu vim aqui limpar o apartamento de um rico, um solteirão ficou rico em empresa de tecnologia. Ele não tá procurando por amor, quer algo {i}mais{/i}."
+    sy "Ah, eu vim aqui limpar o apartamento de um rico, um solteirão que ficou rico em empresa de tecnologia. Ele não tá procurando por amor, quer algo {i}mais{/i}."
 
 # game/code/scenes/main_story/sm1ms009.rpy:211
 translate portuguese sm1ms009_328e24e4:
@@ -416,7 +416,7 @@ translate portuguese sm1ms009_ac19358c:
 translate portuguese sm1ms009_e52f496b:
 
     # kv "I've got a lot of things to do to get set before you can go - make sure the audio levels are set, focus is sharp... so wait for the magic word."
-    kv "Tenho que fazer um bocado de coisas no set antes de começarem - garantir que os níveis de áudio estão certos, nítido... então esperem a palavrinha mágica."
+    kv "Tenho que fazer um bocado de coisas no set antes de começarem - garantir que os níveis de áudio estão certos, foco tá nítido... então esperem a palavrinha mágica."
 
 # game/code/scenes/main_story/sm1ms009.rpy:308
 translate portuguese sm1ms009_ad09b856:
@@ -1052,7 +1052,7 @@ translate portuguese sm1ms099_recording_69c9cb99:
 translate portuguese sm1ms099_recording_75c37fb0:
 
     # sy "Mmmmm, gladly, sir..."
-    sy "Mmmmm, com prazer , senhor..."
+    sy "Mmmmm, com prazer, senhor..."
 
 # game/code/scenes/main_story/sm1ms009.rpy:602
 translate portuguese sm1ms099_recording_2ba56993:
@@ -1100,7 +1100,7 @@ translate portuguese sm1ms099_recording_98d4adbb:
 translate portuguese sm1ms099_recording_71b16219:
 
     # kv "{size=*0.8}*whisper* Mix it up a bit, something other than dirty and cleaning your cock...{/size}"
-    kv "{size=*0.8}*sussurro* Dá uma misturada, algo além de sujeira de limpar o seu pau...{/size}"
+    kv "{size=*0.8}*sussurro* Dá uma misturada, algo além de sujeira e limpar o seu pau...{/size}"
 
 # game/code/scenes/main_story/sm1ms009.rpy:620
 translate portuguese sm1ms099_recording_131d087f:
@@ -1166,7 +1166,7 @@ translate portuguese sm1ms099_recording_d28de4db:
 translate portuguese sm1ms099_recording_6d4a87bb:
 
     # mc "I paid extra for the {i}full service{/i} package, and you better show me where that extra money went!"
-    mc "Eu paguei extra pelo {i}serviço completo{/i}, é bom que você mostrar onde esse dinheiro foi parar!"
+    mc "Eu paguei extra pelo {i}serviço completo{/i}, acho bom você mostrar onde esse dinheiro foi parar!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:643
 translate portuguese sm1ms099_recording_2db749ef:
@@ -1712,7 +1712,7 @@ translate portuguese sm1ms099_recording_9935efd9:
 translate portuguese sm1ms099_recording_83acab6e:
 
     # kv "And that also means that you need to hold out from just fucking the shit out of Stacy until we have enough footage. That there's cuts, and edit points, and... a lot of shit."
-    kv "E isso também quer dizer que você precisa se segurar pra não acabar com a Stacy até ter gravado o bastante. Que temos cortes, ponbtos de edição, e... muita merda."
+    kv "E isso também quer dizer que você precisa se segurar pra não acabar com a Stacy até ter gravado o bastante. Que temos cortes, pontos de edição, e... muita merda."
 
 # game/code/scenes/main_story/sm1ms009.rpy:907
 translate portuguese sm1ms099_recording_f609deb3:
@@ -1826,7 +1826,7 @@ translate portuguese sm1ms099_recording_9678d6e4:
 translate portuguese sm1ms099_recording_4591370f:
 
     # sy "Good! Happy to see your nice, hard cock again!"
-    sy "Ótimo! Que bom para o seu pau duro de novo!"
+    sy "Ótimo! Que bom ver o seu pau duro de novo!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:966
 translate portuguese sm1ms009_bonus_0b56f68c:
@@ -2246,7 +2246,7 @@ translate portuguese sm1ms009_part_2_1c8edda9:
 translate portuguese sm1ms009_part_2_09ea3a1f:
 
     # sy "Yes, sir! All the better for - mmmmm - cleaning your huge diiiick!"
-    sy "Sim senhor! É melhor pra - mhmmm - Limpar o seu pauzãããão!"
+    sy "Sim senhor! É melhor pra - mhmmm - limpar o seu pauzãããão!"
 
 # game/code/scenes/main_story/sm1ms009.rpy:1176
 translate portuguese sm1ms009_part_2_24bb7098:
@@ -2444,7 +2444,7 @@ translate portuguese sm1ms009_part_2_43fff11b:
 translate portuguese sm1ms009_part_2_4b430ed9:
 
     # kv "Never. But, you're also not the first people I've met that wanted to make porn."
-    kv "Jamais. Mas vocês são as primeiras pessoas que eu conheci que querem fazer pornô."
+    kv "Jamais. Mas vocês não são as primeiras pessoas que eu conheci que querem fazer pornô."
 
 # game/code/scenes/main_story/sm1ms009.rpy:1265
 translate portuguese sm1ms009_part_2_9448c396:
@@ -2462,7 +2462,7 @@ translate portuguese sm1ms009_part_2_9da999f1:
 translate portuguese sm1ms009_part_2_653f8d39:
 
     # sy "Okay, give me a sec. Let me go clean up."
-    sy "Tá, me dá uma instantinho. Deixa só eu me limpar."
+    sy "Tá, me dá um instantinho. Deixa só eu me limpar."
 
 # game/code/scenes/main_story/sm1ms009.rpy:1274
 translate portuguese sm1ms009_part_2_27c0c0c3:
