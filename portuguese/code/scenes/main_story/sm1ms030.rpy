@@ -110,7 +110,7 @@ translate portuguese sm1ms030_3bec21e1:
 translate portuguese sm1ms030_2c3679dd:
 
     # sy "Plus, this is the S&M Studio ending after all."
-    sy "E esse final é do S&M Studio, né. "
+    sy "E esse é final do S&M Studio, né. "
 
 # game/code/scenes/main_story/sm1ms030.rpy:78
 translate portuguese sm1ms030_2b8f492d:
@@ -284,7 +284,7 @@ translate portuguese sm1ms030_71ace65e:
 translate portuguese sm1ms030_9264c021:
 
     # sy "Well, the cast is already pretty big. We only had one spot in Season One for a returning character, and Min won the popular vote."
-    sy "Bem, o elenco já tá bem grande. Só tinha um lugar na Primeira Temporada pra personagens antigos, e a Min ganhou o voto popular. "
+    sy "Bem, o elenco já tá bem grande. Só tinha um lugar na Primeira Temporada pra um personagem antigo, e a Min ganhou o voto popular. "
 
 # game/code/scenes/main_story/sm1ms030.rpy:137
 translate portuguese sm1ms030_ab0ae179:
@@ -362,7 +362,7 @@ translate portuguese sm1ms030_9a9b981c:
 translate portuguese sm1ms030_f7753e02:
 
     # zp "Okay, okay! Girls don't fight!"
-    zp "Tá bom, tá bom. Garotas não brigam!"
+    zp "Tá bom, tá bom. Garotas, não briguem!"
 
 # game/code/scenes/main_story/sm1ms030.rpy:178
 translate portuguese sm1ms030_e7ecae58:
@@ -542,7 +542,7 @@ translate portuguese sm1ms030_f417bdef:
 translate portuguese sm1ms030_a65bcb8d:
 
     # am "I got squat."
-    am "Eu eu nada."
+    am "E eu nada."
 
 # game/code/scenes/main_story/sm1ms030.rpy:247
 translate portuguese sm1ms030_93895c14:
