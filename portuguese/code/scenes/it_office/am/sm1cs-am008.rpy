@@ -2798,7 +2798,7 @@ translate portuguese sm1cs_am008_sex_09f6ff36:
 translate portuguese sm1cs_am008_sex_d3829494:
 
     # hr "While the mastermind behind it is safely behind bars, we can only speculate at the traumatic experiences of the victims and how they may be coping."
-    hr "Enquanto a mente por trás disso está em segurança atrás das grades, só podemos especular sobre as experiências traumáticas das vítimas e como elas estão lidando com isso."
+    hr "Mesmo a mandante por trás disso está atrás na prisão, só podemos especular sobre as experiências traumáticas das vítimas e como elas estão lidando com isso."
 
 # game/code/scenes/it_office/am/sm1cs-am008.rpy:1453
 translate portuguese sm1cs_am008_sex_7fac1ac6:
