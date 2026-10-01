@@ -260,7 +260,7 @@ translate portuguese sm1cs_ns002_165e5ad5:
 translate portuguese sm1cs_ns002_25d12c61:
 
     # mc "First thing, maybe I should, I don't know, maybe you can get up and clean up at the sink?"
-    mc "Primeiro de tudo, será que não será melhor, sei lá, você se levantar e se limpar na pia?"
+    mc "Primeiro de tudo, será que não seria smelhor, sei lá, você se levantar e se limpar na pia?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:172
 translate portuguese sm1cs_ns002_653ae55b:
@@ -452,7 +452,7 @@ translate portuguese sm1cs_ns002_7b07c643:
 translate portuguese sm1cs_ns002_4195eb6e:
 
     # mct "Nothing to see here."
-    mct "Nada a ver aqui."
+    mct "Nada pra ver aqui."
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:273
 translate portuguese sm1cs_ns002_dbd8f136:
@@ -572,7 +572,7 @@ translate portuguese sm1cs_ns002_b0844464:
 translate portuguese sm1cs_ns002_79c1d4b2:
 
     # mc "So we should probably leave and, uh, get out of here without anyone noticing."
-    mc "Então acho melhor a gente sair, e, ahm, cai fora daqui sem ninguém perceber."
+    mc "Então acho melhor a gente sair, e, ahm, cair fora daqui sem ninguém perceber."
 
 # game/code/scenes/it_office/ns/sm1cs-ns002.rpy:338
 translate portuguese sm1cs_ns002_af1e7169:
