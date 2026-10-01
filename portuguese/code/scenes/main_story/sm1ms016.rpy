@@ -260,7 +260,7 @@ translate portuguese sm1ms016_3cc35ce5:
 translate portuguese sm1ms016_cc10612e:
 
     # sy "*whispers* Alright, why don't you go make sure she's not up to no good."
-    sy "*sussurro* Beleza, porque não vai lá garantir que ela tá se comportando."
+    sy "*sussurro* Beleza, por que não vai lá garantir que ela tá se comportando."
 
 # game/code/scenes/main_story/sm1ms016.rpy:118
 translate portuguese sm1ms016_ace9c663:
@@ -302,7 +302,7 @@ translate portuguese sm1ms016_4d0c3e53:
 translate portuguese sm1ms016_0796b28e:
 
     # mc "Yeah, I think she'll love it. {w}I almost forgot how good you are at art."
-    mc "É, acho que ela vai adorar. {w}Caso tinha esquecido como você é tão boa artista."
+    mc "É, acho que ela vai adorar. {w}Quase esqueci como você é tão boa artista."
 
 # game/code/scenes/main_story/sm1ms016.rpy:140
 translate portuguese sm1ms016_d7edff99:
@@ -434,7 +434,7 @@ translate portuguese sm1ms016_433abcdf:
 translate portuguese sm1ms016_980d8ffb:
 
     # mc "Obviously, my first priority is just the work. But I'm keeping my ears open to see if anyone is interested in joining the team here."
-    mc "Óbvio, a minha primeira prioridade o trabalho. Mas vou ficar de olho se alguém estiver interessada em trabalhar aqui."
+    mc "Óbvio, a minha primeira prioridade é o trabalho. Mas vou ficar de olho se alguém estiver interessada em trabalhar aqui."
 
 # game/code/scenes/main_story/sm1ms016.rpy:193
 translate portuguese sm1ms016_e8457b5f:
@@ -530,7 +530,7 @@ translate portuguese sm1ms016_69721159:
 translate portuguese sm1ms016_3aa39f91:
 
     # my "Seems like you're really being serious about this."
-    my "Parece que você está levando isso mesmo sério."
+    my "Parece que você está levando isso a sério mesmo."
 
 # game/code/scenes/main_story/sm1ms016.rpy:233
 translate portuguese sm1ms016_e0d93906:
@@ -734,7 +734,7 @@ translate portuguese sm1ms016_50800ec3:
 translate portuguese sm1ms016_cbcaca6d:
 
     # mc "Did you have fun?"
-    mc "Vocês se divertiu?"
+    mc "Você se divertiu?"
 
 # game/code/scenes/main_story/sm1ms016.rpy:372
 translate portuguese sm1ms016_a878dc5d:
@@ -806,7 +806,7 @@ translate portuguese sm1ms016_fc90b9c8:
 translate portuguese sm1ms016_23467c3f:
 
     # sy "Don't worry. We don't have to do all of it today."
-    sy "Relaxa. Não vamos ter que fazer isso o dia todo."
+    sy "Relaxa. Não vamos ter que fazer isso tudo hoje."
 
 # game/code/scenes/main_story/sm1ms016.rpy:404
 translate portuguese sm1ms016_e294c5dc:
