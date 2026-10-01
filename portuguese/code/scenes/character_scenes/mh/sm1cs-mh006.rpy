@@ -128,13 +128,13 @@ translate portuguese sm1cs_mh006_d65e92bd:
 translate portuguese sm1cs_mh006_3d30c17d:
 
     # mc "We actually just went on a date! It went... Mostly well minus the little bit of shop talk we had to do..."
-    mc "Acabamos de sair! Foi... até que bem, tirando as compras que a gente teve que fazer..."
+    mc "Acabamos de sair! Foi... até que bem, tirando a conversa sobre trabalho que a gente teve que fazer..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:99
 translate portuguese sm1cs_mh006_8919127b:
 
     # mc "I do need to remember to take her out, but between our schedules it never feels like there's free time."
-    mc "Eu preciso lembrar de levar ela pra sair, mas a gente fica tão ocupado que parece que nunca tem tempo."
+    mc "Eu preciso lembrar de levar ela pra sair, mas a gente fica tão ocupado que parece que nunca dá tempo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:102
 translate portuguese sm1cs_mh006_5e0c4b07:
@@ -398,7 +398,7 @@ translate portuguese sm1cs_mh006_after_choice_dd46282f:
 translate portuguese sm1cs_mh006_after_choice_1ab3ced8:
 
     # mc "So... You can think about sex again, huh?"
-    mc "Então... Pensando sexo de novo, né?"
+    mc "Então... Pensando em sexo de novo, né?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:214
 translate portuguese sm1cs_mh006_after_choice_318233a7:
@@ -428,7 +428,7 @@ translate portuguese sm1cs_mh006_after_choice_905dec45:
 translate portuguese sm1cs_mh006_after_choice_cb764a66:
 
     # mh "Are you trying to tell me that the guy running a porn studio only thinks about sex when it's brought up in conversation?"
-    mh "E  vai me dizer que o cara que está criando um estúdio pornô só pensa em sexo quando as pessoas falam isso?"
+    mh "E vai me dizer que o cara que está criando um estúdio pornô só pensa em sexo quando as pessoas falam isso?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:224
 translate portuguese sm1cs_mh006_after_choice_2b35b6fe:
@@ -536,7 +536,7 @@ translate portuguese sm1cs_mh006_after_choice_53990969:
 translate portuguese sm1cs_mh006_after_choice_63540d25:
 
     # mc "Nope.{w} Trying to resist the gravitational pull of your beauty has really worked up my appetite."
-    mc "Não.{w} Tentar resistir a força gravitacional da sua beleza provocou o apetite."
+    mc "Não.{w} Tentar resistir a força gravitacional da sua beleza provocou meu apetite."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:275
 translate portuguese sm1cs_mh006_after_choice_8444950d:
@@ -818,7 +818,7 @@ translate portuguese sm1cs_mh006_after_choice_0f5e6726:
 translate portuguese sm1cs_mh006_after_choice_0c170bad:
 
     # mc "Yep. You look so damn good I was stunned silent."
-    mc "Aham. Você tá tão bonita que eu fiquei em pasmo."
+    mc "Aham. Você tá tão bonita que eu fiquei foi pasmo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:432
 translate portuguese sm1cs_mh006_after_choice_cc49fce0:
@@ -854,13 +854,13 @@ translate portuguese sm1cs_mh006_sex_f49fff8f:
 translate portuguese sm1cs_mh006_sex_95145c92:
 
     # mh "I missed this view a lot... I may have spent a few nights picturing this moment..."
-    mh "Senti tanta falta dessa vista...  Talvez eu tenha passado algumas noites imaginando esse momento..."
+    mh "Senti tanta falta dessa vista... Talvez eu tenha passado algumas noites imaginando esse momento..."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:466
 translate portuguese sm1cs_mh006_sex_6eb5f030:
 
     # mc "Yeah? Well, in your fantasy, what's next?"
-    mc "Ah é? E o que acontece depois da sua fantasia?"
+    mc "Ah é? E o que acontece depios na sua fantasia?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:470
 translate portuguese sm1cs_mh006_sex_3292f73e:
@@ -932,7 +932,7 @@ translate portuguese sm1cs_mh006_sex_5e58901a:
 translate portuguese sm1cs_mh006_sex_528f798e:
 
     # mc "Your lips wrapped around me, your head bobbing down on my cock, your tongue - God, your tongue!"
-    mc "A sua boquinha apertando em mim, sua cabeça subindo e descendo no meu pau a sua língua - Meu deus, a sua língua!"
+    mc "A sua boquinha apertando em mim, sua cabeça subindo e descendo no meu pau e a sua língua - Meu deus, a sua língua!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:502
 translate portuguese sm1cs_mh006_sex_74c4e690:
@@ -956,7 +956,7 @@ translate portuguese sm1cs_mh006_sex_2b65586a:
 translate portuguese sm1cs_mh006_sex_91f75041:
 
     # mc "Yeah, just like that - fuh - just like that!"
-    mc " Isso, desse jeito - aah - isso, vai, continua!"
+    mc "Isso, desse jeito - aah - isso, vai, continua!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:510
 translate portuguese sm1cs_mh006_sex_4e99a1c1:
@@ -1058,7 +1058,7 @@ translate portuguese sm1cs_mh006_sex_b82b8d78:
 translate portuguese sm1cs_mh006_sex_a0f276e0:
 
     # mh "Good, because - ohh, ohhhh, yessss - I need you to cum in meee."
-    mh "Ótimo, por que - aaah, mhmmm, issoo - Quero que você goze dentro de miiim."
+    mh "Ótimo, porque - aaah, mhmmm, issoo - Quero que você goze dentro de miiim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:557
 translate portuguese sm1cs_mh006_sex_c2d1457d:
@@ -1124,7 +1124,7 @@ translate portuguese sm1cs_mh006_sex_f49fff8f_1:
 translate portuguese sm1cs_mh006_sex_925b1184:
 
     # mh "Fuhhh - that felt -"
-    mh "Pohhh- isso foi -"
+    mh "Pohhh - isso foi -"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:584
 translate portuguese sm1cs_mh006_sex_ab9779f2:
@@ -1142,13 +1142,13 @@ translate portuguese sm1cs_mh006_sex_7cf675bc:
 translate portuguese sm1cs_mh006_sex_8df4c2b5:
 
     # mh "Don't stop, [mcname], please don't stop!"
-    mh "[mcname], não para,  por favor não para!"
+    mh "[mcname], não para, por favor não para!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:594
 translate portuguese sm1cs_mh006_sex_352ece69:
 
     # mh "You're going to make me cum - holy shit, you're going to make me cum!"
-    mh "Vou gozar - aih porra, eu vou gozaaar! "
+    mh "Vou gozar - aih caralho, eu vou gozaaar!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:595
 translate portuguese sm1cs_mh006_sex_3dcedd30:
@@ -1166,7 +1166,7 @@ translate portuguese sm1cs_mh006_sex_65155363:
 translate portuguese sm1cs_mh006_sex_ce14dda4:
 
     # mh "Your dick is getting so much deeper now, holy - mmmmmmmm!"
-    mh "O seu pau está tão fundo agora, meu deeh - mmmmmmmm!"
+    mh "O seu pau está tão fundo agora, meu deus - mmmmmmmm!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:602
 translate portuguese sm1cs_mh006_sex_b3bc47a9:
@@ -1226,7 +1226,7 @@ translate portuguese sm1cs_mh006_sex_1ba4cf58:
 translate portuguese sm1cs_mh006_sex_aee6cab9:
 
     # mh "No. It was better than I could have ever dreamed."
-    mh "Não. É melhor que eu poderia ter imaginado."
+    mh "Não. Foi melhor que eu poderia ter imaginado."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh006.rpy:631
 translate portuguese sm1cs_mh006_sex_45e2a861:
