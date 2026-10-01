@@ -92,7 +92,7 @@ translate portuguese sm1cs_mes002i_91a34453:
 translate portuguese sm1cs_mes002i_00ad8c21:
 
     # mc "Yeah. I mean, Lydia did a number on me, but it wasn't like she was with me for years before she broke my heart."
-    mc "Sim. Digo, a Lydia mexeu muito comigo, mas ela não estava comigo anos antes de partir meu coração."
+    mc "Sim. Digo, a Lydia mexeu muito comigo, mas ela não estava comigo fazia anos antes de partir meu coração."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes002i.rpy:50
 translate portuguese sm1cs_mes002i_24c01345:
@@ -128,7 +128,7 @@ translate portuguese sm1cs_mes002i_febc2367:
 translate portuguese sm1cs_mes002i_10331471:
 
     # mc "That cool with you?"
-    mc "Tudo bem por você?"
+    mc "Tudo bem pra você?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes002i.rpy:60
 translate portuguese sm1cs_mes002i_bf815467:
@@ -146,7 +146,7 @@ translate portuguese sm1cs_mes002i_2ea6b909:
 translate portuguese sm1cs_mes002i_79002618:
 
     # mc "Haha. Fetish Locator Fiasco."
-    mc "Haha. Fetish Locator Fiasco."
+    mc "Haha. Fiasco Fetish Locator."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes002i.rpy:67
 translate portuguese sm1cs_mes002i_01b2d2ab:
