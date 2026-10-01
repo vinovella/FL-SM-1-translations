@@ -14,7 +14,7 @@ translate portuguese sm1ms023_02i_8bac8cc7:
 translate portuguese sm1ms023_02i_ee0201d1:
 
     # mc "Sick, so we can send it?"
-    mc "Legal, então a já pode mandar?"
+    mc "Legal, então já dá pra mandar?"
 
 # game/code/scenes/main_story/sm1ms023_02i.rpy:12
 translate portuguese sm1ms023_02i_421a7cd8:
