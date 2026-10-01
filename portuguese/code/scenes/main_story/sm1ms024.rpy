@@ -20,7 +20,7 @@ translate portuguese sm1ms024_dc851375:
 translate portuguese sm1ms024_239e63a5:
 
     # sy "It's almost bed time, and it's hot up here!{w} Sue me!"
-    sy "Tá quase na hora de dormir, e aqui em cima tá quente.{w} Me processe!"
+    sy "Tá quase na hora de dormir, e aqui em cima tá quente!{w} Me processe!"
 
 # game/code/scenes/main_story/sm1ms024.rpy:25
 translate portuguese sm1ms024_78ef9e00:
@@ -50,7 +50,7 @@ translate portuguese sm1ms024_dd8c835f:
 translate portuguese sm1ms024_0cc05a1a:
 
     # mc "Anyway, the video is already done though? All edited and rendered and everything?"
-    mc "Enfim, o vídeo já está finalizado. Todo editado, renderizado, e tudo mais?"
+    mc "Enfim, mas o vídeo já está finalizado? Todo editado, renderizado, e tudo mais?"
 
 # game/code/scenes/main_story/sm1ms024.rpy:38
 translate portuguese sm1ms024_7c360129:
@@ -68,7 +68,7 @@ translate portuguese sm1ms024_fbb1cf75:
 translate portuguese sm1ms024_6581bd6f:
 
     # sy "Right? Let me show it to you."
-    sy "´Né? Deixa eu te mostrar."
+    sy "Né? Deixa eu te mostrar."
 
 # game/code/scenes/main_story/sm1ms024.rpy:48
 translate portuguese sm1ms024_e162e8fc:
@@ -80,7 +80,7 @@ translate portuguese sm1ms024_e162e8fc:
 translate portuguese sm1ms024_5ed6af01:
 
     # mc "Okay... she likes the composition, lighting... thinks the video is super hot, loves the butt stuff and red wig..."
-    mc "Beleza...  ela gostou da composição, da iluminação... achou que ficou super gostoso, adora a parada anal e a peruca ruiva..."
+    mc "Beleza... ela gostou da composição, da iluminação... achou que ficou super gostoso, adora a parada anal e a peruca ruiva..."
 
 # game/code/scenes/main_story/sm1ms024.rpy:53
 translate portuguese sm1ms024_8651a87f:
@@ -134,7 +134,7 @@ translate portuguese sm1ms024_dd616c3e:
 translate portuguese sm1ms024_7b24a2e2:
 
     # sy "Yes. And the website will be a great place to host our videos."
-    sy "Sim. E o site vai um ótimo lugar pra hospedar os vídeos."
+    sy "Sim. E o site vai ser um ótimo lugar pra hospedar os vídeos."
 
 # game/code/scenes/main_story/sm1ms024.rpy:72
 translate portuguese sm1ms024_d331e84d:
@@ -224,7 +224,7 @@ translate portuguese sm1ms024_fd831723:
 translate portuguese sm1ms024_224d32ea:
 
     # sy "So instead of a client telling us what {b}they{/b} want, we will make our own concept."
-    sy "Ao invés de ter cliente falando o {b}eles{/b} querem, a gente mesmo cria o conceito."
+    sy "Ao invés de ter cliente falando o que {b}eles{/b} querem, a gente cria o nosso próprio conceito."
 
 # game/code/scenes/main_story/sm1ms024.rpy:112
 translate portuguese sm1ms024_3b493156:
@@ -284,7 +284,7 @@ translate portuguese sm1ms024_ebb2b599:
 translate portuguese sm1ms024_2d4db5bf:
 
     # sy "No, you weirdo. Just look."
-    sy "Não, sou tosco. Só olha."
+    sy "Não, seu tosco. Só olha."
 
 # game/code/scenes/main_story/sm1ms024.rpy:143
 translate portuguese sm1ms024_286ec01d:
@@ -320,7 +320,7 @@ translate portuguese sm1ms024_11455b53:
 translate portuguese sm1ms024_dffcc237:
 
     # sy "Come on, you're the fancy learn'd college boy."
-    sy "Anda, você que é o fodão estudante faculdade."
+    sy "Ué, você que é o fodão estudante de faculdade."
 
 # game/code/scenes/main_story/sm1ms024.rpy:164
 translate portuguese sm1ms024_be7e6720:
@@ -506,7 +506,7 @@ translate portuguese sm1ms024_6bfc74d9:
 translate portuguese sm1ms024_fcda8cc6:
 
     # mc "That's the most grown-ass thing you've said since you said 'take my ass'."
-    mc "Essa parada mais adulta que você falou desde 'come minha bunda'."
+    mc "Essa é a parada mais adulta que você falou desde 'come minha bunda'."
 
 # game/code/scenes/main_story/sm1ms024.rpy:253
 translate portuguese sm1ms024_64961bb1:
@@ -530,7 +530,7 @@ translate portuguese sm1ms024_0bde8548:
 translate portuguese sm1ms024_a4a6ff86:
 
     # mc "God... my sister has a credit score."
-    mc "Jesus... A minha irmã tem score de crédito"
+    mc "Jesus... A minha irmã tem score de crédito."
 
 # game/code/scenes/main_story/sm1ms024.rpy:265
 translate portuguese sm1ms024_56ce4d79:
@@ -554,7 +554,7 @@ translate portuguese sm1ms024_f34373d3:
 translate portuguese sm1ms024_ae0e733a:
 
     # mc "I never thought it would be you."
-    mc "Nunca achei que fosse você."
+    mc "Nunca achei que seria você."
 
 # game/code/scenes/main_story/sm1ms024.rpy:275
 translate portuguese sm1ms024_4874b121:
@@ -620,7 +620,7 @@ translate portuguese sm1ms024_83fe4b30:
 translate portuguese sm1ms024_ba692f98:
 
     # mc "Sci fi? Seriously?"
-    mc "Sci-fi? Sério."
+    mc "Sci-fi? Sério?"
 
 # game/code/scenes/main_story/sm1ms024.rpy:296
 translate portuguese sm1ms024_c07b61b6:
@@ -644,7 +644,7 @@ translate portuguese sm1ms024_729a93b5:
 translate portuguese sm1ms024_430ab556:
 
     # mc "Well, I'm in for sci fi then!"
-    mc "Bom, então eu topo do sci-fi!"
+    mc "Bom, então eu topo sci-fi!"
 
 # game/code/scenes/main_story/sm1ms024.rpy:309
 translate portuguese sm1ms024_b79a6f69:
@@ -782,7 +782,7 @@ translate portuguese sm1ms024_8d1e83e6:
 translate portuguese sm1ms024_873c63ce:
 
     # mc "Good. Why don't you get a list together, and we can sit down in a few days and start planning our movie."
-    mc "Que bom. Por que não põe tudo numa lista, aí a gente dá uma sentada e em alguns dias e começa a planejar o filme."
+    mc "Que bom. Por que não põe tudo numa lista, aí a gente dá uma sentada e em alguns dias começa a planejar o filme."
 
 # game/code/scenes/main_story/sm1ms024.rpy:383
 translate portuguese sm1ms024_f1352474:
@@ -812,7 +812,7 @@ translate portuguese sm1ms024_2ce6b2b0:
 translate portuguese sm1ms024_001cc87b:
 
     # sy "I'll let you know when I'm ready!"
-    sy "Quando estiver pronto, te dou um toque!"
+    sy "Quando eu estiver pronta, te dou um toque!"
 
 # game/code/scenes/main_story/sm1ms024.rpy:403
 translate portuguese sm1ms024_41494785:
