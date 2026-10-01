@@ -8,7 +8,7 @@ translate portuguese sm1ms011_01i_3e8677b5:
 translate portuguese sm1ms011_01i_d335741c:
 
     # sy "So I've been reading some stuff about a community theater group in town."
-    sy "Eu andei lendo sobre uma comunidade de teatro na cidade."
+    sy "Eu estava lendo sobre um grupo teatro aqui na cidade."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:14
 translate portuguese sm1ms011_01i_5f8f1fea:
@@ -92,13 +92,13 @@ translate portuguese sm1ms011_01i_it_job_5a217f29:
 translate portuguese sm1ms011_01i_it_job_dadb93c2:
 
     # sy "It's fine, [mcname] I can show you the ropes. That is if you're interested in the job."
-    sy "[mcname], não tem problema. eu te mostro como faz. Isso se estiver interessado no emprego."
+    sy "[mcname], não tem problema. Eu te mostro como faz. Isso se estiver interessado no emprego."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:61
 translate portuguese sm1ms011_01i_it_job_4efaaa37:
 
     # mc "Yeah, tell me what you learned."
-    mc "Sim, me ensina o que você aprendeu."
+    mc "Sim, me conta o que você aprendeu."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:65
 translate portuguese sm1ms011_01i_it_job_2f1dff94:
@@ -242,7 +242,7 @@ translate portuguese strings:
 translate portuguese sm1ms011_01i_e3c7f05c:
 
     # sy "There is an IT company in Crowning that is looking for new coders."
-    sy "Tem uma empresa de TI em Crowing procurando por novos programadores."
+    sy "Tem uma empresa de TI em Crowning procurando por novos programadores."
 
 # game/code/scenes/main_story/sm1ms011-01i.rpy:40
 translate portuguese sm1ms011_01i_31340d6f:
