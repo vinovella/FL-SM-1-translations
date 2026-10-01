@@ -8,7 +8,7 @@ translate portuguese sm1ms020_1b1f67b4:
 translate portuguese sm1ms020_cbb30193:
 
     # mct "It's really starting to look like a real porn studio in here."
-    mct "Tá começando a aparecer um estúdio pornô de vergonha."
+    mct "Tá começando a parecer um estúdio pornô de vergonha."
 
 # game/code/scenes/main_story/sm1ms020.rpy:22
 translate portuguese sm1ms020_1e17d8c0:
@@ -56,7 +56,7 @@ translate portuguese sm1ms020_60cd8dad:
 translate portuguese sm1ms020_e3fb50a3:
 
     # my "It was good! The client is just a little anxious 24/7. Just needed some gentle reassuring."
-    my "Foi boa! É só cliente fica meio ansioso 24 horas por dia. Só precisava de uma reforçada."
+    my "Foi boa! É que o cliente fica meio ansioso 24 horas por dia. Só precisava de uma tranquilizada."
 
 # game/code/scenes/main_story/sm1ms020.rpy:43
 translate portuguese sm1ms020_c6d75bdf:
@@ -182,7 +182,7 @@ translate portuguese sm1ms020_b77ecb7e:
 translate portuguese sm1ms020_ff81abaf:
 
     # mct "Wow, when Stacy said dive... I didn't think it would be this much of a dive."
-    mct "Nossa, quando a Stacy disse mergulhada... não achei que ia ser nesse nível."
+    mct "Nossa, quando a Stacy disse mergulhada... não achei que ia ser nesse nível de boteco."
 
 # game/code/scenes/main_story/sm1ms020.rpy:113
 translate portuguese sm1ms020_7ea9d06a:
@@ -260,7 +260,7 @@ translate portuguese sm1ms020_6278d0c6:
 translate portuguese sm1ms020_19780611:
 
     # my "I'll have a glass of your house red, and-"
-    my "Eu vou querer uma taça  do tinto da casa, e-"
+    my "Eu vou querer uma taça do tinto da casa, e-"
 
 # game/code/scenes/main_story/sm1ms020.rpy:156
 translate portuguese sm1ms020_27576ae2:
@@ -380,7 +380,7 @@ translate portuguese sm1ms020_eb177613:
 translate portuguese sm1ms020_abf7c5bf:
 
     # sy "He really has."
-    sy "Ele tá mesmo."
+    sy "E tem mesmo."
 
 # game/code/scenes/main_story/sm1ms020.rpy:216
 translate portuguese sm1ms020_1b4b5f17:
@@ -524,13 +524,13 @@ translate portuguese sm1ms020_80e86122:
 translate portuguese sm1ms020_d3cfb4ee:
 
     # sy "Come on! Mom is fucking {i}foxy!{/i} And she has a banging bod."
-    sy "Que isso! A Mãe é gostosa pra caralho! E tem um corpo de matar."
+    sy "Que isso! A Mãe é {i}gostosa{/i} pra caralho! E tem um corpão de matar."
 
 # game/code/scenes/main_story/sm1ms020.rpy:284
 translate portuguese sm1ms020_d645862b:
 
     # sy "Come on! Melony is fucking {i}sexy!{/i} And she has a banging bod."
-    sy "Que isso! A Melony é gostosa pra caralho! E tem um corpo de matar."
+    sy "Que isso! A Melony é {i}gostosa{/i} pra caralho! E tem um corpão de matar."
 
 # game/code/scenes/main_story/sm1ms020.rpy:285
 translate portuguese sm1ms020_97e833cc:
@@ -560,7 +560,7 @@ translate portuguese sm1ms020_6348cf56:
 translate portuguese sm1ms020_0cc5beeb:
 
     # sy "Because a good dicking down can do a lot for someone."
-    sy "Porque uma boa pirocada ajudar muito uma pessoa."
+    sy "Porque uma boa pirocada pode ajudar muito uma pessoa."
 
 # game/code/scenes/main_story/sm1ms020.rpy:300
 translate portuguese sm1ms020_4fb4ed9d:
@@ -626,7 +626,7 @@ translate portuguese sm1ms020_ab47e0bc:
 translate portuguese sm1ms020_2ab2b410:
 
     # sy "This is so hot... [mcname] hitting on our oldest, family friend."
-    sy "Que gostoso... o [mcname] dando em cima amiga mais antiga de família."
+    sy "Que gostoso... o [mcname] dando em cima da amiga mais antiga de família."
 
 # game/code/scenes/main_story/sm1ms020.rpy:326
 translate portuguese sm1ms020_794508bc:
@@ -896,7 +896,7 @@ translate portuguese sm1ms020_flirting_95f39f28:
 translate portuguese sm1ms020_flirting_c25027db:
 
     # my "Oh? On your honor as a gentleman. Very serious oath you're swearing there, [mcname]."
-    my "Hmm? Sua honra de cavaleiro. Uma honra bem séria para jurar, [mcname]."
+    my "Hmm? Sua honra de cavalheiro. Uma honra bem séria para fazer juramento, [mcname]."
 
 # game/code/scenes/main_story/sm1ms020.rpy:470
 translate portuguese sm1ms020_flirting_c4fdd582:
@@ -908,7 +908,7 @@ translate portuguese sm1ms020_flirting_c4fdd582:
 translate portuguese sm1ms020_flirting_1b4ef86c:
 
     # my "Well, how do I know it means anything? I don't know anything about your honor as a gentleman."
-    my "Bem, como como que eu vou saber que você está falando sério? Não conheço a sua honra de cavalheiro."
+    my "Bem, como que eu vou saber que você está falando sério? Não conheço a sua honra de cavalheiro."
 
 # game/code/scenes/main_story/sm1ms020.rpy:476
 translate portuguese sm1ms020_flirting_1f1fa2ec:
@@ -920,7 +920,7 @@ translate portuguese sm1ms020_flirting_1f1fa2ec:
 translate portuguese sm1ms020_flirting_dbc23081:
 
     # my "Your honor as a gentleman?"
-    my "A sua honra como cavalheiro?"
+    my "A sua honra de cavalheiro?"
 
 # game/code/scenes/main_story/sm1ms020.rpy:483
 translate portuguese sm1ms020_flirting_78e6b91c:
@@ -956,19 +956,19 @@ translate portuguese sm1ms020_flirting_9f11d82b:
 translate portuguese sm1ms020_flirting_20231c89:
 
     # sy "Now it's my turn to ask - what'd I miss?"
-    sy "Agora é minha vez de perguntar- o que foi que eu perdi?"
+    sy "Agora é minha vez de perguntar - o que foi que eu perdi?"
 
 # game/code/scenes/main_story/sm1ms020.rpy:498
 translate portuguese sm1ms020_flirting_9eaf368a:
 
     # my "Oh, just your brother swearing on his honor as a gentleman."
-    my "Ah, só o seu irmão jurando pela sua honra de cavalheiro."
+    my "Ah, só o seu irmão jurando pela honra de cavalheiro dele."
 
 # game/code/scenes/main_story/sm1ms020.rpy:500
 translate portuguese sm1ms020_flirting_9e87cb52:
 
     # my "Oh, just [mcname] swearing on his honor as a gentleman."
-    my "Ah, só o [mcname] jurando pela sua honra de cavalheiro."
+    my "Ah, só o [mcname] jurando pela honra de cavalheiro dele."
 
 # game/code/scenes/main_story/sm1ms020.rpy:504
 translate portuguese sm1ms020_flirting_98d58022:
@@ -1226,7 +1226,7 @@ translate portuguese sm1ms020_cheers_de21ee0c:
 translate portuguese sm1ms020_cheers_a1fd2645:
 
     # sy "You know, filming isn't the only thing we can start doing again?"
-    sy "Hein, sabe tem mais coisa que a gente pode voltar a fazer além de filmar, né?"
+    sy "Hein, sabe que tem mais coisa que a gente pode voltar a fazer além de filmar, né?"
 
 # game/code/scenes/main_story/sm1ms020.rpy:653
 translate portuguese sm1ms020_cheers_c2b7c900:
@@ -1294,7 +1294,7 @@ translate portuguese strings:
 translate portuguese sm1ms020_0046f9d0:
 
     # my "I manage connections between investors and the gallery, talent scout for new artists to showcase..."
-    my "Eu cuido das conexões entre investidores e a galeria, procuro talento para novos artistas para mostrar..."
+    my "Eu cuido de conectar investidores e a galeria, procuro novos artistas para mostrar..."
 
 # game/code/scenes/main_story/sm1ms020.rpy:110
 translate portuguese sm1ms020_ef441d96:
