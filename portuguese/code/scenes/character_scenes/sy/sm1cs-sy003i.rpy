@@ -8,7 +8,7 @@ translate portuguese sm1cs_sy003i_d2aaf6c7:
 translate portuguese sm1cs_sy003i_9d31e9bd:
 
     # sy "Hey you. Why don't you come to bed?"
-    sy "Oi. Porque não sobe na cama?"
+    sy "Oi. Por que não sobe na cama?"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003i.rpy:9
 translate portuguese sm1cs_sy003i_fc04e585:
