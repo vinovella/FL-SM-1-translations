@@ -98,7 +98,7 @@ translate portuguese sm1cs_mes_r1_repeat_7d010a14:
 translate portuguese sm1cs_mes_r1_repeat_2a5fd502:
 
     # mes "Finals prep. My professor seems to think we're all superhuman."
-    mes "Preparando pras provas finais. O professor deve achar que todo mundo é sobrehumano."
+    mes "Preparando pras provas finais. O professor deve achar que todo mundo é super-humano."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:56
 translate portuguese sm1cs_mes_r1_repeat_153ebd5e:
@@ -176,7 +176,7 @@ translate portuguese sm1cs_mes_r1_continue_a2feaf8e:
 translate portuguese sm1cs_mes_r1_continue_c60c67c0:
 
     # mes "I need to stop thinking about what everyone expects."
-    mes "Preciso parar de ser o que os outros esperam de mim."
+    mes "Preciso parar de pensar no que os outros esperam de mim."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:98
 translate portuguese sm1cs_mes_r1_continue_bdf7bb15:
@@ -278,7 +278,7 @@ translate portuguese sm1cs_mes_r1_continue_fba59461:
 translate portuguese sm1cs_mes_r1_gentle_21db43f5:
 
     # mc "Tell me how this feels."
-    mc "Fala o que você acha."
+    mc "Fala o que você sente."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:150
 translate portuguese sm1cs_mes_r1_gentle_0b68dc9f:
@@ -788,7 +788,7 @@ translate portuguese sm1cs_mes_r1_continue_2_425e21ce:
 translate portuguese sm1cs_mes_r1_continue_2_bf7195d0:
 
     # mc "You feel so good wrapped around my cock."
-    mc "Tá tão gostosinha enrolada do meu pau."
+    mc "Tá tão gostosinha agarrando o meu pau."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:332
 translate portuguese sm1cs_mes_r1_continue_2_e2f39227:
@@ -1016,7 +1016,7 @@ translate portuguese sm1cs_mes_r1_watersports_8826ae7e:
 translate portuguese sm1cs_mes_r1_watersports_daca6ab5:
 
     # mes "*gurgling, gagging*"
-    mes "*gargarejando, engolindo*"
+    mes "*gargarejando, engasgando*"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:433
 translate portuguese sm1cs_mes_r1_watersports_a8c4a0fa:
@@ -1598,7 +1598,7 @@ translate portuguese sm1cs_mes_r1_end_07b4a36e:
 translate portuguese sm1cs_mes_r1_end_be79f79f:
 
     # mc "Min, you drank my piss and then came while pissing yourself. I'm the luckiest pervert alive."
-    mc "Min, você bebeu meu mijo e gozou enquanto se mijava. Eu sou tarado mais sortudo do mundo."
+    mc "Min, você bebeu meu mijo e gozou enquanto se mijava. Eu sou o tarado mais sortudo do mundo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:688
 translate portuguese sm1cs_mes_r1_end_b3af390f:
@@ -1726,7 +1726,7 @@ translate portuguese strings:
 translate portuguese sm1cs_mes_r1_continue_2_d9861589:
 
     # mc "Yes you can. Cum again or I'll keep fucking you like this for hours."
-    mc "Sim, pode. De novo, senão vou continuar te comendo assim por horas."
+    mc "Sim, pode. Goza de novo, senão vou continuar te comendo assim por horas."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes-r1.rpy:305
 translate portuguese sm1cs_mes_r1_continue_2_3151895e:
