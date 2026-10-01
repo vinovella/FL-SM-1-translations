@@ -8,7 +8,7 @@ translate portuguese sm1cs_my005_a95cd64f:
 translate portuguese sm1cs_my005_0c310a85:
 
     # mct "\"Sorry for the super weird swimsuit competition, and for making you moan, we all good?\""
-    mct "\"Poxa, desculpa pela competição esquisita de  maiô e por te fazer gemer, tudo de boa?\""
+    mct "\"Poxa, desculpa pela competição esquisita de maiô e por te fazer gemer, tudo de boa?\""
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:10
 translate portuguese sm1cs_my005_2b35b6fe:
@@ -176,7 +176,7 @@ translate portuguese sm1cs_my005_later_69c92da6:
 translate portuguese sm1cs_my005_later_9b60aacd:
 
     # my "You... made a bowl of popcorn."
-    my "Você... fez um tigela de pipoca."
+    my "Você... fez uma tigela de pipoca."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:98
 translate portuguese sm1cs_my005_later_cf1adef2:
@@ -590,7 +590,7 @@ translate portuguese sm1cs_my005_half_movie_b6c49741:
 translate portuguese sm1cs_my005_half_movie_f7c78371:
 
     # mct "Man, she really likes a good foot massage."
-    mct "Caraca, ela gosta adora uma boa massagem nos pés."
+    mct "Caraca, ela adora uma boa massagem nos pés."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:283
 translate portuguese sm1cs_my005_half_movie_af41823f:
@@ -884,7 +884,7 @@ translate portuguese sm1cs_my005_half_movie_4e28fec6:
 translate portuguese sm1cs_my005_half_movie_9b3e5d45:
 
     # mct "Oh my God, her feet are directly on my dick. There's no way she can't feel my boner."
-    mct "Meu Deus, os pés dela estão direto no meu. Impossível não ter percebido meu pau duro."
+    mct "Meu Deus, os pés dela estão direto no meu pau. Impossível não ter percebido meu pau duro."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:384
 translate portuguese sm1cs_my005_half_movie_4d17b2e6:
@@ -1190,19 +1190,19 @@ translate portuguese sm1cs_my005_after_movie_bedbf63c:
 translate portuguese sm1cs_my005_after_movie_03335dbc:
 
     # mc "You're not that old, Mom. You still got it."
-    mc "Você não é tão velha assim, Mãe. Ainda consegue."
+    mc "Você não é tão velha assim, Mãe. Você ainda bate um bolão."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:511
 translate portuguese sm1cs_my005_after_movie_752420a5:
 
     # mc "You're not that old, Melony. You still got it."
-    mc "Você não é tão velha assim, Melony. Ainda consegue."
+    mc "Você não é tão velha assim, Melony. Você ainda bate um bolão."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:514
 translate portuguese sm1cs_my005_after_movie_3a05586b:
 
     # my "Haha. You silver tongued charmer."
-    my "Haha. Já jogando o charme."
+    my "Haha. Já jogando o charme, hein."
 
 # game/code/scenes/character_scenes/my/sm1cs-my005.rpy:515
 translate portuguese sm1cs_my005_after_movie_a33aa3e6:
