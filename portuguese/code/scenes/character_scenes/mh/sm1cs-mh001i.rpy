@@ -44,7 +44,7 @@ translate portuguese sm1cs_mh001i_18593bce:
 translate portuguese sm1cs_mh001i_47e20ce6:
 
     # mc "Uh... I think I skipped those classes. I don't know how to write contracts."
-    mc "Ahm... Acho que pulei essas aulas... Não sei como fazer contrato."
+    mc "Ahm... Acho que pulei essas aulas. Não sei como fazer contrato."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh001i.rpy:22
 translate portuguese sm1cs_mh001i_20b803d2:
@@ -86,7 +86,7 @@ translate portuguese sm1cs_mh001i_07406d07:
 translate portuguese sm1cs_mh001i_76c63532:
 
     # mc "And it will be good to see her again."
-    mc "E vai ser legal ver ela de novo"
+    mc "E vai ser legal ver ela de novo."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh001i.rpy:34
 translate portuguese sm1cs_mh001i_e7b59bf4:
