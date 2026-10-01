@@ -56,7 +56,7 @@ translate portuguese sm1ms029_5dba34b3:
 translate portuguese sm1ms029_7a5f083f:
 
     # mc "Maybe for you. But I'm the one who ends up doing all the work, and you just sit around looking hot."
-    mc "Talvez pra você. Mas eu que Acabo fazendo tudo, e você fica só parada sendo gostosa."
+    mc "Talvez pra você. Mas eu que acabo fazendo tudo, e você fica só parada sendo gostosa."
 
 # game/code/scenes/main_story/sm1ms029.rpy:36
 translate portuguese sm1ms029_8a838bd4:
@@ -92,7 +92,7 @@ translate portuguese sm1ms029_67fcf07b:
 translate portuguese sm1ms029_e88d7b09:
 
     # sy "Now come on, chop, chop! To work, pool boy!"
-    sy "Agora anda, nora, bora. Vai trabalhar, limpador de piscina!"
+    sy "Agora anda, bora, bora! Vai trabalhar, limpador de piscina!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:48
 translate portuguese sm1ms029_8464a05b:
@@ -110,7 +110,7 @@ translate portuguese sm1ms029_c1b5c70a:
 translate portuguese sm1ms029_acdacbac:
 
     # sy "Uh huh! They'll start arriving any second."
-    sy "Agam! Devem chegar a qualquer momento."
+    sy "Aham! Devem chegar a qualquer momento."
 
 # game/code/scenes/main_story/sm1ms029.rpy:67
 translate portuguese sm1ms029_2c9a23fd:
@@ -206,7 +206,7 @@ translate portuguese sm1ms029_89724ee8:
 translate portuguese sm1ms029_a8996796:
 
     # sy "Or maybe, this is the classic setup for the next chapter? Some epic villain or downfall before us?"
-    sy "Ou talvez isso é o clássico gancho pro próximo capítulo? Algum vilão épico uma queda gigante à nossa frente?"
+    sy "Ou talvez isso é o clássico gancho pro próximo capítulo? Algum vilão épico ou uma queda gigante à nossa frente?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:98
 translate portuguese sm1ms029_b96ad77f:
@@ -620,7 +620,7 @@ translate portuguese sm1ms029_party_ns_f73d8191:
 translate portuguese sm1ms029_party_ns_130fbc1f:
 
     # sy "So next time she starts talking about crypto markets, I'm going to give her a wet, juicy, kiss."
-    sy "Então da próxima vez que ela começar a falar de mercado de cripto, vou dar uma me toca molhada nela."
+    sy "Então da próxima vez que ela começar a falar de mercado de cripto, vou dar uma bitoca molhada nela."
 
 # game/code/scenes/main_story/sm1ms029.rpy:287
 translate portuguese sm1ms029_party_ns_f71e3163:
@@ -800,7 +800,7 @@ translate portuguese sm1ms029_party_mes_c33cc0a8:
 translate portuguese sm1ms029_party_mes_5dbcb40b:
 
     # mc "She's got a few surprises in store."
-    mc "Ela tem uma surpresinhas guardadas."
+    mc "Ela tem umas surpresinhas na manga."
 
 # game/code/scenes/main_story/sm1ms029.rpy:377
 translate portuguese sm1ms029_party_mes_9a4d8444:
@@ -848,13 +848,13 @@ translate portuguese sm1ms029_party_mh_8da099d7:
 translate portuguese sm1ms029_party_mh_bb326048:
 
     # mh "Mmmm, I see you two are continuing the masks tradition."
-    mh "Mmmmn vejo que estão continuando com a tradição das máscaras."
+    mh "Mmmmn, vejo que estão continuando com a tradição das máscaras."
 
 # game/code/scenes/main_story/sm1ms029.rpy:418
 translate portuguese sm1ms029_party_mh_e9fab0f6:
 
     # sy "Yeah! I always thought they were so fun."
-    sy "Sim! Sempre gostei anto delas."
+    sy "Sim! Sempre achei elas tão divertidas."
 
 # game/code/scenes/main_story/sm1ms029.rpy:419
 translate portuguese sm1ms029_party_mh_3d1bb645:
@@ -1082,7 +1082,7 @@ translate portuguese sm1ms029_party_continue_167473b7:
 translate portuguese sm1ms029_party_continue_f54e7e3a:
 
     # sy "Everyone! Thanks so much for attending the very first ever S&M Studio Party!"
-    sy "Pessoal! Muito obrigado por atenderem a primeira festa do S&M Studio!"
+    sy "Pessoal! Muito obrigada por participarem a primeira festa do S&M Studio!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:523
 translate portuguese sm1ms029_party_continue_02321992:
@@ -1202,7 +1202,7 @@ translate portuguese sm1ms029_party_continue_d6fb8e35:
 translate portuguese sm1ms029_party_continue_165972a2:
 
     # sy "And you better not get sick! Or I swear to God-"
-    sy "E e não vai ficar doente. Senão eu juro por Deus-"
+    sy "E não vai ficar doente, hein! Senão eu juro por Deus-"
 
 # game/code/scenes/main_story/sm1ms029.rpy:571
 translate portuguese sm1ms029_party_continue_bc78ec09:
@@ -1496,7 +1496,7 @@ translate portuguese sm1ms029_talk_mes_ns_764f0431:
 translate portuguese sm1ms029_talk_mes_ns_1f91321b:
 
     # ns "It's so wonderful to be able to talk to someone who's also been to Seoul!"
-    ns "É tão legal poder conversar em alguém com alguém que também é de Seoul!"
+    ns "É tão legal poder conversar com alguém que também esteve em Seul!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:728
 translate portuguese sm1ms029_talk_mes_ns_05738eb0:
@@ -1694,7 +1694,7 @@ translate portuguese sm1ms029_talk_tl_ns_54dfdf04:
 translate portuguese sm1ms029_talk_tl_ns_ec9b8664:
 
     # ns "And I can't imagine sleeping in as late as Taisia does!"
-    ns "E não consigo nem imaginar dormir tão tarde quanto a Taisia!"
+    ns "E não consigo nem imaginar acordar tão tarde quanto a Taisia!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:808
 translate portuguese sm1ms029_talk_tl_ns_3b6bba2c:
@@ -1742,7 +1742,7 @@ translate portuguese sm1ms029_talk_tl_ns_cac234da:
 translate portuguese sm1ms029_talk_tl_ns_4d6f12a5:
 
     # ns "Yeah, huh! I know I'm not crazy!"
-    ns "Sim! Você sabe que eu não sou louca!"
+    ns "Sim! Eu sei que não sou louca!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:823
 translate portuguese sm1ms029_talk_tl_ns_254a8c2a:
@@ -2150,7 +2150,7 @@ translate portuguese sm1ms029_party_part_1_11154dea:
 translate portuguese sm1ms029_party_part_1_22b701c9:
 
     # arj "Tonight, Stacy has agreed to allow everyone to participate."
-    arj "Hoje a Stacy concordou e deixar todo mundo participar."
+    arj "Hoje a Stacy concordou em deixar todo mundo participar."
 
 # game/code/scenes/main_story/sm1ms029.rpy:997
 translate portuguese sm1ms029_party_part_1_9e07a27a:
@@ -2312,7 +2312,7 @@ translate portuguese sm1ms029_party_part_1_ec158677:
 translate portuguese sm1ms029_party_part_1_79180c7f:
 
     # arj "Here you go, Hana. Have fun!"
-    arj "Prontinho, Kanya. Divirta-se!"
+    arj "Prontinho, Hana. Divirta-se!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1057
 translate portuguese sm1ms029_party_part_1_706d95a8:
@@ -2366,13 +2366,13 @@ translate portuguese sm1ms029_party_part_1_71ac4f1a:
 translate portuguese sm1ms029_party_part_1_1bfa942b:
 
     # hr "You like it?"
-    hr "Ta gostando?"
+    hr "Tá gostando?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1080
 translate portuguese sm1ms029_party_part_1_8789036c:
 
     # sy "Y-yes! Oh, it's - nggggggg-!"
-    sy "S-sim! Ah, isso é - nggggggg-"
+    sy "S-sim! Ai, isso é - nggggggg-!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1082
 translate portuguese sm1ms029_party_part_1_61ab0dd8:
@@ -2396,7 +2396,7 @@ translate portuguese sm1ms029_party_part_1_b48d1b91:
 translate portuguese sm1ms029_party_part_1_53c02971:
 
     # hr "Like a good girl? Hmmm?"
-    hr "Como uma menina? Hmmm?"
+    hr "Como uma boa menina? Hmmm?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1086
 translate portuguese sm1ms029_party_part_1_1ad3f7b1:
@@ -2576,7 +2576,7 @@ translate portuguese sm1ms029_party_part_1_8fc6f9fe:
 translate portuguese sm1ms029_party_part_1_57c12417:
 
     # mh "I know I will."
-    mh "Eu com certeza eu vou."
+    mh "Tenho certeza que eu vou."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1136
 translate portuguese sm1ms029_party_part_1_07ebb28c:
@@ -2618,13 +2618,13 @@ translate portuguese sm1ms029_party_part_1_a242fcf9:
 translate portuguese sm1ms029_party_part_1_032a6eb7:
 
     # mh "Yeah? Does the naughty girl like her punishment?"
-    mh "Sim? A garota lavadinha está gostando da punição?"
+    mh "Sim? A garota levadinha está gostando da punição?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1152
 translate portuguese sm1ms029_party_part_1_6d69b3a7:
 
     # sy "I do! Yeouch! I definitely do!"
-    sy "Sim! Aiiii! Tô gostando com certeza!"
+    sy "Sim! Aiiii! Tô adorando!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1153
 translate portuguese sm1ms029_party_part_1_94bc734c:
@@ -2708,7 +2708,7 @@ translate portuguese sm1ms029_party_part_1_0f6b0c8c:
 translate portuguese sm1ms029_party_part_1_c6a34dcb:
 
     # mh "But naughty girls are in need of punishment. Just a few love taps won't do."
-    mh "Mas garotas levadas precisam ser punidas. Só uns tampinhas não resolvem."
+    mh "Mas garotas levadas precisam ser punidas. Só uns tapinhas não resolvem."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1170
 translate portuguese sm1ms029_party_part_1_a62db7a0:
@@ -2828,7 +2828,7 @@ translate portuguese sm1ms029_ns_nipple_clamps_70687305:
 translate portuguese sm1ms029_ns_nipple_clamps_226be50f:
 
     # mc "Of course it's exciting! Are you not having fun?"
-    mc "Claro que é importante! Não tá se divertindo?"
+    mc "Claro que é empolgante! Não tá se divertindo?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1231
 translate portuguese sm1ms029_ns_nipple_clamps_1d7a4dae:
@@ -2858,7 +2858,7 @@ translate portuguese sm1ms029_ns_nipple_clamps_213c4cc0:
 translate portuguese sm1ms029_ns_nipple_clamps_53a678d0:
 
     # mc "Not at all. You just clamp it to their nipple! Super easy."
-    mc "Nada. É só aprender no mamilo! Moleza!"
+    mc "Nada. É só prender no mamilo! Moleza."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1241
 translate portuguese sm1ms029_ns_nipple_clamps_d9b4a27e:
@@ -2906,13 +2906,13 @@ translate portuguese sm1ms029_ns_nipple_clamps_375621c9:
 translate portuguese sm1ms029_ns_nipple_clamps_f596e9f7:
 
     # sy "Uh huh! Super okay! I like the feeling, it just takes me a second to get used to the pain."
-    sy "Aham! Super bom! Eu gosto da sensação, é que eu preciso de um segundo pra me ajudar à dor."
+    sy "Aham! Super bom! Eu gosto da sensação, é que eu preciso de um segundo pra me ajustar à dor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1256
 translate portuguese sm1ms029_ns_nipple_clamps_4ade79da:
 
     # ns "It hurts!?!"
-    ns "Isso dó?!"
+    ns "Isso dói?!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1258
 translate portuguese sm1ms029_ns_nipple_clamps_65182ab5:
@@ -3146,7 +3146,7 @@ translate portuguese sm1ms029_part_1_my_appear_b34da7d0:
 translate portuguese sm1ms029_part_1_my_appear_dfbe248b:
 
     # arj "She always teases me with butt stuff, and I think it's time I return the favor."
-    arj "Ela sempre implica comigo  com essas paradas de bunda, agora é minha vez retribuir o favor."
+    arj "Ela sempre implica comigo com essas paradas de bunda, agora é minha vez retribuir o favor."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1351
 translate portuguese sm1ms029_part_1_my_appear_61ca0bf5:
@@ -3206,7 +3206,7 @@ translate portuguese sm1ms029_part_1_my_appear_46f52a42:
 translate portuguese sm1ms029_part_1_my_appear_2da8df6f:
 
     # arj "Hmmmm... I don't know if that's wet enough yet..."
-    arj "Hmmmm...  Não sei se tá molhado o bastante..."
+    arj "Hmmmm... Não sei se tá molhado o bastante..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1387
 translate portuguese sm1ms029_part_1_my_appear_c8c40a7f:
@@ -3284,7 +3284,7 @@ translate portuguese sm1ms029_part_1_my_appear_cb447e12:
 translate portuguese sm1ms029_part_1_my_appear_c6498bc1:
 
     # arj "Because I am going to enjoy watching you wiggle around while I impale your ass on this dildo."
-    arj "Porque vou adorar ver você se remexendo toda enquanto enfia esse dildo na sua bunda."
+    arj "Porque vou adorar ver você se remexendo toda enquanto meto esse dildo na sua bunda."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1415
 translate portuguese sm1ms029_part_1_my_appear_8c3faf33:
@@ -3680,7 +3680,7 @@ translate portuguese sm1ms029_part_1_my_appear_d106c4c4:
 translate portuguese sm1ms029_part_1_my_appear_5b72407c:
 
     # mct "But I was smooth like a cucumber."
-    mct "Mas eu fiquei só na tranquilidade. "
+    mct "Mas eu fiquei só na tranquilidade."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1533
 translate portuguese sm1ms029_part_1_my_appear_d394e3cd:
@@ -3704,7 +3704,7 @@ translate portuguese sm1ms029_part_1_my_appear_0d55c32a:
 translate portuguese sm1ms029_part_1_my_appear_7d4a8861:
 
     # arj "You took your punishment like a good girl. I guess you've earned a break."
-    arj "Você recebeu sua punição como uma menina. Acho que merece um descanso."
+    arj "Você recebeu sua punição como uma boa menina. Acho que merece um descanso."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1539
 translate portuguese sm1ms029_part_1_my_appear_8ca87e26:
@@ -3878,7 +3878,7 @@ translate portuguese sm1ms029_party_sy_dddd6b1a:
 translate portuguese sm1ms029_party_sy_457f967d:
 
     # sy "You should know by now that I'm the best!"
-    sy "Você devia saber eu sou a melhor!"
+    sy "Você já devia saber que eu sou a melhor!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1590
 translate portuguese sm1ms029_party_sy_934bc35c:
@@ -4052,13 +4052,13 @@ translate portuguese sm1ms029_party_sy_80431dcc:
 translate portuguese sm1ms029_party_sy_38c73545:
 
     # sy "Oh, fuuuuuck meeeee!"
-    sy "Aaaih, eu tô fodidaaaaa!"
+    sy "Aaaih, me foodeeeeeee!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1633
 translate portuguese sm1ms029_party_sy_f46b39a0:
 
     # mc "That's what I'm - nggghhhhh - doing!"
-    mc "É o que eu tô - nggghhhhh - fazendo!"
+    mc "Mas é isso que eu tô - nggghhhhh - fazendo!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1634
 translate portuguese sm1ms029_party_sy_3d65d23d:
@@ -4094,7 +4094,7 @@ translate portuguese sm1ms029_party_sy_e24dad67:
 translate portuguese sm1ms029_party_sy_3cb4b5d3:
 
     # sy "Oh I can feel your cock so deep inside me!"
-    sy "Ai, dá pra sentir o seu pau pau tão fundo!"
+    sy "Ai, dá pra sentir o seu pau tão fundo!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1642
 translate portuguese sm1ms029_party_sy_4192e0e2:
@@ -4460,13 +4460,13 @@ translate portuguese sm1ms029_rival_enters_fda5068c:
 translate portuguese sm1ms029_rival_enters_a1ee8d6f:
 
     # kv "Ah... Hahaha. You guys are funny."
-    kv "Ah... Hahaha. Você são engraçados."
+    kv "Ah... Hahaha. Vocês são engraçados."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1745
 translate portuguese sm1ms029_rival_enters_755984d1:
 
     # kv "Well, you're all set, and you got here just in time for [mcname]'s grand finale with Stacy."
-    kv "Bem, tudo certo agora, chegaram bem na hora do grande final do [mcname] e a Stacy."
+    kv "Bem, tudo certo agora, e chegaram bem na hora do grande final do [mcname] com a Stacy."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1747
 translate portuguese sm1ms029_rival_enters_ed66a87e:
@@ -4490,7 +4490,7 @@ translate portuguese sm1ms029_party_sy_finale_7e134d18:
 translate portuguese sm1ms029_party_sy_finale_6bf6891c:
 
     # mc "Oh shiiiiit, oh you're squeezing my dick with your throat!"
-    mc "Porrraaa, você tá espremendo o meu pau com garganta!"
+    mc "Porrraaa, você tá espremendo o meu pau com a garganta!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1759
 translate portuguese sm1ms029_party_sy_finale_f1423bb4:
@@ -4526,7 +4526,7 @@ translate portuguese sm1ms029_party_sy_finale_d289ddd5:
 translate portuguese sm1ms029_party_sy_finale_d1fb0149:
 
     # mc "Fuuuck, you gotta - nggggh-!"
-    mc "Porra, você tem que - nbgggh-"
+    mc "Porra, você tem que - nggggh-!"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1766
 translate portuguese sm1ms029_party_sy_finale_c115408a:
@@ -4640,7 +4640,7 @@ translate portuguese sm1ms029_party_sy_finale_9b40a147:
 translate portuguese sm1ms029_party_sy_finale_f85be9f9:
 
     # sy "I'm going to freshen up, and get some water! I think you should do the same!"
-    sy "Sim, eu dar uma refrescada e pegar uma água! Acho bom você fazer o mesmo!q"
+    sy "Sim, eu vou dar uma refrescada e pegar uma água! Acho bom você fazer o mesmo!q"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1801
 translate portuguese sm1ms029_party_sy_finale_ce48cb8c:
@@ -4802,7 +4802,7 @@ translate portuguese sm1ms029_party_arj_9f21d1cf:
 translate portuguese sm1ms029_party_arj_44b98748:
 
     # arj "Sorry... it looked easier on the video."
-    arj "Desculpa... aparecer mais fácil no vídeo."
+    arj "Desculpa... parecia mais fácil no vídeo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1855
 translate portuguese sm1ms029_party_arj_35d2ab6e:
@@ -4826,7 +4826,7 @@ translate portuguese sm1ms029_party_arj_87e26eb2:
 translate portuguese sm1ms029_party_arj_afd8de13:
 
     # arj "I wanted to do something big. This is kind of our coming-out party since we're together again."
-    arj "Queria fazer algo grane. Isso aqui é tipo uma comemoração da nossa volta, já que estamos juntos de novo."
+    arj "Queria fazer algo grande. Isso aqui é tipo uma comemoração da nossa volta, já que estamos juntos de novo."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1861
 translate portuguese sm1ms029_party_arj_231e3901:
@@ -4850,7 +4850,7 @@ translate portuguese sm1ms029_party_arj_922c660a:
 translate portuguese sm1ms029_party_arj_d1915747:
 
     # mc "Fuck, I've missed this."
-    mc "Porra, como eu senti falta disso."
+    mc "Caralho, como eu senti falta disso."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1870
 translate portuguese sm1ms029_party_arj_7fa4c0e4:
@@ -4904,13 +4904,13 @@ translate portuguese sm1ms029_party_arj_a74f2be6:
 translate portuguese sm1ms029_party_arj_abe5d4ad:
 
     # mc "You really are the best, aren't you?"
-    mc "Você foda, sabia?"
+    mc "Você é foda, sabia?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:1887
 translate portuguese sm1ms029_party_arj_57424255:
 
     # arj "Praise later. Right now, I really want to taste your cock, [mcname]."
-    arj "Elogios depois. Agora eu quero seu pau na minha boca, [mcname]."
+    arj "Elogios ficam pra depois. Agora eu quero seu pau na minha boca, [mcname]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1888
 translate portuguese sm1ms029_party_arj_11f36ed7:
@@ -5114,7 +5114,7 @@ translate portuguese sm1ms029_party_arj_8873befd:
 translate portuguese sm1ms029_party_arj_953a58b8:
 
     # mct "But I can't cum without making AmRose melt."
-    mct "Mas não posso gozar assim derreter a AmRose toda."
+    mct "Mas não posso gozar sem derreter a AmRose toda."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1951
 translate portuguese sm1ms029_party_arj_6adeae12:
@@ -5240,7 +5240,7 @@ translate portuguese sm1ms029_party_arj_4f9d2674:
 translate portuguese sm1ms029_party_arj_a5eb7199:
 
     # arj "Through the power of love. Anything is possible."
-    arj "Como o poder do amor... tudo é possível."
+    arj "Com o poder do amor... tudo é possível."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1986
 translate portuguese sm1ms029_party_arj_1c4ff6db:
@@ -5276,7 +5276,7 @@ translate portuguese sm1ms029_party_arj_945fe216:
 translate portuguese sm1ms029_party_arj_d43c754f:
 
     # arj "I'm not. I'm thinking about it."
-    arj "Não to. Eu estava pensando nisso."
+    arj "Não tô. Eu estava pensando nisso."
 
 # game/code/scenes/main_story/sm1ms029.rpy:1996
 translate portuguese sm1ms029_party_arj_64eab9e9:
@@ -5318,7 +5318,7 @@ translate portuguese sm1ms029_party_arj_e4068727:
 translate portuguese sm1ms029_party_arj_caa0ecea:
 
     # arj "Fucking... niaha... in front of a lot of people."
-    arj "Me comendo... aaah.. na frente de um monte de gente."
+    arj "Transando... aaaih... na frente de um monte de gente."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2007
 translate portuguese sm1ms029_party_arj_3a387874:
@@ -5390,7 +5390,7 @@ translate portuguese sm1ms029_party_arj_900ccfdf:
 translate portuguese sm1ms029_party_arj_a995df6f:
 
     # arj "Do it. Blast my pussy with your cum, [arj_mcname!t]."
-    arj "Vai. Mete porra na minha boceta, [arj_mcname!t]"
+    arj "Vai. Enche a minha boceta de porra, [arj_mcname!t]."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2031
 translate portuguese sm1ms029_party_arj_be832965:
@@ -5756,25 +5756,25 @@ translate portuguese sm1ms029_confrontation_235f506b:
 translate portuguese sm1ms029_confrontation_920bca26:
 
     # et "When I started making porn, many in the city doubted I could make it big."
-    et "Quando comecei a fazer pornô, muitos na cidade de duvidaram que eu fosse crescer."
+    et "Quando comecei a fazer pornô, muitos na cidade duvidaram que eu fosse crescer."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2171
 translate portuguese sm1ms029_confrontation_f8167a2c:
 
     # et "But I proved them wrong.{w} And now Foxmorr Films is one of the biggest businesses in the city."
-    et "Mas para ver que estavam errados.{w} E agora Foxmorr Films é uma das maiores empresas da cidade."
+    et "Mas provei que estavam errados.{w} E agora Foxmorr Films é uma das maiores empresas da cidade."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2172
 translate portuguese sm1ms029_confrontation_00493fe4:
 
     # et "The company has made me a billionaire and made many outstanding individuals into top-tier talent that thousands of people watch every day."
-    et "A empresa fez de mim um bilionário, transformou pessoas muito talentosas em estrelas de primeira que milhares de pessoas assistem todo dia."
+    et "A empresa me fez virar bilionário, transformou pessoas muito talentosas em estrelas de primeira que milhares de pessoas assistem todo dia."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2173
 translate portuguese sm1ms029_confrontation_6d21edd1:
 
     # et "But I remain humble, and always remember that Crowning deserves my help."
-    et "Mas eu permaneço humilde, e sempre nunca esqueço que Crowning merece a minha ajuda."
+    et "Mas eu permaneço humilde, e nunca esqueço que Crowning merece a minha ajuda."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2174
 translate portuguese sm1ms029_confrontation_e4f909f4:
@@ -5834,7 +5834,7 @@ translate portuguese sm1ms029_confrontation_662ae26b:
 translate portuguese sm1ms029_confrontation_63896cc6:
 
     # et "When I found out it was just two struggling people with no formal business education, I had to admit."
-    et "Quando eu descobri que eram duas pessoas atalhando sem educação formal, tenho que admitir."
+    et "Quando eu descobri que eram duas pessoas na luta sem educação formal, tive que admitir."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2189
 translate portuguese sm1ms029_confrontation_409e62aa:
@@ -5858,7 +5858,7 @@ translate portuguese sm1ms029_confrontation_d88a0e25:
 translate portuguese sm1ms029_confrontation_0bdff9c4:
 
     # et "But they'll never reach the heights of Nuttgrabbers II or Zero-Void Alien Babes."
-    et "Mas nunca não chegar aos pés de Nuttgrabbers II or Zero-Void Alien Babes."
+    et "Mas nunca vão chegar aos pés de Nuttgrabbers II or Zero-Void Alien Babes."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2195
 translate portuguese sm1ms029_confrontation_fde8ccf7:
@@ -5870,7 +5870,7 @@ translate portuguese sm1ms029_confrontation_fde8ccf7:
 translate portuguese sm1ms029_confrontation_25ec03b2:
 
     # et "We can take what you started and bring it to the next level."
-    et "Podemos pegar o que começaram levar para o próximo nível."
+    et "Podemos pegar o que vocês começaram e levar para o próximo nível."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2197
 translate portuguese sm1ms029_confrontation_0109d74c:
@@ -5924,7 +5924,7 @@ translate portuguese sm1ms029_confrontation_98a4002d:
 translate portuguese sm1ms029_confrontation_51be9e8c:
 
     # mc "We're not about to sell everything we've been busting our asses to make."
-    mc "Não vamos vender tudo que ralamos duto pra conseguir."
+    mc "Não vamos vender tudo que ralamos pra conseguir."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2214
 translate portuguese sm1ms029_confrontation_cb46a1af:
@@ -5948,7 +5948,7 @@ translate portuguese sm1ms029_confrontation_f5359b4f:
 translate portuguese sm1ms029_confrontation_c9bc1fbd:
 
     # sy "Yeah. And since you came here to try to buy us out, I bet your scared of our potential."
-    sy "Isso. E já que veio aqui pra comprar a gente, aposto que tá com medo de nós potencial."
+    sy "Isso. E já que veio aqui pra tentar comprar a gente, aposto que tem medo do nosso potencial."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2225
 translate portuguese sm1ms029_confrontation_3eb00c27:
@@ -6188,7 +6188,7 @@ translate portuguese sm1ms029_confrontation_ea7e6e3e:
 translate portuguese sm1ms029_confrontation_063dd8e9:
 
     # mc "Forget about that guy. Total inferiority complex."
-    mc "Esquece esse cara. Complexo inferioridade da porra."
+    mc "Esquece esse cara. Complexo de inferioridade da porra."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2318
 translate portuguese sm1ms029_confrontation_1cd215d5:
@@ -6308,7 +6308,7 @@ translate portuguese sm1ms029_party_end_c845624f:
 translate portuguese sm1ms029_party_end_24bb03fb:
 
     # hr "Maybe just a little bit nasty."
-    hr "Talvez meio suspeitinho."
+    hr "Talvez meio safadinho."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2373
 translate portuguese sm1ms029_party_end_0e281c6a:
@@ -6338,7 +6338,7 @@ translate portuguese sm1ms029_party_end_16392459:
 translate portuguese sm1ms029_party_end_6f70614c:
 
     # hr "After Fetish Locator, and learning that AmRose wasn't here... I had to make sure."
-    hr "Depois do Fetish Locator, e descobrindo que a AmRose não estava aqui... tive que me certificar."
+    hr "Depois do Fetish Locator, e de descobrir que a AmRose não estava aqui... tive que me certificar."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2380
 translate portuguese sm1ms029_party_end_cc1dbc0b:
@@ -6404,7 +6404,7 @@ translate portuguese sm1ms029_party_end_6cb17898:
 translate portuguese sm1ms029_party_end_5b65fff0:
 
     # arj "Me too. All that cleaning, after that fucking we did..."
-    arj "Também. toda essa faxina depois de tanto transar..."
+    arj "Também. Toda essa faxina depois de tanto transar..."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2404
 translate portuguese sm1ms029_party_end_94ccb5f9:
@@ -6440,7 +6440,7 @@ translate portuguese sm1ms029_party_end_57742cf4:
 translate portuguese sm1ms029_party_end_13a8f8fd:
 
     # sy "Oh my God, look at the time! AmRose, do you need me to call you a cab or something?"
-    sy "Meu Deus, olha só a hora! AmRose, quer que a gente chama um táxi?"
+    sy "Meu Deus, olha só que hora é! AmRose, quer que a gente chame um táxi?"
 
 # game/code/scenes/main_story/sm1ms029.rpy:2414
 translate portuguese sm1ms029_party_end_0e7057f6:
@@ -6702,7 +6702,7 @@ translate portuguese sm1ms029_part_1_my_appear_34bfa67c:
 translate portuguese sm1ms029_confrontation_23ce713c:
 
     # sy "Now I see it. Carmel Blaise.{w} You're the top pornstar of Foxmorr Films."
-    sy "Agora que vi.  Carmel Blaise.{w} Você é a maior estrela pornô da Foxmorr Films."
+    sy "Agora que vi. Carmel Blaise.{w} Você é a maior estrela pornô da Foxmorr Films."
 
 # game/code/scenes/main_story/sm1ms029.rpy:2528
 translate portuguese sm1ms029_confrontation_2f7e4a34:
