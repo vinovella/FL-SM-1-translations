@@ -98,7 +98,7 @@ translate portuguese sm1fs_i004_4565fab2:
 translate portuguese sm1fs_i004_ab0805dd:
 
     # ag "Where's Claire? Isn't she-"
-    ag "Cadê a Claire. Ela não-"
+    ag "Cadê a Claire? Ela não-"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:76
 translate portuguese sm1fs_i004_03338559:
@@ -140,13 +140,13 @@ translate portuguese sm1fs_i004_e1124f44:
 translate portuguese sm1fs_i004_7f128b9b:
 
     # ag "Your hair screams Daddy issues."
-    ag "O seu cabelo grita que tem problema com o papai."
+    ag "O seu cabelo tem cara que tem problema com o papai."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:100
 translate portuguese sm1fs_i004_bf21465e:
 
     # am "And your code just screams issues."
-    am "E o seu código só grita mesmo."
+    am "E o seu código só tem problemas mesmo."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:103
 translate portuguese sm1fs_i004_5c986a92:
@@ -302,7 +302,7 @@ translate portuguese sm1fs_i004_dcdc01d7:
 translate portuguese sm1fs_i004_d77f641d:
 
     # atp "I'm very glad I went with Orbix. You all look full of determination. Hopefully enough to keep me on the leading edge."
-    atp "Estou muito feliz escolhi a Orbix. Vocês parecem todos cheios determinação. Espero que o bastante para que eu continue à frente da tecnologia."
+    atp "Estou muito feliz que escolhi a Orbix. Vocês parecem todos cheios de determinação. Espero que o bastante para que eu continue à frente da tecnologia."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:192
 translate portuguese sm1fs_i004_475a1da7:
@@ -518,7 +518,7 @@ translate portuguese sm1fs_i004_adfaa045:
 translate portuguese sm1fs_i004_2deaff89:
 
     # ag "Just don't screw this up. Or I will make your life... Difficult."
-    ag "Só não faz merda. Se não eu vou deixar a sua vida... complicada."
+    ag "Só não faz merda. Senão eu vou deixar a sua vida... complicada."
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:315
 translate portuguese sm1fs_i004_09f1e75f:
@@ -536,7 +536,7 @@ translate portuguese sm1fs_i004_57c9ecea:
 translate portuguese sm1fs_i004_374ba8cc:
 
     # ns "Um. Is this how most client meetings go?"
-    ns "Ahm. Isso é normal de reuniões com o cliente?"
+    ns "Ahm. Isso é normal em reuniões com clientes?"
 
 # game/code/scenes/it_office/sm1fs-i004.rpy:324
 translate portuguese sm1fs_i004_83b3ae0e:
