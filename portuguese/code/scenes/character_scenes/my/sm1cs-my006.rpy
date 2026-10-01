@@ -530,7 +530,7 @@ translate portuguese sm1cs_my006_hotel_room_d5fc3778:
 translate portuguese sm1cs_my006_hotel_room_bafc5af5:
 
     # my "I need you to fuck me...{w} I need to feel your cock inside of me..."
-    my "Preciso que você me coma...{w} Preciso sentir esse seu pauzão dentro de mim... "
+    my "Preciso que você me coma...{w} Preciso sentir esse seu pauzão dentro de mim..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:295
 translate portuguese sm1cs_my006_hotel_room_8801a1bd:
@@ -860,7 +860,7 @@ translate portuguese sm1cs_my006_hotel_room_34aa8bb7:
 translate portuguese sm1cs_my006_hotel_room_8a95ebae:
 
     # mc "I - nggghhhh - I can try and hold out-!"
-    mc "Eu  - nggghhhh - posso tentar me segurar-!"
+    mc "Eu - nggghhhh - posso tentar me segurar-!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:414
 translate portuguese sm1cs_my006_hotel_room_6e812456:
@@ -1196,7 +1196,7 @@ translate portuguese sm1cs_my006_hotel_room_b2062df5:
 translate portuguese sm1cs_my006_hotel_room_b1600c80:
 
     # my "I-it made me so wet - fuuuuck - I'm almost there, [mcname]!"
-    my "E-eu fiquei tão molhadinha- porraaa- estou quase gozando, [mcname]!"
+    my "E-eu fiquei tão molhadinha - porraaa- estou quase gozando, [mcname]!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:528
 translate portuguese sm1cs_my006_hotel_room_cf35f696:
@@ -1418,7 +1418,7 @@ translate portuguese sm1cs_my006_hotel_room_7d948a70:
 translate portuguese sm1cs_my006_hotel_room_bf28982c:
 
     # my "Oooo, ooooooo, ooouuuahhhh! I - mmmrrrggghhh - hope so!"
-    my "Aaaaah, aaaaaaah, aaaaiiih! T- mmmrrrggghhh - tomara que não!"
+    my "Aaaaah, aaaaaaah, aaaaiiih! T - mmmrrrggghhh - tomara que não!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:611
 translate portuguese sm1cs_my006_hotel_room_ca4aab71:
@@ -1490,13 +1490,13 @@ translate portuguese sm1cs_my006_hotel_room_e5283d8e:
 translate portuguese sm1cs_my006_hotel_room_1c9aab7f:
 
     # mc "Shhhiiiitttt!!! Ngghhhh, ouuuahhhh!"
-    mc "Porrraaaaa!!!  Ngghhhh, ouuuahhhh!"
+    mc "Porrraaaaa!!! Ngghhhh, ouuuahhhh!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:634
 translate portuguese sm1cs_my006_hotel_room_21686982:
 
     # my "Oh, oh, fuuck, fuck, I can feel, fuck, your cock starting to twitch!"
-    my "Aaaih, porraa, estou sentindo, aaaih, seu pau começa a tremer!"
+    my "Aaaih, porraa, estou sentindo, aaaih, seu pau começar a tremer!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:635
 translate portuguese sm1cs_my006_hotel_room_98671479:
@@ -1520,7 +1520,7 @@ translate portuguese sm1cs_my006_hotel_room_50415568:
 translate portuguese sm1cs_my006_hotel_room_33fe71b1:
 
     # my "I want your sperm to be dripping out of my pussy! Yes, YES!"
-    my "Eu quero o seu gozo pingando da minha boceta! Vai GOZA!"
+    my "Eu quero o seu gozo pingando da minha boceta! Goza, VAI!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:642
 translate portuguese sm1cs_my006_hotel_room_3162bf24:
@@ -1568,7 +1568,7 @@ translate portuguese sm1cs_my006_hotel_room_f68fb269:
 translate portuguese sm1cs_my006_hotel_room_2212c0f0:
 
     # my "Oh, I can feel - oh I can feel your cock spurting inside me - ohfuck!"
-    my "Ah, dá para sentir- mhmm, estou sentindo ele jorrar dentro de mim- aaih!"
+    my "Ah, dá para sentir - mhmm, estou sentindo ele jorrar dentro de mim- aaih!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:659
 translate portuguese sm1cs_my006_hotel_room_c5bf38e1:
@@ -1916,7 +1916,7 @@ translate portuguese sm1cs_my006_next_morning_ca823c5f:
 translate portuguese sm1cs_my006_next_morning_e4816e00:
 
     # my "Crawl back into bed. It'll be fuuuuun."
-    my "Sabe de novo na cama. Vai ser divertiiiiido."
+    my "Sobe de novo na cama. Vai ser divertiiiiido."
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:824
 translate portuguese sm1cs_my006_next_morning_2915b9a8:
@@ -2168,7 +2168,7 @@ translate portuguese sm1cs_my006_at_studio_4d8996ad:
 translate portuguese sm1cs_my006_at_studio_a52ccffb:
 
     # sy "What, did you think I was actually mad at you?"
-    sy "Que foi, achou que eu estava irritado com você?"
+    sy "Que foi, achou que eu estava irritada com você?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my006.rpy:954
 translate portuguese sm1cs_my006_at_studio_b21267f8:
