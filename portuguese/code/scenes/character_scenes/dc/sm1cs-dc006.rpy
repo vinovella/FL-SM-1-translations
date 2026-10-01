@@ -236,7 +236,7 @@ translate portuguese sm1cs_dc006_52589806:
 translate portuguese sm1cs_dc006_7957e3f5:
 
     # cs "Sorry about that wait! Here you go, one white chocolate mocha, and one red eye. Enjoy!"
-    cs "Desculpa pela demora! Aqui, um mocha de chocolate branco,e um com espresso. Aproveitem!"
+    cs "Desculpa pela demora! Aqui, um mocha de chocolate branco, e um com espresso. Aproveitem!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:135
 translate portuguese sm1cs_dc006_afd5aaab:
@@ -428,7 +428,7 @@ translate portuguese sm1cs_dc006_4005297e:
 translate portuguese sm1cs_dc006_c288c13d:
 
     # "{i}Ring, ring!{/i}"
-    "*Trim, trim*"
+    "{i}*Trim, trim*{/i}"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:222
 translate portuguese sm1cs_dc006_6b550915:
@@ -608,7 +608,7 @@ translate portuguese sm1cs_dc006_at_park_43182693:
 translate portuguese sm1cs_dc006_at_park_68d5ae84:
 
     # dc "Thanks, [mcname]. If I had gotten another call from the station and I didn't pick it up... I'm already in enough trouble."
-    dc "Obrigada, [mcname]. Se recebesse outra ligação da delegacia e não atendesse...  já basta os problemas que eu tenho."
+    dc "Obrigada, [mcname]. Se recebesse outra ligação da delegacia e não atendesse... já basta os problemas que eu tenho."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:323
 translate portuguese sm1cs_dc006_at_park_f3235f1a:
@@ -794,7 +794,7 @@ translate portuguese sm1cs_dc006_at_park_64491fce:
 translate portuguese sm1cs_dc006_at_park_0314ba89:
 
     # dc "Gah! You bastard! I will get you!!"
-    dc "Aah! Seu desgraçado!"
+    dc "Aah! Seu desgraçado! Vou te pegar!!!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc006.rpy:423
 translate portuguese sm1cs_dc006_at_park_4566c62f:
