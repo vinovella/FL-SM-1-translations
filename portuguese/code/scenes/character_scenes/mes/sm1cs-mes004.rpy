@@ -122,7 +122,7 @@ translate portuguese sm1cs_mes004_acaf9271:
 translate portuguese sm1cs_mes004_c38a2d1d:
 
     # mct "Hmmm. I guess we never did this step back when we were hanging out during Fetish Locator."
-    mct "Hmmm. Acho que nunca demos essa analisada na época do Fetish Locator."
+    mct "Hmmm. Acho que nunca tomamos esse passo na época do Fetish Locator."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:77
 translate portuguese sm1cs_mes004_d846a07d:
@@ -638,7 +638,7 @@ translate portuguese sm1cs_mes004_after_dance_4661a639:
 translate portuguese sm1cs_mes004_after_dance_80f3d690:
 
     # mc "Two more shots, please."
-    mc "Mais duas dose, por favor."
+    mc "Mais duas doses, por favor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:405
 translate portuguese sm1cs_mes004_after_dance_1b3b9500:
@@ -806,13 +806,13 @@ translate portuguese sm1cs_mes004_after_dance_4d6554bb:
 translate portuguese sm1cs_mes004_after_dance_ef3fe31d:
 
     # mes "I mean, I'd have you do it to me."
-    mes "Digo, você teria que fazer comigo."
+    mes "Digo, você que faria comigo."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:488
 translate portuguese sm1cs_mes004_after_dance_c5ad13ae:
 
     # mc "And... what kind of thing do you want me to {i}do{/i} to you?"
-    mc "E... que tipo de coisa você quer que eu faça com você?"
+    mc "E... que tipo de coisa você quer que eu faça a você?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes004.rpy:491
 translate portuguese sm1cs_mes004_after_dance_dbdf1a02:
