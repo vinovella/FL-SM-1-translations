@@ -26,7 +26,7 @@ translate portuguese sm1cs_ns010_cb7a4cfb:
 translate portuguese sm1cs_ns010_d83b8e37:
 
     # mc "One vento light roast and one dark roast, please."
-    mc "Um vento torra leve e torra forte, por favor."
+    mc "Um vento torra leve e um torra forte, por favor."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:35
 translate portuguese sm1cs_ns010_f305608a:
@@ -122,13 +122,13 @@ translate portuguese sm1cs_ns010_50f6a4cd:
 translate portuguese sm1cs_ns010_2808e4f7:
 
     # mc "How would {i}that{/i} come up organically?"
-    mc "Como que {i}isso{/i} sugeriria naturalmente?"
+    mc "Como que {i}isso{/i} surgiria naturalmente?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:110
 translate portuguese sm1cs_ns010_2a024a0b:
 
     # mc "No. Not even if the topic of us running a porn studio comes up organically."
-    mc "Não. Nem se o assunto da gente fazer um estúdio pornô surgir naturalmente."
+    mc "Não. Nem se o assunto da gente ter um estúdio pornô surgir naturalmente."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:111
 translate portuguese sm1cs_ns010_5ed9558e:
@@ -374,7 +374,7 @@ translate portuguese sm1cs_ns010_6c053dab:
 translate portuguese sm1cs_ns010_7a0e5b29:
 
     # ns "And it's been nearly impossible to look for a place while I try to keep up my performance at work."
-    ns "E é quase impossível encontrar um lugar enquanto mantendo a minha performance no trabalho."
+    ns "E é quase impossível encontrar um lugar enquanto mantenho a performance noo trabalho."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:220
 translate portuguese sm1cs_ns010_3e5485f9:
@@ -386,13 +386,13 @@ translate portuguese sm1cs_ns010_3e5485f9:
 translate portuguese sm1cs_ns010_df8e5347:
 
     # mc "You'd have your own bedroom, we all share a kitchen and everyone pulls their weight when it's time to clean up."
-    mc "Você teria seu próprio quarto. A cozinha todo mundo compartilha, e levanta peso quando é hora de limpar."
+    mc "Você teria seu próprio quarto. A cozinha todo mundo compartilha, e pega pesado quando é hora de limpar."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:225
 translate portuguese sm1cs_ns010_75be4333:
 
     # ns "That should not be a problem. I have never purchased any weights."
-    ns "Isso não seria problema. Eu nunca tive problema para levantar pesos."
+    ns "Isso não seria problema. Eu nunca comprei pesos."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:226
 translate portuguese sm1cs_ns010_7c7353e6:
@@ -632,19 +632,19 @@ translate portuguese sm1cs_ns010_dff0c4b4_1:
 translate portuguese sm1cs_ns010_4e4f28b2:
 
     # ns "So that means I can come live with you two? That won't be... too much of a burden?"
-    ns "Então quer dizer que eu posso morar com vocês dois. Não vai ser... muito incômodo?"
+    ns "Então quer dizer que eu posso morar com vocês dois? Não vai ser... muito incômodo?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:330
 translate portuguese sm1cs_ns010_4a48aff7:
 
     # sy "No way. Like you said, it will give you time to pick my brain."
-    sy "Que nada. Que nem você disse, vai ter mais tempo pra me entender."
+    sy "Que nada. Que nem você disse, vai ter mais tempo pra pegar umas ideias comigo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:331
 translate portuguese sm1cs_ns010_5d252988:
 
     # sy "And maybe [mcname] and I can pick yours back."
-    sy "E talvez eu e o [mcname] vamos te entender também."
+    sy "E talvez eu e o [mcname] pegar umas com você."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:338
 translate portuguese sm1cs_ns010_1a8b17e8:
@@ -734,7 +734,7 @@ translate portuguese sm1cs_ns010_87ee1f1b_1:
 translate portuguese sm1cs_ns010_5a43913b:
 
     # ns "And it will give me time to come up with a proper gift to thank you two for your hospitality."
-    ns "E isso vai me dar tempo para pensar em um presente para agradecer pela sua hospitalidade."
+    ns "E isso vai me dar tempo para pensar em um presente para agradecer pela hospitalidade de vocês."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:373
 translate portuguese sm1cs_ns010_c634b30a:
@@ -770,7 +770,7 @@ translate portuguese sm1cs_ns010_0b1692ae:
 translate portuguese sm1cs_ns010_3e2587ea:
 
     # ns "I cannot accept such a gift and give nothing back in return. I don't know what the right gift will be, but I am confident I will find something worthy of what you two are giving me."
-    ns "Não posso aceitar no presente assim sem dar nada em troca. Não sei qual presente seria certo, mas tenho certeza que vou encontrar algo digno do que vocês estão me dando."
+    ns "Não posso aceitar um presente desses sem dar nada em troca. Não sei qual presente seria certo, mas tenho certeza que vou encontrar algo digno do que vocês estão me dando."
 
 # game/code/scenes/it_office/ns/sm1cs-ns010.rpy:389
 translate portuguese sm1cs_ns010_ba347f77:
