@@ -38,7 +38,7 @@ translate portuguese sm1cs_sy001_0506349a:
 translate portuguese sm1cs_sy001_149bd478:
 
     # sy "Go for it then."
-    sy "Então Manda brasa."
+    sy "Então manda brasa."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:70
 translate portuguese sm1cs_sy001_a31340dd:
@@ -50,7 +50,7 @@ translate portuguese sm1cs_sy001_a31340dd:
 translate portuguese sm1cs_sy001_5bbc86dd:
 
     # sy "Seriously? We've done some super nasty stuff together. Peeing in the same room doesn't even register anymore."
-    sy "Ué? A gente já fez tanta  putaria junto. Fazer xixi no mesmo lugar não é nada."
+    sy "Ué? A gente já fez tanta putaria junto. Fazer xixi no mesmo lugar não é nada."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:73
 translate portuguese sm1cs_sy001_0f240219:
@@ -74,13 +74,13 @@ translate portuguese sm1cs_sy001_shower_sex_8d63d2b9:
 translate portuguese sm1cs_sy001_shower_sex_40a97c46:
 
     # mc "What if I was talking about you?"
-    mc "E se eu estivesse falando de você"
+    mc "E se eu estivesse falando de você?"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:102
 translate portuguese sm1cs_sy001_shower_sex_6ab8aaa8:
 
     # sy "Ooo, you charmer. Come over here and wash my back, please."
-    sy "Aah, olha o charme. Vem aqui lava minhas costas, por favor."
+    sy "Aah, olha o charme. Vem aqui e lava minhas costas, por favor."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:105
 translate portuguese sm1cs_sy001_shower_sex_1bf60051:
@@ -194,7 +194,7 @@ translate portuguese sm1cs_sy001_shower_sex_a055e424:
 translate portuguese sm1cs_sy001_shower_sex_99209cd0:
 
     # sy "We're, ooooo, starting a porn studio. You better, mmmm, get used to it."
-    sy "A gente tá, mhmm, começando um vídeo pornô. é bom você ir, mmmm, se acostumando."
+    sy "A gente tá, mhmm, começando um estúdio pornô. é bom você ir, mmmm, se acostumando."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:169
 translate portuguese sm1cs_sy001_shower_sex_c591077c:
@@ -302,7 +302,7 @@ translate portuguese sm1cs_sy001_shower_sex_03070d69:
 translate portuguese sm1cs_sy001_shower_sex_76de7b25:
 
     # mc "You're right about one thing, this is pretty hot."
-    mc "Sobre uma coisa que você tá certa, isso é bem gostoso."
+    mc "De uma coisa que você tá certa, isso é bem gostoso."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:223
 translate portuguese sm1cs_sy001_shower_sex_6c246d16:
@@ -350,7 +350,7 @@ translate portuguese sm1cs_sy001_shower_sex_45a884b6:
 translate portuguese sm1cs_sy001_shower_sex_9fec4b03:
 
     # sy "*panting* Ahuaah..."
-    sy "*ofegante*Aaaah..."
+    sy "*ofegante* Aaaah..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:255
 translate portuguese sm1cs_sy001_shower_sex_a55d46b5:
@@ -374,7 +374,7 @@ translate portuguese sm1cs_sy001_shower_sex_3139fc0b:
 translate portuguese sm1cs_sy001_shower_sex_3092737d:
 
     # sy "Give me a second to catch my breath. I have something else I want to try."
-    sy "Deixa só eu reparar o fôlego. Quero tentar outra coisa."
+    sy "Deixa só eu recuperar o fôlego. Quero tentar outra coisa."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:265
 translate portuguese sm1cs_sy001_shower_sex_64506d1c:
@@ -386,7 +386,7 @@ translate portuguese sm1cs_sy001_shower_sex_64506d1c:
 translate portuguese sm1cs_sy001_shower_sex_0a29c1e6:
 
     # sy "There's this new pose we've been doing in pilates..."
-    sy "Tem uma coisa que eu tive treinando no pilates..."
+    sy "Tem uma coisa que eu estive treinando no pilates..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:271
 translate portuguese sm1cs_sy001_shower_sex_3d9ad3bc:
@@ -398,7 +398,7 @@ translate portuguese sm1cs_sy001_shower_sex_3d9ad3bc:
 translate portuguese sm1cs_sy001_shower_sex_18f9ec31:
 
     # sy "Okay, [mcname]. Now lean back so your back is against the wall."
-    sy "Tá, [mcname]. Agora recua põe as costas na parede."
+    sy "Tá, [mcname]. Agora recua e põe as costas na parede."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:276
 translate portuguese sm1cs_sy001_shower_sex_51bbc7f3:
@@ -416,7 +416,7 @@ translate portuguese sm1cs_sy001_shower_sex_f9fc7303:
 translate portuguese sm1cs_sy001_shower_sex_1ffe5196:
 
     # sy "Be more impressed after you've fucked me, I can only do this for a little bit."
-    sy "Fique mais impressionado depois que meter, só posso fazer isso um pouquinho."
+    sy "Fique mais impressionado depois que me comer, só posso fazer isso um pouquinho."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:282
 translate portuguese sm1cs_sy001_shower_sex_0f0a2857:
@@ -524,7 +524,7 @@ translate portuguese sm1cs_sy001_shower_sex_1491bc50:
 translate portuguese sm1cs_sy001_shower_sex_70542cf1:
 
     # sy "Yeah it was. And I can wash the cum off my face right away which is a nice perk."
-    sy "Foi mesmo. E sempre posso lavar a porra da cara na mesma hora, o que já é um bônus."
+    sy "Foi mesmo. E sempre posso lavar sua porra da cara na mesma hora, o que já é um bônus."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:339
 translate portuguese sm1cs_sy001_shower_sex_682d66f7:
@@ -578,7 +578,7 @@ translate portuguese sm1cs_sy001_shower_sex_45e3cd8e:
 translate portuguese sm1cs_sy001_watersports_e335c513:
 
     # mc "You want me to pee {i}on you?{/i}"
-    mc "Quer que eu mija {i}em você{/i}?"
+    mc "Quer que eu mije {i}em você{/i}?"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy001.rpy:373
 translate portuguese sm1cs_sy001_watersports_d774d203:
