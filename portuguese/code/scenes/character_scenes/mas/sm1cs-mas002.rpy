@@ -350,7 +350,7 @@ translate portuguese sm1cs_mas002_89e45b9c:
 translate portuguese sm1cs_mas002_4ea2cde0:
 
     # mct "Wait, is that-?"
-    mct "Espera, isso é-"
+    mct "Espera, isso é-?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas002.rpy:185
 translate portuguese sm1cs_mas002_ef205893:
