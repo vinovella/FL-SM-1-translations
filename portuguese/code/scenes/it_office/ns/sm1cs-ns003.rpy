@@ -434,13 +434,13 @@ translate portuguese sm1cs_ns003_4ae54dc5:
 translate portuguese sm1cs_ns003_7db546b7:
 
     # ns "Their financial estimates for the next twenty quarters are incredible, even if I think they're inflated by one point three percent."
-    ns "As estimativas financeiras para os próximos vinte trimestres estão incríveis, mesmo eu achando elas um pouco infladas em 1.3 porcento."
+    ns "As estimativas financeiras para os próximos vinte trimestres estão incríveis, mesmo eu achando elas um pouco infladas em 1,3%%."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:229
 translate portuguese sm1cs_ns003_3071abe5:
 
     # mc "Sure. Totally. And also meant like, good \"company\" as in the people working there."
-    mc "Sim. Cem porcento. E eu quis dizer \"companhia\" tipo do pessoal trabalhando aqui."
+    mc "Sim. Cem porcento. E eu quis dizer tipo boa \"companhia\" tipo do pessoal trabalhando aqui."
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:232
 translate portuguese sm1cs_ns003_3c75ed27:
@@ -728,7 +728,7 @@ translate portuguese sm1cs_ns003_969f2bc3:
 translate portuguese sm1cs_ns003_4c5527bd:
 
     # mc "And why is this exciting?"
-    mc "E porque isso é empolgante?"
+    mc "E por que isso é empolgante?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns003.rpy:409
 translate portuguese sm1cs_ns003_f8842b3b:
