@@ -2,7 +2,7 @@
 translate portuguese sm1cs_kv000i_295df08f:
 
     # sy "Hey [mcname]! There's something I wanted to mention to you."
-    sy "[mcname]|! Queria te falar uma coisa."
+    sy "[mcname]! Queria te falar uma coisa."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv000i.rpy:8
 translate portuguese sm1cs_kv000i_e10c7e82:
@@ -62,7 +62,7 @@ translate portuguese sm1cs_kv000i_5ca38c79:
 translate portuguese sm1cs_kv000i_0ed888b4:
 
     # mc "Do you mean Ken's Photo Dojo?"
-    mc "Tá falando do atelier fotográfico do Ken?"
+    mc "Tá falando do Atelier Fotográfico do Ken?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv000i.rpy:34
 translate portuguese sm1cs_kv000i_e364bec7:
