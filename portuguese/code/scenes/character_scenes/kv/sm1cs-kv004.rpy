@@ -110,7 +110,7 @@ translate portuguese sm1cs_kv004_c379d321:
 translate portuguese sm1cs_kv004_7f618fe0:
 
     # kv "Oh come off it. Just a \"freak\"? You have told me waaaaaaay more than-"
-    kv "Ah, para com isso. Só te chamaram de safada? Você me falou de coisa muuuuito maiis-"
+    kv "Ah, para com isso. Só te chamaram de safada? Você me falou de coisa muuuuito mais-"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:112
 translate portuguese sm1cs_kv004_495a38f6:
@@ -176,7 +176,7 @@ translate portuguese sm1cs_kv004_b79b3e52:
 translate portuguese sm1cs_kv004_6d25eca1:
 
     # kv "He asked me stuff like, \"dream fantasy\", \"favorite position\" - you know, just trying to get a sense of what our sexual chemistry might be like."
-    kv "Ele perguntou coisas como \"fantasia dos sonhos\", \"posição favorita\" - sabe,  tentando saber como seria a nossa química sexual."
+    kv "Ele perguntou coisas como \"fantasia dos sonhos\", \"posição favorita\" - sabe, tentando saber como seria a nossa química sexual."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:136
 translate portuguese sm1cs_kv004_c591cfb8:
@@ -470,7 +470,7 @@ translate portuguese sm1cs_kv004_cc781f39:
 translate portuguese sm1cs_kv004_0c9c1d08:
 
     # mc "Okay, I'm supposed to tell you that you're a \"for work\" hire, that the pay scale is equal to the earnings per film, that you will be covered under our liability insurance-"
-    mc "Então, tenho que te informar que você vai trabalhar \"sob contrato\", e o pagamento escala conforme os o lucro de cada filme, e que você vai ter cobertura seguro de responsabilidade civil-"
+    mc "Então, tenho que te informar que você vai trabalhar \"sob contrato\", e o pagamento escala conforme o lucro de cada filme, e que você vai ter cobertura seguro de responsabilidade civil-"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:277
 translate portuguese sm1cs_kv004_899d80e7:
@@ -674,7 +674,7 @@ translate portuguese sm1cs_kv004_sex_repeatable_babf1e75:
 translate portuguese sm1cs_kv004_sex_repeatable_b9e52793:
 
     # kv "We'll start off with an easy POV shot."
-    kv "Vamos começar com uma foto em primeira pessoa, bem simples."
+    kv "Vamos começar em primeira pessoa, bem simples."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:413
 translate portuguese sm1cs_kv004_sex_repeatable_924c1b38:
@@ -998,7 +998,7 @@ translate portuguese sm1cs_kv004_sex_repeatable_c5bef044:
 translate portuguese sm1cs_kv004_sex_repeatable_53203aff:
 
     # kv "Fuh - King - Cum - In - My - PUSSY!!!"
-    kv "Goh - Goza -Na - Minha - BOCETA!!!"
+    kv "Goh - Goza - Na - Minha - BOCETA!!!"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:604
 translate portuguese sm1cs_kv004_sex_repeatable_f9fc7303:
@@ -1196,7 +1196,7 @@ translate portuguese sm1cs_kv004_sex_repeatable_b52d6afd:
 translate portuguese sm1cs_kv004_sex_repeatable_0bda85cc:
 
     # mc "Shi- Kanya, you're ah-maze-za-zing with your mouth, goddamn."
-    mc "Shi- Kanya, você é in-crí-vel com a boca, porra."
+    mc "Porr- Kanya, você é in-crí-vel com a boca, porra."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv004.rpy:598
 translate portuguese sm1cs_kv004_sex_repeatable_925a1079:
