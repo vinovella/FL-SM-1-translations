@@ -32,7 +32,7 @@ translate portuguese sm1ms026_1i_continue_ae34085a:
 translate portuguese sm1ms026_1i_continue_a492aead:
 
     # mc "I made up my mind!"
-    mc "Mudei de ideia!"
+    mc "Já me decidi!"
 
 # game/code/scenes/main_story/sm1ms026i.rpy:33
 translate portuguese sm1ms026_1i_continue_13e497b7:
@@ -56,7 +56,7 @@ translate portuguese sm1ms026_1i_continue_54f88bc2:
 translate portuguese sm1ms026_2i_continue_20eae6c5:
 
     # sy "I think we already talked about that one."
-    sy "Acho que a gente já  conversou sobre esse."
+    sy "Acho que a gente já conversou sobre esse."
 
 # game/code/scenes/main_story/sm1ms026i.rpy:60
 translate portuguese sm1ms026_2i_continue_87945995:
@@ -94,7 +94,7 @@ translate portuguese strings:
 
     # game/code/scenes/main_story/sm1ms026i.rpy:112
     old "Choose Pirates movie (progress Taisia's story first)"
-    new " Escolher filme de Piratas (avance a história da Taisia antes)"
+    new "Escolher filme de Piratas (avance a história da Taisia antes)"
 
 translate portuguese strings:
 
