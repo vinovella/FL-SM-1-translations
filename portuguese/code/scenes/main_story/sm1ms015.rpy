@@ -38,7 +38,7 @@ translate portuguese sm1ms015_18fa411c:
 translate portuguese sm1ms015_68d6c00b:
 
     # sy "So cool. It's like a Silicon Valley set."
-    sy "Que legal. Tipo um conjunto do Vale do Silicone."
+    sy "Que legal. Tipo um cenário do Vale do Silicone."
 
 # game/code/scenes/main_story/sm1ms015.rpy:29
 translate portuguese sm1ms015_fb886253:
@@ -254,7 +254,7 @@ translate portuguese sm1ms015_7bb2c069:
 translate portuguese sm1ms015_724ce2f7:
 
     # mc "Melony has just been a little worried that I've been..."
-    mc "A Melony só tá sum pouco preocupada que eu..."
+    mc "A Melony só tá um pouco preocupada que eu..."
 
 # game/code/scenes/main_story/sm1ms015.rpy:126
 translate portuguese sm1ms015_2432f0fe:
@@ -368,7 +368,7 @@ translate portuguese sm1ms015_30771a33:
 translate portuguese sm1ms015_a0d67a83:
 
     # am "Which of the three of us is in a band and has actual musical talent?"
-    am "Qual que nós está numa banda e tem talento musical?"
+    am "Qual de nós está numa banda e tem talento musical?"
 
 # game/code/scenes/main_story/sm1ms015.rpy:185
 translate portuguese sm1ms015_4040e7fe:
@@ -572,13 +572,13 @@ translate portuguese sm1ms015_0aa0dd23:
 translate portuguese sm1ms015_02532d8f:
 
     # ag "Nah, that's just April. She's always like that around new people."
-    ag "Nada, a April é assim mesmo. Ela é sempre assim o pessoal novo."
+    ag "Nada, a April é assim mesmo. Ela é sempre assim com gente nova."
 
 # game/code/scenes/main_story/sm1ms015.rpy:289
 translate portuguese sm1ms015_447efb1c:
 
     # ns "Can I ask what brought you in today?"
-    ns "Posso perguntar as trouxe aqui hoje?"
+    ns "Posso perguntar o que a trouxe aqui hoje?"
 
 # game/code/scenes/main_story/sm1ms015.rpy:291
 translate portuguese sm1ms015_0096f8ff:
@@ -586,7 +586,7 @@ translate portuguese sm1ms015_0096f8ff:
     # my "Well..."
     my "Bem..."
 
-# game/code/scenes/main_story/sm1ms015.rpy:294
+# game/code/scenes/main_story/sm1ms015.rppy:294
 translate portuguese sm1ms015_d7095774:
 
     # my "[mcname] mentioned he was working at Orbix and I just wanted to see what it was like."
@@ -746,7 +746,7 @@ translate portuguese sm1ms015_fca0af4b:
 translate portuguese sm1ms015_97e306b1:
 
     # my "You were going to college to get a business degree."
-    my "Você estava cursando a faculdade, ia ter diploma."
+    my "Você estava cursando a faculdade, ia ter diploma de negócios."
 
 # game/code/scenes/main_story/sm1ms015.rpy:373
 translate portuguese sm1ms015_d698cf5e:
@@ -818,7 +818,7 @@ translate portuguese sm1ms015_b22c66b0:
 translate portuguese sm1ms015_e1a5e200:
 
     # my "But you have to ask yourself if working all of these jobs is worth it for the studio, [mcname]."
-    my "Mas você tem quis te perguntar se trabalhar nesses empregos vale a pena para o estúdio, [mcname]."
+    my "Mas você tem que se perguntar se trabalhar nesses empregos vale a pena para o estúdio, [mcname]."
 
 # game/code/scenes/main_story/sm1ms015.rpy:403
 translate portuguese sm1ms015_aa06a24b:
