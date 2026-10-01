@@ -110,7 +110,7 @@ translate portuguese sm1cs_ns013_2bdd6b11:
 translate portuguese sm1cs_ns013_73a0b3a1:
 
     # sy "Yeah. A monster roommate."
-    sy "Sim.  Uma colega de quarto monstro."
+    sy "Sim. Uma colega de quarto monstro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:117
 translate portuguese sm1cs_ns013_702e62dc:
@@ -194,7 +194,7 @@ translate portuguese sm1cs_ns013_4194afb2:
 translate portuguese sm1cs_ns013_0792d9f7:
 
     # sy "Ahuha-good-ahah..."
-    sy "Ahuha-boom-ahah..."
+    sy "Ahuha-bom-ahah..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:166
 translate portuguese sm1cs_ns013_caacab03:
@@ -272,7 +272,7 @@ translate portuguese sm1cs_ns013_25f0b46a:
 translate portuguese sm1cs_ns013_40f4fdae:
 
     # sy "I was about to put a finger up your butt."
-    sy "Já  ia enfiar o dedo na sua bunda."
+    sy "Eu já ia enfiar um dedo na sua bunda."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:227
 translate portuguese sm1cs_ns013_be00afe1:
@@ -596,7 +596,7 @@ translate portuguese sm1cs_ns013_dc8f8a8b:
 translate portuguese sm1cs_ns013_81c1e417:
 
     # sy "Please stick your cock in my wet, tight pussy, [mcname]."
-    sy "[mcname], por favor mete seu pau na minha boceta..."
+    sy "[mcname], por favor mete seu pau na minha boceta molhadinha apertada..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:422
 translate portuguese sm1cs_ns013_c9d0e1d1:
@@ -716,7 +716,7 @@ translate portuguese sm1cs_ns013_a3208a8d:
 translate portuguese sm1cs_ns013_9b4516f0:
 
     # sy "*moaning* Ahu-ahuaah.. fuaah..."
-    sy "*gemido*  Ahu-ahuaah.. fuaah..."
+    sy "*gemido* Ahu-ahuaah.. fuaah..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:465
 translate portuguese sm1cs_ns013_f562e5a3:
@@ -758,7 +758,7 @@ translate portuguese sm1cs_ns013_b8de06d3:
 translate portuguese sm1cs_ns013_e801a6ba:
 
     # sy "*panting* Hehehe.{w} Hey..."
-    sy "*ofegante*  Hehehe.{w} Ei..."
+    sy "*ofegante* Hehehe.{w} Ei..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:491
 translate portuguese sm1cs_ns013_4742cae8:
@@ -818,7 +818,7 @@ translate portuguese sm1cs_ns013_f28b3ab9:
 translate portuguese ns013_labels_section_08999b4d:
 
     # ns "I am so ashamed, my [nsmcpetlabel]."
-    ns "Que vergonha, meu  [nsmcpetlabel]."
+    ns "Que vergonha, meu [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:530
 translate portuguese ns013_labels_section_8d67bd63:
@@ -950,7 +950,7 @@ translate portuguese ns013_labels_section_a102d6fd:
 translate portuguese ns013_labels_section_bb579ae8:
 
     # mc "This is a judgment-free zone, and we're not going to ever shame you for asking for something you want."
-    mc "Não vamos te julgar aqui, e nunca vamos te criticar por pedir o que você quer."
+    mc "Ninguém vai te julgar aqui, e nunca vamos te criticar por pedir o que você quer."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:579
 translate portuguese ns013_labels_section_a79a2e87:
@@ -1004,7 +1004,7 @@ translate portuguese ns013_labels_section_778a36b4:
 translate portuguese ns013_labels_section_d17243bb:
 
     # ns "*sniff* Thank you, [mcname]."
-    ns "*hic* Obrigada, [mcname]."
+    ns "*funga* Obrigada, [mcname]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:594
 translate portuguese ns013_labels_section_65ed987f:
@@ -1136,7 +1136,7 @@ translate portuguese ns013_labels_section_bfd12f43:
 translate portuguese ns013_labels_section_d892676b:
 
     # ns "*moaning* Yes!{w} Oh, [nsmcpetlabel]."
-    ns "*gemido* Isso!{w} Aih,  [nsmcpetlabel]."
+    ns "*gemido* Isso!{w} Aih, [nsmcpetlabel]."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:655
 translate portuguese ns013_labels_section_34a24ba1:
@@ -1772,7 +1772,7 @@ translate portuguese ns013_labels_section_2d0577ab:
 translate portuguese ns013_labels_section_1f0a11a2:
 
     # ns "*moaning loudly*"
-    ns "*gemendo alto.*"
+    ns "*gemendo alto*"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:911
 translate portuguese ns013_labels_section_e74d0fff:
@@ -2012,7 +2012,7 @@ translate portuguese ns013_labels_section_11455b53:
 translate portuguese ns013_labels_section_6fa4ce57:
 
     # sy "Chickenbutt.{w} You can't expect us to walk around with your cum on our face and in our hair."
-    sy "Oras.{w} Você acha que vamos andar por aí com esperma na cara e cabelo."
+    sy "Oras.{w} Você acha que vamos andar por aí com esperma na cara e no cabelo."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1012
 translate portuguese ns013_labels_section_98d63524:
@@ -2126,7 +2126,7 @@ translate portuguese ns013_labels_section_dff883af:
 translate portuguese ns013_labels_section_da29598f:
 
     # mct "They were just showering."
-    mct "Só estava tomando banho."
+    mct "Elas só foram tomar banho."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1080
 translate portuguese ns013_labels_section_641211b9:
@@ -2162,7 +2162,7 @@ translate portuguese ns013_labels_section_82128f55:
 translate portuguese ns013_labels_section_86c73c7c:
 
     # ns "And I think... judging from our conversation in the shower."
-    ns "E acho que... jogando pela nossa conversa no banheiro."
+    ns "E acho que... julgando pela nossa conversa no banheiro."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1095
 translate portuguese ns013_labels_section_ea72caf3:
@@ -2228,13 +2228,13 @@ translate portuguese ns013_labels_section_3a5f99b4:
 translate portuguese ns013_labels_section_1037299c:
 
     # ns "Thank you, [nsmcpetlabel]. And you too, Stacy."
-    ns "Obrigada,  [nsmcpetlabel]. E você também, Stacy."
+    ns "Obrigada, [nsmcpetlabel]. E você também, Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1127
 translate portuguese ns013_labels_section_d788a727:
 
     # ns "Thank you, [mcname] and Stacy."
-    ns "Obrigada, [mcname] e Stacy. "
+    ns "Obrigada, [mcname] e Stacy."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1128
 translate portuguese ns013_labels_section_08aa7c03:
@@ -2258,13 +2258,13 @@ translate portuguese ns013_labels_section_97bd9894:
 translate portuguese ns013_labels_section_1aea3951:
 
     # mc "Speaking of naughty stuff, did Stacy do anything bad in the shower?"
-    mc "Falando em sacanagem, a Stacy fez alguma sacanagem no banheiro? "
+    mc "Falando em sacanagem, a Stacy fez alguma sacanagem no banheiro?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1136
 translate portuguese ns013_labels_section_a4f2c334:
 
     # ns "Hmmm. Let me think."
-    ns "Hmmm.  Deixa eu pensar."
+    ns "Hmmm. Deixa eu pensar."
 
 # game/code/scenes/it_office/ns/sm1cs-ns013.rpy:1140
 translate portuguese ns013_labels_section_bcd4a114:
