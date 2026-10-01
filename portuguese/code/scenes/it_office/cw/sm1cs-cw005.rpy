@@ -32,7 +32,7 @@ translate portuguese sm1cs_cw005_b8de06d3:
 translate portuguese sm1cs_cw005_55d7a79e:
 
     # cw "Forget where you are?"
-    cw "Eu esqueci onde você estava?"
+    cw "Esqueceu onde você está?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:73
 translate portuguese sm1cs_cw005_fa97395f:
@@ -86,7 +86,7 @@ translate portuguese sm1cs_cw005_846fadbf:
 translate portuguese sm1cs_cw005_fe83c3c8:
 
     # cw "You ever hear the expression, the early bird gets the worm?"
-    cw "Já ouviu que o pássaro que acorda cedo que come minhoca?"
+    cw "Já ouviu que o pássaro que acorda cedo come a minhoca?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:101
 translate portuguese sm1cs_cw005_9ee03d2f:
@@ -410,7 +410,7 @@ translate portuguese sm1cs_cw005_jetski_544f02a9:
 translate portuguese sm1cs_cw005_jetski_d568bbe1:
 
     # cw "I've been enjoying myself plenty on this trip."
-    cw "Eu já estava me divertindo bastante"
+    cw "Eu já estava me divertindo bastante."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:308
 translate portuguese sm1cs_cw005_jetski_17371403:
@@ -578,7 +578,7 @@ translate portuguese sm1cs_cw005_food_4aafa246:
 translate portuguese sm1cs_cw005_food_91c29c86:
 
     # fw "So quit it, Charles. It's not every day someone cooks for us without a bill at the end."
-    fw "Então para, Charles. Não é todo dia que alguém faz comida para nós se cobrar no final."
+    fw "Então para, Charles. Não é todo dia que alguém faz comida para nós sem cobrar no final."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:409
 translate portuguese sm1cs_cw005_food_ae305312:
@@ -740,7 +740,7 @@ translate portuguese sm1cs_cw005_food_b1a5fd44:
 translate portuguese sm1cs_cw005_food_ae5791f8:
 
     # cw "Oh my, it's getting late."
-    cw "Nossa,  está ficando tarde."
+    cw "Nossa, está ficando tarde."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:493
 translate portuguese sm1cs_cw005_food_17d3b8cf:
@@ -1028,7 +1028,7 @@ translate portuguese sm1cs_cw005_sauna_676393d1:
 translate portuguese sm1cs_cw005_sauna_dda1cd00:
 
     # cw "I should have known better."
-    cw "Eu devia ter adivinhado."
+    cw "Eu já devia saber disso."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:626
 translate portuguese sm1cs_cw005_sauna_074b1a56:
@@ -1100,7 +1100,7 @@ translate portuguese sm1cs_cw005_sauna_menu_c84a2f9b:
 translate portuguese sm1cs_cw005_sauna_menu_2e8ec580:
 
     # mct "And I didn't think the topic would be a funny one."
-    mct "E não achei que o assunto seria seria engraçado."
+    mct "E não achei que o assunto seria engraçado."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:675
 translate portuguese sm1cs_cw005_sauna_menu_e1784103:
@@ -1232,7 +1232,7 @@ translate portuguese sm1cs_cw005_sauna_menu_3a535c0a:
 translate portuguese sm1cs_cw005_sauna_menu_6f190bde:
 
     # mc "So... we just sit here and cook in our own juices?"
-    mc "Então... vamos ficar aqui em marinando?"
+    mc "Então... vamos ficar aqui só marinando?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:731
 translate portuguese sm1cs_cw005_sauna_menu_f141005e:
@@ -1292,7 +1292,7 @@ translate portuguese sm1cs_cw005_sauna_menu_5a35dfbd:
 translate portuguese sm1cs_cw005_sauna_menu_caafcfd9:
 
     # cw "We will just... self-stimulate in the same room."
-    cw "Vamos só... nos auto-estimular no mesmo lugar."
+    cw "Vamos só... nos autoestimular no mesmo lugar."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:767
 translate portuguese sm1cs_cw005_sauna_menu_4bd32584:
@@ -1538,7 +1538,7 @@ translate portuguese sm1cs_cw005_sauna_menu_37434c85:
 translate portuguese sm1cs_cw005_sauna_menu_dc716157:
 
     # cw "*whispers* Put your back into it, [mcname]."
-    cw "*sussurro* Põe força nas costas, [mcname]."
+    cw "*sussurro* Põe mais força nisso, [mcname]."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:889
 translate portuguese sm1cs_cw005_sauna_menu_7c7a1a1f:
@@ -1556,7 +1556,7 @@ translate portuguese sm1cs_cw005_sauna_menu_de0503f0:
 translate portuguese sm1cs_cw005_sauna_menu_29596d93:
 
     # mc "*whispers* And you're so far away I can barely see you."
-    mc "*sussurro* E você tá tão longe como eu mal consigo te ver."
+    mc "*sussurro* E você tá tão longe que eu mal consigo te ver."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:894
 translate portuguese sm1cs_cw005_sauna_menu_329db151:
@@ -1724,7 +1724,7 @@ translate portuguese sm1cs_cw005_sauna_menu_90d65545:
 translate portuguese sm1cs_cw005_sauna_menu_2b285027:
 
     # mc "I swear I never have this problem."
-    mc "Eu juro nunca tenho esse problema."
+    mc "Eu juro que nunca tenho esse problema."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:965
 translate portuguese sm1cs_cw005_sauna_menu_f1174920:
@@ -1850,7 +1850,7 @@ translate portuguese sm1cs_cw005_sauna_menu_95d96455:
 translate portuguese sm1cs_cw005_sauna_menu_7ca49807:
 
     # mct "Now she's making me so warm that I might cum down her throat."
-    mct "Agora ela tá me deixado quentinho, talvez eu goze até na garganta."
+    mct "Agora ela tá me deixando tão quentinho, talvez eu goze até na garganta."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1015
 translate portuguese sm1cs_cw005_sauna_menu_7c039d21:
@@ -2036,7 +2036,7 @@ translate portuguese sm1cs_cw005_sauna_menu_f9c6a1cf:
 translate portuguese sm1cs_cw005_sauna_menu_b7e49c25:
 
     # mct "First, Claire's tits. Now her ass."
-    mct "Primeiro ois peitos da Claire. Agora a bunda dela."
+    mct "Primeiro os peitos da Claire. Agora a bunda dela."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1097
 translate portuguese sm1cs_cw005_sauna_menu_f5de32d7:
@@ -2348,7 +2348,7 @@ translate portuguese sm1cs_cw005_sauna_menu_b5738065:
 translate portuguese sm1cs_cw005_sauna_menu_6f4df2eb:
 
     # cw "Yes. And hopefully you won't have to do another favor like this for me anytime soon."
-    cw "Sim. E espero que não vai precisar fazer outro favor assim tão cedo."
+    cw "Sim. E espero que não vá precisar fazer outro favor assim tão cedo."
 
 # game/code/scenes/it_office/cw/sm1cs-cw005.rpy:1258
 translate portuguese sm1cs_cw005_sauna_menu_4661a639:
