@@ -362,7 +362,7 @@ translate portuguese sm1cs_ns007_resturant_5c05d2c0:
 translate portuguese sm1cs_ns007_resturant_3fc2a097:
 
     # mc "Ah, cioppino. It's pronounced 'chuh-PEE-noh'. It's a seafood stew. Very tasty."
-    mc "Ah, cioppino. É pronunciado 'tcho-PII-no'. É um fruto do mar. Bem gostosinho."
+    mc "Ah, cioppino. É pronunciado 'tcho-PII-no'. É um ensoado de fruto do mar. Bem gostosinho."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:256
 translate portuguese sm1cs_ns007_resturant_3a87eb41:
@@ -872,7 +872,7 @@ translate portuguese sm1cs_ns007_light_house_eeb8dd3a:
 translate portuguese sm1cs_ns007_light_house_9614a561:
 
     # mc "Right. This is the Kenway Lighthouse, named after the ex-pirate turned explorer Kenway Drake."
-    mc "Certo. Esse é o Farol Kenway, o nome do ex-pirata que virou explorador, Kenway Drake."
+    mc "Certo. Esse é o Farol Kenway, em nome do ex-pirata que virou explorador, Kenway Drake."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:503
 translate portuguese sm1cs_ns007_light_house_60244758:
@@ -1724,7 +1724,7 @@ translate portuguese sm1cs_ns007_light_house_ba2a4553:
 translate portuguese sm1cs_ns007_light_house_4f1b467c:
 
     # ns "I... it was almost too much to hope that I'd ever get to enjoy {i}that{/i}."
-    ns "Eu...  Era quase sonhar alto demais esperar que eu fosse sentir {i}isso{/i}."
+    ns "Eu... Era quase sonhar alto demais esperar que eu fosse sentir {i}isso{/i}."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:941
 translate portuguese sm1cs_ns007_light_house_273fa2d0:
@@ -1784,7 +1784,7 @@ translate portuguese sm1cs_ns007_walkaway_b9d89e5b:
 translate portuguese sm1cs_ns007_walkaway_ce351a65:
 
     # ns "Yeah. In my English classes, girls talked about guys trying to score on dates."
-    ns "Sim. Na escola, as garotas falavam sobre os garotos tentando dar nota a encontros."
+    ns "Sim. Na escola, as garotas falavam sobre os garotos tentando se darem bem nos encontros."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:979
 translate portuguese sm1cs_ns007_walkaway_1718cfae:
@@ -1826,7 +1826,7 @@ translate portuguese sm1cs_ns007_walkaway_dbeabe96:
 translate portuguese sm1cs_ns007_walkaway_e1669c33:
 
     # mc "Only an eight? That's tough."
-    mc "Só oito. Difícil, hein."
+    mc "Só oito? Difícil, hein."
 
 # game/code/scenes/it_office/ns/sm1cs-ns007.rpy:1004
 translate portuguese sm1cs_ns007_walkaway_2c1e6b38:
