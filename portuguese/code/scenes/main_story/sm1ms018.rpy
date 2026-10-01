@@ -104,7 +104,7 @@ translate portuguese sm1ms018_feed149b:
 translate portuguese sm1ms018_3509ea6c:
 
     # dvh "It would be spectacular to have the house full once."
-    dvh "Seria espetacular ter o lugar cheio uma vez.'"
+    dvh "Seria espetacular ter o lugar cheio uma vez."
 
 # game/code/scenes/main_story/sm1ms018.rpy:93
 translate portuguese sm1ms018_8695d39e:
@@ -260,7 +260,7 @@ translate portuguese sm1ms018_f9f8ec2d:
 translate portuguese sm1ms018_d460e988:
 
     # dvh "I need a cigarette."
-    dvh " Eu preciso de um cigarro."
+    dvh "Eu preciso de um cigarro."
 
 # game/code/scenes/main_story/sm1ms018.rpy:170
 translate portuguese sm1ms018_6d9c8abe:
@@ -308,7 +308,7 @@ translate portuguese sm1ms018_backstage_10274233:
 translate portuguese sm1ms018_backstage_2fd63b0a:
 
     # vs "And this is the path we take when we're all done with hair and makeup."
-    vs "E aqui é onde andamos quando depois de terminar com o cabelo de maquiagem."
+    vs "E aqui é onde andamos quando depois de terminar com o cabelo e maquiagem."
 
 # game/code/scenes/main_story/sm1ms018.rpy:216
 translate portuguese sm1ms018_backstage_001ee8b0:
