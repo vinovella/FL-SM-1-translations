@@ -32,7 +32,7 @@ translate portuguese sm1ms006_dc049b3f:
 translate portuguese sm1ms006_a35845a5:
 
     # mc "Listen, when you were here... You didn't happen to see a USB on the table, did you?"
-    mc "Hein, quando você veio... Por acaso não vi o USB na mesa, né?"
+    mc "Hein, quando você veio... Por acaso não viu um pendrive na mesa, né?"
 
 # game/code/scenes/main_story/sm1ms006.rpy:59
 translate portuguese sm1ms006_319dbd72:
@@ -230,7 +230,7 @@ translate portuguese sm1ms006_7582d3f7:
 translate portuguese sm1ms006_ad351d46:
 
     # mc "Well we both know that's not entirely true. What about Taisia's video?"
-    mc "Nós dois sabemos que isso não é exatamente verdade. E o video da Taisia?"
+    mc "Nós dois sabemos que isso não é exatamente verdade. E o vídeo da Taisia?"
 
 # game/code/scenes/main_story/sm1ms006.rpy:195
 translate portuguese sm1ms006_0e321a2b:
@@ -512,7 +512,7 @@ translate portuguese sm1ms006_7b471f6f:
 translate portuguese sm1ms006_418ba673:
 
     # sy "Ouch, [mcname]! I promised!"
-    sy "Ai, [mcname]! Você prometeu!"
+    sy "Ai, [mcname]! Eu prometi!"
 
 # game/code/scenes/main_story/sm1ms006.rpy:360
 translate portuguese sm1ms006_5fd031a7:
