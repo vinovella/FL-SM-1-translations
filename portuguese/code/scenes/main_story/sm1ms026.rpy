@@ -56,7 +56,7 @@ translate portuguese sm1ms026_d85a3ac5:
 translate portuguese sm1ms026_4ae96add:
 
     # sy "Who are we going to cast in our movies."
-    sy "Quem vamos votar nos filmes."
+    sy "Quem vamos botar nos filmes."
 
 # game/code/scenes/main_story/sm1ms026.rpy:47
 translate portuguese sm1ms026_ce48b4af:
@@ -110,7 +110,7 @@ translate portuguese sm1ms026_2_c1de97ae:
 translate portuguese sm1ms026_2_6fda1cf2:
 
     # mc "Let's talk about pirates now."
-    mc "Vamos falar do que piratas agora."
+    mc "Vamos falar do de piratas agora."
 
 # game/code/scenes/main_story/sm1ms026.rpy:119
 translate portuguese sm1ms026_movie_a835a99d:
@@ -122,7 +122,7 @@ translate portuguese sm1ms026_movie_a835a99d:
 translate portuguese sm1ms026_movie_d1e855fe:
 
     # mc "How about the sci fi movie?"
-    mc "Que tal de Sci-Fi?"
+    mc "Que tal o de Sci-Fi?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:137
 translate portuguese sm1ms026_pirates_824173ad:
@@ -140,7 +140,7 @@ translate portuguese sm1ms026_pirates_04bd1a43:
 translate portuguese sm1ms026_pirates_902a8562:
 
     # sy "Well, I guess the first question is, how kinky do we want to be?"
-    sy "Bem, a pergunta é, qual o nível sacanagem que vamos querer?"
+    sy "Bem, a pergunta é, qual o nível de sacanagem que vamos querer?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:145
 translate portuguese sm1ms026_pirates_cf04a5f0:
@@ -176,7 +176,7 @@ translate portuguese sm1ms026_pirates_b13b386c:
 translate portuguese sm1ms026_pirates_96bd79f2:
 
     # mc "I mean... the pirates were into ropes and shit. I feel like they might like a little choke and stroke."
-    mc "Tipo... piratas usam cordas e essas paradas assim. Pode ser que eles gostem de dar um enforcadinha."
+    mc "Tipo... piratas usam cordas e essas paradas assim. Pode ser que eles gostem de dar umas enforcadinhas."
 
 # game/code/scenes/main_story/sm1ms026.rpy:160
 translate portuguese sm1ms026_pirates_11455b53:
@@ -212,7 +212,7 @@ translate portuguese sm1ms026_pirates_2b5a1db6:
 translate portuguese sm1ms026_pirates_b923ef69:
 
     # sy "You know... I think I would look pretty hot as a pirate villain."
-    sy "Hein... acho que eu ficaria bem gostosa como um vilã pirata."
+    sy "Hein... acho que eu ficaria bem gostosa de vilã pirata."
 
 # game/code/scenes/main_story/sm1ms026.rpy:175
 translate portuguese sm1ms026_pirates_4f43e9fe:
@@ -230,7 +230,7 @@ translate portuguese sm1ms026_pirates_e3d1e94f:
 translate portuguese sm1ms026_pirates_d7520efd:
 
     # mc "And you are a pretty good costar..."
-    mc "E você seria é uma bela coadjuvante..."
+    mc "E você é uma bela coadjuvante..."
 
 # game/code/scenes/main_story/sm1ms026.rpy:187
 translate portuguese sm1ms026_pirates_74c6ae5f:
@@ -284,19 +284,19 @@ translate portuguese sm1ms026_pirates_f652e9d1:
 translate portuguese sm1ms026_pirates_5964b8b1:
 
     # mc "Okay, so we have our villain cast, now we just need a lead actress..."
-    mc "Tá, agora que temos a nossa vila, só vamos precisar de uma atriz principal..."
+    mc "Tá, agora que temos a nossa vilã, só vamos precisar de uma atriz principal..."
 
 # game/code/scenes/main_story/sm1ms026.rpy:213
 translate portuguese sm1ms026_pirates_5ad9b338:
 
     # sy "Yeah. I'm picturing... a total bad ass."
-    sy "Sim. eu tô imaginando... uma moça fodona."
+    sy "Sim. Eu tô imaginando... uma moça fodona."
 
 # game/code/scenes/main_story/sm1ms026.rpy:214
 translate portuguese sm1ms026_pirates_04ea803a:
 
     # mc "Same. And tall... you know, someone striking on camera."
-    mc "Também. E alta...sabe, alguém que fique que tenha uma intensidade na câmera."
+    mc "Também. E alta... sabe, alguém que tenha uma intensidade na câmera."
 
 # game/code/scenes/main_story/sm1ms026.rpy:217
 translate portuguese sm1ms026_pirates_b1b01607:
@@ -398,7 +398,7 @@ translate portuguese sm1ms026_pirates_b1af3844:
 translate portuguese sm1ms026_pirates_1638c785:
 
     # mc "I think I need to get to know her a little better before I can sign off on bringing her on as our star."
-    mc "Acho que eu preciso conhecer ela um pouco melhor antes de aceitar ela com o coadjuvante."
+    mc "Acho que eu preciso conhecer ela um pouco melhor antes de aceitar ela como a nossa estrela."
 
 # game/code/scenes/main_story/sm1ms026.rpy:260
 translate portuguese sm1ms026_pirates_1cccbebf:
@@ -422,7 +422,7 @@ translate portuguese sm1ms026_pirates_6aac05d4:
 translate portuguese sm1ms026_scifi_0a05eca1:
 
     # sy "All right, sci fi. Hot aliens, blasters, space battles-"
-    sy "Beleza, Sci-Fi. Alienígenas gostosas,  arma de laser, batalhas espaciais-"
+    sy "Beleza, Sci-Fi. Alienígenas gostosas, armas de laser, batalhas espaciais-"
 
 # game/code/scenes/main_story/sm1ms026.rpy:277
 translate portuguese sm1ms026_scifi_83f70028:
@@ -578,7 +578,7 @@ translate portuguese sm1ms026_scifi_4f79867b:
 translate portuguese sm1ms026_scifi_bc0a5736:
 
     # mc "You remember, she was the host for the Fetish Locator Parties."
-    mc "Ela era a pessoa que soltava as festas do Fetish Locator Parties, lembra?"
+    mc "Ela era a pessoa que fazia as festas do Fetish Locator Parties, lembra?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:336
 translate portuguese sm1ms026_scifi_45902eaf:
@@ -614,7 +614,7 @@ translate portuguese sm1ms026_scifi_4f79867b_1:
 translate portuguese sm1ms026_scifi_bc0a5736_1:
 
     # mc "You remember, she was the host for the Fetish Locator Parties."
-    mc "Ela era a pessoa que soltava as festas do Fetish Locator Parties, lembra?"
+    mc "Ela era a pessoa que fazia as festas do Fetish Locator Parties, lembra?"
 
 # game/code/scenes/main_story/sm1ms026.rpy:345
 translate portuguese sm1ms026_scifi_25069130:
@@ -626,13 +626,13 @@ translate portuguese sm1ms026_scifi_25069130:
 translate portuguese sm1ms026_scifi_8e91fc40:
 
     # mc "Yeah. She was smart, and she was very kinky."
-    mc "Pois é. E agora é inteligente, e super tarada."
+    mc "Pois é. Ela era inteligente, e super tarada."
 
 # game/code/scenes/main_story/sm1ms026.rpy:348
 translate portuguese sm1ms026_scifi_ffdcec3f:
 
     # mc "I wish I knew where she was."
-    mc "Queria saber onde ela foi."
+    mc "Queria saber onde ela foi parar."
 
 # game/code/scenes/main_story/sm1ms026.rpy:351
 translate portuguese sm1ms026_scifi_3474c6b5:
@@ -656,7 +656,7 @@ translate portuguese sm1ms026_scifi_34315b65:
 translate portuguese sm1ms026_scifi_3cde44bd:
 
     # mc "She's smart as a whip. She would make a perfect science officer."
-    mc "Ela é super inteligente. Ela fica ficaria perfeita de oficial de ciências."
+    mc "Ela é super inteligente. Ela ficaria perfeita de oficial de ciências."
 
 # game/code/scenes/main_story/sm1ms026.rpy:355
 translate portuguese sm1ms026_scifi_94009c9b:
@@ -680,7 +680,7 @@ translate portuguese sm1ms026_scifi_f116b59a:
 translate portuguese sm1ms026_scifi_e6bc6779:
 
     # mc "Lyssa."
-    mc "Lyssa"
+    mc "Lyssa."
 
 # game/code/scenes/main_story/sm1ms026.rpy:362
 translate portuguese sm1ms026_scifi_c0d482d4:
@@ -704,7 +704,7 @@ translate portuguese sm1ms026_scifi_e654551c:
 translate portuguese sm1ms026_scifi_cf9421b5:
 
     # mc "We will need a sexy alien too."
-    mc "E também vamos precisar de um alienígena gostosa."
+    mc "E vamos precisar de uma alienígena gostosa."
 
 # game/code/scenes/main_story/sm1ms026.rpy:367
 translate portuguese sm1ms026_scifi_d706042b:
