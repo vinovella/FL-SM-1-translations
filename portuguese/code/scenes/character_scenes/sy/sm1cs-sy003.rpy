@@ -140,7 +140,7 @@ translate portuguese sm1cs_sy003_first_time_bea31133:
 translate portuguese sm1cs_sy003_first_time_83dfcd62:
 
     # sy "For now though... I'm interested in more than just words."
-    sy "Mas agora...  eu tô interessada em mais que só palavras."
+    sy "Mas agora... eu tô interessada em mais que só palavras."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:213
 translate portuguese sm1cs_sy003_first_time_c0ab3ffe:
@@ -170,7 +170,7 @@ translate portuguese sm1cs_sy003_first_time_c536f690:
 translate portuguese sm1cs_sy003_first_time_3718f233:
 
     # mc "I've missed coming in and sniffing your neck, or kissing it, or nibbling on it to make your legs shiver."
-    mc "Sentir falta de vir cheirar o seu pescoço, ou beijar, ou dar umas mordidinhas pra você se tremer toda nas pernas."
+    mc "Senti falta de vir cheirar o seu pescoço, ou beijar, ou dar umas mordidinhas pra você se tremer toda nas pernas."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:227
 translate portuguese sm1cs_sy003_first_time_1afa9991:
@@ -200,7 +200,7 @@ translate portuguese sm1cs_sy003_first_time_b840a949:
 translate portuguese sm1cs_sy003_first_time_8c74f484:
 
     # mc "*sighs* Hopefully, we don't have to hide anymore."
-    mc "*suspiro* Tomara que a gente não precise mais esconder."
+    mc "*suspiro* Tomara que a gente não precise mais se esconder."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:246
 translate portuguese sm1cs_sy003_first_time_e577c052:
@@ -404,7 +404,7 @@ translate portuguese sm1cs_sy003_sex_a1f85a06:
 translate portuguese sm1cs_sy003_sex_2fb6670e:
 
     # sy "Mwaaah... you're getting so swollen. I want to feel you against me."
-    sy "Mwaaah... tá ficando tão grandinho. Quero sentir ele em de mim."
+    sy "Mwaaah... tá ficando tão grandinho. Quero sentir ele em mim."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:372
 translate portuguese sm1cs_sy003_sex_650da8f6:
@@ -446,13 +446,13 @@ translate portuguese sm1cs_sy003_sex_ab48d396:
 translate portuguese sm1cs_sy003_sex_62e45260:
 
     # sy "You'll say I'm crazy...{w} But somehow it tastes even better than before."
-    sy "Pode até falar chamar de doida...{w} Mas eu acho que tá mais gostoso que antes."
+    sy "Pode até me chamar de doida...{w} Mas eu acho que tá mais gostoso que antes."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:394
 translate portuguese sm1cs_sy003_sex_c7eb6c1b:
 
     # sy "I shit you not."
-    sy "Não tô nem zoação."
+    sy "Sem zoação."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:396
 translate portuguese sm1cs_sy003_sex_faa03e1a:
@@ -506,7 +506,7 @@ translate portuguese sm1cs_sy003_sex_b4a58eef:
 translate portuguese sm1cs_sy003_sex_9300b27b:
 
     # mc "I want to wake up with your mouth around my cock."
-    mc "Eu quero acordar com a sua boca do meu pau."
+    mc "Eu quero acordar com a sua boca no meu pau."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:426
 translate portuguese sm1cs_sy003_sex_024c7f1b:
@@ -854,7 +854,7 @@ translate portuguese sm1cs_sy003_sex_977e806a:
 translate portuguese sm1cs_sy003_sex_f7551dd2:
 
     # mc "*ragged breathing* Cumming!"
-    mc "*ofegante* To gozando!"
+    mc "*ofegante* Tô gozando!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:660
 translate portuguese sm1cs_sy003_sex_04513ba1:
@@ -926,7 +926,7 @@ translate portuguese sm1cs_sy003_end_a411f02c:
 translate portuguese sm1cs_sy003_end_317e7359:
 
     # sy "Because I still got to be your 'first' on it."
-    sy "Porque eu já fi a sua 'primeira' nela."
+    sy "Porque eu já fui a sua 'primeira' nela."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy003.rpy:719
 translate portuguese sm1cs_sy003_end_404b2128:
