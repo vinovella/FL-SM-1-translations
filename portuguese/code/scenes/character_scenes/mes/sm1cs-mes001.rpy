@@ -158,7 +158,7 @@ translate portuguese sm1cs_mes001_9446a237:
 translate portuguese sm1cs_mes001_0393e038:
 
     # mes "I feel like such a fool for trusting her. We were best friends, you know? She was my confidante, the one who helped push me to become the achiever I am."
-    mes "Eu me sinto tão tonta por confiar nela. A gente era melhores amigas, sabia? Eu contava meus segredos pra ela, foi ela que me ajudou a pessoa bem-sucedida que eu sou."
+    mes "Eu me sinto tão tonta por confiar nela. A gente era melhores amigas, sabia? Eu contava meus segredos pra ela, foi ela que me ajudou a ser pessoa bem-sucedida que sou."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:113
 translate portuguese sm1cs_mes001_f58a5646:
@@ -284,7 +284,7 @@ translate portuguese sm1cs_mes001_8e686739:
 translate portuguese sm1cs_mes001_9e901329:
 
     # mes "They wanted me to stay in Korea, finish my studies there, and settle down into some stable job."
-    mes "Eles queriam que eu ficasse na Coreia, terminar os estudos lá, e conseguisse um emprego estável."
+    mes "Eles queriam que eu ficasse na Coreia, terminasse os estudos lá, e conseguisse um emprego estável."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:164
 translate portuguese sm1cs_mes001_7f20d86f:
@@ -356,7 +356,7 @@ translate portuguese sm1cs_mes001_cacc92e3:
 translate portuguese sm1cs_mes001_3892ec91:
 
     # mes "Right? It's definitely not my usual hangout — feels a bit random."
-    mes "Né? Não é o meu lugar de sempre — parece um meio aleatório."
+    mes "Né? Não é o meu lugar de sempre — parece meio aleatório."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:199
 translate portuguese sm1cs_mes001_065c4bae:
@@ -416,7 +416,7 @@ translate portuguese sm1cs_mes001_ac32440c:
 translate portuguese sm1cs_mes001_47a7309b:
 
     # mc "Now my focus is on making my own porn studio."
-    mc "Agora eu tô focando de fazer meu próprio estúdio pornô."
+    mc "Agora eu tô focando em fazer meu próprio estúdio pornô."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:224
 translate portuguese sm1cs_mes001_b55af246:
@@ -494,7 +494,7 @@ translate portuguese sm1cs_mes001_b54749f3:
 translate portuguese sm1cs_mes001_ba677a9b:
 
     # mes "*light laugh* I'll believe it when I see it."
-    mes "*risadinha* Eu acredito quando ver."
+    mes "*risadinha* Eu acredito quando vir."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:252
 translate portuguese sm1cs_mes001_017876c4:
@@ -554,7 +554,7 @@ translate portuguese sm1cs_mes001_af603402:
 translate portuguese sm1cs_mes001_cca426f6:
 
     # mes "So... what's it like living with Stacy as not just your sister, but now your partner in crime and bed, so to speak?"
-    mes "Então.... como é morar com a Stacy, não só como sua irmã, mas também como sua parceira no crime e na cama, por assim dizer?"
+    mes "Então... como é morar com a Stacy, não só como sua irmã, mas também como sua parceira no crime e na cama, por assim dizer?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:278
 translate portuguese sm1cs_mes001_67bd7b07:
@@ -578,7 +578,7 @@ translate portuguese sm1cs_mes001_39c46ca2:
 translate portuguese sm1cs_mes001_e9f707ae:
 
     # mes "Wait, so she's okay with you dating around?"
-    mes "Ué, não tem problema por ela você sair com outras pessoas?"
+    mes "Ué, não tem problema pra ela você sair com outras pessoas?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:287
 translate portuguese sm1cs_mes001_86fcb108:
@@ -656,7 +656,7 @@ translate portuguese sm1cs_mes001_490cd4da:
 translate portuguese sm1cs_mes001_0ed4f6e3:
 
     # mc "Min, you had your reasons. We all had complicated stuff going on. Lydia, FL, Anthony... there was so much drama swirling around."
-    mc "Min, você teve seus motivos. Todo mundo teve umas paradas complicadas. Lydia, FL, Anthony... muito drama rolando."
+    mc "Min, você teve seus motivos. Todos tivemos umas paradas complicadas. Lydia, FL, Anthony... muito drama rolando."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:317
 translate portuguese sm1cs_mes001_a2f9d1d5:
@@ -740,7 +740,7 @@ translate portuguese sm1cs_mes001_32ffdb67:
 translate portuguese sm1cs_mes001_812f8da4:
 
     # mes "They saw me floundering, they knew I was upset about life, and they thought, 'Oh, a stable relationship will fix everything'."
-    mes "Eles me viram perdida, viram que eu estava chateada com a vida, aí pensaram: 'Ah, um relacionamento estável vai solucionar tudo'.'"
+    mes "Eles me viram perdida, viram que eu estava chateada com a vida, aí pensaram: 'Ah, um relacionamento estável vai solucionar tudo'."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:356
 translate portuguese sm1cs_mes001_d4c70379:
@@ -956,7 +956,7 @@ translate portuguese sm1cs_mes001_8faa0c7c:
 translate portuguese sm1cs_mes001_0ea913ae:
 
     # mc "Now that's an idea. \"Documenting the daily struggles of a college student dealing with a watersports addiction\". You'd star as yourself, of course, and I'd direct."
-    mc "Boa ideia. \"Documentando as dificuldades diárias de uma uma estudante de faculdade lidando com vício de xixi\". Você seria você mesma, e eu seria o diretor."
+    mc "Boa ideia. \"Documentando as dificuldades diárias de uma estudante de faculdade lidando com vício de xixi\". Você seria você mesma, e eu seria o diretor."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes001.rpy:449
 translate portuguese sm1cs_mes001_39be139e:
