@@ -92,7 +92,7 @@ translate portuguese sm1ms021_139b3780:
 translate portuguese sm1ms021_08dcb8f8:
 
     # sy "I guess you can always finger me with something else."
-    sy "Você pode me dedar outra coisa."
+    sy "Você pode me dedar com outra coisa."
 
 # game/code/scenes/main_story/sm1ms021.rpy:59
 translate portuguese sm1ms021_7346a77b:
@@ -164,7 +164,7 @@ translate portuguese sm1ms021_99674341:
 translate portuguese sm1ms021_6ea38681:
 
     # mc "We did this together, Stacy. Couldn't have done it without you."
-    mc "Fizemos isso juntos, Stacy. Não teria conseguido com você."
+    mc "Fizemos isso juntos, Stacy. Não teria conseguido sem você."
 
 # game/code/scenes/main_story/sm1ms021.rpy:114
 translate portuguese sm1ms021_28d98971:
@@ -236,7 +236,7 @@ translate portuguese sm1ms021_3e3982a7:
 translate portuguese sm1ms021_344ffae0:
 
     # sy "Here is some of what they wrote."
-    sy "Aqui o que mandou."
+    sy "Aqui uma parte do que mandaram."
 
 # game/code/scenes/main_story/sm1ms021.rpy:147
 translate portuguese sm1ms021_8be8a842:
@@ -332,7 +332,7 @@ translate portuguese sm1ms021_a9342863:
 translate portuguese sm1ms021_e020bd48:
 
     # mc "'And please use the red wig again.'"
-    mc "'E por favor usem a peruca vermelha de novo'."
+    mc "'E por favor usem a peruca vermelha de novo.'"
 
 # game/code/scenes/main_story/sm1ms021.rpy:183
 translate portuguese sm1ms021_d086d80c:
@@ -554,7 +554,7 @@ translate portuguese sm1ms021_0c5ba758:
 translate portuguese sm1ms021_f83d94ed:
 
     # mc "Still, the first thing we need is money."
-    mc "Mas o primeiro ainda é o dinheiro."
+    mc "Mas primeiro ainda é o dinheiro."
 
 # game/code/scenes/main_story/sm1ms021.rpy:302
 translate portuguese sm1ms021_bc4f1a33:
@@ -572,7 +572,7 @@ translate portuguese sm1ms021_fb49e021:
 translate portuguese sm1ms021_ae9dcce1:
 
     # mc "Then it's money I'll get. And when I'm through, S&M will have its second film ready to fire people up across the whole city."
-    mc "Então vou arrumar o dinheiro. E quando eu conseguir, S&M segundo filme prontinho pra empolgar as pessoas da cidade toda."
+    mc "Então vou arrumar o dinheiro. E quando eu conseguir, S&M vai ter seu segundo filme prontinho pra empolgar as pessoas da cidade toda."
 
 # game/code/scenes/main_story/sm1ms021.rpy:315
 translate portuguese sm1ms021_3829caaa:
