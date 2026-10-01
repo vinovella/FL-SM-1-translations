@@ -26,7 +26,7 @@ translate portuguese sm1cs_nr001i_eadf50f8:
 translate portuguese sm1cs_nr001i_9de3e204:
 
     # nr "You know how to ride a bike with a big delivery bag on your back?"
-    nr "Sabe como andar de moto com uma mochila de entrega grande nas costas?"
+    nr "Sabe como andar de bike com uma mochila de entrega grande nas costas?"
 
 # game/code/scenes/character_scenes/nr/sm1cs-nr001i.rpy:20
 translate portuguese sm1cs_nr001i_21f8adda:
