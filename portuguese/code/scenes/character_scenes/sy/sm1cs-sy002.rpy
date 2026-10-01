@@ -2,7 +2,7 @@
 translate portuguese sm1cs_sy002_899a5465:
 
     # sy "This place has such a vibe at night. Imagine a scene with a couple having a secret meeting here. Shadows, whispers, starting to get a little handsy..."
-    sy "Esse lugar tem uma vibe tão legal de noite. Imagine uma cena com um casal se encontrando secretamente aqui. Sombras, sussurros, começando a se pregar..."
+    sy "Esse lugar tem uma vibe tão legal de noite. Imagine uma cena com um casal se encontrando secretamente aqui. Sombras, sussurros, começando a se pegar..."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:44
 translate portuguese sm1cs_sy002_b3017d24:
@@ -98,13 +98,13 @@ translate portuguese sm1cs_sy002_d503e0f0:
 translate portuguese sm1cs_sy002_98b9a582:
 
     # sy "See, they don't love each other, not in an emotional way. But, they love to {i}fuck{/i} each other and they curse their countries from keeping them out of bed together."
-    sy "Eles não se amam, entende, não de uma forma emocional. Mas eles adoram {i}transar{/i} odeiam seus países porque são impedidos de fazer sexo."
+    sy "Eles não se amam, entende, não de uma forma emocional. Mas eles adoram {i}transar{/i} e odeiam seus países porque são impedidos de fazer sexo."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:87
 translate portuguese sm1cs_sy002_b88ea519:
 
     # sy "So they plan to escape their lives as spies, so they can fuck the rest of their lives!"
-    sy "Aí eles planejam escapar a vida de espiões, assim eles podem transar o resto da vida!"
+    sy "Aí eles planejam escapar da vida de espiões, assim eles podem transar o resto da vida!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:91
 translate portuguese sm1cs_sy002_2c506dfd:
@@ -200,7 +200,7 @@ translate portuguese sm1cs_sy002_5af5a24c:
 translate portuguese sm1cs_sy002_b8196348:
 
     # mc "Oh? Might? {i}Might{/i} have a future in acting?"
-    mc "Ah? Acha? {i}Acha{/i} eu tenho futuro atuando?"
+    mc "Hã? Acha? {i}Acha{/i} que eu tenho futuro atuando?"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:132
 translate portuguese sm1cs_sy002_dffa6aa3:
@@ -284,7 +284,7 @@ translate portuguese sm1cs_sy002_f2c25646:
 translate portuguese sm1cs_sy002_4a81b49f:
 
     # sy "Come on! We're serious actors! Doing serious acting work!"
-    sy "Anda!  somos atores sérios! Trabalhando sério!"
+    sy "Anda! Somos atores sérios! Trabalhando sério!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:179
 translate portuguese sm1cs_sy002_ad797be3:
@@ -464,7 +464,7 @@ translate portuguese sm1cs_sy002_2_ac0312b6:
 translate portuguese sm1cs_sy002_2_2defb3d0:
 
     # mc "I've given up everything for this. For us. And now you question me?"
-    mc "Já desisti de tudo por isso. Por nós. E você me questiona."
+    mc "Já desisti de tudo por isso. Pela gente. E você me questiona?"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:281
 translate portuguese sm1cs_sy002_2_487d9154:
@@ -674,7 +674,7 @@ translate portuguese sm1cs_sy002_2_75c5a41a:
 translate portuguese sm1cs_sy002_2_12f17c5d:
 
     # mc "Well, Agent, I think it's time to use some more {i}advanced{/i} techniques."
-    mc "Bom, Agente, acho que está na hora que usar as técnicas mais {i}avançadas{/i}."
+    mc "Bom, Agente, acho que está na hora de usar as técnicas mais {i}avançadas{/i}."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:378
 translate portuguese sm1cs_sy002_2_7e481bd2:
@@ -704,7 +704,7 @@ translate portuguese sm1cs_sy002_2_3a98014a:
 translate portuguese sm1cs_sy002_2_03ed79e2:
 
     # mc "But Agent, it's imperative you stay quiet. You don't want to blow our cover."
-    mc "Ma Agente, é muito importante que fique quieta. Não queremos estragar nosso disfarce."
+    mc "Mas Agente, é muito importante que fique quieta. Não queremos estragar nosso disfarce."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:391
 translate portuguese sm1cs_sy002_2_07257c82:
@@ -728,7 +728,7 @@ translate portuguese sm1cs_sy002_2_d9f234e4:
 translate portuguese sm1cs_sy002_2_c01adeea:
 
     # mct "Man, she has {u}really{/u} gotten into this secret agent thing."
-    mct "Caramba, ela entrou {u}mesmo{/u} no papel agente secreta."
+    mct "Caramba, ela entrou {u}mesmo{/u} no papel de agente secreta."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:404
 translate portuguese sm1cs_sy002_2_846323cb:
@@ -776,7 +776,7 @@ translate portuguese sm1cs_sy002_2_ec11b087:
 translate portuguese sm1cs_sy002_2_6a03b6bd:
 
     # sy "Mmmmhmmm, it's one of the things I've learned! A weeettttt pussy makes it easier to extract information from you!"
-    sy "Mmmmhmmm, é uma  das coisas que eu aprendi! Uma boceta molhada ajuda muito a extrair informação de você!"
+    sy "Mmmmhmmm, é uma das coisas que eu aprendi! Uma boceta molhada ajuda muito a extrair informação de você!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:422
 translate portuguese sm1cs_sy002_2_2b7eb610:
@@ -794,13 +794,13 @@ translate portuguese sm1cs_sy002_2_71a4195f:
 translate portuguese sm1cs_sy002_2_81f6ab40:
 
     # mc "Yes, Stacy - fuck this feels good, but we have to be quick! Before we're - ngggggg - caught!"
-    mc "Isso, Stacy - porra, isso está tão gostoso, nós vamos ter que andar logo! Antes que - nggggh nos peguem!"
+    mc "Isso, Stacy - porra, isso está tão gostoso, vamos ter que andar logo! Antes que - nggggh nos peguem!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:427
 translate portuguese sm1cs_sy002_2_8e3c9bcc:
 
     # sy "Then fuuuuuck me harder! Fuck me like our lives depend on it, because - ooouuaaaaahah - they do!"
-    sy "Então meeeete mais forte! Mete como se as nossas vida dependessem disso - ooouuaaaaahah - porque dependem!"
+    sy "Então meeeete mais forte! Mete como se as nossas vidas dependessem disso - ooouuaaaaahah - porque dependem!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:428
 translate portuguese sm1cs_sy002_2_454754a8:
@@ -896,7 +896,7 @@ translate portuguese sm1cs_sy002_2_9e6de02a:
 translate portuguese sm1cs_sy002_2_a8258703:
 
     # sy "Mmmmmmm - but who will break first, me or you?"
-    sy "Mmmmmmm - mas quem ceder antes, eu ou você?"
+    sy "Mmmmmmm - mas quem vai ceder antes, eu ou você?"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:467
 translate portuguese sm1cs_sy002_2_bedabe5d:
@@ -956,13 +956,13 @@ translate portuguese sm1cs_sy002_2_d52eb1a2:
 translate portuguese sm1cs_sy002_2_28536868:
 
     # sy "And your - fuuuuuh - mission is al-almost {i}cum-pleted!{/i}"
-    sy "E a sua - mhmmm - missão está q-quase terminado!"
+    sy "E a sua - mhmmm - missão está q-quase terminada!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:487
 translate portuguese sm1cs_sy002_2_43b64cc0:
 
     # sy "Because - because I'm - I'm-!"
-    sy "Porque - porque eu- eu-"
+    sy "Porque - porque eu- eu-!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:488
 translate portuguese sm1cs_sy002_2_503bfbfa:
@@ -992,7 +992,7 @@ translate portuguese sm1cs_sy002_2_f79e3817:
 translate portuguese sm1cs_sy002_2_c66e249c:
 
     # sy "Cum, Agent, cum!"
-    sy "Goza, Agente. goza!"
+    sy "Goza, Agente, goza!"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:498
 translate portuguese sm1cs_sy002_2_31c92a57:
@@ -1100,7 +1100,7 @@ translate portuguese sm1cs_sy002_dc_talk_3118ab04:
 translate portuguese sm1cs_sy002_dc_talk_4df13822:
 
     # mc "{size=*0.7}Yeah, we met here not long ago. I helped her chase down a guy who ran off. She's a cop, and trust me, we do not want her catching us like this.{/size}"
-    mc "{size=*0.7}Sim, a gente se conheceu faz pouco tempo aqui. Eu ajudei ela a perseguir um cara que tinha corrido. Ela é policial, e vai por mim, não vamos querer que ela pega a gente assim.{/size}"
+    mc "{size=*0.7}Sim, a gente se conheceu faz pouco tempo aqui. Eu ajudei ela a perseguir um cara que tinha corrido. Ela é policial, e vai por mim, não vamos querer que ela pegue a gente assim.{/size}"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:578
 translate portuguese sm1cs_sy002_dc_talk_7b0f9b80:
@@ -1196,7 +1196,7 @@ translate portuguese sm1cs_sy002_dc_talk_15ced136:
 translate portuguese sm1cs_sy002_dc_talk_646ad53a:
 
     # sy "Maybe she feels like you owe her for helping her out?"
-    sy "Talvez ela sinta que te deve porque você ajudou ela?"
+    sy "Talvez ela sinta que você deve ela porque você ajudou ela?"
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:616
 translate portuguese sm1cs_sy002_dc_talk_670d0b40:
@@ -1208,7 +1208,7 @@ translate portuguese sm1cs_sy002_dc_talk_670d0b40:
 translate portuguese sm1cs_sy002_dc_talk_3e4f4d99:
 
     # sy "Maybe you can get friendly with that cop, maybe she can help us out with getting a permit."
-    sy "Talvez você possa dar um charme policial, talvez ela possa ajudar a gente a arrumar uma licença."
+    sy "Talvez você possa jogar um charme na policial, talvez ela possa ajudar a gente a arrumar uma licença."
 
 # game/code/scenes/character_scenes/sy/sm1cs-sy002.rpy:621
 translate portuguese sm1cs_sy002_dc_talk_10c2fff9:
