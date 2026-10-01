@@ -56,7 +56,7 @@ translate portuguese sm1cs_my004_4b166591:
 translate portuguese sm1cs_my004_a227dfde:
 
     # sy "Me? Nothing! I would never!"
-    sy "Euzinha! Nada! Jamais!"
+    sy "Euzinha? Nada! Jamais!"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:63
 translate portuguese sm1cs_my004_6f4d4501:
@@ -698,7 +698,7 @@ translate portuguese sm1cs_my004_8ff4a646:
 translate portuguese sm1cs_my004_90f32794:
 
     # mc "A catwalk?"
-    mc "Desfilar!"
+    mc "Desfilar?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:388
 translate portuguese sm1cs_my004_fb0ccac0:
@@ -980,7 +980,7 @@ translate portuguese sm1cs_my004_a52b86d3:
 translate portuguese sm1cs_my004_c9a742d3:
 
     # my "We should do what?"
-    my "Por quê?"
+    my "Fazer o quê?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:562
 translate portuguese sm1cs_my004_aed626de:
@@ -1214,7 +1214,7 @@ translate portuguese sm1cs_my004_be3f1e1d:
 translate portuguese sm1cs_my004_13676ffb:
 
     # mc "Oh, uhm... what'd I miss?"
-    mc "Ah, ahm... onde eu esqueci?"
+    mc "Ah, ahm... o que eu perdi?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:675
 translate portuguese sm1cs_my004_d799f609:
@@ -1274,7 +1274,7 @@ translate portuguese sm1cs_my004_b5f887de:
 translate portuguese sm1cs_my004_1eab282c:
 
     # mct "Even if they're Melony's huge... soft... pillowy... warm tits..."
-    mct "Mesmo que sejam os peitos grandes... e macios... e quentinhos... da Melony."
+    mct "Mesmo que sejam os peitos grandes... e macios... e quentinhos... da Melony..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:705
 translate portuguese sm1cs_my004_2880fc1c:
@@ -1538,7 +1538,7 @@ translate portuguese sm1cs_my004_0d359089:
 translate portuguese sm1cs_my004_f054ee30:
 
     # sy "A little faith in the process, hmmmph."
-    sy "Acreditar no processo é, hmmmf."
+    sy "Acreditar no processo, hmmmf."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:839
 translate portuguese sm1cs_my004_dc4a2f9e:
@@ -1684,7 +1684,7 @@ translate portuguese sm1cs_my004_56ed8d43:
 translate portuguese sm1cs_my004_048402d9:
 
     # my "But I think another part is that... doing this...{w} will help me be more comfortable with what you do for work."
-    my "Mas acho que a outra parte é porque... fazendo isso... {w} me ajudaria a ficar mais confortável com o seu trabalho."
+    my "Mas acho que a outra parte é porque... fazendo isso...{w} me ajudaria a aceitar mais o seu trabalho."
 
 # game/code/scenes/character_scenes/my/sm1cs-my004.rpy:656
 translate portuguese sm1cs_my004_32624e7b:
