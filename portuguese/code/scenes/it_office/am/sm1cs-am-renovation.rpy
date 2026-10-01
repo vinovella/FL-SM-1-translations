@@ -482,7 +482,7 @@ translate portuguese sm1cs_am_renovation_later_177d3eb2:
 translate portuguese sm1cs_am_renovation_later_ef6429f5:
 
     # am "I'm feeling much better. After I came down I made sure to do some stretches."
-    am "Já tô bem melhor. Eu me alonguei um pouco quando desci."
+    am "Já tô bem melhor. Eu fiz questão de dar uma alongada quando desci."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:287
 translate portuguese sm1cs_am_renovation_later_fd7e9c53:
@@ -602,7 +602,7 @@ translate portuguese sm1cs_am_renovation_later_34621949:
 translate portuguese sm1cs_am_renovation_later_b1f06615:
 
     # am "Yeah. I probably should go work a bit at Orbix since I took off."
-    am "Sim. Acho melhor trabalhar um pouco lá na Orbix, já que pulei fora."
+    am "Sim. Acho melhor trabalhar um pouco lá na Orbix, já que saí às pressas."
 
 # game/code/scenes/it_office/am/sm1cs-am-renovation.rpy:349
 translate portuguese sm1cs_am_renovation_later_488d5d7a:
