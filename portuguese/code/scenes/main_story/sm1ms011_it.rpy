@@ -8,7 +8,7 @@ translate portuguese sm1ms011_it_6e625941:
 translate portuguese sm1ms011_it_742a593a:
 
     # mc "You're proud of me? I'm older, I'm supposed to be proud of you for things."
-    mc "Tá orgulhosa de mim, é. Eu sou mais velho, eu que tenho que me orgulhar quando você faz as coisas."
+    mc "Tá orgulhosa de mim, é? Eu sou mais velho, eu que tenho que me orgulhar quando você faz as coisas."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:12
 translate portuguese sm1ms011_it_8fa7cae4:
@@ -32,7 +32,7 @@ translate portuguese sm1ms011_it_c281cb0e:
 translate portuguese sm1ms011_it_7f993095:
 
     # sy "Now, you probably already love being an office drone in a room full of computers, but don't forget that you don't have to stop at one."
-    sy "Você já deve estar adorando ser um aleatório no escritório numa sala cheia de computadores, mas não vai esquecendo que não preciso ficar só em um."
+    sy "Você já deve estar adorando ser zumbi de escritório numa sala cheia de computadores, mas não vai esquecendo que não preciso ficar só em um."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:20
 translate portuguese sm1ms011_it_ce0e51a5:
@@ -74,7 +74,7 @@ translate portuguese sm1ms011_it_b0310deb:
 translate portuguese sm1ms011_it_47b26b25:
 
     # mc "If I didn't have you for advice and tips, I doubt I would have made it into the door."
-    mc "Se não fosse pelas suas dicas, aposto que não tem ninguém deixar de eu entrar."
+    mc "Se não fosse pelas suas dicas, aposto que eu não teria passado da porta."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:43
 translate portuguese sm1ms011_it_fde93c27:
@@ -134,13 +134,13 @@ translate portuguese sm1ms011_it_0c7b89ad:
 translate portuguese sm1ms011_it_eb82566a:
 
     # sy "And if they do, they could end up being some of the best porn starlets ever. After me of course."
-    sy "E se tiverem, podem acabar sendo uma das melhores estrelas pornô. Abaixo de mim, claro."
+    sy "E se tiverem, podem acabar sendo as melhores estrelas pornô. Depois de mim, claro."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:78
 translate portuguese sm1ms011_it_20ea1164:
 
     # mc "Oh, right. I almost forgot. Hmmm. Well, I'm just starting to know them."
-    mc "Ah, verdade. Quase esqueci. Hmmm. Bom, ainda não conheço ela muito bem."
+    mc "Ah, verdade. Quase esqueci. Hmmm. Bom, ainda estou conhecendo elas."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:82
 translate portuguese sm1ms011_it_dbb29552:
@@ -266,7 +266,7 @@ translate portuguese sm1fs_i011_it_talk_ag_63b84cfe:
 translate portuguese sm1fs_i011_it_talk_ag_cbf7728f:
 
     # sy "What about anything deeper? Something under the covers?"
-    sy "Tem algo mais profundo. Tipo algo se escondendo por baixo?"
+    sy "Tem algo mais profundo? Tipo algo se escondendo por baixo?"
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:182
 translate portuguese sm1fs_i011_it_talk_ag_23684996:
@@ -392,7 +392,7 @@ translate portuguese sm1ms011_it_continue_6235ecd8:
 translate portuguese sm1ms011_it_continue_a499bb20:
 
     # mc "I think our style is more like a cat wearing rollerblades flying down a hillside."
-    mc "Acho que a o nosso estilo tá mais pra um gato de patins descendo uma colina."
+    mc "Acho que o nosso estilo tá mais pra um gato de patins descendo uma colina."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:265
 translate portuguese sm1ms011_it_continue_37eb6c61:
@@ -440,7 +440,7 @@ translate portuguese sm1ms011_it_continue_2785891a:
 translate portuguese sm1ms011_it_continue_26c75a22:
 
     # mc "No worries there, Sis."
-    mc "Pode relaxar. mana."
+    mc "Pode relaxar, mana."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:294
 translate portuguese sm1ms011_it_continue_af16fc6f:
@@ -498,7 +498,7 @@ translate portuguese sm1fs_i011_it_talk_ns_ac838888:
 translate portuguese sm1fs_i011_it_talk_am_09c55492:
 
     # mc "Maybe. If she's been paired with other people before that didn't work out, maybe she's tired of dealing with noobs."
-    mc "Talvez. Pode ser que ela tenha sido colocada com outras pessoas que não tenha dado certo, aí se cansou de lidar com noobs."
+    mc "Talvez. Pode ser que ela tenha sido colocada com outras pessoas antes e não deu certo, aí se cansou de lidar com noobs."
 
 # game/code/scenes/main_story/sm1ms011_it.rpy:215
 translate portuguese sm1fs_i011_it_talk_am_36deca91:
