@@ -854,7 +854,7 @@ translate portuguese sm1cs_mas003_third_delivery_4ff6487d:
 translate portuguese sm1cs_mas003_third_delivery_b4955ac7:
 
     # ms "So, how are you surviving in the city? You must need money, or you wouldn't be doing this."
-    ms "Então, como que você tá sobrevivendo aqui na cidade? Deve ter dinheiro, senão não estava fazendo isso."
+    ms "Então, como que você tá sobrevivendo aqui na cidade? Deve estar precisando de dinheiro, senão não estava fazendo isso."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:529
 translate portuguese sm1cs_mas003_third_delivery_0533a611:
@@ -1202,7 +1202,7 @@ translate portuguese sm1cs_mas003_third_delivery_28709c77:
 translate portuguese sm1cs_mas003_third_delivery_9d9edc58:
 
     # lg "Wow. Steady on."
-    lg "Nossa. Legal."
+    lg "Nossa. Issaê."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:705
 translate portuguese sm1cs_mas003_third_delivery_e02f26a6:
@@ -1592,7 +1592,7 @@ translate portuguese sm1cs_mas003_after_delivery_f2ac2901:
 translate portuguese sm1cs_mas003_after_delivery_7ac74bda:
 
     # mc "So... what's my cut for keeping this a secret between us."
-    mc "Então... qual vai ser a minha parte por manter guardar segredo?"
+    mc "Então... qual vai ser a minha parte por guardar segredo?"
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:920
 translate portuguese sm1cs_mas003_after_delivery_62dae5eb:
@@ -1704,7 +1704,7 @@ translate portuguese sm1cs_mas003_second_delivery_e42e9cc6:
 translate portuguese sm1cs_mas003_third_delivery_b52e61ff:
 
     # lg "I've already seen Olivia's and Kennedy's girls."
-    lg "Já vi as garotas da Olivia e da Kennedy."
+    lg "Já vi as garotinhas da Olivia e da Kennedy."
 
 # game/code/scenes/character_scenes/mas/sm1cs-mas003.rpy:765
 translate portuguese sm1cs_mas003_third_delivery_c1710beb:
