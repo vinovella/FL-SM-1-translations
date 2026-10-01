@@ -272,7 +272,7 @@ translate portuguese sm1cs_mes003_dd7ad295:
 translate portuguese sm1cs_mes003_74ea9fda:
 
     # mc "And you wouldn't be?"
-    mc "E você não chamaria?"
+    mc "E você não toparia?"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:193
 translate portuguese sm1cs_mes003_d185b9b4:
@@ -446,7 +446,7 @@ translate portuguese sm1cs_mes003_b06ba174:
 translate portuguese sm1cs_mes003_f4805df8:
 
     # mes "But still..."
-    mes "Mas ainda sim..."
+    mes "Mas ainda assim..."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:280
 translate portuguese sm1cs_mes003_16a853d5:
@@ -1016,7 +1016,7 @@ translate portuguese sm1cs_mes003_pussy_e825bc9c:
 translate portuguese sm1cs_mes003_pussy_972c0909:
 
     # mc "Fuck Min. I love fucking your pussy."
-    mc "Porra, Min. Adoro comer essa bocetainha."
+    mc "Porra, Min. Adoro comer essa bocetinha."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:592
 translate portuguese sm1cs_mes003_pussy_4420a4ab:
@@ -1172,7 +1172,7 @@ translate portuguese sm1cs_mes003_pussy_6303fdaa:
 translate portuguese sm1cs_mes003_pussy_fed4bdbb:
 
     # mct "And her tongue is fucking going crazy against my cock."
-    mct "Ela tá metendo a língua com tudo no meu pau. "
+    mct "Ela tá metendo a língua com tudo no meu pau."
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:667
 translate portuguese sm1cs_mes003_pussy_8c4e7a33:
@@ -1406,7 +1406,7 @@ translate portuguese sm1cs_mes003_after_menu_9dfc7fa9:
 translate portuguese sm1cs_mes003_after_menu_ef586487:
 
     # mes "Come on. Keep going. Use my hole to cum, [mcname]!"
-    mes "Vai. Continua. Usando o meu buraquinho pra gozar, [mcname]!"
+    mes "Vai. Continua. Usa o meu buraquinho pra gozar, [mcname]!"
 
 # game/code/scenes/character_scenes/mes/sm1cs-mes003.rpy:833
 translate portuguese sm1cs_mes003_after_menu_5f71acf7:
