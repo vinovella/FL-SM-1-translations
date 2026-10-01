@@ -128,7 +128,7 @@ translate portuguese sm1ms002_it_dc1f3af8:
 translate portuguese sm1ms002_it_b0256598:
 
     # sy "Good. Well, there's that, at least. Now you just need to learn how to code."
-    sy "Ótimo. Pelo menos isso. Agora só precisa  aprender a mexer com código."
+    sy "Ótimo. Pelo menos isso. Agora só precisa aprender a mexer com código."
 
 # game/code/scenes/main_story/sm1ms002_it.rpy:60
 translate portuguese sm1ms002_it_652650d3_1:
@@ -206,7 +206,7 @@ translate portuguese sm1ms002_it_simple_enough_e4d3b987:
 translate portuguese sm1ms002_it_end_7cfeeb17:
 
     # sy "While I'm here, is there anything else you need to know?"
-    sy "Já que tô aqui, preciso saber de mais alguma coisa?"
+    sy "Já que tô aqui, tem mais alguma coisa que eu devia saber?"
 
 # game/code/scenes/main_story/sm1ms002_it.rpy:143
 translate portuguese sm1ms002_it_end_34a25925:
@@ -236,7 +236,7 @@ translate portuguese sm1ms002_it_end_6d466fdb:
 translate portuguese sm1ms002_it_end_b2a595f6:
 
     # mc "Oh, so this job is like the mailroom."
-    mc "Ah, então esse trabalho é que nem um almoxarifado."
+    mc "Ah, então esse trabalho é que nem uma sala de correspondência."
 
 # game/code/scenes/main_story/sm1ms002_it.rpy:154
 translate portuguese sm1ms002_it_end_42576e57:
@@ -248,13 +248,13 @@ translate portuguese sm1ms002_it_end_42576e57:
 translate portuguese sm1ms002_it_end_e1b08df5:
 
     # mc "Back in the day, people would start in the mailroom as a test of their skills and thought processing."
-    mc "Antigamente, as pessoas começavam no almoxarifado como teste de habilidade e raciocínio."
+    mc "Antigamente, as pessoas começavam nas correspondências como teste de habilidade e raciocínio."
 
 # game/code/scenes/main_story/sm1ms002_it.rpy:157
 translate portuguese sm1ms002_it_end_9d27f827:
 
     # mc "They would then get promoted to other parts of the company... or just stay in the mailroom."
-    mc "Aí era um promovidas pra outras partes da empresa... ou só ficavam pelo almoxarifado mesmo."
+    mc "Aí era um promovidas pra outras partes da empresa... ou só ficavam por lá mesmo."
 
 # game/code/scenes/main_story/sm1ms002_it.rpy:160
 translate portuguese sm1ms002_it_end_e6e1e95c:
@@ -284,7 +284,7 @@ translate portuguese sm1ms002_it_end_e18690d0:
 translate portuguese sm1ms002_it_end_74ae36e7:
 
     # sy "Sure, I guess. Mostly you should focus on making money there so you can make even more money here."
-    sy "Bem, sim. Mas foca principalmente em ganhar dinheiro lá pra ter ainda mais dinheiro aqui."
+    sy "É, né. Mas foca principalmente em ganhar dinheiro por lá pra ganhar ainda mais aqui."
 
 # game/code/scenes/main_story/sm1ms002_it.rpy:176
 translate portuguese sm1ms002_it_end_ed1d706d:
@@ -302,7 +302,7 @@ translate portuguese sm1ms002_it_end_53b258e7:
 translate portuguese sm1ms002_it_end_af897041:
 
     # sy "However, this will conflict with your delivery schedule. You can only do so many things in a day."
-    sy "Mas isso vai bater com as suas entregas. Tem número limitado de coisas que você pode fazer num dia só."
+    sy "Mas isso vai bater com as suas entregas. Você não pode fazer muita coisa num dia só."
 
 # game/code/scenes/main_story/sm1ms002_it.rpy:183
 translate portuguese sm1ms002_it_end_e780d758:
