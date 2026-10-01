@@ -134,7 +134,7 @@ translate portuguese sm1ms002_t_5f1671dd:
 translate portuguese sm1ms002_t_9a467760:
 
     # mc "I mean, I didn't think she was real. She doesn't move or do anything."
-    mc "Tipo, não achei que ela fosse de verdade. Ela nem se mexe em nada."
+    mc "Tipo, não achei que ela fosse de verdade. Ela nem se mexe nem nada."
 
 # game/code/scenes/main_story/sm1ms002_t.rpy:52
 translate portuguese sm1ms002_t_ef1ba956:
