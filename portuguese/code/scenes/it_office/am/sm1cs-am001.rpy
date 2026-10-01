@@ -62,7 +62,7 @@ translate portuguese sm1cs_am001_bc839d00:
 translate portuguese sm1cs_am001_8a9aadfb:
 
     # mc "Shouldn't you have asked me if I can stay later?"
-    mc "Não era você me perguntar se posso ficar até tarde?"
+    mc "Não era pra você me perguntar se posso ficar até tarde?"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:51
 translate portuguese sm1cs_am001_2e5fa57a:
@@ -116,7 +116,7 @@ translate portuguese sm1cs_am001_9e063cc6:
 translate portuguese sm1cs_am001_70312d09:
 
     # am "Nothing. Anna wants to go over things in detail in ten minutes."
-    am "Nada. A Anna quer que leia todos os detalhes em dez minutos."
+    am "Nada. A Anna quer revisar todos os detalhes em dez minutos."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:87
 translate portuguese sm1cs_am001_61168530:
@@ -188,7 +188,7 @@ translate portuguese sm1cs_am001_fb05a763:
 translate portuguese sm1cs_am001_6043bd73:
 
     # am "Come on, Pete, if Anna wants to pull her weight finally, we shouldn't stop her."
-    am "Poxa, Pete, se a Ana quer finalmente fazer alguma coisa, é melhor não impedir ela."
+    am "Poxa, Pete, se a Anna quer finalmente fazer alguma coisa, é melhor não impedir ela."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:125
 translate portuguese sm1cs_am001_8543bcc7:
@@ -410,7 +410,7 @@ translate portuguese sm1cs_am001_c8f830d8:
 translate portuguese sm1cs_am001_fe43a970:
 
     # mct "Seriously, what's the deal with the two of them?"
-    mct "Sério, O que tem entre essas duas?"
+    mct "Sério, o que tem entre essas duas?"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:233
 translate portuguese sm1cs_am001_b3073727:
@@ -512,7 +512,7 @@ translate portuguese sm1cs_am001_after_coding_794d89ec:
 translate portuguese sm1cs_am001_after_coding_3da95d0f:
 
     # am "Motherfucker!"
-    am "Filha da puta!"
+    am "Puta que pariu!"
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:313
 translate portuguese sm1cs_am001_after_coding_11455b53:
@@ -548,7 +548,7 @@ translate portuguese sm1cs_am001_after_coding_c5c45e56:
 translate portuguese sm1cs_am001_after_coding_517b0100:
 
     # am "Maybe if you weren't looking at nip slip pics on your phone like some jerk-faced pervert, you wouldn't need me to pull your head out of your ass."
-    am "Se você não estivesse olhando fotos de biquínis no celular que nem um tarado idiota, não precisaria que eu te salvasse."
+    am "Se você não estivesse olhando fotos de peitinhos　no celular que nem um tarado idiota, não precisaria que eu te salvasse."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:350
 translate portuguese sm1cs_am001_after_coding_9289865a:
@@ -608,7 +608,7 @@ translate portuguese sm1cs_am001_after_coding_8cacade2:
 translate portuguese sm1cs_am001_after_coding_51f52c66:
 
     # mct "Still, the bigger problem is that April might lord this fuckup over me whenever she likes."
-    mct "Mas problema maior é que April vai ficar me lembrar disso toda vez que der vontade."
+    mct "Mas problema maior é que April vai ficar me lembrando disso toda vez que der vontade."
 
 # game/code/scenes/it_office/am/sm1cs-am001.rpy:390
 translate portuguese sm1cs_am001_after_coding_025aefcb:
