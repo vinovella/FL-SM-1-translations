@@ -116,7 +116,7 @@ translate portuguese sm1cs_ag002_9c29c361:
 translate portuguese sm1cs_ag002_e4e461af:
 
     # mc "It's fine, don't worry about it."
-    mc " Relaxa, tá de boa."
+    mc "Relaxa, tá de boa."
 
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:99
 translate portuguese sm1cs_ag002_ba3581dc:
@@ -152,7 +152,7 @@ translate portuguese sm1cs_ag002_3c51ed69:
 translate portuguese sm1cs_ag002_b682f78e:
 
     # mc "Erm... I guess you could say I'm a bit obsessed with my work right now."
-    mc "Ahm... acho que pode te dizer que eu ando meio obcecado com o meu trabalho."
+    mc "Ahm... acho que pode-se dizer que eu ando meio obcecado com o trabalho."
 
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:120
 translate portuguese sm1cs_ag002_4d4bb272:
@@ -320,7 +320,7 @@ translate portuguese sm1cs_ag002_27c5f28f:
 translate portuguese sm1cs_ag002_054e78dd:
 
     # mc "Is that how you got the nickname?"
-    mc "É assim que você conseguir o seu apelido?"
+    mc "É assim que você conseguiu o seu apelido?"
 
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:211
 translate portuguese sm1cs_ag002_954f8867:
@@ -374,7 +374,7 @@ translate portuguese sm1cs_ag002_2aff8fe7:
 translate portuguese sm1cs_ag002_23c39325:
 
     # ag "Oh right. What was your major again?"
-    ag "Ah é. Você estava cursando que mesmo?"
+    ag "Ah é. Você estava cursando o que mesmo?"
 
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:238
 translate portuguese sm1cs_ag002_16b267c4:
@@ -530,7 +530,7 @@ translate portuguese sm1cs_ag002_54b2c99d:
 translate portuguese sm1cs_ag002_d3cc62eb:
 
     # ag "Oh no! [mcname], I am so sorry but I have to take off?"
-    ag "Ah não! [mcname], desculpa mesmo, mas eu tenho que ir!"
+    ag "Putz! [mcname], desculpa mesmo, mas eu tenho que ir!"
 
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:348
 translate portuguese sm1cs_ag002_22bef038:
@@ -542,7 +542,7 @@ translate portuguese sm1cs_ag002_22bef038:
 translate portuguese sm1cs_ag002_8eca412a:
 
     # ag "Yeah, everything is totally fine! I just promised to participate in this game tournament and it starts soon!"
-    ag "Sim, está tudo perfeitamente bem! é que eu prometi participar nesse campeonato, e já vai começar!"
+    ag "Sim, está tudo perfeitamente bem! É que eu prometi participar nesse campeonato, e já vai começar!"
 
 # game/code/scenes/it_office/ag/sm1cs-ag002.rpy:355
 translate portuguese sm1cs_ag002_eda0cbff:
