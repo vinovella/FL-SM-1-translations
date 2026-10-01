@@ -92,7 +92,7 @@ translate portuguese sm1cs_my002_a2a17a18:
 translate portuguese sm1cs_my002_dbca4720:
 
     # mc "I don't know. Haven't set one up yet."
-    mc "Não sei.  A gente não marcou ainda."
+    mc "Não sei. A gente não marcou ainda."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:61
 translate portuguese sm1cs_my002_8645e4d1:
@@ -146,7 +146,7 @@ translate portuguese sm1cs_my002_ee0feeab:
 translate portuguese sm1cs_my002_2b45658a:
 
     # sy "There's a gallery here in Crowning that just opened with some really great art. Why don't you bring her there?"
-    sy " Tem uma galeria aqui em Crowning que acabou de abrir com umas artes bem legais. Por que não leva ela lá?"
+    sy "Tem uma galeria aqui em Crowning que acabou de abrir com umas artes bem legais. Por que não leva ela lá?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:95
 translate portuguese sm1cs_my002_ace2120b:
@@ -176,7 +176,7 @@ translate portuguese sm1cs_my002_11823e68:
 translate portuguese sm1cs_my002_4f3f75cc:
 
     # mc "Yeah, I learned all that shit for Kanya."
-    mc "Sim, lembrei toda essa parada da Kanya."
+    mc "Sim, aprendi toda essa parada da Kanya."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:108
 translate portuguese sm1cs_my002_af281c35:
@@ -284,7 +284,7 @@ translate portuguese sm1cs_my002_art_gallery_5b298eb5:
 translate portuguese sm1cs_my002_art_gallery_153b716c:
 
     # mct "I hope I sent the right address to Melony..."
-    mct "Tomara que eu tenha mandado o endereço certo pra Melony."
+    mct "Tomara que eu tenha mandado o endereço certo pra Melony..."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:169
 translate portuguese sm1cs_my002_art_gallery_90dc7f88:
@@ -302,7 +302,7 @@ translate portuguese sm1cs_my002_art_gallery_5d12cff8:
 translate portuguese sm1cs_my002_art_gallery_b80e9c87:
 
     # mct "Phew, okay. I did send her the right address. Thank God."
-    mct "Ufa beleza. Não mandei o endereço errado. Graças a Deus."
+    mct "Ufa, beleza. Não mandei o endereço errado. Graças a Deus."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:177
 translate portuguese sm1cs_my002_art_gallery_735a0b56:
@@ -356,7 +356,7 @@ translate portuguese sm1cs_my002_art_gallery_6ef549e3:
 translate portuguese sm1cs_my002_art_gallery_eb7615f8:
 
     # my "You always struggled to give Stacy her fair due."
-    my "Você nunca foi de dar o mérito que a  Stacy merece."
+    my "Você nunca foi de dar o mérito que a Stacy merece."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:207
 translate portuguese sm1cs_my002_art_gallery_4b3368e6:
@@ -752,7 +752,7 @@ translate portuguese sm1cs_my002_art_gallery_7d412019:
 translate portuguese sm1cs_my002_art_gallery_aa3c4a72:
 
     # my "And, I will say, it was quite... grown-up of you to invite me to an exhibit of nudes."
-    my "E sinceramente, foi bem... crescido da sua parte me convidar para uma exposição  de nudez."
+    my "E sinceramente, foi bem... crescido da sua parte me convidar para uma exposição de nudez."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:421
 translate portuguese sm1cs_my002_art_gallery_caa45c86:
@@ -872,7 +872,7 @@ translate portuguese sm1cs_my002_art_gallery_06dbb7ef:
 translate portuguese sm1cs_my002_art_gallery_8748d600:
 
     # my "Come on, we're both adults. We can talk about golden showers and look at nudity together."
-    my "Vem, nós dois somos adultos. Podemos conversar sobre chuva dourada e ver nudismo juntos."
+    my "Anda, nós dois somos adultos. Podemos conversar sobre chuva dourada e ver nudez juntos."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:481
 translate portuguese sm1cs_my002_art_gallery_ab464488:
@@ -884,7 +884,7 @@ translate portuguese sm1cs_my002_art_gallery_ab464488:
 translate portuguese sm1cs_my002_art_gallery_3c43c929:
 
     # mc "Uhm... yeah, we totally can, Melony."
-    mc "Ahm... sim, com certeza Melony."
+    mc "Ahm... sim, com certeza, Melony."
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:486
 translate portuguese sm1cs_my002_art_gallery_fdfc21c0:
@@ -1190,7 +1190,7 @@ translate portuguese sm1cs_my002_art_gallery_088f1eaa:
 translate portuguese sm1cs_my002_art_gallery_47e75104:
 
     # my "But you've been quite the gentleman, so how could I not call it a date?"
-    my "Mas você tem sido tão gentil, como que eu chamaria isso de encontro?"
+    my "Mas você está todo cavalheiro, como que eu não chamaria isso de encontro?"
 
 # game/code/scenes/character_scenes/my/sm1cs-my002.rpy:655
 translate portuguese sm1cs_my002_art_gallery_c0bfbdcc:
