@@ -50,7 +50,7 @@ translate portuguese sm1cs_dc004_4005297e:
 translate portuguese sm1cs_dc004_d007732d:
 
     # dc "I can't really talk right now... uhm, come back... later? Or something, I don't know."
-    dc "Não consigo pensar agora... ahm, volta... depois? Ou algo assim, sei lá."
+    dc "Não posso falar agora... ahm, volta... depois? Ou algo assim, sei lá."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc004.rpy:40
 translate portuguese sm1cs_dc004_c9a16acf:
