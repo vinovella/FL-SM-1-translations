@@ -140,7 +140,7 @@ translate portuguese sm1ms003_throatfuck_827fa6c5:
 translate portuguese sm1ms003_mouthfuck_6af72247:
 
     # mc "Lay down. Get on your back. I'm going to fuck your mouth."
-    mc " deita de costas. Vou meter na sua boca."
+    mc "Deita de costas. Vou meter na sua boca."
 
 # game/code/scenes/main_story/sm1ms003.rpy:251
 translate portuguese sm1ms003_mouthfuck_d040dcde:
@@ -170,7 +170,7 @@ translate portuguese sm1ms003_cumface_7e413450:
 translate portuguese sm1ms003_cumface_40fe769b:
 
     # sy "Give it to me! Cover me with your hot seed!!!"
-    sy "Dá pra mim! Cobre minha boca de porra quente!!!"
+    sy "Dá pra mim! Me cobra toda de porra quente!!!"
 
 # game/code/scenes/main_story/sm1ms003.rpy:296
 translate portuguese sm1ms003_cumface_58e1fa65:
@@ -194,7 +194,7 @@ translate portuguese sm1ms003_cumface_c281cb0e:
 translate portuguese sm1ms003_cumface_b45204cd:
 
     # sy "I need to clean this up. I'll be right back."
-    sy "Tenho que levar isso. Já volto."
+    sy "Tenho que limpar isso. Já volto."
 
 # game/code/scenes/main_story/sm1ms003.rpy:312
 translate portuguese sm1ms003_cumthroat_c9247031:
@@ -284,7 +284,7 @@ translate portuguese sm1ms003_postcum_3d9f7c8a:
 translate portuguese sm1ms003_postcum_6c2a7f7f:
 
     # sy "I was scouting potential starlets. One of them really stood out."
-    sy "Eu estava possíveis estrelas. Uma delas se destacou."
+    sy "Eu estava procurando possíveis estrelas. Uma delas se destacou."
 
 # game/code/scenes/main_story/sm1ms003.rpy:372
 translate portuguese sm1ms003_postcum_4f49fb60:
@@ -500,7 +500,7 @@ translate portuguese sm1ms003_upper_95bddf1c:
 translate portuguese sm1ms003_upper_8c452267:
 
     # mc "I don't think you could even fit a bed up here."
-    mc "Acho nem teria como caber uma cama aqui em cima."
+    mc "Acho que nem teria como caber uma cama aqui em cima."
 
 # game/code/scenes/main_story/sm1ms003.rpy:510
 translate portuguese sm1ms003_upper_0405c7bf:
@@ -624,7 +624,7 @@ translate portuguese strings:
 
     # game/code/scenes/main_story/sm1ms003.rpy:175
     old "Cum in Stacy's Throat"
-    new "Gozar na Boca Da Stacy"
+    new "Gozar na Garganta Da Stacy"
 
     # game/code/scenes/main_story/sm1ms003.rpy:409
     old "Help Her Climb Up"
