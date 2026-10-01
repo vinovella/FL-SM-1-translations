@@ -764,7 +764,7 @@ translate portuguese sm1cs_bg002_white_screen_8e479415_17:
 translate portuguese sm1cs_bg002_white_screen_eba4471b:
 
     # kv "Well, you should. That's the point. You should be thinking about Amore's mouth wrapped around your beautiful cock."
-    kv "Bom, então vai pensando em alguma. Essa é a ideia. Você devia estar pensando na boca da Amore enrolada no seu pau maravilhoso."
+    kv "Bom, então vai pensando nisso. Essa é a ideia. Você devia estar pensando na boca da Amore enrolada no seu pau maravilhoso."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:389
 translate portuguese sm1cs_bg002_white_screen_5b9571cb:
@@ -1130,7 +1130,7 @@ translate portuguese sm1cs_bg002_continue_shoot_1caa4c4a:
 translate portuguese sm1cs_bg002_continue_shoot_76154c7c:
 
     # mc "I can feel my dick going down her throat, and she's squeezing my cock with her throat muscles!"
-    mc "Dá pra sentir meu pau crescendo na garganta dela, ela ainda espremendo a garganta nele!"
+    mc "Dá pra sentir meu pau descendo na garganta dela, ela ainda espremendo a garganta nele!"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:581
 translate portuguese sm1cs_bg002_continue_shoot_9a8dde9b:
@@ -1340,7 +1340,7 @@ translate portuguese sm1cs_bg002_continue_shoot_31cc48ab:
 translate portuguese sm1cs_bg002_continue_shoot_50053e49:
 
     # kv "You look so hot right now. Hang on."
-    kv "Você tá tão gostosa agora.  Segura aí."
+    kv "Você tá tão gostosa agora. Segura aí."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:686
 translate portuguese sm1cs_bg002_continue_shoot_8e479415_2:
@@ -1472,7 +1472,7 @@ translate portuguese sm1cs_bg002_dating_728be85a:
 translate portuguese sm1cs_bg002_dating_a67559bc:
 
     # bg "Oh, totally! Yeah, I, uhm, just have this thing, and..."
-    bg "Ah, com certeza! Sim, é que eu tenho, uma coisa, e..."
+    bg "Ah, com certeza! Sim, é que eu tenho uma coisa, e..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg002.rpy:759
 translate portuguese sm1cs_bg002_dating_97077530:
