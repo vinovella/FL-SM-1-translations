@@ -188,7 +188,7 @@ translate portuguese sm1cs_ns_renovation_5172bef3:
 translate portuguese sm1cs_ns_renovation_6a4d4eb4:
 
     # ns "{i}Special{/i} fun in here?"
-    ns "Uma {i}diversão{/i} especial aqui dentro?"
+    ns "Uma diversão {i}especial{/i} aqui dentro?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns-renovation.rpy:128
 translate portuguese sm1cs_ns_renovation_87a8071d:
