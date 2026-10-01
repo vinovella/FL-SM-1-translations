@@ -8,7 +8,7 @@ translate portuguese sm1cs_cw004_f7cb7133:
 translate portuguese sm1cs_cw004_ed1f9694:
 
     # cw "Hello, Mr. [mcname]."
-    cw "Oi, [mcname]."
+    cw "Oi, Sr. [mcname]."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:34
 translate portuguese sm1cs_cw004_87d05f23:
@@ -38,7 +38,7 @@ translate portuguese sm1cs_cw004_a9b9f3af:
 translate portuguese sm1cs_cw004_010ad01f:
 
     # cw "I thought that you showing up during that lunch would buy me a few months of quiet from my folks."
-    cw "Achei que fosse ganhar alguns meses de paz dos meus pais com você indo no jantar."
+    cw "Achei que fosse ganhar alguns meses de paz dos meus pais com você indo no almoço."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:46
 translate portuguese sm1cs_cw004_6551129a:
@@ -62,7 +62,7 @@ translate portuguese sm1cs_cw004_1fc9e188:
 translate portuguese sm1cs_cw004_ee1b7c83:
 
     # mc "I don't really understand, but if there is something I can do to help, I'm here for you."
-    mc "Normalmente eu não entenderia, mas se tiver alguma coisa que eu possa fazer para ajudar, tô aqui."
+    mc "Eu não entendo muito bem, mas se tiver alguma coisa que eu possa fazer pra ajudar, eu tô aqui."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:54
 translate portuguese sm1cs_cw004_1f28d6f7:
@@ -146,7 +146,7 @@ translate portuguese sm1cs_cw004_1a73e712:
 translate portuguese sm1cs_cw004_d8bd0134:
 
     # cw "But I can call on your basic decency."
-    cw "Mas posso pedir tenha uma decência."
+    cw "Mas posso pedir que tenha certa decência."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:85
 translate portuguese sm1cs_cw004_e80f32bf:
@@ -308,7 +308,7 @@ translate portuguese sm1cs_cw004_docks_1e0fe5b1:
 translate portuguese sm1cs_cw004_docks_23a3e840:
 
     # cw "I tried and tried, but they insisted that we share a cabin together."
-    cw "Eu tentei tentei, mas eles insistiram que vamos ter que compartilhar uma cabine."
+    cw "Eu tentei, tentei mesmo, mas eles insistiram que vamos ter que compartilhar uma cabine."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:200
 translate portuguese sm1cs_cw004_docks_dee89fc5:
@@ -326,7 +326,7 @@ translate portuguese sm1cs_cw004_docks_7eda38f1:
 translate portuguese sm1cs_cw004_docks_42e84424:
 
     # mc "It's all good. I can survive sleeping on the floor."
-    mc "De boa. Consigo sobreviver dormir no chão."
+    mc "De boa. Consigo sobreviver dormindo no chão."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:205
 translate portuguese sm1cs_cw004_docks_3bee4454:
@@ -608,7 +608,7 @@ translate portuguese sm1cs_cw004_later_d01c088d:
 translate portuguese sm1cs_cw004_later_dd988c0b:
 
     # mct "Being an investment manager seems to be working great for Charles."
-    mct "Parece que ser gerenciador de investimentos dá muito certo pro Charles."
+    mct "Parece que ser gestor de investimentos dá muito certo pro Charles."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:375
 translate portuguese sm1cs_cw004_later_47883ecb:
@@ -764,13 +764,13 @@ translate portuguese sm1cs_cw004_later_17f13571:
 translate portuguese sm1cs_cw004_later_05ca69f9:
 
     # chw "Haha. Charles please, [mcname]."
-    chw "Haha. Por favor, [mcname], Charles."
+    chw "Haha. Por favor, [mcname], é Charles."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:462
 translate portuguese sm1cs_cw004_later_c85cfa77:
 
     # chw "I imagine Claire forgot to mention I love skeet shooting when we do these trips."
-    chw "Aposto que a Claire esqueceu de falar que eu praticar tiro ao prato quando saímos de barco assim."
+    chw "Aposto que a Claire esqueceu de falar que eu adoro praticar tiro ao prato quando saímos de barco assim."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:464
 translate portuguese sm1cs_cw004_later_5c75e3c3:
@@ -986,7 +986,7 @@ translate portuguese sm1cs_cw004_later_c611ea12:
 translate portuguese sm1cs_cw004_later_6c65dd9d:
 
     # fw "The first time your father and I were in just swimsuits, we couldn't keep our hands from one another."
-    fw "Na primeira vez que o seu pai e eu ficamos de roupa de banho, não consigo tirar a mão um do outro."
+    fw "Na primeira vez que o seu pai e eu ficamos de roupa de banho, não conseguíamos tirar a mão um do outro."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:586
 translate portuguese sm1cs_cw004_later_bf25f9c3:
@@ -1112,7 +1112,7 @@ translate portuguese sm1cs_cw004_first_evening_aa8ff31c:
 translate portuguese sm1cs_cw004_first_evening_a80e7b34:
 
     # mct "Her dad wouldn't shoot me over that..."
-    mct "O pai dela não airaria em mim por causa disso..."
+    mct "O pai dela não atiraria em mim por causa disso..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:660
 translate portuguese sm1cs_cw004_first_evening_74dec95f:
@@ -1316,7 +1316,7 @@ translate portuguese sm1cs_cw004_first_evening_817c79bc:
 translate portuguese sm1cs_cw004_first_evening_ea121e86:
 
     # fw "Mmm. Well, when I found him here alone, I figured you wanted me to keep him entertained."
-    fw "Mmm. Quando encontrei ele aqui sozinho, achei que você queria que eu entretesse ele."
+    fw "Mmm. Quando encontrei ele aqui sozinho, achei que você queria que eu deixasse ele entretido."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:768
 translate portuguese sm1cs_cw004_first_evening_cd44fd8d:
@@ -1376,7 +1376,7 @@ translate portuguese sm1cs_cw004_first_evening_c40de8ea:
 translate portuguese sm1cs_cw004_first_evening_21acad6e:
 
     # cw "And yet, you seemed to be enjoying yourself."
-    cw "Mas ainda assim você parece que está se divertindo muito"
+    cw "Mas ainda assim você parece que está se divertindo muito."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:794
 translate portuguese sm1cs_cw004_first_evening_f6483161:
@@ -1460,7 +1460,7 @@ translate portuguese sm1cs_cw004_first_evening_ca95024c:
 translate portuguese sm1cs_cw004_first_evening_85288d6a:
 
     # cw "*whispers* This is just for show, [mcname]."
-    cw "*sussurro* Isso é só para manter as aparências, [mcname]. "
+    cw "*sussurro* Isso é só para manter as aparências, [mcname]."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:827
 translate portuguese sm1cs_cw004_first_evening_b493929c:
@@ -1514,7 +1514,7 @@ translate portuguese sm1cs_cw004_first_evening_e65df109:
 translate portuguese sm1cs_cw004_first_evening_7e384155:
 
     # mct "She says that but isn't she kind of cornering me right now?"
-    mct "Ela diz isso, mas não é ela que tá me encurralando agora."
+    mct "Ela diz isso, mas não é ela que tá me encurralando agora?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:854
 translate portuguese sm1cs_cw004_first_evening_562c4a06:
@@ -1742,7 +1742,7 @@ translate portuguese sm1cs_cw004_first_evening_46252ff5:
 translate portuguese sm1cs_cw004_first_evening_56de7f6a:
 
     # mct "She's so sexy, and she's already jacking me off."
-    mct "Ela é tão gostosa, e já me bateu uma punheta."
+    mct "Ela é tão gostosa, e já tá me batendo uma punheta."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:939
 translate portuguese sm1cs_cw004_first_evening_7a881de8:
@@ -1754,7 +1754,7 @@ translate portuguese sm1cs_cw004_first_evening_7a881de8:
 translate portuguese sm1cs_cw004_first_evening_e15dd91f:
 
     # mc "Maybe you could use your mouth?{w} I'm sure that will help me cum..."
-    mc "Será que você poderia usar a boca? Tenho certeza que ajudaria a gozar..."
+    mc "Será que você poderia usar a boca?{w} Tenho certeza que ajudaria a gozar..."
 
 # game/code/scenes/it_office/cw/sm1cs-cw004.rpy:943
 translate portuguese sm1cs_cw004_first_evening_8c2c9d38:
