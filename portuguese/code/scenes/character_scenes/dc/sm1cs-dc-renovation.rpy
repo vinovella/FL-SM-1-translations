@@ -44,7 +44,7 @@ translate portuguese sm1cs_dc_renovation_5c8bfeef:
 translate portuguese sm1cs_dc_renovation_9f993911:
 
     # mc "Uhm, no! I just forget what you look like without your cop hat."
-    mc "Ahm, não! Eu esqueço que você fica bonita sem o chapéu de polícia."
+    mc "Ahm, não! Eu esqueço como você fica sem o chapéu de polícia."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:47
 translate portuguese sm1cs_dc_renovation_8ed9c4f4:
@@ -92,7 +92,7 @@ translate portuguese sm1cs_dc_renovation_c521a2d5:
 translate portuguese sm1cs_dc_renovation_825fb96f:
 
     # dc "But enough about my troubles! I'm here to help you!"
-    dc "Mas chega de falar dos meus problemas! Eu vim aqui pra você!"
+    dc "Mas chega de falar dos meus problemas! Eu vim aqui te ajudar!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:69
 translate portuguese sm1cs_dc_renovation_d62d9525:
@@ -104,7 +104,7 @@ translate portuguese sm1cs_dc_renovation_d62d9525:
 translate portuguese sm1cs_dc_renovation_99a6d8ec:
 
     # mc "Let's see... I think some of the uhm... 2 by 4s in the walls need reinforcing. I know we're going to hang lots of photos."
-    mc "Vejamos... Acho que tem, ahm...  umas vigas ali que precisam de uma reforçada. Eu sei que vamos ter que pendurar um monte de fotos."
+    mc "Vejamos... Acho que tem, ahm... umas vigas ali que precisam de uma reforçada. Eu sei que vamos ter que pendurar um monte de fotos."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:73
 translate portuguese sm1cs_dc_renovation_3d449cfe:
@@ -212,7 +212,7 @@ translate portuguese sm1cs_dc_renovation_4a07df0e:
 translate portuguese sm1cs_dc_renovation_63422d5f:
 
     # dc "Maybe...{w} have you got a screwdriver?"
-    dc "Talvez{w} tem uma chave de fenda?"
+    dc "Talvez...{w} tem uma chave de fenda?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:155
 translate portuguese sm1cs_dc_renovation_8390bb7b:
@@ -266,7 +266,7 @@ translate portuguese sm1cs_dc_renovation_a1c774a3:
 translate portuguese sm1cs_dc_renovation_21622144:
 
     # dc "Yep, that was it. I think you just spent too long staring into that little hole."
-    dc "Sim, só isso. Acho que você passou o tempo demais olhando nesse buraquinho."
+    dc "Sim, só isso. Acho que você passou tempo demais olhando nesse buraquinho."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:194
 translate portuguese sm1cs_dc_renovation_7497e470:
@@ -386,7 +386,7 @@ translate portuguese sm1cs_dc_renovation_85d475fe:
 translate portuguese sm1cs_dc_renovation_59c08bc6:
 
     # mc "So I'm curious... when did you get so good at doing this kind of work?"
-    mc "Então, mata essa curiosidade... quando foi que você ficou tão boa isso?"
+    mc "Então, mata essa curiosidade... quando foi que você ficou tão boa nisso?"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:266
 translate portuguese sm1cs_dc_renovation_dee04957:
@@ -470,7 +470,7 @@ translate portuguese sm1cs_dc_renovation_8210f114:
 translate portuguese sm1cs_dc_renovation_701e7eaa:
 
     # dc "It may have taken 6 hours, but I did it!"
-    dc "Acho que demorei umas 6 horas mas deu!"
+    dc "Acho que demorei umas 6 horas, mas deu!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc-renovation.rpy:306
 translate portuguese sm1cs_dc_renovation_2c9a23fd:
