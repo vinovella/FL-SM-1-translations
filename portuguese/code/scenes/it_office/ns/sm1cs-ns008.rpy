@@ -38,7 +38,7 @@ translate portuguese sm1cs_ns008_0779b06a:
 translate portuguese sm1cs_ns008_e01df6f6:
 
     # mct "She still hasn't talked to me about why she had to rush off so quickly that night we were together..."
-    mct "Ainda nem veio falar comigo do porque teve que sair tão rápido do nosso encontro..."
+    mct "Ainda nem veio falar comigo do porquê teve que sair tão rápido do nosso encontro..."
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:38
 translate portuguese sm1cs_ns008_63167b95:
@@ -218,7 +218,7 @@ translate portuguese sm1cs_ns008_fb684216:
 translate portuguese sm1cs_ns008_7b6c5b39:
 
     # en "Haha. They think they have a troll? Only I have seen real trolls."
-    en "Haha. Eles acham que tem um troll. Só eu conheço os trolls de verdade."
+    en "Haha. Eles acham que tem um troll? Só eu conheço os trolls de verdade."
 
 # game/code/scenes/it_office/ns/sm1cs-ns008.rpy:141
 translate portuguese sm1cs_ns008_2130a7f1:
