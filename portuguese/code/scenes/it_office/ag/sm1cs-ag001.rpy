@@ -44,7 +44,7 @@ translate portuguese sm1cs_ag001_68bb389b:
 translate portuguese sm1cs_ag001_9f4eb09b:
 
     # mc "Haha. We just have to keep a couple of zealots ready in case the code tries to zerg rush us."
-    mc "Haha. É só preparar uns fanáticus caso o código tente dar um zerg rush na gente."
+    mc "Haha. É só preparar uns fanáticos caso o código tente dar um zerg rush na gente."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:43
 translate portuguese sm1cs_ag001_c00d136c:
@@ -548,7 +548,7 @@ translate portuguese sm1cs_ag001_fc1b518f:
 translate portuguese sm1cs_ag001_next_choice_6984752f:
 
     # mc "On top, on bottom, from the side, I'm always ready to go."
-    mc "Por dentro, por fora pelo lado, sempre pronto."
+    mc "Por dentro, por fora, pelo lado, sempre pronto."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:352
 translate portuguese sm1cs_ag001_next_choice_84a60c69:
@@ -608,7 +608,7 @@ translate portuguese sm1cs_ag001_continue_51a879c2:
 translate portuguese sm1cs_ag001_continue_98f3a5be:
 
     # ag "Oh yeah. Intense, pesky, argumentative. She can be a royal pain in the ass when she wants to be."
-    ag "Ah é. Intenso, chato, argumentativo. Ela pode ser bem chatinha quando quer."
+    ag "Ah é. Intenso, chata, argumentativa. Ela pode ser bem chatinha quando quer."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:394
 translate portuguese sm1cs_ag001_continue_0f22d93c:
@@ -680,7 +680,7 @@ translate portuguese sm1cs_ag001_continue_d1fd97da:
 translate portuguese sm1cs_ag001_continue_9127145a:
 
     # ag "Oh yes. I'll pass on my thoughts to Claire, let her know you're doing a bang-up job so far, [mcname]."
-    ag "Ah sim. Vou passar a minha opinião pra Claire, fala que você está fazendo um ótimo trabalho, [mcname]."
+    ag "Ah sim. Vou passar a minha opinião pra Claire, avisar que você está fazendo um ótimo trabalho, [mcname]."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:436
 translate portuguese sm1cs_ag001_continue_858eb84a:
@@ -698,7 +698,7 @@ translate portuguese strings:
 
     # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:30
     old "Huh?"
-    new "Hã"
+    new "Hã?"
 
     # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:30
     old "Totally"
@@ -776,7 +776,7 @@ translate portuguese sm1cs_ag001_30f8e87b:
 translate portuguese sm1cs_ag001_continue_68649b33:
 
     # ag "But she's probably the best damn coder in Crowning, and it's a privilege to have her on the team. Warts and all."
-    ag "Mas ela provavelmente é a melhor desenvolvedora de Crowning, e é um privilégio ter ela no time. Com os problemas e tudo bem."
+    ag "Mas ela provavelmente é a melhor desenvolvedora de Crowning, e é um privilégio ter ela no time. Mesmo com os problemas."
 
 # game/code/scenes/it_office/ag/sm1cs-ag001.rpy:419
 translate portuguese sm1cs_ag001_continue_be0ef968:
