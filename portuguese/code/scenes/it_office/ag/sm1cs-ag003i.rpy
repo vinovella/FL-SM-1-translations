@@ -20,7 +20,7 @@ translate portuguese sm1cs_ag003i_b8597cbd:
 translate portuguese sm1cs_ag003i_1da6a117:
 
     # cw "Is there something you need help with?"
-    cw "Posso te ajudar em algum coisa?"
+    cw "Posso te ajudar em alguma coisa?"
 
 # game/code/scenes/it_office/ag/sm1cs-ag003i.rpy:15
 translate portuguese sm1cs_ag003i_7c72ad33:
