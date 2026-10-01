@@ -32,7 +32,7 @@ translate portuguese sm1cs_bg004_01620f4e:
 translate portuguese sm1cs_bg004_0446e8e3:
 
     # mct "It's from Amore... \"the photos are on the tablet. Take a look.\""
-    mct "É da Amore... \"As fotos estão no tablet. Dá uma olhada.\""
+    mct "É da Amore... \"as fotos estão no tablet. Dá uma olhada.\""
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:71
 translate portuguese sm1cs_bg004_a3bf8254:
@@ -104,7 +104,7 @@ translate portuguese sm1cs_bg004_5a204ef6:
 translate portuguese sm1cs_bg004_97b77ba4:
 
     # bg "I am sorry, [bg_mcname!t]."
-    bg "Desculpa,  [bg_mcname!t]."
+    bg "Desculpa, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:126
 translate portuguese sm1cs_bg004_e3e4c41a:
@@ -170,7 +170,7 @@ translate portuguese sm1cs_bg004_2828178c:
 translate portuguese sm1cs_bg004_1ad962f3:
 
     # bg "Yes, [bg_mcname!t]."
-    bg "Sim,  [bg_mcname!t]."
+    bg "Sim, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:147
 translate portuguese sm1cs_bg004_7b471f6f:
@@ -230,7 +230,7 @@ translate portuguese sm1cs_bg004_9cb8f0fa:
 translate portuguese sm1cs_bg004_53e8255e:
 
     # bg "Yes, [bg_mcname!t]..."
-    bg "Sim,  [bg_mcname!t]..."
+    bg "Sim, [bg_mcname!t]..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:189
 translate portuguese sm1cs_bg004_6da832c3:
@@ -242,7 +242,7 @@ translate portuguese sm1cs_bg004_6da832c3:
 translate portuguese sm1cs_bg004_f835aa01:
 
     # bg "I... I want you to fuck me, [bg_mcname!t]."
-    bg "Eu... quero transar com você,  [bg_mcname!t]."
+    bg "Eu... quero transar com você, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:194
 translate portuguese sm1cs_bg004_09f2de35:
@@ -260,7 +260,7 @@ translate portuguese sm1cs_bg004_5af08cb9:
 translate portuguese sm1cs_bg004_acc2bd12:
 
     # bg "P-please, [bg_mcname!t], will you fuck me in the ass?"
-    bg "P-por favor,  [bg_mcname!t], pode comer a minha bunda?"
+    bg "P-por favor, [bg_mcname!t], pode comer a minha bunda?"
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:201
 translate portuguese sm1cs_bg004_b42f98ef:
@@ -284,7 +284,7 @@ translate portuguese sm1cs_bg004_1ad962f3_1:
 translate portuguese sm1cs_bg004_99c6e5ac:
 
     # mc "Show me what a good girl you are, and take my pants off."
-    mc "Mostra que você sabe ser uma boa menina garota e tira minha calça."
+    mc "Mostra que você sabe ser uma boa menina e tira minha calça."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:211
 translate portuguese sm1cs_bg004_d208028e:
@@ -464,7 +464,7 @@ translate portuguese sm1cs_bg004_10494436:
 translate portuguese sm1cs_bg004_1ad962f3_3:
 
     # bg "Yes, [bg_mcname!t]."
-    bg "Sim,  [bg_mcname!t]."
+    bg "Sim, [bg_mcname!t]."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:287
 translate portuguese sm1cs_bg004_67cebdd1:
@@ -506,7 +506,7 @@ translate portuguese sm1cs_bg004_03fb0be2:
 translate portuguese sm1cs_bg004_e9a805cd:
 
     # mc "Mmm, mmm, mmmmm. You do have a nice ass, Amore."
-    mc "Mmm, mmm, mmmmm.  Você tem uma bela bunda, Amore."
+    mc "Mmm, mmm, mmmmm. Você tem uma bela bunda, Amore."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:305
 translate portuguese sm1cs_bg004_a264948b:
@@ -1220,7 +1220,7 @@ translate portuguese sm1cs_bg004_anal_94c63018:
 translate portuguese sm1cs_bg004_anal_8246e89e:
 
     # bg "Of... of course, [bg_mcname!t]. I can..."
-    bg "C-...claro, [bg_mcname!t]. Eu posso..."
+    bg "C-... claro, [bg_mcname!t]. Eu posso..."
 
 # game/code/scenes/character_scenes/bg/sm1cs-bg004.rpy:586
 translate portuguese sm1cs_bg004_anal_143f1146:
@@ -1568,5 +1568,5 @@ translate portuguese sm1cs_bg004_anal_41c02abb:
 translate portuguese sm1cs_bg004_anal_a58f65b7:
 
     # bg "I NEED- FUUUUUH - PLEASE, [bg_mcname!tu], I NEED A BREAK!"
-    bg "EU PRECISO— HUUUUF — POR FAVOR, [bg_mcname!tu], EU PRECISO DE UMA PAUSA!"
+    bg "EU PRECISO— HUUUUF — POR FAVOR, [bg_mcname!tu], EU PRECISO DAR UMA PAUSA!"
 
