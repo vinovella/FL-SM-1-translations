@@ -248,7 +248,7 @@ translate portuguese sm1ms013_e1fe6171:
 translate portuguese sm1ms013_f70fac21:
 
     # my "Well I haven't heard from either of you in forever, and it seems like Stacy's phone is broken. So I thought I'd make the trip."
-    my "Bem, faz tempo que falam comigo, e parece que o telefone da Stacy está quebrado. Então eu pensei em visitar."
+    my "Bem, faz tempo que não falam comigo, e parece que o telefone da Stacy está quebrado. Então eu pensei em visitar."
 
 # game/code/scenes/main_story/sm1ms013.rpy:161
 translate portuguese sm1ms013_260d7806:
@@ -356,7 +356,7 @@ translate portuguese sm1ms013_96235f48:
 translate portuguese sm1ms013_2de09b4b:
 
     # sy "Should we be worried about something?"
-    sy "É para eu ficar preocupada?"
+    sy "É pra gente se preocupar?"
 
 # game/code/scenes/main_story/sm1ms013.rpy:219
 translate portuguese sm1ms013_85599874:
@@ -674,7 +674,7 @@ translate portuguese sm1ms013_d4c3ab73:
 translate portuguese sm1ms013_ac531659:
 
     # my "Because I know how to use the internet, [mcname]. After I saw your video, I spent some time checking in on you and I found the stories about your school, and..."
-    my "Porque eu sei usar a internet, [mcname]. Depois que eu vi seu vídeo, passei um tempo pesquisando sobre você e descobrir as notícias da sua faculdade, e..."
+    my "Porque eu sei usar a internet, [mcname]. Depois que eu vi seu vídeo, passei um tempo pesquisando sobre você e descobri as notícias da sua faculdade, e..."
 
 # game/code/scenes/main_story/sm1ms013.rpy:368
 translate portuguese sm1ms013_adadc894:
@@ -716,13 +716,13 @@ translate portuguese sm1ms013_ab5490c7:
 translate portuguese sm1ms013_08325f9f:
 
     # my "No. I mean, is it awkward? Absolutely."
-    my "Mao. Digo, é estranho? Com certeza."
+    my "Não. Digo, é estranho? Com certeza."
 
 # game/code/scenes/main_story/sm1ms013.rpy:389
 translate portuguese sm1ms013_57ca7354:
 
     # my "I did not expect to hear and see my son's... proclivities on the internet, but things happen."
-    my "Não esperava ouvir nem ver as... a proclividades do meu filho na internet, mas acontece."
+    my "Não esperava ouvir nem ver as... as proclividades do meu filho na internet, mas acontece."
 
 # game/code/scenes/main_story/sm1ms013.rpy:391
 translate portuguese sm1ms013_d800c5c0:
@@ -872,7 +872,7 @@ translate portuguese sm1ms013_349b75b3:
 translate portuguese sm1ms013_1ebf24fc:
 
     # my "I think... it could definitely use some work. I don't think I'm crazy about the condition your apartment is in."
-    my "Acho... que precisa de uma melhorada. Acho não gostei muito da condição do seu apartamento."
+    my "Acho... que precisa de uma melhorada. Acho que não gostei muito da condição do seu apartamento."
 
 # game/code/scenes/main_story/sm1ms013.rpy:459
 translate portuguese sm1ms013_7b37de2f:
@@ -920,7 +920,7 @@ translate portuguese sm1ms013_366d3d7f:
 translate portuguese sm1ms013_85ae8946:
 
     # mc "Yep - so kind!"
-    mc "Sim- tão gentil!"
+    mc "Sim - tão gentil!"
 
 # game/code/scenes/main_story/sm1ms013.rpy:486
 translate portuguese sm1ms013_b0993967:
@@ -962,7 +962,7 @@ translate portuguese sm1ms013_3897f621:
 translate portuguese sm1ms013_fbaf2113:
 
     # my "But so much of this place needs so much work... you especially need to get some stairs in here. And maybe a bed frame so you're not sleeping on the floor anymore."
-    my "Mas uma boa parte desse lugar precisa ser arrumada... principalmente tem que arrumar essa escada. E talvez um box para a cama para não dormir mais no chão."
+    my "Mas uma boa parte desse lugar precisa ser arrumada... o principal seria uma escada. E talvez um box para a cama para não dormir mais no chão."
 
 # game/code/scenes/main_story/sm1ms013.rpy:506
 translate portuguese sm1ms013_243ac87d:
@@ -1046,7 +1046,7 @@ translate portuguese sm1ms013_51d454b1:
 translate portuguese sm1ms013_14637a3c:
 
     # my "But, I should go and check into my hotel. Plus, you two have lots to talk about I imagine."
-    my "Mas é melhor eu fazer o check-in no hotel. E Vocês dois têm muito o que conversar."
+    my "Mas é melhor eu fazer o check-in no hotel. E vocês dois têm muito o que conversar."
 
 # game/code/scenes/main_story/sm1ms013.rpy:550
 translate portuguese sm1ms013_d65a5696:
@@ -1082,7 +1082,7 @@ translate portuguese sm1ms013_17b4bb33:
 translate portuguese sm1ms013_3c603938:
 
     # my "Give me a hug, and I'll see you tomorrow, okay?"
-    my "Me dá um abracinho, e a gente se vê amanhã, tá"
+    my "Me dá um abracinho, e a gente se vê amanhã, tá?"
 
 # game/code/scenes/main_story/sm1ms013.rpy:570
 translate portuguese sm1ms013_afb98f82:
@@ -1106,7 +1106,7 @@ translate portuguese sm1ms013_8e4e4c0b:
 translate portuguese sm1ms013_3641f6b0:
 
     # sy "Yeah, it's great seeing you, Melony."
-    sy "É, é bom te ver,, Melony."
+    sy "É, é bom te ver, Melony."
 
 # game/code/scenes/main_story/sm1ms013.rpy:584
 translate portuguese sm1ms013_db6d12eb:
@@ -1208,7 +1208,7 @@ translate portuguese sm1ms013_b8e3796b:
 translate portuguese sm1ms013_29588db0:
 
     # mc "I wish we could Stacy, but it sounds like I need to start figuring out how to renovate the studio."
-    mc "Bem que eu queria, Stacy, mas parece que preciso começar a bolar com reformar esse estúdio."
+    mc "Bem que eu queria, Stacy. Mas parece que preciso começar a bolar como reformar esse estúdio."
 
 # game/code/scenes/main_story/sm1ms013.rpy:630
 translate portuguese sm1ms013_bde8478d:
@@ -1232,7 +1232,7 @@ translate portuguese sm1ms013_8d6e973c:
 translate portuguese sm1ms013_e7b6ac58:
 
     # mc "You know how Melony is, she always forgets to knock."
-    mc "Lembra de como era a Melony, nunca lembrava de bater na porta."
+    mc "Lembra de como era a Melony, sempre esquece de bater na porta."
 
 # game/code/scenes/main_story/sm1ms013.rpy:642
 translate portuguese sm1ms013_6a10df7c:
