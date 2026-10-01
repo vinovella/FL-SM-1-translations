@@ -170,7 +170,7 @@ translate portuguese sm1cs_am004_a696e679:
 translate portuguese sm1cs_am004_a6fe189d:
 
     # ps "Whatever. One-night-dickbringer, FWB, boytoy, it doesn't matter. Mitch isn't going to care. Come on."
-    ps "Tanto faz. Foto de uma noite, pegante, ficante, boyzinho, não importa. O Mitch não quer saber. Anda."
+    ps "Tanto faz. Foda de uma noite, pegante, ficante, boyzinho, não importa. O Mitch não quer saber. Anda."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:140
 translate portuguese sm1cs_am004_0a91fb01:
@@ -194,7 +194,7 @@ translate portuguese sm1cs_am004_ae81d45f:
 translate portuguese sm1cs_am004_865c8254:
 
     # mct "Where the hell did that come from? I haven't thought about Lydia since things broke apart between us."
-    mct "De onde caralho que veio isso? Não penso na Lydia desde as coisas deram errado entre a gente."
+    mct "De onde caralho que veio isso? Não penso na Lydia desde que as coisas deram errado entre a gente."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:152
 translate portuguese sm1cs_am004_a11cef15:
@@ -338,7 +338,7 @@ translate portuguese sm1cs_am004_ag_appears_a167a0ba:
 translate portuguese sm1cs_am004_ag_appears_d8406979:
 
     # ag "Totally. I think I was just as surprised to get the invite as you were to see me here."
-    ag "Exato. Acho que eu estava tão surpresa quanto você de ter recebido esse convite."
+    ag "Exato. Acho que eu estava tão surpresa de ter recebido esse convite quanto você de me ver aqui."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:231
 translate portuguese sm1cs_am004_ag_appears_721f93b0:
@@ -560,7 +560,7 @@ translate portuguese sm1cs_am004_more_about_ag_fe047c23:
 translate portuguese sm1cs_am004_more_about_ag_4146d77d:
 
     # ag "We both came up together in the company, [mcname]."
-    ag "Entramos juntos na empresa, [mcname]."
+    ag "Entramos juntas na empresa, [mcname]."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:402
 translate portuguese sm1cs_am004_more_about_ag_53b9d94d:
@@ -1004,25 +1004,25 @@ translate portuguese sm1cs_am004_sex_1c8acf17:
 translate portuguese sm1cs_am004_sex_090b4191:
 
     # mc "Like that?"
-    mc "Tipo o quê?"
+    mc "Gostou?"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:730
 translate portuguese sm1cs_am004_sex_7ffc9f0a:
 
     # am "I like it better than what it's attached to."
-    am "Gostei mais de quem pertence."
+    am "Gostei mais do que a quem pertence."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:733
 translate portuguese sm1cs_am004_sex_981aacd5:
 
     # mc "You never switch off do you?"
-    mc "Você nunca para, hein?"
+    mc "Você nunca desliga isso, hein?"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:735
 translate portuguese sm1cs_am004_sex_f397ec3d:
 
     # am "I'd rather switch you on."
-    am "Eu prefiro continuar."
+    am "Eu prefiro te deixar ligadão."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:739
 translate portuguese sm1cs_am004_sex_a73e6e3f:
@@ -1448,7 +1448,7 @@ translate portuguese sm1cs_am004_after_spank_15f500a7:
 translate portuguese sm1cs_am004_after_spank_8ac794df:
 
     # am "Don't... don't fucking flatter yourself. Murrahaah... Fuck."
-    am "Não... não não vai se achando, porra. Aaaaaah... Caralho."
+    am "Não... não vai se achando, porra. Aaaaaah... Caralho."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:987
 translate portuguese sm1cs_am004_after_spank_3a2bd90b:
@@ -1502,7 +1502,7 @@ translate portuguese sm1cs_am004_after_spank_e4ea2075:
 translate portuguese sm1cs_am004_after_spank_c73aa215:
 
     # am "I want you to fu-"
-    am "Eu quero que você"
+    am "Eu quero que você-"
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:1003
 translate portuguese sm1cs_am004_after_spank_f49fff8f:
@@ -1520,7 +1520,7 @@ translate portuguese sm1cs_am004_after_spank_3d134061:
 translate portuguese sm1cs_am004_after_spank_5c02f405:
 
     # mct "Woah. And on top of everything else, the bitchy girl is a squirter."
-    mct "Eita. E pra completar, a garota grossa sabe esguichar."
+    mct "Eita. E pra completar, a garota chata sabe esguichar."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:1020
 translate portuguese sm1cs_am004_after_spank_f534bd79:
@@ -1604,7 +1604,7 @@ translate portuguese sm1cs_am004_after_spank_7b5ea551:
 translate portuguese sm1cs_am004_after_spank_9f700279:
 
     # mct "I've said it once, I've said it a hundred times."
-    mct "Já falei uma vez, Já falei cem vezes."
+    mct "Já falei uma vez, já falei cem vezes."
 
 # game/code/scenes/it_office/am/sm1cs-am004.rpy:1069
 translate portuguese sm1cs_am004_after_spank_17b0592e:
