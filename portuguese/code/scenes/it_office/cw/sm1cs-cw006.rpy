@@ -482,7 +482,7 @@ translate portuguese sm1cs_cw006_4f153b20:
 translate portuguese sm1cs_cw006_2ec62450:
 
     # cw "You are a credit to Orbix, [mcname]."
-    cw "Você é um ótimo funcionário bom da Orbix, [mcname]."
+    cw "Você é um ótimo funcionário na Orbix, [mcname]."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:281
 translate portuguese sm1cs_cw006_fe4d8399:
@@ -566,7 +566,7 @@ translate portuguese sm1cs_cw006_ff8839bf:
 translate portuguese sm1cs_cw006_48b3e797:
 
     # mc "You've been thinking about this."
-    mc "Você pensou bem isso."
+    mc "Você tem pensado isso."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:314
 translate portuguese sm1cs_cw006_83cc0422:
@@ -878,7 +878,7 @@ translate portuguese sm1cs_cw006_onramp_1a_08cf969b:
 translate portuguese sm1cs_cw006_onramp_1a_93d9b07e:
 
     # mct "She says this now, but what happens if in two weeks from now, she changes her mind?"
-    mct "Ela diz isso agora, mas o que acontece em duas semanas quando ela mudar de ideia?"
+    mct "Ela diz isso agora, mas o que acontece se ela mudar de ideia daqui duas semanas?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:463
 translate portuguese sm1cs_cw006_onramp_1a_5ac929a8:
@@ -896,7 +896,7 @@ translate portuguese sm1cs_cw006_onramp_1a_f51db5a5:
 translate portuguese sm1cs_cw006_onramp_1a_4337f312:
 
     # mc "Can we talk plainly, Ms. Watts?"
-    mc "Sra. Watts, posso falar abertamente? "
+    mc "Sra. Watts, posso falar abertamente?"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:470
 translate portuguese sm1cs_cw006_onramp_1a_a383c672:
@@ -1028,7 +1028,7 @@ translate portuguese sm1cs_cw006_onramp_1a_6fd49647:
 translate portuguese sm1cs_cw006_onramp_1a_b3558c20:
 
     # mct "Did I get run over by Claire and now I'm in a fever dream state where it just seems like she is asking me to munch on her pussy?!"
-    mct "A Claire me deu um esporro de tal forma que eu estou sonhando acordado que ela quer que eu lamba a boceta dela?"
+    mct "A Claire me deu um esporro de tal forma que eu estou sonhando acordado que ela quer que eu lamba a boceta dela?!"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:538
 translate portuguese sm1cs_cw006_onramp_1a_1b3719f4:
@@ -1100,7 +1100,7 @@ translate portuguese sm1cs_cw006_onramp_1a_0da84be4:
 translate portuguese sm1cs_cw006_onramp_1a_e6ae3eca:
 
     # cw "A good boy."
-    cw "É um garoto comportado."
+    cw "É um menino comportado."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:570
 translate portuguese sm1cs_cw006_onramp_1a_fe598eae:
@@ -1448,7 +1448,7 @@ translate portuguese sm1cs_cw006_eat_pussy_4d80327a:
 translate portuguese sm1cs_cw006_eat_pussy_2656c29d:
 
     # cw "Now... *ahem*"
-    cw "Agora *cof*"
+    cw "Agora... *cof*"
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:740
 translate portuguese sm1cs_cw006_eat_pussy_135662ee:
@@ -1502,7 +1502,7 @@ translate portuguese sm1cs_cw006_at_desk_638675e1:
 translate portuguese sm1cs_cw006_at_desk_5351c5d7:
 
     # mc "Just computer stuff."
-    mc "São as coisas de computador."
+    mc "Só umas paradas de computador."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:778
 translate portuguese sm1cs_cw006_at_desk_fe31eeea:
@@ -1604,7 +1604,7 @@ translate portuguese sm1cs_cw006_onramp_1_73dd760c:
 translate portuguese sm1cs_cw006_onramp_1_3f06ab2a:
 
     # mc "I guess I wanted to say that I was not satisfied with how our last conversation ended."
-    mc "Acho que eu queria falar que não fiquei satisfeito pelo jeito como a nossa conversa terminou."
+    mc "Acho que eu queria falar que não fiquei satisfeito com o jeito como a nossa conversa terminou."
 
 # game/code/scenes/it_office/cw/sm1cs-cw006.rpy:825
 translate portuguese sm1cs_cw006_onramp_1_27a4581d:
