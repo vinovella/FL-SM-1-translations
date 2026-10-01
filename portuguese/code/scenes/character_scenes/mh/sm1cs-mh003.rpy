@@ -62,7 +62,7 @@ translate portuguese sm1cs_mh003_1a250e16:
 translate portuguese sm1cs_mh003_d50e4a60:
 
     # sy "What are you waiting for! Tell her to come over!"
-    sy "Tá esperando o quê! Fala pra ela vir aqui."
+    sy "Tá esperando o quê? Fala pra ela vir aqui!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:49
 translate portuguese sm1cs_mh003_152d6612:
@@ -146,7 +146,7 @@ translate portuguese sm1cs_mh003_dad22007:
 translate portuguese sm1cs_mh003_fe61c869:
 
     # mc "I thought that was vampires?"
-    mc "Eu pensei que fosse vampiros?"
+    mc "Eu pensei que isso fosse para vampiros?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:93
 translate portuguese sm1cs_mh003_2415d6b9:
@@ -164,7 +164,7 @@ translate portuguese sm1cs_mh003_abb3e189:
 translate portuguese sm1cs_mh003_f84ce8b5:
 
     # mh "Hey, Stacy. I'm doing well, and you?"
-    mh "Oi, Stacy.  Tudo bem, e você?"
+    mh "Oi, Stacy. Tudo bem, e você?"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:109
 translate portuguese sm1cs_mh003_8282e0d8:
@@ -314,7 +314,7 @@ translate portuguese sm1cs_mh003_e7bfff0f:
 translate portuguese sm1cs_mh003_e95b2bee:
 
     # sy "Huh. I never even thought about that."
-    sy "Hmm. Nunca nem pensei nisso"
+    sy "Hmm. Nunca nem pensei nisso."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:173
 translate portuguese sm1cs_mh003_f2b8a94f:
@@ -620,7 +620,7 @@ translate portuguese sm1cs_mh003_no_romance_461595ee:
 translate portuguese sm1cs_mh003_business_41e47d8f:
 
     # mh "I would encourage you both to look through those documents. If you have any questions, please feel free to text or call me."
-    mh "Aconselho vocês lerem os documentos. Se tiverem perguntas, Podem mandar mensagem ou ligar."
+    mh "Aconselho vocês lerem os documentos. Se tiverem perguntasalguma dúvida, podem mandar mensagem ou ligar."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:332
 translate portuguese sm1cs_mh003_business_f0b8b19f:
@@ -770,7 +770,7 @@ translate portuguese sm1cs_mh003_stacy_75dfcd86:
 translate portuguese sm1cs_mh003_stacy_45f9beae:
 
     # sy "Sure, if you want to reduce it to that. Then, yeah."
-    sy "Sim, se você quiser reduzir só isso. Então sim."
+    sy "Sim, se você quiser a isso. Então sim."
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:413
 translate portuguese sm1cs_mh003_stacy_d470cf97:
@@ -800,7 +800,7 @@ translate portuguese sm1cs_mh003_stacy_2de810bb:
 translate portuguese sm1cs_mh003_stacy_24f31221:
 
     # sy "Either way, we need to go out and find some more actresses! We've got the paperwork, now we need the talent!"
-    sy "Enfim, vamos ter que procurar mais atrizes! A papelada já tem, agora só precisa do talento!"
+    sy "Enfim, vamos ter que procurar mais atrizes! A papelada já tem, agora só falta o talento!"
 
 # game/code/scenes/character_scenes/mh/sm1cs-mh003.rpy:427
 translate portuguese sm1cs_mh003_stacy_0c913b8d:
