@@ -62,7 +62,7 @@ translate portuguese sm1fs_i002_f623a9ce:
 translate portuguese sm1fs_i002_87203f12:
 
     # cw "Yes, technically. My job today is to see if you'll be a good fit for the team and for the company."
-    cw "Sim, tecnicamente. O meu trabalho hoje é ver se você se seria bom para o time e a empresa."
+    cw "Sim, tecnicamente. O meu trabalho hoje é ver se você seria bom para o time e a empresa."
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:55
 translate portuguese sm1fs_i002_568ef97d:
@@ -86,7 +86,7 @@ translate portuguese sm1fs_i002_bb6fc8cc:
 translate portuguese sm1fs_i002_1f11da85:
 
     # cw "We try to avoid the crunch and burnout. Our goals are instead to foster healthy work habits and grow company loyalty."
-    cw "Queremos evitar, crunch e esgotamento. Ao invés disso, o nosso objetivo é fomentar hábitos saudáveis no trabalho, e aumentar a lealdade na empresa."
+    cw "Queremos evitar crunch e esgotamento. Ao invés disso, o nosso objetivo é fomentar hábitos saudáveis no trabalho, e aumentar a lealdade na empresa."
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:67
 translate portuguese sm1fs_i002_3ac71aba:
@@ -176,7 +176,7 @@ translate portuguese sm1fs_i002_a7671edf:
 translate portuguese sm1fs_i002_84f759dd:
 
     # mc "Yeah. Something small, maybe a tune up or minor restoration."
-    mc "Si. Algo pequeno, talvez um levemente tunado ou pouco modificado."
+    mc "Sim. Algo pequeno, talvez um levemente tunado ou pouco modificado."
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:108
 translate portuguese sm1fs_i002_2b587dd5:
@@ -464,7 +464,7 @@ translate portuguese sm1fs_i002_9e4cdb20:
 translate portuguese sm1fs_i002_f1ff5f9b:
 
     # cw "Especially considering that we have enough interest to get her team up and running immediately."
-    cw "Considerando que estamos interessados em iniciar o time dela imediatamente."
+    cw "Considerando que temos interesse o suficiente para colocar a equipe de pé dela imediatamente."
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:246
 translate portuguese sm1fs_i002_c503a6c4:
@@ -542,7 +542,7 @@ translate portuguese sm1fs_i002_14507e7d:
 translate portuguese sm1fs_i002_57164b89:
 
     # cw "If we do decide to hire you, you don't need to wear something so... Stiff."
-    cw "Se decidimos te contratar, não precisa vestir algo tão... rígido."
+    cw "Se decidirmos te contratar, não precisa vestir algo tão... rígido."
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:270
 translate portuguese sm1fs_i002_05c2f217:
@@ -566,7 +566,7 @@ translate portuguese sm1fs_i002_0f61770b:
 translate portuguese sm1fs_i002_b2f31bc0:
 
     # cw "As time goes on, you'll realize I almost always do."
-    cw "Como passar do tempo, vai perceber que quase sempre sei."
+    cw "Com o passar do tempo, vai perceber que quase sempre sei."
 
 # game/code/scenes/it_office/sm1fs-i002.rpy:279
 translate portuguese sm1fs_i002_0532ea45:
