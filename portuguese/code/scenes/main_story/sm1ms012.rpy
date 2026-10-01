@@ -2,7 +2,7 @@
 translate portuguese sm1ms012_a6339388:
 
     # sy "So the last thing I had to do was let it render overnight, aaaaaaand I just checked it."
-    sy "Então, era só eu deixar renderizando de note, eeeeee acabei de checar."
+    sy "Então, era só eu deixar renderizando de noite, eeeeee acabei de checar."
 
 # game/code/scenes/main_story/sm1ms012.rpy:12
 translate portuguese sm1ms012_59612945:
@@ -296,7 +296,7 @@ translate portuguese sm1ms012_b3e4e9e0:
 translate portuguese sm1ms012_e8addbef:
 
     # sy "Well, it adds a lot of time to post processing. And also kind of a lot of time to production. And the gear costs-"
-    sy "Aumenta muito o tempo de processamento. E sinceramente muito tempo da produção. E os gastos com equipamento- "
+    sy "Aumenta muito o tempo de processamento. E sinceramente muito tempo da produção. E os gastos com equipamento-"
 
 # game/code/scenes/main_story/sm1ms012.rpy:133
 translate portuguese sm1ms012_1e734161:
@@ -368,7 +368,7 @@ translate portuguese sm1ms012_a09919b9:
 translate portuguese sm1ms012_d08750b9:
 
     # mc "So... green screen is out."
-    mc "Então... já corta atela verde."
+    mc "Então... já corta a tela verde."
 
 # game/code/scenes/main_story/sm1ms012.rpy:160
 translate portuguese sm1ms012_fe2dd872:
@@ -386,7 +386,7 @@ translate portuguese sm1ms012_f49fff8f:
 translate portuguese sm1ms012_11174fbc:
 
     # sy "We can get some muslin backdrops. Some of them come with a printed background on them. And you know what one of the most popular backgrounds is?"
-    sy "Dá pra usar uns painéis de musselina. Tem uns que já vêm com uns fundos impressos. E adivinha qual é o funo mais popular."
+    sy "Dá pra usar uns painéis de musselina. Tem uns que já vêm com uns fundos impressos. E adivinha só qual é o fundo mais popular."
 
 # game/code/scenes/main_story/sm1ms012.rpy:166
 translate portuguese sm1ms012_180f6f13:
@@ -404,7 +404,7 @@ translate portuguese sm1ms012_ad2b4a87:
 translate portuguese sm1ms012_024eed1a:
 
     # sy "As long as it's kept kind of blurry."
-    sy "Desde que fique meio fora de embaçado."
+    sy "Desde que fique meio fora de foco."
 
 # game/code/scenes/main_story/sm1ms012.rpy:174
 translate portuguese sm1ms012_e4aae5a1:
@@ -434,7 +434,7 @@ translate portuguese sm1ms012_197c633f:
 translate portuguese sm1ms012_309ab961:
 
     # sy "I think so. They all seem to go to this website. At least that's what I've found on the internet."
-    sy "Acho que sim. Parece que toas vão nesse site. Pelo menos é o que eu vi na internet."
+    sy "Acho que sim. Parece que todas vão nesse site. Pelo menos é o que eu vi na internet."
 
 # game/code/scenes/main_story/sm1ms012.rpy:187
 translate portuguese sm1ms012_f91ae6fb:
@@ -506,13 +506,13 @@ translate portuguese sm1ms012_40ad57af:
 translate portuguese sm1ms012_f8e7f242:
 
     # sy "What are you thinking about, stud?"
-    sy "Tá pensando on que, garanhão?"
+    sy "Tá pensando no que, garanhão?"
 
 # game/code/scenes/main_story/sm1ms012.rpy:219
 translate portuguese sm1ms012_e644fac5:
 
     # mc "It's just... all starting to feel real, you know?"
-    mc "É que tipo... tá começando a fica real, sabe?"
+    mc "É que tipo... tá começando a ficar sério, sabe?"
 
 # game/code/scenes/main_story/sm1ms012.rpy:220
 translate portuguese sm1ms012_2f93dbf4:
@@ -530,7 +530,7 @@ translate portuguese sm1ms012_70db2923:
 translate portuguese sm1ms012_722f26c0:
 
     # mc "And I can just see it now... the backdrops, cameras... the big lights."
-    mc "Eu tô até vendo agora... os fundo, câmeras... as luzes grandonas."
+    mc "Eu tô até vendo agora... os fundos, câmeras... as luzes grandonas."
 
 # game/code/scenes/main_story/sm1ms012.rpy:230
 translate portuguese sm1ms012_686bd857:
@@ -608,7 +608,7 @@ translate portuguese sm1ms012_779a4a34:
 translate portuguese sm1ms012_b0104bc3:
 
     # mc "Not any more than we already were."
-    mc "Não mais que já estava."
+    mc "Não mais do que já estava."
 
 # game/code/scenes/main_story/sm1ms012.rpy:259
 translate portuguese sm1ms012_87024dfe:
@@ -650,7 +650,7 @@ translate portuguese sm1ms012_9017a609:
 translate portuguese sm1ms012_f6cd0b2d:
 
     # sy "I'll make some phone calls, get some contractors... get some quotes on what a renovation would cost here..."
-    sy "Vou ligar pra umas pessoas, arrumar fornecedores... fazer um orçamentos de quanto ficaria pra reformar..."
+    sy "Vou ligar pra umas pessoas, arrumar fornecedores... fazer uns orçamentos de quanto ficaria pra reformar..."
 
 # game/code/scenes/main_story/sm1ms012.rpy:272
 translate portuguese sm1ms012_c8312166:
