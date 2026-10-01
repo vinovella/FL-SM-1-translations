@@ -2,7 +2,7 @@
 translate portuguese sm1xc_ns_tl_001_a8706f39:
 
     # tl "Oh. Morning, Nari."
-    tl "Sh. Bom dia, Nari."
+    tl "Ah. Bom dia, Nari."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:12
 translate portuguese sm1xc_ns_tl_001_765e2188:
@@ -74,7 +74,7 @@ translate portuguese sm1xc_ns_tl_001_95538076:
 translate portuguese sm1xc_ns_tl_001_f185a462:
 
     # mc "Why don't you two make breakfast together? Could be a good bonding experience."
-    mc "Por que vocês dois não preparam o café da manhã juntos? Pode ser uma boa pra criar um vínculo."
+    mc "Por que vocês não preparam o café da manhã juntas? Pode ser uma boa pra criar um vínculo."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:61
 translate portuguese sm1xc_ns_tl_001_ba955b8c:
@@ -344,19 +344,19 @@ translate portuguese sm1xc_ns_tl_001_1c408ac7:
 translate portuguese sm1xc_ns_tl_001_1d52d34e:
 
     # ns "*freezes and blushes* That— That's highly unhygienic! Raw flour can harbor bacteria and— and—"
-    ns "*congela e cora* Isso— Isso é altamente anti-higiênico! Farinha crua pode abrigar bactérias e— e—"
+    ns "*congela e cora* Isso— Isso é super anti-higiênico! Trigo cru pode ter bactérias e— e—"
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:204
 translate portuguese sm1xc_ns_tl_001_ae80dd7c:
 
     # tl "*grins* Honey, that doesn't even register on the scale of \"unhygienic\" things I could do to you."
-    tl "*abre um sorriso* Querida, isso nem aparece na escala das coisas \"anti-higiênicas\" que eu poderia fazer com você."
+    tl "*sorri* Querida, isso nem aparece na escala das coisas \"anti-higiênicas\" que eu poderia fazer com você."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:208
 translate portuguese sm1xc_ns_tl_001_4b39fc20:
 
     # ns "I—{w} Oh no, the pancake!"
-    ns "Eu—{w} Ah não, a panqueca!"
+    ns "Eu—{w} Putz, a panqueca!"
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:212
 translate portuguese sm1xc_ns_tl_001_27045d3c:
@@ -368,13 +368,13 @@ translate portuguese sm1xc_ns_tl_001_27045d3c:
 translate portuguese sm1xc_ns_tl_001_25039a05:
 
     # mc "Taisia, no flirting with the line cook until service is over. We just got the place done up nice."
-    mc "Taisia, nada de flertar com a cozinheira de linha até o serviço terminar. A gente acabou de deixar esse lugar bonitinho."
+    mc "Taisia, nada de paquerar com a cozinheira até o serviço terminar. A gente acabou de deixar esse lugar bonitinho."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:217
 translate portuguese sm1xc_ns_tl_001_58ccdf1a:
 
     # tl "*shrugs and smirks* No promises. She's cute, and it's fun making her blush."
-    tl "*dá de ombros e sorri de lado* Não prometo nada. Ela é fofa, e é divertido fazer ela corar."
+    tl "*dá de ombros e sorri* Não prometo nada. Ela é fofa, e é divertido fazer ela corar."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:220
 translate portuguese sm1xc_ns_tl_001_6a1843fd:
@@ -392,7 +392,7 @@ translate portuguese sm1xc_ns_tl_001_b8cf75d5:
 translate portuguese sm1xc_ns_tl_001_22822bc4:
 
     # ns "The combination of flavors would be discordant. Truffles have an earthy profile that would clash with sweet maple syrup."
-    ns "A combinação de sabores seria dissonante. Trufas têm um perfil terroso que entraria em conflito com o doce do xarope de bordo."
+    ns "A combinação de sabores seria dissonante. Trufas têm um perfil forte que entraria em conflito com o doce do xarope de bordo."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:232
 translate portuguese sm1xc_ns_tl_001_95db8d87:
@@ -428,7 +428,7 @@ translate portuguese sm1xc_ns_tl_001_834dec66:
 translate portuguese sm1xc_ns_tl_001_0e5c43ee:
 
     # ns "It's not as weird as wanting to be choked during sex. Statistically, that's a far greater deviation from the norm."
-    ns "Não é tão estranho quanto querer ser estrangulada durante o sexo. Estatisticamente, isso é um desvio muito maior da norma."
+    ns "Não é tão estranho quanto querer ser estrangulada durante o sexo. Estatisticamente, isso é muito mais fora do normal."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:248
 translate portuguese sm1xc_ns_tl_001_55633e8b:
@@ -446,7 +446,7 @@ translate portuguese sm1xc_ns_tl_001_5157ef9b:
 translate portuguese sm1xc_ns_tl_001_9dafbff2:
 
     # ns "From your video. I analyzed the micro-expressions during the climactic scene."
-    ns "Do seu vídeo. Eu analisei as microexpressões durante a cena de clímax."
+    ns "Do seu vídeo. Eu analisei as microexpressões durante o clímax."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:254
 translate portuguese sm1xc_ns_tl_001_1f91a01c:
@@ -464,19 +464,19 @@ translate portuguese sm1xc_ns_tl_001_10974cf1:
 translate portuguese sm1xc_ns_tl_001_043a662d:
 
     # tl "I love it."
-    tl "Eu adorei."
+    tl "Adorei."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:262
 translate portuguese sm1xc_ns_tl_001_5bf45088:
 
     # ns "*beams* I'm glad my analysis was well-received!"
-    ns "*ilumina o rosto* Fico feliz que a minha análise tenha sido bem recebida!"
+    ns "*alegre* Fico feliz que a minha análise tenha sido bem recebida!"
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:268
 translate portuguese sm1xc_ns_tl_001_f545278b:
 
     # ns "I've never actually lived with non-family roommates before."
-    ns "Eu na verdade nunca morei com colegas de casa que não fossem da família."
+    ns "Eu na verdade nunca morei com colegas de quarto que não fossem da família."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:271
 translate portuguese sm1xc_ns_tl_001_8a77ceb7:
@@ -488,7 +488,7 @@ translate portuguese sm1xc_ns_tl_001_8a77ceb7:
 translate portuguese sm1xc_ns_tl_001_56d6709b:
 
     # ns "Like communal breakfast?"
-    ns "Como café da manhã comunitário?"
+    ns "Tipo café da manhã comunitário?"
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:276
 translate portuguese sm1xc_ns_tl_001_2ca8dc9d:
@@ -584,7 +584,7 @@ translate portuguese sm1xc_ns_tl_001_e516b7f0:
 translate portuguese sm1xc_ns_tl_001_491f198f:
 
     # tl "*shrugs* We'll see if it sticks. As long as I don't have to be up at Nari's asscrack-of-dawn hours."
-    tl "*dá de ombros* Vamos ver se pega. Contanto que eu não tenha que acordar no cu do mundo igual a Nari."
+    tl "*dá de ombros* Vamos ver se pega. Contanto que eu não tenha que acordar cedo pra caralho igual a Nari."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:326
 translate portuguese sm1xc_ns_tl_001_b35ec09a:
@@ -632,7 +632,7 @@ translate portuguese sm1xc_ns_tl_001_9392ab2c:
 translate portuguese sm1xc_ns_tl_001_0ba7e4ec:
 
     # ns "That sounds like high praise."
-    ns "Isso soa como um grande elogio."
+    ns "Isso parece um grande elogio."
 
 # game/code/scenes/cross_characters/sm1xc_ns_tl_001.rpy:348
 translate portuguese sm1xc_ns_tl_001_5f3bfdc5:
