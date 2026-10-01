@@ -152,7 +152,7 @@ translate portuguese sm1cs_am007_79bc2e75:
 translate portuguese sm1cs_am007_5f136771:
 
     # ps "Okay, {i}maybe{/i} you have a point..."
-    ps "Tá, {i}talvez{/i} você tem razão..."
+    ps "Tá, {i}talvez{/i} você tenha razão..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:117
 translate portuguese sm1cs_am007_4ad97173:
@@ -164,7 +164,7 @@ translate portuguese sm1cs_am007_4ad97173:
 translate portuguese sm1cs_am007_a7ecaad8:
 
     # mcon "Hopefully this means you can at {i}least{/i} do the other thing for us, April."
-    mcon "Espero que isso signifique que possa {i}pelo menos{/i} fazer a outra coisa pra gente, April."
+    mcon "Espero que isso signifique que você possa {i}pelo menos{/i} fazer a outra coisa pra gente, April."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:122
 translate portuguese sm1cs_am007_9436eb46:
@@ -212,7 +212,7 @@ translate portuguese sm1cs_am007_27c91aa1:
 translate portuguese sm1cs_am007_6ac5c548:
 
     # mcon "So you're really going to put working for those squares above the good of the band?"
-    mcon "Então você vai mesmo dar mais importância trabalhar pra esses engomadinhos que pra banda?"
+    mcon "Então você vai mesmo dar mais importância a trabalhar pra esses engomadinhos que pra banda?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:135
 translate portuguese sm1cs_am007_da66fea5:
@@ -716,13 +716,13 @@ translate portuguese sm1cs_am007_e95ac8fd:
 translate portuguese sm1cs_am007_9a8063eb:
 
     # am "To take back your {b}absurd{/b} statement."
-    am "De retirar essa resposta {b}absurda{/b}."
+    am "De retirar esse comentário {b}absurdo{/b}."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:358
 translate portuguese sm1cs_am007_d236baa9:
 
     # am "That you just made about your girlfriend."
-    am "Que você acabou de dar à sua namorada."
+    am "Que você acabou de fazer sobre a sua namorada."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:359
 translate portuguese sm1cs_am007_420ee239:
@@ -848,7 +848,7 @@ translate portuguese sm1cs_am007_jogging_27b012b1:
 translate portuguese sm1cs_am007_jogging_a5dd2128:
 
     # am "The distance is equivalent to that of a marathon."
-    am "A distância equivale uma maratona."
+    am "A distância equivale a de uma maratona."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:430
 translate portuguese sm1cs_am007_jogging_2b6524bc:
@@ -1052,7 +1052,7 @@ translate portuguese sm1cs_am007_20_minutes_later_e0653a9a:
 translate portuguese sm1cs_am007_20_minutes_later_ca393711:
 
     # mc "You don't want to pull a hammy."
-    mc "Não seria bom ter câimbra na panturrilha."
+    mc "Não seria bom distender um músculo."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:562
 translate portuguese sm1cs_am007_20_minutes_later_7d8134fe:
@@ -1214,7 +1214,7 @@ translate portuguese sm1cs_am007_jogging_continue_a64e8bc0:
 translate portuguese sm1cs_am007_jogging_continue_95cbe1f7:
 
     # am "The police station is not far."
-    am "A polícia não é longe."
+    am "A polícia não fica longe."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:671
 translate portuguese sm1cs_am007_jogging_continue_0f1c3bfd:
@@ -2018,7 +2018,7 @@ translate portuguese sm1cs_am007_one_hour_later_08dfc3d1:
 translate portuguese sm1cs_am007_one_hour_later_f49fff8f:
 
     # mc "Yeah?"
-    mc "É..."
+    mc "É?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1104
 translate portuguese sm1cs_am007_one_hour_later_a2d98c0a:
@@ -2060,7 +2060,7 @@ translate portuguese sm1cs_am007_one_hour_later_2ee33b29:
 translate portuguese sm1cs_am007_one_hour_later_ac370935:
 
     # mc "I didn't think you wanted our first time to be something crazy like this."
-    mc "Não achei que você fosse querer que a primeira vez que fosse tão louca."
+    mc "Não achei que você fosse querer que a nossa primeira vez que fosse tão louca."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1128
 translate portuguese sm1cs_am007_one_hour_later_0a4aa5ad:
@@ -2186,7 +2186,7 @@ translate portuguese sm1cs_am007_one_hour_later_4fce0f53_1:
 translate portuguese sm1cs_am007_one_hour_later_b3a91b79:
 
     # am "Please don't make me wait any more, [mcname]."
-    am "Por favor, [mcname],  não me deixa mais esperando."
+    am "Por favor, [mcname], não me deixa mais esperando."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1190
 translate portuguese sm1cs_am007_one_hour_later_ace625cb:
@@ -2342,7 +2342,7 @@ translate portuguese sm1cs_am007_one_hour_later_b10fa58c:
 translate portuguese sm1cs_am007_one_hour_later_ac7acec1:
 
     # am "There is something so... animalistic about a man spilling his load inside a woman..."
-    am "Tem algo tão... animalístico num homem esporrando dentro de uma mulher."
+    am "Tem algo tão... animalístico num homem esporrando dentro de uma mulher..."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1254
 translate portuguese sm1cs_am007_one_hour_later_7a028b29:
@@ -2402,7 +2402,7 @@ translate portuguese sm1cs_am007_one_hour_later_a9c0e1eb:
 translate portuguese sm1cs_am007_one_hour_later_2f92365c:
 
     # am "Helping to fuck his girlfriend nice and hard when she's struggling."
-    am " Ajudando a namorada com os problemas com uma boa trepada."
+    am "Ajudando a namorada com os problemas com uma boa trepada."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1286
 translate portuguese sm1cs_am007_one_hour_later_b4a41fd4:
@@ -2456,7 +2456,7 @@ translate portuguese sm1cs_am007_one_hour_later_3eb067d9:
 translate portuguese sm1cs_am007_one_hour_later_7d6cfb4e:
 
     # am "People you met where?"
-    am "Pessoas que nem aonde?"
+    am "Pessoas que nem conheceu onde?"
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:1304
 translate portuguese sm1cs_am007_one_hour_later_09eb76ba:
@@ -2572,7 +2572,7 @@ translate portuguese strings:
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
     old "I have heard of the general concept"
-    new "Ouvi falar no conceito."
+    new "Ouvi falar no conceito"
 
     # game/code/scenes/it_office/am/sm1cs-am007.rpy:286
     old "Pretty good. I pretty much walk or jog everywhere"
@@ -2668,7 +2668,7 @@ translate portuguese sm1cs_am007_ed615167:
 translate portuguese sm1cs_am007_44f8eb4e:
 
     # ps "We should have listened better and we should accept that sometimes you're going to miss practice."
-    ps "A gente devia ter ouvido melhor e aceitar que às vezes você vai faltar no ensaio."
+    ps "A gente devia ter ouvido melhor e aceitado que às vezes você vai faltar no ensaio."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:212
 translate portuguese sm1cs_am007_c4c994b5:
@@ -2680,7 +2680,7 @@ translate portuguese sm1cs_am007_c4c994b5:
 translate portuguese sm1cs_am007_45358e8c:
 
     # am "And this week has been order on the double-shit sandwich."
-    am "E essa semana foi pedido de sanduíche duplo de merda."
+    am "E essa semana foi só sanduíche duplo de merda."
 
 # game/code/scenes/it_office/am/sm1cs-am007.rpy:525
 translate portuguese sm1cs_am007_20_minutes_later_01c49227:
