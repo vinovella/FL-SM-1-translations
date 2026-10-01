@@ -680,7 +680,7 @@ translate portuguese sm1cs_dc010_later_5ef70042:
 translate portuguese sm1cs_dc010_later_6e339d91:
 
     # dc "Thank goodness. I'm parched."
-    dc "Graças a Deus. Estou morrendo sede."
+    dc "Graças a Deus. Estou morrendo de sede."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:333
 translate portuguese sm1cs_dc010_later_59dd503e:
@@ -1394,7 +1394,7 @@ translate portuguese sm1cs_dc010_later_aa0aadd3:
 translate portuguese sm1cs_dc010_later_6eb439e2:
 
     # dc "I, uhm, think I'm going to go wash off quick."
-    dc "Eu, ahm, acho que vou me arrumar rapidinho."
+    dc "Eu, ahm, acho que vou me lavar rapidinho."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:601
 translate portuguese sm1cs_dc010_later_acf8f395:
@@ -2072,7 +2072,7 @@ translate portuguese sm1cs_dc010_end_3eca6676:
 translate portuguese sm1cs_dc010_end_c47972b6:
 
     # mc "Stacy! You must be able to read my mind!"
-    mc "Stacy. Você deve ter lido a minha mente!"
+    mc "Stacy! Você deve ter lido a minha mente!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:856
 translate portuguese sm1cs_dc010_end_5ef43fce:
@@ -2204,7 +2204,7 @@ translate portuguese sm1cs_dc010_end_b0a541fc:
 translate portuguese sm1cs_dc010_end_eeaef2c3:
 
     # mc "Some because they're nice, and you, because you're a feral little gremlin!"
-    mc "Algumas porque são legais, e você porque é um duendinha selvagem!"
+    mc "Algumas porque são legais, e você porque é uma duendinha selvagem!"
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:900
 translate portuguese sm1cs_dc010_end_a57d9a52:
@@ -2268,7 +2268,7 @@ translate portuguese sm1cs_dc010_later_0a088038:
 translate portuguese sm1cs_dc010_later_118db1de:
 
     # jc "\"Evening, officers\", pfft."
-    jc "\"Boa noite, oficiais\", pfft."
+    jc "\"Boa noite, policiais\", pfft."
 
 # game/code/scenes/character_scenes/dc/sm1cs-dc010.rpy:185
 translate portuguese sm1cs_dc010_later_313100aa:
