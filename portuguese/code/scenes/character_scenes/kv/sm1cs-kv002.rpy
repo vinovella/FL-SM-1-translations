@@ -8,7 +8,7 @@ translate portuguese sm1cs_kv002_9356c126:
 translate portuguese sm1cs_kv002_2ea7f9eb:
 
     # kv "Hey [mcname]. Haha. You have a talent for showing up just at the end of my shoots."
-    kv "Oi, [mcname]. Haha. Votá é bom em aparecer logo quando eu tô pra acabar os ensaios."
+    kv "Oi, [mcname]. Haha. Você é bom em aparecer logo quando eu tô pra acabar os ensaios."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:29
 translate portuguese sm1cs_kv002_decc9713:
@@ -74,7 +74,7 @@ translate portuguese sm1cs_kv002_a1f184e9_2:
 translate portuguese sm1cs_kv002_83efe65b:
 
     # kv "Did you learn a little bit about photography since I saw you last?"
-    kv "Você aprendeu alguma coisa de fotografia desde que a gente se viu."
+    kv "Você aprendeu alguma coisa de fotografia desde que a gente se viu?"
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:61
 translate portuguese sm1cs_kv002_23985d8c:
@@ -104,7 +104,7 @@ translate portuguese sm1cs_kv002_7102a16d:
 translate portuguese sm1cs_kv002_eb75f576:
 
     # mc "The sensitivity of the sensor to light."
-    mc "A sensibilidade do sensor à luz?"
+    mc "A sensibilidade do sensor à luz."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:73
 translate portuguese sm1cs_kv002_b61455f7:
@@ -194,7 +194,7 @@ translate portuguese sm1cs_kv002_11455b53:
 translate portuguese sm1cs_kv002_9ae2eac4:
 
     # kv "Well I got all the photos I need, and I feel good about it. So if it's okay with her, she could do some modelling for us and you can try getting behind the camera."
-    kv "Bem, eu já tirei todas as fotos que eu precisava, gostei delas. Então se ela achar legal, poderia posar pra gente, e você para poder treinar na câmera."
+    kv "Bem, eu já tirei todas as fotos que precisava, gostei delas. Então se ela achar legal, poderia posar pra gente, e você poderia treinar na câmera."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:110
 translate portuguese sm1cs_kv002_1a015882:
@@ -506,7 +506,7 @@ translate portuguese sm1cs_kv002_1559a009:
 translate portuguese sm1cs_kv002_87442d6e:
 
     # mc "That's my address. Send me a message when you want to stop by."
-    mc "Aqui no endereço. Manda uma mensagem quando quiser passar lá."
+    mc "Aqui o meu endereço. Manda uma mensagem quando quiser passar lá."
 
 # game/code/scenes/character_scenes/kv/sm1cs-kv002.rpy:259
 translate portuguese sm1cs_kv002_15ff6a8a:
