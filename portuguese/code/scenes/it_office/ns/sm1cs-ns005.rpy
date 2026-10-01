@@ -8,7 +8,7 @@ translate portuguese sm1cs_ns005_62226fad:
 translate portuguese sm1cs_ns005_18363494:
 
     # mct "Or whatever she was talking about last time."
-    mct "Ou seja lá o que ela estava fazendo da outra vez."
+    mct "Ou seja lá o que ela estava falando da outra vez."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:41
 translate portuguese sm1cs_ns005_08e37b82:
@@ -230,7 +230,7 @@ translate portuguese sm1cs_ns005_in_bathroom_05c65750:
 translate portuguese sm1cs_ns005_in_bathroom_0bf2c4cf:
 
     # mct "Okay, I should say something. Before we do something we'll regret."
-    mct "Tá. Tenho que falar alguma coisa. Antes que eu faça algo que vá me arrepender."
+    mct "Tá. Tenho que falar alguma coisa. Antes que a gente faça algo que vamos nos arrepender."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:182
 translate portuguese sm1cs_ns005_in_bathroom_d91489ac:
@@ -1070,19 +1070,19 @@ translate portuguese sm1cs_ns005_after_cum_cb70afb1:
 translate portuguese sm1cs_ns005_after_cum_92e5ef40:
 
     # ns "So, where are you thinking of taking me out to dinner?"
-    ns "Então, estava pensando em me chamar para jantar?"
+    ns "Então, onde estava pensando em me levar para jantar?"
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:638
 translate portuguese sm1cs_ns005_after_cum_fabcbb93:
 
     # mc "Wow. You can really turn on a dime."
-    mc "Eita. Você muda num instante."
+    mc "Eita. Você muda de marcha num instante."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:641
 translate portuguese sm1cs_ns005_after_cum_cd7370be:
 
     # mc "And then some."
-    mc "E põe eficiente."
+    mc "E como."
 
 # game/code/scenes/it_office/ns/sm1cs-ns005.rpy:647
 translate portuguese sm1cs_ns005_after_cum_3cdbd291:
